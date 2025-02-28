@@ -1,0 +1,33 @@
+{
+    "ArticleID": 12,
+    "Authors": "Poremski, Daniel; Hwang, Stephen W.",
+    "Article Title": "Willingness of Housing First Participants to Consider Supported-Employment Services",
+    "Abstract": "Objective: People who had a recent history of homelessness and had mental illness were studied to determine how many wished to be employed and were willing to accept supported-employment services and the factors associated with a decision to decline services.Methods: People (N=194) with mental illness receiving Housing First were assessed at three-month intervals over 24 months. Analyses determined variables that were associated with accepting or declining randomization to supported-employment services. A regression model was used to determine the odds of obtaining employment.Results: Of the 133 (69%) participants who wanted work, 75 (56%) accepted and 58 (44%) declined randomization to services. Those who declined had lower odds of obtaining employment (OR=.42, p=.022), less education, and fewer arrests and had spent less time homeless.Conclusions: People with a recent history of homelessness who have a mental illness want work. People who declined randomization to supported-employment services had fewer barriers to employment but had reduced odds of obtaining employment.",
+    "DOI": "10.1176/appi.ps.201500140",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a regression model, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention (supported-employment services) and lacks measures of employment outcomes. It focuses on willingness to consider supported-employment services rather than evaluating its effectiveness.",
+            "study_design": "Cross-sectional with longitudinal assessment over 24 months",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the willingness of Housing First participants to consider supported-employment services, not on the effectiveness of the intervents themselves.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 7,
+    "Authors": "Sveinsdottir, Vigdis; Bond, Gary R.",
+    "Article Title": "Barriers to employment for people with severe mental illness and criminal justice involvement",
+    "Abstract": "Background: People with severe mental illness (SMI) and criminal justice involvement (CJI) are able to achieve competitive employment when provided with evidence-based services, but outcomes are modest compared to studies of SMI in general. Aims: To investigate barriers to employment facing people with SMI and CJI receiving employment services. Method: Employment service providers assessed top three barriers to employment for 87 people with SMI and CJI enrolled in a randomized controlled trial comparing a job club program to supported employment. Main barriers were identified and differences between programs were analyzed. Associations between barriers and client background characteristics were investigated. Results: The most common barriers were failure to engage and disengagement from services, followed by substance abuse. Staff from the two employment programs reported similar barriers. Conclusions: Engagement problems were the single most important barrier to employment across programs. Surprisingly, criminal history was rarely mentioned. This may be explained by barriers arising earlier in the process, before achieving employer contact. The results call for recognition and awareness of the importance of motivational issues as well as factors that may inhibit engagement in services, highlighting possible augmentations to evidence-based employment services that may be necessary in the rehabilitation of this patient group.",
+    "DOI": "10.1080/09638237.2017.1417556",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US and Canada, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and is based on self-reported barriers assessed by employment service providers rather than a randomized controlled trial or other robust experimental design.",
+            "study_design": "Survey of participants in a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on people with severe mental illness and criminal justice involvement, which is not explicitly mentioned in the inclusion criteria regarding the population with mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT and includes relevant interventions (supported employment) and population (people with mental disorders). It also reports on employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

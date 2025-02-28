@@ -5,28 +5,28 @@
     "Abstract": "This study examined the population-based reach of Veterans Health Administration (VHA) employment services to VHA patients with psychiatric diagnoses. Reach of services includes the percentage and characteristics of people who accessed services compared with those who did not. Using clinical administrative data, we identified patients with a psychiatric diagnosis among a random sample of all patients who received VHA services in 1 yr. Among VHA patients with psychiatric diagnoses, we examined their likelihood of receiving any VHA employment services and specific types of employment services, including supported employment, transitional work, incentive therapy, and vocational assistance. We identified clinical and demographic characteristics associated with receiving employment services. Results indicated that 4.2% of VHA patients with a psychiatric diagnosis received employment services. After adjusting for clinical and demographic characteristics, VHA patients with schizophrenia and bipolar disorder were more likely to receive any employment services and to receive supported employment than were patients with depression, PTSD, or other anxiety disorders. VHA patients with depression and PTSD were more likely to receive transitional work and vocational assistance than patients with schizophrenia. Future studies should examine system-level barriers to receiving employment services and identify types of employment services most appropriate for Veterans with different psychiatric diagnoses.",
     "DOI": "10.1682/JRRD.2013.05.0114",
     "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a population-based analysis using clinical administrative data, which lacks a rigorous evaluation and control group.",
+            "study_design": "Population-based analysis",
+            "logprobs": null
+        },
         "qwen2.5-7b-instruct-1m": {
             "inclusion_decision": "Excluded",
-            "reason": "The study does not directly address the outcomes related to employment or labor results as specified in the inclusion criteria.",
+            "reason": "The study does not directly address the outcomes related to employment or labor results. It focuses on the reach and types of employment services received by VHA patients with psychiatric diagnoses.",
             "study_design": "Cross-sectional analysis using clinical administrative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies but rather on the reach of employment services among Veterans with psychiatric diagnoses. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Cohort study",
             "logprobs": null
         },
         "mistral-small-24b-instruct-2501": {
             "inclusion_decision": "Excluded",
-            "reason": "The study does not include a control group or rigorous evaluation, and it is not clear if the outcomes measure employment or labor results.",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
             "study_design": "Observational study",
-            "logprobs": null
-        },
-        "phi-4": {
-            "inclusion_decision": "Unclear",
-            "reason": "Invalid response structure",
-            "study_design": null,
-            "logprobs": null
-        },
-        "llama-3.2-3b-instruct": {
-            "inclusion_decision": "Excluded",
-            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a population-based analysis using clinical administrative data, which does not meet the inclusion criteria for a systematic review or meta-analysis with a control group.",
-            "study_design": "Population-based analysis using clinical administrative data",
             "logprobs": null
         }
     }

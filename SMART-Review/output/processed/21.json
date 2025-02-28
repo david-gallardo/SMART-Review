@@ -1,0 +1,33 @@
+{
+    "ArticleID": 21,
+    "Authors": "Holtyn, August F.; Toegel, Forrest; Subramaniam, Shrinidhi; Arellano, Meghan; Leoutsakos, Jeannie-Marie; Fingerhood, Michael; Silverman, Kenneth",
+    "Article Title": "Financial incentives promote engagement in employment services for unemployed adults in treatment for opioid use disorder",
+    "Abstract": "Background: Promoting employment among unemployed adults with substance use disorder is a difficult challenge for which existing interventions have had limited effects. This study examined whether financial incentives could increase engagement in employment services for unemployed adults in treatment for opioid use disorder.Methods: The study was conducted from 2014 to 2019 in Baltimore, MD. After a 3-month abstinence initiation and training period, participants (N = 91) were randomly assigned to a Control group or an Incentive group and were invited to work with an employment specialist to seek employment in a community job for 12 months. Participants assigned to the Control group (n = 47) did not receive incentives for working with the employment specialist. Participants assigned to the Incentive group (n = 44) could earn financial incentives for working with the employment specialist, but had to provide opiate- and cocaine-negative urine samples to maximize pay.Results: Incentive participants attended the employment services and worked with the employment specialist on significantly more days than Control participants (41.8 % versus 1.1 % of days; OR = 40.42, 95 % CI = 32.46-48.38, p < .001), and for significantly more hours than Control participants (3.58 versus 1.25 h, on average; OR = 2.34, 95 % CI =1.83 - 2.85, p < .001). Incentive participants were more likely to be retained than Control participants when analyses were based solely on attendance (HR = 0.12, 95 % CI = 0.06 - 0.25, p < .001) and attendance and employment combined (FIR = 0.15, 95 % CI= 0.07 -0.31, p < .001).Conclusions: Financial incentives were effective in promoting engagement in employment services for individuals who often do not utilize employment services.",
+    "DOI": "10.1016/j.drugalcdep.2020.107982",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address people with mental disorders. It focuses on unemployed adults in treatment for opioid use disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployed adults with substance use disorder, not specifically on people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders specifically but rather substance use disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

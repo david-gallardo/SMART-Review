@@ -1,0 +1,33 @@
+{
+    "ArticleID": 11,
+    "Authors": "Alegria, Margarita; Drake, Robert E.; Kang, Hyeon-Ah; Metcalfe, Justin; Liu, Jingchen; DiMarzio, Karissa; Ali, Naomi",
+    "Article Title": "Simulations Test Impact Of Education, Employment, And Income Improvements On Minority Patients With Mental Illness",
+    "Abstract": "Social determinants of health, such as poverty and minority background, severely disadvantage many people with mental disorders. A variety of innovative federal, state, and local programs have combined social services with mental health interventions. To explore the potential effects of such supports for addressing poverty and disadvantage on mental health outcomes, we simulated improvements in three social determinants-education, employment, and income. We used two large data sets: one from the National Institute of Mental Health that contained information about people with common mental disorders such as anxiety and depression, and another from the Social Security Administration that contained information about people who were disabled due to severe mental disorders such as schizophrenia and bipolar disorder. Our simulations showed that increasing employment was significantly correlated with improvements in mental health outcomes, while increasing education and income produced weak or nonsignificant correlations. In general, minority groups as well as the majority group of non-Latino whites improved in the desired outcomes. We recommend that health policy leaders, state and federal agencies, and insurers provide evidence-based employment services as a standard treatment for people with mental disorders.",
+    "DOI": "10.1377/hlthaff.2017.0044",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design lacks a rigorous evaluation or no control group. The study is a simulation and does not present a control group.",
+            "study_design": "Simulation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is based on simulations and lacks a rigorous evaluation or control group. Additionally, the population is not specifically defined in terms of mental health disorders.",
+            "study_design": "Simulation Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions but rather on the impact of social determinants on mental health outcomes. It also lacks a control group and does not specify job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Simulation study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Simulation Study",
+            "logprobs": null
+        }
+    }
+}

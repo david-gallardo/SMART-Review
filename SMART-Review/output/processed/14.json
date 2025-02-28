@@ -1,0 +1,33 @@
+{
+    "ArticleID": 14,
+    "Authors": "Barman-Adhikari, Anamika; Rice, Eric",
+    "Article Title": "Social networks as the context for understanding employment services utilization among homeless youth",
+    "Abstract": "Little is known about the factors associated with use of employment services among homeless youth. Social network characteristics have been known to be influential in motivating people's decision to seek services. Traditional theoretical frameworks applied to studies of service use emphasize individual factors over social contexts and interactions. Using key social network, social capital, and social influence theories, this paper developed an integrated theoretical framework that capture the social network processes that act as barriers or facilitators of use of employment services by homeless youth, and understand empirically, the salience of each of these constructs in influencing the use of employment services among homeless youth. We used the Event based-approach strategy to recruit a sample of 136 homeless youth at one drop-in agency serving homeless youth in Los Angeles, California in 2008. The participants were queried regarding their individual and network characteristics. Data were entered into NetDraw 2.090 and the spring embedder routine was used to generate the network visualizations. Logistic regression was used to assess the influence of the network characteristics on use of employment services. The study findings suggest that social capital is more significant in understanding why homeless youth use employment services, relative to network structure and network influence. In particular, bonding and bridging social capital were found to have differential effects on use of employment services among this population. The results from this study provide specific directions for interventions aimed to increase use of employment services among homeless youth. (C) 2014 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.evalprogplan.2014.03.005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a case study with logistic regression analysis.",
+            "study_design": "Case study with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment among people with mental health disorders; it focuses on homeless youth. Additionally, the timeframe is outside of the specified range (2005-2025).",
+            "study_design": "Cross-sectional survey using logistic regression and network analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless youth, not specifically on people with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders and the intervention is not one of the specified types (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

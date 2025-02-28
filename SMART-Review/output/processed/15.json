@@ -1,0 +1,33 @@
+{
+    "ArticleID": 15,
+    "Authors": "Drake, Robert E.; Bond, Gary R.; Goldman, Howard H.; Hogan, Michael F.; Karakus, Mustafa",
+    "Article Title": "Individual Placement And Support Services Boost Employment For People With Serious Mental Illnesses, But Funding Is Lacking",
+    "Abstract": "The majority of people with serious mental illnesses want to work. Individual placement and support services, an evidence-based supported employment intervention, enables about 60 percent of people with serious mental illnesses who receive the services to gain competitive employment and improve their lives, but the approach does not lead to fewer people on government-funded disability rolls. Yet individual placement and support employment services are still unavailable to a large majority of people with serious mental illnesses in the United States. Disability policies and lack of a simple funding mechanism remain the chief barriers. A recent federal emphasis on early-intervention programs may increase access to employment services for people with early psychosis, but whether these interventions will prevent disability over time is unknown.",
+    "DOI": "10.1377/hlthaff.2016.0001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not explicitly state the study design.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (systematic review), geographic scope (US), timeframe (current), intervention (supported employment), population (people with serious mental illnesses), and outcomes (employment rates).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of individual placement and support services on employment for people with serious mental illnesses, which aligns with the intervention criteria. However, the study is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, conducted in the US, published within the specified timeframe, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

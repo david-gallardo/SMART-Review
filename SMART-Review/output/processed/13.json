@@ -1,0 +1,33 @@
+{
+    "ArticleID": 13,
+    "Authors": "Larsson, Sofia; Gunnarsson, David; Vikdahl, Linda",
+    "Article Title": "Social Participation and Mental Health in the Establishment Programme for Newly Arrived Refugees in Sweden-A Document Analysis",
+    "Abstract": "Newly arrived refugees and asylum seekers constitute a vulnerable population in terms of health and social conditions due to lived trauma and experiences of loss, as well as factors in the host country such as not speaking the language, not having employment and social exclusion. Studies have shown that many newly arrived refugees find it difficult to establish a sustainable position in the host country's labour market due to a lack of connections, low levels of education and political, social and cultural barriers. The Swedish Public Employment Service runs an establishment programme aimed at helping newly arrived refugees to find employment quickly and manage their own livelihoods. In this study, we analyse the administrator support document used by Swedish Public Employment Service case workers in their work with the programme to explore whether and how it considers the participants' mental health and conditions for social participation. The results show that despite newly arrived refugees being especially vulnerable in terms of mental health, little attention is paid to these aspects, the possible effects they may have on the programme, the participants' integration into the labour market and Swedish society as a whole.",
+    "DOI": "10.3390/ijerph19084518",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a document analysis, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Document Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on newly arrived refugees rather than people with mental health disorders. It also lacks an intervention related to employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Document analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on newly arrived refugees in general.",
+            "study_design": "Document analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Document Analysis",
+            "logprobs": null
+        }
+    }
+}

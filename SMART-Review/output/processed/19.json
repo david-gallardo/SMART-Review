@@ -1,0 +1,33 @@
+{
+    "ArticleID": 19,
+    "Authors": "Sripada, Rebecca K.; Henry, Jennifer; Yosef, Matheos; Levine, Debra S.; Bohnert, Kipling M.; Miller, Erin; Zivin, Kara",
+    "Article Title": "Occupational Functioning and Employment Services Use Among VA Primary Care Patients With Posttraumatic Stress Disorder",
+    "Abstract": "Objective: Veterans with posttraumatic stress disorder (PTSD) exhibit high levels of unemployment. The Department of Veterans Affairs' Veterans Health Administration (VHA) offers a variety of employment services; however, few veterans with PTSD use these services. Because many veterans with mental health conditions are seen in primary care clinics, employment service needs may be best addressed in this setting. The current study was designed to assess employment status and support needs in VHA primary care patients who screen positive for PTSD. Method: In the study, 287 working-age VHA patients with recent primary care use completed web-based surveys that assessed employment status, PTSD symptoms, employment support preferences, and barriers to service usage. Results: Individuals who screened positive for PTSD were less likely to be employed than were those without PTSD (55% vs. 69%; p = .03). After adjusting for sociodemographic characteristics, individuals with PTSD had higher barriers to employment (beta = 3.52, p < .001) and higher barriers to employment service use (beta = 0.57, p = .02). Only 14% of those with PTSD had used VHA employment services, but 86% said they would use those services. Conclusions: Although the single site included in the study may not be representative of all VHA primary care clinics, our results suggest that there is high need for and substantial interest in VHA employment services among VHA patients with PTSD. Future work should focus on implementing employment support services for individuals with PTSD in primary care settings.",
+    "DOI": "10.1037/tra0000241",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional survey with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the timeframe of 2005-2025, and focuses on employment outcomes for people with mental health disorders, specifically PTSD.",
+            "study_design": "Cross-sectional survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. It also focuses on veterans with PTSD specifically from the VA system, which limits its geographic scope to one country.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with PTSD and does not specifically address employment interventions for people with mental health disorders in general.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

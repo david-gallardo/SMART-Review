@@ -1,4 +1,5 @@
 import os
+import re
 import pandas as pd
 import requests
 import json
@@ -8,7 +9,27 @@ import numpy as np
 from statsmodels.stats.inter_rater import fleiss_kappa
 
 # Set TEST to True to process only the first 5 articles, or False to process all.
-TEST = True
+TEST = False
+
+def extract_json_block(text):
+    """
+    Extract the JSON block from a string by counting matching curly braces.
+    Returns the substring that constitutes the JSON object.
+    """
+    start = text.find('{')
+    if start == -1:
+        return text  # No JSON block found
+    count = 0
+    end = start
+    for i, char in enumerate(text[start:], start=start):
+        if char == '{':
+            count += 1
+        elif char == '}':
+            count -= 1
+            if count == 0:
+                end = i + 1
+                break
+    return text[start:end]
 
 def consult_model(model_name, article_text):
     """
@@ -33,15 +54,15 @@ def consult_model(model_name, article_text):
         "We want to screen an article to see if it meets the following inclusion and exclusion criteria. "
         "The overall objective is to identify what works in active employment policies for people with mental health disorders.\n\n"
         "Inclusion criteria:\n"
-        "• Study design: meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.\n"
-        "• Geographic scope: EU countries, US, Canada, Australia.\n"
+        "• Study design: meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.\n"
+        "• Geographic scope: EU countries, Europe, US, Canada, Australia.\n"
         "• Timeframe: 2005-2025.\n"
         "• Intervention: job search services, adult training, wage subsidies, supported employment.\n"
         "• Population: people with mental disorders or documented mental health problems.\n"
         "• Outcomes: must include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.\n\n"
         "Exclusion criteria:\n"
         "• Study design: lacks a rigorous evaluation or no control group.\n"
-        "• Geographic scope: outside the EU, US, Canada, or Australia.\n"
+        "• Geographic scope: outside the EU, Europe, US, Canada, or Australia.\n"
         "• Timeframe: published before 2005 or after 2025.\n"
         "• Intervention: labor regulation policies, social security policies, or does not directly address employment.\n"
         "• Population: does not reference mental health or has an undefined population.\n"
@@ -54,7 +75,8 @@ def consult_model(model_name, article_text):
         "3. \"study_design\": the type of methodology (e.g., RCT, quasi-experimental, systematic review, etc.)\n"
         "4. \"logprobs\": (optional) placeholder for log probabilities if available.\n\n"
         "Important: Output must be valid JSON with no extra text.\n\n"
-        "Article to Screen:\n" + article_text
+        "Article to Screen:\n" + article_text +
+        "Very Important: Output only a JSON object with no additional text, explanations, or formatting.\n\n"
     )
     
     # Prepare the request body
@@ -85,6 +107,11 @@ def consult_model(model_name, article_text):
     
     # Clean the text (remove markdown delimiters)
     cleaned_text = generated_text.replace("```json", "").replace("```", "").strip()
+    
+    # If the model is phi-3-mini-4k-instruct, extract only the JSON block.
+    if model_name == "phi-3-mini-4k-instruct":
+        cleaned_text = extract_json_block(cleaned_text)
+    
     try:
         parsed_result = json.loads(cleaned_text)
     except Exception as e:
@@ -164,7 +191,7 @@ def main():
     models = [
         "mistral-small-24b-instruct-2501",
         "qwen2.5-7b-instruct-1m",
-        "phi-4",
+        "phi-3-mini-4k-instruct",
         "llama-3.2-3b-instruct"
     ]
     
@@ -182,8 +209,8 @@ def main():
         article_text = f"Title: {row['Article Title']}\n\nAbstract: {row['Abstract']}"
         model_results = {}
         
-        # Parallelize requests to each model (limiting to 2 workers)
-        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+        # Parallelize requests to each model (limiting to 8 workers)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
             future_to_model = {
                 executor.submit(consult_model, model, article_text): model for model in models
             }
