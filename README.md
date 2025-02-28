@@ -12,6 +12,7 @@
 
 ## Repository Structure
 
+```bash
 SMART-Review/ 
 ├── data/ 
 │ ├── raw/ # Original datasets or Excel files 
@@ -33,7 +34,7 @@ SMART-Review/
 ├── README.md # This file 
 ├── LICENSE # License file
 └── requirements.txt # Python dependencies
-
+```
 
 ## Installation
 
