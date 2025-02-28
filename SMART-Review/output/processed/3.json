@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3,
+    "Authors": "Matthews, Lynda R.; Harris, Lynne M.; Jaworski, Alison; Alam, Ashraful; Bozdag, Gokcen",
+    "Article Title": "Function, health and psychosocial needs in job-seekers with anxiety, mood, and psychotic disorders who access disability employment services",
+    "Abstract": "BACKGROUND: Labour force participation of people with mental disorders varies according to the nature of their disorder. Research that compares function and psychosocial need in job-seekers with different mental disorders, however, is scant especially in the Australian setting. Identifying rehabilitation needs of job-seekers with mental disorders receiving employment services is of interest to providers of disability employment services in Australia.OBJECTIVE: This study sought to identify differences in health, social needs and function in people with anxiety, mood, or psychotic disorders accessing disability employment services to inform disability service providers of vocational rehabilitation interventions.PARTICIPANTS: 106 adult job-seekers with anxiety (29%), mood (51%), and psychotic (20%) disorders receiving job placement services from a disability employment service provider consented to participate in this study.METHODS: Self-report measures and the Executive Interview (EXIT) were used to document function. Differences between disorders were determined using one-way analysis of variance.RESULTS: Significantly better estimates of social functioning as measured by the Behaviour and Symptom Identification Scale (BASIS-32) were reported by job-seekers with psychotic disorders compared to those with anxiety or mood disorders. However, job-seekers with psychotic disorders reported longer periods of unemployment compared to those with mood disorders and longer estimates of the time it would take to obtain work compared to both the other groups.CONCLUSIONS: Perceived psychosocial problems, such as poor social function in job-seekers with anxiety and mood disorders and perceptions of poor employability in those with psychotic disorders, should be considered when developing vocational rehabilitation interventions, or where additional support may be required once employment is obtained.",
+    "DOI": "10.3233/WOR-131660",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the outcomes related to employment or labor results as specified in the inclusion criteria.",
+            "study_design": "Cross-sectional survey with self-report measures and one-way analysis of variance",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of the intervention.",
+            "study_design": "Cross-sectional study with no control group",
+            "logprobs": null
+        },
+        "phi-4": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU country of Australia, within the specified timeframe of 2005-2025. The intervention is job placement services from a disability employment service provider, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

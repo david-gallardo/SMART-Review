@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2,
+    "Authors": "Karakus, Mustafa; Riley, Jarnee; Goldman, Howard",
+    "Article Title": "Federal Policies and Programs to Expand Employment Services Among Individuals with Serious Mental Illnesses",
+    "Abstract": "Previous studies suggest that providing employment services to individuals with serious mental illnesses can help them obtain competitive, real-world employment. However, these services are still not easily accessible to this population. This paper provides a brief summary of recent federal initiatives that may influence widespread implementation of employment services. While there is an increasing recognition of the need to remove barriers and provide supported employment services to individuals with mental illnesses, a wide-spread coordination across Federal polices, financing and regulatory changes are necessary to promote measurable and lasting effects on the broad availability of employment services among this population.",
+    "DOI": "10.1007/s10488-017-0794-1",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation or control group and does not present measures of employment or labor results.",
+            "study_design": "Brief summary of federal initiatives without a controlled evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not present measures of employment or labor results.",
+            "study_design": "Policy Review",
+            "logprobs": null
+        },
+        "phi-4": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a brief summary of federal initiatives, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Summary of federal initiatives",
+            "logprobs": null
+        }
+    }
+}

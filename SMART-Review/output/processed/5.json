@@ -1,0 +1,33 @@
+{
+    "ArticleID": 5,
+    "Authors": "Dowler, Denetta L.; Walls, Richard T.",
+    "Article Title": "A Review of Supported Employment Services for People with Disabilities: Competitive Employment, Earnings, and Service Costs",
+    "Abstract": "This study was conducted in order to assess the impact of supported employment services. A systematic search for recent research articles that assessed the value of supported employment services yielded 27 articles that used experimental, causal-comparative, correlational, or descriptive methods. The search terms included combinations of the words supported employment, IPS, DPA, VR, disability, employment, on-the-job supports, natural supports, and fidelity scale. The information from the articles was used to answer three research questions on the topic of supported employment (competitive employment rate, weekly wages, and service costs). Overall, the value and benefit of supported employment services were demonstrated across all research questions.",
+    "DOI": NaN,
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design includes experimental, causal-comparative, correlational, or descriptive methods which do not meet the inclusion criteria (RCTs, quasi-experimental studies with a control group, meta-analyses, systematic reviews of controlled trials). Additionally, it does not specify if the population has mental health disorders or documented mental health problems.",
+            "study_design": "Experimental, causal-comparative, correlational, descriptive methods",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review that includes controlled trials and addresses supported employment for people with disabilities, including mental health disorders. It was conducted within the specified timeframe and geographic scope.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "phi-4": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, which is not explicitly mentioned as a type of study design in the inclusion criteria. However, the inclusion criteria do mention that the study design should be a meta-analysis, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}
