@@ -41,7 +41,7 @@ SMART-Review/
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/yourusername/SMART-Review.git
+   git clone https://github.com/david-gallardo/SMART-Review.git
    cd SMART-Review
    ```
 
