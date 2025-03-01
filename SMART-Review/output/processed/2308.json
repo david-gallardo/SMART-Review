@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2308,
+    "Authors": "Rooman, Claudia; Sterkens, Philippe; Schelfhout, Stijn; Van Royen, Annelies; Baert, Stijn; Derous, Eva",
+    "Article Title": "Successful return to work after burnout: an evaluation of job, person- and private-related burnout determinants as determinants of return-to-work quality after sick leave for burnout",
+    "Abstract": "Purpose Burnout literature has primarily studied determinants and rehabilitation. Remarkably, ways to enable qualitative return to work after burnout are considered considerably less and were studied here. Specifically, building on the Job Demands-Resources model and Effort-Recovery model, this study investigated determinants of the quality of return to work. Material and Methods Hierarchical regression analyses were conducted to evaluate the quality of reintegration among 786 workers who were surveyed about their return to work after a burnout episode. Results Restarting work at a new employer and especially getting supervisor support appeared beneficial, whereas remaining burnout symptoms, stressors in one's private environment and - mostly - neuroticism hampered the quality of return to work. Conclusion Given the high prevalence and important costs burnout entails, primary prevention alone proves insufficient. Current study findings inform on how to optimize the quality of reintegration in the workplace after a burnout episode, demonstrating that supportive managers and inclusive workplaces (i.e., open to hire applicants with a burnout history) are important levers for qualitative return to work, next to ensuring workers are not (so much) impaired by their burnout rest symptoms.",
+    "DOI": "10.1080/09638288.2021.1982025",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study used hierarchical regression analyses without a control group.",
+            "study_design": "Hierarchical regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the quality of return to work after burnout episodes and does not directly evaluate interventions related to active employment policies.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on burnout, not specifically on mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "Hierarchical regression analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}
