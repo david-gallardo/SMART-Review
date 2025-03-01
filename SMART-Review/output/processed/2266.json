@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2266,
+    "Authors": "Schubert, Carol A.; Mulvey, Edward P.; Hawes, Samuel W.; Davis, Maryann",
+    "Article Title": "Educational and Employment Patterns in Serious Adolescent Offenders With Mental Health Disorders: The Importance of Educational Attainment",
+    "Abstract": "This study examines employment and educational outcomes for justice-involved adolescents with and without mental health disorders in the Pathways to Desistance study. We examine the patterns of education and employment and the effects of several factors, including the presence of a mental health disorder, on these positive outcomes. Three findings emerge: (a) youth with mental health problems have a relatively high number of other criminogenic risk factors, (b) education and employment patterns do not differ by disorder status, and (c) the presence of a mental health disorder is not independently linked to poorer employment outcomes, but educational achievement is. These analyses provide information needed to target services for these adolescents in the juvenile justice system, who are at high risk for poor educational and employment outcomes. Results indicate a need for increased emphasis on higher levels of academic attainment as a way to promote positive employment outcomes in these youth.",
+    "DOI": "10.1177/0093854818784330",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather examines employment and educational outcomes for justice-involved adolescents.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions (job search services, adult training, wage subsidies, supported employment) and outcomes (employment rates, job duration, job quality, workplace integration, or job retention) related to active employment policies for people with mental health disorders. It focuses on educational attainment and its impact on employment patterns in justice-involved adolescents with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adolescents with mental health disorders in the juvenile justice system, not adults with mental health disorders in the general population.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adults and the intervention is not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2042,
+    "Authors": "Bergmark, Magnus; Bejerholm, Ulrika; Markstrom, Urban",
+    "Article Title": "Critical Components in Implementing Evidence-based Practice: A Multiple Case Study of Individual Placement and Support for People with Psychiatric Disabilities",
+    "Abstract": "When developing Community Mental Health Services to support people with psychiatric disabilities, European countries are advocating evidence-based practice (EBP). Individual Placement and Support (IPS) is an evidence-based model designed to support people in acquiring and maintaining competitive employment. Implementation science is a growing research field, with a focus on components that impact the process of implementing EBP programmes. In this multiple case study, we have followed three IPS demonstration sites for two years, in order to describe and analyze barriers and facilitators for implementation, according to constructs described in the Consolidated Framework for Implementation Research (Damschroder et al. 2009). The results highlight the importance of strategic networking, as well as the need for planning and preparations carried out before the start of an EBP programme, since deficiencies related to these constructs are difficult to compensate for.",
+    "DOI": "10.1111/spol.12243",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multiple case study, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it is set in EU countries. The intervention is IPS, which is supported employment. The population is people with psychiatric disabilities, and the outcomes include employment or labor outcomes.",
+            "study_design": "Multiple case study (quasi-experimental)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multiple case study and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Multiple Case Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on implementation science and barriers/facilitators for implementing EBP, not directly on employment outcomes or interventions.",
+            "study_design": "Multiple Case Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multiple case study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Multiple Case Study",
+            "logprobs": null
+        }
+    }
+}

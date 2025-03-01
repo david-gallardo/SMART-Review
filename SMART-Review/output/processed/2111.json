@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2111,
+    "Authors": "Solar, Ann",
+    "Article Title": "A supported employment linkage intervention for people with schizophrenia who want a chance to work",
+    "Abstract": "Objective: Investigate feasibility and development of a linkage intervention to the evidence-based Individual Placement and Support (IPS) approach to supported employment (SE) for patients with schizophrenia on a mental health unit who want to work in competitive employment.Method: Literature review about the evidence-based IPS approach to SE in schizophrenia and why it might not be implemented in mental health services. Analysis of 10 adult mental health unit multidisciplinary staff interviews for categories in the literature review of IPS implementation barriers and whether these barriers could be overcome.Results: There was lack of full staff knowledge of the IPS approach to SE. However, all staff knew respect for patient choice was paramount, community employment programs existed for the disabled, an outreach linkage process to such a program and ongoing support for people with schizophrenia would be required. There was staff ambivalence about SE for patients with schizophrenia.Conclusion: Despite staff ambivalence about SE for people with schizophrenia there was still enough staff knowledge and openness to shape an IPS linkage intervention from a staff perspective.",
+    "DOI": "10.1177/1039856214531837",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a literature review and does not meet the inclusion criteria for a meta-analysis, systematic review of controlled trials, or quasi-experimental studies with a control group.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review and analysis of interviews, which does not meet the inclusion criteria for RCTs, quasi-experimental studies with control groups, or systematic reviews of controlled trials.",
+            "study_design": "Literature review and interview analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsphrenia, which is not explicitly mentioned in the inclusion criteria as a population with mental health disorders. The study also does not present employment outcomes, which is a required outcome in the inclusion criteria.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Literature review and qualitative analysis",
+            "logprobs": null
+        }
+    }
+}

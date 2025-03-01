@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2069,
+    "Authors": "Pinto, Andrew D.; Hassell, Nadha; Craig-Neil, Amy",
+    "Article Title": "Employment Interventions in Health Settings: A Systematic Review and Synthesis",
+    "Abstract": "PURPOSE Employment is a key social determinant of health. People who are unemployed typically have worse health than those employed. Illness and disability can result in unemployment and he a harrier to regaining employment. We combined a systematic review and knowledge synthesis to identify both studies of employment interventions in health care settings and common characteristics of successful interventions.METHODS We searched the peer-reviewed literature (1995-2017), and titles and abstracts were screened for inclusion and exclusion criteria by 2 independent reviewers. We extracted data on the study setting, participants, intervention, methods, and findings. We also conducted a narrative synthesis and iteratively developed a conceptual model to inform future primary care interventions.RESULTS Of 6,729 unique citations, 88 articles met our criteria. Most articles (89%) focused on people with mental illness. The majority of articles (74%) tested interventions that succeeded in helping participants gain employment. We identified 5 key features of successful interventions: (1) a multidisciplinary team that communicates regularly and collaborates, (2) a comprehensive package of services, (3) one-on-one and tailored components, (4) a holistic view of health and social needs, and (5) prospective engagement with employers.CONCLUSIONS Our findings can inform new interventions that focus on employment as a social determinant of health. Although hiring a dedicated employment specialist may not be feasible for most primary care organizations, pathways using existing resources with links to external agencies can be created. As precarious work becomes more common, helping patients engage in safe and productive employment could improve health, access to health care, and well-being.",
+    "DOI": "10.1370/afm.2286",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study focuses on people with mental illness, which meets the population criterion. The intervention is job search services, adult training, wage subsidies, and supported employment, which meets the intervention criterion. The study presents measures of employment outcomes, such as employment rates and job duration, which meets the outcome criterion.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it was published before 2005 (1995-2017 timeframe).",
+            "study_design": "Systematic review and knowledge synthesis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the article (1995-2017) does not meet the inclusion criteria (2005-2025).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

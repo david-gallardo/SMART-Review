@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2263,
+    "Authors": "Oliveira, Joaquim Eurico Valentim; Pinto, Jos\u00e9 Fernando Vasconcelos Cabral; Barros, Rita Manuela de Almeida",
+    "Article Title": "A forma\u00e7\u00e3o profissional e a perce\u00e7\u00e3o de sa\u00fade mental dos trabalhadores: estudo comparativo em situa\u00e7\u00e3o de (des)emprego",
+    "Abstract": "Background:the present reconfiguration of the labor market arises in the context of new economic, social and historical events, characterized by complexity, uncertainty, unpredictability and acceleration.Objective:given the psychosocial adaptation required by this context, the present study intends to distinguish workers' self-perception concerning their mental health, according to their participation in vocational training programs, whether they are employed or unemployed.Methods:to achieve this purpose we interviewed 210 workers. To evaluate self-perceived mental health, a Portuguese adaptation of the General Health Questionnaire (G.H.Q.-28) was used .Results:results evidenced significant differences in workers' mental health self-perception. These differences were related to the workers' attendance in vocational programs, with advantage for those attending courses, whether men or women (t=-4.503; p<0.001 and t=-4.737; p<0.001), employed or unemployed (t=-5.551; p<0.001 and t=-2.458; p<0.05). It was also found that the employed workers who continued to join vocational training offers had a significantly more favorable mental health self perception (t=-5.138; p<0.001).Conclusion:results support the hypothesis that involvement in vocational training activities functions as a protective element for workers' mental health.",
+    "DOI": "10.1590/0303-7657000068912",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the specified timeframe. The intervention is vocational training programs, which is one of the included interventions. The population is workers with mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its intervention is not directly related to employment policies such as job search services, adult training, wage subsidies, or supported employment. The focus is on self-perceived mental health in relation to vocational training participation.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational training programs and their impact on workers' self-perceived mental health, which is not directly related to the specified employment outcomes.",
+            "study_design": "Not specified",
+            "logprobs": "Not available"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

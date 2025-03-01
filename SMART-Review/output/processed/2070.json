@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2070,
+    "Authors": "Froyland, Kjetil",
+    "Article Title": "Inclusion of vulnerable youth in school or work - How can individually tailored professional support contribute?",
+    "Abstract": "Researchers and policymakers are worried about the marginalisation of vulnerable youth who drop out of school and work, as a long range of policies and measures developed in many countries have not solved the problem. Several studies suggest individually tailored support as a vital measure, but the details of how such support contributes to inclusion remain unclear. This article explores how individually tailored support can contribute to the inclusion of vulnerable youth in school or work as well as its limitations. Qualitative data from four support processes were drawn from a Norwegian pilot project aimed at the inclusion of vulnerable youth in schools or work. While none of the youth fully completed school or found sustainable work during the observation period, several minor or temporary achievements - often 'soft' outcomes such as trustful relationships or better management of emotions - were reached. These achievements were experienced as vital and important to the youth, their families and to other support organisations involved. Using the capability approach as a lens, I found that individually tailored professional support contributes to bringing forward internal and external resources and transforming these resources into possibilities and capabilities. These contributions take place as ongoing processes. Further transformation of capabilities into achieved functionings, such as stable work, school completion and often other 'hard' outcomes, seems to be more difficult.",
+    "DOI": "10.1016/j.childyouth.2024.107790",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, lacks a control group, and does not present measures of employment or labor results.",
+            "study_design": "Qualitative data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on vulnerable youth in school rather than people with mental health disorders. Additionally, it lacks a rigorous evaluation design and control group.",
+            "study_design": "Qualitative data from a Norwegian pilot project",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

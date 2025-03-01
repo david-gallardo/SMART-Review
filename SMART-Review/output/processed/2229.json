@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2229,
+    "Authors": "Twamley, Elizabeth W.; Jak, Amy J.; Delis, Dean C.; Bondi, Mark W.; Lohr, James B.",
+    "Article Title": "Cognitive Symptom Management and Rehabilitation Therapy (CogSMART) for Veterans with traumatic brain injury: Pilot randomized controlled trial",
+    "Abstract": "Traumatic brain injury (TBI) can result in cognitive impairments and persistent postconcussive symptoms that limit functional recovery, including return to work. We evaluated a 12 wk compensatory cognitive training intervention(Cognitive Symptom Management and Rehabilitation Therapy[CogSMART]) in the context of supported employment for Veterans with mild to moderate TBI. Participants were randomly assigned to receive 12 wk of supported employment plus CogSMART or enhanced supported employment that controlled for therapist attention (control). CogSMART sessions were delivered by the employment specialist and included psychoeducation regarding TBI; strategies to improve sleep, fatigue, headaches, and tension; and compensatory cognitive strategies in thedomains of prospective memory, attention, learning and memory, and executive functioning. Compared with controls, those assigned to supported employment plus CogSMART demonstrated significant reductions in postconcussive symptoms (Cohen d = 0.97) and improvements in prospective memory functioning (Cohen d = 0.72). Effect sizes favoring CogSMART for posttraumatic stress disorder symptom severity, depressive symptom severity, and attainment of competitive work within 14 wk were in the small to medium range (Cohen d = 0.35-0.49). Those who received CogSMART rated the intervention highly. Results suggest that adding CogSMART to supported employment may improve postconcussive symptoms and prospective memory. These effects, as well as smaller effects on psychiatric symptoms and ability to return to work, warrant replication in a larger trial.",
+    "DOI": "10.1682/JRRD.2013.01.0020",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on postconcussive symptoms, prospective memory, and psychiatric symptoms, which are not the primary outcomes of interest.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental disorders. It focuses on veterans with traumatic brain injury and cognitive impairments.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes supported employment as an intervention for people with mental health problems (TBI) and reports on employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2144,
+    "Authors": "Tsai, Jack; Flatley, Bessie; Kasprow, Wesley J.; Clark, Sean; Finlay, Andrea",
+    "Article Title": "Diversion of Veterans With Criminal Justice Involvement to Treatment Courts: Participant Characteristics and Outcomes",
+    "Abstract": "Objective: This study compared characteristics and outcomes between veterans who participated in veterans treatment courts (VTCs) and veterans involved in criminal justice who participated in other treatment courts (TCs) or who participated in neither VTCs or TCs.Methods: Data from 22,708 veterans (N=8,083 VTC participants, 680 participants in other TCs [other-TC participants], and 13,945 participants in neither VTCs nor TCs [non-TC participants]) in the Veterans Justice Outreach (VJO) program were analyzed by using multilevel regression models.Results: VTC participants were more likely than other VJO participants to have served in Iraq or Afghanistan, but there were no sociodemographic disparities in access to VTCs. VTC participants were more likely than non-TC participants to have drug or public-order offenses, and they were more likely than other-TC participants to have DUI offenses. VTC participants had better independent housing outcomes than other VJO participants, and they had better employment outcomes than non-TC participants. However, VTC and other-TC participants were also more likely to have jail sanctions and new incarcerations compared with non-TC participants.Conclusions: VTCs are a growing service model that serves a broad group of veterans with a range of criminal offenses. Although VTCs show moderate benefits in housing and employment, specialized services are needed to reduce recidivism and maximize these benefits.",
+    "DOI": "10.1176/appi.ps.201600233",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on veterans with criminal justice involvement, which does not meet the population criterion of people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on veterans involved in criminal justice and compares them across different types of treatment courts.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on veterans with criminal justice involvement and does not specifically target people with mental health disorders. Additionally, the study's intervention is not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

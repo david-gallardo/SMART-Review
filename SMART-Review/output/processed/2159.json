@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2159,
+    "Authors": "Davis, Lori L.; Pilkinton, Patricia; Poddar, Swati; Blansett, Catherine; Toscano, Richard; Parker, Pamela E.",
+    "Article Title": "Impact of Social Challenges on Gaining Employment for Veterans With Posttraumatic Stress Disorder: An Exploratory Moderator Analysis",
+    "Abstract": "Objective: To explore whether psychosocial challenges impact effects of vocational rehabilitation in Veterans with Posttraumatic Stress Disorder (PTSD). Methods: A post hoc exploratory analysis of possible moderators of treatment was conducted on outcomes from a randomized, controlled trial of Individual Placement and Support in Veterans with PTSD. Results: When examining groups within each moderator, there was a greater IPS supportive employment benefit in gaining competitive employment for those with inadequate transportation (number needed to treat [NNT] = 1.5) and inadequate housing (NNT = 1.5) compared with the main finding of the pilot study (NNT = 2.07). Compared with the main finding of the pilot study, there was no greater advantage of IPS for those with adequate transportation (NNT = 2.4) or adequate housing (NNT = 2.4). Compared with the main finding in the pilot study, those without a family care burden had a greater benefit from IPS (NNT = 1.4) and those with family care burden had a reduced treatment effect (NNT = 3.3). Conclusions and Implications for Practice: These results are exploratory and are not intended to guide clinical decision-making, but rather offer a potentially useful strategy in the design of larger trials of IPS.",
+    "DOI": "10.1037/prj0000058",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a post hoc exploratory analysis, which does not meet the inclusion criteria of a systematic review or quasi-experimental study with a control group.",
+            "study_design": "Post hoc exploratory analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on veterans with PTSD rather than people with mental disorders in general. The population is specific to veterans and does not encompass a broader scope of individuals with documented mental health problems.",
+            "study_design": "RCT (Randomized Controlled Trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with PTSD, not specifically on people with mental health disorders in general. The intervention is not directly related to job search services, adult training, wage subsidies, or supported employment as per the inclusion criteria.",
+            "study_design": "Randomized, controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for veterans with PTSD, includes employment outcomes, and is conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

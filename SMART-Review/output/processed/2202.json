@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2202,
+    "Authors": "Kaya, Cahit; Leslie, Mykal; McDaniels, Bradley; Cuevas, Sergio; Wu, Hu; Rumrill, Phillip; Wehman, Paul; Chan, Fong",
+    "Article Title": "Vocational rehabilitation factors associated with successful return to work outcomes for clients with Parkinson's disease",
+    "Abstract": "PURPOSE: This study investigated the extent to which demographic characteristics, receipt of Social Security benefits, and vocational rehabilitation (VR) services influence competitive employment outcomes for people with Parkinson's Disease who were unemployed at the time they enrolled in the state-federal Vocational Rehabilitation (VR) program.METHOD: The Rehabilitation Services Administration's Case Service Report (RSA-911) database for Fiscal Year 2014 was examined using a purposeful selection logistic regression analysis.RESULTS: Results indicated that participants who received on-the-job support (both short-term and long-term), job placement, maintenance, and college or university tuition assistance from the VR program were significantly more likely to achieve competitive employment than were participants who did not receive those services. Participants who received assessment services were less likely to achieve competitive employment than were those who did not receive assessment services. In addition, receiving a greater number of VR services over a shorter period of time and not receiving Social Security disability benefits were positively associated with competitive employment outcomes.CONCLUSION: Overall, the number and type of VR services received had more influence on competitive employment outcomes than did client demographic variables.",
+    "DOI": "10.3233/JVR-191065",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders; it focuses on clients with Parkinson's disease.",
+            "study_design": "Purposeful selection logistic regression analysis using RSA-911 database",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Parkinson's Disease, which is not explicitly mentioned in the inclusion criteria as a mental health disorder. The inclusion criteria specify 'people with mental disorders or documented mental health problems,' and Parkinson's Disease is primarily a neurological condition.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the US, was published within the specified timeframe, examines job placement and support services as interventions, targets people with Parkinson's disease (a mental health disorder), and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

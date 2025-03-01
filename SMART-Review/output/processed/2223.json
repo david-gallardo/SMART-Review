@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2223,
+    "Authors": "Goulas, Eleftherios; Zervoyianni, Athina",
+    "Article Title": "Suicide mortality, long-term unemployment, and labor-market policies: Evidence from European countries",
+    "Abstract": "Using data from 25 EU countries spanning the period 1999-2017, this paper examines the relationship between working-age suicides and changes in long-term unemployment and tests for mitigating effects through the implementation of labor-market policies. The estimates suggest higher suicide risks following a rising rate of long-term unemployment. Passive support policies have a suicide-decreasing impact. Among active policies, a significant suicide-decreasing effect is found for training and direct job creation. The results have important policy implications in that they suggest that strong commitment of governments to passive or to certain types of active labor-market policies can, on average, contribute to social stability and the welfare of populations.",
+    "DOI": "10.1111/boer.12397",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a cross-sectional analysis of data from 25 EU countries.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on suicide mortality and labor-market policies in relation to long-term unemployment.",
+            "study_design": "Cross-sectional analysis of time-series data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between long-term unemployment and suicide rates, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Econometric analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

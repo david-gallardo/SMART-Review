@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2188,
+    "Authors": "Gonzalez-Marin, Patricia; Puig-Barrachina, Vanessa; Bartoll, Xavier; Cortes-Franch, Imma; Malmusi, Davide; Clotet, Eva; Cardona, Africa; Artazcoz, Lucia; Borrell, Carme",
+    "Article Title": "Employment in the neighborhoods of Barcelona: health effects of an active labor market program in Southern Europe",
+    "Abstract": "Background The aim of this study was to analyze the changes in self-perceived health status and mental health among participants in an active labour market policy (ALMP) of Barcelona, and to assess whether the results differed according to the participants' soda) characteristics and their program trajectories.Methods A pre-post intervention study was designed, including unemployed people participating in a return-to-work ALMP in 13 deprived neighborhoods of Barcelona; using one survey upon entering the program (pre), and another 1 year later (post). We assessed the prevalence of poor self-perceived health status and poor mental health (Goldberg-12 questionnaire) in both periods of time. We fit five Poisson regression models using generalized estimating equations (GEE) to measure changes in self-perceived health and mental health between pre- and post-intervention.Results About 696 individuals (48% women) participated in the study, mainly manual workers. In both sexes, mental health improved (prevalence ratio [PRI-comparing post- and pre-periods for women: 0.49, 95% confidence interval [CI]: 0.39-0.61 and men: PR: 0.41, 95% CI: 0.32-0.53), whereas self-perceived health status remained stable or worsened. Men who remained unemployed reported poorer self-perceived health status, while no such association was observed among women.Conclusions This study shows a mental health improvement among male and female participants.",
+    "DOI": "10.1093/pubmed/fdz169",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a pre-post intervention study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is an active labor market policy, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as self-perceived health status and mental health.",
+            "study_design": "pre-post intervention study with GEE",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pre-post intervention study without a control group, thus it lacks rigorous evaluation and does not meet the inclusion criteria.",
+            "study_design": "Pre-post intervention study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Pre-post intervention study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pre-post intervention study without a control group.",
+            "study_design": "Pre-post intervention study",
+            "logprobs": null
+        }
+    }
+}

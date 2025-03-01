@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2209,
+    "Authors": "Franck, N.",
+    "Article Title": "Cognitive remediation and work outcome in schizophrenia",
+    "Abstract": "Recovery is partly defined by the patients' capacity to work, since doing well in a job favors hope and responsibilities' taking. Diminished job placement or tenure is linked with cognitive disorders, which impact directly and indirectly (through negative symptoms) functional outcomes. Attention, executive functions and working memory disorders can result in an alteration of the ability to manage the tasks required in the workplace. Executive function, working memory and social cognition disorders may also have an impact on behavior in relationships. Cognitive disorders do not automatically directly contribute to vocational outcome, yet their effects may be mediated by other variables such as symptoms, metacognition, social skills and intrinsic motivation. Then, since all these dimensions have to be taken into account, reducing the impact of cognitive troubles becomes a major challenge for the care of schizophrenia. Cognitive remediation is the more effective therapeutic tool to reduce cognitive dysfunctions. It rests in particular on the development of new strategies that allow taking concrete situations into account more efficiently. Cognitive remediation reduces the detrimental consequences of cognitive disorders and permits their compensation. It has emerged as an effective treatment, that improves not only cognitive abilities but also functioning, as it has been shown by numerous randomized controlled studies and several meta-analyses. The present article considers the effects on cognitive remediation on work function in schizophrenia. Several randomized controlled trials that compared supported employment alone versus supported employment associated with cognitive remediation showed significant improvement of employment rates in the latter condition. These results favor the use of cognitive remediation before job placement. The specific needs of the occupation that will be provided and the cognitive profile of the user should be taken into account. (C) L'Encephale, Paris, 2014.",
+    "DOI": "10.1016/j.encep.2014.04.004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis, which meets the inclusion criteria. The study is focused on people with mental disorders or documented mental health problems, specifically schizophrenia, and examines the effects of cognitive remediation on work function.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCTs), geographic scope (EU countries), timeframe (2005-2025), intervention (cognitive remediation associated with supported employment), population (people with mental disorders, specifically schizophrenia), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsychia and cognitive remediation, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Randomized controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that examines the effects of cognitive remediation on employment outcomes for people with schizophrenia.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

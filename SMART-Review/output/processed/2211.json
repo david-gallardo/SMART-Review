@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2211,
+    "Authors": "Tuebbicke, Stefan",
+    "Article Title": "How sensitive are matching estimates of active labor market policy effects to typically unobserved confounders?",
+    "Abstract": "Using a rich and unique combined administrative-survey dataset, this paper explores how sensitive propensity score (PS) matching estimates of Active Labor Market Policies (ALMPs) based on the selection-on-observables assumption are to typically unobserved covariates. Using a sample of German unemployed welfare recipients, the analysis shows that typically unobserved factors such job search behavior, concessions willing to make for a job as well as (mental) health are in fact relevant confounders. However, results also show that matching on the PS using only typically observed covariates reduces imbalance in terms of typically unobserved covariates by about 46 percent in this setting. In line with this finding, the inclusion of typically unobserved covariates yields very similar estimates to estimates based on a standard specification. Hence, a standard matching approach based on rich and high quality administrative data appears to be sufficient to obtain estimates that are rather robust to unobserved confounding.",
+    "DOI": "10.1186/s12651-023-00352-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study design is described as 'standard matching approach' without specifying the type of control group or evaluation method.",
+            "study_design": "standard matching approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on the sensitivity of matching estimates in ALMPs to unobserved confounders.",
+            "study_design": "Quasi-experimental (PS matching)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify the intervention as one of the targeted active employment policies (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

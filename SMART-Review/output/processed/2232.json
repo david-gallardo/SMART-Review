@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2232,
+    "Authors": "Drosos, N.; Theodoroulakis, M.",
+    "Article Title": "EMPLOYMENT AS AN INTEGRAL PART OF SOCIAL INCLUSION: THE CASE OF MENTAL HEALTH SERVICE USERS IN GREECE",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study design is not specified.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Not specified in abstract",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Greece is in Europe but the study does not specify it covers EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

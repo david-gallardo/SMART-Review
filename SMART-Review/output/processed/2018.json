@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2018,
+    "Authors": "Zhang, Hui; Chen, Dandan; Zou, Ping; Cui, Nianqi; Shao, Jing; Qiu, Ruoling; Wang, Xiyi; Wu, Man; Zhao, Yi",
+    "Article Title": "Exploring the Experience of Healthcare Workers Who Returned to Work After Recovering From COVID-19: A Qualitative Study",
+    "Abstract": "Background: To date, a large body of literature focuses on the experience of healthcare providers who cared for COVID-19 patients. Qualitative studies exploring the experience of healthcare workers in the workplace after recovering from COVID-19 are limited. This study aimed to describe the experience of healthcare workers who returned to work after recovering from COVID-19.Methods: This study employed a qualitative descriptive approach with a constructionist epistemology. Data were collected through semi-structured in-depth interviews with 20 nurses and physicians, and thematic analysis was used to identify themes from the interview transcripts.Results: Three major themes about the psychological experiences of healthcare workers who had recovered from COVID-19 and returned to work were identified: (1) holding multi-faceted attitudes toward the career (sub-themes: increased professional identity, changing relationships between nurses, patients, and physicians, and drawing new boundaries between work and family), (2) struggling at work (sub-themes: poor interpersonal relationships due to COVID-19 stigma, emotional symptom burden, physical symptom burden, and workplace accommodations), (3) striving to return to normality (sub-themes: deliberate detachment, different forms of social support in the workplace, and long-term care from organizations).Conclusions: The findings have highlighted opportunities and the necessity to promote health for this population. Programs centered around support, care, and stress management should be developed by policymakers and organizations. By doing this, healthcare workers would be better equipped to face ongoing crises as COVID-19 continues.",
+    "DOI": "10.3389/fpsyt.2021.753851",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative descriptive with a constructionist epistemology, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative descriptive",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and does not meet the inclusion criteria of randomized controlled trials (RCTs), quasi-experimental studies with control groups, meta-analyses, systematic reviews of controlled trials. The intervention and population criteria are also not met as it focuses on healthcare workers who returned to work after recovering from COVID-19 rather than people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on healthcare workers' experiences after COVID-19 recovery, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and does not include a control group. The intervention does not directly address employment policies for people with mental health disorders.",
+            "study_design": "Qualitative descriptive approach",
+            "logprobs": null
+        }
+    }
+}

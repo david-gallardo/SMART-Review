@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1998,
+    "Authors": "Lavric, Meta; Gomboc, Vanja; Krohne, Nina; Podlogar, Tina; Postuvan, Vita; Sedivy, Nusa Zadravec; De Leo, Diego",
+    "Article Title": "Loneliness within the general population of Slovenia",
+    "Abstract": "Background: While loneliness is recognized as a risk to mental and physical health, there is a lack of data covering a broad age range. This study used a Slovenian adult sample to investigate loneliness. Aims: To examine levels of social, emotional and general loneliness within the general population. Method: A survey on a sample representative of the general population (N = 1,189; aged between 18 and 95 years old (M = 46.74, standard deviation (SD) = 16.18); 49.7% were men) was conducted in Slovenia by means of an online questionnaire, covering data on demographic variables and levels of emotional, social and general loneliness. Results: In general, people experienced more social than emotional loneliness. Demographic variables that were significant for emotional, social and general loneliness were the history of past mental illness, civil status and employment status. Other demographic variables played different roles in different types of loneliness. Conclusions: Our study shows that differences in loneliness among demographic subgroups are an important factor in understanding and studying loneliness, especially with regard to the distinction between social and emotional loneliness. Given that loneliness represents today not only a social threat but also a significant health problem, it is important to understand which demographic subgroups are more at risk and how we can help them.",
+    "DOI": "10.1177/0020764020943230",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on loneliness within the general population of Slovenia.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specifically people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on loneliness, not employment or labor outcomes, and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

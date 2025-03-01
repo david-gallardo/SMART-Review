@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2257,
+    "Authors": "Reneflot, Anne; Evensen, Miriam",
+    "Article Title": "Systematic Literature Review Unemployment and psychological distress among young adults in the Nordic countries: A review of the literature",
+    "Abstract": "This article reviews Nordic research, published from 1995 and onwards, on the relationship between unemployment and mental health among young adults. Cross-sectional, longitudinal and time-series studies are included. Cross-sectional studies show that the unemployed experience more mental health problems than the non-unemployed. Leaving unemployment is associated with increased well-being. Economic problems, feelings of shame and poor social support increase the likelihood of psychological distress. The longitudinal studies show that unemployment increases the risk of psychological distress and attempted suicide, after initial mental health status and confounding factors are accounted for. The relationship remains significant when time-invariant characteristics of the individuals are controlled for. The time-series studies found no relationship between unemployment and suicide, but levels of psychological distress were found to vary with changes in the labour market. This relationship remained significant after excluding the non-employed, indicating that unemployment trends have effects beyond those directly associated with unemployment.",
+    "DOI": "10.1111/ijsw.12000",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, longitudinal, and time-series studies, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional, longitudinal, and time-series studies",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design includes cross-sectional, longitudinal, and time-series studies which do not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Literature Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and mental health among young adults, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not evaluate interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

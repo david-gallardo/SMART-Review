@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2265,
+    "Authors": "John, Lea; Solis-Soto, Maria Teresa; Radon, Katja",
+    "Article Title": "Mediating role of perceived social support in the relationship between unemployment and mental distress among healthcare graduates during the COVID-19 era",
+    "Abstract": "Objective This study investigates the mediating role of perceived social support in the relationship between unemployment and mental distress among young healthcare graduates in Bolivia during the COVID-19 pandemic.Methods A cross-sectional analysis within a cohort study was conducted using data from 109 healthcare graduates from Bolivia collected through an online survey in 2022. The survey measured employment status, mental distress with the 12-item General Health Questionnaire (GHQ-12), and perceived social support using the Multidimensional Scale of Perceived Social Support (MSPSS). Mediation analysis was performed in R to examine the mediating effect of perceived social support on the relationship between unemployment and mental distress.Results More than two-thirds of participants reported mental distress. Consistent with the main effect model, employment was directly associated with lower levels of mental distress, and perceived social support was positively related to better mental health. However, perceived social support did not statistically significant mediate the impact of unemployment on mental distress, with only 2.1% of the effect being mediated through perceived social support.Conclusion Despite the beneficial effect of perceived social support on mental health, it did not significantly mediate the relationship between unemployment and mental distress among Bolivian healthcare graduates during COVID-19. The findings highlight the need for targeted mental health support that go beyond social support for unemployed healthcare graduates during crises.",
+    "DOI": "10.3389/fpubh.2024.1490004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis within a cohort study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional analysis within a cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a cross-sectional analysis within a cohort study and does not include a control group. Additionally, the geographic scope is outside the specified regions (EU countries, Europe, US, Canada, Australia). The timeframe also falls outside the specified period (2005-2025).",
+            "study_design": "Cross-sectional analysis within a cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployment and mental distress without directly addressing employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis within a cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Bolivia) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis within a cohort study",
+            "logprobs": null
+        }
+    }
+}

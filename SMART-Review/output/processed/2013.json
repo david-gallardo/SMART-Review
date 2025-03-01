@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2013,
+    "Authors": "Sternberg, Annika; Fauser, David; Banaschak, Hannes; Bethge, Matthias",
+    "Article Title": "Sequences of vocational rehabilitation services in Germany: a cohort study",
+    "Abstract": "BackgroundThis study aimed to describe sequences of vocational rehabilitation services among individuals with approved vocational rehabilitation in Germany and to identify typical service sequences.MethodsWe used administrative data on vocational rehabilitation services and questionnaire data on health and work ability to describe frequencies and sequences of vocational rehabilitation services financed by the Federal German Pension Insurance. Through sequence analysis, we were able to map the service sequences. We did cluster analyses to identify typical different service sequences.ResultsOur sample included 1,652 individuals with 2,584 services. Integration services and two-year vocational retraining were the most common services. We could identify three different service clusters around integration services: shorter ones, followed by employer benefits and without employer benefits. We found two different clusters around two-year vocational retraining: shorter and longer clusters. Two-year vocational retraining was more often initiated by preparatory services and followed by employer benefits than integration services. Longer services in both clusters were associated with better baseline data for physical health, work ability, risk of future work disability, and younger age than shorter services. People in two-year-vocational retraining reported at baseline better general health, better work ability, low risk of future work disability, and less mental illness compared to people in integration services.ConclusionsMultiple services, that is, sequences of services, were more likely to occur among individuals with more complex services like two-year vocational retraining. Utilization of complex services and longer services was influenced by health, age, risk of future work disability, and education.Trial registrationGerman Clinical Trials Register DRKS00009910, registration 25/01/2016.",
+    "DOI": "10.1186/s12913-023-10499-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort study with a control group, meeting the inclusion criteria for study design. The study is set in Germany, within the EU, and was published between 2005-2025. The intervention is vocational rehabilitation services, which directly addresses employment. The population includes individuals with approved vocational rehabilitation, and the outcomes include employment or labor results.",
+            "study_design": "Cohort study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a cohort study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

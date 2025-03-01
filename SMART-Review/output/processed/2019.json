@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2019,
+    "Authors": "Mannheimer, Sharon; Hirsch-Moverman, Yael; Franks, Julie; Loquere, Avelino; Hughes, James P.; Li, Maoji; Amico, K. Rivet; Grant, Robert M.",
+    "Article Title": "Factors Associated With Sex-Related Pre-exposure Prophylaxis Adherence Among Men Who Have Sex With Men in New York City in HPTN 067",
+    "Abstract": "Background: HPTN 067 assessed the feasibility of daily and non-daily dosing of open-label emtricitabine/tenofovir disoproxil fumarate (FTC/TDF)-based pre-exposure prophylaxis (PrEP).Methods: Factors associated with sex-related PrEP adherence were assessed among men who have sex with men (MSM) randomized to one of 3 PrEP dosing arms in HPTN 067 in New York City. Sex-related PrEP adherence was defined per protocol as at least 1 PrEP tablet taken within 4 days pre-sex and at least 1 additional PrEP tablet taken within 24 hours post-sex, assessed via electronic drug monitoring and weekly interviews. Demographic data and behavioral measures were evaluated for association with sex-related PrEP adherence. Logistic regression for clustered data was used to estimate the unadjusted and adjusted odds ratios.Results: Of 176 randomized MSM participants, 59% were Black, 10% White, 25% Hispanic, and 6% other; median age was 31 years. In the multivariable analyses, higher sex-related PrEP adherence was significantly associated with daily dosing arm, older age, employment, and higher PrEP adherence behavioral skills. Lower sex-related PrEP adherence was significantly associated with identifying as Black or Hispanic (compared with White), opiate use, and reporting I forgot as an adherence barrier.Conclusions: This analysis identified populations of MSM who might benefit from additional support to optimize PrEP adherence, including those who are younger, unemployed, or opiate users. MSM with lower PrEP behavioral skills may benefit from targeted interventions. Further study is needed to assess racial and ethnic disparities in PrEP adherence, which may reflect broader social and economic inequalities not captured in this study.",
+    "DOI": "10.1097/QAI.0000000000001965",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is focused on pre-exposure prophylaxis (PrEP) adherence among men who have sex with men in New York City.",
+            "study_design": "Clustered logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies for people with mental health disorders. It focuses on factors associated with adherence to PrEP among men who have sex with men in New York City.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on pre-exposure prophylaxis (PrEP) adherence among MSM, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment policies for people with mental health disorders. It is about PrEP adherence among men who have sex with men.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

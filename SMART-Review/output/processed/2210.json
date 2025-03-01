@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2210,
+    "Authors": "Lu, Weili; Oursler, Janice; Herrick, Samantha; Beninato, John; Gao, Ni; Brown, Lucille; Durante, Alison",
+    "Article Title": "Work-Related Interview Skills Training for Persons with Substance Use Disorders",
+    "Abstract": "Persons with substance use disorders (SUDs) experience high unemployment rates that can increase relapse risk. Research on employment counseling for this population is lacking. This study examined a direct skills teaching (DST) approach to improve job interview preparedness. Graduate internship students at mental health and rehabilitation agency sites in the Northeast provided Presenting Qualifications, a brief, DST-based, group curriculum to 55 participants with SUDs in 15 different groups. At post-intervention, participants reported increased confidence and knowledge with aspects of presenting oneself during a job interview. This approach can potentially help this population achieve better employment outcomes through a group intervention.",
+    "DOI": "10.1080/01933922.2021.1900959",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The article discusses job interview skills training, which is not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on persons with substance use disorders (SUDs) rather than mental health disorders. The intervention is also specific to job interview skills training, which does not directly address broader active employment policies.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorders, not mental health disorders in general, and the intervention is not directly related to employment services.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Quasi-experimental without control group",
+            "logprobs": null
+        }
+    }
+}

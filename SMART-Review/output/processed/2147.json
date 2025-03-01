@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2147,
+    "Authors": "Elbogen, Eric B.; Lanier, Megan; Blakey, Shannon M.; Wagner, H. Ryan; Tsai, Jack",
+    "Article Title": "Suicidal ideation and thoughts of self-harm during the COVID-19 pandemic: The role of COVID-19-related stress, social isolation, and financial strain",
+    "Abstract": "Background: There are significant concerns about mental health problems occurring due to the coronavirus disease 2019 (COVID-19) pandemic. To date, there has been limited empirical investigation about thoughts of suicide and self-harm during the COVID-19 pandemic.Methods: A national survey was conducted May 2020 to investigate the association between mental health symptoms, social isolation, and financial stressors during the COVID-19 pandemic and thoughts of suicide and self-harm. A total of 6607 US adults completed an online survey; survey criteria included an age minimum of 22 years old and reported annual gross income of $75,000 or below. Statistical raking procedures were conducted to more precisely weight the sample using US Census data on age, geographic region, sex, race, and ethnicity.Results: COVID-19-related stress symptoms, loneliness, and financial strain were associated with thoughts of suicide/self-harm in multivariable logistic regression analyses, as were younger age, being a military veteran, past homelessness, lifetime severe mental illness, current depressive symptoms, alcohol misuse, and having tested positive for COVID-19. Greater social support was inversely related to thoughts of suicide/self-harm whereas running out of money for basic needs (e.g., food), housing instability (e.g., delaying rent), and filing for unemployment or disability were positively related.Conclusions: Public health interventions to decrease risk of suicide and self-harm in the wake of the COVID-19 pandemic should address pandemic-related stress, social isolation, and financial strain experienced including food insecurity, job loss, and risk of eviction/homelessness.",
+    "DOI": "10.1002/da.23162",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between mental health symptoms, social isolation, and financial stressors during the COVID-19 pandemic and thoughts of suicide and self-harm.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies. It focuses on the association between mental health symptoms and risk factors for suicide/self-harm during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on suicidal ideation and self-harm during the COVID-19 pandemic.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

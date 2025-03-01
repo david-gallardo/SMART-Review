@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2247,
+    "Authors": "Chow, Clifton M.; Cichocki, Benjamin",
+    "Article Title": "Predictors of Job Accommodations for Individuals With Psychiatric Disabilities",
+    "Abstract": "The empirical literature on the impact of psychiatric disability on employment outcomes has consistently shown that individuals with psychiatric disabilities are more likely than those without to experience adverse labor market outcomes. One strategy invoked to address barriers to employment has been reasonable job accommodations, developed originally through the Americans With Disabilities Act legislation. However, little is known about the factors associated with the request for reasonable job accommodations among those with serious psychiatric disabilities. Data for this study come from a longitudinal multisite demonstration project funded by the U.S. Department of Health and Human Services' Substance Abuse and Mental Health Services Administration. Accommodations were reported by individuals with serious mental health disabilities who became employed. Results from logistic regression analysis found that those who disclosed their disability to their employers, who were more severely disabled, and who had positive social relationships were more likely to request accommodations. This study advances our knowledge of the factors that influence the decision of individuals with serious mental health disabilities to seek accommodation in the work environment and offers a framework for guiding rehabilitation counselors in ways that might help to enhance employment outcomes for this population.",
+    "DOI": "10.1177/0034355215583057",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment through specific active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on predictors of job accommodations requested by individuals with psychiatric disabilities.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, which are required by the inclusion criteria.",
+            "study_design": "Longitudinal multisite demonstration project",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

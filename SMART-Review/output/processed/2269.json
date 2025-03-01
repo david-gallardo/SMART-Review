@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2269,
+    "Authors": "Reeves, Aaron; Mckee, Martin; Gunnell, David; Chang, Shu-Sen; Basu, Sanjay; Barr, Benjamin; Stuckler, David",
+    "Article Title": "Economic shocks, resilience, and male suicides in the Great Recession: cross-national analysis of 20 EU countries",
+    "Abstract": "Background: During the 2007-11 recessions in Europe, suicide increases were concentrated in men. Substantial differences across countries and over time remain unexplained. We investigated whether increases in unaffordable housing, household indebtedness or job loss can account for these population differences, as well as potential mitigating effects of alternative forms of social protection. Methods: Multivariate statistical models were used to evaluate changes in suicide rates in 20 EU countries from 1981-2011. Models adjusted for pre-existing time trends and country-fixed effects. Interaction terms were used to evaluate modifying effects. Results: Changes in levels of unaffordable housing had no effect on suicide rates (P = 0.32); in contrast, male suicide increases were significantly associated with each percentage point rise in male unemployment, by 0.94% (95% CI: 0.51-1.36%), and indebtedness, by 0.54% (95% CI: 0.02-1.06%). Spending on active labour market programmes (ALMP) (-0.26%, 95% CI: -0.08 to -0.45%) and high levels of social capital (-0.048%, 95% CI: -0.0096 to -0.087) moderated the unemployment-suicide association. There was no interaction of the volume of anti-depressant prescriptions (P = 0.51), monetary benefits to unemployed persons (P = 0.77) or total social protection spending per capita (P = 0.37). Active labour market programmes and social capital were estimated to have prevented similar to 540 and similar to 210 male suicides, respectively, arising from unemployment in the countries studied. Conclusion: Job losses were a critical determinant of variations in male suicide risks in Europe's recessions. Greater spending on ALMP and levels of social capital appeared to mitigate suicide risks.",
+    "DOI": "10.1093/eurpub/cku168",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group. It is a cross-national analysis of 20 EU countries using multivariate statistical models.",
+            "study_design": "Cross-national analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on the impact of economic shocks and social protection measures on male suicide rates across EU countries.",
+            "study_design": "Cross-national analysis using multivariate statistical models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of economic factors on male suicide rates in the EU during the Great Recession, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Cross-national analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Multivariate statistical models",
+            "logprobs": null
+        }
+    }
+}

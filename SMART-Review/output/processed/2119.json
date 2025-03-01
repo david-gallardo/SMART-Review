@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2119,
+    "Authors": "Sundermann, Larissa M.; Haunberger, Sigrid; Gisler, Fiona; Kita, Zuzanne",
+    "Article Title": "How do supported employment programs work? Answers from a systematic literature review",
+    "Abstract": "Many studies have found that supported employment (SE) has effectively helped people with severe mental illness obtain and maintain competitive employment. However, most SE studies have asked What works? rather than discerning what works for whom, in what circumstances, in what respects and how. It is important to understand the outcomes of SE and identify the impact factors (contexts and mechanisms) that can trigger them. Four literature databases were searched for studies that analyzed counseling settings. Overall, 104 publications met the inclusion criteria. The review showed that most of the research on SE programs were one-dimensional, looking at either the effects of SE programs, the client or the professional, or the relationship between clients and professionals. The model reveals that impact factors are interconnected and can have a cumulative impact on the client, professionals, and the environment.",
+    "DOI": "10.1007/s10775-022-09533-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic literature review, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic literature review that meets the inclusion criteria for study design (systematic reviews), geographic scope (EU countries and Europe), timeframe (2005-2023, as it was published in 2023), intervention (supported employment), population (people with severe mental illness), and outcomes (employment rates).",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials focusing on supported employment for people with severe mental illness, includes relevant outcomes such as obtaining and maintaining competitive employment, and is within the specified geographic scope and timeframe.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

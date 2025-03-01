@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2186,
+    "Authors": "Marshall, Carrie Anne; Boland, Leonie; Westover, Lee Ann; Goldszmidt, Rebecca; Bengall, Jordana; Aryobi, Suliman; Isard, Roxanne; Easton, Corinna; Gewurtz, Rebecca",
+    "Article Title": "Effectiveness of employment-based interventions for persons experiencing homelessness: A systematic review",
+    "Abstract": "Employment is frequently desired by persons who experience homelessness yet is often elusive. Little is known about the range and effectiveness of employment-based interventions evaluated in existing literature on key psychosocial outcomes including employment participation, mental well-being, housing tenure, community integration and substance use. To identify and synthesise existing studies, we conducted a systematic review of effectiveness using the methodology proposed by the Joanna Briggs Institute (JBI) following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Following the removal of duplicates, we screened 13,398 titles and abstracts, and reviewed 79 studies at the full-text review stage using two independent raters. A total of 16 studies met criteria for inclusion in a narrative synthesis and were subjected to critical appraisal. The majority of studies were conducted in the US (n = 14; 87.5%) with other studies published in Canada (n = 1; 6.3%) and Australia (n = 1; 6.3%). Interventions evaluated in existing studies included combined substance use and vocational skills interventions (n = 7; 43.8%), supported employment (n = 6; 37.5%), and integrated supports including an employment component (n = 3; 18.8%). The effectiveness of these interventions on employment, mental well-being, housing tenure, community integration, and substance use is presented. Findings suggest that research evaluating employment interventions for persons who experience homelessness is in an early stage of development. Researchers and practitioners may consider collaborating with persons with lived experiences of homelessness and practitioners in co-designing and modifying existing approaches to target key outcomes more effectively. Policymakers may consider allocating resources to such initiatives to further the development of practice and research aimed at supporting persons who experience homelessness to secure and sustain employment during and following homelessness.",
+    "DOI": "10.1111/hsc.13892",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is conducted within the EU, Europe, US, Canada, and Australia, and the timeframe is between 2005 and 2025. The intervention is employment-based interventions for persons experiencing homelessness, and the population is people with mental health disorders or documented mental health problems. The outcomes include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not specifically reference mental health disorders. The article focuses on persons experiencing homelessness.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: systematic review of controlled trials, conducted in US, Canada, Australia, published within the timeframe, includes supported employment intervention, population includes people with mental health problems, and outcomes include employment participation.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

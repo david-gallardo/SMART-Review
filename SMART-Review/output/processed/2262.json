@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2262,
+    "Authors": "Mattei, Giorgio; Pistoresi, Barbara; De Vogli, Roberto",
+    "Article Title": "Impact of the economic crises on suicide in Italy: the moderating role of active labor market programs",
+    "Abstract": "Purpose To analyze the association between unemployment and suicide in Italy during the years 1990-2014, with a peculiar focus on the great recession (GR) and the role played by social protection as buffering mechanism against the negative effect on health outcomes.Methods Fixed effects panel regressions were used to assess the association between changes in unemployment rate and suicide rates. Additional models investigated the role of active labor market programs (ALMPs) as possible moderators of the association. Analyses were carried out for both males and females, stratified by age and region.Results The negative time-trend displayed by suicide rate in Italy until 2007 was slowed down by changes in unemployment at the beginning of the GR, when this trend reversed and the rate of suicide started increasing. Male workers aged 25-64 and women aged 55-64 years were affected by both normal unemployment rate fluctuations as well as severe economic crises. Women aged 35-44 were only influenced by the latter. Men benefit from ALMPs mainly in Central Italy, while women did not benefit significantly from ALMPs.Conclusions In Italy, economic downturns were associated with increased suicides mainly among men, while severe economic crises were associated with increased suicides among both men and women. ALMPs showed to be effective in moderating the association between unemployment and suicide among men aged 45-54 only in Central Italy. The overall small effectiveness of such programs may be due to lack of sufficient funding.",
+    "DOI": "10.1007/s00127-018-1625-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group. Instead, it uses fixed effects panel regressions.",
+            "study_design": "Fixed effects panel regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its intervention focuses on labor market programs in general rather than specific active employment policies such as job search services, adult training, wage subsidies, or supported employment. Additionally, the population is not specifically defined to include people with mental health disorders.",
+            "study_design": "Fixed effects panel regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the association between unemployment and suicide rates in Italy, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Fixed effects panel regressions",
+            "logprobs": "Not available"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

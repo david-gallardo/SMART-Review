@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2156,
+    "Authors": "Wright, Abigail C.; Mueser, Kim T.; McGurk, Susan R.; Fowler, David; Greenwood, Kathryn E.",
+    "Article Title": "Cognitive and metacognitive factors predict engagement in employment in individuals with first episode psychosis",
+    "Abstract": "Background: Research has demonstrated that cognitive abilities predict work outcomes in people with psychosis. Cognitive Remediation Programs go some way in improving work outcomes, but individuals still experience difficulty maintaining employment. Metacognition has been demonstrated to predict work performance in individuals with schizophrenia, but this has not yet been applied to First Episode Psychosis (FEP). This study assessed whether metacognition, intellectual aptitude and functional capacity can predict engagement in work and number of hours of work within FEP.Methods: Fifty-two individuals with psychosis, from an Early Intervention in Psychosis service, completed measures of IQ, metacognition (Metacognitive Assessment Interview), functional capacity (UPSA), and functional outcome (hours spent in structured activity per week, including employment).Results: Twenty-six participants (22 males, 4 females) were employed and twenty-six (22 males, 4 females) were not employed. IQ and metacognition were significantly associated with whether the individual was engaged in employment [IQ (p = .02) and metacognition (p = 006)]. When controlling for IQ, metacognition (differentiation subscale) remained significant (p = .04). Next, including only those employed, no cognitive nor metacognitive factors predicted number of hours in employment.Discussion: This is the first study to directly assess metacognition as a predictor of work hours for individuals with FEP. This study highlights the importance of enhancing metacognitive ability in order to improve likelihood of, and engagement in, employment for those with FEP.",
+    "DOI": "10.1016/j.scog.2019.100141",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is individuals with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and directly addresses cognitive abilities rather than employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive and metacognitive factors predicting engagement in employment for individuals with first episode psychosis, which does not directly address employment interventions or policies. It also lacks a control group and does not present measures of employment outcomes such as job retention or job quality.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an active employment policy intervention such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

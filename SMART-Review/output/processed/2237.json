@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2237,
+    "Authors": "Sveinsdottir, Vigdis; Eriksen, Hege Randi; Baste, Valborg; Hetland, Jorn; Reme, Silje Endresen",
+    "Article Title": "Young adults at risk of early work disability: who are they?",
+    "Abstract": "BackgroundYoung adults that are not in education, training or employment represent a problem across European countries. While some are cases of temporary transitions or short-term inactivity, others represent a more vulnerable group at risk of early work disability. Early exclusion from the labor market represents long lives exposed to detrimental effects of unemployment on health and well-being, and constitutes an economic burden for society. There is need for more knowledge about young adults who are at risk of early work disability but have not yet reached the point of more permanent exclusion. This study aims to investigate social and health-related problems in a Norwegian sample of young adults at risk of early work disability, and their self-perceived causes of illness.MethodsBaseline data from participants in the SEED-trial (N=96), a randomized controlled trial comparing individual placement and support to traditional vocational rehabilitation in young adults at risk of early work disability, were analyzed. Background, health behaviors, adverse social experiences, disability level, physical and mental health, social support, coping, and self-perceived causal attributions of illness were measured. Gender differences were analyzed using chi-square and t-tests.ResultsMean age was 24, and 68% were men. One third reported reading and writing difficulties, and 40% had less than high-school education. The majority had experienced bullying (66%) or violence (39%), and 53% reported hazardous alcohol use. Psychological distress was the most prevalent health problem (52%), and women generally had more physical and mental health problems than men. Self-perceived causal attributions of illness were mainly related to relational problems, followed by health behaviors, heredity/genetics, and external environmental factors.ConclusionsThe study provides a deeper insight into a vulnerable group with substantial challenges related to adverse social experiences, psychological distress, and alcohol use, who emphasized relational problems as the main causal factor for their illness. Findings suggest a need for broader focus on psychological and social factors in vocational rehabilitation efforts targeting young adults at risk of early work disability. Furthermore, gender-specific approaches may be warranted and should be followed up in future studies.Trial registrationClinicaltrials.gov: NCT02375074. Retrospectively registered December 3rd 2014.",
+    "DOI": "10.1186/s12889-018-6095-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in Norway, which is within the EU, Europe, US, Canada, or Australia. The study focuses on young adults at risk of early work disability, which is the population of interest. The study also presents measures of employment or labor results, such as self-perceived causal attributions of illness.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for population as it focuses on young adults at risk of early work disability without specifying mental health disorders. Additionally, while it includes employment-related outcomes such as vocational rehabilitation and job-related challenges, these are not directly linked to people with documented mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on vocational rehabilitation for young adults at risk of early work disability, including those with mental health problems. It was conducted in Europe (Norway) within the specified timeframe and includes relevant employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

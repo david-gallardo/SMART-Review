@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2168,
+    "Authors": "Singh, Swaran P.; Mohan, Mohapradeep; Giacco, Domenico",
+    "Article Title": "Psychosocial interventions for people with a first episode psychosis: between tradition and innovation",
+    "Abstract": "Purpose of review Assessing recent evidence on psychosocial interventions for people with first episode psychosis (FEP). Recent findings Family interventions (FI) reduce relapse rates, whilst cognitive behavioural therapy (CBT) shows a moderate effect in improving positive psychotic symptoms. Vocational interventions (VI) appear to be worthy of implementation within early intervention for psychosis (EIP) teams, but it is still unclear what is the most cost-effective strategy for their delivery. Promising interventions, which need more careful evaluation, focus on substance misuse, physical health comorbidities, improvement of social participation, peer support and the potential of new technologies. The first five years after the onset of psychotic symptoms are a 'critical period' in which psychosocial interventions can be particularly influential in determining prognosis. Traditional EIP interventions have different effectiveness profiles, i.e., FI reduce relapse rates, CBT has a moderate effectiveness on overall and positive symptoms and VI can improve educational and employment-related functioning. Newer interventions show promise on important targets for FEP treatment but require higher-quality evaluations. Decisions on which interventions to implement within EIP teams should be informed by high-quality evidence, but difficult choices will have to be made based on costs, professionals and technologies available, and local priorities.",
+    "DOI": "10.1097/YCO.0000000000000726",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: vocational interventions (VI) does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosocial interventions for people with first episode psychosis (FEP) rather than employment policies. It does not directly address the outcomes related to employment or labor results.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study's primary focus is on psychosocial interventions for first episode psychosis (FEP) and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": "Not available"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

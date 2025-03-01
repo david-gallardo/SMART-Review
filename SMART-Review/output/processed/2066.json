@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2066,
+    "Authors": "Sauve, Genevieve; Lepage, Martin; Corbiere, Marc",
+    "Article Title": "Impacts of vocational programs integrating cognitive remediation on job tenure in schizophrenia: A meta-analysis",
+    "Abstract": "Objectives. - About 80% of people suffering from schizophrenia are not working despite their desire to obtain a job. The rate of employment and job tenure remain below the average of the non-clinical population even though supported employment programs (SE) were implemented. Cognitive deficits, among other factors, could influence the occupational functioning of people suffering from schizophrenia. Given that these deficits are highly prevalent in people who have experienced multiple episodes of psychosis, numerous studies have evaluated the efficacy of integrating cognitive remediation to SE programs. Our objective was to conduct a meta-analysis to evaluate the efficacy of these combined programs (SE+) in terms of job tenure.Material and methods. - We searched the literature in several databases (Medline, Embase, Pubmed, PsycInfo, et Cochrane Library) using different keywords (schiz* AND vocation* AND rehabilitation or recovery AND cogniti* AND random* control*). The selection of studies was limited to those written in French or English, using a randomized-controlled trial or prospective design, including participants with a schizophrenia-spectrum diagnosis, including and presenting work outcomes (e.g., work duration, job acquisition) of a program combining SE and cognitive remediation programs. Following data extraction, we calculated the Hedges' g effect size for each study that reported job tenure outcomes. We used a random-effects model and evaluated heterogeneity with the Cochran's Q-statistic and the 12 index. Publication bias was estimated through the use of a funnel plot, the Rosenthal's fail-safe N and Egger's asymmetry test.Results. - We identified 12 studies that presented different SE+ programs comprising 334 and 322 persons suffering from schizophrenia assigned to treatment and control conditions, respectively. Our quantitative results suggest that combining cognitive remediation and SE programs do not significantly impact job tenure. Although our analyses suggest the presence of heterogeneity and publication bias, it is still advisable to conduct a meta-analysis because it allows circumventing the biases introduced when using the vote counting technique (i.e., simply comparing the number of positive and negative studies). Our results should thus be considered as exploratory and future meta analyses are encouraged when a significantly larger number of studies on the subject will be published.Conclusions. - Various improvements to the reviewed programs could be implemented in order to enhance job tenure, notably by integrating other components such as social skills training or by focusing the remediation on cognitive functions more closely related to job tenure. (C) 2018 Elsevier Masson SAS. All rights reserved.",
+    "DOI": "10.1016/j.amp.2018.01.015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis, which meets the inclusion criteria. The study is conducted in EU countries (France), Europe, and US, and it includes people with mental disorders or documented mental health problems. The study also presents measures of employment or labor results, specifically job tenure.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (meta-analysis), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment with cognitive remediation), population (people with schizophrenia, a mental disorder), and outcomes (job tenure).",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

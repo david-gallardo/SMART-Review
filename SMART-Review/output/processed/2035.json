@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2035,
+    "Authors": "Chang, Feng-Hang; Helfrich, Christine A.; Coster, Wendy J.; Rogers, E. Sally",
+    "Article Title": "Factors Associated with Community Participation among Individuals Who Have Experienced Homelessness",
+    "Abstract": "Community participation is an important goal for people who have experienced homelessness. The aim of this study was to use the International Classification of Functioning, Disability and Health (ICF) as a framework to examine factors associated with community participation among people who are homeless or recently housed through housing programs. Participants (n = 120) recruited from six housing placement and search programs completed measures of community participation (including productivity, social and leisure, and community-services-use domains), psychiatric and physical symptoms, functional limitations, and a demographic form. Multiple regression analyses were used to identify predictors of overall community participation and subdomain scores. Results suggested that cognitive and mobility limitations, relationship status, and housing status significantly predicted both overall participation and participation in productivity and social and leisure subdomains. Participants who were housed through housing programs, who had cognitive and mobility limitations, and who were single showed less community participation. The findings suggest that activity limitations and environmental and personal factors may need to be addressed in efforts to enhance community participation in this population.",
+    "DOI": "10.3390/ijerph120911364",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention does not involve job search services, adult training, wage subsidies, or supported employment. It focuses on community participation among individuals who have experienced homelessness.",
+            "study_design": "Cross-sectional survey with multiple regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homelessness and not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

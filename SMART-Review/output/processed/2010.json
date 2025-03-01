@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2010,
+    "Authors": "Galan, Inaki; Simon, Lorena; Rodriguez-Blazquez, Carmen; Ortiz, Cristina; Lopez-Cuadrado, Teresa; Merlo, Juan",
+    "Article Title": "Individual and Contextual Factors Associated With Hazardous Drinking in Spain: Evidence From a National Population-Based Study",
+    "Abstract": "Background Heavy drinking (HD) and binge drinking (BD) exhibit marked differences in their relationships with contextual-level factors imbedded in geographical areas of residence. The objective is to identify sociodemographic factors, both at the individual and at the contextual level, associated with these 2 main hazardous consumption patterns. Methods Cross-sectional study using data from the 2011 to 2012 National Health Survey in Spain. The sample included 21,007 individuals >= 15 years of age. HD was defined as an alcohol intake of >= 40 g/d in men and >= 24 g/d in women. BD was defined as the consumption in the previous month of >= 6 alcoholic drinks (men) or >= 5 drinks (women) within 4 to 6 hours. Individual-level variables included sociodemographic factors, urban/rural residence, smoking, and perceived social support. Contextual-level variables covered percentage of population with no schooling, unemployment rate, and hospitality industry-related economic activity, all at the census tract level. We analyzed data using multilevel logistic regression and calculated areas under the curve (AUC). Results Being male, smoking, high-income, and low perceived social support were associated with both hazardous drinking patterns. Younger individuals were at higher risk for BD but at lower risk for HD. BD was more common among rural than urban dwellers (odds ratios [OR] = 1.35; 95% CI: 1.05 to 1.72), whereas HD was less likely in participants residing in areas with high unemployment rates (OR = 0.62; 95% CI: 0.41 to 0.93). HD was more likely in census tracts with higher levels of hospitality industry activity (OR = 1.74; 95% CI: 1.20 to 2.54). The AUC increased substantially for both HD and BD when the census tract variable was entered in the respective models (reaching 89.5 and 93.3%, respectively). Conclusions Except for age, both drinking patterns have similar associations with individual-level variables but disparate links to contextual-level indicators. In both cases, accounting for area of residence substantially increased the ability to discriminate between high-risk drinkers from nonhazardous alcohol consumers.",
+    "DOI": "10.1111/acer.14451",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on hazardous drinking patterns rather than employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study which lacks a rigorous evaluation and does not have a control group. It also focuses on hazardous drinking patterns in Spain without addressing employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective. It also does not include interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes related to mental health.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

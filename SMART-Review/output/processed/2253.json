@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2253,
+    "Authors": "Pelaez-Fernandez, Maria Angeles; Rey, Lourdes; Extremera, Natalio",
+    "Article Title": "A Sequential Path Model Testing: Emotional Intelligence, Resilient Coping and Self-Esteem as Predictors of Depressive Symptoms during Unemployment",
+    "Abstract": "The unemployment rate has dramatically increased in southern Europe in the last decade. Although it is well-known that unemployment impairs mental health, the specific roles of personal resources like emotional intelligence (EI) and potential underlying mechanisms remain unclear. Prior studies have shown that resilience and self-esteem are mediators in the link between EI and mental health. The present study aims to bridge these gaps by testing a sequential path model. Specifically, we propose that EI is associated with lower depressive symptoms, which is explained by higher resilient coping strategies and a resulting increased self-esteem among unemployed individuals. A sample of Spanish unemployed persons completed measures of EI, resilience, self-esteem and depression. The results showed that higher levels of EI were positively associated with resilience and self-esteem and negatively related to depressive symptoms. Path analyses showed that resilience and self-esteem mediated the relation between EI and depression in sequence. These findings suggest that EI plays a key role in promoting mental health and provide preliminary evidence regarding potential mechanisms through which EI contributes to mental health during unemployment. Implications for assessing the absence of these positive resources in developing effective job search programs geared toward promoting mental health and re-employment are discussed.",
+    "DOI": "10.3390/ijerph18020697",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the role of emotional intelligence and its impact on depressive symptoms during unemployment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployed individuals in southern Europe and examines the relationship between emotional intelligence (EI), resilience, self-esteem, and depressive symptoms. It does not meet the inclusion criteria as it does not focus on employment interventions or outcomes for people with mental health disorders. The study design is not specified as an RCT, systematic review, or meta-analysis, and it does not include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "correlational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with path analysis",
+            "logprobs": null
+        }
+    }
+}

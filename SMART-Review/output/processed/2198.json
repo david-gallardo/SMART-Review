@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2198,
+    "Authors": "Canivet, Catarina; Bodin, Theo; Emmelin, Maria; Toivanen, Susanna; Moghaddassi, Mahnaz; Ostergren, Per-Olof",
+    "Article Title": "Precarious employment is a risk factor for poor mental health in young individuals in Sweden: a cohort study with multiple follow-ups",
+    "Abstract": "Background: The globalisation of the economy and the labour markets has resulted in a growing proportion of individuals who find themselves in a precarious labour market situation, especially among the young. This pertains also to the Nordic countries, despite their characterisation as well developed welfare states with active labour market policies. This should be viewed against the background of a number of studies, which have shown that several aspects of precarious employment are detrimental to mental health. However, longitudinal studies from the Nordic region that examine the impact of precarious labour market conditions on mental health in young individuals are currently lacking. The present study aims to examine this impact in a general cohort of Swedish young people.Methods: Postal questionnaires were sent out in 1999/2000 to a stratified random sample of the Scania population, Sweden; the response rate was 58 %. All of those who responded at baseline were invited to follow-ups after 5 and 10 years. Employment precariousness was determined based on detailed questions about present employment, previous unemployment, and self-rated risk of future unemployment. Mental health was assessed by GHQ-12. For this study individuals in the age range of 18-34 years at baseline, who were active in the labour market (employed or seeking job) and had submitted complete data from 1999/2000, 2005, and 2010 on employment precariousness and mental health status, were selected (N = 1135).Results: Forty-two percent of the participants had a precarious employment situation at baseline. Labour market trajectories that included precarious employment in 1999/2000 or 2005 predicted poor mental health in 2010: the incidence ratio ratio was 1.4 (95 % CI: 1.1-2.0) when excluding all individuals with mental health problems at baseline and adjusting for age, gender, social support, social capital, and economic difficulties in childhood. The population attributable fraction regarding poor mental health in the studied age group was 18 %.Conclusions: This study supported the hypothesis that precarious employment should be regarded as an important social determinant for subsequent development of mental health problems in previously mentally healthy young people.",
+    "DOI": "10.1186/s12889-016-3358-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort study with multiple follow-ups, which meets the inclusion criteria. The study includes employment precariousness as the intervention, and it presents measures of employment outcomes such as job duration and workplace integration. The population is people with mental disorders or documented mental health problems, and the study focuses on employment or labor outcomes.",
+            "study_design": "Cohort study with multiple follow-ups",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group and does not meet the inclusion criteria for intervention (does not address job search services, adult training, wage subsidies, supported employment) or outcomes (does not measure employment or labor results).",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on the impact of precarious employment on mental health rather than evaluating active employment policies.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

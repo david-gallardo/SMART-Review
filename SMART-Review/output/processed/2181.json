@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2181,
+    "Authors": "Salihu, Hamisu M.; Adegoke, Korede; Turner, DeAnne; Al Agili, Dania; Berry, Estrellita",
+    "Article Title": "Social Support and Health-Related Quality of Life Among Low-Income Women: Findings from Community-Based Participatory Research",
+    "Abstract": "Objectives This study examined the association between social support and health-related quality of life (HRQoL) among low-income women in the southeastern region of the United States.Methods Analysis was performed on data from a community needs assessment survey that was designed to explore social determinants of health and QoL indicators using a community-based participatory research approach. The study sample comprised 132 women aged 18 years old and older. Bivariate analysis and logistic regressions with bootstrapping were performed.Results Social support was predictive of physical and mental HRQoL in a contrasting fashion, suggesting a complex relation. Other social determinants of global HRQoL independent of social support status include marital and employment status, maternal age, and income. Our results also demonstrate complex interaction patterns across race, social support, and HRQoL.Conclusions The linkage between social support and HRQoL may not be a simple relation, as previously assumed. Rather, it is characterized by multifaceted interactions through which social determinants of health modulate the impact of social support on HRQoL. These are new findings.",
+    "DOI": "10.14423/SMJ.0000000000000635",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on health-related quality of life (HRQoL) among low-income women.",
+            "study_design": "Quasi-experimental study with bivariate analysis and logistic regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on low-income women in the US and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Community-Based Participatory Research",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Community-based participatory research",
+            "logprobs": null
+        }
+    }
+}

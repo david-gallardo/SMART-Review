@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2054,
+    "Authors": "Forster, Myriam; Rogers, Christopher J.; Sussman, Steven; Watts, Jonathan; Rahman, Tahsin; Yu, Sheila; Benjamin, Stephanie M.",
+    "Article Title": "Can Adverse Childhood Experiences Heighten Risk for Problematic Internet and Smartphone Use? Findings from a College Sample",
+    "Abstract": "Background: College students are among the heaviest users of smartphones and the Internet, and there is growing concern regarding problematic Internet (PIU) and smartphone use (PSU). A subset of adverse childhood experiences, household dysfunction [(HHD) e.g.; parental substance use, mental illness, incarceration, suicide, intimate partner violence, separation/divorce, homelessness], are robust predictors of behavioral disorders; however, few studies have investigated the link between HHD and PIU and PSU and potential protective factors, such as social support, among students. Methods: Data are from a diverse California student sample (N = 1027). The Smartphone Addiction Scale-Short Version and Internet Addiction Test assessed dimensions of addiction. Regression models tested associations between students' level of HHD (No HHD, 1-3 HHD, >= 4 HHD) and PSU and PIU, and the role of extrafamilial social support in these relationships, adjusting for age, gender, ethnicity, SES, employment loss due to COVID-19, and depression. Results: Compared to students reporting no HHD, students with >= 4 HHD had twice the odds (AOR: 2.03, 95% CI: 1.21-3.40) of meeting criteria for PSU, while students with 1-3 HHD and >= 4 HHD had three and six times the odds of moderate to severe PIU (AORs: 2.03-2.46, CI:1.21-3.96) after adjusting for covariates. Extrafamilial social support was inversely associated with PIU and moderated the HHD-PSU association for students with 1-3 HHD. Conclusion: Students exposed to HHD may be especially vulnerable to developing behavioral addictions such as PSU and PIU. Extrafamilial social support offset the negative effects of HHD for PSU among the moderate risk group; implications for prevention efforts are discussed.",
+    "DOI": "10.3390/ijerph18115978",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on problematic Internet and smartphone use among college students.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It investigates the relationship between adverse childhood experiences and problematic internet and smartphone use among college students.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on college students and their experiences with household dysfunction and its association with problematic internet and smartphone use. It does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment. The study's population is also not explicitly defined as people with mental health disorders or documented mental health problems, which is a key inclusion criterion.",
+            "study_design": "Regression models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to mental health disorders.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        }
+    }
+}

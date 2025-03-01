@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2239,
+    "Authors": "Aguey-Zinsou, Melissa; Scanlan, Justin Newton; Cusick, Anne",
+    "Article Title": "A Scoping and Systematic Review of Employment Processes and Outcomes for Young Adults Experiencing Psychosis",
+    "Abstract": "Young adults who experience psychosis want to work but are less likely to be employed than their peers. Sixty two studies relating to young adults with psychosis and employment were reviewed following a systematic search of five databases: CINAHL, PsycINFO, MEDLINE, SCOPUS and EMBASE. Publication date ranged from 1973 to 2019 with > 70% between 2010 and 2019. Intervention was considered in 29 papers; critical appraisal revealed 90% of these had moderate to good methodological quality with only three RCTs. Of 11 intervention types Early Intervention  and Individual Placement and Support  were most common; both demonstrating positive impact on obtaining employment. The review identified minimal participant perspectives and great variability in: terminology used; the reporting of participant attributes; intervention characteristics and ways employment outcomes were measured. Employment processes identified were preparing for, seeking, obtaining, keeping and re-obtaining employment, with current research efforts focused on obtaining work. More focus is required on keeping and re-obtaining employment.",
+    "DOI": "10.1007/s10597-022-01056-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Publication date ranged from 1973 to 2019, which is outside the specified timeframe of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it was published before 2005 (publication date ranges from 1973 to 2019). Additionally, while it is a systematic review, its timeframe does not align with the specified period of interest.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young adults with psychosis, not specifically on people with mental health disorders in general.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study includes publications from before 2005.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

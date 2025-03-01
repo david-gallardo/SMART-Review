@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2095,
+    "Authors": "Warren, Jacob C.; Smalley, K. Bryant; Barefoot, K. Nikki",
+    "Article Title": "Psychological well-being among transgender and genderqueer individuals",
+    "Abstract": "The purpose of this study was to compare psychological well-being among transgender women, transgender men, genderqueer/nonbinary individuals, and their cisgender sexual minority counterparts. A total of 2,932 gender and sexual minority individuals participated in the online study. While controlling for age, race/ethnicity, employment status, education, and relationship status, there was significant variation between gender minority subgroups in depression (p < 0.001); anxiety (p = 0.003); stress (p = 0.004); perceived social support (p < 0.001); self-esteem (p = 0.031); self-perceived need for mental health care (p < 0.001); family history of mental illness (p = 0.003); personal history of mental health concerns (p = 0.003); and being in recovery (p = 0.004). Overall, transgender women had the poorest psychological well-being across the majority of variables. In contrast to their transgender peers, genderqueer/nonbinary-identified individuals did not significantly differ from their cisgender sexual minority counterparts on outcomes; however, they did differ on stressors. Transgender men appeared to fall between transgender women and genderqueer/nonbinary individuals in terms of risk factors and outcomes. The current findings highlight the importance of considering the psychosocial experiences of the various gender minority subgroups, separate from not only their cisgender sexual minority counterparts but also each other.",
+    "DOI": "10.1080/15532739.2016.1216344",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on psychological well-being among transgender and genderqueer individuals.",
+            "study_design": "Cross-sectional online study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological well-being among gender minority individuals and does not meet the specified inclusion criteria regarding interventions, population, and outcomes related to employment or labor.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

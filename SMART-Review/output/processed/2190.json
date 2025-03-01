@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2190,
+    "Authors": "Iwanaga, Kanako; Chan, Fong; Tansey, Timothy N.; Wu, Jia Rung; Wehman, Paul; Medina, Maria; Kaya, Cahit",
+    "Article Title": "Demographic covariates and vocational rehabilitation services as predictors of employment outcomes of people with physical disabilities: a hierarchical logistic regression analysis",
+    "Abstract": "PurposeStable employment is essential for the health, psychosocial, and financial well-being of people with physical disabilities (PwPD). Unfortunately, the low employment rate for PwPD in the U.S. exposes them to adverse effects of unemployment, including depression, anxiety, low self-esteem, and physical pain. Helping PwPD find gainful employment will improve their general health and well-being. However, few empirical studies examine factors affecting the employment outcomes of PwPD. This study aims to examine the relationship between demographic covariates, vocational rehabilitation (VR) services, and employment outcomes of PwPD.Materials and MethodsThis secondary data analysis study includes 17,598 PwPD from the U.S. Department of Education's Rehabilitation Services Administration's Case Service Report (RSA-911) dataset. Our analysical approach was hierarchical logistic regression analysis.ResultsFor VR services, workplace support, technology support, job placement assistance, and VR counseling significantly contribute to predicting employment outcomes for PwPD. Even after entering VR services, the demographic variables (age, race, education, referral sources, low-income, long-term unemployment, and disability significancy) were still significant predictors of employment.ConclusionsFindings from this study can be used by state VR counselors and other disability service providers to plan and select effective employment-related interventions to improve the employment outcomes of PwPD.The alarmingly low employment rate among PwPD significantly impacts their psychological, financial, social, and overall health well-being in the U.S.Vocational rehabilitation services, including workplace support, technology assistance, VR counseling, and job placement support, are pivotal in facilitating employment for PwPD.PwPD who received workplace support exhibited nearly six times higher odds of attaining employment compared to those without such assistance.PwPD who received technology support experienced four times higher odds of achieving employment in contrast to those without technology assistance.",
+    "DOI": "10.1080/09638288.2024.2312259",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on people with physical disabilities, which is outside the specified population of people with mental health disorders.",
+            "study_design": "Hierarchical logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on people with physical disabilities rather than mental health disorders. It does not meet the population inclusion criteria.",
+            "study_design": "Secondary data analysis using hierarchical logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on physical disabilities, not mental health disorders.",
+            "study_design": "Secondary data analysis study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is people with physical disabilities, not mental health disorders.",
+            "study_design": "Secondary data analysis using hierarchical logistic regression",
+            "logprobs": null
+        }
+    }
+}

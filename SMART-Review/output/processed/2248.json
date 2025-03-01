@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2248,
+    "Authors": "Anand, Priyanka; Honeycutt, Todd C.",
+    "Article Title": "Long-Term Outcomes for Transition-Age Youth With Mental Health Conditions Who Receive Postsecondary Education Support",
+    "Abstract": "This article examines the relationship between receiving support for postsecondary education (college or vocational training) from state vocational rehabilitation (VR) agencies and long-term outcomes for youth with mental health conditions (MHCs). We use longitudinal data to follow three cohorts of youth VR applicants for 9 years after they applied for VR services. The results show a strong relationship between receipt of postsecondary education support and long-term employment, earnings, and federal disability benefit receipt. For some outcomes, such as being employed in the 9 years after VR application, the number of years employed, and benefit receipt in the 9 years after VR application for those who did not receive benefits at the time of application, the association is larger for youth with MHCs than for those with other disabilities. These findings provide valuable descriptive estimates of the benefits of providing postsecondary education support for VR youth with MHCs and how these benefits compare with youth with other types of disabilities.",
+    "DOI": "10.1177/1044207319848069",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address job search services, adult training, wage subsidies, or supported employment. It focuses on postsecondary education support from state vocational rehabilitation agencies.",
+            "study_design": "Longitudinal study with a cohort of youth VR applicants followed for 9 years after application.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a longitudinal analysis with a control group, focuses on the US, was published within the specified timeframe, examines adult training as an intervention, targets people with mental health conditions, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

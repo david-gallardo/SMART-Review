@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2225,
+    "Authors": "Malmberg-Heimonen, Ira Elena; West, Brady T.; Vuori, Jukka",
+    "Article Title": "Long-Term Effects of Research-Based and Practice-Based Job Search Interventions: An RCT Reevaluation",
+    "Abstract": "Objective: This study reevaluates the effects of a randomized controlled trial (RCT) of job search interventions on labor force participation. In the trial, various methods of job search interventions were included, of which about half were research-based JOBS (Job Opportunity and Basic Skills) interventions and the other half were practice-based, that is, without a theoretical or empirical base. This study compares effects of the research-based and practice-based interventions. Methods: The trial included data from 1998 to 2000 of 1,013 unemployed people in Finland with 3-year follow-up data from official labor market records. Multilevel multinomial logistic regression was used to analyze the intervention effects on labor market outcomes. Results: The results demonstrated that beneficial long-term effects were produced only in interventions based on the research-based JOBS method for participants at risk of baseline depression. In contrast, the practice-based interventions seemed to have adverse effects on employment. Conclusions: These findings indicate the importance of research-based interventions within active labor market policies.",
+    "DOI": "10.1177/1049731517748424",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2025",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Finland), timeframe (2005-2025), intervention (job search services), population (people with mental health disorders at risk of baseline depression), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an RCT, which meets the inclusion criteria. However, the study focuses on unemployed people in Finland, which falls outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Finland is not in EU, Europe, US, Canada, Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

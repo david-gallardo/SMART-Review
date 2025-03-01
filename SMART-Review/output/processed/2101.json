@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2101,
+    "Authors": "Aslund, Cecilia; Starrin, Bengt; Nilsson, Kent W.",
+    "Article Title": "Psychosomatic symptoms and low psychological well-being in relation to employment status: the influence of social capital in a large cross-sectional study in Sweden",
+    "Abstract": "Background: Unemployment is associated with adverse effects on health. Social capital has been suggested as a promoter of health via several causal pathways that are associated with the known health risk factors of being unemployed. This cross-sectional study investigated possible additive-and interaction effects of unemployment and five different measures of social capital in relation to psychosomatic symptoms and low psychological well-being.Methods: A random population sample of 20,538 individuals aged 18-85 years from five counties in Sweden completed a postal survey questionnaire including questions of employment status, psychosomatic symptoms, psychological well-being (General Health Questionnaire-12) and social capital.Results: Psychosomatic symptoms and reduced psychological well-being were more frequent among unemployed individuals compared with individuals who were employed. Moreover, low social capital and unemployment had additive effects on ill-health. Unemployed individuals with low social capital-specifically with low tangible social support-had increased ill-health compared with unemployed individuals with high social capital. Moreover, to have low social capital within several different areas magnified the negative effects on health. However, no significant interaction effects were found suggesting no moderating effect of social capital in this regard.Conclusions: Elements of social capital, particularly social support, might be important health-protective factors among individuals who are unemployed.",
+    "DOI": "10.1186/1475-9276-13-22",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

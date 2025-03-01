@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2021,
+    "Authors": "Michalski, Stefan C.; Ellison, Caroline; Szpak, Ancret; Loetscher, Tobias",
+    "Article Title": "Vocational Training in Virtual Environments for People With Neurodevelopmental Disorders: A Systematic Review",
+    "Abstract": "People with neurodevelopmental disorders are often considered unsuitable or incapable of working in open employment. When employment is available, tasks are often limited, and opportunities for career development are restricted. Policy and funding constraints leave people with disabilities without an opportunity to develop skills due to the additional time and costs for employers. To overcome these barriers, virtual environments have been proposed as a safe and reliable solution for training. An important prerequisite for a wider uptake of training in virtual environments are demonstrations that the training leads to improved performance in the real world. This is particularly true for people with neurodevelopmental disorders, as transferring learnings from one context to another can be challenging. A systematic review was conducted to assess whether training in virtual environments can be used to improve real-world vocational skills in people with neurodevelopmental disorders. After a systematic search in six databases, eight out of the initially identified 1,806 articles met the inclusion criteria. The findings from these eight studies demonstrate that people with neurodevelopmental disorders can transfer vocational skills from virtual environments to real-world settings. With substantial technological improvements, a surge in accessibility, and improved affordability, there is a need to build upon the promising results identified in this review.",
+    "DOI": "10.3389/fpsyg.2021.627301",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on people with neurodevelopmental disorders rather than mental health disorders. It also does not directly address employment outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on neurodevelopmental disorders, not specifically on mental health disorders, and the intervention is not directly related to employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

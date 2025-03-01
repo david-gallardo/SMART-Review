@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2153,
+    "Authors": "Adams, Wallis E.; Rogers, E. Sally; Edwards, Jonathan P.; Lord, Emily M.; McKnight, Lauren; Barbone, Martha",
+    "Article Title": "Impact of COVID-19 on Peer Support Specialists in the United States: Findings From a Cross-Sectional Online Survey",
+    "Abstract": "Objective: Peer support specialists (PSS) are an integral part of the mental health workforce. The purpose of this study was to better understand how the COVID-19 pandemic affected their employment status and day-to-day work. Methods: A cross-sectional, online survey was conducted (May-June 2020). Recruitment occurred through the National Association of Peer Specialists and additional snowball sampling. Closed-and open-ended questions sought information about employment status, work tasks, challenges faced by PSS and by individuals they supported, and positive impacts they experienced. Results: A total of 1,280 surveys were analyzed. Nine percent of respondents reported having lost their job as a result of COVID-19. Of these, 65% reported a length of employment of 2 or more years, and 61% reported working 35 hours or less per week. Job tasks changed dramatically, with 73% reporting engagement in new tasks, including increased reliance on technology (N=717), increased coordination of resources (N=123), and COVID-19-related tasks (N=142). Engagement in some support tasks decreased significantly from prepandemic levels, including individual support provision (p<0.001) and group facilitation (p<0.001). Respondents reported significant challenges among individuals they supported, including increased isolation (92%), substance use (67%), housing instability (38%), and food insecurity (64%). Although respondents also reported challenges, satisfaction with organizational and supervisory support was high. Most respondents (73%) reported positive impacts or benefits from the pandemic. Conclusions: The changing roles and tasks identified in this study have implications for hiring, training, supervising, and supporting peer staff. The peer workforce demonstrated flexibility and commitment to meeting increasing needs.",
+    "DOI": "10.1176/appi.ps.202000915",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional online survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional online survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment outcomes for people with mental health disorders, but rather on the impact of COVID-19 on peer support specialists' employment status and tasks.",
+            "study_design": "Cross-sectional, online survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey without a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

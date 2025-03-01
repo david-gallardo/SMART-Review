@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2029,
+    "Authors": "Ren, Xipei; Yu, Bin; Lu, Yuan; Zhang, Biyong; Hu, Jun; Brombacher, Aarnout",
+    "Article Title": "LightSit: An Unobtrusive Health-Promoting System for Relaxation and Fitness Microbreaks at Work",
+    "Abstract": "Physical inactivity and chronic stress at work increase the risks of developing metabolic disorders, mental illnesses, and musculoskeletal injuries, threatening office workers' physical and psychological well-being. Although several guidelines and interventions have been developed to prevent theses subhealth issues, their effectiveness and health benefits are largely limited when they cannot match workday contexts. This paper presents LightSit, a health-promoting system that helps people reduce physically inactive behaviors and manage chronic stress at work. LightSit comprises a sensor mat that can be embedded into an office chair for measuring a user's sitting posture and heart rate variability and a lighting display that is integrated into a monitor stand to present information unobtrusively, facilitating fitness and relaxation exercises during microbreaks. Following the showroom approach, we evaluated LightSit during a public exhibition at Dutch Design Week 2018. During the eight days of the exhibition, we observed more than 500 sessions of experiences with healthy microbreaks using our prototype. Semistructured interviews were conducted with 50 participants who had office-based jobs and had experienced LightSit. Our qualitative findings indicated the potential benefits of LightSit in facilitating health-promoting behaviors during office work. Based on the insights learned from this study, we discuss the implications for future designs of interactive health-promoting systems.",
+    "DOI": "10.3390/s19092162",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a showcase evaluation, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Showcase evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies and focuses on a health-promoting system for reducing physical inactivity and stress at work. It lacks measures of employment or labor outcomes.",
+            "study_design": "Qualitative study with semi-structured interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on a health-promoting system for physical activity and stress management, not directly on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "public exhibition and interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specified as people with mental disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

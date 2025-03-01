@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2017,
+    "Authors": "Kim, Min; Leierer, Stephen J.; Atherton, W. Leigh; Toriello, Paul J.; Sligar, Steven R.",
+    "Article Title": "The Mediating Influence of Treatment Participation Rate on Post-Treatment Employment",
+    "Abstract": "This study explored treatment participation rate as a mediator between individuals' baseline alcohol use, drug use, and psychiatric issue levels and post-treatment employment status. The study sample included 106 unemployed or underemployed individuals with substance use disorders who were participants in an intensive drug abuse treatment program. Structural equation modeling was applied to examine relationships between study variables. The results showed that (a) the direct effect of individuals' baseline alcohol use, drug use, and psychiatric issue severities reduced treatment participation rate; (b) the direct effect of treatment participation rate ameliorated post-treatment employment status; and (c) the indirect effect of individuals' baseline alcohol use, drug use, and psychiatric issue severities on post-treatment employment status was mediated by treatment participation rate, which reduced the negative influence of baseline issue severity on employment. This significant mediating effect has both practical and theoretical importance in that it indicates the need for increased focus on treatment participation in practice and future research.",
+    "DOI": "10.1177/0034355215610068",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Non-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies or interventions related to people with mental health disorders. It focuses on the mediating role of treatment participation rate in a substance use disorder context.",
+            "study_design": "Structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorders and their impact on employment, not specifically on mental health disorders or employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

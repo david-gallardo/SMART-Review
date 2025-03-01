@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2011,
+    "Authors": "Wewiorski, Nancy J.; Rose, Gary S.; Wang, Shihwe; Dreifuss, Rebecca; Mueller, Lisa; Shirk, Steven D.; Resnick, Sandra G.; Siegel, Michele J.; Drebing, Charles E.",
+    "Article Title": "Motivational Interviewing: Key Ingredients Associated With Taking a Step Toward Employment",
+    "Abstract": "Objective: This study sought to identify key ingredients of motivational interviewing (MI) associated with taking a step in the direction of competitive employment (CE) for unemployed veterans with serious mental illness (SMI). Method: Data were analyzed from 195 audiotaped MI sessions targeted to employment conducted with 39 veterans with SMI. Sessions were coded and analyzed to identify components of MI practice predictive of taking any step in the direction of CE (e.g., asking for a referral to supported employment or conducting a job search). Predictor variables were (a) counselor MI talk behaviors and adherence to MI technical and relational principles and (b) client intensity and frequency of change talk and sustain talk. Covariates were age, gender, race, duration of unemployment, receipt of disability income, health status, work importance, work confidence, mental health diagnosis, and session number. Generalized estimating equations were used to create multivariate models. Results: After controlling for session number, work importance, work confidence and duration of unemployment, variables significant in the adjusted multivariate model were intensity of client change talk and sustain talk and counselor adherence to MI technical principles of cultivating change talk and softening sustain talk. Conclusions and Implications for Practice: Findings suggest that change talk and sustain talk during counseling sessions are associated with taking a step toward employment and that counseling focused on cultivating change talk and softening sustain talk increases the likelihood that unemployed veterans with SMI will take steps toward becoming competitively employed.",
+    "DOI": "10.1037/prj0000474",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a qualitative analysis of audiotaped sessions, which does not meet the inclusion criteria of a systematic review or quasi-experimental study with a control group.",
+            "study_design": "Qualitative analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on motivational interviewing techniques associated with taking a step toward competitive employment for unemployed veterans with serious mental illness.",
+            "study_design": "Quasi-experimental (coded from audiotaped sessions)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly addressing employment but rather on the process of motivational interviewing as a precursor to employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate the effectiveness of an employment intervention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2167,
+    "Authors": "Gjerdalen, Oda Skancke; Lystad, June Ullevoldsaeter; Bull, Helen; Ringen, Petter Andreas; Rossberg, Jan Ivar; Martinsen, Egil W.; Ueland, Torill; Falkum, Erik; Evensen, Stig",
+    "Article Title": "Vocational rehabilitation augmented with cognitive behavioral therapy or cognitive remediation for individuals with schizophrenia: a 5-year follow-up study",
+    "Abstract": "Introduction Although employment is an important part of recovery for individuals with schizophrenia spectrum disorders, the employment rate for this group remains low. Increasing evidence supports the use of augmented vocational rehabilitation (VR) programs to improve occupational outcome. The aim of this study is to explore 5-year follow-up registry data from the JUMP study, a VR program for individuals with schizophrenia spectrum disorders, specifically with regard to competitive employment outcome and predictors of competitive employment. The VR was augmented with either cognitive remediation (CR) or elements from cognitive behavior therapy (CBT). Methods One hundred and forty eight participants with schizophrenia spectrum disorders from six Norwegian counties received 10 months VR augmented with either CR (n = 64) or CBT (n = 84). Both competitive and sheltered workplaces were used. Assessments were conducted at baseline, at post intervention and at 2-year follow-up. Data on employment status at 5-year follow-up was obtained by registry. Results At 5-year follow-up 55.4% were engaged in working activity, of which 22.3% had obtained competitive employment. A further 18.2% had work placements in competitive workplaces. Number of received intervention hours and competitive employment at 2-year follow-up emerged as significant predictors of competitive employment. IQ and intervention type in marginal favor of CBT were predictors on trend level. Conclusion To the best of our knowledge, this is the first study investigating competitive employment at 5-year follow-up for individuals with schizophrenia spectrum disorders. The results add to existing evidence that competitive employment is attainable for this group.",
+    "DOI": "10.1080/08039488.2022.2042598",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries (Norway), within the specified timeframe (2005-2025), and focuses on people with mental health disorders (schizophrenia spectrum disorders), with outcomes related to employment.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a control group and is not an RCT, quasi-experimental study, meta-analysis, or systematic review. It also falls outside the specified geographic scope.",
+            "study_design": "Observational follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with schizophrenia spectrum disorders, which is not explicitly mentioned in the inclusion criteria as a population with mental health disorders. The inclusion criteria specify 'people with mental disorders or documented mental health problems,' and schizophrenia spectrum disorders fall under this category. However, the study's focus on schizoppheria spectrum disorders may not align with the broader objective of identifying what works in active employment policies for people with mental health disorders in general. The study's population is too specific and does not encompass the wider range of mental health disorders that the inclusion criteria aim to address. Additionally, the study's intervention type (Vocational rehabilitation augmented with cognitive behavior therapy or cognitive remediation) does not directly align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment). Therefore, the study does not meet the inclusion criteria and should be excluded.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (Norway not included in EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

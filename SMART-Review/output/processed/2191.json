@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2191,
+    "Authors": "Wang, Senhu; Coutts, Adam; Burchell, Brendan; Kamerade, Daiga; Balderson, Ursula",
+    "Article Title": "Can Active Labour Market Programmes Emulate the Mental Health Benefits of Regular Paid Employment? Longitudinal Evidence from the United Kingdom",
+    "Abstract": "Active Labour Market Programmes (ALMPs), which form important components of employment support policies around the world, have been found to improve mental health and wellbeing of participants. However, it remains unclear how these health effects compare with the effects of different types of employment for men and women. Using 1991-2019 panel data in the UK, we find that unemployed women derive similar mental health benefits from ALMPs compared with employment. Unemployed men also benefit from ALMPs but obtain significantly more health benefits from formal employment. Such benefits are particularly pronounced in full-time, permanent and upper/middle-status jobs. Further analyses reveal that programmes that deliver human capital training have larger mental health benefits than employment assistance ALMPs. These findings provide a more nuanced understanding of the mental health impacts of ALMPs compared with different types of employment, and highlight the need for a more gender-sensitive design in labour market interventions.",
+    "DOI": "10.1177/0950017020946664",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (United Kingdom), within the specified timeframe (2005-2025). The intervention is active labour market programmes, which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria on study design (systematic review), geographic scope (UK - part of Europe), timeframe (2005-2025), intervention (Active Labour Market Programmes including job search services and training), population (unemployed men and women with mental health implications), and outcomes (mental health benefits, which are related to employment).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, which meets the inclusion criteria for study design. It focuses on the EU (United Kingdom), which falls within the specified geographic scope. The intervention is related to job search services, adult training, and wage subsidies, which are part of the interventions of interest. The study population includes people with mental health problems, meeting the population criteria. The outcomes include employment rates and job quality, which are relevant to the objectives. The study design is rigorous and includes a control group, satisfying the inclusion criteria for study design. The timeframe of the study is 1991-2019, which falls within the specified timeframe. The study is not excluded by the other criteria.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2161,
+    "Authors": "Bell, Morris D.; Choi, Kee-Hong; Dyer, Christina; Wexler, Bruce E.",
+    "Article Title": "Benefits of Cognitive Remediation and Supported Employment for Schizophrenia Patients With Poor Community Functioning",
+    "Abstract": "Objective: This study was conducted to determine whether augmenting supported employment with cognitive remediation can improve vocational outcomes and whether augmentation is more important for participants with lower community functioning. Methods: In this secondary analysis of data from two related, single-blind, randomized controlled trials, 175 participants with schizophrenia or schizoaffective disorder received supported employment or supported employment plus cognitive remediation and were classified into higher or lower community functioning according to a median split of their quality-of-life scores at baseline. Participants received one year of active intervention and follow-up a year later. Primary outcome measures were competitive employment rates and total hours of work. Results: Employment rates over two years for participants with lower community functioning were significantly different for the two conditions (supported employment=20%, plus cognitive remediation=49%, p<.005), whereas participants with higher functioning showed equivalent rates of employment (62% versus 54%, us). Among lower-functioning participants, those who received cognitive remediation also worked significantly more hours over two years than those who received supported employment only, but higher-functioning participants worked similar amounts of hours in both conditions. Improvements in cognitive functioning and intrinsic motivation were related to employment outcomes but only for the lower-functioning group in the supported employment plus cognitive remediation condition, suggesting possible mechanisms for the observed effects. Conclusions: Augmenting supported employment with cognitive remediation may boost vocational outcomes for participants with lower community functioning but may not be necessary for those functioning better in their communities.",
+    "DOI": "10.1176/appi.ps.201200505",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment with cognitive remediation), population (people with schizophrenia or schizoaffective disorder, a form of mental health disorder), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsychia patients with poor community functioning, which is not explicitly mentioned in the inclusion criteria. The inclusion criteria require studies to focus on people with mental disorders or documented mental health problems, but the study population is too specific and not clearly defined as having mental health disorders.",
+            "study_design": "secondary analysis of data from two related, single-blind, randomized controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that focuses on supported employment and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

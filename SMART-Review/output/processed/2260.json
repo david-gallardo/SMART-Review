@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2260,
+    "Authors": "McElhiney, Martin C.; Rabkin, Judith G.; Wainberg, Milton L.; Finkel, Madeline R.; Scodes, Jennifer",
+    "Article Title": "Comparison of counseling methods to promote employment for HIV plus ADULTS",
+    "Abstract": "BACKGROUND: Despite improved health and during a strong job market (pre-COVID-19), a substantial proportion of HIV+ adults remained unemployed. This study sought to provide time-limited counseling to promote employment goals.OBJECTIVE: To determine whether behavioral activation (BA) or supportive counseling (SC), would be more effective in promoting vocational goals (full or part-time, paid or volunteer).METHODS: The study included two groups: those with clinically significant fatigue, who were first treated with armodafinil. Once their fatigue diminished, they were enrolled in the counseling program. Those without fatigue were enrolled directly. Both BA and SC interventions were manualized, consisting of eight individual sessions plus a follow-up.RESULTS: 116 participants entered counseling, including 87 assigned to BA and 29 to SC. Of these, 79 completed counseling or found a job by session eight. By follow-up, 51% of BA versus 41% of SC participants had found jobs, a non-significant difference either clinically or statistically.CONCLUSIONS: Multiple issues contributed to difficulty in employment, including gaps in resumes, loss of contact with former colleagues, and uncertainty about career direction. Ongoing barriers included substance use, housing instability, ambivalence about forfeiting government benefits, as well as inadequately treated depression. Success in employment for about half of participants is, in this context, a reasonable outcome.",
+    "DOI": "10.3233/WOR-213529",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders or documented mental health problems. The population consists of HIV+ adults.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on HIV+ adults, not specifically on people with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders specifically; it focuses on HIV+ adults.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

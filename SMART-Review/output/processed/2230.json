@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2230,
+    "Authors": "Mayer, Dennis; Hollederer, Alfons",
+    "Article Title": "What helps the unemployed to stay healthy? A qualitative study of coping with the negative effects of job loss",
+    "Abstract": "Background: A variety of empirical studies have shown the negative effects of unemployment on health. A research gap exists regarding salutogenic factors and successful coping strategies to master involuntary job loss and unemployment with the least damage to health. Hence, this study aims at generating a deeper understanding of coping with unemployment and maintaining health.Design and methods: We conducted problem-centered guideline interviews with 21 unemployed people. For the analysis of the interviews, we followed the qualitative content analysis.Results: The study identified that five themes were particularly relevant in coping with unemployment: i) the financial situation, ii) social support and psychosocial strains due family obligations, iii) health problems, iv) time structure, and v) coping strategies. The respondents expressed their financial situation as a major strain in unemployment. They emphasized the importance of social support by their families, but reported also stressful psychosocial demands due to their family members. Further, our respondents mentioned their health problems as a barrier to reintegration into the labour market. In connection with social role demands, a rudimentary time structure was reported by the participants. The common reported coping strategy in unemployment is seeking social support.Conclusions: In summary, our results show - besides health problems and a deteriorated financial situation in unemployment the great importance of social support and time structure for maintaining mental health in unemployment. Consequently, health promotion approaches for the unemployed should especially target social support and time structure.",
+    "DOI": "10.4081/jphr.2021.2492",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative content analysis, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative content analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (problem-centered guideline interviews) without a control group, does not meet the inclusion criteria for rigorous evaluation. The intervention and population are not specified in relation to employment policies or people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and does not include a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

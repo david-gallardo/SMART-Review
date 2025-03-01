@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2197,
+    "Authors": "Brathen, Magne; van der Wel, Kjetil A.; Loyland, Borghild",
+    "Article Title": "Mental Health and Access to Active Labor Market Programs",
+    "Abstract": "This paper examines the often-overlooked precondition for successful implementation of active labor market policy, namely equal access to labor market programs. Focusing on a cohort of social assistance recipients, we compare program participation between individuals who were eligible for vocational training and had reported psychological distress, to possible participants with other health or social challenges. The study covers a period of six years. The results indicate that social services prioritize training for those without mental health problems. This is true independently of observed differences between the two groups in terms of demographic and human capital characteristics, work motivation and self-efficacy. Hence, the study concludes that there seems to be a mental health access bias in program participation among disadvantaged groups. Policy makers and future research should address possible organizational barriers to equal program access.",
+    "DOI": "10.18291/njwls.v10i3.121843",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly evaluate the effectiveness of interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on access to programs rather than outcomes related to employment.",
+            "study_design": "Cross-sectional comparison over six years",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not measure employment or labor outcomes directly, but rather discusses access to programs.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

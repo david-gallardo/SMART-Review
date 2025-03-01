@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2177,
+    "Authors": "Telle, Nils-Torge; Moock, Joern; Heuchert, Sandra; Schulte, Vivian; Roessler, Wulf; Kawohl, Wolfram",
+    "Article Title": "Job Maintenance through Supported Employment PlUs: A Randomized Controlled Trial",
+    "Abstract": "Sickness absence from work due to experienced distress and mental health issues has continuously increased over the past years in Germany. To investigate how this alarming development can be counteracted, we conducted a randomized controlled trial evaluating a job coaching intervention to maintain the working capacity of members of staff and ultimately prevent sickness absence. Our sample included N = 99 employees who reported mental distress due to work-related problems. The intervention group (n = 58) received between 8 and 12 individual job coaching sessions in which they worked with a professional job coach to reduce their mental distress. The control group (n = 41) received a brochure about mental distress. Data were collected before the start of the study, at the end of the job coaching intervention, and at a 3-month follow-up. These data included the number of sickness absence days as the primary outcome and questionnaire measures to assess burnout indicators, life satisfaction, and work-related experiences and behaviors. Compared with the control group, the results indicated no reduction in sickness absence in the intervention group but fewer depressive symptoms, a heightened ability of the participants to distance themselves from work, more experience of work-related success, less depletion of emotional resources, and a greater satisfaction with life when participants had received the job coaching. Thus, although we could not detect a reduction in sickness absence between the groups, job coaching was shown to be a viable intervention technique to benefit employees by contributing to re-establish their mental health. We discuss the implications of the study and outline future research.",
+    "DOI": "10.3389/fpubh.2016.00194",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in Germany, which falls within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005 and 2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as job duration and job quality.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on reducing sickness absence due to mental distress rather than directly addressing employment outcomes. It does not meet the inclusion criteria for employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The geographic scope is outside the specified regions (Germany is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

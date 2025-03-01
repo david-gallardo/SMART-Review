@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2245,
+    "Authors": "Solar, A.",
+    "Article Title": "DEVELOPMENT OF A SUPPORTED EMPLOYMENT LINKAGE INTERVENTION FOR PEOPLE WITH SCHIZOPHRENIA AT A MENTAL HEALTH UNIT: A PILOT STUDY",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is not directly addressed as one of the specified interventions (job search services, adult training, wage subsidies)",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Pilot Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Pilot Study",
+            "logprobs": null
+        }
+    }
+}

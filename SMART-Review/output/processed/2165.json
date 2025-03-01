@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2165,
+    "Authors": "Cornelius, L. R.; van der Klink, J. J. L.; de Boer, M. R.; Groothoff, J. W.; Brouwer, S.",
+    "Article Title": "Predictors of Functional Improvement and Future Work Status After the Disability Benefit Claim: A Prospective Cohort Study",
+    "Abstract": "Objective In most industrialized countries, disability benefit rates have increased substantially in the past decade. Few beneficiaries return into employment once disability benefit is awarded. The present study aims to investigate which factors predict functional improvement and future work status among persons claiming disability benefit after having been on long-term sickness leave. Methods Prospective cohort study with 1 year follow-up among disability claimants (n = 375; response rate: 24.3 %) conducted in the Netherlands (October 2008-April 2011). Logistic regression was used to analyze associations between predictors [demographics; outcomes of the 12-item General Health Questionnaire (GHQ-12); 10-item Kessler Psychological Distress scale; Alcohol Use Disorders Identification Test; Trimbos/iMTA questionnaire for Costs associated with Psychiatric Illness; Utrecht Coping List; Social Support Questionnaire for Transactions and Satisfaction; certified International Classification of Diseases 10th edition (ICD-10) diagnosis; loss of earning capacity (LEC)] and outcomes [functional improvement on the World Health Organization Disability Schedule 2.0 (WHODAS 2.0) exceeding the standard error of measurement; work status at follow-up]. Results Functional improvement on total WHODAS was reported by 84 (31.9 % of 263 claimants included in analysis). Of those not having work at baseline (n = 338), 34 (9.1 %) respondents had paid work 1 year later. Predictors of functional improvement: GHQ-12 sum score > 20 [odds ratios (OR) 2.9; 95 % confidence intervals (CI) 1.54-5.34]; of future work status: work status at baseline (OR 16.8; 95 % CI 6.55-43.14), LEC < 80 % (OR 4.6; 95 % CI 1.87-11.42), contact with a medical specialist (OR 0.4; 95 % CI 0.19-0.87). Conclusions Only a limited number of factors were found to significantly predict functional improvement and return to paid work after the disability benefit claim, having paid work at baseline being by far the most important factor.",
+    "DOI": "10.1007/s10926-014-9500-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective cohort study with a control group, meeting the inclusion criteria for study design. The study is conducted in the EU (Netherlands), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Prospective cohort study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study without a control group and does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not measure employment or labor results).",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study, which does not meet the inclusion criteria of systematic reviews, meta-analyses, RCTs, or quasi-experimental studies with a control group. The study focuses on disability benefit claimants and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

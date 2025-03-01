@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2174,
+    "Authors": "Yamaguchi, Sosei; Mizuno, Masashi; Sato, Sayaka; Matsunaga, Asami; Sasaki, Natsuki; Shimodaira, Michiyo; Fujii, Chiyo",
+    "Article Title": "Contents and Intensity of Services in Low- and High-Fidelity Programs for Supported Employment: Results of a Longitudinal Survey",
+    "Abstract": "Objective: Little is known about the association between service intensity and fidelity scale score in supported employment programs. This study compares service contents and intensity in low- and high-fidelity programs and examines the validity of the Japanese version of the individualized Supported Employment Fidelity Scale.Methods: The vocational outcomes and service provision data for 51 individuals with schizophrenia in 13 supported employment programs were collected over a 12-month study period. Outcomes, service contents, and service intensity were compared between the low-fidelity group (seven programs; N=29) and the high-fidelity group (six programs; N=22).Results: In both groups, 70% of the total services (hours) were provided in the first 6 months. The high-fidelity group, which was associated with better vocational outcomes than the low-fidelity group (employment rate, 68% versus 38%, respectively), made the greatest effort in job development outside of the agency, whereas the low-fidelity group spent more time on group services. In addition, before the client obtained a job, high-fidelity programs provided outreach services (B=7.2, p=0.043) and agency-based individual services (B=5.7, p<0.001) at greater intensity than did low-fidelity programs. However, no significant between-group difference was found in service intensity once clients were employed.Conclusions: Supported employment programs with a high fidelity score focus more intensely on providing individual services in and outside of the agency, particularly before clients obtain a job. However, clarification of the relationships among service quality at the structure level, amount of follow-up services, and individual needs in supported employment programs is a future issue.",
+    "DOI": "10.1176/appi.ps.201900255",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group. The study also meets the geographic scope, timeframe, and intervention criteria. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the outcomes of interventions aimed at improving employment for people with mental health disorders. It focuses on comparing service intensity and fidelity in supported employment programs without evaluating employment or labor outcomes.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not provide employment or labor outcomes as required.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with schizophrenia (a mental health disorder), includes employment outcomes, and is conducted in Japan which is not within the specified geographic scope.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

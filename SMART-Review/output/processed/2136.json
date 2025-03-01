@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2136,
+    "Authors": "Araten-Bergman, Tal; Tal-Katz, Patricia; Stein, Michael Ashley",
+    "Article Title": "Psychosocial adjustment of Israeli veterans with disabilities: Does employment status matter?",
+    "Abstract": "BACKGROUND: Since its establishment in 1948, the state of Israel has been deeply committed to reintegrating veterans with disabilities into mainstream society. Prominently, the Israeli Ministry of Defence's rehabilitation division provides veterans with disabilities with a wide array of benefits and services aimed at restoring their physical and psychosocial functioning, especially in the workplace. The focus on employment is motivated by a prevailing assumption among professionals that successful adjustment to disability is contingent on an individual's ability to reacquire normative occupational function. To date, however, this widely accepted wisdom has not been empirically scrutinized.OBJECTIVE: To empirically explore whether employment status is associated to psychological, social, and behavioural adjustment attributes.METHODS: One hundred and one employed veterans were compared to 111 non-employed veterans in respect to their self-reported levels of hope, acceptance of disability, social networks size and social participation patterns.RESULTS: Employed veterans reported significantly higher levels psychological adjustment as manifested in elevated hope and acceptance of disability and lighter social network than their non-employed counterparts. However no differences were found between employed and non-employed veterans with respect to their social participation patterns.CONCLUSIONS: The value of these findings, as well as wider implications for rehabilitation professionals and policy makers, is discussed.",
+    "DOI": "10.3233/WOR-141925",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional study without control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on veterans with disabilities in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies such as job search services, adult training, wage subsidies, or supported employment. Additionally, the geographic scope is outside the specified regions (Israel).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

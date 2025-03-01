@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2098,
+    "Authors": "Lee, Eun-Jeong; Park, Jinhee; Chun, Jina; Pi, Sukyeong",
+    "Article Title": "State Vocational Rehabilitation Services and Employment Outcomes for Asian Americans with Psychiatric Disabilities",
+    "Abstract": "One major concern of Asian Americans with psychiatric disabilities is underutilization of services, furthermore their service needs and accessibility have been significantly understudied. This study examined the effects of the public vocational rehabilitation (VR) services on employment outcomes for Asian Americans with psychiatric disabilities in the United States. This study investigated which individual characteristics, work disincentives, and VR service types were related to competitive employment outcomes among Asian Americans with psychiatric disabilities and compared the findings to other racial/ethnic groups. Logistic regression analyses were used to analyze a sample of RSA-911 data from fiscal year 2013. The results provided empirical support regarding VR services and employment outcomes for Asian Americans with psychiatric disabilities. Specifically, level of education, work experiences, and receipt of health insurance benefits were significantly related to employment outcomes among the Asian American group. Regarding VR services, job placement assistance, on-the-job supports, maintenance, miscellaneous training, and other services also predicted employment outcomes. Future research needs to address the impact of specific cultural factors on access to VR services, service utilization, and employment outcomes.",
+    "DOI": "10.1007/s10597-020-00547-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is logistic regression analyses, which meets the inclusion criteria. The study is conducted in the US, within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Logistic regression analyses",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCTs, quasi-experimental studies with control groups) and its population is not clearly defined in terms of mental health disorders. The article focuses on Asian Americans with psychiatric disabilities but does not specify how this aligns with the broader scope of people with mental disorders or documented mental health problems.",
+            "study_design": "Logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which are required by the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the US, published within the timeframe, examines job placement assistance and other relevant interventions, targets people with psychiatric disabilities, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

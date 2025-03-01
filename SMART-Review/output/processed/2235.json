@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2235,
+    "Authors": "Amundsen, Pal Andre; Underwood, Martin; Burton, Kim; Grotle, Margreth; Malmberg-Heimonen, Ira; Kisa, Adnan; Smastuen, Milada Cvancarova; Holmgard, Thor Einar; Martinsen, Amy; Lothe, Jakob; Irgens, Pernille Marie Stahr; Hojen, Magnus; Monsen, Solvi Spilde; Froud, Robert",
+    "Article Title": "Individual supported work placements (ReISE) for improving sustained return to work in unemployed people with persistent pain: study protocol for a cohort randomised controlled trial with embedded economic and process evaluations",
+    "Abstract": "BackgroundAround one-third of workdays lost in Norway are due to musculoskeletal conditions, with persistent (chronic) pain being the most frequent cause of sick leave and work disability. Increasing work participation for people with persistent pain improves their health, quality of life, and well-being and reduces poverty; however, it is not clear how to best help unemployed people who have persistent pain to return to work. The aim of this study is to examine if a matched work placement intervention featuring case manager support and work-focused healthcare improves return to work rates and quality of life for unemployed people in Norway with persistent pain who want to work.MethodsWe will use a cohort randomised controlled approach to test the effectiveness and cost-effectiveness of a matched work placement intervention featuring case manager support and work-focused healthcare compared to those receiving usual care in the cohort alone. We will recruit people aged 18-64, who have been out of work for at least 1 month, had pain for more than 3 months, and want to work. Initially, all (n = 228) will be recruited to an observational cohort study on the impact of being unemployed with persistent pain. We will then randomly select one in three to be offered the intervention. The primary outcome of sustained return to work will be measured using registry and self-reported data, while secondary outcomes include self-reported levels of health-related quality of life and physical and mental health. Outcomes will be measured at baseline and 3, 6, and 12 months post-randomisation. We will run a process evaluation parallel to the intervention exploring implementation, continuity of the intervention, reasons for participating, declining participation, and mechanisms behind cases of sustained return to work. An economic evaluation of the trial process will also be conducted.DiscussionThe ReISE intervention is designed to increase work participation for people with persistent pain. The intervention has the potential to improve work ability by collaboratively navigating obstacles to working. If successful, the intervention may be a viable option for helping people in this population.",
+    "DOI": "10.1186/s13063-023-07211-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort randomised controlled trial with embedded economic and process evaluations, meeting the inclusion criteria for study design. The geographic scope is Norway, which is within the EU, Europe, US, Canada, or Australia. The timeframe is 2005-2025. The intervention is a matched work placement intervention featuring case manager support and work-focused healthcare, which addresses employment. The population is unemployed people with persistent pain, and the outcomes include employment or labor outcomes such as sustained return to work, health-related quality of life, and physical and mental health.",
+            "study_design": "Cohort Randomised Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on individuals with persistent pain rather than mental disorders. Additionally, the intervention is designed for people who have been out of work due to pain and are seeking employment, which does not directly address unemployment caused by mental health issues.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

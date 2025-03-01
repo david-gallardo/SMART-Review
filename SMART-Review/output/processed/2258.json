@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2258,
+    "Authors": "Teixeira, Carina; Santos, Eduardo; Abreu, Manuel Viegas; Rogers, E. Sally",
+    "Article Title": "Current Status of Psychiatric Rehabilitation in Portugal: A National Survey",
+    "Abstract": "Objective: This article reports on the current state of psychiatric rehabilitation in Portugal. Method: A paper-and-pencil survey was sent to 70 institutions to inquire about the provision of psychiatric rehabilitation services and programs. Results: With a response rate of 40%, 14% of institutions indicated that supported education was provided, 36% offered nonmainstream vocational training, and 29% provided supported employment; none provided evidence-based Individual Placement and Support. Permanent group homes in the community (29%) followed by transitional group homes on institutional grounds (18%) were the most common residential services, with supported housing services (14%) offered less frequently. Finally, 93% of institutions offered occupational activities, 61% provided multifamily psychoeducation, and 36% provided single-family psychoeducation. Conclusions and Implications for Practice: Despite recent national initiatives promoting effective psychiatric rehabilitation services, supported employment, supported education, and supported housing are not widely implemented in Portugal. To achieve better outcomes for clients, it is critical that evidence-based and promising practices be extensively disseminated.",
+    "DOI": "10.1037/prj0000144",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a paper-and-pencil survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "paper-and-pencil survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a national survey without randomized controlled trials or other experimental designs that meet the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on psychiatric rehabilitation services in Portugal.",
+            "study_design": "paper-and-pencil survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

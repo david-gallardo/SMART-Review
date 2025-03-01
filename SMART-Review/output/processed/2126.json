@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2126,
+    "Authors": "Kenney, Jennifer L.; Hien, Denise",
+    "Article Title": "Arrest Risks for Women with Substance Use Disorders",
+    "Abstract": "There is well-established evidence that women in the criminal justice system are disproportionately affected by a variety of emotional and economic struggles. Most research involves only women who are under criminal justice supervision. Instead of focusing on women who were involved in the criminal legal system at the time of the study, this secondary analysis used generalized estimating equations to assess women's risk of arrest among a group of women with substance use disorders who also participated in outpatient substance abuse treatment. This study found that increased employment stress (OR = 3.7) and social support stress (OR = 4.3) severity, as recorded through the Addiction Severity Index scoring categories, were associated with arrest in the year after treatment. African American women in this sample were less likely to be arrested (OR = 0.33) post-treatment. Additionally, women who were assigned to trauma-informed treatment were less likely to be arrested (OR = 1.9) post-treatment.",
+    "DOI": "10.1080/00377317.2023.2189467",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Secondary analysis using generalized estimating equations",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and focuses on the risk of arrest for women with substance use disorders. It also lacks an intervention related to active employment policies.",
+            "study_design": "Secondary analysis using generalized estimating equations",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on women with substance use disorders and their risk of arrest, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Secondary analysis using generalized estimating equations",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

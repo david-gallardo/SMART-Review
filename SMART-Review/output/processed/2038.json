@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2038,
+    "Authors": "Poutanen, Joonas; Juvonen-Posti, Pirjo; Unkila, Kirsi",
+    "Article Title": "Sustainable employability in supported employment and Individual Placement and Support interventions in the context of the characteristics of work and perspectives of the employers: A scoping review",
+    "Abstract": "BACKGROUND: In Supported Employment (SE) and Individual Placement and Support (IPS) research, less attention has been paid to employers' interests and the quality and opportunities of jobs or the work itself for sustainable working careers. OBJECTIVE: To explore what is known about sustainable employability in SE and IPS interventions in the context of the characteristics of work and perspectives of employers. METHODS:A systematic literature search was conducted in the Medline, Scopus, PsycINFO, CINAHL, and Social Science Premium Collection (ProQuest) databases. The scoping review process was carried out in accordance with the methodological guidelines. The analysis included numerical summary, qualitative content, and thematic analysis processes. RESULTS: From the total of 2,729 articles, 20 studies were included. The majority of the jobs were entry-level, part-time and on fixed-term basis. There were only few descriptions of interaction at work. From the themes arising from the reviewed studies, Productivity in the job performance, Making a job-person match and Workplaces strategies for integrating work, recovery and wellness contained the most data. CONCLUSION: Research from the point of view of the employers and other workplace actors is scarce. More research is needed also about interactions at work and the meaningfulness of work for people with disabilities.",
+    "DOI": "10.3233/JVR-240029",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic literature search, which meets the inclusion criteria. The study includes a control group (the majority of the jobs were entry-level, part-time and on fixed-term basis), and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration.",
+            "study_design": "Systematic literature search",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a scoping review, not a systematic review or meta-analysis, and does not focus on interventions but rather on employer perspectives and job characteristics.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the criteria for meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

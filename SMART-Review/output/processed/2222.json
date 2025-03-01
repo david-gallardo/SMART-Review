@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2222,
+    "Authors": "Lagomarsino, Elena; Spiganti, Alessandro",
+    "Article Title": "No gain in pain: psychological well-being, participation, and wages in the BHPS",
+    "Abstract": "Accounting for endogeneity, unobserved heterogeneity, and sample selection in an unified framework, we investigate the effect of psychological well-being on wages and labour market participation using a panel from the British Household Panel Survey. We find the effect of psychological well-being on labour market outcomes to differ across gender. In particular, psychological distress significantly reduces participation across genders, but, conditional on participation, has a significant negative effect on hourly wages only in the female sample.",
+    "DOI": "10.1007/s10198-020-01234-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not meet the inclusion criteria for a systematic review or meta-analysis.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It investigates the effect of psychological well-being on wages and labor market participation using a panel from the British Household Panel Survey.",
+            "study_design": "Cross-sectional analysis using panel data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological well-being and wages in the BHPS, not directly on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2145,
+    "Authors": "Linden, Philipp; Reibling, Nadine",
+    "Article Title": "Unemployed plus Sick = More Deserving? A Survey Experiment on How the Medicalization of Unemployment Affects Public Opinion",
+    "Abstract": "The literature on the social legitimacy of welfare benefits has shown that sick persons are perceived more deserving than unemployed individuals. However, these studies examine sick and unemployed persons as distinct groups, while unemployment and sickness are in fact strongly related. Policymakers across Europe have been increasingly concerned with discouraging a medicalization of unemployment and activating sick unemployed persons. Therefore, it is crucial to understand welfare attitudes toward this group. Using a factorial survey fielded with a representative sample of German-speaking adults (N=2,621), we investigate how sickness affects attitudes toward a hypothetical unemployed person on three dimensions: benefit levels, conditions, and sanctions. Respondents allocated similar benefit levels to unemployed persons regardless of whether they have an illness. Yet, they were more hesitant to apply existing conditions (e.g., active job search, job training) or sanction benefits when the unemployed person was also sick. This is except for conditions that tie benefits to obligatory health services (back training or psychological counseling) which was supported by the majority of respondents. Our research shows that the German public is not more generous and only partially more lenient toward sick unemployed persons as there is strong support for conditions targeted at overcoming ill health for this group. The findings underscore that sickness matters for how unemployed persons are perceived, but the impact varies across different dimensions of welfare attitudes.",
+    "DOI": "10.3389/fsoc.2022.738397",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Survey experiment",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group. It is a survey experiment without randomized controlled trials or quasi-experimental studies that meet the inclusion criteria.",
+            "study_design": "Survey Experiment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders and lacks specified interventions.",
+            "study_design": "Factorial survey",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey Experiment",
+            "logprobs": null
+        }
+    }
+}

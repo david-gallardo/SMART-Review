@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2195,
+    "Authors": "Van Aerden, Karen; Gadeyne, Sylvie; Vanroelen, Christophe",
+    "Article Title": "Is any job better than no job at all? Studying the relations between employment types, unemployment and subjective health in Belgium",
+    "Abstract": "Background: This study focuses on the health impact of the labour market position, since recent research indicates that exposure to both unemployment and precarious employment causes serious harm to people's health and well-being. An overview of general and mental health associations of different labour market positions in Belgium is provided. A distinction is made between employment and unemployment and in addition between different types of jobs among the employed, taking into account the quality of employment. Given the fact that precarious labour market positions tend to coincide with a precarious social environment, the latter is taken into consideration by including the composition and material living conditions of the household and the presence of social support.Methods: Belgian data from the 1st Generations and Gender Survey are used. A Latent Class Cluster Analysis is performed to construct a typology of labour market positions that includes four different types of waged employment: standard jobs, instrumental jobs, precarious jobs and portfolio jobs, as well as self-employment and unemployment. Then, binary logistic regression analyses are performed in order to relate this typology to health, controlling for household situation and social support. Two health outcomes are included: self-perceived general health (good versus fair/bad) and self-rated mental health (good versus bad, based on 7 items from the Center for Epidemiologic Studies Depression Scale).Results: Two labour market positions are consistently related to poor general and mental health in Belgium: unemployment and the precarious job type. The rather small gap in general and mental health between both labour market positions emphasises the importance of employment quality for the health and well-being of individuals in waged employment. Controlling for the household level context and social support illustrates that part of the reported health associations can be explained by the precarious social environment of individuals in unfavourable labour market positions.Conclusions: The results from this study confirm that the labour market position and social environment of individuals are important health determinants in Belgium.",
+    "DOI": "10.1186/s13690-017-0225-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on Belgian data from the 1st Generations and Gender Survey, and it includes a typology of labour market positions and binary logistic regression analyses to relate this typology to health outcomes.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation design (RCTs, quasi-experimental studies) and does not include a control group. It also has an undefined population as it does not specifically reference people with mental health disorders or document mental health problems.",
+            "study_design": "Cross-sectional study using Latent Class Cluster Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Latent Class Cluster Analysis and binary logistic regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

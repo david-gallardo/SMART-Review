@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2200,
+    "Authors": "O'Neill, John; Dyson-Hudson, Trevor A.",
+    "Article Title": "Employment After Spinal Cord Injury",
+    "Abstract": "Purpose of ReviewThis review focuses on employment after spinal cord injury (SCI) and highlights recent evidence-based models of vocational rehabilitation.Recent FindingsEmployment rates among people with SCI remain much lower than the general population. Benefits of employment for persons with SCI include improved quality of life, enhanced independence, reduced depression, improved social integration, greater life satisfaction, better health, and longevity. When striving to work after SCI, there are facilitators to be exploited (e.g., education, transportation, assistive technology) and barriers that need management (e.g., secondary medical complications).SummaryIndividualized placement and support (IPS) and vocational resource facilitation (VRF) are examples of new evidence-based models of vocational rehabilitation that integrate vocational services with clinical care in order to better help persons with SCI find competitive employment in the community. If people with SCI do not return to work soon after their injury, then it may take more time for them to reach their full vocational potential.",
+    "DOI": "10.1007/s40141-020-00266-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review, but it lacks a control group and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment) and population (people with mental disorders or documented mental health problems).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders. It focuses on employment after spinal cord injury.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on employment after spinal cord injury, not specifically on people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is people with spinal cord injuries, not mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

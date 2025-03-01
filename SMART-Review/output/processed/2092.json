@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2092,
+    "Authors": "Cherrie, Mark; Curtis, Sarah; Baranyi, Gergo; McTaggart, Stuart; Cunningham, Niall; Licence, Kirsty; Dibben, Chris; Bambra, Clare; Pearce, Jamie",
+    "Article Title": "Use of sequence analysis for classifying individual antidepressant trajectories to monitor population mental health",
+    "Abstract": "BackgroundOver the past decade, antidepressant prescriptions have increased in European countries and the United States, partly due to an increase in the number of new cases of mental illness. This paper demonstrates an innovative approach to the classification of population level change in mental health status, using administrative data for a large sample of the Scottish population. We aimed to identify groups of individuals with similar patterns of change in pattern of prescribing, validate these groups by comparison with other indicators of mental illness, and characterise the population most at risk of increasing mental ill health.MethodsNational Health Service (NHS) prescription data were linked to the Scottish Longitudinal Study (SLS), a 5.3% sample of the Scottish population (N =151,418). Antidepressant prescription status over the previous 6 months was recorded for every month for which data were available (January 2009-December 2014), and sequence dissimilarity was computed by optimal matching. Hierarchical clustering was used to create groups of participants who had similar patterns of change, with multi-level logistic regression used to understand group membership.ResultsFive distinct prescription pattern groups were observed, indicating: no prescriptions (76%), occasional prescriptions (10%), continuation of prior use of prescriptions (8%), a new course of prescriptions started (4%) or ceased taking prescriptions (3%). Young, white, female participants, of low social grade, residing in socially deprived neighbourhoods, living alone, being separated/divorced or out of the labour force, were more likely to be in the group that started a new course of antidepressant prescriptions.ConclusionsThe use of sequence analysis for classifying individual antidepressant trajectories offers a novel approach for capturing population-level changes in mental health risk. By classifying individuals into groups based on their anti-depressant medication use we can better identify how over time, mental health is associated with individual risk factors and contextual factors at the local level and the macro political and economic scale.",
+    "DOI": "10.1186/s12888-020-02952-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on classifying individual antidepressant trajectories to monitor population mental health.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks an intervention related to employment policies. It focuses on antidepressant prescriptions and population-level changes in mental health status.",
+            "study_design": "Observational with sequence analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the specified inclusion criteria as it does not focus on employment or labor outcomes and uses a study design not listed in the inclusion criteria.",
+            "study_design": "Sequence analysis on prescription data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes.",
+            "study_design": "Observational study using sequence analysis",
+            "logprobs": null
+        }
+    }
+}

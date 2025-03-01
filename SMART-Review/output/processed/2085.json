@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2085,
+    "Authors": "Ellison, Marsha Langer; Reilly, Erin D.; Mueller, Lisa; Schultz, Mark R.; Drebing, Charles E.",
+    "Article Title": "A Supported Education Service Pilot for Returning Veterans With Posttraumatic Stress Disorder",
+    "Abstract": "A randomized controlled pilot of supported education services was conducted with 33 Operation Enduring Freedom, Operation Iraqi Freedom, and Operation New Dawn (OEF, OIF, OND, respectively) veterans with posttraumatic stress disorder (PTSD) who had higher education goals. Veteran peers delivered supported education services to an intervention group; for the control group, peers provided matched attention of generalized support without supporting educational goals. The intervention was based on a manualized veteran-centric program of supported education using principles of supported employment for individuals living with mental illness and components of civilian models of supported education. The attrition rate was high, with 30% lost to services between the baseline screening and the first peer session, although this drop-out rate is comparable to other rehabilitation studies. Despite a small sample and a matched attention control that could have diluted possible effects, significant positive differences were found, with the intervention group spending greater amounts of time on educational activities than did the control group. Effect sizes for the impact of the intervention were large between Time 1 and Time 2, and moderately large between Time 2 and Time 3. PTSD-symptom severity and recovery attitudes did not predict the impact of the supported education intervention. Implementation of the veteran supported education program using veteran peers appears feasible, although assertive outreach may be necessary to recruit and engage veterans with PTSD. Findings suggest that supported education services can have a measurable effect on time spent attaining an educational goal. Future studies will need to be longitudinal, as well as attend to the attrition issue and capture the impact on other education outcomes, such as successful program completion.",
+    "DOI": "10.1037/ser0000180",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled pilot, meeting the inclusion criteria for study design. The geographic scope is within the US, meeting the inclusion criteria for geographic scope. The timeframe is within 2005-2025, meeting the inclusion criteria for timeframe. The intervention is supported education services, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as time spent attaining an educational goal, meeting the inclusion criteria for outcomes.",
+            "study_design": "Randomized Controlled Pilot",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on veterans with PTSD rather than people with mental disorders in general. The population is specific to veterans and does not encompass a broader scope of mental health issues.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on veterans with PTSD and not specifically on people with mental health disorders in general. The intervention is also not directly related to employment but to education.",
+            "study_design": "Randomized controlled pilot study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment; it focuses on supported education services.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

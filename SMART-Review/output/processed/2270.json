@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2270,
+    "Authors": "Kreuzfeld, S.; Weippert, M.; Kumar, M.; Rieger, A.; Stoll, R.",
+    "Article Title": "Work-related Setting Approach with Health Counselling Supports a Healthy Lifestyle of Long-Term Unemployed Persons",
+    "Abstract": NaN,
+    "DOI": "10.1055/s-0032-1330000",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

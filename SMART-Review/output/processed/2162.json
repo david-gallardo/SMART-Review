@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2162,
+    "Authors": "Bowersox, Nicholas W.; Jagusch, Jennifer; Garlick, James; Chen, Jason I.; Pfeiffer, Paul N.",
+    "Article Title": "Peer-based interventions targeting suicide prevention: A scoping review",
+    "Abstract": "Peers of individuals at risk for suicide may be able to play important roles in suicide prevention. The aim of the current study is to conduct a scoping review to characterize the breadth of peer-delivered suicide prevention services and their outcomes to inform future service delivery and research. Articles were selected based on search terms related to peers, suicide, or crisis. After reviews of identified abstracts (N = 2681), selected full-text articles (N = 286), and additional references (N = 62), a total of 84 articles were retained for the final review sample.Types of suicide prevention services delivered by peers included being a gatekeeper, on-demand crisis support, crisis support in acute care settings, and crisis or relapse prevention. Peer relationships employed in suicide prevention services included fellow laypersons; members of the same sociodemographic subgroup (e.g., racial minority), workplace, or institution (e.g., university, correctional facility); and the shared experience of having a mental condition. The majority of published studies were program descriptions or uncontrolled trials, with only three of 84 articles qualifying as randomized controlled trials. Despite a lack of methodological rigor in identified studies, peer support interventions for suicide prevention have been implemented utilizing a diverse range of peer provider types and functions. New and existing peer-delivered suicide prevention services should incorporate more rigorous evaluation methods regarding acceptability and effectiveness.",
+    "DOI": "10.1002/ajcp.12510",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study is a scoping review of peer-delivered suicide prevention services.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it includes only program descriptions and uncontrolled trials. It does not meet the inclusion criteria for having a control group.",
+            "study_design": "Scoping review with program descriptions and uncontrolled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on suicide prevention, not employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

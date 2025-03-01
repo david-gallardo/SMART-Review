@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2089,
+    "Authors": "Mueller, Daniel R.; Roder, Volker",
+    "Article Title": "From Cognitive Training to Cognitive Remediation Therapy: Benefits and Limitations",
+    "Abstract": "Most schizophrenia patients suffer from cognitive deficits. The latter seem to be important for the course and the social (re-) integration of patients. Several neuro-cognitive and social- cognitive domains of functioning relevant for schizophrenia disorders have been identified. Today, quite a lot of cognitive remediation therapy (CRT) approaches are available for the treatment of these functions. They can be categorized as follows: some are simple PC-based trainings following a drill and practice approach (restitution) to increase neuro-cognitive functions. CRT for improving social cognition is rather oriented towards a compensation approach. Additionally, there are some integrated group approaches of CRT that use restitution and compensation. Integrated approaches combine neurocognition with other intervention topics, e.g., functions or symptoms. Empirical data support the evidence for the effectiveness of CRT in improving different cognitive functions (proximal outcome). However, only integrated therapy approaches successfully demonstrated generalization effects on other functions (distal outcome) and follow-up effects. Therefore, integrated approaches can be stronger recommended for clinical practice. The efficacy of CRT contradicts the S3-guidelines of the 'Deutsche Gesellschaft fur Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde', which do not strongly recommend CRT for common clinical practice. This review on CRT also considers this contradiction.",
+    "DOI": "10.1159/000479853",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of cognitive remediation therapy approaches rather than a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for intervention (specifically employment policies) and outcomes (employment or labor results).",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation therapy for schizopsychia patients, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

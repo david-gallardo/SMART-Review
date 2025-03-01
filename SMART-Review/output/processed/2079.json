@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2079,
+    "Authors": "Richter, Dirk; Hoffmann, Holger",
+    "Article Title": "Effectiveness of supported employment in non-trial routine implementation: systematic review and meta-analysis",
+    "Abstract": "PurposeWhile supported employment (SE) programs for people with mental illness have demonstrated their superiority in randomized controlled trials (RCTs) and meta-analyses, little is known about the effectiveness of non-trial routine programs. The primary objective of this study was to estimate a pooled competitive employment rate of non-trial SE programs by means of a meta-analysis. A secondary objective was to compare this result to competitive employment rates of SE programs in RCTs, prevocational training programs in RCTs and in routine implementation.MethodsA systematic review and a random-effects meta-analysis of proportions were conducted. Quality assessment was provided. Moderator analyses by subgroup comparisons were conducted.ResultsResults from 28 samples were included in the meta-analysis. The pooled competitive employment rate for SE routine programs was 0.43 (95% CI 0.37-0.50). The pooled competitive employment rates for comparison conditions were: SE programs in RCTs: 0.50 (95% CI 0.43-0.56); prevocational programs in RCTs: 0.22 (95% CI 0.16-0.28); prevocational programs in routine programs: 0.17 (95% CI 0.11-0.23). SE routine studies conducted prior to 2008 showed a significantly higher competitive employment rate.ConclusionSE routine programs lose only little effectiveness compared to SE programs from RCTs but are much more successful in reintegrating participants into the competitive labor market than prevocational programs. Labor market conditions have to be taken into account when evaluating SE programs.",
+    "DOI": "10.1007/s00127-018-1577-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study also includes a control group (SE programs in RCTs) and presents measures of employment outcomes (competitive employment rates).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (systematic review and meta-analysis), geographic scope (not specified but likely EU countries given the context), timeframe (2005-2025), intervention (supported employment), population (people with mental illness), and outcomes (employment rates).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: systematic review and meta-analysis of controlled trials, EU countries, published within the timeframe, supported employment intervention, population with mental disorders, and includes employment outcomes.",
+            "study_design": "systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

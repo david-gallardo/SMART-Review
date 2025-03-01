@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2236,
+    "Authors": "Drake, Robert E.; Sederer, Lloyd I.; Becker, Deborah R.; Bond, Gary R.",
+    "Article Title": "COVID-19, Unemployment, and Behavioral Health Conditions: The Need for Supported Employment",
+    "Abstract": "The COVID-19 pandemic has caused massive unemployment, exacerbated pre-existing behavioral health (mental health and substance use) disorders for many people, and created new disorders for others. Although policy changes have increased health care and unemployment benefits, most people want jobs and self-sufficiency rather than handouts. A robust evidence base shows that supported employment can enable unemployed people with behavioral health conditions to find competitive, integrated employment and behavioral health supports. Millions of U.S. citizens may need these services as the pandemic recedes and jobs become available. Government attention to supported employment is necessary now more than ever.",
+    "DOI": "10.1007/s10488-021-01130-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The article is an opinion piece discussing the need for supported employment rather than presenting empirical evidence.",
+            "study_design": "Opinion Piece",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on unemployment and behavioral health conditions, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "The study design is not specified in the abstract provided.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, conducted in the US, published within the timeframe, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

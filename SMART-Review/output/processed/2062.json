@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2062,
+    "Authors": "Sanches, Sarita A.; Feenstra, Talitha L.; Swildens, Wilma E.; van Busschbach, Jooske T.; van Weeghel, Jaap; van Asselt, Thea D. I.",
+    "Article Title": "Cost Effectiveness and Budget Impact of the Boston University Approach to Psychiatric Rehabilitation for Increasing the Social Participation of Individuals With Severe Mental Illnesses",
+    "Abstract": "BackgroundThe purpose of this study was to investigate the cost-effectiveness and budget impact of the Boston University Approach to Psychiatric Rehabilitation (BPR) compared to an active control condition (ACC) to increase the social participation (in competitive employment, unpaid work, education, and meaningful daily activities) of individuals with severe mental illnesses (SMIs). ACC can be described as treatment as usual but with an active component, namely the explicit assignment of providing support with rehabilitation goals in the area of social participation. MethodIn a randomized clinical trial with 188 individuals with SMIs, BPR (n = 98) was compared to ACC (n = 90). Costs were assessed with the Treatment Inventory of Costs in Patients with psychiatric disorders (TIC-P). Outcome measures for the cost-effectiveness analysis were incremental cost per Quality Adjusted Life Year (QALY) and incremental cost per proportional change in social participation. Budget Impact was investigated using four implementation scenarios and two costing variants. ResultsTotal costs per participant at 12-month follow-up were euro 12,886 in BPR and euro 12,012 in ACC, a non-significant difference. There were no differences with regard to social participation or QALYs. Therefore, BPR was not cost-effective compared to ACC. Types of expenditure with the highest costs were in order of magnitude: supported and sheltered housing, inpatient care, outpatient care, and organized activities. Estimated budget impact of wide BPR implementation ranged from cost savings to euro190 million, depending on assumptions regarding uptake. There were no differences between the two costing variants meaning that from a health insurer perspective, there would be no additional costs if BPR was implemented on a wider scale in mental health care institutions. ConclusionsThis was the first study to investigate BPR cost-effectiveness and budget impact. The results showed that BPR was not cost-effective compared to ACC. When interpreting the results, one must keep in mind that the cost-effectiveness of BPR was investigated in the area of social participation, while BPR was designed to offer support in all rehabilitation areas. Therefore, more studies are needed before definite conclusions can be drawn on the cost-effectiveness of the method as a whole.",
+    "DOI": "10.3389/fpsyt.2022.880482",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized clinical trial, which is not included in the specified inclusion criteria. The study also lacks a control group.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on social participation rather than employment.",
+            "study_design": "Randomized clinical trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

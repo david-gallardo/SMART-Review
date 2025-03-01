@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2122,
+    "Authors": "Moore, T. H. M.; Kapur, N.; Hawton, K.; Richards, A.; Metcalfe, C.; Gunnell, D.",
+    "Article Title": "Interventions to reduce the impact of unemployment and economic hardship on mental health in the general population: a systematic review",
+    "Abstract": "Background. Job loss, debt and financial difficulties are associated with increased risk of mental illness and suicide in the general population. Interventions targeting people in debt or unemployed might help reduce these effects.Method. We searched MEDLINE, Embase, The Cochrane Library, Web of Science, and PsycINFO (January 2016) for randomized controlled trials (RCTs) of interventions to reduce the effects of unemployment and debt on mental health in general population samples. We assessed papers for inclusion, extracted data and assessed risk of bias.Results. Eleven RCTs (n = 5303 participants) met the inclusion criteria. All recruited participants were unemployed. Five RCTs assessed 'job-club' interventions, two cognitive behaviour therapy (CBT) and a single RCT assessed each of emotional competency training, expressive writing, guided imagery and debt advice. All studies were at high risk of bias. 'Job club' interventions led to improvements in levels of depression up to 2 years post-intervention; effects were strongest among those at increased risk of depression (improvements of up to 0.2-0.3 S.D. in depression scores). There was mixed evidence for effectiveness of group CBT on symptoms of depression. An RCT of debt advice found no effect but had poor uptake. Single trials of three other interventions showed no evidence of benefit.Conclusions. 'Job-club' interventions may be effective in reducing depressive symptoms in unemployed people, particularly those at high risk of depression. Evidence for CBT-type interventions is mixed; further trials are needed. However the studies are old and at high risk of bias. Future intervention studies should follow CONSORT guidelines and address issues of poor uptake.",
+    "DOI": "10.1017/S0033291716002944",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the general population rather than people with mental disorders or documented mental health problems. It does not meet the inclusion criteria for the specified population.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the general population, not specifically on people with mental health disorders.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is the general population, not specifically people with mental disorders.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        }
+    }
+}

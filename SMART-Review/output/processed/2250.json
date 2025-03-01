@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2250,
+    "Authors": "Haw, Camilla; Hawton, Keith; Gunnell, David; Platt, Stephen",
+    "Article Title": "Economic recession and suicidal behaviour: Possible mechanisms and ameliorating factors",
+    "Abstract": "Background: A growing body of research evidence from countries around the world indicates that economic recession is associated with increases in suicide, particularly in males of working age.Aims: To explore contributory and ameliorating factors associated with economic recession and suicide and thereby stimulate further research in this area and encourage policy makers to consider how best to reduce the impact of recession on mental health and suicidal behaviour.Method: We conducted a selective review of the worldwide literature focusing on possible risk factors, mechanisms and preventative strategies for suicidal behaviour linked to economic recession.Results: A model of how recession might affect suicide rates is presented. A major and often prolonged effect of recession is on unemployment and job insecurity. Other important effects include those exerted by financial loss, bankruptcy and home repossession. It is proposed these factors may lead directly or indirectly to mental health problems such as depression, anxiety and binge drinking and then to suicidal behaviour. Countries with active labour market programmes and sustained welfare spending during recessions have less marked increases in suicide rates than those that cut spending on welfare and job-search initiatives for the unemployed. Other measures likely to help include targeted interventions for unemployed people, membership of social organisations and responsible media reporting. Good primary care and mental health services are needed to cope with increased demand in times of economic recession but some governments have in fact reduced healthcare spending as an austerity measure.Conclusion: The research evidence linking recession, unemployment and suicide is substantial, but the evidence for the other mechanisms we have investigated is much more tentative. We describe the limitations of the existing body of research as well as make suggestions for future research into the effects of economic recession on suicidal behaviour.",
+    "DOI": "10.1177/0020764014536545",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a control group and does not directly address employment outcomes.",
+            "study_design": "Selective review of the worldwide literature",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, systematic reviews, etc.), and its geographic scope is worldwide rather than limited to EU countries, Europe, US, Canada, or Australia. Additionally, while it discusses economic recession and suicidal behavior, it does not specifically address interventions related to employment for people with mental health disorders.",
+            "study_design": "Selective review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between economic recession and suicidal behavior, not on employment interventions for people with mental health disorders.",
+            "study_design": "Selective review of the worldwide literature",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Selective review",
+            "logprobs": null
+        }
+    }
+}

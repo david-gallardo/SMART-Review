@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2201,
+    "Authors": "Sage, Daniel",
+    "Article Title": "Do Active Labour Market Policies Promote the Subjective Well-Being of the Unemployed? Evidence from the UK National Well-Being Programme",
+    "Abstract": "In the past 5 years, the UK government has expanded its efforts to understand, measure and incorporate indicators of subjective well-being (SWB) into the policy-making process. Utilizing the new data collected as part of the government's well-being agenda, this paper investigates whether active labour market programmes (ALMPs) are associated with increased SWB amongst the unemployed. Unemployment has long been shown to be detrimental to mental health and happiness. In recent years, ALMPs have been increasingly proposed as potential mechanisms to improve the SWB of the unemployed. Using multiple linear regression models, the findings suggest that ALMPs do improve the SWB of the unemployed. However, there are three caveats. First, the effect of ALMPs appears to be far stronger for evaluative measures of SWB over affective measures. Second, the effect of ALMPs is larger for men than for women. Third, the impact of an ALMP is dependent upon the type of intervention: work-oriented ALMPs are more effective than employment-assistance ALMPs. In light of these findings, the theoretical and policy consequences are discussed.",
+    "DOI": "10.1007/s10902-014-9549-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multiple linear regression model, which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and it focuses on the population of people with mental disorders or documented mental health problems, as well as employment outcomes.",
+            "study_design": "Multiple Linear Regression Model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on subjective well-being (SWB) rather than employment or labor outcomes. It does not meet the outcome criteria.",
+            "study_design": "Quantitative analysis using multiple linear regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on subjective well-being (SWB) and not directly on employment outcomes, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

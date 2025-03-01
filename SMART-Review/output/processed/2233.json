@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2233,
+    "Authors": "Barnay, Thomas",
+    "Article Title": "Health, work and working conditions: a review of the European economic literature",
+    "Abstract": "Economists have traditionally been very cautious when studying the interaction between employment and health because of the two-way causal relationship between these two variables: health status influences the probability of being employed and, at the same time, working affects the health status. Because these two variables are determined simultaneously, researchers control endogeneity skews(e.g., reverse causality, omitted variables) when conducting empirical analysis. With these caveats in mind, the literature finds that a favourable work environment and high job security lead to better health conditions. Being employed with appropriate working conditions plays a protective role on physical health and psychiatric disorders. By contrast, non-employment and retirement are generally worse for mental health than employment, and overemployment has a negative effect on health. These findings stress the importance of employment and of adequate working conditions for the health of workers. In this context, it is a concern that a significant proportion of European workers (29 %) would like to work fewer hours because unwanted long hours are likely to signal a poor level of job satisfaction and inadequate working conditions, with detrimental effects on health. Thus, in Europe, labour-market policy has increasingly paid attention to job sustainability and job satisfaction. The literature clearly invites employers to take better account of the worker preferences when setting the number of hours worked. Overall, a specific flexicurity'' (combination of high employment protection, job satisfaction and active labour-market policies) is likely to have a positive effect on health.",
+    "DOI": "10.1007/s10198-015-0715-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation and does not have a control group. It is a review of the European economic literature and does not present a specific intervention or population.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it lacks rigorous evaluation methods and specific interventions related to employment policies. It provides a review of literature but does not include controlled trials, RCTs, or quasi-experimental studies with control groups.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly related to employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on specific employment interventions for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

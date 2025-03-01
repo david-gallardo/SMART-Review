@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1997,
+    "Authors": "Falco, Alessandra; Girardi, Damiano; Dal Corso, Laura; Yildirim, Murat; Converso, Daniela",
+    "Article Title": "The perceived risk of being infected at work: An application of the job demands-resources model to workplace safety during the COVID-19 outbreak",
+    "Abstract": "Safety at work, both physical and psychological, plays a central role for workers and organizations during the ongoing outbreak of COVID-19. Building on the job demands-resources (JD-R) model applied to safety at work, in this study we proposed that the perceived risk of being infected with COVID-19 at work can be conceptualized as a job demand (i.e., a risk factor for work-related stress), whereas those characteristics of the job (physical and psychosocial) that help workers to reduce or manage this risk can be conceived as job resources (i.e., protective factors). We hypothesized that the perceived risk of being infected at work is positively associated with emotional exhaustion. Furthermore, we hypothesized that job resources, in terms of safety systems, communication, decision-making, situational awareness, fatigue management, and participation in decision-making, are negatively associated with emotional exhaustion. We also hypothesized that job resources buffer the association between perceived risk and emotional exhaustion. Overall, 358 workers (mean(age) = 36.3 +/- 12.2 years) completed a self-report questionnaire, and the hypothesized relationships were tested using moderated multiple regression. Results largely supported our predictions. The perceived risk of being infected at work was positively associated with emotional exhaustion, whereas all the job resources were negatively associated with it. Furthermore, safety systems, communication, decision-making, and participation in decision-making buffered the relationship between the perceived risk of being infected at work and emotional exhaustion. In a perspective of prevention and health promotion, this study suggested that organizations should reduce the potential risk of being infected at work, whenever possible. At same time, those characteristics of the job that can help workers to reduce or manage the risk of infection should be strengthened.",
+    "DOI": "10.1371/journal.pone.0257197",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, but rather focuses on workplace safety and job demands-resources model.",
+            "study_design": "Moderated multiple regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychological well-being rather than interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the perceived risk of COVID-19 infection at work and job resources, which are not directly related to employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "The study design is not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

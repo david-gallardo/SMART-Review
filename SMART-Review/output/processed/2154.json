@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2154,
+    "Authors": "Heinz, Adrienne J.; Meffert, Brienna N.; Halvorson, Max A.; Blonigen, Daniel; Timko, Christine; Cronkite, Ruth",
+    "Article Title": "Employment characteristics, work environment, and the course of depression over 23 years: Does employment help foster resilience?",
+    "Abstract": "Background: Depression is the leading cause of disability and represents a significant challenge to stable employment and professional success. Importantly, employment may also operate as a protective factor against more chronic courses of depression as it can function as a form of behavioral activation and scaffold recovery by facilitating community integration. The current study examined work-related characteristics as protective or risk factors for subsequent long-term depression trajectories.Methods: Relations between employment characteristics and lifetime course of depression were examined among 424 adults in the community who entered treatment for depression. The sample was followed for 23 years with assessments at 1, 4, 10, and 23 years post baseline. At baseline, participants were asked about employment history and status along with work-related events and aspects of their work environments. Depression was measured at each assessment, and three different life course trajectories of depression were identified.Results: Employment at baseline was associated with lower levels of depression at baseline and less severe life courses of depression. Among employed participants, higher occupational prestige, a more supportive work environment (greater involvement, cohesion, and perceived support), and lower work stress (less pressure and more control, role clarity, and autonomy) may protect against more severe, intractable depression over time and may have bolstered functioning.Conclusions: Findings have potential to be harnessed for clinical translation to better inform vocational rehabilitation counseling and human resources programs. Specifically, clinician assessment of work setting can guide patient decision making about how to reduce vulnerability to depression and foster resilience via employment.",
+    "DOI": "10.1002/da.22782",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group and does not meet the intervention criteria as it focuses on employment characteristics and work environment rather than active employment policies or interventions.",
+            "study_design": "Observational longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

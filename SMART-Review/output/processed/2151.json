@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2151,
+    "Authors": "Chen, Fang-pei; Samet, Sharon; Gorroochurn, Prakash; O'Hara, Kathleen M.",
+    "Article Title": "Characterizing Factors of Employment Status in Persons With Major Depressive Disorder",
+    "Abstract": "Employment is fundamental to mental health recovery. The aim of this study is to construct a parsimonious profile indicating employment potential of people with major depressive disorder (MDD) to facilitate clinical assessment on employment participation. Data were drawn from Waves 1 (2001-2002) and 2 (2004-2005) of the National Epidemiologic Survey on Alcohol and Related Conditions. We included participants who had MDD at Wave 1 and were interviewed in both waves (N = 2,864). We conducted Classification and Regression Tree (CART) analysis to identify key characterizing factors of Wave 2 employment among 32 Wave 1 risk and protective factors. The results show that 82.1% of those employed at Wave 1 were likely to be employed at Wave 2. Among those unemployed at Wave 1, 51% of those motivated to work, measured by work-seeking behavior in the prior year, were likely to be employed at Wave 2. Among those unemployed and motivated to work, better functional mental health was associated with employment (>25.3 vs. 25.3). Results highlight the importance of motivation to work, shown in active work seeking, in facilitating employment despite clinical conditions.",
+    "DOI": "10.1177/0163278715619738",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a Classification and Regression Tree (CART) analysis, which is not a rigorous evaluation or a control group.",
+            "study_design": "CART analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not include a control group and is based on observational data from a survey. The timeframe also predates the inclusion criteria (published before 2005).",
+            "study_design": "Observational study using CART analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on characterizing factors influencing employment status in individuals with MDD.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of the intervention.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

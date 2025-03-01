@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2243,
+    "Authors": "Crowe, Laura; Butterworth, Peter; Leach, Liana",
+    "Article Title": "Financial hardship, mastery and social support: Explaining poor mental health amongst the inadequately employed using data from the HILDA survey.",
+    "Abstract": "OBJECTIVE: This study analysed data from the Household Income and Labour Dynamics in Australia (HILDA) Survey to examine the relationship between employment status and mental health, and the mediating effects of financial hardship, mastery and social support. In addition, the study sought to explore the effects of duration of unemployment on mental health.METHODS: The primary analysis used three waves of data from the HILDA Survey with 4965 young adult respondents. Longitudinal population-averaged logistic regression models assessed the association of employment status and mental health, including the contribution of mastery, financial hardship and social support in explaining this association between employment groups (unemployed vs. employed; under employed vs. employed). Sensitivity analyses utilised a fixed-effects approach and also considered the full-range of working-age respondents. Regression analysis was used to explore the effect of duration of unemployment on mental health.RESULTS: Respondents' who identified as unemployed or underemployed were at higher risk of poor mental health outcomes when compared to their employed counterparts. This association was ameliorated when accounting for mastery, financial hardship and social support for the unemployed, and was fully mediated for the underemployed. The fixed-effects models showed the transition to unemployment was associated with a decline in mental health and that mastery in particular contributed to that change. The same results were found with a broader age range of respondents. Finally, the relationship between duration of unemployment and mental health was not linear, with mental health showing marked decline across the first 9 weeks of unemployment.CONCLUSIONS AND IMPLICATIONS: Mastery, social support and financial hardship are important factors in understanding the association of poor mental health with both unemployment and underemployment. Furthermore, the results suggest that the most deleterious effects on mental health may occur in the first two months of unemployment before plateauing. In order to prevent deterioration in mental health, these findings suggest intervention should commence immediately following job loss.",
+    "DOI": "10.1016/j.ssmph.2016.05.002",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal population-averaged logistic regression model, which meets the inclusion criteria. The study also includes a control group (employed vs. unemployed/unemployed) and presents measures of employment outcomes (mental health).",
+            "study_design": "Longitudinal population-averaged logistic regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the relationship between employment status and mental health without examining specific active employment policies.",
+            "study_design": "Cross-sectional analysis using longitudinal data from a survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on financial hardship, mastery, and social support as mediating factors between employment status and mental health, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Longitudinal population-averaged logistic regression models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal population-averaged logistic regression models",
+            "logprobs": null
+        }
+    }
+}

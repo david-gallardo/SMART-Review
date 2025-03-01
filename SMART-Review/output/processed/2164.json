@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2164,
+    "Authors": "Chen, I-Shuo",
+    "Article Title": "Extending the job demands-resources model to understand the effect of the interactions between home and work domains on work engagement",
+    "Abstract": "Scholars have extensively used the job demands-resources model to explain the dynamics underlying work engagement and proposed several versions of the model. However, in theoretical terms, nonwork elements have not been incorporated into the model. This study investigated the roles of home demands and resources in the model by testing the boost/buffer hypotheses for work engagement from the perspective of the work-home interface. We demonstrated that (1) the demands of a domain boost the positive impact of resources drawn from another domain on work engagement, (2) the resources of a domain buffer the negative impact of demands derived from another domain on work engagement; and (3) the buffering and boosting effects of home demands and resources impact work engagement. We conducted a diary study on a group of coffee shop employees in Ireland. The results partially supported the proposed hypotheses but nevertheless indicated support for the cross-domain boost/buffer hypotheses with regard to work engagement. The proposed model may serve as a theoretical foundation for research on issues related to the impact of work and nonwork domains on work engagement.",
+    "DOI": "10.1002/smi.3362",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a diary study, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Diary study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a diary study which lacks a rigorous evaluation or control group. It does not directly address employment interventions and outcomes for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Diary Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Diary study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not address the specified interventions or outcomes.",
+            "study_design": "Diary study",
+            "logprobs": null
+        }
+    }
+}

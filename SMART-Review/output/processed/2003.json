@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2003,
+    "Authors": "Wewiorski, Nancy J.; Gorman, Jay A.; Scoglio, Arielle A. J.; Fukuda, Seiya; Reilly, Erin; Mueller, Lisa; O'Connor, Maureen; Penk, Walter E.; Drebing, Charles E.",
+    "Article Title": "Promising Practices in Vocational Services for the Community Reintegration of Returning Veterans: The Individual Placement and Support Model and Beyond",
+    "Abstract": "Supporting returning veterans' job-seeking, hiring, and retention issues has become an essential goal for effective community reintegration. Given both the particular strengths and challenges associated with veterans transitioning from military to civilian life, multiple models for supported employment have become integrated into Veterans Affairs health care facilities across the nation. In this article, we review the state of vocational rehabilitation for veterans, with a particular focus on individual placement and support-supported employment (IPS-SE), the current vocational services model that is considered the gold standard of vocational rehabilitation. Various modifications to the IPS-SE model are presented, including additions such as cognitive rehabilitation, contingency management, motivational interviewing, supported self-employment, and transitional work. Finally, recommendations are made about future directions and strategies to expand access to IPS-SE-based programs and to effectively meet the needs of returning veterans for employment in jobs of their choice.",
+    "DOI": "10.1037/ser0000177",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: labor regulation policies, social security policies, or does not directly address employment.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on supporting employment for returning veterans and does not specifically address people with mental health disorders. It also lacks an evaluation design that includes a control group.",
+            "study_design": "Review of vocational rehabilitation models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans, not specifically on people with mental health disorders, and the intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental health disorders but veterans.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

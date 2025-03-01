@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2184,
+    "Authors": "Connell, Catriona; Birken, Mary; Carver, Hannah; Brown, Tamara; Greenhalgh, Jessica",
+    "Article Title": "Effectiveness of interventions to improve employment for people released from prison: systematic review and meta-analysis",
+    "Abstract": "BackgroundPeople released from prison experience complex health challenges in addition to challenges resettling into the community. Consequently, employment rates are low. Participating in good quality employment can support good health and is protective against future reoffending. Multiple interventions are provided to support people into employment on release. The effectiveness of interventions for improving employment outcomes has not previously been evaluated in a meta-analysis.AimOur objective was to examine the effectiveness of interventions to improve employment following release from prison.MethodWe searched seven databases and three trial registries for peer reviewed randomised controlled trials (RCTs), published since 2010, that included adults and measured an employment outcome(s). We conducted meta-analysis using random effects models with sub-group and sensitivity analyses. We appraised bias risk per outcome, and incorporated this into an assessment of the certainty estimates for each outcome. A group of people with experience of imprisonment met with us throughout the project to inform our search strategy and interpretation of results.ResultsWe included 12 RCTs (2,875 participants) which were all conducted in the USA. Few outcomes were of low risk of bias. Intervention participants were 2.5 times more likely to work at least one day (95% CI:1.82-3.43) and worked more days over 12 months (MD = 59.07, 95% CI:15.83-102.32) compared to controls. There was no effect on average employment status or employment at study end. There is moderate certainty in these estimates.ConclusionInterventions can improve some employment outcomes for people released from prison. More evidence is required to establish effective interventions for sustaining quality employment, particularly outside the USA, and which consider outcomes for different groups of people released, such as women or those with health or substance use needs.",
+    "DOI": "10.1186/s40352-023-00217-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The article discusses interventions to improve employment for people released from prison, which does not directly address employment.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals released from prison rather than people with mental disorders. It does not meet the population criteria.",
+            "study_design": "Systematic review and meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults released from prison, which does not align with the specified population of people with mental health disorders. Additionally, the study'senvironment' is the US, which falls outside the geographic scope of the inclusion criteria.",
+            "study_design": "Randomized Controlled Trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly mentioned to have mental disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2014,
+    "Authors": "Ferguson, Kristin M.",
+    "Article Title": "From Victims of Market Forces to Entrepreneurs: Rethinking the Role of Supported Employment and Social Entrepreneurship in Behavioral Health Interventions",
+    "Abstract": "The social work literature is largely silent regarding the role of supported employment and social entrepreneurship in promoting behavioral health. This article establishes a case for viewing clients with behavioral health challenges as entrepreneurs who can use employment and social entrepreneurship to improve health, mental health, and economic well-being. The author identifies the relevance of employment and social entrepreneurship to behavioral health by drawing on theories of recovery and rehabilitation and community, economic, and social development. Changes to social work education, research, and practice are recommended to establish a professional niche in integrating employment in behavioral health interventions.",
+    "DOI": "10.1080/23303131.2016.1157115",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It lacks rigorous evaluation and does not include a control group.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment interventions for people with mental health disorders but rather discusses the role of supported employment and social entrepreneurship in behavioral health interventions.",
+            "study_design": "Article type not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

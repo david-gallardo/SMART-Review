@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2259,
+    "Authors": "Heinmueller, M.; Liel, K.; Angerer, P.; Guendel, H.; Geldermann, B.; Gottwald, M.; Kimil, A.; Limm, H.",
+    "Article Title": "Health Coaching as a Part of Integration into the Job Market - Evaluation of a Qualification Concept",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not specify the study design.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention (health coaching) does not directly address job search services, adult training, wage subsidies, or supported employment. The article's title suggests it focuses on health coaching as part of integration into the job market, which may not meet the specified interventions.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not provide enough information to determine if it includes employment outcomes.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

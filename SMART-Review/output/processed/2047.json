@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2047,
+    "Authors": "Devoto, Amanda; Himelein-Wachowiak, McKenzie; Liu, Tingting; Curtis, Brenda",
+    "Article Title": "Women's Substance Use and Mental Health During the COVID-19 Pandemic",
+    "Abstract": "Purpose: Women are experiencing greater unemployment and increased stress from childcare responsibilities than men during the COVID-19 pandemic. Women with these experiences may be at particular risk for mental illness and increased substance use during the COVID-19 pandemic. The purpose of the study was to assess women's substance use, mental health, and experiences of COVID-19 pandemic impacts.Methods: A national online survey was administered to adult women from September to November 2020. The survey included questionnaires assessing mental health, loneliness, intolerance for uncertainty, social support, substance use, and intimate partner violence (IPV).Results: A total of 499 women responded; most were White, college educated, and in their mid-30s. Of the 20.24% who acknowledged at least one IPV problem, 29.7% stated that their IPV problems have gotten worse since the pandemic began, and 16.83% said that they have increased their drug or alcohol use to cope with their relationship problems. Anxiety, perceived daily impact of COVID-19, and lower self-efficacy were significant predictors of COVID-19 anxiety. Those with risky alcohol use had significantly higher anxiety (p = .028) and depression (p = .032) than those with low risk alcohol use.Conclusions: Greater anxiety about COVID-19, greater reported changes in daily life due to the pandemic, and high-risk alcohol use are related to greater mental health-related distress among women. For some, IPV has gotten worse during the pandemic and drug or alcohol use is a coping mechanism.Published by Elsevier Inc. on behalf of Jacobs Institute of Women's Health, George Washington University.",
+    "DOI": "10.1016/j.whi.2022.01.004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on women's substance use and mental health during the COVID-19 pandemic.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the population is not specifically people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on women's substance use and mental health during the COVID-19 pandemic, which does not align with the specified inclusion criteria regarding interventions for people with mental health disorders in the context of active employment policies.",
+            "study_design": "National online survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

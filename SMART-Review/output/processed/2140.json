@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2140,
+    "Authors": "Newton, Helen; Humensky, Jennifer; Goldman, Howard; Busch, Susan H. H.",
+    "Article Title": "What Explains Changes in Availability of Specialty Mental Health Services in Organized Settings?",
+    "Abstract": "Policy PointsCommunity mental health facilities often do not offer the full range of evidence-based clinical and support services for individuals with serious mental illness. Facilities were no more likely to offer six of seven services studied in 2019 compared with 2010 in both Medicaid expansion and nonexpansion states.For-profit facilities generally experienced the largest declines in service availability, while public facilities experienced the smallest declines with small increases in availability of select services.New payment models that incentivize the offer of specialty support services may be needed to encourage adoption of clinical and support services by specialty mental health organizations. ContextCommunity mental health facilities often do not offer the full range of evidence-based clinical and support services for individuals with serious mental illness. This creates equity issues, particularly when low-income and minority communities have access to fewer facilities. Medicaid expansion might encourage facilities to offer these services. However, this decision may also be affected by facility ownership type or mediated by service cost structure, particularly in the absence of innovative payment mechanisms. In this study, we determine whether and how Medicaid expansion and facility ownership are associated with changes in specialty mental health service availability in organized settings over time. MethodsWe estimated two-way fixed effects models using six cross-sections of the National Mental Health Services Survey and compared changes in facility-reported offering of seven services from 2010 to 2019 (54,885 facility years): psychotropic medication, case management, family psychoeducation, psychiatric emergency walk-in services, supported employment, assertive community treatment, illness management, and recovery services. We tested whether Medicaid expansion and facility ownership (private for-profit, private not-for-profit, public) were associated with differential changes in service availability from 2010 to 2019. FindingsOverall, facilities were no more likely to offer nearly all services in 2019 than 2010. We found smaller declines for psychotropic medication and psychiatric emergency walk-in services among facilities in Medicaid expansion states compared to declines in non-Medicaid expansion states (6.3 (95% CI 95% CI = 1.8-10.7) and 5.5 (95% CI = 0.2-10.8) percentage points respectively). For-profit facilities experienced the largest declines in availability from 2010 to 2019, while public facilities experienced the smallest declines and some increases in availability of select services. ConclusionsSpecialty mental health services are still not widely offered in community outpatient settings despite significant investments in Medicaid, although Medicaid expansion was associated with slower declines in availability. New payment models that incentivize outpatient facilities to offer clinical and support services may be needed.",
+    "DOI": "10.1111/1468-0009.12592",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines the availability of specialty mental health services in organized settings, which is not directly related to employment outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the availability of specialty mental health services in community settings.",
+            "study_design": "Cross-sectional analysis using two-way fixed effects models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

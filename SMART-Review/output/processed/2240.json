@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2240,
+    "Authors": "Krug, Gerhard; Prechsl, Sebastian",
+    "Article Title": "The role of social integration in the adverse effect of unemployment on mental health - Testing the causal pathway and buffering hypotheses using panel data",
+    "Abstract": "Social integration is considered crucially important for understanding the adverse effect of unemployment on mental health. Social integration is assumed to either bring about the health effects of unemployment (causal pathway hypothesis) or shield the unemployed from such effects (buffering hypothesis). However, there is scarce empirical evidence, especially based on panel data, regarding these two hypotheses. In our analysis, we use up to ten waves of the Labour Market and Social Security (PASS) German panel study and apply fixed effects panel regressions to account for unobserved confounders. We test several indicators that cover different aspects of social integration (numbers of strong and weak ties, conflict in the household, employed friends, general and job search-specific social support). We find no empirical support for the causal pathway hypothesis and only very limited support for the buffering hypothesis.",
+    "DOI": "10.1016/j.ssresearch.2019.102379",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a panel data analysis without a traditional control group.",
+            "study_design": "Panel data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on the role of social integration in the adverse effect of unemployment on mental health using panel data.",
+            "study_design": "Panel regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of unemployment on mental health and social integration.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

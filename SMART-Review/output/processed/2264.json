@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2264,
+    "Authors": "Davis, Lori L.; Kyriakides, Tassos C.; Suris, Alina; Ottomanelli, Lisa; Drake, Robert E.; Parker, Pamela E.; Mueller, Lisa; Resnick, Sandra G.; Toscano, Richard; Blansett, Catherine M.; McCall, Kimberly P.; Huang, Grant D.",
+    "Article Title": "Veterans Individual Placement and Support Towards Advancing Recovery: Methods and Baseline Clinical Characteristics of a Multisite Study",
+    "Abstract": "Objective: This article describes the methodology and the baseline characteristics of veterans with posttraumatic stress disorder (PTSD) enrolled in a multisite trial comparing supported employment individual placement and support (IPS) to a stepwise vocational transitional work program (TWP). Method: The Veterans Affairs Cooperative Studies Program randomized 541 veterans with PTSD across 12 Veterans Affairs Medical Centers to either IPS or TWP. Demographic and clinical characteristics were evaluated at baseline. Results: Participants averaged 42 (SD +/- 11) years of age and had PTSD for 13 (SD +/- 11) years. The group was comprised of 18% female, 42% African Americans, and 16% Latino participants. Approximately 60% of participants served in the military since 2001, 89% were receiving or applying for service-connected disability, 60% had PTSD from nonsexual combat-related trauma, and 17% had PTSD from military sexual trauma. One third had not held a competitive job in the past 3 years; the average length of unemployment was 2.8 (SD +/- 4) years. Unique study features included the focus on veterans with PTSD, a comparison of a promising practice with a usual-care practice, and the outcome criterion of achieving steady competitive employment. Conclusions and Implication for Practice: This study is the first large-scale randomized trial of IPS in a PTSD population. These baseline findings illustrate the characteristics of the study sample, which are representative of a veteran population in need of vocational rehabilitation services and can be used to help guide the implementation of tailored veteran-centered programs.",
+    "DOI": "10.1037/prj0000250",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the EU (Veterans Affairs Medical Centers), within the specified timeframe (2005-2025), and addresses employment outcomes for people with mental health disorders (PTSD).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with PTSD rather than people with mental disorders in general. It does not meet the population criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with PTSD and does not specifically address employment interventions for people with mental health disorders in general. It also lacks a control group as it compares IPS with TWP.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT comparing supported employment (IPS) to a vocational transitional work program (TWP) for veterans with PTSD, focusing on employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

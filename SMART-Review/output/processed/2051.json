@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2051,
+    "Authors": "Smith, Matthew J.; Pinto, Rogerio M.; Dawalt, Leann; Smith, J. D.; Sherwood, Kari; Miles, Rashun; Taylor, Julie; Hume, Kara; Dawkins, Tamara; Baker-Ericzen, Mary; Frazier, Thomas; Humm, Laura; Steacy, Chris",
+    "Article Title": "Using community-engaged methods to adapt virtual reality job-interview training for transition-age youth on the autism spectrum",
+    "Abstract": "Background: Virtual Reality Job-Interview Training (VR-JIT) is an efficacious Internet-based intervention for adults with severe mental illness (SMI). Evaluations of VR-JIT have shown improved interview skill and access to employment in several cohorts of adults with SMI and with autism spectrum disorders (ASD). VR-JIT trains participants how to fill out job applications and handle job interviews through e-learning content and applied practice. Trainees receive feedback through in-the-moment nonverbal cues, critiques, and recommendations for improving performance. Our study sought to adapt VR-JIT for transition-age youth with ASD (TAY-ASD).Methods: We recruited TAY-ASD and adult stakeholders from public and charter schools, transition programs, and community service providers. Participants provided feedback on VR-JIT to enhance its applicability to TAY-ASD. We used community-engaged methods to process and analyze data from TAY-ASD and stakeholders, presented their quantitative and qualitative responses to community and scientific advisory boards for review and recommendations, and adapted the intervention design and content.Results: Our adaptations included adding diversity (gender; race/ethnicity) to the virtual hiring manager; shortening the interview by reducing response options; increasing social storytelling to enhance engagement with VR-JIT core components; adding employment opportunities more relevant to younger workers; reducing the reading level; and making the e-learning content more accessible by adding bullet points, voiceover, and imagery/video; and adding new learning goals.Conclusions: This study presents a rigorous and innovative community-engaged methodology for adapting VR-JIT to meet the needs of TAY-ASD. We review our engagement with TAY-ASD and stakeholders, and discuss the standardized coding scheme we used to adapt VR-JIT and the usefulness and limitations of employing this methodology in adapting other behavioral interventions.",
+    "DOI": "10.1016/j.rasd.2019.101498",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study was published between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on adapting virtual reality job-interview training for transition-age youth on the autism spectrum.",
+            "study_design": "Community-engaged methods",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adapting VR-JIT for TAY-ASD and does not evaluate employment outcomes or interventions for people with mental health disorders in the context of active employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for rigorous evaluation.",
+            "study_design": "Community-engaged methods",
+            "logprobs": null
+        }
+    }
+}

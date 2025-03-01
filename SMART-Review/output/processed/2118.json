@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2118,
+    "Authors": "Lengen, Julia; Kordsmeyer, Ann-Christin; Harth, Volker; Mache, Stefanie",
+    "Article Title": "Occupational health in social firms-a review of the working and health situation of employees and workplace health promotion",
+    "Abstract": "Background Social firms provide a safe occupational framework for people with mental or physical disabilities on the competitive labour market. Due to the health needs of the target group of people with disabilities and recent legislative changes in Germany, workplace health promotion gains importance in social firms. Objectives In the article an overview of the current state of research regarding the work and health situation of employees in social firms and the implementation of health promotion interventions is presented. Results Research suggests that in the occupational setting a range of health resources (like social support and flexibility) can be provided to gain health-promoting and socially inclusive effects. Conclusion There is a need for analyses of occupational demands and evidence-based health promotion interventions in social firms for people with and without disabilities. This article summarizes recommendations for developing health-promoting working conditions on the basis of previous research, especially regarding work content, work organisation and social relations.",
+    "DOI": "10.1007/s11553-020-00788-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of the current state of research, and it lacks a control group.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is a review article without rigorous evaluation and does not include a control group.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the geographic scope is limited to Germany, which does not explicitly fall under EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

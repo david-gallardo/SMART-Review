@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2224,
+    "Authors": "Ahonle, Zaccheus J.; Barnes, Marcia; Romero, Sergio; Sorrells, Audrey M.; Brooks, Gene I.",
+    "Article Title": "State-Federal Vocational Rehabilitation in Traumatic Brain Injury: What Predictors Are Associated With Employment Outcomes?",
+    "Abstract": "This study identified predictors of employment for individuals with traumatic brain injury (TBI). Data from 4,923 individuals with TBI were extracted from the Rehabilitation Services Administration's Case Service Report (RSA-911) database. A multiple logistic regression model using demographics, disability-related variables, vocational rehabilitation (VR) service variables, and their interactions correctly classified 69.5% of the cases as successfully employed or not successfully employed. The model explained approximately 27.1% of the variance in employment outcomes. Results indicated that level of education, race/ethnicity, age at application, preemployment status, Supplemental Security Income (SSI), Social Security Disability Insurance (SSDI), comorbid depression, and case expenditure were significantly associated with employment outcomes (all p <= .05). VR variables that showed the most significant positive effect on employment outcomes were on-the-job support, job placement, and on-the-job training. Race/ethnicity moderated the effect of college training, supported employment, transportation, and extended evaluation or work trial assessment services on employment outcomes. The findings have implications for promoting the use of those VR services that are strongly related to employment outcomes for persons with TBI. They also point to the need for rehabilitation personnel to address some of the demographic and disability-related barriers to successful employment.",
+    "DOI": "10.1177/0034355219864684",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multiple logistic regression model with a control group, meeting the inclusion criteria for study design. The study is set in the US and within the timeframe of 2005-2025. The intervention is vocational rehabilitation services, which is related to employment. The population is individuals with traumatic brain injury (TBI), and the outcomes are employment rates.",
+            "study_design": "Multiple Logistic Regression Model",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on traumatic brain injury (TBI) rather than mental disorders and does not address the interventions related to employment policies for people with mental health issues.",
+            "study_design": "Multiple logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on traumatic brain injury (TBI) rather than mental health disorders, and the interventions mentioned are not directly related to the specified interventions in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

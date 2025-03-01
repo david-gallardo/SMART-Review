@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2143,
+    "Authors": "McConnell, K. John; Edelstein, Sara; Hall, Jennifer; Levy, Anna; Danna, Maria; Cohen, Deborah J.; Unuetzer, Juergen; Zhu, Jane M.; Lindner, Stephan",
+    "Article Title": "Access, Utilization, and Quality of Behavioral Health Integration in Medicaid Managed Care",
+    "Abstract": "ImportanceMany states have moved from models that carve out to those that carve in or integrate behavioral health in their Medicaid managed care organizations (MCOs), but little evidence exists about the effect of this change.ObjectiveTo assess the association of the transition to integrated managed care (IMC) in Washington Medicaid with health services use, quality, health-related outcomes, and measures associated with social determinants of health.Design, Setting, and ParticipantsThis cohort study used difference-in-differences analyses of Washington State's 2014 to 2019 staggered rollout of IMC on claims-based measures for enrollees in Washington's Medicaid MCO. It was supplemented with interviews of 24 behavioral health agency leaders, managed care administrators, and individuals who were participating in the IMC transition. The data were analyzed between February 1, 2023, and September 30, 2023.Main Outcomes and MeasuresClaims-based measures of utilization (including specialty mental health visits and primary care visits); health-related outcomes (including self-harm events); rates of arrests, employment, and homelessness; and additional quality measures.ResultsThis cohort study included 1 454 185 individuals ages 13 to 64 years (743 668 female [51.1%]; 14 306 American Indian and Alaska Native [1.0%], 132 804 Asian American and Pacific Islander [9.1%], 112 442 Black [7.7%], 258 389 Hispanic [17.8%], and 810 304 White [55.7%] individuals). Financial integration was not associated with changes in claims-based measures of utilization and quality. Most claims-based measures of outcomes were also unchanged, although enrollees with mild or moderate mental illness experienced a slight decrease in cardiac events (-0.8%; 95% CI, -1.4 to -0.2), while enrollees with serious mental illness experienced small decreases in employment (-1.2%; 95% CI -1.9 to -0.5) and small increases in arrests (0.5%; 95% CI, 0.1 to 1.0). Interviews with key informants suggested that financial integration was perceived as an administrative change and did not have substantial implications for how practices delivered care; behavioral health agencies lacked guidance on how to integrate care in behavioral health settings and struggled with new contracts and regulatory policies that may have inhibited the ability to provide integrated care.Conclusions and RelevanceThe results of this cohort study suggest that financial integration at the MCO level was not associated with significant changes in most measures of utilization, quality, outcomes, and social determinants of health. Additional support, including monitoring, training, and funding, may be necessary to drive delivery system changes to improve access, quality, and outcomes.",
+    "DOI": "10.1001/jamahealthforum.2023.4593",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on the integration of behavioral health in Medicaid managed care and its effects on utilization, quality, and health-related outcomes.",
+            "study_design": "Cohort study with difference-in-differences analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

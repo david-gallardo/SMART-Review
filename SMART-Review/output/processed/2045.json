@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2045,
+    "Authors": "Pelletier, Jean-Francois; Davidson, Larry",
+    "Article Title": "[At the very roots of psychiatry as a new medical specialty: the Pinel-Pussin partnership].",
+    "Abstract": "OBJECTIVES: Moral treatment is a psychological approach that contrasted sharply with a treatment of constraint, beatings, immersion in cold water, diet, or repeated heavy bleeding. In response to the violent treatment that was common in asylums of late 18th century, Philippe Pinel conceived a 'medical moral treatment'. This paper considers the roots of the recovery paradigm in the pioneering work of Philippe Pinel and Jean-Baptiste Pussin. The aim is to discuss the early 19th century moral treatment to identify some key principles that can also inspire citizenship-oriented mental health care, but we also suggest that a simple equating of citizenship-oriented practice with moral treatment overlooks some of the central aspects of the recovery paradigm.METHODS: One of the main sources for this discussion is Pinel's 'Memoir on madness' (Pinel, 1794), offered for the first time to the English-speaking reader by Dora Weiner. This analysis also draws on the 'Observations of Citizen Pussin' that Pinel asked him to write for both of them to articulate fully several of the key principles of their humanistic approach.RESULTS: Looking back on the humanistic principles that were at the core of the pioneering work of Philippe Pinel and Jean-Baptiste Pussin, we suggest that the 'moral treatment' they were advocating, more than 200 years ago, was in some ways based on a genuine patient partnership, especially on peer support. The contemporary recovery movement, that might also be centered on the full exercise of citizenship, and the older 'moral treatment' have in common that they both insist that people with mental illness be treated with dignity and respect. However, while the 'moral treatment' was taking place within the asylum, the goal of citizenship-oriented mental health care is one of a life in the community for everyone. We suggest, nevertheless, that Pinel and Pussin have formulated ideas probably so forward thinking that we are just beginning to understand and try to apply them to our post-asylum practices.CONCLUSION: Pinel's philosophy of psychiatry both undergirded moral treatment and can be useful in shaping contemporary patient-centered and citizenship-oriented practice. The insights and lessons offered by Pinel and Pussin are far from being limited to the place and time of their creation. Recent advances in mental health care have been based on insights identical to those of Pinel and Pussin regarding the episodic nature of the illness, the rarity of the illness becoming all-encompassing, the reality of recovery, and the valuable roles that employment and peer mentoring can play in promoting it. We have now seen in the two hundred years that followed the publication of Pinel's Treatise the failures of asylums to provide moral treatment to persons with mental illnesse. In contrast, citizenship-oriented care stresses the importance of self-determination and the active role of the person in recovering a sense of efficacy and agency as a foundation for full citizenship for all.",
+    "DOI": "10.7202/1032380ar",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is not clearly specified, and the intervention, population, and outcomes do not align with the inclusion criteria.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is an historical analysis focusing on the roots of psychiatry and moral treatment.",
+            "study_design": "Historical Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is not focused on interventions directly related to employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Memoir on madness",
+            "logprobs": null
+        }
+    }
+}

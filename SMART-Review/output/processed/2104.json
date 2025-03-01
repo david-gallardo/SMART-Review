@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2104,
+    "Authors": "Sauve, Genevieve; Buck, Gabriella; Lepage, Martin; Corbiere, Marc",
+    "Article Title": "Minds@Work: A New Manualized Intervention to Improve Job Tenure in Psychosis Based on Scoping Review and Logic Model",
+    "Abstract": "Introduction A significant proportion of people experiencing psychosis are unemployed, despite a strong desire to work. Current supported employment programs appear effective in helping them obtain employment, yet job tenure remains an arduous challenge. The objective of this study was to review the literature and model the results to inform the development of a new manualized group psychosocial intervention-'Minds@Work'-aimed specifically at improving job tenure in psychosis. Methods The study was registered on the Open Science Framework platform (https://osf.io/he68z). The literature was searched in Medline, Embase, PsycInfo and Cochrane Library databases for studies examining predictors of job tenure in psychosis and existing occupational psychosocial interventions. Data were extracted using a pre-established form and synthesized using logic models. Results A total of 94 studies were included and their findings were modeled using different categories: intervention typologies, mechanisms of action, predictors of job tenure, outcomes and contextual factors. The 'Minds@Work' program was built based on these modeled findings and aimed to target specific predictors of job tenure while addressing some of the limitations of existing interventions. The program uses evidence-based techniques and is divided into 9 modules covering 4 themes: positive psychology (motivation, character strengths, self-compassion), neurocognitive remediation (attention, memory, problem-solving), cognitive biases training (jumping to conclusions, defeatists beliefs, theory of mind, attributional styles) and socioemotional coping skills (emotion regulation, communication). Conclusions Once validated, this new program is meant to be used either as a stand-alone intervention or integrated in supported employment initiatives, by employment specialists or healthcare workers.",
+    "DOI": "10.1007/s10926-021-09995-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and logic model, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Scoping review and logic model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and logic model development rather than a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment but rather focuses on job tenure in psychosis.",
+            "study_design": "Scoping review and logic model development",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not an eligible type (it's a scoping review and logic model development).",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

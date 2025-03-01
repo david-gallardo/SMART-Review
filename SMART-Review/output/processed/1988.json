@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1988,
+    "Authors": "Wright, Abigail; Browne, Julia; Mueser, Kim T.; Cather, Corinne",
+    "Article Title": "Evidence-Based Psychosocial Treatment for Individuals with Early Psychosis",
+    "Abstract": "Coordinated specialty care (CSC) first-episode models are an evidence based practice in the treatment of first-episode psychosis. Group, individual, and family therapies in CSC aim to help the client and family understand and cope with the experience of psychosis, promote symptomatic and functional recovery and improve quality of life, and support the pursuit of personally meaningful goals of the client. Common elements to these interventions include building a therapeutic alliance, recovery orientation, education, and skills training, which can be directed to a range of targets, including problem-solving, communication, social skills, and social cognition.",
+    "DOI": "10.1016/j.chc.2019.08.013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned in the article.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial treatment for individuals with early psychosis. It does not meet the inclusion criteria for interventions directly addressing employment.",
+            "study_design": "Review of evidence-based practices",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

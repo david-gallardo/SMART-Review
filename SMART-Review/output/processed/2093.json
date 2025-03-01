@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2093,
+    "Authors": "Dougherty, Richard H.; Lyman, D. Russell; George, Preethy; Ghose, Sushmita Shoma; Daniels, Allen S.; Delphin-Rittmon, Miriam E.",
+    "Article Title": "Assessing the Evidence Base for Behavioral Health Services: Introduction to the Series",
+    "Abstract": "Health care reform offers the opportunity for federal and state agencies to work with private and nonprofit sectors to transform the American health care system through development of a comprehensive set of community-based, recovery-oriented, and evidence-based services for people with mental and substance use disorders. This Assessing the Evidence Base Series (AEB Series) provides science-supported information about selected mental health and substance abuse services for health care leaders as they implement new health benefit packages as a part of health care reform. Series authors conducted reviews of research on 14 behavioral health services: behavioral management for children and adolescents, trauma-focused cognitive-behavioral therapy for children and adolescents, recovery housing, residential treatment for individuals with substance use disorders, peer support services for individuals with serious mental illnesses, peer recovery support for individuals with substance use disorders, permanent supportive housing, supported employment, substance abuse intensive outpatient programs, skill building, intensive case management, consumer and family psychoeducation, medication-assisted treatment with methadone, and medication-assisted treatment with buprenorphine. The goal of the AEB Series is to provide a framework for decision makers to build a modern addictions and mental health service system for the people who use these services and the people who provide them. The framework is intended to support decisions about the services that are likely to be most effective. This introduction to the AEB Series explains the methods used to conduct the reviews, rate the research evidence, and describe the effectiveness of the services. The rationale underlying recommendations for implementation of the services is also discussed, and suggestions are offered for future research.",
+    "DOI": "10.1176/appi.ps.201300214",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of research on 14 behavioral health services, but it lacks a rigorous evaluation and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is an introduction to a series of reviews rather than a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. Additionally, the population and outcomes are not specifically focused on employment or labor results for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Introduction to a series of reviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it is not a study design focused on employment interventions for people with mental health disorders. It is a series of reviews on behavioral health services, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review of behavioral health services",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify a controlled trial, RCT, or quasi-experimental study design. It is a review of various behavioral health services but lacks a rigorous evaluation or control group for the specific interventions mentioned.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

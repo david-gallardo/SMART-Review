@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2204,
+    "Authors": "Moore, Katherine",
+    "Article Title": "The quest for sustainable employment: Challenges faced by young people during the job-search process",
+    "Abstract": "Young people who are unable to find and sustain employment are at risk for long-term social and economic exclusion. Active labour market policies (ALMPs) addressing the problem of youth unemployment have focused on building the employability skills of young job seekers to expand their employment opportunities. Yet research exploring how young people navigate the job-search process is limited. Drawing on interviews with young Australian job seekers and their employment consultants, this article addresses the questions of how young people navigate entry into employment through the job-search process and what challenges they face. The study revealed three common frustrations experienced by the young people during their job-search: employers' expectations of relevant work experience in the young person's preferred occupation, being required to apply for jobs not aligned with their career aspirations, and the impact of personal factors on their ability to confidently present themselves to prospective employers. The findings highlight the need for ALMPs and employers to facilitate positive employability support mechanisms that will build a stable platform from which young people can build a trajectory towards sustainable employment to reduce long-term youth unemployment.",
+    "DOI": "10.1002/ajs4.60",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a qualitative study with interviews.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (interviews) and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically addressing job search services, adult training, wage subsidies, supported employment), population (does not reference mental health or have an undefined population), and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the job-search process of young people in Australia and does not specifically address people with mental health disorders or the interventions mentioned in the inclusion criteria.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not specified as having mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

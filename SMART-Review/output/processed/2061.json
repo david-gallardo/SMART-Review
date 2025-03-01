@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2061,
+    "Authors": "Anthony, William A.; Ellison, Marsha L.; Rogers, E. Sally; Mizock, Lauren; Lyass, Asya",
+    "Article Title": "Implementing and Evaluating Goal Setting in a Statewide Psychiatric Rehabilitation Program",
+    "Abstract": "Although the idea of people with psychiatric disabilities determining their own treatment and rehabilitation goals is increasingly accepted, its relationship to service outcomes has rarely been evaluated programmatically. A statewide, Medicaid-funded psychiatric rehabilitation program incorporated a systematic goal setting procedure conducted by practitioners trained in helping people set their own individual rehabilitation goals. Individuals who successfully set either residential or employment goals were followed for up to 18 months to assess progress on these goals. Participants were grouped by type of goal (residential or employment) and by level of participation in the intervention (enrolled, completed 18 months, or graduated). Residential functioning for those who set residential goals increased significantly, independent of level of participation. For people who had set employment goals, only graduates of the intervention showed significant employment gains. Furthermore, employment functioning changed significantly when a goal was set in the residential area; in contrast, residential functioning did not change significantly when goals were set in the employment area. This study suggests that the programmatic effect of goal setting procedures can be evaluated, even when the person's goals are tailored to an individual's unique preference. Implications for rehabilitation counseling will be discussed.",
+    "DOI": "10.1177/0034355213505226",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (grouped by type of goal and level of participation)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychiatric rehabilitation and goal setting, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify the use of a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

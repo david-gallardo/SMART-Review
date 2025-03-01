@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2199,
+    "Authors": "Crost, Benjamin",
+    "Article Title": "Can workfare programs offset the negative effect of unemployment on subjective well-being?",
+    "Abstract": "Previous research suggests that unemployment negatively affects indicators of mental health and wellbeing, but it remains unclear whether active labor market policy can offset this effect. This paper examines a workfare program that was a key part of Germany's active labor market policy for over 30 years. Fixed effects panel estimates suggest that participation in the workfare program offset most, though not all, of the negative effect of unemployment on subjective life satisfaction. Robustness tests find no evidence that this estimate is due to non-parallel time-trends, unobserved shocks in the pre-treatment period, adaptation to unemployment or differences in regional unemployment rates. These results suggest that active labor market policies can help reduce the negative psychological effect of unemployment. (C) 2015 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.econlet.2015.12.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a fixed effects panel estimate, which meets the inclusion criteria for study design. The geographic scope is Germany, which is within the EU. The timeframe is 2015, which falls within the 2005-2025 range. The intervention is a workfare program, which meets the inclusion criteria for intervention. The population references mental health problems, which meets the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration and job quality, which meets the inclusion criteria for outcomes.",
+            "study_design": "Fixed Effects Panel Estimate",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on workfare programs rather than job search services, adult training, wage subsidies, or supported employment. It does not directly address the specific interventions of interest.",
+            "study_design": "Fixed effects panel estimates with robustness tests",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the psychological effects of unemployment and active labor market policies, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Fixed effects panel estimates",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

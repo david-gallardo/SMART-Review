@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2112,
+    "Authors": "Yildiz, Mustafa; Yilmaz, Beyza Nur Kaytaz; Incedere, Aysel; Abut, Fatma Betul; Aydin, Azize Ozgul; Sarandol, Asli; Orum, Tuna Guzide Yener; Kurt, Aydin; Ersan, Etem Erdal",
+    "Article Title": "Rates and correlates of employment in patients with schizophrenia: A multicenter study in Turkey",
+    "Abstract": "Background: There is not enough information regarding the participation in the working life of the patients with schizophrenia in Turkey. Aims: The aim of this study was to examine the occupational experiences of patients with schizophrenia before and after the illness and to investigate the factors that predict work participation. Methods: The data on occupational life of the patients with schizophrenia, which were treated as outpatients in six different centers, were examined. The rates of participation in working life before and after the disease were evaluated. Patients with and without occupational life history after the disease were compared in terms of demographic characteristics. Factors predicting participation in work life after the disease were analyzed by logistic regression analysis. Results: Out of the 587 patients evaluated in the study, 73% were males, 73% were single, the mean age was 42, mean level of education was 9 years and the average duration of illness was 18 years. The duration of the employment before the disease was higher than that after the disease regarding expected working time. The rate of employment was 11% currently, 14% in the last year, 62% after the disease and 83% for the lifetime. While the factors that predicted to be in working life after the illness were male gender (odds ratio (OR) = 2.9), diagnosis of schizoaffective disorder (OR = 2.6), high level of education (OR = 1.2) and employment history before the onset of the illness (OR = 1.0), only the shorter duration of illness (OR = 1.1) predicted the current working status when the gender variable was excluded. Conclusion: Rate of employment of patients with schizophrenia living in Turkey was low as in other countries. Good premorbid functioning seems to determine participation in occupational life after the illness.",
+    "DOI": "10.1177/0020764019839082",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multicenter study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is job search services (implied by the study on employment), the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Multicenter study with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (EU countries, Europe, US, Canada, Australia). The study was conducted in Turkey.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, and it does not focus on the interventions specified in the inclusion criteria.",
+            "study_design": "Case-control study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Turkey is not included).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

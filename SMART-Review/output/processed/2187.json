@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2187,
+    "Authors": "Saloniemi, Antti; Romppainen, Katri; Strandh, Mattias; Virtanen, Pekka",
+    "Article Title": "Training for the unemployed: differential effects in white- and blue-collar workers with respect to mental well-being",
+    "Abstract": "In this study we investigate the effects of active labour market policy measures on health and well-being and how these effects are connected with socioeconomic status. The data were collected among the participants (n = 212) in 24 conventional vocational training courses in Finland. According to the results, training was accompanied by improvements in health and well-being among participants with a higher socioeconomic status, whereas for blue-collar workers the changes were neutral or even detrimental. The results raise questions about the role of active labour market policy measures as a public service. There seems to be a risk that these types of measures maintain or even produce health differences between socioeconomic groups.",
+    "DOI": "10.1177/0950017013510761",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It also does not directly address employment but focuses on health and well-being.",
+            "study_design": "Quasi-experimental with no control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the effects of vocational training on health and well-being, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Finland is not in EU, Europe, US, Canada, Australia).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

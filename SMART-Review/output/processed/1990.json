@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1990,
+    "Authors": "van Dam, Michelle; van Weeghel, Jaap; Castelein, Stynke; Stiekema, Annemarie; Quee, Piotr; Kidd, Sean; Allott, Kelly; Maples, Natalie; Velligan, Dawn; Pijnenborg, Marieke; Meer, Lisette van der",
+    "Article Title": "Development and validation of a fidelity instrument for Cognitive Adaptation Training",
+    "Abstract": "Purpose: Cognitive Adaptation Training (CAT) is a psychosocial intervention with demonstrated effectiveness. However, no validated fidelity instrument is available. In this study, a CAT Fidelity Scale was developed and its psychometric properties, including interrater reliability and internal consistency, were evaluated. Methods: The fidelity scale was developed in a multidisciplinary collaboration between international research groups using the Delphi method. Four Delphi rounds were organized to reach consensus for the items included in the scale. To examine the psychometric properties of the scale, data from a large cluster randomized controlled trial evaluating the implementation of CAT in clinical practice was used. Fidelity assessors conducted 73 fidelity reviews at four mental health institutions in the Netherlands. Results: After three Delphi rounds, consensus was reached on a 44-item CAT Fidelity Scale. After administration of the scale, 24 items were removed in round four resulting in a 20-item fidelity scale. Psychometric properties of the 20-item CAT Fidelity Scale shows a fair interrater reliability and an excellent internal consistency. Conclusions: The CAT fidelity scale in its current form is useful for both research purposes as well as for individual health professionals to monitor their own adherence to the protocol. Future research needs to focus on improvement of items and formulating qualitative anchor point to the items to increase generalizability and psychometric properties of the scale. The described suggestions for improvement provide a good starting point for further development.",
+    "DOI": "10.1016/j.scog.2022.100272",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a Delphi method, which is not a traditional controlled trial or quasi-experimental study with a control group.",
+            "study_design": "Delphi method",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the development and validation of a fidelity instrument for Cognitive Adaptation Training.",
+            "study_design": "Developmental research using Delphi method and cluster randomized controlled trial data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the development and validation of a fidelity instrument for Cognitive Adaptation Training, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "The study design is not explicitly mentioned in the provided abstract, but it appears to be a development and validation study of a fidelity instrument rather than an intervention study with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        }
+    }
+}

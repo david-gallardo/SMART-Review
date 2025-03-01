@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2030,
+    "Authors": "Deans, C.",
+    "Article Title": "Benefits and Employment and Care for Peer Support Staff in the Veteran Community: A Rapid Narrative Literature Review",
+    "Abstract": "Background: Veteran services increasingly use peers to support other veterans. There are hypothesised benefits for the service users, service system and peers.Purpose: This rapid narrative literature review sought recommendations for the employment of veteran peers via related reviews: one on the use of mental health peers, and one on the use of veteran peers irrespective of setting.Method: Searches were conducted using PsycINFO and PubMED databases for peer-reviewed articles over the past decade.Results: Part A of the search returned 117 articles. Article categories were: case studies, single program evaluations, descriptive pieces, literature reviews and employment. There were no outcome evaluations with control or comparison groups. Part B of the search returned 20 articles. Article categories were: case studies, peer, consumer and employment experiences. There were no pre-post program evaluations.Conclusion: There is limited evidence for the benefits of mental health peers or veteran peers. From the current literature, some anticipated benefits and recommendations for the employment of veteran peers can be derived. Anticipated benefits include engagement with providers, social support, stigma reduction, client engagement, program completions and peer benefits. Considerations for employment include principles, selection, training, staff roles, organisational considerations, consumer access and peer care.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lack of rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation as there are no outcome evaluations with control or comparison groups. It also does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Rapid narrative literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment policies for people with mental health disorders, lacks a control group, and does not provide employment outcomes.",
+            "study_design": "Rapid narrative literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation or control group.",
+            "study_design": "Rapid narrative literature review",
+            "logprobs": null
+        }
+    }
+}

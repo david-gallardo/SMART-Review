@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2097,
+    "Authors": "Smith, Matthew J; Bell, Morris D; Wright, Michael A; Humm, Laura Boteler; Olsen, Dale; Fleming, Michael F",
+    "Article Title": "Virtual Reality Job Interview Training and 6-Month Employment Outcomes for Individuals with Substance Use Disorders Seeking Employment.",
+    "Abstract": "BACKGROUND: Individuals with substance use disorders (SUDs) have low employment rates and job interviewing is a critical barrier to employment for them. Virtual reality training is efficacious at improving interview skills and vocational outcomes for several clinical populations.OBJECTIVE: This study evaluated the acceptability and efficacy of virtual reality job interview training (VR-JIT) at improving interview skills and vocational outcomes among individuals with SUDs via a small randomized controlled trial (n=14 VR-JIT trainees, n=11 treatment-as-usual (TAU) controls).METHODS: Trainees completed up to 10 hours of virtual interviews, while controls received services as usual. Primary outcome measures included two pre-test and two post-test video-recorded role-play interviews and vocational outcomes at six-month follow-up.RESULTS: Trainees reported that the intervention was easy-to-use and helped prepared them for future interviews. While co-varying for pre-test role-play performance, trainees had higher post-test role-play scores than controls at the trend level (p<0.10). At 6-month follow-up, trainees were more likely than controls to attain a competitive position (78.6% vs. 44.4%, p<0.05, respectively). Trainees had greater odds of attaining a competitive position by 6 month follow-up compared to controls (OR: 5.67, p<0.05). VR-JIT participation was associated with fewer weeks searching for a position (r= -0.36, p<0.05).CONCLUSIONS: There is preliminary evidence that VR-JIT is acceptable to trainees. Moreover, VR-JIT led to better vocational outcomes with trainees having greater odds of attaining a competitive position by 6-month follow-up. Future studies could evaluate the effectiveness of VR-JIT within community-based services.",
+    "DOI": "10.3233/JVR-160802",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a small randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes employment outcomes such as job duration and job retention, which meets the inclusion criteria. The study is conducted in the US, which meets the geographic scope criteria. The study timeframe is within the specified range of 2005-2025. The intervention is job search services, which is one of the included interventions. The population is individuals with substance use disorders, which meets the population criteria. The study presents measures of employment or labor results, which meets the inclusion criteria.",
+            "study_design": "small randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on individuals with substance use disorders (SUDs) rather than mental health disorders. The population does not align with the specified criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with substance use disorders (SUDs) and not specifically on people with mental health disorders. The intervention is virtual reality job interview training (VR-JIT), which is not one of the interventions listed in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US, published within the specified timeframe (2005-2025), focuses on job search services for individuals with substance use disorders, and includes employment outcomes such as competitive position attainment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

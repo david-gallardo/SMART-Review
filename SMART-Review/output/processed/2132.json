@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2132,
+    "Authors": "Karki, Suyen; Ryynanen, Olli-Pekka; Salokekkila, Pirkko; Haggman-Laitila, Arja",
+    "Article Title": "Bayesian analysis of the factors explaining the disruptive behaviour of care leavers: A retrospective document analysis",
+    "Abstract": "Background: Risky behaviour is more common among care leavers than in the general population. This type of behaviour among care leavers can exacerbate poor life outcomes during the transition to adulthood. Although previous studies acknowledge the significance of risky behaviour, disruptive behaviour and its explanatory factors have not been thoroughly investigated.Objective: The aim of this study is to describe and explain disruptive behaviour among Finnish care leavers who have been receiving aftercare services for around two years. Participants and setting: Data concerning care leavers who had participated in aftercare services (n = 600) were retrospectively collected from the electronic customer/patient record system of a division of social and health care at one Finnish city. Methods: A structured electronic worksheet was used to extract data from the original free-text documents. The original documents contained all of the factors related to out-of-home placement decisions and aftercare services. The data were analysed in BayesiaLab 10.2.Results: Entries concerning risky behaviour among the care leavers most often described substance abuse, with other behaviours rarely mentioned. Substance abuse, psychiatric illness, and self-destructive behaviour were all positively associated with how prominent a care leaver's disruptive behaviour was. In contrast, having completed secondary or vocational education and primary placement at a foster family were significantly associated with less disruptive behaviour. Care leavers who made use of employment office services also showed a tendency for less disruptive behaviour.Conclusions: Issues related to disruptive behaviour can significantly impact care leavers' success and well-being in adult life. Therefore, each social service employee should be able to identify myriad risky behaviours and provide young care leavers with the appropriate preventive and support services. Collaboration among various stake-holders will be critical to developing aftercare interventions that are tailored to young care leavers' needs. These types of interventions can help young people reverse their counterproductive behaviours and treat their addictions.",
+    "DOI": "10.1016/j.childyouth.2023.107174",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the factors explaining disruptive behavior among care leavers.",
+            "study_design": "Retrospective document analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on disruptive behavior among care leavers and its explanatory factors.",
+            "study_design": "Retrospective document analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on care leavers, not specifically on people with mental health disorders. The intervention is not directly related to employment policies.",
+            "study_design": "retrospective document analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Retrospective document analysis",
+            "logprobs": null
+        }
+    }
+}

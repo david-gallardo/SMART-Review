@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2220,
+    "Authors": "Sage, Daniel",
+    "Article Title": "Do Active Labour Market Policies Promote the Well-Being, Health and Social Capital of the Unemployed? Evidence from the UK",
+    "Abstract": "In recent decades, one of the most notable developments in social policy has been the expansion of active labour market policies (ALMPs): training schemes that aim to speed up unemployed people's return to the labour market. At the same time, academic and political attention has begun to rethink the traditional ways in which social policies like ALMPs should be evaluated: away from typically economic-oriented outcomes towards health and social indicators, such as subjective well-being and social capital. This has led to an emerging argument that ALMPs can be used to improve the health and social environment of unemployment, which decades of research has shown to be associated with a wide range of deleterious outcomes. This paper tests this argument by analysing longitudinal data from the long-running British Household Panel Survey and its successor Understanding Society. The results show that relative to open unemployment, ALMP participation is associated with increased well-being amongst the unemployed, although there is no effect on health or social capital.",
+    "DOI": "10.1007/s11205-014-0788-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental analysis of longitudinal data from the British Household Panel Survey and its successor Understanding Society, meeting the inclusion criteria for study design. The study also meets the inclusion criteria for geographic scope, timeframe, intervention, population, and outcomes.",
+            "study_design": "Quasi-experimental analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental disorders. It focuses on well-being and social capital rather than specific labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Longitudinal analysis using survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the UK, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "The article does not specify the study design, but it is not a systematic review or meta-analysis, nor does it mention a control group or rigorous evaluation methodology.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

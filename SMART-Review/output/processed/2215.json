@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2215,
+    "Authors": "Vossemer, Jonas; Gebel, Michael; Taeht, Kadri; Unt, Marge; Hogberg, Bjorn; Strandh, Mattias",
+    "Article Title": "The Effects of Unemployment and Insecure Jobs on Well-Being and Health: The Moderating Role of Labor Market Policies",
+    "Abstract": "Labor market insecurities have been growing in Europe and previous research has illustrated that unemployment and insecure jobs negatively affect individuals' well-being and health. Although empirical evidence suggests that these effects vary substantially across different welfare states, we still know little about the moderating role of specific labor market policies. Taking a cross-national comparative perspective, this article investigates how passive and active labor market policies (PLMP, ALMP) as well as employment protection legislation (EPL) shape the experience of unemployment and insecure jobs. We complement micro data of round 1-6 (2002-2012) of the European Social Survey with time-varying macro indicators of PLMP, ALMP, and EPL. The data include about 89,000 individuals nested in 112 country-rounds and 26 countries respectively. We apply three-level random intercept models as well as pooled linear regression models including country fixed effects. The results show that labor market policies are important in shaping the experience of unemployment, but are less relevant for workers in insecure jobs. Specifically, higher unemployment benefit generosity buffers the negative effects of unemployment on well-being but not health. Moreover, we discuss different interpretations for the finding that higher ALMP expenditures are associated with more negative effects of unemployment on well-being and health. With respect to EPL it is found that in countries with high insider protection, deregulating the restrictions on the use of temporary employment increases the negative effects of unemployment on well-being and health.",
+    "DOI": "10.1007/s11205-017-1697-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-national comparative perspective with three-level random intercept models and pooled linear regression models including country fixed effects, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 2002-2012, meeting the inclusion criteria for timeframe. The intervention is passive and active labor market policies (PLMP, ALMP) as well as employment protection legislation (EPL), meeting the inclusion criteria for intervention. The population is individuals with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Cross-national comparative perspective with three-level random intercept models and pooled linear regression models including country fixed effects",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the effects of unemployment and insecure jobs on well-being and health across different welfare states, without specifying active employment policies or targeting a population with documented mental health problems.",
+            "study_design": "Cross-national comparative analysis using micro data from European Social Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

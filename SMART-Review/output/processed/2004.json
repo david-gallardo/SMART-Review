@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2004,
+    "Authors": "Sullivan, Sheena G.; Wu, Zunyou; Rou, Keming; Pang, Lin; Luo, Wei; Wang, Changhe; Cao, Xiaobin; Yin, Wenyuan; Liu, Enwu; Mi, Guodong",
+    "Article Title": "Who uses methadone services in China? Monitoring the world's largest methadone programme",
+    "Abstract": "AimsTo describe the data collected by the Chinese methadone maintenance treatment (MMT) system and the characteristics of clients entering the programme.DesignDescriptive study using routinely collected data from the MMT data management system for the period March 2004 and March 2010.SettingAll MMT clinics in China.ParticipantsClients who enrolled for services between March 2004 and March 2010.MeasurementsRoutinely collected data included: demographic information; drug use, sexual and criminal behaviours; status of infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV) and syphilis; random urine-opiate test results; and the daily methadone dose received. Differences among clients by year were examined.FindingsDuring the period examined, there were 251974 clients attending 684 clinics in 27 provinces. Overall, the mean age was 34.4 years, 83.8% were male, 70.2% were unemployed, 75% had ever injected drugs, 17% had shared needles and 7.4% were HIV-positive. The profile of clients changed over time, with fewer HIV-positive individuals, fewer injecting drug users, fewer needle-sharers, fewer females and fewer unemployed. Half the clients dropped out within 6 months. The average final dose received was 49.4mg. The estimated probability of interrupting treatment before 6 months was 52.5%.ConclusionsThe profile of clients enrolling in methadone maintenance treatment in China is continually changing and appears to be associated with reduced risk of HIV. High dropout in the programme may limit its effectiveness. The availability of a centralized, real-time data system was extremely useful for monitoring the progress of the Chinese methadone maintenance treatment programme.",
+    "DOI": "10.1111/add.12781",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive study using routinely collected data, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on methadone services for individuals with substance use disorders. It does not meet the inclusion criteria related to interventions targeting people with mental health disorders.",
+            "study_design": "Descriptive study using routinely collected data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (China) and does not address employment interventions.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        }
+    }
+}

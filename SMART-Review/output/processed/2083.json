@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2083,
+    "Authors": "Halliwell, R. E. W.; Downes, M.; Adams, V. J.; Allister, R.; Harrison, W.; Mellanby, R. J.; Dean, R. S.",
+    "Article Title": "Stress in new graduates: can the profession do more to help?",
+    "Abstract": NaN,
+    "DOI": "10.1136/vr.i3032",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation and does not have a control group. It also does not directly address employment interventions for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Not applicable due to lack of rigorous evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment interventions for people with mental health disorders.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

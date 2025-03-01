@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2129,
+    "Authors": "Kuo, Hung Jen; George, Sarah; Reynolds, Janonne",
+    "Article Title": "Promoting disability employment with avail\u00ae - a pilot study for feasibility and preliminary efficacy",
+    "Abstract": "Purpose: Supported employment is a promising vocational rehabilitation intervention for improving disability employment. Its implementation, however, is not without challenges. Lack of funding and the heavy caseload of job coaches significantly constrain its impacts. A mobile software, availVR by CentralReach, was created based on the individual placement and support model for assisting individuals with disabilities to perform their job tasks. The purpose of this pilot study was to explore the feasibility and preliminary efficacy of avail.Method: A total of 17 participants with disabilities were recruited in a Midwestern state from the United States to try avail for a period of time ranging from 40 to 348 days. Participants' experiences, including perceived usability, acceptance, and satisfaction, were collected to determine the feasibility of avail. In addition, a pre-and post-intervention analysis was conducted to identify its effects on users' job satisfaction, self-efficacy, and self-determination.Results: Participants of this study expressed positive user experience for avail. Specifically, they felt that avail was helpful for their job performance. The results also showed a statistically significant result for improving participants' self-determination.Conclusion: avail is a feasible and potentially promising application for assisting workers with disabilities in their job performance. Directly available on mobile devices, avail has several advantages, such as realtime support and good portability. Suggestions and future directions were discussed for further software development.",
+    "DOI": "10.1080/17483107.2023.2249502",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a pilot study with a control group (pre- and post-intervention analysis), meets the geographic scope (US), and includes an intervention (avail) that addresses employment. The population references mental health or disabilities, and the outcomes present measures of employment or labor results.",
+            "study_design": "Pilot study with pre- and post-intervention analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a pilot study without a control group. It does not meet the inclusion criteria for this systematic review.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on disability employment, not specifically on mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        }
+    }
+}

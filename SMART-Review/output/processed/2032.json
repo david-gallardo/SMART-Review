@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2032,
+    "Authors": "Johnstone, Melissa; Parsell, Cameron; Jetten, Jolanda; Dingle, Genevieve; Walter, Zoe",
+    "Article Title": "Breaking the cycle of homelessness: Housing stability and social support as predictors of long-term well-being",
+    "Abstract": "It is increasingly acknowledged that homelessness involves more than just being without a house. Indeed, more recent definitions of what constitutes a home highlight the role of social connections and support (including, for example, access to space to engage in social relations). This study examined the role of secure housing and social support as predictors of psychological well-being of individuals following a period of homelessness. Using linear mixed models for longitudinal data, we investigated how changes in social support predicted changes in individuals' self-reported personal well-being, life satisfaction and mood following a period of homelessness (n = 119), controlling for housing status, alcohol use and employment status. The results showed that remaining homeless predicted poorer personal well-being, life satisfaction and mood. In addition, changes in social support predicted well-being over and above housing stability. Implications of findings for policy and practice in the homeless sector are discussed.",
+    "DOI": "10.1080/02673037.2015.1092504",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the predictors of psychological well-being, life satisfaction, and mood in individuals following a period of homelessness.",
+            "study_design": "Longitudinal study using linear mixed models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on psychological well-being, life satisfaction, and mood following homelessness. It lacks measures of employment or labor results.",
+            "study_design": "Cross-sectional with longitudinal data analysis using linear mixed models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homelessness and its impact on well-being, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal study using linear mixed models",
+            "logprobs": null
+        }
+    }
+}

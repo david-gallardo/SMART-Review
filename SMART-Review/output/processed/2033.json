@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2033,
+    "Authors": "Linnemorken, Lene Therese B.; Sveinsdottir, Vigdis; Knutzen, Thomas; Rodevand, Linn; Hernaes, Kjersti Helene; Reme, Silje Endresen",
+    "Article Title": "Protocol for the Individual Placement and Support (IPS) in Pain Trial: A randomized controlled trial investigating the effectiveness of IPS for patients with chronic pain",
+    "Abstract": "Background: Work disability involves large costs to the society as well as to the individual. Work disability is common among people with chronic pain conditions, yet few effective interventions exist. Individual Placement and Support (IPS) is an evidence-based work rehabilitation model originally developed to help people with severe mental illness obtain and maintain employment. The effectiveness of IPS for patients with severe mental illness is well documented, but the model has never before been tested for patients with chronic pain.Methods/design: The aim of the IPS in Pain trial is to investigate the effectiveness of IPS as an integrated part of the interdisciplinary treatment for patients with chronic pain in a hospital outpatient clinic. The study is a randomized controlled trial comparing pain treatment with integrated IPS to treatment as usual in unemployed patients suffering from various chronic pain conditions. The primary outcome of the study is labor market participation during 12 months after enrollment, and secondary outcomes include physical and mental health and well-being, collected at baseline, 6, and 12 months. Finally, there will be an additional long-term follow-up for the primary outcome, which will be collected through a brief phone interview at 24 months.Discussion: The IPS in Pain trial will be the first report of the effectiveness of the IPS model of supported employment applied in an outpatient setting for chronic pain patients. It will thus provide important information about the effectiveness of repurposing IPS to a new patient group in great need of job support.",
+    "DOI": "10.1186/s12891-018-1962-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned. Instead, the intervention is Individual Placement and Support (IPS) for patients with chronic pain.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. Instead, it focuses on individuals with chronic pain.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on chronic pain patients, not specifically on people with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment for people with chronic pain (a mental health condition), and includes labor market participation as an outcome.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

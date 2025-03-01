@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2217,
+    "Authors": "Landberg, Monique; Noack, Peter",
+    "Article Title": "A Grounded Theory Study on Motivational Development After Detours in Young Adulthood - How Extra-Vocational Training Affects Aspirations",
+    "Abstract": "Context: In the present study, we explore what motivates young adults to re-engage with education or employment after a period of non-engagement. Insights into this process facilitate the implementation of tailored support measures for at-risk groups. It is well-known that young people who are not involved in any kind of education, employment, or training face further risks to their professional and psychological development.Methods: Using a grounded theory approach, interviews with young adults from various educational tracks were analyzed, compared, and contrasted. The sample was focused mainly on apprentices in extra-vocational training and professionals working with young people to describe the process of re-engaging in detail (n = 30).Findings: Our analyses suggested that frustrating prior experiences and offers to participate in government-funded vocational training prompted motivation to learn an occupational skillset. Undergoing an apprenticeship enabled young adults to develop the motivation to finish vocational training and to plan on further education.Conclusion: The implications of these results as they pertain to Germany's labor market policies, which foster a sense of individual responsibility to facilitate the achievement of professional success, are discussed. Furthermore, the implications for supporting further educational aspirations when working with young adults are discussed.",
+    "DOI": "10.13152/IJRVET.9.1.4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a grounded theory approach, which is not included in the inclusion criteria. The study does not meet the inclusion criteria for intervention, population, and outcomes.",
+            "study_design": "Grounded theory approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is grounded theory research which lacks a rigorous evaluation and control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Grounded Theory Research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Grounded theory study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (grounded theory) and does not include a control group. The intervention is not directly related to employment policies for people with mental health disorders.",
+            "study_design": "Grounded Theory Study",
+            "logprobs": null
+        }
+    }
+}

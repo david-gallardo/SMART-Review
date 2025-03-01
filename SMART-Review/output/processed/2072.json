@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2072,
+    "Authors": "Levack, William Mark Magnus; Fadyl, Joanna Kirstin",
+    "Article Title": "Vocational interventions to help adults with long-term health conditions or disabilities gain and maintain paid work: an overview of systematic reviews",
+    "Abstract": "Objective To conduct an overview of systematic reviews to examine the effectiveness of vocational interventions to help adults with long-term health conditions or disability gain and maintain new paid work and to analyse the spread and quality of evidence in this area. Methods We pre-published our protocol in PROSPERO (CRD42019132448). We searched Cochrane Database of Systematic Reviews, MEDLINE, EMBASE, PsycINFO, AMED, CINAHL, Proquest Dissertations and Theses database, NICE and Business Source Complete from inception to 21 August 2020. We included any systematic reviews of clinical trials on vocational interventions for adults with long-term health conditions or disability who were not in work or had recently gained work. We excluded reviews of vocational interventions for employed people on sick leave. Two researchers identified, critically appraised,using A MeaSurement Tool to Assess systematic Reviews (AMSTAR) 2, and extracted data from included reviews. We used Grading of Recommendations Assessment, Development and Evaluation to evaluate strength of evidence underpinning overview findings. Results We identified 26 reviews (5 high-quality and 21 critically low to moderate quality) that focused on vocational interventions for acquired brain injury, autism, intellectual disability, multiple sclerosis, mental health conditions, spinal cord injury and general disability populations. We identified moderate quality evidence that people with moderate to severe mental health conditions who participate in supported employment, particularly individual placement and support, are more likely to gain competitive employment compared with people who receive traditional vocational services (risk ratio 2.07; 95% CI 1.82 to 2.35; 27 studies, 6651 participants). We found only very low-quality to low-quality evidence on vocational intervention for people with any other health condition. We found little to no data on employer or employee satisfaction with work outcomes or the cost effectiveness of interventions. Conclusion Given the importance placed on work opportunities for people with long-term health conditions or disability, there is urgent need for more high-quality research on vocational interventions for this population. Prospero registration number CRD42019132448.",
+    "DOI": "10.1136/bmjopen-2021-049522",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2020. The intervention is vocational interventions for adults with long-term health conditions or disability. The population is people with mental health conditions or documented mental health problems. The outcomes include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (systematic review), geographic scope (EU and beyond), timeframe (2005-2025), intervention (supported employment), population (people with mental health conditions), and outcomes (employment rates).",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with long-term health conditions or disability, not specifically on people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an overview of systematic reviews that includes RCTs and quasi-experimental studies. It focuses on supported employment interventions for people with mental health conditions in the US, Canada, Australia, and Europe.",
+            "study_design": "Overview of Systematic Reviews",
+            "logprobs": null
+        }
+    }
+}

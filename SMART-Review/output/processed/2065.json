@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2065,
+    "Authors": "Lebenbaum, Michael; Laporte, Audrey; de Oliveira, Claire",
+    "Article Title": "The effect of mental health on social capital: An instrumental variable analysis",
+    "Abstract": "Although a large body of literature has examined the effect of social capital on health and theoretical models suggest a reciprocal relationship between the two variables, there are relatively few studies that have investigated the effect of mental health on social capital. This paper evaluates the impact of mental health on the stock of social capital using data from the cross-sectional 2012 (N = 21,844) and 2002 (N = 31,089) Canadian Community Health Survey - Mental Health editions. Mental health was measured retrospectively as self-rated mental health, past year mental health conditions, and past 30-day psychological distress. Given the reciprocal relationship, we used an instrumental variable approach with family history of mental health problems as the instrument and examined forms of social capital - sense of belonging and workplace social support - that are largely measures of social capital provided by non-family members in the community and workplace. The analysis suggests there are large and significant associations between measures of mental health and both outcomes, which persist in the instrumental variable analyses. These findings highlight the urgent need for policy makers to implement greater prevention and treatment of poor mental health, and provide greater support for individuals with poor mental health so they can build and maintain their social capital.",
+    "DOI": "10.1016/j.socscimed.2021.113693",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between mental health and social capital.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is based on cross-sectional data from surveys and does not include a control group. It also does not directly address employment outcomes.",
+            "study_design": "Cross-sectional survey with instrumental variable analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "Instrumental variable analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Instrumental variable analysis",
+            "logprobs": null
+        }
+    }
+}

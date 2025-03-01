@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2227,
+    "Authors": "Hollederer, Alfons",
+    "Article Title": "Health promotion and prevention among the unemployed: a systematic review",
+    "Abstract": "The interactions between unemployment and health create a need for specific interventions for health promotion and prevention. This overview provides information on how health promotion for the unemployed has been approached with an analysis of controlled intervention studies between 1996 and 2016. The literature search consulted 11 international databases in medicine, social sciences and psychology. A total of 30 health interventions for the unemployed were identified, with 43 articles that included the effects of intervention. A controlled-study design was used in 14 studies. The health promotion measures were generally based on individual counselling, case management, training or group services. The overview demonstrates the breadth of variation in target groups and types of measures. Their result indicators for health and integration into the labor market vary substantially, as do the employment promotion effects. There is evidence of improved health and labor market integration for established approaches like the JOBS Program and JobFit. Effects are rather moderate or low in magnitude and the effect mechanisms often remain unclear. Effects weaken over time. While success is more common in the areas of health, physical activity, nutrition and stress relief, there was no impact on smoking behavior. A significant evolution can be observed in the quality and quantity of health promotion for the unemployed over time. There is a need for further research on the effectiveness and sustainability of interventions. Intervention strategies should be developed that take account of the diversity of the unemployed and their different needs.",
+    "DOI": "10.1093/heapro/day069",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on health promotion and prevention among the unemployed without specifying interventions related to employment.",
+            "study_design": "Systematic review of controlled intervention studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployed individuals without specific reference to mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify mental health as a focus area for the population.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

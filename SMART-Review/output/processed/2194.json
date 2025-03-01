@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2194,
+    "Authors": "Huegaerts, Kelly; Wagener, Martin; Vanroelen, Christophe",
+    "Article Title": "Is Mental Health a Predictor for a Smooth School-to-Work-Transition? A 20-Month Follow-Up Study of Brussels Youth",
+    "Abstract": "The Brussels Capital Region knows consistently high youth unemployment already since the 2008 Great Recession. In that context, the aim of this paper is to investigate if the mental health status of young urban labor market entrants affects their school-to-work-transition in the subsequent 20 months. The study is based on a primary data collection among Brussels' youth in the transition from education to employment (2015; 18- to 29-year-olds;N = 540) combined with administrative follow-up data of 20 months between 2015 and 2017 (N = 540). Labor market trajectories during the follow-up period consisted of combinations of the following states: 'unemployed', 'employed', and 'participating in active labor market policies' (i.e. coaching, training and internship). Based on the combinations of these states, our results revealed 6 different school-to-work-trajectories: 'unemployed'; 'stable employment'; 'delayed employment'; 'unemployed with guidance'; 'set back to unemployment' and 'drop-out'. A multivariable multinomial logistic regression showed that men in 'delayed employment' had significantly poorer mental health than those in 'stable employment'. In conclusion, our results showed that there is an association between mental health when entering the labor market and the type of school-to-work-transition.",
+    "DOI": "10.1007/s11482-019-09749-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the intervention is not specifically focused on employment policies but rather on the school-to-work transition.",
+            "study_design": "Primary data collection with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the general population of youth in Brussels and does not specifically target people with mental health disorders. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not directly address interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

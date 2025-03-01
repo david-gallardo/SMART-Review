@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2256,
+    "Authors": "Klug, Katharina",
+    "Article Title": "Young and at risk? Consequences of job insecurity for mental health and satisfaction among labor market entrants with different levels of education",
+    "Abstract": "Young workers are often temporarily employed and thus likely to experience job insecurity. This study investigates associations of objective job insecurity (i.e., temporary employment) and subjectively perceived job insecurity with mental health, job satisfaction and life satisfaction among young workers, testing the moderating role of education. The longitudinal analysis based on 1522 labor market entrants from the German Socio-Economic Panel revealed that subjective job insecurity was associated with decreased mental health and lower satisfaction, whereas objective job insecurity was not. Three levels of education were differentiated: university degree, vocational training and low-qualified. There was weak evidence that those with vocational qualifications were more vulnerable to subjective job insecurity than either the low-qualified or university graduates. The results suggest that irrespective of education, detrimental consequences of subjective job insecurity emerge early in the career. Access to secure employment should be improved for young workers to prevent early dissatisfaction and impairment of their mental health.",
+    "DOI": "10.1177/0143831X17731609",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes for people with mental disorders. It focuses on the effects of job insecurity on mental health and satisfaction among young workers.",
+            "study_design": "Longitudinal analysis based on cross-sectional data from the German Socio-Economic Panel",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or policies aimed at employment for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        }
+    }
+}

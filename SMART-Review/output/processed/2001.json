@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2001,
+    "Authors": "Weld-Blundell, Isabelle; Shields, Marissa; Devine, Alexandra; Dickinson, Helen; Kavanagh, Anne; Marck, Claudia",
+    "Article Title": "Vocational Interventions to Improve Employment Participation of People with Psychosocial Disability, Autism and/or Intellectual Disability: A Systematic Review",
+    "Abstract": "Objective: To systematically review interventions aimed at improving employment participation of people with psychosocial disability, autism, and intellectual disability. Methods: We searched MEDLINE, Embase, PsycINFO, Web of Science, Scopus, CINAHL, ERIC, and ERC for studies published from 2010 to July 2020. Randomized controlled trials (RCTs) of interventions aimed at increasing participation in open/competitive or non-competitive employment were eligible for inclusion. We included studies with adults with psychosocial disability autism and/or intellectual disability. Risk of bias was assessed using the Cochrane Collaboration Risk of Bias II Tool. Data were qualitatively synthesized. Our review was registered with PROSPERO (CRD42020219192). Results: We included 26 RCTs: 23 targeted people with psychosocial disabilities (n = 2465), 3 included people with autism (n = 214), and none included people with intellectual disability. Risk of bias was high in 8 studies, moderate for 18, and low for none. There was evidence for a beneficial effect of Individual Placement and Support compared to control conditions in 10/11 studies. Among young adults with autism, there was some evidence for the benefit of Project SEARCH and ASD supports on open employment. Discussion: Gaps in the availability of high-quality evidence remain, undermining comparability and investment decisions in vocational interventions. Future studies should focus on improving quality and consistent measurement, especially for interventions targeting people with autism and/or intellectual disability.",
+    "DOI": "10.3390/ijerph182212083",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before the specified timeframe (2010-2020) and does not meet the inclusion criteria for population (people with mental health disorders or documented mental health problems).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (systematic review of RCTs), geographic scope (EU and Europe), timeframe (2010-2020), intervention (vocational interventions including Individual Placement and Support, Project SEARCH), population (people with psychosocial disability, autism, or intellectual disability), and outcomes (employment participation).",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with psychosocial disabilities, autism, and/dependent on intellectual disability, which does not align with the specified population of people with mental health disorders. Additionally, the study design is a systematic review, not a meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: RCT study design, relevant geographic scope (not specified but likely includes target countries), within timeframe, relevant intervention (Individual Placement and Support), relevant population (psychosocial disability), and relevant outcomes (employment participation).",
+            "study_design": "Systematic Review of RCTs",
+            "logprobs": null
+        }
+    }
+}

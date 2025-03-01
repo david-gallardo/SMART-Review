@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2084,
+    "Authors": "Eklund, Mona; Backstrom, Martin",
+    "Article Title": "Worker role perceptions and work participation among people with mental health issues taking part in interventions focusing on everyday life",
+    "Abstract": "BACKGROUND: Knowing whether interventions addressing everyday life as a whole can affect work readiness for people with severe mental health issues would be important for how to develop support.OBJECTIVE: To compare two groups of people with mental health problems, receiving either of two types of 16-week activity-based interventions, Balancing Everyday Life (BEL) or Care as Usual (CAU), regarding work readiness in terms of perceived worker role and satisfaction with recent work experience. Changes from baseline (T1) to completed intervention (T2) and a six-month follow-up (T3) and variables of potential importance to changes were also explored.METHODS: This cluster RCT recruited participants for BEL (n = 133) and CAU (n = 93) from specialized and community-based psychiatry. Questionnaires addressingwork readiness and potentially influencing variables (sociodemographic, clinical, type of intervention, work experience, non-work activity factors, social interaction and self-esteem) were used. Mixed model regression analyses were employed.RESULTS: Positive changes occurred for both groups in one worker role aspect (resources for a future worker role) and in satisfaction with recent work participation. Satisfaction with non-work everyday activities, having valued activities, and self-esteem were important for change in the work readiness variables, whereas intervention type, age, sex or general activity level were not.CONCLUSION: Both interventions yielded equally positive work readiness outcomes. Support that emphasizes engagement in satisfying and valued everyday activities and boosts self-esteem would be a potential way to help people with mental health issues develop work readiness in terms of the worker role and satisfaction with work participation.",
+    "DOI": "10.3233/WOR-220582",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster RCT, which meets the inclusion criteria. The study is set in the EU and within the specified timeframe. The intervention is job search services (adult training) and wage subsidies, which are relevant to active employment policies. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "cluster RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on work readiness in terms of perceived worker role and satisfaction with recent work experience rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on people with mental health issues and includes employment outcomes such as work readiness.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

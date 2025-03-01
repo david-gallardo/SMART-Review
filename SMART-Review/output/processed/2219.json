@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2219,
+    "Authors": "Fontenay, Sebastien; Tojerow, Ilan",
+    "Article Title": "Is supported employment effective for Disability Insurance recipients with mental health conditions? Evidence from a randomized experiment in Belgium",
+    "Abstract": "We conduct a randomized experiment (n = 600) to evaluate a Supported Employment (SE) program that, through intensive job coaching and follow-along support, aims to increase work activity of Belgian Disability Insurance (DI) recipients with mental health conditions. The control group gets regular vocational rehabilitation. After a 30-month follow-up period, we find that SE increases the probability of working while claiming DI by 7.5 percentage points and reduces the amount of DI benefit received by 110 euros per month (-9.5 percent).",
+    "DOI": "10.1016/j.jhealeco.2024.102958",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: randomized experiment, control group, EU country (Belgium), 2005-2025 timeframe, intervention (Supported Employment) and population (people with mental health conditions), and presents employment outcomes.",
+            "study_design": "Randomized Experiment",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Belgium), timeframe (2005-2025), intervention (supported employment), population (people with mental health conditions), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized experiment (RCT) with a control group, which meets the inclusion criteria for study design. It is conducted in Belgium, which is within the specified geographic scope. The intervention is supported employment, which is one of the interventions of interest. The study focuses on people with mental health conditions, fitting the population criteria. The outcomes include employment rates and job retention, aligning with the required outcomes.",
+            "study_design": "Randomized Experiment (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: RCT study design, EU country (Belgium), within timeframe (2005-2025), supported employment intervention, population with mental health conditions, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

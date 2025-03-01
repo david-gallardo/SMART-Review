@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2117,
+    "Authors": "Jordan, Neil; Stroupe, Kevin T.; Richman, Joshua; Pogoda, Terri K.; Cao, Lishan; Kertesz, Stefan; Kyriakides, Tassos C.; Bond, Gary R.; Davis, Lori L.",
+    "Article Title": "Comparing Service Use and Costs of Individual Placement and Support With Usual Vocational Services for Veterans With PTSD",
+    "Abstract": "Objective: Among veterans with posttraumatic stress dis-order (PTSD), supported employment that utilizes the indi-vidual placement and support (IPS) model has resulted in consistently better employment and functional outcomes than usual vocational rehabilitation services. This study aimed to compare these two approaches in terms of health services use and associated costs.Methods: A secondary analysis of a multisite randomized controlled trial of 541 unemployed veterans with PTSD used archival data from electronic medical records to assess the use and costs of health services of IPS and usual care (i.e., a transitional work [TW] program) over 18 months. Compari-sons were also made to an 18-month postintervention period.Results: The two study groups did not differ in number of inpatient days or in utilization or cost of high-intensity ser-vices. Annual per-person costs of health services were ap-proximately 20% higher for IPS than for TW participants (mean difference=$4,910 per person per year, p<0.05) during the intervention period, largely driven by higher uti-lization and costs for vocational services in the IPS group (p<0.001). These costs declined postintervention to non-significant differences. The mean annual per-person voca-tional service cost was $6,388 for IPS and $2,549 for TW (mean difference=$3,839, p<0.001) during the intervention period.Conclusions: In keeping with IPS's intensive case manage-ment approach, veterans receiving IPS used more vocational services and had correspondingly higher costs than veterans receiving TW. The two groups did not differ in use or cost of other types of health services. Future research should ex-amine whether higher short-term costs associated with IPS relative to usual care result in long-term cost savings or higher quality of life for persons with PTSD.Psychiatric Services 2022; 73:1109-1116; doi: 10.1176/appi.ps.202100197",
+    "DOI": "10.1176/appi.ps.202100197",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of a multisite randomized controlled trial, which meets the inclusion criteria. The study also includes a control group and presents measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention is labor regulation policies (vocational services). It also lacks a control group comparison relevant to our inclusion criteria.",
+            "study_design": "Secondary analysis of a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for veterans with PTSD in the US, includes employment outcomes, and was published within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

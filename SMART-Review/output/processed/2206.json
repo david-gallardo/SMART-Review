@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2206,
+    "Authors": "Koatz, Debora; Hilarion, Pilar; Bonet, Pere; Sunol, Rosa",
+    "Article Title": "Integrated care for mental health social inclusion through job placement: Implementing IPS in Spain",
+    "Abstract": NaN,
+    "DOI": "10.5334/ijic.2755",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and does not mention a control group.",
+            "study_design": "Unspecified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

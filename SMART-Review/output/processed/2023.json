@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2023,
+    "Authors": "Ozcan, Neslihan Keser; Boyacioglu, Nur Elcin; Dinc, Husniye",
+    "Article Title": "Postpartum Depression Prevalence and Risk Factors in Turkey: A Systematic Review and Meta-Analysis",
+    "Abstract": "Postpartum depression (PPD) is a common problem with adverse consequences for the mother and the infant. This study was performed to determine the prevalence of and risk factors for PPD in Turkey. In this study, 52 primary studies that were published between January 1999 and January 2015 were examined. The prevalence of PPD was determined through a meta-analysis, and the risk factors were determined through a systematic review. The prevalence of PPD in Turkey was found to be 23.8%. Developed cities had a prevalence of 21.2%, and developing cities had a prevalence of 25%. Just as throughout the world, PPD is a common problem in Turkey. It is more prevalent in developing cities. The following factors were the strongest predictors of postpartum depression: economic status and the employment status of the spouse, planned pregnancy and having a stressor/illness during pregnancy, health problems in the newborn, previous psychiatric illness, problems with family and spouse, reduced social support, and a history of psychiatric illness in the family. (C) 2017 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.apnu.2017.04.006",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and is outside the specified geographic scope.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on postpartum depression prevalence and risk factors in Turkey, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not include employment outcomes.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        }
+    }
+}

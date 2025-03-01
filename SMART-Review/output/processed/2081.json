@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2081,
+    "Authors": "Giano, Zachary; Williams, Amanda; Hankey, Carli; Merrill, Renae; Lisnic, Rodica; Herring, Angel",
+    "Article Title": "Forty Years of Research on Predictors of Homelessness",
+    "Abstract": "Homelessness is a chronic public health issue in the U.S. This paper reviews the endurance and evolution of individual, youth, and family homelessness over the past 40-plus years. Thematic findings detail research on predictors of homelessness among adolescents, runaway youth, veterans, older adults, sheltered families, and female-headed families. Results provide a summary of contributors to homelessness, including issues related to family instability, unemployment and poverty, mental illness, substance use, unstable living arrangements, child maltreatment, social support, crime, and violence. Findings highlight key and persistent predictors of homelessness found across decades, as well as more recently identified and nuanced precursors to individual or family displacement. The goal of this work was to summarize what is known about predictors of homelessness to inform targeted research, practice, and policies.",
+    "DOI": "10.1007/s10597-019-00530-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on predictors of homelessness.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders. It reviews predictors of homelessness.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homelessness, not employment outcomes for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

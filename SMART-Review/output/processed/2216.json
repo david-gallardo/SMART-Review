@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2216,
+    "Authors": "Whelan, Nuala; McGilloway, Sinead; Murphy, Mary P.; McGuinness, Colm",
+    "Article Title": "EEPIC - Enhancing Employability through Positive Interventions for improving Career potential: the impact of a high support career guidance intervention on the wellbeing, hopefulness, self-efficacy and employability of the long-term unemployed - a study protocol for a randomised controlled trial",
+    "Abstract": "Background: Labour market policy (LMP) and its implementation have undergone rapid change internationally in the last three decades with a continued trend towards active LMP. In Ireland however, this shift has been more recent with ongoing reforms since 2012 and a concomitant move toward active labour market 'work-first' policy design (i.e. whereby unemployed people are compulsorily required to work in return for their social welfare benefits). Labour market policies vary from those that require this compulsory approach to those which enable the unemployed to move towards sustainable quality work in the labour market through upskilling (human capital approach). Despite this, however, long-term unemployment-a major cause of poverty and social exclusion-remains high, while current employment support approaches aimed at sustainable re-employment are, arguably, unevaluated and under examined. This study examines the effectiveness of a new high support career guidance intervention in terms of its impact on aspects of wellbeing, perceived employability and enhancing career sustainability.Method: The study involves a single-centre randomised, controlled, partially blinded trial. A total of 140 long-term unemployed job-seekers from a disadvantaged urban area will be randomly assigned to two groups: (1) an intervention group; and (2) a 'service as usual' group. Each group will be followed up immediately post intervention and six months later. The primary outcome is wellbeing at post intervention and at six-month follow-up. The secondary outcome is perceived employability, which includes a number of different facets including self-esteem, hopefulness, resilience and career self-efficacy.Discussion: The study aims to assess the changes in, for example, psychological wellbeing, career efficacy and hopefulness, that occur as a result of participation in a high support intervention vs routinely available support. The results will help to inform policy and practice by indicating whether a therapeutic approach to job-seeking support is more effective for long-term unemployed job-seekers than routinely available (and less therapeutic) support. The findings will also be important in understanding what works and for whom with regard to potentially undoing the negative psychological impacts of unemployment, building psychological capital and employability within the individual, and developing career trajectories leading to more sustainable employment.",
+    "DOI": "10.1186/s13063-018-2485-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in Ireland, which is within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005 and 2025. The intervention is a high support career guidance intervention, which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on wellbeing, hopefulness, self-efficacy and employability rather than direct employment outcomes. It does not meet the inclusion criteria for employment or labor outcomes.",
+            "study_design": "Randomised controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on job search services for long-term unemployed individuals in Ireland (EU country), published within the specified timeframe, and includes employment outcomes such as perceived employability.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

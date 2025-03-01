@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1999,
+    "Authors": "Wright, Liam; Steptoe, Andrew; Fancourt, Daisy",
+    "Article Title": "Are adversities and worries during the COVID-19 pandemic related to sleep quality? Longitudinal analyses of 46,000 UK adults",
+    "Abstract": "Background There are concerns that both the experience of adversities during the COVID-19 pandemic and worries about experiencing adversities will have substantial and lasting effects on mental health. One pathway through which both experience of and worries about adversity may impact health is through effects on sleep.Methods We used data from 46,284 UK adults in the COVID-19 Social Study assessed weekly from 01/04/2020-12/05/2020 to study the association between adversities and sleep quality. We studied six categories of adversity including both worries and experiences of: illness with COVID-19, financial difficulty, loss of paid work, difficulties acquiring medication, difficulties accessing food, and threats to personal safety. We used random-effect within-between models to account for all time-invariant confounders.Results Both the total number of adversity experiences and total number of adversity worries were associated with lower quality sleep. Each additional experience was associated with a 1.16 (95% CI = 1.10, 1.22) times higher odds of poor quality sleep while each additional worry was associated with a 1.20 (95% CI = 1.17, 1.22) times higher odds of poor quality sleep. When considering specific experiences and worries, all worries and experiences were significantly related to poorer quality sleep except experiences relating to employment and finances. Having a larger social network offered some buffering effects on associations but there was limited further evidence of moderation by other social or psychiatric factors.Conclusion Poor sleep may be a mechanism by which COVID-19 adversities are affecting mental health. This highlights the importance of interventions that support adaptive coping strategies during the pandemic.",
+    "DOI": "10.1371/journal.pone.0248919",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the association between adversities, worries, and sleep quality during the COVID-19 pandemic.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on sleep quality in relation to adversities during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional longitudinal analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

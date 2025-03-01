@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2141,
+    "Authors": "Mumba, Mercy; Granger, Teresa; Mugoya, George; Brackett, Stephen; Lu, Junfei; Lund, Emily; Lynn, Charles; Ghera, Anchal; Gay, Whitney; Davis, Lori",
+    "Article Title": "Study protocol and preliminary baseline characteristics of a VA multi-site, mixed methods, randomized controlled study evaluating supported employment provided to veterans with opioid use disorder",
+    "Abstract": "Opioid Use Disorder (OUD) is a pervasive and devastating public health crisis that continues to take a heavy toll on individuals and communities across the United States. In 2021, approximately 473,000 veterans misused opioids in the past year. In the context of their military service and post-service life, Veterans with OUD often encounter unique barriers to recovery, including the reintegration into civilian society and the pursuit of stable, meaningful employment. The path to recovery from OUD is inextricably linked to the restoration of a stable and purposeful life, a fact underscored by the interplay of substance use, mental health, and employment outcomes. These factors necessitate a comprehensive approach to treatment that extends beyond mere pharmacological interventions. One such approach is Individual Placement and Support (IPS), a well-established evidence-based practice that focuses on supporting individuals with severe mental illness in their pursuit of competitive employment. The primary objective of this manuscript is to describe a two-arm, multi-site RCT designed to rigorously evaluate the efficacy of IPS when provided to veterans with OUD and provide the baseline demographics and characteristics of the participants who have enrolled to date. The central hypothesis guiding this research is that IPS can significantly improve vocational, psychosocial, and treatment outcomes of veterans in recovery from OUD, ultimately leading to a more successful reintegration into civilian life. Our study is timely as the VA has expanded IPS services to veterans with SUD this past year. Thus, this study is one of the first to examine IPS in a subpopulation of veterans with a SUD and may provide actionable data to support sustainment of IPS with this population.",
+    "DOI": "10.1186/s12991-024-00533-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for population as it does not specifically reference people with mental health disorders or documented mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with opioid use disorder and does not specifically address employment policies for people with mental health disorders. The intervention (Individual Placement and Support) is a treatment approach rather than an active employment policy.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating supported employment for veterans with opioid use disorder, which falls under mental health disorders. It includes employment outcomes and was conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

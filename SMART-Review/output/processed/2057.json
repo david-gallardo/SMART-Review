@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2057,
+    "Authors": "Metcalfe, Justin D.; Drake, Robert E.",
+    "Article Title": "Assessing Substance Use Disorder Among Social Security Administration Disability Applicants",
+    "Abstract": "Objective: Co-occurrence of substance use disorder and mental illness complicates treatment and is associated with increased disability. However, identification of substance use disorder in populations recently engaged in treatment can be challenging. This study aimed to examine traditional screening tools for substance use disorder and proxy characteristics (i.e., demographic characteristics, behaviors, and diagnoses) as predictors of clinician-observed substance use disorder.Methods: The Supported Employment Demonstration, funded by the Social Security Administration, studied 2,960 adults whose applications for disability benefits because of mental illness were recently denied. In a subsample (N=1,354) for whom substance use disorder was determined by community-based teams during follow-up, the authors used logistic regression to identify baseline predictors of observed substance use disorder and compared the sensitivity and specificity of detection by using standardized screening tools (Alcohol Use Disorder Identification Test [AUDIT], 10-item Drug Abuse Screening Test [DAST-10]) with detection via decision trees based on proxy characteristics.Results: Using decision trees based on a combination of personal characteristics (sensitivity=0.47, specificity=0.83, area under the curve [AUC]=0.71) or personal characteristics including diagnostic data (sensitivity=0.54, specific-ity=0.81, AUC=0.72) provided more accurate identification of substance use disorder than using a combination of the AUDIT and DAST-10 (sensitivity=0.34, specificity=0.88, AUC=0.61). Adding the combined AUDIT and DAST-10 substance use disorder indicator to either tree negligibly improved accuracy.Conclusions: In populations recently engaged in treatment, for whom standardized substance use disorder screening tools are less accurate than expected, consideration of personal characteristics could improve the detection of substance use disorder essential for treatment planning.",
+    "DOI": "10.1176/appi.ps.20220343",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a quasi-experimental study without a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on identifying substance use disorder among disability applicants. It lacks interventions related to active employment policies.",
+            "study_design": "Cross-sectional analysis using logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorder in the context of disability applications, not on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not clearly defined as people with mental disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

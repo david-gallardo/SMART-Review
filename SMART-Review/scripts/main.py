@@ -283,7 +283,9 @@ def main():
     # Build a DataFrame with the aggregate results (similar format to the R code)
     results_df = pd.DataFrame(records)
     
-    # Calculate global inclusion based on model decisions
+    # Calculate global inclusion based on model decisions using the method
+    # of majority vote (ties are considered "Unclear"). This is an example
+    # of model fusion or ensemble decision-making.
     inclusion_cols = [col for col in results_df.columns if col.endswith("_inclusion")]
     global_inclusion = []
     for idx, row in results_df.iterrows():

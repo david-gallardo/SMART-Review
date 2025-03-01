@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2231,
+    "Authors": "Baker-Ericzen, Mary J.; Fitch, Meghan A.; Kinnear, Mikaela; Jenkins, Melissa M.; Twamley, Elizabeth W.; Smith, Linda; Montano, Gabriel; Feder, Joshua; Crooke, Pamela J.; Winner, Michelle G.; Leon, Juan",
+    "Article Title": "Development of the Supported Employment, Comprehensive Cognitive Enhancement, and Social Skills program for adults on the autism spectrum: Results of initial study",
+    "Abstract": "The population of adults on the autism spectrum continues to increase, and vocational outcomes are particularly poor. Longitudinal studies of adults with autism spectrum and without intellectual disability have shown consistent and persistent deficits across cognitive, social, and vocational domains, indicating a need for effective treatments of functional disabilities as each impact employment. This initial pilot study is an open trial investigation of the feasibility, acceptability, and initial estimates of outcomes for the newly developed Supported Employment, Comprehensive Cognitive Enhancement, and Social Skills intervention, a manualized soft skills curriculum, to enhance both cognitive and social development in adults with autism spectrum. A total of eight adults with autism spectrum, without intellectual disability (78% males), participated in the study. Results support the original hypothesis that adults with autism spectrum can improve both cognitive (i.e. executive functioning) and social cognitive (i.e. social thinking and social communication) abilities. Further Supported Employment, Comprehensive Cognitive Enhancement, and Social Skills was found to be feasible, acceptable, and highly satisfactory for participants and parents. Employment rates more than doubled post-intervention, with an increase from 22% to 56% of participants employed. Conclusion is that Supported Employment, Comprehensive Cognitive Enhancement, and Social Skills has promise as an intervention that can be easily embedded into exiting supported employment vocational training programs to improve cognitive, social, and vocational outcomes.",
+    "DOI": "10.1177/1362361317724294",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an open trial investigation, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Open trial investigation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on adults on the autism spectrum rather than people with mental disorders. Additionally, the intervention is specific to autism and social skills enhancement, which does not directly address employment policies.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with autism spectrum, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the intervention described is not directly related to job search services, adult training, wage subsidies, or supported employment as per the inclusion criteria.",
+            "study_design": "open trial investigation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a pilot study with a control group, focuses on supported employment, includes employment rates as an outcome, and is conducted in the US within the specified timeframe.",
+            "study_design": "Pilot Study",
+            "logprobs": null
+        }
+    }
+}

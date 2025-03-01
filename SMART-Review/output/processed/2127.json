@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2127,
+    "Authors": "Iwanaga, Kanako; Chan, Fong; Tansey, Timothy N.; Hoyt, William T.; Berven, Norman L.",
+    "Article Title": "Evaluation of Constructs Based on Self-Determination Theory and Self-Efficacy Theory as Predictors of Vocational Rehabilitation Engagement for People With Physical and Sensory Disabilities",
+    "Abstract": "Although gainful employment is associated with health and well-being, people with chronic illness and disability may be ambivalent about the prospects of working. As a result, those who might benefit from vocational rehabilitation (VR) services do not always fully engage in those services. Limited motivation toward participating may be due to factors related to self-determination and autonomous choice. Rehabilitation counseling researchers are beginning to test Deci and Ryan's self-determination theory (SDT), along with Bandura's self-efficacy theory (SET), as a work motivation model in VR. The purpose of the present study was to evaluate SDT and SET constructs as predictors of VR engagement in a sample of VR clients, using hierarchical regression analysis. After controlling for the effects of demographic variables and person-environment (P-E) contextual factors, SDT and SET predictors were found to account for an increase of 40% in the variance explained in VR engagement. Working alliance was the single strongest predictor of VR engagement, followed by job performance self-efficacy and autonomy supportive climate. Interventions to enhance counselor skills to promote working alliance, in addition to vocational training to increase job performance self-efficacy of rehabilitation clients, may strengthen motivation to engage in VR services, leading to better employment outcomes.",
+    "DOI": "10.1177/0034355220942301",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders or documented mental health problems. It focuses on individuals with physical and sensory disabilities.",
+            "study_design": "Cross-sectional survey using hierarchical regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational rehabilitation engagement for people with physical and sensory disabilities, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "The study uses hierarchical regression analysis to evaluate the predictors of vocational rehabilitation engagement.",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental (hierarchical regression analysis)",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2080,
+    "Authors": "Contreras, Natalia A.; Castle, David J.; Crosse, Caroline; Morgain, Dea; Fossey, Ellie; Harvey, Carol; Rossell, Susan L.",
+    "Article Title": "How Effective is Cognitive Remediation in Enhancing Vocational Outcomes for Job Seekers with Severe Mental Illness in Australia?",
+    "Abstract": "ObjectiveDespite advances in the treatment of people with severe mental illness (SMI), access to work for this community still remains a challenge. Cognitive remediation (CR) is an intervention that can improve employment outcomes, especially when offered alongside employment support. This pilot study aimed to determine whether CR enhances vocational outcomes for job seekers participating in an innovative vocationally oriented psycho-educational program implemented in Australia.MethodFourteen participants with SMI were enrolled in Health Optimisation Program for Employment (HOPE) and attended 20 sessions of CR. Assessments were performed at baseline, post-CR, and 3 months follow-up. Individuals were assessed on a number of occupational and psychosocial variables (e.g., hours of paid and unpaid work, self-esteem, quality of life, social relationships), in addition to undertaking the MATRICS Consensus Cognitive Battery.ResultsThere was no increase in hours of paid work for those in employment, but 46% of the group initiated tertiary studies between baseline and 3-month follow-up. There was a trend towards a significant increase in number of volunteer hours, with 31% of individuals having initiated a non-paid activity at the end of the CR. As predicted, cognition improved over time as did psychosocial outcomes in the areas of self-esteem, quality of life and social relationships.ConclusionsConsistent with previous studies, CR improved psychosocial and cognitive functioning. While employment benefits were not found, promising outcomes were reported on volunteering and educational participation. This pilot suggests there may be potential for combining CR with HOPE to enhance vocation-related participation and potential employability of job seekers with SMI in Australia. Given these preliminary findings, a further clinical trial with appropriate control group and sample size is required to validate the effectiveness of HOPE+CR.",
+    "DOI": "10.1111/ap.12256",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Australia, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group. It is a pilot study without randomization and comparison to a non-CR intervention.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pilot study without a control group.",
+            "study_design": "Pilot Study",
+            "logprobs": null
+        }
+    }
+}

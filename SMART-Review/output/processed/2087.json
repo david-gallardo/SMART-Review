@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2087,
+    "Authors": "Bohleber, Laura; Crameri, Aureliano; Eich-Stierli, Brigitte; Telesko, Rainer; von Wyl, Agnes",
+    "Article Title": "Can We Foster a Culture of Peer Support and Promote Mental Health in Adolescence Using a Web-Based App? A Control Group Study.",
+    "Abstract": "BACKGROUND: Adolescence with its many transitions is a vulnerable period for the development of mental illnesses. Establishing effective mental health promotion programs for this age group is a challenge crucial to societal health. Programs must account for the specific developmental tasks that adolescents face. Considering peer influence and fostering adolescent autonomy strivings is essential. Participation in a program should be compelling to young people, and their affinity to new technologies offers unprecedented opportunities in this respect.OBJECTIVE: The Companion App was developed as a Web-based app giving adolescents access to a peer mentoring system and interactive, health-relevant content to foster a positive peer culture among adolescents and thereby strengthen social support and reduce stress.METHODS: In a control group study design, a group of employed (n=546) and unemployed (n=73) adolescents had access to the Companion App during a 10-month period. The intervention was evaluated using a combination of quantitative and qualitative approaches. Linear mixed effects models were used to analyze changes in chronic stress levels and perception of social support. Monthly feedback on the app and qualitative interviews at the end of the study allowed for an in-depth exploration of the adolescents' perception of the intervention.RESULTS: Adolescents in the intervention group did not use the Companion App consistently. The intervention had no significant effect on chronic stress levels or the perception of social support. Adolescents reported endorsing the concept of the app and the implementation of a peer mentoring system in particular. However, technical difficulties and insufficiently obvious benefits of using the app impeded more frequent usage.CONCLUSIONS: The Companion Project implemented a theory-driven and innovative approach to mental health promotion in adolescence, taking into account the specifics of this developmental phase. Particularities of the implementation context, technical aspects of the app, and insufficient incentives may have played considerable roles concerning the difficulties of the Companion Project to establish commitment. However, adopting peer mentoring as a strategy and using an app still seems to us a promising approach in mental health promotion in adolescents. Future projects should be careful to invest enough resources into the technical development of an app and consider a large use of incentives to establish commitment. When targeting risk groups, such as unemployed adolescents, it may be expedient to use more structured approaches including face-to-face support.",
+    "DOI": "10.2196/mental.5597",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a control group study without a clear control group, and the intervention does not directly address employment.",
+            "study_design": "Control group study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is adolescents, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Control group study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on adolescents with mental health problems, not specifically on people with mental health disorders in the context of employment.",
+            "study_design": "Control group study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

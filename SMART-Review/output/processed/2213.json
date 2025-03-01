@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2213,
+    "Authors": "Jorgensen, Sidsel Marie Bernt; Johnsen, Nina Fons; Gerds, Thomas Alexander; Brondum, Stig; Maribo, Thomas; Gislason, Gunnar; Kristiansen, Maria",
+    "Article Title": "Perceived return-to-work pressure following cardiovascular disease is associated with age, sex, and diagnosis: a nationwide combined survey- and register-based cohort study",
+    "Abstract": "Background Return to work is a key rehabilitation goal for people with cardiovascular disease (CVD) because employment matters to individuals and societies. However, people recovering from CVD often struggle with returning to work and maintaining employment. To identify people in need of vocational counselling, we examined the probability of feeling under pressure to return to work following CVD. Methods We conducted a combined survey- and register-based study in a randomly selected, population-based cohort of 10,000 people diagnosed with atrial fibrillation, heart failure, heart valve disease, or ischaemic heart disease in 2018. The questionnaire covered return-to-work items, and we reported the probabilities of feeling under pressure to return to work with 95% confidence intervals (CIs) in categories defined by sex, age, and CVD diagnosis. Results The survey response rate was 51.1%. In this study, we included 842 respondents (79.7% men) aged 32-85 years, who had returned to work following a sick leave. Overall, 249 (29.7%) had felt pressure to return to work. The probability of feeling under pressure to return to work ranged from 18.3% (95% CI: 13.1-24.6) among men aged > 55 years with atrial fibrillation to 51.7% (95% CI: 32.5-70.6) among women aged <= 55 years with atrial fibrillation. In addition, 66.0% of all respondents had not been offered vocational rehabilitation, and 48.6% of those who reported a need for vocational counselling had unmet needs. Survey responses also indicated that many respondents had returned to work before feeling mentally and physically ready. Conclusion A substantial proportion of people with cardiovascular disease feel under pressure to return to work, and this pressure is associated with age, sex, and diagnosis. The results show that vocational rehabilitation must be improved and emphasize the importance of ensuring that cardiac rehabilitation programmes include all core rehabilitation components.",
+    "DOI": "10.1186/s12889-022-13494-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a combined survey- and register-based cohort study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries (Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Netherlands, Norway, Portugal, Slovenia, Spain, Sweden, and the United Kingdom), within the specified timeframe (2005-2025). The intervention is vocational counselling, which is one of the specified interventions. The population is people with mental health problems, specifically cardiovascular disease, and the study presents measures of employment or labor results.",
+            "study_design": "combined survey- and register-based cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders and the intervention is not related to employment policies. It focuses on cardiovascular disease.",
+            "study_design": "Survey- and register-based cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cardiovascular disease (CVD) and not mental health disorders. It also lacks interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is people with cardiovascular disease, not mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

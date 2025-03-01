@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2238,
+    "Authors": "Crowe, Laura; Butterworth, Peter",
+    "Article Title": "The role of financial hardship, mastery and social support in the association between employment status and depression: results from an Australian longitudinal cohort study",
+    "Abstract": "Objective There is robust epidemiological and clinical evidence of the harmful effects of unemployment on psychological well-being, but the mechanisms through which this occurs is still strongly debated. In addition, there is even less evidence on the impact of underemployment on mental health. Using longitudinal data collected from a cohort of 20-24years old, the present study examines a range of employed states and investigates the role of mastery, financial hardship and social support in the relationship between labour status and depression.Method Responses were from the Personality and Total Health (PATH) Through Life Project: A representative, community-based survey conducted in Canberra and Queanbeyan (NSW) in Australia, where respondents (n=2404) in their early twenties were followed for 8years. Depression was measured using the self-report Goldberg Depression Scale, with the likely presence of depression being indicated by scores 7 or greater.Results The analyses identified unemployment and underemployment as significant predictors of depression, compared to their employed counterparts. Both unemployment and underemployment remained significantly correlated with depression even after accounting for sociodemographic, economic and psychological variables. Social support, financial hardship and a sense of personal control (mastery) all emerged as important mediators between unemployment and depression.Conclusions Both unemployment and underemployment were associated with increased risk of depression. The strength of this relationship was attenuated but remained significant after accounting for key variables (mastery, financial hardship and social support), and extensive sociodemographic and health covariates, indicating that no or inadequate employment contributes to poorer mental health over and above these factors.",
+    "DOI": "10.1136/bmjopen-2015-009834",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Australia, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not directly address employment interventions. It is an observational longitudinal cohort study examining the relationship between employment status and depression.",
+            "study_design": "Observational longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions but rather on the association between employment status and depression. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Longitudinal Cohort Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

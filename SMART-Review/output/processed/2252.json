@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2252,
+    "Authors": "Cmar, Jennifer L.; McDonnall, Michele C.",
+    "Article Title": "Effectiveness of a Job Search Training Program for Youth With Visual Impairments",
+    "Abstract": "Early work experiences predict future employment for youth with visual impairments, particularly when youth find jobs independently, but research has not supported the efficacy of sponsored work for this population. The most effective work experience programs include additional components such as job search assistance, and job search interventions are effective at improving employment outcomes. Thus, we conducted a quasi-experimental study to evaluate the effectiveness of adding job search training to a summer work experience program with 42 youth with visual impairments. Intervention group youth significantly increased job search knowledge and behavior compared with comparison group youth, and both groups increased in job search self-efficacy. Although additional research is needed, this study provides initial evidence of the job search program's effectiveness.",
+    "DOI": "10.1177/2165143418792238",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is quasi-experimental, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders. The intervention is for youth with visual impairments and the outcomes focus on job search knowledge and self-efficacy rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youth with visual impairments, not specifically on people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

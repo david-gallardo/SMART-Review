@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2228,
+    "Authors": "Caliendo, Marco; Mahlstedt, Robert; van den Berg, Gerard J.; Vikstroem, Johan",
+    "Article Title": "Side effects of labor market policies",
+    "Abstract": "Labor market policies, such as training and sanctions, are commonly used to bring workers back to work. By analogy to medical treatments, exposure to these tools can have side effects. We study the effects on health using individual-level population registers on labor market outcomes, drug prescriptions, and sickness absence, comparing outcomes before and after exposure to training and sanctions. Training improves cardiovascular and mental health, and lowers sickness absence. This is likely to be the result of the instantaneous features of participation, such as the adoption of a more rigorous daily routine, rather than improved employment prospects. Benefits sanctions cause a short-run deterioration of mental health.",
+    "DOI": "10.1111/sjoe.12514",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: labor regulation policies, which does not directly address employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and does not directly address employment interventions. It focuses on side effects of labor market policies on health outcomes rather than evaluating specific employment policies for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the effects of labor market policies on health outcomes, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not focus on people with mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

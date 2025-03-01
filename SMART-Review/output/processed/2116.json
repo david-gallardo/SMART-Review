@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2116,
+    "Authors": "Radford, Kate; Kettlewell, Jade; das Nair, Roshan; Morriss, Richard; Holmes, Jain; Kellezi, Blerina; Timmons, Stephen; Jones, Trevor; Tresidder, Hereward; Andrews, Isobel; Bridger, Kay; Patel, Priya; Lindley, Rebecca; Perez, Blanca De Dios; Statham, Abigail; Jones, Tadeusz; Hoffman, Karen; James, Marilyn; Kendrick, Denise",
+    "Article Title": "Development of a vocational rehabilitation intervention to support return-to-work and well-being following major trauma: a person-based approach",
+    "Abstract": "Objectives Major trauma centres (MTCs) save lives but rehabilitation to support return-to-work (RTW) is lacking. This paper describes development of a vocational rehabilitation intervention (the ROWTATE intervention) to support RTW following traumatic injury. Design Sequential and iterative person-based approach in four stages-Stage 1: review of evidence about the efficacy and mechanisms of RTW interventions; Stage 2: interviews (n=38) and focus groups (n=25) with trauma survivors and service providers in five UK MTCs to identify the issues, and challenges faced postinjury; Stage 3: codesign workshops (n=43) with trauma stakeholders in MTCs to conceptually test and identify intervention delivery barriers/enablers; Stage 4: meetings (n=7) with intervention development working group (IDWG) to: (1) generate guiding principles, (2) identify key intervention features (process, components, mechanisms) to address unmet rehabilitation needs; (3) generate a logic model and programme theory to illustrate how the intervention works; and (4) develop a training package to support delivery. Results Trauma survivors described unmet needs relating to early advice about RTW; psychological support; pain management; hidden disabilities (eg, fatigue); estimating recovery; and community, amputee and musculoskeletal rehabilitation. Mechanisms of effective interventions identified in the review included early intervention, colocation, employer engagement, case coordination and work accommodations. Intervention features identified by IDWG members (n=13) from stages 1 and 2 were use of stepped-care approaches by occupational therapists (OTs) and clinical psychologists (CPs), OT/CP formulation for complex cases, assessment of mental health problems, individually tailored rehabilitation including vocational goal setting, cross-sector coordination/communication, employer engagement, phased RTW, education/advice for family/employers, exploration of work alternatives, ongoing review of physical and mental health needs, work stability monitoring. Conceptual testing ratified the logic model. Geography and long waiting lists were identified as potential delivery barriers. Conclusions Real-world testing of the intervention is underway in a randomised controlled trial.",
+    "DOI": "10.1136/bmjopen-2024-085724",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a sequential and iterative person-based approach in four stages, which meets the inclusion criteria. The study includes a control group (trauma survivors) and presents measures of employment or labor results (return-to-work and well-being following major trauma).",
+            "study_design": "Sequential and iterative person-based approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a rigorous evaluation with a control group and focuses on the development of an intervention rather than testing its effectiveness. It also lacks employment or labor outcomes.",
+            "study_design": "Developmental research without a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational rehabilitation interventions for trauma survivors, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "The study design is not explicitly mentioned in the abstract provided. However, based on the description, it appears to be a developmental study involving interviews, focus groups, and working group meetings, which does not fit the specified inclusion criteria of systematic reviews, meta-analyses, RCTs, or quasi-experimental studies with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders specifically.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

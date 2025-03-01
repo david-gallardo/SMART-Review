@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2040,
+    "Authors": "Ahmed, Anthony O.; Marino, Brielle A.; Rosenthal, Elizabeth; Buckner, Alex; Hunter, Kristin M.; Mabe, Paul Alex; Buckley, Peter F.",
+    "Article Title": "Recovery in Schizophrenia What Consumers Know and Do Not Know",
+    "Abstract": "The recovery model has permeated mental health systems by leading to the development of new psychiatric interventions and services and the reconfiguration of traditional ones. There is growing evidence that these interventions and services confer benefits in clinical and recovery-oriented outcomes. Despite the seeming adoption of recovery by policy makers, the transformation of mental health systems into recovery-oriented systems has been fraught with challenges.",
+    "DOI": "10.1016/j.psc.2016.01.009",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not directly address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the population is not specifically defined as people with mental disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes and does not mention any of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2221,
+    "Authors": "Mascayano, Franco; Drake, Robert E.",
+    "Article Title": "Supported employment as a global mental health intervention",
+    "Abstract": "The global health community has recognized that social determinants of health account for most of the inequities of health outcomes, including mental health outcomes, across and within countries. Strategies to overcome such inequities must focus on modifiable social factors. In this viewpoint, we argue for the preeminence of employment among social determinants of mental health for several reasons. People with mental health disabilities want to work, and a well-validated model of supported employment that is effective and cost-effective now exists. Employment leads to improvements in income, daily structure, self-esteem, social support, community integration and illness management, and people who are employed experience fewer emergencies and hospitalizations. Employment is empowering because people can use added income to activate their own choices regarding other social determinants. Supported employment actualizes the recovery paradigm: People who are employed in competitive jobs of their choice develop a meaningful functional life, increased self-esteem and new social supports. We provide examples of supported employment developments in diverse settings and discuss the implications of scaling up these services worldwide.",
+    "DOI": "10.1017/gmh.2024.112; 10.1017/gmh.2024.112.pr2; 10.1017/gmh.2024.112.pr3; 10.1017/gmh.2024.112.pr4; 10.1017/gmh.2024.112.pr5; 10.1017/gmh.2024.112.pr6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a viewpoint article, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Viewpoint article",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a viewpoint/opinion piece rather than a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Viewpoint/Opinion Piece",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article discusses supported employment as an intervention for people with mental health disorders, which aligns with the inclusion criteria. It is a systematic review, meeting the study design requirement. The article'senvironment' is not specified, but it is reasonable to assume it falls within the specified geographic scope. The intervention (supported employment) is directly relevant to the inclusion criteria. The population is clearly defined as people with mental health disorders. The outcomes discussed include employment rates and job retention, which are relevant to the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a viewpoint piece and does not present results from a meta-analysis, systematic review, RCT, or quasi-experimental study.",
+            "study_design": "Viewpoint",
+            "logprobs": null
+        }
+    }
+}

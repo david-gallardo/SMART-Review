@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2096,
+    "Authors": "Moe, Cathrine; Brinchmann, Beate; McDaid, David; Killackey, Eoin; Rinaldi, Miles; Mykletun, Arnstein",
+    "Article Title": "Approaches to implementing individual placement and support in the health and welfare sectors: a scoping review protocol",
+    "Abstract": "Objective: The objective of this review is to identify and map existing knowledge on the methods and approaches used to implement Individual Placement and Support at scale in the health and welfare sectors, as well as the frameworks and methodological approaches used in implementation studies, and to identify knowledge gaps that are important for further research.Introduction: Individual Placement and Support is an evidence-based, standardized approach designed to support people with mental health conditions to gain and maintain competitive jobs in the labor market. Translating scientific knowledge into mainstream practice is challenging, and there is insufficient knowledge of the approaches used to implement Individual Placement and Support at scale in the health and welfare sectors.Inclusion criteria: This review will include studies reporting on the implementation of Individual Placement and Support for people with mental health conditions within a health and welfare context, from 1993 to the present. Studies that have abstracts in English, German or Scandinavian languages will be considered. Randomized controlled trials will be excluded.Methods: The review will be conducted in accordance with the JBI methodology for scoping reviews. We will follow a three-step search strategy to trace published studies. Search strategies are developed to fit with the databases MEDLINE, Cochrane Central Register of Controlled Trials, Embase, PsycINFO, Base, OpenGrey and CINAHL. Data will be extracted from papers included in the review using data extraction tables developed by the reviewers. A qualitative content analysis will be used to facilitate the mapping of the results.",
+    "DOI": "10.11124/JBISRIR-D-19-00035",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and does not include randomized controlled trials (RCTs), quasi-experimental studies with control groups, or systematic reviews of controlled trials. The timeframe is from 1993 to the present, which includes years before 2005. Additionally, it focuses on the implementation methods rather than directly addressing employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the implementation of Individual Placement and Support in the health and welfare sectors, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Scoping review protocol",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria for meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

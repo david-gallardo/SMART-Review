@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2074,
+    "Authors": "Fowler, Ken; Escoto-Rivera, Andrea Lorena; Hesson, Jacqueline; Button, Pamela",
+    "Article Title": "COVID-related stressors, psychological distress and social support in Atlantic Canadian University students",
+    "Abstract": "This study explores the impact of the COVID-19 pandemic on Memorial University of Newfoundland (MUN) undergraduate and graduate students. Using the National College Health Assessment (third revision) (NCHA-III) survey, the relationship between COVID-related stressors and mental health was assessed after controlling for demographic, economic, and academic variables, and reported mental illness. A hierarchical regression revealed that psychological distress was higher for students who were undergraduate, female, of lower family income, with a pre-existing anxiety or depressive disorder. Psychological distress was also predicted by direct COVID stressors (e.g., fear of infection), as well as indirect stressors, including worries about employment and tuition, professor/instructor support, campus efforts to ensure safety, and discrimination/hostility due to race/ethnicity. Chi Square tests subsequently revealed that graduate students were more likely to be concerned about the threat COVID-19 posed to loved ones, separation from family/friends, and pandemic duration, while undergraduates were more likely concerned about returning to school, tuition, employment, and the legitimacy of their degree. Undergraduates were also more likely to have witnessed discrimination/hostility, and less likely to report professor/instructor support. Finally, independent t tests revealed that undergraduate students were significantly lower in overall social support, as well as for particular subdomains including 'guidance', 'social integration', and 'reassurance of worth'. Interpretation of the findings and implications are considered.",
+    "DOI": "10.1007/s44202-024-00138-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of the COVID-19 pandemic on university students' mental health and social support.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the impact of COVID-19 on mental health in university students, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2015,
+    "Authors": "Lu, Weili; Oursler, Janice; Gao, Ni; Herrick, Samantha; Mariani, Jake; Diviney, Jason; Socha, Crystal; Beninato, John",
+    "Article Title": "Focus groups on employment related soft skills for transition age youth with disabilities",
+    "Abstract": "BACKGROUND: Work-related soft skills can be an important factor for successful employment outcomes, particularly for individuals with disabilities.OBJECTIVE: This study conducted two focus groups with stakeholders for two state Rehabilitation Councils to identify the needs of specific work-related soft skills for employment success of transition age youth with disabilities.METHODS: 30 participants including 10 individuals with disabilities, 5 family members of individuals with disabilities, 5 disability service providers, 9 disability advocates and 1 unidentified, completed two focus groups to identify a list of soft skills by importance for transition age youth with disabilities to succeed at work.RESULTS: Focus group participants reported that communication skills (face to face communication and emails to coworkers, customers, and employers), conflict resolution skills, advocacy skills, and professionalism are the most important soft skills for transition age youth with disabilities to be successful at work.CONCLUSION: Findings indicated soft skills are critical towork success for transition age youth with disabilities. Vocational rehabilitation providers should teach these critical soft skills when serving transition age youth with disabilities.",
+    "DOI": "10.3233/JVR-230033",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Lack of rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (focus groups) and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically addressing job search services, adult training, wage subsidies, supported employment), population (does not reference mental health or have an undefined population), and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Qualitative study (focus groups)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on soft skills for employment success, not directly on employment interventions or outcomes.",
+            "study_design": "Focus group",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (focus groups) and does not include a control group for rigorous evaluation.",
+            "study_design": "Focus Groups",
+            "logprobs": null
+        }
+    }
+}

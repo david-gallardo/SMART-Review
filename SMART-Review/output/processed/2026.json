@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2026,
+    "Authors": "McGurk, Susan R.; Mueser, Kim T.; Watkins, Melanie A.; Dalton, Carline M.; Deutsch, Heather",
+    "Article Title": "The Feasibility of Implementing Cognitive Remediation for Work in Community Based Psychiatric Rehabilitation Programs",
+    "Abstract": "Objective: Adding cognitive remediation to vocational rehabilitation services improves cognitive and work functioning in people with serious mental illness, but despite interest, the uptake of cognitive programs into community services has been slow. This study evaluated the feasibility of implementing an empirically supported cognitive remediation program in routine rehabilitation services at 2 sites. Method: The Thinking Skills for Work (TSW) program was adapted for implementation at 2 sites of a large psychiatric rehabilitation agency providing prevocational services, but not community-based vocational services, which were provided off-site. Agency staff were trained to deliver TSW to clients with work or educational goals. Cognitive assessments were conducted at baseline and posttreatment, with work and school activity tracked for 2 years. Results: Eighty-three participants enrolled in TSW, of whom 79.5% completed at least 6 of the 24 computer cognitive exercise sessions (M = 16.7) over an average of 18 weeks. Participants improved significantly from baseline to posttreatment in verbal learning and memory, speed of processing, and overall cognitive functioning. Over the follow-up, 25.3% of participants worked and 47.0% were involved in work or school activity. Higher work rates were observed at the site where participants had easier access to vocational services. Conclusions and Implications for Practice: The results support the feasibility of implementing the TSW program by frontline staff in agencies providing psychiatric rehabilitation, and suggest that ease of access to vocational services may influence work outcomes.",
+    "DOI": "10.1037/prj0000257",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an outcome. It focuses on cognitive remediation and its impact on work functioning but does not provide data on employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation in the context of psychiatric rehabilitation, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for rigorous evaluation.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2078,
+    "Authors": "Davis, Louanne W.; Lysaker, Paul H.; Kristeller, Jean L.; Salyers, Michelle P.; Kovach, Amanda C.; Woller, Shannon",
+    "Article Title": "Effect of Mindfulness on Vocational Rehabilitation Outcomes in Stable Phase Schizophrenia",
+    "Abstract": "This report describes the results of a randomized controlled feasibility study of the Mindfulness Intervention for Rehabilitation and Recovery in Schizophrenia (MIRRORS). MIRRORS is an adaptation of Mindfulness-Based Stress Reduction designed to help persons with schizophrenia to persist and perform better at work. Thirty-four participants with schizophrenia or schizoaffective disorder who were engaged in outpatient services were enrolled in a vocational rehabilitation program that included a job placement and then were randomized to receive MIRRORS (n = 18) or Intensive Support (n = 16) over a period of 16 weeks. The number of hours worked was recorded weekly and job performance was assessed monthly using the Work Behavior Inventory. Results of t-tests revealed that participants in the MIRRORS group worked a significantly greater number of hours and performed significantly better at the end of the 4-month intervention than those in the Intensive Support condition. Repeated-measures analysis of variance revealed that the MIRRORS group worked more hours each week on average and that this difference increased over time as well as having generally better work performance compared with the Intensive Support group. Results suggest a link between MIRRORS and higher levels of work performance and persistence in people with schizophrenia. Further research is indicated to evaluate MIRRORS in a fully powered randomized controlled trial.",
+    "DOI": "10.1037/ser0000028",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US and within the specified timeframe (2005-2025). The intervention is vocational rehabilitation, which includes job placement and mindfulness-based stress reduction, and the population has documented mental health problems (schizophrenia or schizoaffective disorder). The outcomes include employment or labor outcomes such as hours worked and job performance.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a feasibility study and does not meet the inclusion criteria for RCTs.",
+            "study_design": "Feasibility Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizoppheria, not mental health disorders in general, and the intervention is not directly related to employment.",
+            "study_design": "Randomized controlled feasibility study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on job placement and performance for people with schizophrenia, includes employment outcomes, and was conducted within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

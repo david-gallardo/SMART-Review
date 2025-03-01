@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2006,
+    "Authors": "Correia, J. R. P.; Gomes, H. J.; Moreira, R. A.; Fraga, A. M.; Neves, S.; Gomes, J. R.",
+    "Article Title": "Supported employment: the fundamental adjuvant in the treatment of mental illness",
+    "Abstract": NaN,
+    "DOI": "10.1192/j.eurpsy.2023.245",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not specify the study design.",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation and does not specify if it includes a control group.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not provide sufficient information to determine if it includes employment outcomes.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2115,
+    "Authors": "Evensen, Stig; Wisloff, Torbjorn; Lystad, June Ullevoldsaeter; Bull, Helen; Martinsen, Egil W.; Ueland, Torill; Falkum, Erik",
+    "Article Title": "Exploring the potential cost-effectiveness of a vocational rehabilitation program for individuals with schizophrenia in a high-income welfare society",
+    "Abstract": "BackgroundOver the past decades research has shown that employment has a positive impact on quality of life, global functioning and recovery in individuals with schizophrenia. However, access to vocational rehabilitation services for this group is limited and unemployment rates remain high. In this study we explore the potential cost-effectiveness of a novel vocational rehabilitation program (The Job Management Program - JUMP) earmarked for individuals with schizophrenia in Norway.MethodsThe JUMP study was a vocational rehabilitation program augmented with either cognitive behaviour therapy or cognitive remediation. In addition to the JUMP protocol, we extracted treatment cost data from comprehensive and mandatory health and welfare registers. The costs over a two-year follow-up period were compared with the costs over the two-year period prior to inclusion in the study. We also compared the cost-effectiveness of JUMP with a treatment as usual group (TAU).ResultsWe identified significant reductions in inpatient services in the JUMP group, both for those who obtained employment and those who did not. Significant reductions were also found in the TAU group, but adjusted for baseline differences the total cost for JUMP participants were Euro 10,621 lower than in the TAU group during the follow-up period.ConclusionIn addition to supporting individuals with schizophrenia obtain employment, JUMP appears to have reduced the reliance on mental health services, which should be of interest to stakeholders.Trial registrationClinicalTrials.gov Identifier: NCT01139502. Retrospectively registered on 6 February 2010.",
+    "DOI": "10.1186/s12888-019-2130-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Norway, which falls within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study was published between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is vocational rehabilitation services, which is one of the interventions included in the inclusion criteria. The population is individuals with schizophrenia, which meets the population criteria. The study presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group (TAU), the geographic scope is within Europe (Norway), the timeframe is within 2005-2025, the intervention focuses on vocational rehabilitation which includes job search services, and the population consists of individuals with schizophrenia, a mental disorder. The outcomes include employment rates and reductions in reliance on mental health services.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizoppheria, which is not explicitly mentioned in the inclusion criteria as a mental disorder. The inclusion criteria require the study to focus on people with mental health disorders in general, not a specific one.",
+            "study_design": "RCT",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group (TAU), focuses on a relevant intervention (vocational rehabilitation program), includes employment outcomes, and is conducted in Norway within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}
