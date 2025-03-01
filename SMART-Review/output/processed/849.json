@@ -1,0 +1,33 @@
+{
+    "ArticleID": 849,
+    "Authors": "O'Donnell, Renee; Savaglio, Melissa; Vicary, Dave; Skouteris, Helen",
+    "Article Title": "Effect of community mental health care programs in Australia: a systematic review",
+    "Abstract": "Although numerous studies have examined the effects of community-based mental health care programs in Australia, no synthesis of this literature exists. This systematic review of peer-reviewed and grey literature described the types of community-based mental health care programs delivered and evaluated in Australia in the past 20 years, and evaluated their impact in improving outcomes for those with a serious mental illness (SMI). Articles were included if they evaluated the extent to which the programs delivered in Australia improved individual outcomes, including hospitalisations, psychiatric symptoms, substance misuse or psychosocial outcomes, for individuals with an SMI. Forty studies were included. Community-based mental health care programs were categorised into three types: case management (n = 23), therapeutic (n = 11) and lifestyle (n = 6). Therapeutic programs were most effective in reducing psychiatric symptoms. Case management approaches yielded significant improvements in psychosocial outcomes. Lifestyle programs were inconclusive in improving individual outcomes. This review provides support for the implementation of community-based mental health care programs that are informed by both therapeutic and case management principles. A multidisciplinary team that can facilitate the provision of therapeutic and psychosocial support may be most beneficial for those with an SMI within the Australian community.",
+    "DOI": "10.1071/PY20147",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on improving individual outcomes such as hospitalizations, psychiatric symptoms, substance misuse, and psychosocial outcomes for individuals with serious mental illness (SMI). It lacks measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on community-based mental health care programs in Australia, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not include employment or labor results.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

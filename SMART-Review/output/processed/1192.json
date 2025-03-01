@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1192,
+    "Authors": "Lunau, Thorsten; Wahrendorf, Morten; Mueller, Andreas; Wright, Bradley; Dragano, Nico",
+    "Article Title": "Do resources buffer the prospective association of psychosocial work stress with depression? Longitudinal evidence from ageing workers",
+    "Abstract": "Objectives There is now convincing evidence that psychosocial work stressors are linked to depression. Few studies, however, have tested if individual resources can buffer the longitudinal effects of psychosocial work stressors on depressive symptoms. This study investigates how two types of resources (internal and external resources) affect the association between psychosocial work stressors and depressive symptoms.Methods Data were obtained from the US Health and Retirement Study, with baseline information on psychosocial work stressors [job strain and effort-reward imbalance (ERI)] and on internal (high mastery and low constraints) and external resources (private social support) among initially healthy workers. This information was linked to elevated depressive symptoms two years later. The sample includes 5473 observations and we report relative risks (RR) and effect modification on the additive and multiplicative scale.Results Psychosocial stressors and low resources (internal and external) were both independently related to depressive symptoms. Individuals with both, psychosocial stressors and low resources, had the highest risk of developing elevated depressive symptoms (eg, RRERI-LowMastery 3.32, 95% CI 2.49-4.42; RRJobStrain-LowMastery 2.89, 95% CI 2.18-3.84). Yet, based on interaction analyses, only social support from friends buffered the association between work stressors and depressive symptoms.Conclusions Our findings have demonstrated that psychosocial stressors at work are related to mental health, and that in most cases this relationship holds true both for people with high and with low resources. Therefore, there is no clear indication that internal or external resources buffer the association between psychosocial work stressors and depressive symptoms.",
+    "DOI": "10.5271/sjweh.3694",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates the association between psychosocial work stressors and depressive symptoms.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the relationship between psychosocial work stressors and depressive symptoms. It lacks measures of employment or labor results.",
+            "study_design": "Cross-sectional analysis using longitudinal data from a survey (US Health and Retirement Study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

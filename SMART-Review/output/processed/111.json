@@ -1,0 +1,33 @@
+{
+    "ArticleID": 111,
+    "Authors": "Hellstrom, Lone; Madsen, Trine; Nordentoft, Merete; Bech, Per; Eplov, Lene Falgaard",
+    "Article Title": "Trajectories of Return to Work Among People on Sick Leave with Mood or Anxiety Disorders: Secondary Analysis from a Randomized Controlled Trial",
+    "Abstract": "Purpose The return to work (RTW) of people with mood and anxiety disorders is a heterogeneous process. We aimed to identify prototypical trajectories of RTW over a two-year period in people on sick leave with mood and anxiety disorders, and investigate if socio-demographic or clinical factors predicted trajectory membership. Methods We used data from the randomized IPS-MA trial (n=283), evaluating a supported employment intervention for participants with recently diagnosed mood or anxiety disorders. Information on weeks in employment in the past 6months was measured after 1/2, 1, 1 1/2 and 2 years, using data from a nationwide Danish register (DREAM). Latent growth mixture modelling analysis was carried out to identify trajectories of RTW and logistic regression analyses were used to estimate predictors for trajectory membership. Results Four trajectory classes of RTW were identified; non-RTW [70% (196/283)] (practically no return to work); delayed-RTW [19% (56/283)] (6months delay before full RTW); rapid-unstable-RTW [7% (19/283)] (members rapidly returned to work, but only worked half the time); and the smallest class, rapid-RTW [4% (12/283)] (members rapidly reached full employment, but later experienced a decrease in weeks of employment). Self-reported disability score according to the SDS, not living with a partner, and readiness to change on the CQ scale were found to be significantly associated with RTW. Conclusion The trajectories identified support that many do not benefit from vocational rehabilitation, or experience difficulties sustaining employment; enhanced support of this patient group is still warranted.",
+    "DOI": "10.1007/s10926-017-9750-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and the intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes through active employment policies. It focuses on identifying trajectories of return to work without evaluating specific interventions.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion. The study also does not focus on interventions directly related to employment, such as job search services, adult training, wage subsidies, or supported employment, which are required intervent\u00e9ments in the inclusion criteria.",
+            "study_design": "Secondary analysis from a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating a supported employment intervention for people with mood or anxiety disorders and reports on employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

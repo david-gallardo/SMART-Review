@@ -1,0 +1,33 @@
+{
+    "ArticleID": 594,
+    "Authors": "Schwartz, Ariel E.; Rogers, E. Sally; Russinova, Zlatka",
+    "Article Title": "Predictors of community-based employment for young adults with intellectual disability and co-occurring mental health conditions",
+    "Abstract": "Purpose To identify predictors of community-based employment and employment quality for young adults ages 23-30 with intellectual disability and co-occurring mental health conditions (YA-ID-MH). Methods We conducted secondary analysis of the 2017-2018 National Core Indicators(R) (NCI(R)) In-Person Survey. The NCI(R) survey was conducted in 35 states and Washington DC. Participants: YA with ID, ages 23-30 who had complete data. We conducted multiple regression analyses to examine demographic and environmental predictors of community-based employment, in addition to employment quality indicators: hourly wages, hours worked, and job duration. We also descriptively examined job satisfaction. Results YA-ID-MH were somewhat less likely to be employed per record review and self-report than YA with ID only, but these findings did not reach statistical significance. On average, YA with ID only had higher hourly wages and worked more hours than those with ID-MH, but there were no significant differences in job duration. For YA-ID-MH, predictors of employment included gender, race, level of ID, and residential setting. Multiple demographic and environmental factors predicted employment quality. Conclusions YA-ID-MH experience employment disparities compared to YA with ID only. Service providers should specifically attend to those at the highest risk of unemployment/low quality employment.",
+    "DOI": "10.1080/09638288.2021.1907457",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multiple regression analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is within the US, meeting the inclusion criteria for geographic scope. The timeframe is within 2005-2025, meeting the inclusion criteria for timeframe. The intervention is job search services and adult training, meeting the inclusion criteria for intervention. The population is people with intellectual disability and co-occurring mental health conditions, meeting the inclusion criteria for population. The outcomes include employment rates, job duration, job quality, and workplace integration, meeting the inclusion criteria for outcomes.",
+            "study_design": "Multiple regression analysis with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not include people with mental disorders as defined in the inclusion criteria. The study focuses on young adults with intellectual disability and co-occurring mental health conditions, which is a different population.",
+            "study_design": "Secondary analysis of survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young adults with intellectual disability and co-occurring mental health conditions, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the study's geographic scope and intervention type do not meet the inclusion criteria.",
+            "study_design": "secondary analysis of the National Core Indicators(R) In-Person Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but rather young adults with intellectual disability and co-occurring mental health conditions.",
+            "study_design": "Secondary analysis of survey data",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1170,
+    "Authors": "Kidd, Sean A.; Kaur, Jaswant; Virdee, Gursharan; George, Tony P.; McKenzie, Kwame; Herman, Yarissa",
+    "Article Title": "Cognitive remediation for individuals with psychosis in a supported education setting: A randomized controlled trial",
+    "Abstract": "Cognitive remediation (CR) has demonstrated good outcomes when paired with supported employment, however little is known about its effectiveness when integrated into a supported education program. This randomized controlled trial examined the effectiveness of integrating CR within a supported education program compared with supported education without CR. Thirty-seven students with psychosis were recruited into the study in the 2012 academic year. Academic functioning, cognition, self-esteem, and symptomatology were assessed at baseline, at 4 months following the first academic term in which CR was provided, and at 8 months assessing maintenance of gains. The treatment group demonstrated better retention in the academic program and a trend of improvement across a range of academic functional domains. While both treatment and control groups showed improvement in cognitive measures, the outcomes were not augmented by CR training. CR was also associated with significant and sustained improvements in self esteem. Further research, investigating specific intervention components is required to clarify the mixed findings regarding the effectiveness of CR in an education setting. (C) 2014 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2014.05.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention of interest (cognitive remediation) and instead compares the outcomes of the treatment group (with CR) to the control group (without CR).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention is cognitive remediation for individuals with psychosis in an education setting. It lacks direct measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation for individuals with psychosis in an educational setting, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment; it focuses on education.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

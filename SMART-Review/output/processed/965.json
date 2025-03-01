@@ -1,0 +1,33 @@
+{
+    "ArticleID": 965,
+    "Authors": "van Ens, Welmoed; Sanches, Sarita; Beverloo, Leonieke; Swildens, Wilma E.",
+    "Article Title": "Place-Based FACT: Treatment Outcomes and Patients' Experience with Integrated Neighborhood-Based Care",
+    "Abstract": "Locating specialized mental healthcare services in the neighborhood of people with severe mental illnesses (SMI) has been suggested as a way of improving treatment outcomes by increasing patient engagement and integration with the local care landscape. The current mixed methods study aimed to examine patient experience and treatment outcomes in three Flexible Assertive Community Treatment (FACT) teams that relocated to the neighborhood they served, compared to seven teams that continued to provide FACT as usual from a central office. Routine Outcome Measurement (ROM) and care use data were analyzed to compare change in treatment outcomes for patients in place-based FACT (n = 255) and FACT as usual (n = 833). Additionally, retrospective in-depth interviews were conducted with twenty patients about their experience with place-based FACT. Quantitative analysis showed mental health admission days decreased more in place-based than FACT as usual, although this difference was small. Both groups showed improved quality of life, psychosocial functioning, and symptomatic remission rates, and decreased unmet and overall needs for care. There was no change over time in met needs for care, employment, and daily activities. Qualitative analysis showed that patients experienced place-based FACT as more accessible, a better safety net, a more personal approach, better integrated with other forms of care, involving their social network, and embedded in their neighborhood and daily environment. This study showed that location and integration matter to patients, and the long term impact of place-based FACT on treatment outcomes should be explored.",
+    "DOI": "10.1007/s10597-024-01277-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the intervention (place-based FACT) is not one of the specified interventions for active employment policies.",
+            "study_design": "Mixed methods study with quantitative and qualitative analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental healthcare services in general and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "mixed methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

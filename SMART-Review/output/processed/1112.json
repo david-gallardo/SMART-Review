@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1112,
+    "Authors": "Jaworski, Michael G., III; Fuchs, Tom A.; Dwyer, Michael G.; Wojcik, Curtis; Zivadinov, Robert; Weinstock-Guttman, Bianca; Benedict, Ralph H. B.",
+    "Article Title": "Conscientiousness and deterioration in employment status in multiple sclerosis over 3 years",
+    "Abstract": "Background: Physical and cognitive symptoms of multiple sclerosis (MS) correlate with unemployment cross-sectionally. Prospective studies, rarely published, have not accounted for personality traits such as Conscientiousness. Methods: In a 3-year study of 70 people with MS (PwMS) and 25 healthy controls (HCs), we evaluated employment status using online interviews capturing hours worked, negative work events, employee relations, and accommodations. Deteriorating employment status (DES) was defined as reduced employment (full-time to part-time or negative work events). In PwMS, we explored workplace accommodations, disclosure of disease status, and physical/psychological predictors of DES (e.g. Conscientiousness). Results: At follow-up, DES was 0% in HCs and 25.7% in MS, and 62.7% of work-stable PwMS used at least one work accommodation, most frequently, flexible hours. At baseline, DES-PwMS had lower education (p = 0.009), lower Conscientiousness (p < 0.001), more fatigue (p = 0.033), and performed worse on Symbol Digit Modalities Test (p = 0.013), Brief Visuospatial Memory Test-Revised (p = 0.041), and Nine-Hole Peg Test (p = 0.046) relative to work-stable. The model predicting DES was significant (chi(2)(7) = 30.936,p < 0.001) and baseline Conscientiousness accounted for more variance in DES (p = 0.004) than other factors. Higher Conscientiousness PwMS were more likely to disclose their condition at work (p = 0.038). Conclusion: Accommodations for low Conscientiousness, flexible hours, and physical/cognitive rehabilitation may prevent DES.",
+    "DOI": "10.1177/1352458520946019",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the relationship between conscientiousness and employment status deterioration in people with multiple sclerosis.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on multiple sclerosis (MS) and its impact on employment, which does not align with the specified population of interest (people with mental health disorders). Additionally, the study does not include job search services, adult training, wage subsidies, or supported employment interventions, which are key interventions in the inclusion criteria.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not evaluate an intervention aimed at improving employment outcomes.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

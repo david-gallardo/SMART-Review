@@ -1,0 +1,33 @@
+{
+    "ArticleID": 38,
+    "Authors": "Axen, Iben; Bramberg, Elisabeth Bjork; Vaez, Marjan; Lundin, Andreas; Bergstrom, Gunnar",
+    "Article Title": "Interventions for common mental disorders in the occupational health service: a systematic review with a narrative synthesis",
+    "Abstract": "Introduction Common mental disorders (CMD) are leading causes of decreased workability in Sweden and worldwide. Effective interventions to prevent or treat such disorders are important for public health. Objective To synthesize the research literature regarding occupational health service (OHS) interventions targeting prevention or reduction of CMD among employees. The effect on workability (sickness absence, return-to-work and self-reported workability) and on CMD symptoms was evaluated in a narrative analysis. Data sources The literature search was performed in four electronic databases in two searches, in 2014 and in 2017. Eligibility criteria (using PICO) Population: studies investigating employees at risk or diagnosed with CMD, as well as preventive workplace intervention targeting mental health. Intervention: studies where the recruitment or the intervention was delivered by the OHS or OHS personnel were included. Control: individuals or groups who did not receive the target intervention. Outcome: all types of outcomes concerning sickness absence and psychological health were included. Study quality was assessed using a Swedish AMSTAR-based checklist, and results from studies with low or medium risk of bias were narratively synthesized based on effect or absence thereof. Results Thirty-three studies were included and assessed for risk of bias. Twenty-one studies had low or medium risk of bias. In 18 studies, rehabilitation interventions were evaluated, 11 studies concerned interventions targeting employees at risk for developing CMD and four studies investigated preventive interventions. Work-focused cognitive behavioral therapy and problem-solving skill interventions decreased time to first return-to-work among employees on sick leave for CMD in comparison with treatment-as-usual. However, effect on return to full-time work was not consistent, and these interventions did not consistently improve CMD symptoms. Selective interventions targeting employees at risk of CMD and preventive interventions for employees were heterogeneous, so replication of these studies is necessary to evaluate effect. Limitations Other workplace interventions outside the OHS may have been missed by our search. There was considerable heterogeneity in the included studies, and most studies were investigating measures targeting the individual worker. Interventions at the workplace/organizational level were less common.",
+    "DOI": "10.1007/s00420-020-01535-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review with a narrative synthesis, meeting the inclusion criteria. The study is within the specified timeframe (2014-2017), and the intervention is job search services (work-focused cognitive behavioral therapy and problem-solving skill interventions) for people with mental health disorders. The study also presents measures of employment or labor results (return-to-work and sickness absence).",
+            "study_design": "Systematic Review with Narrative Synthesis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and is focused on workability (sickness absence, return-to-work) rather than specific employment rates, job duration, job quality, workplace integration, or job retention. Additionally, the geographic scope is limited to Sweden.",
+            "study_design": "Systematic review with narrative synthesis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not include employment or labor results such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 892,
+    "Authors": "Metcalfe, Justin; Drake, Robert E.; Bond, Gary",
+    "Article Title": "The Use of Standardized Discharge in IPS Supported Employment Programs",
+    "Abstract": "Objective: Some researchers have argued for using standardized discharge rules in individual placement and support (IPS) based on time of unemployment. To evaluate potential adverse outcomes of these rules, the authors examined time to first job over 24 months in a large randomized controlled study.Methods: This secondary analysis of 2,055 participants in the Mental Health Treatment Study, using bootstrapping and survival analysis, estimated and compared the likelihood of finding a first job in the IPS and control groups during each quarter over 24 months.Results: Although the likelihood of obtaining a first job declined over time, IPS recipients were more likely than participants in a control group to find first jobs for at least 18 months.Conclusions: Use of standardized discharge rules in IPS, based on initial periods of unemployment, may be cost-effective but would penalize recipients who respond more slowly. Natural attrition may be a more sensitive and ethical way to create capacity.",
+    "DOI": "10.1176/appi.ps.201700309",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also has a control group, which is required. The study is set in the US, which is within the specified geographic scope. The study examines employment outcomes, specifically time to first job over 24 months, which meets the inclusion criteria for outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized controlled trial (RCT) that meets the intervention criteria and focuses on employment outcomes for people with mental health disorders. It is within the specified timeframe and geographic scope.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

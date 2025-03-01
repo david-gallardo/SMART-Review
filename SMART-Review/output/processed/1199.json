@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1199,
+    "Authors": "Jennen, Jacqueline G. M.; Jansen, N. W. H.; van Amelsvoort, L. G. P. M.; Slangen, J. J. M.; Kant, I. J.",
+    "Article Title": "Associations between depressive complaints and indicators of labour participation among older Dutch employees: a prospective cohort study",
+    "Abstract": "Purpose European policy measures have led to an increased net labour participation of older employees. Yet, via different routes (for instance disability schemes) employees still often leave the labour market early. Mental health may be an important factor hindering labour participation. Aims of this study are twofold: first, to examine the relationship between mental health-particularly depressive complaints-and indicators of labour participation among older employees over a 2-year follow-up period and second, to explore the impact of different work contexts when studying this relation. Methods A subsample of older employees (aged > 45 years;n = 1253) from the Maastricht Cohort Study was studied. Depressive complaints were assessed using the Hospital Anxiety and Depression scale. Logistic and Cox regression analyses covered 2 years of follow-up and were also stratified for relevant work-related factors. Results Employees with mild depressive complaints showed statistically significantly higher risks for poor mental workability (HR 2.60, 95% CI 1.14-5.92) and high psychological disengagement levels (HR 2.35, 95% CI 1.21-4.57) over time compared to employees without depressive complaints. Within various work contexts, for instance in which employees perform physically demanding work or have high psychological job demands, significantly stronger associations were found between depressive complaints and poor mental workability over time. Conclusions This study shows strong longitudinal associations between depressive complaints and indicators of labour participation, also within different work contexts over time. Results provide valuable input for developing preventive measure aiming to enhance sustainable labour participation of older employees.",
+    "DOI": "10.1007/s00420-020-01584-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective cohort study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Netherlands) within the specified timeframe (2005-2025). The intervention is job search services (not explicitly mentioned but implied through the study's focus on labour participation) and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "prospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study without a control group and does not meet the inclusion criteria for intervention (does not directly address employment) and population (does not reference mental health).",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on older employees and does not specifically target people with mental health disorders as required by the inclusion criteria.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention targeting employment such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

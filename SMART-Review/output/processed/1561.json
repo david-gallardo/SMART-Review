@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1561,
+    "Authors": "Barnett, Phoebe; Steare, Thomas; Dedat, Zainab; Pilling, Stephen; McCrone, Paul; Knapp, Martin; Cooke, Eleanor; Lamirel, Daphne; Dawson, Sarah; Goldblatt, Peter; Hatch, Stephani; Henderson, Claire; Jenkins, Rachel; Machin, Karen; Simpson, Alan; Shah, Prisha; Stevens, Martin; Webber, Martin; Johnson, Sonia; Lloyd-Evans, Brynmor",
+    "Article Title": "Interventions to improve social circumstances of people with mental health conditions: a rapid evidence synthesis",
+    "Abstract": "Background Poor social circumstances can induce, exacerbate and prolong symptoms of mental health conditions, while having a mental health condition can also lead to worse social outcomes. Many people with mental health conditions prioritise improvement in social and functional outcomes over reduction in clinical symptoms. Interventions that improve social circumstances in this population should thus be considered a priority for research and policy. Methods This rapid evidence synthesis reports on randomised controlled trials of interventions to improve social circumstances across eight social domains (Housing and homelessness; money and basic needs; work and education; social isolation and connectedness; family, intimate and caring relationships; victimisation and exploitation; offending; and rights, inclusion and citizenship) in people with mental health conditions. Economic evaluations were also identified. A comprehensive, stepped search approach of the Cochrane library, MEDLINE, Embase, PsycINFO, Web of Science and Scopus was conducted. Results One systematic review and 102 randomised controlled trials were included. We did not find RCT evidence for interventions to improve family, intimate and caring relationships and only one or two trials for each of improving money and basic needs, victimisation and exploitation, and rights, inclusion and citizenship. Evidence from successful interventions in improving homelessness (Housing First) and employment (Individual Placement and Support) suggests that high-intensity interventions which focus on the desired social outcome and provide comprehensive multidisciplinary support could influence positive change in social circumstances of people with mental health conditions. Objective social isolation could be improved using a range of approaches such as supported socialisation and social skills training but interventions to reduce offending showed few benefits. Studies with cost and cost-effectiveness components were generally supportive of interventions to improve housing and vocational outcomes. More research is needed to ensure that social circumstances accompanied by high risks of further exacerbation of mental health conditions are adequately addressed. Conclusions Although there is a large body of literature examining how to support some aspects of life for people with mental health conditions, more high-quality evidence is required in other social domains. Integration into mental health services of interventions targeting social circumstances could significantly improve a number of social outcomes.",
+    "DOI": "10.1186/s12888-022-03864-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a rapid evidence synthesis of RCTs, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which meets the inclusion criteria. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Rapid evidence synthesis of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a rapid evidence synthesis and systematic review but does not specifically focus on employment or labor outcomes. It covers multiple social domains including work and education but the primary emphasis is on improving social circumstances across various domains rather than directly addressing employment as per the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on interventions to improve social circumstances in people with mental health conditions across various domains. However, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion. Additionally, the study does not specifically address employment or job-related outcomes, which are required for inclusion.",
+            "study_design": "Rapid evidence synthesis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of RCTs and includes employment as one of the social domains, focusing on people with mental health conditions in an unspecified geographic scope within the relevant timeframe.",
+            "study_design": "Systematic Review of RCTs",
+            "logprobs": null
+        }
+    }
+}

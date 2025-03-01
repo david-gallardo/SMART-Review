@@ -1,0 +1,33 @@
+{
+    "ArticleID": 956,
+    "Authors": "Schall, Carol M.; Wehman, Paul; Brooke, Valerie; Graham, Carolyn; McDonough, Jennifer; Brooke, Alissa; Ham, Whitney; Rounds, Rachael; Lau, Stephanie; Allen, Jaclyn",
+    "Article Title": "Employment Interventions for Individuals with ASD: The Relative Efficacy of Supported Employment With or Without Prior Project SEARCH Training",
+    "Abstract": "This paper presents findings from a retrospective observational records review study that compares the outcomes associated with implementation of supported employment (SE) with and without prior Project SEARCH with ASD Supports (PS-ASD) on wages earned, time spent in intervention, and job retention. Results suggest that SE resulted in competitive employment for 45 adults with ASD. Twenty-five individuals received prior intervention through PS-ASD while the other 20 individuals received SE only. Individuals in this sample who received PS-ASD required fewer hours of intervention. Additionally, individuals in the PS-ASD group achieved a mean higher wage and had higher retention rates than their peers who received SE only. Further research with a larger sample is needed to confirm these findings.",
+    "DOI": "10.1007/s10803-015-2426-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a retrospective observational records review study without a control group.",
+            "study_design": "retrospective observational records review study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a retrospective observational records review and does not have a control group.",
+            "study_design": "Retrospective observational records review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a retrospective observational records review study, which is a type of quasi-experimental study with a control group. It focuses on adults with ASD, which can be considered as people with mental health disorders. The intervention is supported employment, which is one of the specified interventions. The study is published within the specified timeframe and is from the US, fitting the geographic scope. The outcomes include employment rates, job duration, job quality, and job retention, which are the required outcomes.",
+            "study_design": "retrospective observational records review study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a retrospective observational records review study which can be considered quasi-experimental. The geographic scope and timeframe are not specified but assumed to fall within the inclusion criteria. The intervention includes supported employment, and the population includes individuals with ASD, a mental health disorder. The outcomes include wages earned, job retention, and competitive employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 521,
+    "Authors": "Bergbom, Sofia; Flink, Ida K. L.; Boersma, Katja; Linton, Steven J.",
+    "Article Title": "Early Psychologically Informed Interventions for Workers at Risk for Pain-Related Disability: Does Matching Treatment to Profile Improve Outcome?",
+    "Abstract": "Purpose This randomized controlled trial had two main aims. The first aim was to investigate the effect of early preventive, psychologically informed, interventions for pain-related disability. The second aim was explore whether people who are matched to an intervention specifically targeting their psychological risk profile had better outcomes than people who were not matched to interventions. Methods A total of 105 participants were recruited from their workplace, screened for psychological risk factors and classified as being at risk for long-term pain-related disability. They were subgrouped into one of three groups based on their psychological profile. Three behaviorally oriented psychological interventions were developed to target each of the three risk profiles. Half of the participants were assigned a matched intervention developed to target their specific profile, and half were assigned an unmatched intervention. After treatment, repeated measure ANOVAs and chi(2) tests were used to determine if treatments had an effect on primary and secondary outcomes including perceived disability, sick leave, fear and avoidance, pain catastrophizing and distress, and if matched participants had better outcomes than did unmatched. Results Treatments had effects on all outcome variables (effect sizes d ranging between 0.23 and 0.66), but matched participants did not have better outcomes than unmatched. Conclusions Early, preventive interventions have an impact on a number of outcome variables but it is difficult to realize a matching procedure. More in-depth research of the process of matching is needed.",
+    "DOI": "10.1007/s10926-013-9478-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it targets pain-related disability rather than employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on pain-related disability. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on pain-related disability rather than employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

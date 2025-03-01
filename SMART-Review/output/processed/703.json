@@ -1,0 +1,33 @@
+{
+    "ArticleID": 703,
+    "Authors": "Hetschko, Clemens; Schoeb, Ronnie; Wolf, Tobias",
+    "Article Title": "Income support, employment transitions and well-being",
+    "Abstract": "Using specific panel data of German welfare benefit recipients, we investigate the non-pecuniary life satisfaction effects of in-work benefits. Our empirical strategy combines difference-in-difference designs with synthetic control groups to analyse transitions of workers between unemployment, regular employment and employment accompanied by welfare receipt. Working makes people generally better off than being unemployed but employed welfare recipients do not reach the life satisfaction level of regular employees. This implies that welfare receipt entails non-compliance with the norm to make one's own living. Our findings allow us to draw cautious conclusions on employment subsidies paid as welfare benefits.",
+    "DOI": "10.1016/j.labeco.2020.101887",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the life satisfaction effects of in-work benefits and transitions between unemployment, regular employment, and employment accompanied by welfare receipt.",
+            "study_design": "Quasi-experimental (difference-in-difference designs with synthetic control groups)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not focus on people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

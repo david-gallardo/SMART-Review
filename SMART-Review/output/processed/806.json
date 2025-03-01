@@ -1,0 +1,33 @@
+{
+    "ArticleID": 806,
+    "Authors": "Marino, Leslie A.; Dixon, Lisa B.",
+    "Article Title": "An update on supported employment for people with severe mental illness",
+    "Abstract": "Purpose of reviewIndividual Placement and Support (IPS) is an effective intervention for helping people with severe mental illness obtain competitive employment, yet it has not been widely implemented. This review will examine and summarize the latest research on IPS.Recent findingsAs the effectiveness of IPS has been well established in the literature, newer research is exploring nonvocational outcomes, such as quality of life and mental health services utilization and expanding the reach of IPS to include different countries and different population groups. There is also a growing literature exploring the cost-effectiveness of IPS compared with traditional vocational services, which has favored IPS. By far, the area of research that has expanded the most is aimed at enhancing IPS outcomes, at both the intervention level and the client level. Researchers are exploring the variance in IPS outcomes as a means of increasing competitive employment rates with IPS.SummaryAlthough the field of research continues to expand, it is clear that many barriers remain to broad implementation of IPS. The solution goes beyond further research and involves policies and practices that support a recovery oriented mental healthcare system.",
+    "DOI": "10.1097/YCO.0000000000000058",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review, but it lacks a control group and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review article (purpose of review) and does not meet the inclusion criteria for RCTs, quasi-experimental studies with control groups, or systematic reviews of controlled trials. It also lacks specific employment outcomes.",
+            "study_design": "Review Article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Individual Placement and Support (IPS), which is a specific intervention for employment, not a broad category of intervents like job search services, adult training, or wage subsidies.",
+            "study_design": "systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials focusing on supported employment for people with severe mental illness in an unspecified geographic scope but likely within the inclusion criteria countries. It includes relevant outcomes such as competitive employment rates.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1134,
+    "Authors": "Rathod, Shanaya; Pallikadavath, Saseendran; Graves, Elizabeth; Rahman, Mohammad M.; Brooks, Ashlea; Rathod, Pranay; Bhargava, Rachna; Irfan, Muhammad; Aly, Reham; Mohammad Saleh Al Gahtani, Haifa; Salam, Zahwa; Chau, Steven Wai Ho; Paterson, Theone S. E.; Turner, Brianna; Gorbunova, Viktoria; Klymchuk, Vitaly; Phiri, Peter",
+    "Article Title": "Effects of cumulative COVID-19 cases on mental health: Evidence from multi-country survey",
+    "Abstract": "BACKGROUNDDepression and anxiety were both ranked among the top 25 leading causes of global burden of diseases in 2019 prior to the coronavirus disease 2019 (COVID-19) pandemic. The pandemic affected, and in many cases threatened, the health and lives of millions of people across the globe and within the first year, global prevalence of anxiety and depression increased by 25% with the greatest influx in places highly affected by COVID-19.AIMTo explore the psychological impact of the pandemic and resultant restrictions in different countries using an opportunistic sample and online questionnaire in different phases of the pandemic.METHODSA repeated, cross-sectional online international survey of adults, 16 years and above, was carried out in 10 countries (United Kingdom, India, Canada, Bangladesh, Ukraine, Hong Kong, Pakistan, Egypt, Bahrain, Saudi Arabia). The online questionnaire was based on published approaches to understand the psychological impact of COVID-19 and the resultant restrictions. Five standardised measures were included to explore levels of depression [patient health questionnaire (PHQ-9)], anxiety [generalized anxiety disorder (GAD) assessment], impact of trauma [the impact of events scale-revised (IES-R)], loneliness (a brief loneliness scale), and social support (The Multi-dimensional Scale of Perceived Social support).RESULTSThere were two rounds of the online survey in 10 countries with 42866 participants in Round 1 and 92260 in Round 2. The largest number of participants recruited from the United Kingdom (112985 overall). The majority of participants reported receiving no support from mental health services throughout the pandemic. This study found that the daily cumulative COVID-19 cases had a statistically significant effect on PHQ-9, GAD-7, and IES-R scores. These scores significantly increased in the second round of surveys with the ordinary least squares regression results with regression discontinuity design specification (to control lockdown effects) confirming these results. The study findings imply that participants' mental health worsened with high cumulative COVID-19 cases.CONCLUSIONWhist we are still living through the impact of COVID-19, this paper focuses on its impact on mental health, discusses the possible consequences and future implications. This study revealed that daily cumulative COVID-19 cases have a significant impact on depression, anxiety, and trauma. Increasing cumulative cases influenced and impacted education, employment, socialization and finances, to name but a few. Building a database of global evidence will allow for future planning of pandemics, particularly the impact on mental health of populations considering the cultural differences.",
+    "DOI": "10.5498/wjp.v13.i7.461",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather explores the psychological impact of COVID-19 on mental health.",
+            "study_design": "Cross-sectional online international survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the psychological impact of cumulative COVID-19 cases on mental health.",
+            "study_design": "Cross-sectional online survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

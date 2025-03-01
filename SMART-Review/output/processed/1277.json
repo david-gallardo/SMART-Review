@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1277,
+    "Authors": "Raj, Anish; Krass, Polina; Hackett, Kali; Green, Sarah; Wood, Joanne N.",
+    "Article Title": "Integrating Social Care Into a Specialized Medical Home for Sex-Trafficked Youth",
+    "Abstract": "After a series of meetings between medical personnel and community stakeholders, the Children's Hospital of Philadelphia successfully launched the Adolescent Protection Collaborative in July 2021. This novel clinic created a specialized medical home for sex-trafficked youth. The clinic was staffed by a core team of child abuse pediatrics and adolescent medicine physicians and a social worker who provided coordinated evaluations and same-day services, followed by ongoing long-term care. The Adolescent Protection Collaborative model was built on interdisciplinary collaboration with the goal of consolidating medical services and reducing fragmentation of care. A Community Advisory Committee was formed and aided in linking interested youth with additional services. Healthcare navigation was facilitated through support of a clinic-specific social worker, and transportation barriers were largely eliminated through a grant-funded program. Pilot data from the initial 21 months of clinical operations revealed that 88% of 43 referred patients (ages ranging from 13-22 years with a mean of 16 years) attended a scheduled appointment with 55% returning for follow up. Most patients (68%) identified as Black. All (100%) had past or present involvement with child protective services. Fifty percent of referrals tested positive for a sexually transmitted infection with a total of 33 sexually transmitted infections diagnosed and treated. Patient-desired contraception was facilitated for approximately 67% of referrals. Social care needs, such as referrals for educational support, case management, housing and employment resources, and mental health linkages, were offered alongside standard medical services. The described clinic model demonstrates promise in meeting the unique healthcare needs of sex-trafficked youth.",
+    "DOI": "10.1542/peds.2023-062394",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or have an undefined population.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on healthcare services for sex-trafficked youth.",
+            "study_design": "Pilot data from a clinic model",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Pilot Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 302,
+    "Authors": "Dalmasso, Guendalina; Di Prinzio, Reparata Rosa; Gilardi, Francesco; De Falco, Federica; Vinci, Maria Rosaria; Camisa, Vincenzo; Santoro, Annapaola; Casasanta, Daniela; Raponi, Massimiliano; Giorgi, Gabriele; Magnavita, Nicola; Zaffina, Salvatore",
+    "Article Title": "Effectiveness of Psychological Support to Healthcare Workers by the Occupational Health Service: A Pilot Experience",
+    "Abstract": "Work-related stress is a significant risk for healthcare workers (HCWs). This study aims at evaluating the effectiveness of an individual psychological support programme for hospital workers. In all, 35 workers participated (n). A control group of 245 workers (7n) was set. Occupational distress was measured by the General Health Questionnaire, (GHQ-12), the quality of life by the Short Form-36 health survey, (SF-36), and sickness absence was recorded. Costs and benefits of the service were evaluated and the return on investment (ROI) was calculated. The level of distress was significantly reduced in the treated group at the end of the follow-up (p < 0.001). Quality of life had significantly improved (p < 0.003). A 60% reduction of sickness absence days (SADs) following the intervention was recorded. After the treatment, absenteeism in cases was significantly lower than in controls (p < 0.02). The individual improvement of mental health and quality of life was significantly correlated with the number of meetings with the psychologist (p < 0.01 and p < 0.03, respectively). The recovery of direct costs due to reduced sick leave absence was significantly higher than the costs of the programme; ROI was 2.73. The results must be examined with caution, given the very limited number of workers treated; this first study, however, encouraged us to continue the experience.",
+    "DOI": "10.3390/healthcare9060732",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Europe) and within the specified timeframe (2005-2025). The intervention is psychological support to healthcare workers, which is related to employment outcomes. The population is people with mental health problems, and the outcomes include employment or labor results.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on psychological support for healthcare workers regarding work-related stress.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on healthcare workers, not specifically on people with mental health disorders. The intervention is psychological support, not directly related to employment services.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is healthcare workers without specific reference to mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 477,
+    "Authors": "Scherbaum, N.; Specka, M.; Kaspar, C.; Mikoteit, T.; Lieb, B.",
+    "Article Title": "Unemployment and Addiction: The SUNRISE Project",
+    "Abstract": "Objectives In the SUNRISE-project, the unemployment benefit office refers long-term unemployed clients (25-49 years old) to medical and psychological specialists of an addiction clinic, if substance-related problems are suspected as an obstacle for job placement. The present study aims at characterizing these clients with respect to educational qualifications, vocational training, diagnosed addictive disorders, and other mental disorders. Of special interest is the temporal sequence of unemployment and addictive disorders.Method Officials referred clients to medical examination if substance abuse was suspected. The examination was based on Europ-ASI, diagnosis of mental disorders based on SCID-I and SCID-II.Results In 87 out of the first 100 examined persons, an addictive disorder was diagnosed, most frequently alcohol-related disorders, and often multiple addictive disorders. These 87 clients were on average 40 years old (SD 8.5), and mostly male (73 out of 87 clients). About one-third had very low school qualification, and 55.2 % had not completed vocational training. An additional psychiatric diagnosis was made in 51.7 %. Addictive disorders had commenced during adolescence or early adulthood in most cases. The longest duration of continuous employment was 3 years (median). In only a few cases (7.4 %), the current period of unemployment had started before regular substance use.Conclusion Many long-term unemployed clients examined here showed deficits in schooling and vocational training, early onset of regular substance use, and additional mental disorders. In most cases, the addictive disorder did not emerge as a consequence of unemployment, but had existed before. Programs combining the efforts of unemployment benefit offices and the healthcare system are needed for these clients to help them gain access to the regular job market.",
+    "DOI": "10.1055/s-0042-107345",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is job search services (unemployment benefit office referrals to medical and psychological specialists), the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as job duration and job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on characterizing clients with respect to educational qualifications, vocational training, diagnosed addictive disorders, and other mental disorders. It lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployed individuals with suspected substance-related problems, not specifically on people with mental health disorders. The intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group. The population is not clearly defined as people with mental disorders or documented mental health problems. The outcomes are not focused on employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

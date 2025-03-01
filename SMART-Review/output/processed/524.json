@@ -1,0 +1,33 @@
+{
+    "ArticleID": 524,
+    "Authors": "Wesson, Matthew; Whybrow, Dean; Gould, Matthew; Greenberg, Neil",
+    "Article Title": "An Initial Evaluation of the Clinical and Fitness for Work Outcomes of a Military Group Behavioural Activation Programme",
+    "Abstract": "Background: Behavioural Activation (BA) is an evidence-based psychological treatment for depression based on behavioural theory. However, in common with other talking therapies, there is limited evidence about occupational factors related to treatment. This is an important gap in the research given the emphasis placed on employment considerations in recent service initiatives. Aim: A service evaluation to investigate the clinical and fitness to work outcomes of a group BA programme for serving military personnel. Method: 46 patients experiencing moderate to severe depression attended a 12-session Military Behavioural Activation and Rehabilitation Course (MBARC). The primary outcomes were the Patient Health Questionnaire-9 (PHQ-9), a self-report measure of depression and the patient's medical employability category. Results: Clinical and statistically significant changes were found on the PHQ-9 between pre-course and 3-month follow-up. Pretreatment 3 patients (6.5%) were psychologically fit to deploy on full operational duties in their primary role; this increased to 25 (56.8%) and 29 (65.9%) at 3 and 6-months respectively. Conclusion: Preliminary findings suggest that MBARC is a clinically and occupationally effective treatment for depression in military personnel. Further research is required to identify if BA delivered in a group setting would be effective in non-military settings and whether treatment benefits are maintained in the longer term.",
+    "DOI": "10.1017/S135246581300043X",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a service evaluation, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Service evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on clinical and fitness to work outcomes for military personnel undergoing a Behavioural Activation programme.",
+            "study_design": "Service evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on a Military Behavioural Activation Programme for military personnel with depression, which does not align with the specified interventions for employment in the inclusion criteria. The study's population is specific to military personnel, and the intervention is not directly related to employment services or policies.",
+            "study_design": "Service evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

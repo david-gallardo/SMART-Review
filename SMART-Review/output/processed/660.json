@@ -1,0 +1,33 @@
+{
+    "ArticleID": 660,
+    "Authors": "Backhaus, Insa; Dragano, Nico; Di Tecco, Cristina; Iavicoli, Sergio; Hoven, Hanno",
+    "Article Title": "Trends in negative interpersonal relationships at work and awareness of occupational safety and health services: a 2014-2019 trend analysis",
+    "Abstract": "Objective: A good psychosocial climate at work, including positive interpersonal relationships, is a protective factor for health, whereas social conflict imposes a considerable health risk. Occupational safety and health (OSH) services can help create a positive working environment. In the present study, we analyzed trends in the awareness of OSH services and interpersonal relationships and whether these are linked.Methods: We used time series data from the Italian Survey on Health and Safety at Work (INSuLa) from 2014 and 2019 (n = 16 000 employees). Negative interpersonal relationships included workplace bullying and lack of workplace support. The availability of OSH services was measured through items inquiring about the awareness of OSH representatives and OSH training. We used Poisson regression in reporting prevalence ratios and provided predicted probabilities and average marginal effects to show trends and differences in interpersonal relationships and OSH availability.Results: Our findings suggest that negative interpersonal relationships at work increased, whereas awareness about OSH services declined between 2014 and 2019. These trends were particularly strong for young workers, for whom workplace bullying increased by 6.3% and awareness of OSH training declined by 11.7%. We also found that unawareness about OSH services is associated with negative interpersonal relationships at work.Conclusion: The results suggest that low OSH awareness may be an increasing problem, whereas exposure to an adverse social climate at work became more frequent at the same time. Given the role of OSH services in ensuring a positive working climate, it is important to increase workers' awareness about OSH services.",
+    "DOI": "10.1093/joccuh/uiae043",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a cross-sectional study using time series data.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on negative interpersonal relationships at work and awareness of occupational safety and health services. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional trend analysis using time series data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Trend analysis",
+            "logprobs": null
+        }
+    }
+}

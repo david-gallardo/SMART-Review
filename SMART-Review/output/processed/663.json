@@ -1,0 +1,33 @@
+{
+    "ArticleID": 663,
+    "Authors": "Gibbons, Brent J.; Salkever, David S.",
+    "Article Title": "Working with a Severe Mental Illness: Estimating the Causal Effects of Employment on Mental Health Status and Total Mental Health Costs",
+    "Abstract": "Employment is an important goal for persons who have a severe mental illness (SMI). The current literature finds some evidence for a positive relationship between employment and measures of mental health (MH) status, however study design issues have prevented a causal interpretation. This study aims to measure the causal effect of employment on MH status and total MH costs for persons with SMI. In a quasi-experimental prospective design, self-reported data measured at baseline, 6-months, and 12-months, on MH status and employment are paired with Public Mental Health System (PMHS) claims data. The study population (N=5162) is composed of persons with a SMI who received PMHS services for a year or more. Outcome variables are MH status symptom scores from the BASIS-24 instrument and total MH costs. The estimation method is full information maximum likelihood, which allows for tests of employment endogeneity. Outcomes with an insignificant test of endogeneity are estimated using tobit or ordinary least square (OLS). Employment has modest but meaningful effects on MH status (including overall MH status, functioning, and relationships) and reduces total mental health costs on average by $538 in a 6-month period. Tests of endogeneity were largely insignificant, except for the depression score that tested marginally statistically significant. Interaction terms between baseline MH scores and employment indicated larger employment effects for individuals with worse baseline scores. This study demonstrates the non-vocational benefits of employment for individuals with SMI. Results have high generalizability and should be of interest to federal and state governments in setting appropriate disability policy and funding vocational programs. From a methodological perspective, future research should still be concerned with potential endogeneity problems, especially if employment status and MH outcomes are simultaneously measured and/or baseline measures of MH are not adequately controlled for future research should continue to examine the multi-dimensional nature of MH status and costs. Our analyses also demonstrate the practical use of a state-wide outcomes measurement program in assessing the factors that influence the recovery trajectories of individuals with SMI.",
+    "DOI": "10.1007/s10488-019-00926-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental prospective design with a control group, meeting the inclusion criteria for study design. The study population is composed of persons with a SMI who received PMHS services for a year or more, and the outcome variables are MH status symptom scores and total MH costs, meeting the inclusion criteria for population and outcomes.",
+            "study_design": "Quasi-experimental prospective design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and instead focuses on measuring the causal effect of employment on mental health status and total mental health costs. It lacks specific employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental prospective design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

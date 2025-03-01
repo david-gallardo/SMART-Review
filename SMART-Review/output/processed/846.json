@@ -1,0 +1,33 @@
+{
+    "ArticleID": 846,
+    "Authors": "Stone, Rosalie A. Torres; Delman, Jonathan; McKay, Colleen E.; Smith, Lisa M.",
+    "Article Title": "Appealing Features of Vocational Support Services for Hispanic and non-Hispanic Transition Age Youth and Young Adults with Serious Mental Health Conditions",
+    "Abstract": "Transition age youth and young adults (TAYYAs) diagnosed with serious mental health conditions (SMHCs) are at greater risk of being unemployed compared to their peers without SMHCs. Job counseling and job placement services are the greatest predictor of competitive employment, yet we have limited knowledge about what TAYYAs believe they need to obtain gainful employment. In person, qualitative interviews were conducted with 57 non-Hispanic and Hispanic TAYYAs with SMHCs enrolled in three vocational support programs in MA (Vocational Rehabilitation, Individual Placement and Support; the Clubhouse Model as described by the International Center for Clubhouse Development). Six themes emerged from the data: three themes were identified as social capital (supportive relationships, readily available workplace supports, and vocational preparation), two themes related to human capital (effective educational supports and work experience), and one theme related to cultural capital (social skills training). Unique features (Spanish-speaking staff and/or familiar in Latino culture, familial-like staff support) were frequently noted by Hispanic TAYYAs.",
+    "DOI": "10.1007/s11414-014-9402-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Population does not reference mental health or has an undefined population.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (in-person interviews), lacks a rigorous evaluation or control group, and does not directly address employment outcomes.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Hispanic and non-Hispanic TAYYAs with SMHCs, which is not the specified population of people with mental disorders or documented mental health problems. Additionally, the study's geographic scope is not within the specified EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "qualitative interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews and lacks a control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        }
+    }
+}

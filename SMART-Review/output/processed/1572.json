@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1572,
+    "Authors": "van der Wal, J. M.; Huth, K. B. S.; Lok, A.; Bockting, C. L.; Stronks, K.; Nicolaou, M.",
+    "Article Title": "Exploring the mechanisms underlying increased risk of depressive disorder in ethnic minority populations in Europe: A causal loop diagram",
+    "Abstract": "Background: Multiple ethnic minority populations in Europe show high risk of major depressive disorder (MDD), with ethnic discrimination and low socioeconomic position (SEP) as established risk factors. How this risk is shaped by the interactions between these, and other social factors, remains to be elucidated. We aimed to develop a causal -loop diagram (CLD) to gain a better understanding of how factors at the intersection of ethnic discrimination and SEP dynamically interact to drive MDD risk. Methods: We iteratively mapped the interactions and feedback loops between factors at the intersection of ethnic discrimination and SEP, drawing input from (i) a series of two interviews with a range of MDD domain experts, (ii) an existing CLD mapping the onset of MDD across psychological, biological, and social dimensions at the level of the individual, and (iii) other relevant literature. Results: Through tracing the feedback loops in the resulting CLD, we identified ten driving mechanisms for MDD onset in ethnic minorities (two related to ethnic discrimination, SEP, social network and support, and acculturation, as well as one relating to the living environment and self -stigma towards MDD); and four factors that modulate these mechanisms (recent migration, religious affiliation, neighborhood social environment, and public stigma towards MDD). The intersecting nature of ethnic discrimination and SEP, combined with the reinforcing dynamics of the identified driving mechanisms across time- and spatial scales, underscores the excess exposure to circumstances that increase MDD risk in ethnic minorities. Conclusions: While this CLD requires validation through future studies, the intersecting and reinforcing nature of the identified driving mechanisms highlights that tackling the high risk of MDD in ethnic minorities may require intervening at multiple targets, from the individual (e.g., psychological interventions targeting negative beliefs or reducing stress) to the societal level (e.g., addressing labor market discrimination).",
+    "DOI": "10.1016/j.socscimed.2024.116977",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study aims to explore the mechanisms underlying the increased risk of depressive disorder in ethnic minority populations in Europe, but it does not address employment outcomes.",
+            "study_design": "Qualitative study (including interviews and literature review)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the mechanisms underlying increased risk of depressive disorder in ethnic minority populations.",
+            "study_design": "Qualitative analysis using causal loop diagram",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the risk of depressive disorder in ethnic minority populations in Europe and does not meet the intervention criteria specified in the inclusion criteria, which are related to employment policies for people with mental health disorders.",
+            "study_design": "Causal loop diagram (CLD)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Causal loop diagram",
+            "logprobs": null
+        }
+    }
+}

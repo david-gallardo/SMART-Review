@@ -1,0 +1,33 @@
+{
+    "ArticleID": 650,
+    "Authors": "Chen, Shanquan; Cardinal, Rudolf N.",
+    "Article Title": "Accessibility and efficiency of mental health services, United Kingdom of Great Britain and Northern Ireland",
+    "Abstract": "Problem Mental ill health in the United Kingdom of Great Britain and Northern Ireland has been a major driver of labour market exclusion through sickness absence, reduced productivity and job loss. Approach A government-supported programme for improving access to psychological therapies was launched in 2008 and expanded across England in 2010. The aim was to provide evidence-based treatments for people with common mental disorders through three principal strategies: (i) routine session-by-session outcome monitoring; (ii) integration with the wider care system; and (iii) delivery of psychological therapies as part of a stepped-care approach. Local setting Access to effective psychological therapies was previously low in the United Kingdom. In 2010, only about 35% of people with moderately severe mental disorders were in specialist or non-specialist treatment. Relevant changes The accessibility of quality mental health services has increased, as has the efficiency of the country's mental health system. The numbers of people entering treatment have increased steadily from 0.43 million in 2012-2013 to 1.09 million in 2018-2019. The recovery rate of patients in treatment increased from 42.8% to 52.1% during 2012-2018. The number of people moved off sick pay and benefits rose from 3683 to 18 039 over the same period. Lessons learnt A clinical guideline on psychological therapies is a prerequisite for increasing the accessibility and efficiency of mental health services. An integrated approach allows mental health services to have better reach. Routine collection of patient-level outcome data plays an important role in the value and function of the mental health care system.",
+    "DOI": "10.2471/BLT.20.273383",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on accessibility and efficiency of mental health services.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment or labor outcomes, which is a key inclusion criterion.",
+            "study_design": "Not specified in the provided abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The outcomes do not present measures of employment or labor results.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

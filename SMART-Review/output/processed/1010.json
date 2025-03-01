@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1010,
+    "Authors": "Sweeney, Kaylin; Daniulaityte, Raminta; Mendoza, Natasha; Ki, Seol; Doebbeling, Bradley",
+    "Article Title": "It's Also Pushed People to a New Level of Desperation: COVID-19 Impacts on Experiences of Persons Who Use Illicit Opioids",
+    "Abstract": "The purpose of this qualitative study is to characterize the impacts of the COVID-19 pandemic on drug use experiences among persons who use illicit opioids (PWUO) in Arizona. Between 12/2020 and 05/2021, interviews were conducted via Zoom with 22 PWUO from across Arizona. Participants were recruited through Craigslist and social media ads, referrals by a local harm reduction organization, and other participants. The interviews were transcribed and analyzed using NVivo. Participants were 25-51 years of age, 36% were female, and 55% non-Hispanic White. Most reported past month use of heroin, and/or counterfeit (pressed) non-pharmaceutical fentanyl (NPF) pills. Nearly all reported changes in their drug use during the pandemic. Participants discussed profound negative impacts of social isolation with escalating mental health problems, boredom, and ease of hiding drug use from others, leading to increases in drug use. Loss of daily routines, employment difficulties, and challenges of accessing treatment due to COVID-19 restrictions were also driving factors for increased drug use. The growing availability of NPF pills during the pandemic led many individuals to transition from heroin to more frequent NPF pill use. The results emphasize the need for quality behavioral care services with an increased focus on economic and social support systems.",
+    "DOI": "10.1080/02791072.2022.2160391",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders. The study examines the impacts of COVID-19 on drug use experiences among persons who use illicit opioids.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative research (interviews), lacks a rigorous evaluation or control group, and does not directly address employment. The population includes persons who use illicit opioids but does not specifically reference mental health disorders.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group for rigorous evaluation.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

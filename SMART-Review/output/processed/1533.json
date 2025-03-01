@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1533,
+    "Authors": "Scheenen, Myrthe E.; Visser-Keizer, Annemarie C.; de Koning, Myrthe E.; van der Horn, Harm J.; van de Sande, Peter; van Kessel, Marlies; van der Naalt, Joukje; Spikman, Jacoba M.",
+    "Article Title": "Cognitive Behavioral Intervention Compared to Telephone Counseling Early after Mild Traumatic Brain Injury: A Randomized Trial",
+    "Abstract": "Many patients do not return to work (RTW) after mild traumatic brain injury (mTBI) because of persistent complaints that are often resistant to therapy in the chronic phase. Recent studies suggest that psychological interventions should be implemented early post-injury to prevent patients from developing chronic complaints. This study is a randomized, controlled trial that examines the effectiveness of a newly developed cognitive behavioral therapy (CBT) intervention (CBTi) compared to telephonic counseling (TC) in at-risk mTBI patients (patients with high reports of early complaints). Patients underwent either five sessions of CBT treatment or five phone conversations starting 4-6 weeks post-trauma. The main outcome measure was RTW 6 and 12 months post-trauma. Secondary measures comprised functional outcome at 6 and 12 months, and depression, anxiety, and reported post-traumatic complaints at 3, 6, and 12 months post-injury. After excluding dropouts, CBTi consisted of 39 patients and TC of 45 patients. No significant differences were found with regard to RTW, with 65% of CBTi patients and 67% of TC patients reporting a RTW at previous level. However, TC patients reported fewer complaints at 3 (8 vs. 6; p = 0.010) and 12 months post-injury (9 vs. 5; p = 0.006), and more patients in the TC group showed a full recovery 12 months post-injury compared to the CBTi group (62% vs. 39%). The results of this study suggest that early follow-up of at-risk patients can have a positive influence on patients' well-being, and that a low-intensive, low-cost telephonic intervention might be more effective than a CBT intervention at improving outcome in at-risk patients.",
+    "DOI": "10.1089/neu.2016.4885",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, but rather focuses on return to work (RTW) and recovery from mild traumatic brain injury.",
+            "study_design": "Randomized, controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly people with mental disorders but rather those with mild traumatic brain injury.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

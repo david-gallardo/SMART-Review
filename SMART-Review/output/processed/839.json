@@ -1,0 +1,33 @@
+{
+    "ArticleID": 839,
+    "Authors": "Dickerson, Josie; Kelly, Brian; Lockyer, Bridget; Bridges, Sally; Cartwright, Christopher; Willan, Kathryn; Shire, Katy; Crossley, Kirsty; Bryant, Maria; Siddiqi, Najma; Sheldon, Trevor A.; Lawlor, Deborah A.; Wright, John; McEachan, Rosemary Rc; Pickett, Kate E.",
+    "Article Title": "'When will this end? Will it end?' The impact of the March-June 2020 UK COVID-19 lockdown response on mental health: a longitudinal survey of mothers in the Born in Bradford study",
+    "Abstract": "Objectives To explore clinically important increases in depression/anxiety from before to during the first UK COVID-19 lockdown and factors related to this change, with a particular focus on ethnic differences. Design Pre-COVID-19 and lockdown surveys nested within two longitudinal Born in Bradford cohort studies. Participants 1860 mothers with a child aged 0-5 or 9-13, 48% Pakistani heritage. Main outcome measures ORs for a clinically important increase (5 points or more) in depression (eight item Patient Health Questionnaire (PHQ-8)) and anxiety (Generalised Anxiety Disorder Assessment (GAD-7)) in unadjusted regression analyses, repeated with exposures of interest separated by ethnicity to look for differences in magnitude of associations, and lived experience of mothers captured in open text questions. Results The number of women reporting clinically important depression/anxiety increased from 11% to 20% (95% CI 10%-13%; 18%-22%) and from 10% to 16% (95% CI 8%-11%; 15%-18%), respectively. Increases in depression/anxiety were associated with loneliness (OR=8.37, 95% CI 5.70 to 12.27; 8.50, 95% CI 5.71 to 12.65, respectively); financial (6.23, 95% CI 3.96 to 9.80; 6.03, 95% CI 3.82 to 9.51), food (3.33, 95% CI 2.09 to 5.28; 3.46, 95% CI 2.15 to 5.58) and housing insecurity (3.29, 95% CI 2.36 to 4.58; 3.0, 95% CI 2.11 to 4.25); a lack of physical activity (3.13, 95% CI 2.15 to 4.56; 2.55, 95% CI 1.72 to 3.78); and a poor partner relationship (3.6, 95% CI 2.44 to 5.43; 5.1, 95% CI 3.37 to 7.62). The magnitude of associations between key exposures and worsening mental health varied between ethnic groups. Responses to open text questions illustrated a complex interplay of challenges contributing to mental ill health including: acute health anxieties; the mental load of managing multiple responsibilities; loss of social support and coping strategies; pressures of financial and employment insecurity; and being unable to switch off from the pandemic. Conclusions Mental ill health has worsened for many during the COVID-19 lockdown, particularly in those who are lonely and economically insecure. The magnitude of associations between key exposures and worsening mental health varied between ethnic groups. Mental health problems may have longer term consequences for public health and interventions that address the potential causes are needed.",
+    "DOI": "10.1136/bmjopen-2020-047748",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study explores the impact of the COVID-19 lockdown on mental health, but it does not address employment.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment or labor outcomes for people with mental health disorders, but rather on the impact of COVID-19 lockdown on mental health in general.",
+            "study_design": "Longitudinal survey nested within two cohort studies",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on the impact of the COVID-19 lockdown on mental health, specifically depression and anxiety among mothers.",
+            "study_design": "Longitudinal survey nested within two longitudinal cohort studies",
+            "logprobs": null
+        }
+    }
+}

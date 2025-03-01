@@ -1,0 +1,33 @@
+{
+    "ArticleID": 52,
+    "Authors": "Adams, Wallis E.; Rogers, E. Sally; McKnight, Lauren; Lynde, David",
+    "Article Title": "Examination of Adaptations to the Evidence Based Supported Employment Model: Individual Placement and Support",
+    "Abstract": "Individual Placement and Support (IPS) is a long-standing and innovative employment service for individuals with mental illness with dozens of clinical trials demonstrating effectiveness. Little is known, however, about intentional adaptations to IPS, especially those outside of the context of research studies. Using an implementation science framework, we conducted an exploratory study to better understand the characteristics of stakeholder-reported adaptions to IPS, the impetus for their development, and perceived impacts. We conducted qualitative interviews to analyze and describe these adaptations. Numerous adaptations of IPS were found that address the needs of new and underserved populations both within and outside of the mental health field. Programs reported adapting IPS because of the dearth of other evidence-based employment services, to serve diverse populations in need, and based on financial incentives. Benefits of adaptations were weighed against impacts on fidelity. As evidence-based practices (EBPs) are adapted, developers of EBPs should determine how fidelity of a program or service can be assessed or preserved in light of adaptations. This is critical with the increase in different service delivery methods, new populations, new service recipient needs, and new settings in need of EBPs.",
+    "DOI": "10.1007/s10488-023-01267-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews, which lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (qualitative interviews) without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a qualitative exploratory study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "qualitative exploratory study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a qualitative analysis of adaptations to the Individual Placement and Support (IPS) model, which is a form of supported employment. It includes relevant outcomes related to employment for people with mental health disorders.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

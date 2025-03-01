@@ -1,0 +1,33 @@
+{
+    "ArticleID": 510,
+    "Authors": "White, Candace; Frimpong, Eric; Huz, Steve; Ronsani, Adrienne; Radigan, Marleen",
+    "Article Title": "Effects of the Personalized Recovery Oriented Services (PROS) Program on Hospitalizations",
+    "Abstract": "Though the recovery model has been implemented widely in outpatient mental health settings, there are no large sample evaluations of recovery oriented psychiatric rehabilitation programs that address both serious mental illness (SMI) and co-occurring disorders (COD) using a more comprehensive Medicaid reimbursable approach. This study examined preliminary hospitalization outcomes, for adults with SMI and COD enrolled in the NYS Personalized Recovery Oriented Services (PROS) program. McNemar's chi-square test was used to examine changes in hospitalization rates from pre-PROS admission to post-PROS discharge in a sample of 12,006 adults discharged from PROS. Negative binomial regression models were used to calculate adjusted rates of hospitalizations and hospital days. Demographic, psychosocial, and diagnosis predictor variables were extracted from the OMH web-based Child and Adult Integrated Reporting System. Hospitalization data were extracted from the Mental Health Automated Recordkeeping System, and Medicaid. From pre-admission to post-discharge, psychiatric hospitalization rate decreased significantly, from 24% to 14%. Substance related hospitalizations also decreased significantly, from 5% to 3%. Average number of hospitalizations and number of days hospitalized decreased even after adjusting for sociodemographic factors. PROS serves a high number of COD patients, and the number of psychiatric and substance related hospitalizations decreased after an episode of PROS, as did the number of days hospitalized. Findings support the maintenance of psychiatric rehabilitation models that include recovery oriented components. Further analyses with control samples are proposed.",
+    "DOI": "10.1007/s11126-017-9531-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on hospitalization outcomes, not employment or labor outcomes, and does not directly address employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

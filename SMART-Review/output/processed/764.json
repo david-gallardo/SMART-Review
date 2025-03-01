@@ -1,0 +1,33 @@
+{
+    "ArticleID": 764,
+    "Authors": "Nowak, Anna Christina; Nutsch, Niklas; Brake, Tessa-Maria; Gehrlein, Lea-Marie; Razum, Oliver",
+    "Article Title": "Associations between postmigration living situation and symptoms of common mental disorders in adult refugees in Europe: updating systematic review from 2015 onwards",
+    "Abstract": "BackgroundRefugees and asylum seekers have a high prevalence of psychiatric disorders such as post-traumatic stress disorder (PTSD), anxiety, and depression. The postmigration context inheres different risk and protective factors for mental health of refugees and asylum seekers in host countries. We conducted a systematic review to update knowledge on the association between characteristics of the postmigration living situation (PMLS) and mental health outcomes in Europe since 2015.MethodsWe searched in five databases according to the PRISMA statement. From a total of 5,579 relevant studies published in 2015-22, 3,839 were included for title and abstract screening, and 70 full texts screened for eligibility. Out of these, 19 studies on refugees and asylum seekers conducted in European countries after 2014 were included in this systematic review. The quality of studies was assessed by using the Mixed Methods Appraisal Tool (MMAT) - version 2018. We performed a narrative synthesis using the four layers of the social determinants of health framework.ResultsA wide range of risk and protective factors for mental health in the PMLS were identified as exposure measures, which included individual factors (e.g., language skills), social and community networks (e.g., family concerns, loneliness and social support, discrimination), living and working conditions (e.g., legal status, duration of residence, unemployment and financial hardship, housing) as well as general socio-economic, cultural and environmental factors (e.g., social status, acculturation). We found postmigration stressors are positively associated with symptoms of depression, anxiety, and PTSD, albeit not consistently so. Especially, the general socio-economic, cultural and environmental factors showed weak associations with mental health.ConclusionsHeterogenous study characteristics likely explain the inconsistent associations between characteristics of the PMLS and mental health outcomes. However, broken down in its component layers, most risk and protective factors of the PMLS were significantly associated with symptoms of mental disorders showing the same direction of association across the included studies, while the association between some stressors or resources of the PMLS and mental health turns out to be less homogeneous than expected. Characteristics of the PMLS contribute to the high prevalence of mental diseases of refugees and asylum seekers. Disadvantages in general socio-economic conditions, living and working conditions, in access to social and community networks need to be redressed, in addition to better access to health care.",
+    "DOI": "10.1186/s12889-023-15931-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on the association between postmigration living situation and symptoms of common mental disorders in adult refugees in Europe, and it includes a control group (European countries after 2014).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and interventions related to active employment policies for people with mental health disorders. It focuses on the association between postmigration living situation and symptoms of common mental disorders in adult refugees.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions but rather on the association between postmigration living situations and mental health outcomes in refugees and asylum seekers. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

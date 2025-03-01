@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1212,
+    "Authors": "Peters, Elke; Spanier, Katja; Radoschewski, Friedrich Michael; Bethge, Matthias",
+    "Article Title": "Influence of social support among employees on mental health and work ability-a prospective cohort study in 2013-15",
+    "Abstract": "Background: The study examined the association of social support with mental health, subjective work ability and psychological consultation. Methods: The cohort study included 1886 German employees (40-54 years) with sickness absence exceeding six weeks in 2012. Postal surveys were carried out in 2013 and 2015. Results: After adjustment for socio-demographic data, work-related characteristics and personality factors, persons with low social support compared to high social support had poorer mental health (b=-4.96; 95% CI: -7.11 to -2.81) and a lower work ability index (b=-1.10; 95% CI -2.00 to -0.21). Low social support was not associated with increased odds of consulting a psychologist (OR =1.30; 95% CI: 0.86-1.96). Conclusions: Low social support is an independent predictor of poorer mental health and lower work ability. This study highlights the importance of identifying people who have limited access to social support.",
+    "DOI": "10.1093/eurpub/cky067",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group and the timeframe does not meet the criteria (2005-2025). The intervention and population do not align with the specified inclusion criteria.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions or outcomes for people with mental health disorders, but rather on the association of social support with mental health and work ability.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is undefined in terms of mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

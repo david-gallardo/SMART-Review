@@ -1,0 +1,33 @@
+{
+    "ArticleID": 308,
+    "Authors": "Kaya, Cahit; Iwanaga, Kanako; Hsu, Sharon; Akpinar, Esra Nur; Bezyak, Jill; Chen, Xiangli; Chan, Fong",
+    "Article Title": "Demographic Covariates, Vocational Rehabilitation Services, and Employment Outcomes of Working-Age Adults with Anxiety Disorders: A Multivariate Logistic Regression Analysis",
+    "Abstract": "Purpose This study aimed to investigate the relationships between demographic covariates, vocational rehabilitation (VR) services, and employment outcomes of individuals with anxiety disorders. The specific research question for the current study investigate demographic variables and vocational rehabilitation services as predictors of competitive employment outcomes. Methods Data for the present study were extracted from the most recent United States Rehabilitation Service Administration 2018 Case Service Report (RSA-911) data. A purposeful selection, multivariate logistic regression analysis was conducted to examine the case service report data of 9266 individuals with anxiety disorders who received vocational rehabilitation services based on their demographic variables and receipt of VR services. Results The results indicated that African Americans and Latinx, people who have completed high school or more, people who do not receive disability-related benefits, and those who received more vocational rehabilitation services were more likely to be gainfully employed. In addition, receipt of financial support for life crises and occupational credentials (i.e., other services and maintenance services) and vocational rehabilitation counseling and guidance services were significant predictors of employment outcomes. Conversely, receipt of supported employment and transition services were negatively associated with employment outcome. Conclusions In the present study, we identified VR services that can improve and risk factors that can impede employment outcomes of people with anxiety disorders. We also identified medical, psychosocial, and vocational interventions that can lessen the effect of anxiety disorders on physical and mental health functioning.",
+    "DOI": "10.1007/s10926-022-10038-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariate logistic regression analysis, which meets the inclusion criteria. The study is based on data from the United States Rehabilitation Service Administration 2018 Case Service Report, and it includes a control group (individuals with anxiety disorders who received vocational rehabilitation services). The study's geographic scope is the US, and the timeframe is 2018, which falls within the specified range.",
+            "study_design": "Multivariate Logistic Regression Analysis",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It uses multivariate logistic regression analysis on existing data without conducting randomized controlled trials.",
+            "study_design": "Multivariate Logistic Regression Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on anxiety disorders, not specifically on mental health disorders in general, and does not meet the intervention criteria.",
+            "study_design": "Multivariate Logistic Regression Analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental analysis with a control group, focuses on the US, was published within the specified timeframe (2018), examines vocational rehabilitation services as an intervention, targets people with anxiety disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

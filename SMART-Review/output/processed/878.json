@@ -1,0 +1,33 @@
+{
+    "ArticleID": 878,
+    "Authors": "Ali, Suhailah; Wright, Eryn; Charlson, Fiona",
+    "Article Title": "Using a systems thinking approach to explore the complex relationships between schizophrenia and premature mortality",
+    "Abstract": "Background: People with schizophrenia have a higher risk of mortality compared to the general population, which has not improved over time. The majority of premature deaths are due to comorbid physical diseases, driven by interrelated factors operating at the individual level, through health systems and influenced by social determinants of health. A holistic understanding of this problem and the causal pathways linking these factors together is lacking.Aims: This study aims to understand why the mortality gap between people with schizophrenia and the general population is not improving by developing a causal loop diagram (CLD), a systems thinking approach which enables empirical research and theoretical knowledge to be combined into a visual representation of causal relationships and feedback loops.Method: The CLD was constructed using published literature, including both quantitative and qualitative studies, to identify key variables and relationships, and refined through consultation with experts in the topic area.Results: A total of 21 variables and 68 connections were included in the CLD, with 23 distinct feedback loops identified. Stigma and social support had the most connections, while unemployment was involved in the greatest number of feedback loops. Most feedback mechanisms served to reinforce behavioural risk factors, inadequate healthcare and social disadvantage.Conclusions: The CLD has created a holistic and dynamic understanding of the causal pathways driving the mortality gap between people with schizophrenia and the general population, providing insights into why it has persisted over time. One of the key findings was the critical role of social determinants in shaping health outcomes, highlighting the need for person-centred models of care and multisectoral government action.",
+    "DOI": "10.1177/00207640231194477",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study aims to understand the causal pathways driving the mortality gap between people with schizophrenia and the general population, but it does not address employment or labor outcomes.",
+            "study_design": "Qualitative study (CLD construction) with consultation from experts",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include any controlled trials, RCTs, quasi-experimental studies with control groups, or meta-analyses/systematic reviews of controlled trials. It is a qualitative literature review using systems thinking to develop a causal loop diagram (CLD) without empirical data from controlled experiments.",
+            "study_design": "Qualitative literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia and premature mortality, which does not align with the specified population of people with mental health disorders in the context of employment policies.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

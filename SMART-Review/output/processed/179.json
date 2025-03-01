@@ -1,0 +1,33 @@
+{
+    "ArticleID": 179,
+    "Authors": "Volker, D.; Zijlstra-Vlasveld, M. C.; Brouwers, E. P. M.; van der Feltz-Cornelis, C. M.",
+    "Article Title": "Process Evaluation of a Blended Web-Based Intervention on Return to Work for Sick-Listed Employees with Common Mental Health Problems in the Occupational Health Setting",
+    "Abstract": "Purpose A blended web-based intervention, eHealth module embedded in collaborative occupational health care (ECO), aimed at return to work, was developed and found effective in sick-listed employees with common mental disorders. In order to establish the feasibility of ECO, a process evaluation was conducted. Methods Seven process components were investigated: recruitment, reach, dose delivered, dose received, fidelity, satisfaction and context. Quantitative and qualitative methods were used to collect data: an online questionnaire for the employees, website data, telephonic interviews with occupational physicians (OPs) and observations of the researchers. Results Recruitment was uncomplicated for the employees, but required several steps for the OPs. Reach was 100 % at the OP level and 76.3 % at the employee level. Dose delivered and received for OPs: 91.6 % received minimally one email message. Dose delivered and received for the employees: finishing of the different modules of ECO varied between 13 and 90 %. Fidelity: the support of the OP to the employee in ECO was lower than anticipated. Satisfaction: both employees and OPs were satisfied with the intervention. However, employees reported a need for more support in ECO. The context showed that OPs had limited time to support the employees and it was impossible for the employee to contact the OP outside their regular contacts. Conclusion Feasibility of ECO and satisfaction of employees and OPs with ECO were good. Fidelity of OPs was limited. For further implementation in the occupational health setting, especially contextual barriers regarding time limitation and accessibility of OPs for employees should be addressed.",
+    "DOI": "10.1007/s10926-016-9643-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a process evaluation with a control group (occupational physicians), the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is a blended web-based intervention on return to work for sick-listed employees with common mental health problems, and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "Process evaluation with a control group (occupational physicians)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the process evaluation of a blended web-based intervention for return to work in sick-listed employees with common mental health problems.",
+            "study_design": "Process Evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on a web-based intervention rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Process Evaluation",
+            "logprobs": null
+        }
+    }
+}

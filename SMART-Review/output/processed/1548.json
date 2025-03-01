@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1548,
+    "Authors": "Bond, Gary R.; Johnson-Kwochka, Annalee V.; Becker, Deborah R.; Drake, Robert E.; Greene, Mary Ann",
+    "Article Title": "Sustaining and Expanding Evidence-Based Supported Employment: The Role of State Leaders Participating in a Learning Community",
+    "Abstract": "State leaders often promote implementation of evidence-based practices but have difficulty sustaining and expanding them over time. This paper examines the activities of leaders in 13 states that have successfully implemented, sustained, and expanded evidence-based supported employment, known as Individual Placement and Support (IPS), for 4 to 12 years. We interviewed state leaders from 13 states participating in a learning community regarding the composition of their leadership team, participation in the learning community, interagency collaboration, state policy alignment, financing, training, and monitoring of fidelity and outcome. To assess state-level performance in implementing, sustaining, and expanding IPS services, we obtained measures of sustainment, expansion, program fidelity, and employment in the subsequent year and compared them to a priori benchmarks. The majority of states (between 69 % and 77 %) met benchmarks for sustainment, expansion, fidelity, and employment. States varied widely in specific actions to advance IPS, but all had established leadership teams, participated in the national learning community, and built an infrastructure supporting IPS. Leaders in 13 states participating in a learning community have adopted and maintained multiple strategies to sustain and expand evidence-based supported employment at a high level of fidelity with good employment outcomes.",
+    "DOI": "10.1007/s10488-016-0771-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria. The study also meets the geographic scope, timeframe, intervention, and population criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation and does not include a control group. It focuses on the activities of leaders in states that have successfully implemented supported employment but does not meet the inclusion criteria for intervention, population, or outcomes.",
+            "study_design": "Case Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on interventions like job search services, adult training, or wage subsidies, but rather on the role of state leaders in implementing supported employment.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

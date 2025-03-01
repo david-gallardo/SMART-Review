@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1429,
+    "Authors": "Orme, Stephen; Zarkin, Gary A.; Luckey, Jackson; Dunlap, Laura J.; Novak, Matthew D.; Holtyn, August F.; Toegel, Forrest; Silverman, Kenneth",
+    "Article Title": "Cost and cost-effectiveness of abstinence contingent wage supplements",
+    "Abstract": "Background: Substance use disorders are correlated with unemployment and poverty. However, few interventions aim to improve substance use, unemployment, and, distally, poverty. The Abstinence-Contingent Wage Sup-plement (ACWS) randomized controlled trial combined a therapeutic workplace with abstinence-contingent wage supplements to address substance use and unemployment. The ACWS study found that abstinence -contingent wage supplements increased the percentage of participants who had negative drug tests, who were employed, and who were above the poverty line during the intervention period. This study presents the cost of ACWS and calculates the cost-effectiveness of ACWS compared with usual care.Methods: To calculate the cost and cost-effectiveness of ACWS, we used activity-based costing methods to cost the intervention and calculated the costs from the provider and healthcare sector perspective. We calculated in-cremental cost-effectiveness ratios and cost-effectiveness acceptability curves for negative drug tests and employment.Results: ACWS cost $11,310 per participant over the 12-month intervention period. Total intervention and healthcare costs per participant over the intervention period were $20,625 for usual care and $30,686 for ACWS. At the end of the intervention period an additional participant with a negative drug test cost $1437 while an additional participant employed cost $915.Conclusions: ACWS increases drug abstinence and employment and may be cost-effective at the end of the 12 -month intervention period if decision makers are willing to pay the incremental cost associated with the intervention.",
+    "DOI": "10.1016/j.drugalcdep.2022.109754",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: abstinence-contingent wage supplements does not directly address employment.",
+            "study_design": "Cost analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on substance use disorders and the cost-effectiveness of an intervention related to abstinence contingent wage supplements.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorders and unemployment, not specifically on mental health disorders or employment interventions.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that evaluates a wage supplement intervention for people with substance use disorders (a type of mental health disorder), includes employment outcomes, and was conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

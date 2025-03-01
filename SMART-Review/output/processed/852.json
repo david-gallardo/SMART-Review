@@ -1,0 +1,33 @@
+{
+    "ArticleID": 852,
+    "Authors": "Pezzimenti, Florencia; Durrani, Eman; Zheng, Shuting; Adams, Ryan E.; Bishop, Somer L.; Taylor, Julie Lounds",
+    "Article Title": "Perspectives on Employer-Initiated Terminations Among Young Adults on the Autism Spectrum",
+    "Abstract": "Job instability is high among autistic adults, with employer-initiated terminations a common reason for job loss. The current study used qualitative methods to code reasons that autistic adults identified for their employer-initiated termination. From 315 autistic individuals ages 18-35 who completed an online survey, 93 (29.5%) reported having been terminated from a job. These individuals were asked about the reasons for their termination and responses were coded into thematic categories. Common reasons included work performance, social difficulties, attendance, and mental health challenges. Adults were more likely to attribute terminations to internal causes (related to the individual) than to external causes (environment-related). A good fit between workplace, individual preferences, skills, and abilities is likely key to promoting job continuity for autistic adults.",
+    "DOI": "10.1007/s10803-022-05884-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation and does not include a control group. It uses qualitative methods to code reasons for employer-initiated terminations among autistic adults but does not meet the inclusion criteria for intervention, population, or outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on autism, not mental health disorders in general, and does not meet the specified intervention criteria.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design uses qualitative methods without a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

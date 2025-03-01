@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1452,
+    "Authors": "Stevenson, Brian J.; Mueller, Lisa; Kelly, Megan M.; Rosenheck, Robert A.",
+    "Article Title": "Correlates of Obtaining Employment among Veterans Receiving Treatment for Severe PTSD in Specialized Intensive Programs",
+    "Abstract": "Severe Post-Traumatic Stress Disorder (PTSD) has been identified as a significant impediment to employment. However, little is known about correlates of employment recovery after a period of not working among veterans with severe PTSD treated in specialized intensive treatment programs. This study examines rates and correlates of transitioning from not being employed at admission to working four months after discharge using national Veterans Health Administration (VHA) program evaluation data on veterans engaged in specialized intensive PTSD treatment (N = 27,339). Results suggest that only 5.68% of the sample made the transition to employment while 10.6% lost employment, 8.9% worked both at admission and following discharge, and 74.9%, did not work either at admission or following discharge. Multinomial regression analysis found that compared to other groups, veterans who became employed were younger, less likely to receive service-connected disability payments, and experienced a significantly greater reduction in PTSD symptoms. Findings from this study highlight that this distinct population has very poor employment outcomes and deserves more attention, and that reducing PTSD symptoms can lead to improved employment outcomes. Efforts to integrate evidence-based vocational rehabilitation practice into residential PTSD treatment targeting PTSD symptoms is encouraged.",
+    "DOI": "10.1007/s11126-020-09864-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on national Veterans Health Administration (VHA) program evaluation data, which meets the geographic scope criteria. The study examines employment outcomes among veterans with severe PTSD, meeting the population and intervention criteria. The study presents measures of employment outcomes, meeting the outcome criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies and interventions. It focuses on the correlates of employment recovery among veterans with severe PTSD, but it does not evaluate specific active employment policies such as job search services, wage subsidies, or supported employment.",
+            "study_design": "Observational study using national Veterans Health Administration (VHA) program evaluation data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with severe PTSD, not specifically on people with mental health disorders in general. The intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment. The study design is not specified as RCT, systematic review, or quasi-experimental study with a control group. The population is not clearly defined as people with mental health disorders but rather as veterans with severe PTSD. The outcomes are not clearly employment or labor outcomes but rather employment recovery rates. The study does not meet the inclusion criteria.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

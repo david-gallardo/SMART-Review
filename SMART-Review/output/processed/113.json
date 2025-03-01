@@ -1,0 +1,33 @@
+{
+    "ArticleID": 113,
+    "Authors": "Kerr, Mike; Linehan, Christine; Thompson, Rose; Mula, Marco; Gil-Nagal, Antonio; Zuberi, Sameer M.; Glynn, Mike",
+    "Article Title": "A White Paper on the medical and social needs of people with epilepsy and intellectual disability: The Task Force on Intellectual Disabilities and Epilepsy of the International League Against Epilepsy",
+    "Abstract": "This White Paper builds on the publication of the International League Against Epilepsy (ILAE) and International Bureau for Epilepsy (IBE) report Listening for a changemedical and social needs of people with intellectual disability who have epilepsy (Listening for a change the medical and social needs of people with epilepsy and intellectual disability, ILAE, 2013). The Paper presents an overview of the recommendations of the report, which aim to improve the health and social care of this important population of people with epilepsy worldwide. Actions in four domains are indicated: (1) the development of standards and initiatives that would enhance diagnosis, pathways to investigation, and treatment; (2) the development of guidelines for treatment, specifically best practice in the management of antiepileptic drugs including rescue medication; (3) the development of standards for primary care, multidisciplinary teamwork, and clinical consultations, with emphasis on the need to enhance communication and improve access to information; and (4) the enhancement of links among different stakeholders including medical services, educational establishments, employment services, organizations providing opportunities for social engagement, and family members. The breadth of needs of this population is a challenge to the epilepsy world, spanning all the professional groupings, care providers, and the research modalities in epilepsy.",
+    "DOI": "10.1111/epi.12848",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment and focuses on the medical and social needs of people with epilepsy and intellectual disability, which does not meet the inclusion criteria.",
+            "study_design": "White Paper",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a white paper which lacks rigorous evaluation and does not include a control group. The intervention focuses on medical and social needs rather than employment policies. The population discussed includes people with epilepsy and intellectual disability, but it does not specifically address mental health disorders.",
+            "study_design": "White Paper",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on people with intellectual disability and epilepsy, not specifically on people with mental health disorders. Additionally, the study design is not specified in the provided abstract, and there is no mention of employment interventions or outcomes.",
+            "study_design": "Not specified in the abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes specifically for people with mental health disorders.",
+            "study_design": "White Paper",
+            "logprobs": null
+        }
+    }
+}

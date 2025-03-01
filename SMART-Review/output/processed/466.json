@@ -1,0 +1,33 @@
+{
+    "ArticleID": 466,
+    "Authors": "Luciano, Alison; Metcalfe, Justin D.; Bond, Gary R.; Xie, Haiyi; Miller, Alexander L.; Riley, Jarnee; O'Malley, A. James; Drake, Robert E.",
+    "Article Title": "Hospitalization Risk Before and After Employment Among Adults With Schizophrenia, Bipolar Disorder, or Major Depression",
+    "Abstract": "Objective: The influence of employment on subsequent psychiatric hospitalization for people with serious mental illness is unclear. This study examined whether unemployed people with serious mental illness were more or less likely to experience psychiatric hospitalization after gaining employment.Methods: A secondary analysis was conducted of data from the Mental Health Treatment Study. Two years of prospective employment and psychiatric hospital outcomes were examined for 2,055 adults with schizophrenia, bipolar disorder, or major depression. The analyses examined associations between employment and psychiatric hospitalization via multilevel regression by using time-lagged modeling.Results: Employment was associated with a lower subsequent three-month risk of psychiatric hospitalization (odds ratio=.65, 95% confidence interval=.50-.84) after the analysis adjusted for baseline characteristics, including previous psychiatric hospitalizations and self-reported physical health.Conclusions: Unemployed outpatients with serious mental illness were less likely to experience psychiatric hospitalization after gaining employment.",
+    "DOI": "10.1176/appi.ps.201500343",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of data from the Mental Health Treatment Study, which is a controlled trial. The study examined associations between employment and psychiatric hospitalization via multilevel regression using time-lagged modeling.",
+            "study_design": "Secondary analysis of data from a controlled trial (Multilevel regression)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes. It focuses on the association between employment and subsequent hospitalization risk for people with serious mental illness.",
+            "study_design": "Secondary analysis of prospective data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychiatric hospitalization, not employment outcomes.",
+            "study_design": "Mental Health Treatment Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1450,
+    "Authors": "Emerson, Jillian A.; Caulfield, Laura E.; Kishimata, Espoir Musafiri; Nzanzu, Jean-Pierre; Doocy, Shannon",
+    "Article Title": "Mental health symptoms and their relations with dietary diversity and nutritional status among mothers of young children in eastern Democratic Republic of the Congo",
+    "Abstract": "Background In developing countries, maternal mental health problems have been linked to sub-optimal child feeding practices and child underweight and stunting, but little is known about how maternal mental health is associated with mothers' own diets and nutritional status. The objective of the study was to investigate the association between mental health symptoms and diet and nutritional status of mothers of young children in South Kivu, DR Congo. Methods Participants were 828 mothers of young children enrolled in a larger, quasi-experimental study evaluating a multi-year food security and nutrition project. The present analysis was conducted with cross-sectional data collected from 2015 to 2016. We assessed symptoms of anxiety and depression using the Hopkins Symptom Checklist-25 (HSCL-25) and post-traumatic stress disorder (PTSD) with the Harvard Trauma Questionnaire (HTQ), using a four-point Likert scale. Mean scale scores were calculated ranging from one to four. A variable was created for high distress (participants scoring in the upper quartile of both measures). Dietary diversity scores were calculated from the number of food groups (range zero to ten) consumed the previous day, identified from an open recall. Nutritional status was measured by body mass index (BMI) and underweight (BMI < 18.5 kg/m(2), or mid-upper arm circumference < 23 cm for pregnant women). Bivariate and multivariate (adjusting for parent study intervention group, education, age, health, parity, livelihoods zone, and territory of origin) regression analyses were conducted. Results Maternal mental health measures were positively and statistically significantly associated with higher dietary diversity scores in adjusted analyses (HSCL-25: ss= 0.18, p = 0.002, HTQ: ss= 0.12, p = 0.029, High Distress: ss= 0.47, p < 0.001). Mental health symptoms were not significantly associated with BMI (HSCL-25: ss = - 0.04, p = 0.824; HTQ: ss = 0.02, p = 0.913; High distress: ss= - 0.02, p = 0.938) or underweight (HSCL 25: OR = 0.91, p = 0.640; HTQ: OR = 1.03, p = 0.866; High distress: OR = 0.78, p = 0.489). Conclusions More severe maternal mental health symptoms were associated with higher dietary diversity but not nutritional status, and the reasons for these findings are not clear from available data. More research is needed to identify underlying factors that could influence mental health symptomatology and diet quality among food insecure and extremely resource-limited populations.",
+    "DOI": "10.1186/s12889-019-8092-3",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the association between maternal mental health symptoms and dietary diversity and nutritional status.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the association between maternal mental health symptoms and dietary diversity and nutritional status in mothers of young children in eastern Democratic Republic of the Congo.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

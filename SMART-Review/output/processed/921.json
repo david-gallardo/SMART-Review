@@ -1,0 +1,33 @@
+{
+    "ArticleID": 921,
+    "Authors": "Gibb, Sheree; Brewer, Naomi; Bowden, Nicholas",
+    "Article Title": "Social impacts and costs of schizophrenia: a national cohort study using New Zealand linked administrative data",
+    "Abstract": "AIM: To identify a national population of individuals living with schizophrenia in New Zealand, and to examine health, social support, justice, economic outcomes and estimated government costs corn pared to a matched comparison group.METHODS: Data were sourced from the Integrated Data Infrastructure. Individuals with a schizophrenia diagnosis in public hospital discharge or specialist secondary mental health service data, aged 18 to 64 and living in New Zealand were included in the schizophrenia population. Propensity score matching was used to select a comparison group of individuals without schizophrenia from the New Zealand resident population and compare outcomes and costs.RESULTS: In 2015 there were 18,096 people living with schizophrenia in New Zealand, a prevalence of 6.7 per 1,000 people. Compared to the matched comparison population, individuals with schizophrenia had higher hospitalisation rates for mental (OR=52.80) and physical (OR=1.18) health conditions. They were more likely to receive social welfare benefits (OR=17.64), less likely to be employed (OR=0.11) and had lower income ($26,226 lower). Per-person government costs were higher for the schizophrenia group across all domains, particularly health ($14,847 higher) and social support ($11,823 higher).CONCLUSION: Schizophrenia is associated with a range of adverse health, social and economic outcomes and considerably higher government costs compared to the general population.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a national cohort study using linked administrative data, which does not meet the inclusion criteria of a systematic review, meta-analysis, or RCT.",
+            "study_design": "National cohort study using linked administrative data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (New Zealand is not in EU, Europe, US, Canada, or Australia). Additionally, the intervention and population do not align with those specified.",
+            "study_design": "Cohort study using propensity score matching",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsphrenia, which is not explicitly mentioned in the inclusion criteria as a population with mental health disorders. The inclusion criteria require the study to focus on people with mental disorders or documented mental health problems, and schizophrenia is a specific mental disorder.",
+            "study_design": "Cohort study using linked administrative data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (New Zealand).",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

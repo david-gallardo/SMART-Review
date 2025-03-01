@@ -1,0 +1,33 @@
+{
+    "ArticleID": 512,
+    "Authors": "Cuddeback, Gary S.; Grady, Melissa; Wilson, Amy Blank; Van Deinse, Tonya; Morrissey, Joseph P.",
+    "Article Title": "Persons With Severe Mental Illnesses and Sex Offenses: Recidivism After Prison Release",
+    "Abstract": "Individuals who have committed sex offenses (ISOs) with severe mental illnesses are a complex population to serve and more research is needed to guide practice and policy, especially around community supervision, enrollment in Medicaid, housing, employment, criminal justice contacts, and reincarceration after prison reentry. To further the literature in this area, we used logistic regression to model recidivism and admissions to violator or prison facilities among 127 ISOs with severe mental illnesses and 2,935 people with severe mental illnesses who were incarcerated in prison for other crimes. Compared to prison releasees with severe mental illnesses who committed crimes other than sex offenses, prison releasees with severe mental illnesses who committed sex offenses were admitted to violator facilities at higher rates, when controlling for substance use, Medicaid enrollment, homelessness, and unemployment. Implications for practice, policy and research are discussed.",
+    "DOI": "10.1177/0306624X19842994",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is logistic regression, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on recidivism after prison release for individuals with severe mental illnesses who have committed sex offenses.",
+            "study_design": "Logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on recidivism among individuals with severe mental illnesses who have committed sex offenses, which does not align with the specified inclusion criteria regarding interventions for employment or labor outcomes in people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

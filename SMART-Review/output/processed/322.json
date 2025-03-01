@@ -1,0 +1,33 @@
+{
+    "ArticleID": 322,
+    "Authors": "de Oliveira, Claire; Cho, Edward; Kavelaars, RuthAnne; Jamieson, Margaret; Bao, Buddy; Rehm, Juergen",
+    "Article Title": "Economic analyses of mental health and substance use interventions in the workplace: a systematic literature review and narrative synthesis",
+    "Abstract": "Mental illness and substance use disorders in the workplace have been increasingly recognised as a problem in most countries; however, evidence is scarce on which solutions provide the highest return on investment. We searched academic and grey literature databases and additional sources for studies that included a workplace intervention for mental health or substance abuse, or both, and that did an economic analysis. We analysed the papers we found to identify the highest yielding and most cost-effective interventions by disorder. On the basis of 56 studies, we found moderate strength of evidence that cognitive behavioural therapy is cost-saving (and in some cases cost-effective) to address depression. We observed strong evidence that regular and active involvement of occupational health professionals is cost-saving and cost-effective in reducing sick leave related to mental health and in encouraging return to work. We identified moderate evidence that coverage for pharmacotherapy and brief counselling for smoking cessation are both cost-saving and cost-effective. Addressing mental health and substance misuse in the workplace improves workers' wellbeing and productivity, and benefits employers' bottom line (ie, profit). Future economic analyses would benefit from the consideration of subgroup analyses, examination of longer follow-ups, inclusion of statistical and sensitivity analyses and discussion around uncertainty, and consideration of potential for bias.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic literature review and narrative synthesis, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic literature review and narrative synthesis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic literature review and narrative synthesis without controlled trials or RCTs. It does not meet the inclusion criteria for intervention studies (specifically job search services, adult training, wage subsidies, supported employment) nor does it focus on employment outcomes.",
+            "study_design": "Systematic literature review and narrative synthesis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on economic analyses of interventions for mental health and substance use in the workplace, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Systematic literature review and narrative synthesis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review and narrative synthesis",
+            "logprobs": null
+        }
+    }
+}

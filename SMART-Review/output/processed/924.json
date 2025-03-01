@@ -1,0 +1,33 @@
+{
+    "ArticleID": 924,
+    "Authors": "Tuzun, Hakan; Demirkose, Hacer; Ozkan, Secil; Ilhan, Mustafa Necmi",
+    "Article Title": "Socioeconomic Factors Related to Prevalence, Severity, and Contact Coverage of Depression in Primary Health Care",
+    "Abstract": "Background: We determine factors related to the prevalence, severity, and contact coverage of depression using the Patient Health Questionnaire-9.Methods: This cross-sectional study included 1059 individuals who applied to primary health care in Ankara before the onset of pandemic restrictions. Contact coverage was evaluated to include mental health care users.Results: The prevalence of depression was 22.9%. Individuals who were unemployed (OR: 3.832; 95% CI: 2.053-7.151), women (OR: 1.646; 95% CI: 1.158-2.340), those without social support (OR: 1.933; 95% CI: 1.219-3.065), those who did not receive formal education (OR: 2.631; 95 % CI: 1.312-5.275), lower-income group (OR: 1.528; 95% CI: 1.071-2.180), and unmarried or divorced (OR: 2.644; 95% CI: 1.324-5.281) were found to be at risk of developing depression. Based on the linear regression model including patients diagnosed with depression, individuals who were unemployed (standardized beta: 0.190), women (standardized beta: 0.075), those without social support (standardized beta: 0.096), and those who were unmarried or single (standardized beta: 0.147) had the highest scale scores. Contact coverage for depression was 31.0%. Contact coverage was more likely in the upper-income group (OR: 2.239, 95% CI: 1.173-4.273).Conclusion: Although depression is common among primary health care applicants, contact coverage is low. Developing screening programs for depression in primary health care may help improve community mental health. Socioeconomic factors that contribute to the emergence, severity, and contact coverage of depression indicate health inequalities. The development and severity of depression are mostly due to unemployment, which suggests the importance of employment-enhancing policies.",
+    "DOI": "10.5152/pcp.2021.21051",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to employment and does not include any of the specified employment-related interventions such as job search services, adult training, wage subsidies, or supported employment. The focus is on socioeconomic factors related to depression prevalence and contact coverage in primary health care.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

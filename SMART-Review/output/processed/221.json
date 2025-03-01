@@ -1,0 +1,33 @@
+{
+    "ArticleID": 221,
+    "Authors": "Davis, Lori L.; Blansett, Catherine M.; Mumba, Mercy N.; MacVicar, David; Toscano, Richard; Pilkinton, Patricia; Gay, Whitney; Bartolucci, Al",
+    "Article Title": "The methods and baseline characteristics of a VA randomized controlled study evaluating supported employment provided in primary care patient aligned care teams",
+    "Abstract": "Background This article describes the design and baseline sample of a single-site trial comparing Individual Placement and Support (IPS) supported employment delivered within a Veterans Health Administration (VHA) primary care Patient Aligned Care Team (PACT) to treatment-as-usual vocational rehabilitation (TAU-VR) that includes transitional work. Methods Unemployed U.S. military veterans receiving care in a VHA PACT who were seeking competitive work, otherwise eligible for vocational rehabilitation, and diagnosed with a mental health condition other than a psychotic or bipolar I disorder were prospectively randomized to receive either IPS or TAU-VR. Employment outcomes and measures of quality of life, self-esteem, and community reintegration are being collected for 12 months. Results The participant sample (n = 119) is comprised of 17.6% female, 73.1% African-Americans, and 1.7% Hispanic. Average age is 38.2 (SD +/- 8.41) years; 80.7% served in the military since 2001; 78% are receiving or applying for U.S. Department of Veterans Affairs (VA) service-connected disability; 26.9% have not held a competitive job in the past 3 years; and the average length of pre-randomization unemployment is 1.4 (SD +/- 2.3) years. Conclusions Unique design features include evaluating the efficacy of evidenced-based IPS within the primary care setting, having broad diagnostic eligibility, and defining the primary outcome criterion as steady employment, i.e. holding a competitive job for >= 26 weeks of the 12-month follow-up period. The findings illustrate the characteristics of a primary care veteran sample in need of employment services.",
+    "DOI": "10.1186/s12874-020-0919-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the US, within the timeframe of 2005-2025, and focuses on people with mental health disorders, specifically unemployed U.S. military veterans. The intervention is supported employment provided in primary care patient aligned care teams, and the outcomes include employment rates and job duration.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment), population (people with mental health conditions), and outcomes (employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it is not a controlled trial with a control group, which is required by the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating supported employment for people with mental health disorders, conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

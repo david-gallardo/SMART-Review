@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1449,
+    "Authors": "Park, Jiyoon; Bouck, Emily",
+    "Article Title": "In-school service predictors of employment for individuals with intellectual disability",
+    "Abstract": "Backgrounds/aims/methods: Although there are many secondary data analyses of the National Longitudinal Transition Study-2 (NLTS-2) to investigate post-school outcome for students with disabilities, there has been a lack of research with in-school service predictors and post-school outcome for students with specific disability categories.Methods/procedures: This study was a secondary data analysis of NLTS-2 to investigate the relationship between current employment status and in-school services for individuals with intellectual disability. Statistical methods such as descriptive statistics and logistic regression were used to analyze NLTS-2 data set.Results: The main findings included that in-school services were correlated with current employment status, and that primary disability (i.e., mild intellectual disability and moderate/severe intellectual disability) was associated with current employment status.Conclusion/implications: In-school services are critical in predicting current employment for individuals with intellectual disability. Also, data suggest additional research is needed to investigate various in-school services and variables that could predict employment differences between individuals with mild and moderate/severe intellectual disability.",
+    "DOI": "10.1016/j.ridd.2018.03.014",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders. The article focuses on individuals with intellectual disabilities.",
+            "study_design": "Secondary data analysis of NLTS-2",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with intellectual disability, which does not align with the specified population of people with mental health disorders.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but rather individuals with intellectual disabilities.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        }
+    }
+}

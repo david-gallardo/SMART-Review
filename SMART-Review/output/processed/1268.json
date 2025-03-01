@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1268,
+    "Authors": "Lambert, Martin; Karow, Anne; Gallinat, Juergen",
+    "Article Title": "Healthcare research in the living environment",
+    "Abstract": "Background. Healthcare research in the living environment is focused on the scientific investigation of care, which is delivered in the personal environment of those affected by diseases. Objective. Presentation of the healthcare policy starting position, content and evidence of forms of care by which treatment focuses on the living environment of affected persons. Presentation of the RECOVER model, by which these forms of care are integrated and coordinated in a care model. Material and methods. Literature search on care or treatment models and psychiatric disease over the last 10 years. Results. Many experts are calling for the introduction of integrated and coordinated care as well as the digitalization of the healthcare system as essential future solutions. Evidence-based forms of care, which have a main focus on the living environment of those concerned, play an important role here. These include, for example early diagnosis and treatment of psychoses (early psychosis services, EPS), crisis resolution team (CRT), assertive community treatment (ACT), supported employment (SE) and e-mental health. With the exception of CRT, which can be financed as a hospital ward equivalent treatment according to 39 and 115d (German Social Code V, SGB V), many of these treatment models are not yet part of standard care in Germany. In an integrated and coordinated care system these components work together in a meaningful and coordinated manner in defined care processes. This approach is currently being tested using the so-called RECOVER model, a severity level, evidence-based and cross-sectoral coordinated care model, where implementation, testing and transfer from 2017-2020 will be promoted by the Innovation Fund of the Joint Federal Committee (G-BA).",
+    "DOI": "10.1007/s00115-019-00793-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study discusses healthcare research in the living environment and presents the RECOVER model, which is not directly related to employment.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design and control group. It also focuses on healthcare policy starting positions and care models rather than employment outcomes.",
+            "study_design": "Literature search without rigorous evaluation or control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on healthcare research in the living environment and presents a healthcare policy starting position, which does not meet the specified inclusion criteria for active employment policies for people with mental health disorders. The study design, population, and interventions described in the article are not relevant to the specified inclusion criteria.",
+            "study_design": "Literature search on care or treatment models and psychiatric disease",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes and does not have a control group.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

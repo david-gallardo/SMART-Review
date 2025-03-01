@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1280,
+    "Authors": "Ueno, Koji; Vaghela, Preeti; Nix, Amanda N.",
+    "Article Title": "Gender composition of the occupation, sexual orientation, and mental health in young adulthood",
+    "Abstract": "The gender composition of the occupation has important implications for work conditions, rewards, and experiences, but little is known about whether it impacts workers' mental health. The present study seeks to answer this question by focusing on depressive symptoms and drug dependence symptoms as mental health outcomes and young adulthood as the life course context. The study further examines whether the association varies by sexual orientation, considering that occupational gender composition affects levels of stress exposure and social support availability in different ways for heterosexuals and sexual minorities. The analysis of the U.S. data, the National Longitudinal Study of Adolescent to Adult Health (Add Health), shows that among heterosexuals, working in a more female-typical occupation is associated with lower levels of drug dependence symptoms for women and higher levels of depressive symptoms for men. Sexual minorities show a diverging patternworking in a more female-typical occupation is associated with worse mental health for sexual minority women and better mental health for sexual minority men.",
+    "DOI": "10.1002/smi.2755",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on mental health outcomes such as depressive symptoms and drug dependence symptoms.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the relationship between occupational gender composition and mental health (depressive symptoms and drug dependence) among young adults in the U.S.",
+            "study_design": "Cross-sectional analysis using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are required for the review.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

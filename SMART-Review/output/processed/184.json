@@ -1,0 +1,33 @@
+{
+    "ArticleID": 184,
+    "Authors": "Luo, Ye; Zhang, Lingling; Pan, Xi",
+    "Article Title": "Neighborhood Environments and Cognitive Decline Among Middle-Aged and Older People in China",
+    "Abstract": "Objectives: Despite the growing interest in the effects of neighborhood environments on cognitive function, most studies on older people are based on cross-sectional survey data from developed countries. This study examines the relationship between neighborhood environments and decline in cognitive function over time among middle-aged and older people in China and whether this relationship varies between rural and urban residents.Methods: The three waves of China Health and Retirement Longitudinal Study (CHARLS 2011-2015) were used. The sample included 12,131 respondents living in 298 rural villages and 4,059 respondents living in 150 urban communities. Three-level linear growth curve models were estimated to track trajectories of cognitive change over a 4-year period.Results: Chinese older people who lived in neighborhoods with more handicap access, more bus lines, employment service, and higher socioeconomic status (SES) had slower cognitive decline. Neighborhood basic infrastructures, number of days that roads were unpassable, outdoor exercise facilities, and average social activity participation were associated with baseline cognitive function in both rural and urban areas, but neighborhood environments had more impact on cognitive decline among rural older adults than urban older adults.Discussions: Findings from this study call for increased infrastructure development and community building programs in rural China.",
+    "DOI": "10.1093/geronb/gbz016",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes, and it does not address people with mental health disorders.",
+            "study_design": "Three-level linear growth curve models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address interventions related to employment services, training, wage subsidies, or supported employment. It focuses on the relationship between neighborhood environments and cognitive decline among middle-aged and older people in China.",
+            "study_design": "Cross-sectional survey using longitudinal data (CHARLS 2011-2015)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive decline in relation to neighborhood environments in China, which does not meet the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The geographic scope is outside the specified regions (China), the population does not reference mental health disorders, and the outcomes do not include employment or labor results.",
+            "study_design": "Longitudinal study with growth curve models",
+            "logprobs": null
+        }
+    }
+}

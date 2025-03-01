@@ -1,0 +1,33 @@
+{
+    "ArticleID": 571,
+    "Authors": "Harrison, Jennifer; Krieger, Matthew J.; Johnson, Hillary A.",
+    "Article Title": "Review of Individual Placement and Support Employment Intervention for Persons with Substance Use Disorder",
+    "Abstract": "Objectives: Work is a critical part of recovery for many people with chronic health conditions, including Substance Use Disorders (SUD). Individual Placement and Support (IPS) is an evidence-based practice designed initially for adults with mental illness. Although the evidence for using IPS with individuals with severe mental illness is well documented, less is known about the efficacy of using IPS with consumers with substance use disorders, and the results have yet to be systematically evaluated and organized. Key components of zero exclusion, rapid competitive job search, and incorporation with treatment services as well as benefits are components that make IPS a strong practice to incorporate into substance abuse treatment. This study aims to evaluate and organize the evidence base of using IPS with adults with substance use disorders. Results: A systematic review was conducted of meta-analyses, reviews, and individual studies from 2000 through 2019, measuring the efficacy of IPS with individuals with SUD or comorbid SUD. Databases searched were Scopus, PubMed, and PsychInfo. Experimental and quasi-experimental studies are reviewed and critiqued for their application to a SUD population. Then, barriers and facilitators of IPS implementation with this population are discussed. Conclusions/Importance: There is a high evidence to support to application of IPS for persons with SUD, both singly and when combined with a mental health disorder. Barriers to IPS implementation including episodic treatment, risk of relapse, and housing or criminal justice instability make the IPS program a useful best practice to consider for this population.",
+    "DOI": "10.1080/10826084.2019.1692035",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on adults with substance use disorders, which falls within the population criteria. The study also evaluates the efficacy of IPS with individuals with SUD or comorbid SUD, which meets the outcome criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with Substance Use Disorders (SUD) rather than mental disorders. It does not meet the inclusion criteria for population.",
+            "study_design": "Systematic review of meta-analyses, reviews, and individual studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Substance Use Disorder (SUD) rather than mental health disorders, which is outside the specified inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Timeframe is outside of the specified range (2005-2025). The article includes studies from 2000.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

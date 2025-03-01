@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1028,
+    "Authors": "Thomas, Kathleen C.; Shartzer, Adele; Kurth, Noelle K.; Hall, Jean P.",
+    "Article Title": "Impact of ACA Health Reforms for People With Mental Health Conditions",
+    "Abstract": "Objective: This brief report explores the impact of health reform for people with mental illness.Methods: The Health Reform Monitoring Survey was used to examine health insurance, access to care, and employment for 1,550 people with mental health conditions pre- and post-implementation of the Affordable Care Act (ACA) and by state Medicaid expansion status. Multivariate logistic regressions with predictive margins were used.Results: Post-ACA reforms, people with mental health conditions were less likely to be uninsured (5% versus 13%; t= -6.89, df=50, p<.001) and to report unmet need due to cost of mental health care (17% versus 21%; t=-3.16, df=50, p=.002) and any health services (46% versus 51%; t= - 3.71, df=50, p<.001), and they were more likely to report a usual source of care (82% versus 76%; t=3.11, df=50, p=.002). These effects were experienced in both Medicaid expansion and nonexpansion states.Conclusions: Findings underscore the importance of ACA improvements in the quality of health insurance coverage.",
+    "DOI": "10.1176/appi.ps.201700044",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study used multivariate logistic regressions with predictive margins, but it does not mention the use of a control group.",
+            "study_design": "Multivariate logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on health insurance, access to care, and unmet needs rather than labor market outcomes.",
+            "study_design": "Cross-sectional survey with pre- and post-implementation analysis using multivariate logistic regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of health reform on people with mental health conditions, not specifically on employment outcomes.",
+            "study_design": "Health Reform Monitoring Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on health insurance and access to care rather than active employment policies.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

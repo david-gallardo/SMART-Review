@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1479,
+    "Authors": "Pineros-Leano, Maria; Saran, Indrani; Parchment, Tyrone M.; Grafft, Natalie",
+    "Article Title": "Prevalence and predictors of parental depressive episodes: Results from a 15-year longitudinal study",
+    "Abstract": "Background: Depression affects approximately 7.5 million parents in the United States each year. Parental depression has detrimental consequences for both the parent and the parent-child relationship. The purpose of this study was to: (1) understand the prevalence of parental depressive episodes longitudinally, (2) identify the risk and protective factors for parental depressive episodes, and (3) compare the risk and protective factors for depressive episodes among mothers and fathers.Methods: We used six waves of the Fragile Families and Child Wellbeing Study to descriptively examine parental depression over a period of 15 years. We used logistic and fixed effects regressions to assess the association between a number of demographic, health and parenting variables and maternal and paternal depression.Results: Our sample was primarily Black (48%) and Hispanic/Latino (27%). Fathers had a slightly lower prevalence of depression compared to mothers at all waves (approximately 13% averaged across waves for fathers, compared to 18% for mothers). Factors negatively correlated with depression among mothers and fathers included: social support, employment, and better-perceived health. Factors positively associated with depression for mothers and fathers were substance misuse and having a parent with a history of depression, anxiety, or drug misuse.Limitations: Our study was unable to identify causal relationships and the directionality of the relationship between depression and other variables of interest.Conclusions: We found that parental depression is prevalent in a sample of predominantly racially minoritized parents. Addressing comorbidities and increasing social support access may help manage parental depression and ensure a healthy child development.",
+    "DOI": "10.1016/j.jad.2021.08.030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the prevalence and predictors of parental depressive episodes.",
+            "study_design": "Descriptive study with logistic and fixed effects regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the prevalence and predictors of parental depressive episodes.",
+            "study_design": "Longitudinal study using logistic and fixed effects regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the prevalence of parental depression.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

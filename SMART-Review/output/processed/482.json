@@ -1,0 +1,33 @@
+{
+    "ArticleID": 482,
+    "Authors": "Fimland, Marius S.; Vasseljen, Ottar; Gismervik, Sigmund; Rise, Marit By; Halsteinli, Vidar; Jacobsen, Henrik B.; Borchgrevink, Petter C.; Tenggren, Hanne; Johnsen, Roar",
+    "Article Title": "Occupational rehabilitation programs for musculoskeletal pain and common mental health disorders: study protocol of a randomized controlled trial",
+    "Abstract": "Background: Long-term sick leave has considerably negative impact on the individual and society. Hence, the need to identify effective occupational rehabilitation programs is pressing. In Norway, group based occupational rehabilitation programs merging patients with different diagnoses have existed for many years, but no rigorous evaluation has been performed. The described randomized controlled trial aims primarily to compare two structured multicomponent inpatient rehabilitation programs, differing in length and content, with a comparative cognitive intervention. Secondarily the two inpatient programs will be compared with each other, and with a usual care reference group.Methods/design: The study is designed as a randomized controlled trial with parallel groups. The Social Security Office performs monthly extractions of sick listed individuals aged 18-60 years, on sick leave 2-12 months, with sick leave status 50% - 100% due to musculoskeletal, mental or unspecific disorders. Sick-listed persons are randomized twice: 1) to receive one of two invitations to participate in the study or not receive an invitation, where the latter untouched control group will be monitored for future sick leave in the National Social Security Register, and 2) after inclusion, to a Long or Short inpatient multicomponent rehabilitation program (depending on which invitation was sent) or an outpatient cognitive behavioral therapy group comparative program. The Long program consists of 3 weeks with full rehabilitation days. The Short program consists of 4 + 4 full days, separated by two weeks, in which a workplace visit will be performed if desirable. Three areas of rehabilitation are targeted: mental training, physical training and work-related problem solving. The primary outcome is number of sick leave days. Secondary outcomes include time until full sustainable return to work, health related quality of life, health related behavior, functional status, somatic and mental health, and perceptions of work. In addition, health economic evaluation will be performed, and the implementation of the interventions, expectations and experiences of users and service providers will be investigated with different qualitative methods.",
+    "DOI": "10.1186/1471-2458-14-368",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial, but it lacks a control group for the intervention (Long or Short inpatient multicomponent rehabilitation program) and the usual care reference group.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on musculoskeletal pain and common mental health disorders but does not directly address employment outcomes. The primary outcome is the number of sick leave days, which does not meet the inclusion criteria for employment or labor outcomes.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is a randomized controlled trial but does not meet the specific inclusion criteria regarding intervents focused on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

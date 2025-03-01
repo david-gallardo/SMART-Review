@@ -1,0 +1,33 @@
+{
+    "ArticleID": 555,
+    "Authors": "Adu, Joseph; Oudshoorn, Abe; Anderson, Kelly; Marshall, Carrie Anne; Stuart, Heather",
+    "Article Title": "Social Contact: Next Steps in an Effective Strategy to Mitigate the Stigma of Mental Illness",
+    "Abstract": "People living with mental illnesses and their families may conceal their conditions to avoid prejudice and discrimination. Stigma often prevents people from receiving adequate health care and other social support services which could exacerbate social and health consequences such as unemployment, homelessness, substance use, and compulsory hospitalization. In this paper, we discuss social contact as a promising anti-stigma strategy for enhancing social interactions among people with mental illnesses, their families, and those without mental illnesses. In particularly, we consider next steps for an approach that works to reduce the stigma-related burden of mental illness. For social contact to be effective in reducing mental illness stigma, it requires broad social buy-in as well as implementation within care systems. Engagement with this approach can be driven through diverse contact-based education using collaborative efforts of society, academic institutions, policy-makers, health professionals, media, and governments. Ultimately, this work aims to consider the next steps in enacting social contact as an anti-stigma strategy through direct interventions and contact-based education. The success of this approach requires pragmatic public policies to support its implementation.",
+    "DOI": "10.1080/01612840.2021.1986757",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: does not directly address employment, and the study focuses on reducing stigma and promoting social contact as an anti-stigma strategy.",
+            "study_design": "Other",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The intervention focuses on reducing stigma through social contact rather than directly addressing employment outcomes for people with mental health disorders.",
+            "study_design": "Review/Opinion",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stigma reduction strategies and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Discussion paper",
+            "logprobs": null
+        }
+    }
+}

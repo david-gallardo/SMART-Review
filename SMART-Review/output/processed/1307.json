@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1307,
+    "Authors": "Gangan, Nilesh; Yang, Yi",
+    "Article Title": "The Impact of Work Absences on Health Services Utilization and Costs Among Employed Individuals With Depression",
+    "Abstract": "Objective: The aim of this study was to evaluate whether work absences are associated with increased health services utilization, total health care costs, and depression-related costs among employed individuals, aged 18 to 64 years with depression. Methods: This was a retrospective observational study using pooled data from the 2011 to 2014 Medical Expenditure Panel Survey (MEPS). Employed individuals with depression were identified using ICD-9 codes and Clinical Classification code. Logistic regression, Poisson regression, and generalized linear models were used for analysis. Results: Individuals with depression who reported work absences had greater odds of having a hospitalization event [odds ratio (OR): 7.111; 95% confidence interval (95% CI): 3.121 to 16.203], higher number of other health care visits (beta = 0.188, P = 0.041), and had higher total health care costs (beta = 0.550, P <= 0.001) than individuals with no work absences. Conclusion: Among employed individuals with depression, self-reported work absence is associated with significantly higher health care utilization and total health care costs.",
+    "DOI": "10.1097/JOM.0000000000001259",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective observational study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "retrospective observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group as it is an observational retrospective study. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (focuses on health services utilization and costs rather than employment or labor outcomes).",
+            "study_design": "Retrospective observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on employed individuals with depression and does not specifically address employment interventions or outcomes for people with mental health disorders in the context of active employment policies.",
+            "study_design": "retrospective observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Retrospective observational study",
+            "logprobs": null
+        }
+    }
+}

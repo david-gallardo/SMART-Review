@@ -1,0 +1,33 @@
+{
+    "ArticleID": 142,
+    "Authors": "Llerena, Katiah; Reddy, L. Felice; Kern, Robert S.",
+    "Article Title": "The role of experiential and expressive negative symptoms on job obtainment and work outcome in individuals with schizophrenia",
+    "Abstract": "Unemployment rates for schizophrenia are high across all age groups compared to the general population. Past studies have focused on neurocognition as a key determinant of unemployment and poor work outcome in schizophrenia. However, several recent studies suggest that clinical symptoms may be equally or more important than cognitive dysfunction for understanding employment difficulties. An enhanced understanding of the domains of negative symptoms that hinder job obtainment and work outcomes in people with schizophrenia is vital for developing treatments that translate into better employment outcomes. The purpose of this study was to determine whether 112 participants with schizophrenia or schizoaffective disorder receiving supported employment services differed on experiential and expressive negative symptoms based on whether they obtained a job or remained unemployed. Further, in a subset of workers, this study examined the relationship of experiential motivational negative symptoms with work outcomes (weeks worked, hours worked, wages earned). Neurocognition was assessed using the MATRICS Consensus Cognitive Battery and clinical symptoms were assessed using the Scale for the Assessment of Negative Symptoms and the Brief Psychiatric Rating Scale. Experiential, but not expressive, negative symptoms were related to job obtainment, hours worked, and wages earned. However, these findings were attenuated and non-significant after controlling for age. These results suggest that experiential negative symptoms are potentially key to better understanding employment outcomes of individuals with schizophrenia receiving supported employment services, but further work is needed to untangle its significance vis-a-vis other individual, environmental, and program factors. Published by Elsevier B.V.",
+    "DOI": "10.1016/j.schres.2017.06.001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is an observational study examining the relationship between negative symptoms and employment outcomes in individuals with schizophrenia.",
+            "study_design": "Observational",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia, which is not explicitly mentioned in the inclusion criteria as a population with mental health disorders. The inclusion criteria specify 'people with mental disorders or documented mental health problems,' and schizophrenia is a specific mental disorder, not a general category of mental health problems.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment services for people with schizophrenia, and includes employment outcomes such as job obtainment, hours worked, and wages earned.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

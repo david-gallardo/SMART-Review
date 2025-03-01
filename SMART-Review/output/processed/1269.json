@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1269,
+    "Authors": "Solomon, Calvin",
+    "Article Title": "Autism and Employment: Implications for Employers and Adults with ASD",
+    "Abstract": "A small but growing body of research has been conducted on vocational outcomes for adults with Autism Spectrum Disorder (ASD); however, limited resources have been directed towards understanding outcomes for competitive employers. While ASD does present with a range of social communication and adaptive behavior deficits, adults on the spectrum may be extremely efficient, trustworthy, reliable, and cost-effective employees. Nevertheless, fewer than half of young adults with ASD maintain a job. Many businesses are unwilling to hire these capable candidates, concerned among other things about an increase in supervision costs and a decrease in productivity. This is a bias based on misperceptions; the financial and social benefits of hiring adults with ASD, for businesses and the individual, often outweigh the costs.",
+    "DOI": "10.1007/s10803-020-04537-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Autism Spectrum Disorder (ASD) and does not specifically address employment policies for people with mental health disorders. It also lacks a rigorous evaluation or control group, and its geographic scope is not specified within the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify a study design that meets the inclusion criteria (e.g., meta-analyses, systematic reviews of controlled trials, RCTs, quasi-experimental studies) and does not present measures of employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

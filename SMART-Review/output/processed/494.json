@@ -1,0 +1,33 @@
+{
+    "ArticleID": 494,
+    "Authors": "Henwood, Benjamin F.; Matejkowski, Jason; Stefancic, Ana; Lukens, Jonathan M.",
+    "Article Title": "Quality of life after housing first for adults with serious mental illness who have experienced chronic homelessness",
+    "Abstract": "This 1-year longitudinal study of adults who have recently transitioned from homelessness to Permanent Supportive Housing (PSH) focuses on quality of life as a primary outcome of interest. Eighty of 103 new tenants participated in structured interviews at the time of entry into their new home and at 12-months post-housing. t-tests assessed differences in community participation and quality of life measures at the 2 time points. Mixed effects models examined the impact of community participation on quality of life. Results show that time in independent housing was significantly associated with several domains of quality of life. Symptom severity was also significantly and negatively related to quality of life domains. Community participation was significantly related to frequency of social contacts only. These findings suggest that community participation is not critical to improving quality of life, and that despite concerns that individuals may feel isolated and lonely when living independently, satisfaction with one's living situation and family relationships nevertheless improves with housing tenure. (c) 2014 Elsevier Ireland Ltd. All rights reserved.",
+    "DOI": "10.1016/j.psychres.2014.07.072",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a longitudinal study without a comparison group.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention (Permanent Supportive Housing) is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Longitudinal study with t-tests and mixed effects models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with serious mental illness who have experienced chronic homelessness and the intervention is Permanent Supportive Housing (PSH), not directly addressing employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 332,
+    "Authors": "Vahratian, Anjel; Blumberg, Stephen J.; Terlizzi, Emily P.; Schiller, Jeannine S.",
+    "Article Title": "Symptoms of Anxiety or Depressive Disorder and Use of Mental Health Care Among Adults During the COVID-19 Pandemic - United States, August 2020-February 2021",
+    "Abstract": NaN,
+    "DOI": "10.15585/mmwr.mm7013e2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational and lacks a control group.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes that measure employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

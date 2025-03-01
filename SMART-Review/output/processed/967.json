@@ -1,0 +1,33 @@
+{
+    "ArticleID": 967,
+    "Authors": "Mattei, G.; Venturi, G.; Alfieri, S.; Colombini, N.; Ferrari, S.; Rigatelli, M.; Starace, F.; Galeazzi, G. M.",
+    "Article Title": "Clinical and Socio-demographic Variables Associated with the Outcome of Vocational Rehabilitation Programs: A Community-Based Italian Study",
+    "Abstract": "This study aims to identify clinical and socio-demographic variables associated with the outcome of vocational rehabilitation programs (VRPs). All users of an Italian Community Mental Health Centre (CMHC) included in VRPs delivered according to the model of Supported Employment in years 2011-2016 were retrospectively enrolled. Fifty users who ended the program with employment were compared with fifty users who dropped out, with respect to clinical and socio-demographic variables. VRPs lasting less than 6 months and oriented toward the competitive labor market had a higher probability of employment. Among users who successfully ended the VRP, the median of health interventions significantly decreased after employment. In the same group of users, less non-health interventions strictly linked to the VRP were required, when compared with users who dropped out. We conclude that employment is associated with improvement of users' clinical conditions and reduced workload for the CMHC.",
+    "DOI": "10.1007/s10597-020-00577-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes as per the inclusion criteria. It focuses on identifying clinical and socio-demographic variables associated with the outcome of vocational rehabilitation programs rather than evaluating what works in active employment policies for people with mental health disorders.",
+            "study_design": "Retrospective comparison of users who ended VRP successfully vs those who did not",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational rehabilitation programs, which are not explicitly mentioned as job search services, adult training, wage subsidies, or supported employment interventions. Additionally, the study's geographic scope and population do not align with the specified inclusion criteria.",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment in Italy (EU country), was conducted within the specified timeframe (2011-2016), and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

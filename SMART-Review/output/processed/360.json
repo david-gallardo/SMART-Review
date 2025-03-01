@@ -1,0 +1,33 @@
+{
+    "ArticleID": 360,
+    "Authors": "Hinz, Andreas; Klein, Annette M.; Braehler, Elmar; Glaesmer, Heide; Luck, Tobias; Riedel-Heller, Steffi G.; Wirkner, Kerstin; Hilbert, Anja",
+    "Article Title": "Psychometric evaluation of the Generalized Anxiety Disorder Screener GAD-7, based on a large German general population sample",
+    "Abstract": "Background: The Generalized Anxiety Disorder Scales GAD-7 and GAD-2 are instruments for the assessment of anxiety. The aims of this study are to test psychometric properties of these questionnaires, to provide normative values, and to investigate associations with sociodemographic factors, quality of life, psychological variables, and behavioral factors.Methods: A German community sample (n=9721) with an age range of 18-80 years was surveyed using the GAD-7 and several other questionnaires.Results: Confirmatory factor analyses confirmed the unidimensionality and measurement invariance of the GAD-7 across age and gender. Females were more anxious than males (mean scores: M=4.07 vs. M=3.01; effect size: d=0.33). There was no linear age trend. A total of 5.9% fulfilled the cut-off criterion of 10 and above. Anxiety was correlated with low quality of life, fatigue, low habitual optimism, physical complaints, sleep problems, low life satisfaction, low social support, low education, unemployment, and low income. Cigarette smoking and alcohol consumption were also associated with heightened anxiety, especially in women. When comparing the GAD-7 (7 items) with the ultra-short GAD-2 (2 items), the GAD-7 instrument was superior to the GAD-2 regarding several psychometric criteria.Limitations: The response rate (33%) was low. Because of the cross-sectional character of the study, causal conclusions cannot be drawn. A further limitation is the lack of a gold standard for diagnosing anxiety.Conclusions: The GAD-7 can be recommended for use in clinical research and routine.",
+    "DOI": "10.1016/j.jad.2016.12.012",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and it focuses on assessing anxiety levels in a general population sample.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

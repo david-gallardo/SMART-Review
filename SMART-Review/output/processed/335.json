@@ -1,0 +1,37 @@
+{
+    "ArticleID": 335,
+    "Authors": "Andersen, Ingelise; Bronnum-Hansen, Henrik; Kriegbaum, Margit; Hougaard, Charlotte Orsted; Hansen, Finn Kenneth; Diderichsen, Finn",
+    "Article Title": "Increasing illness among people out of labor market - A Danish register-based study",
+    "Abstract": "In spite of decades of very active labor market policies, 25% of Denmark's population in the working ages are still out-of-work. The aim of this study was to investigate whether that is due to consistent or even increasing prevalence of ill health. For the period of 2002-2011, we investigated if i) the prevalence of four chronic diseases (cardiovascular disease, diabetes, cancer and mental disorders) among those out of-work had changed, ii) the occurrence of new cases of those diseases were higher among those who were already out-of-work, or iii) if non-health-related benefits were disproportionately given to individuals recently diagnosed with a disease compared to those without disease. The study was register based and comprised all Danish residents aged 20-60. During the study period, the prevalence of cardiovascular diseases and mental disorders increased among both employed and non-employed people. The increased prevalence for mental disorder was particularly high among people receiving means tested benefits. Disease incidence was higher among people outside rather than inside the labor market, especially for mental disorders. Employed people with incident diseases had an unsurprisingly increased risk of leaving the labor market. However, a high proportion of people with incident mental disorders received low level means-tested benefits in the three years following this diagnosis, which is concerning. Men treated for mental disorders in 2006 had high excess probability of receiving a cash benefit, OR = 4.83 (4.53-5.14) for the period 2007-2010. The estimates were similar for women. (C) 2016 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.socscimed.2016.03.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, violating the inclusion criteria.",
+            "study_design": "register-based study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is register-based and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically job search services, adult training, wage subsidies, supported employment) or outcomes related to employment.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "confounder_type": "Self-selection or Attrition",
+            "description": "Detailed explanation of how the bias could have influenced the study's results.",
+            "impact_on_study": "Potential effects on the study's findings.",
+            "suggested_mitigation_strategies": "Methods to address the identified biases in future research.",
+            "inclusion_decision": "Unclear",
+            "reason": "No reason provided",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        }
+    }
+}

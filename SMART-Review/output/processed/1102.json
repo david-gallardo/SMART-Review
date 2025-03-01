@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1102,
+    "Authors": "Hutchinson, Jan; Gilbert, David; Papworth, Rachel; Boardman, Jed",
+    "Article Title": "Implementing Supported Employment. Lessons from the Making IPS Work Project",
+    "Abstract": "Individual Placement and Support (IPS) is an internationally accepted and effective form of supported employment for people with severe mental health conditions. Despite its strong evidence base, the implementation of IPS has been slow and inconsistent. In England, a demonstration project, Making IPS Work, was developed to offer support for the implementation of IPS in six local sites National Health Service Mental Health trusts. The project aimed to: Establish Individual Placement and Support services within clinical teams; develop high fidelity practice and leave a sustainable IPS service beyond the project. The number of people gaining open employment in each site was monitored. Fidelity checks were carried out at three sites by independent assessors. Stakeholders were interviewed over the 18-month lifetime of the implementation period to examine the experience of developing the services in the six sites. A total of 421 jobs were found for people with mental health conditions over 18 months with a large variation between the highest and lowest performing sites. The sites assessed for fidelity all attained the threshold for a 'Good Fidelity' service. The new services were readily accepted by mental health service users, clinical staff and managers across the trust sites. Maintaining the funding for the Individual Placement and Support services beyond the project period proved to be problematic for many sites. Placing the services within a broader strategy of improving psychosocial services and bringing together decision making at the corporate, commissioning and clinical management level were helpful in achieving success. The growth and maintenance of these services is difficult to achieve whilst the current cost pressures on the NHS continue.",
+    "DOI": "10.3390/ijerph15071545",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a demonstration project with a control group, the intervention is supported employment, the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Demonstration project with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The study uses a quasi-experimental design with fidelity checks and interviews as part of its evaluation. It focuses on supported employment (IPS) for people with severe mental health conditions within the UK, which falls under the EU's geographic scope. The timeframe is relevant to the current period (2005-2025).",
+            "study_design": "Quasi-experimental study with fidelity checks and interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not include a control group.",
+            "study_design": "case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental implementation project with a control group, focuses on supported employment for people with mental health conditions, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

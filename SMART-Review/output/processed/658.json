@@ -1,0 +1,33 @@
+{
+    "ArticleID": 658,
+    "Authors": "Smith, Pierre; Nicaise, Pablo; Lorant, Vincent",
+    "Article Title": "Social integration of people with non-psychotic mental illness over the last 2 decades: the widening gap in the adult population in Belgium",
+    "Abstract": "Purpose Social integration is poor among people with mental illness (MI). In recent decades, many countries have developed policies to address this issue. It remains unclear, however, whether their social integration has improved over time. This study aimed to assess the evolution of the social integration of adults with moderate and severe non-psychotic MI compared to the general population without MI between 1997 and 2018 in Belgium. Methods Data on the general adult population were retrieved from the Belgian Health Interview Survey in six cross-sectional waves from 1997 to 2018. Three degrees of non-psychotic MI severity were compared using the 12-items General Health Questionnaire: no MI, moderate MI, and severe MI (score < 4, 4-7, and > 7). Social integration was measured using indicators relating to employment, income, social contacts, and partnership. Results Since 1997, the probability of being unemployed, having limited social contacts, and living on less than 60% of the median national income has been increasing among people with severe non-psychotic MI. Between 1997 and 2018, social integration increased among the general population without MI and among people with moderate non-psychotic MI, but decreased among people with severe non-psychotic MI. Conclusion The gap between the social integration of people with severe non-psychotic MI and people with moderate or no MI has widened over time, despite major reforms of mental health care and policies. Policymakers and clinical practitioners should pay more attention to supporting the social integration of people with more severe MI, particularly in relation to employability and social support.",
+    "DOI": "10.1007/s00127-022-02302-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacks a rigorous evaluation and no control group.",
+            "study_design": "cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group. It is a cross-sectional analysis comparing trends over time within one country (Belgium), which does not fit the required study designs.",
+            "study_design": "Cross-sectional trend analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

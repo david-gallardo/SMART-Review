@@ -1,0 +1,33 @@
+{
+    "ArticleID": 990,
+    "Authors": "Agyapong, Belinda; Shalaby, Reham; Hay, Katherine; Pattison, Rachal; Eboreime, Ejemai; Korthuis, Mark; Wei, Yifeng; Agyapong, Vincent Israel Opoku",
+    "Article Title": "Exploring Sociodemographic Characteristics, Adverse Childhood Experience, and Mental Health History as Predictors of Anxiety and Depression among Adolescents and Young Adults: Findings from the MoreGoodDays Support Program in Alberta, Canada",
+    "Abstract": "Background: The COVID-19 pandemic has increased psychological disorders among adolescents and young adults. Methods: This study used a cross-sectional design. An online survey questionnaire was used to collect sociodemographic and clinical information from subscribers of MoreGoodDays program, a daily supportive text message program co-designed with adolescents and young adults for their peers in Alberta. Validated instruments, the Generalized Anxiety Disorder GAD-7 scale and Patient Health Questionnaire-9 PHQ-9 were used to collect information on likely GAD and likely major depressive disorder (MDD). Data was analyzed with SPSS version 25 using chi-squared tests and binary logistic regression analysis. Results: 343 subscribers of MoreGoodDays participated in the survey. Overall, 117 (56.0%) respondents had a likely MDD and 97 (46.6%) had a likely GAD. Participants who would like to receive mental health counselling were 27 times more likely to experience GAD (OR = 27; 95% CI: 3.09-250.00) and 40 times more likely to experience MDD (OR = 40.03; 95% CI: 4.43-361.51) than those who did not. Respondents who had received mental health counselling in the past were 18.5 times more likely to experience MDD compared with those who had not (OR = 18.52; 95% CI: 1.55-200.00). Demographic variables, including age, education, employment, and relationship status, and clinical variables, such as history of anxiety, depression, obsessive-compulsive disorder, ADHD, and adverse childhood experience, did not independently the predict presence of likely GAD or MDD in subscribers of MoreGoodDays. Conclusion: The prevalence of anxiety and depression was relatively high among subscribers of MoreGoodDays, indicating the long-term effect of the COVID-19 pandemic. This finding has significant implications in the broader contextof mental health research and emphasizes the need for more research into innovative mental health support for this cohort. The desire to receive counselling was predictive of both anxiety and depression and is a positive sign of the openness of this cohort to receive psychological intervention. Since this group is mostly adapted to mobile text technology, government agencies and policymakers should prioritize and implement readily accessible interventions such as supportive text messages to support their psychological well-being.",
+    "DOI": "10.3390/bs13090749",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional design, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (focuses on anxiety and depression rather than employment or labor results).",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

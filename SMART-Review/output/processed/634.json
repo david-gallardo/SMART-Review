@@ -1,0 +1,33 @@
+{
+    "ArticleID": 634,
+    "Authors": "Shao, Yubo; Ying, Huang; Li, Xiaoming; Tong, Lian",
+    "Article Title": "Association between socioeconomic status and mental health among China's migrant workers: A moderated mediation model",
+    "Abstract": "Mental health problems are prevalent among China's internal migrant workers. However, research on the relationship between socioeconomic status (SES) and mental health is insufficient. Therefore, this study, utilizing the China's National Dynamic Monitoring Survey data from a sample of 15,997 migrant workers aged 15-59 years to explore differences in the relationship between migrants' objective and subjective SES and mental health status in 2015. Both the mediating effect of perceived interpersonal discrimination and the moderating effect of age were examined through structural equation modeling. The results indicated that subjective SES has a stronger direct relationship with mental health than objective SES. Perceived interpersonal discrimination mediated the association between subjective SES and mental health. Furthermore, a much stronger relationship was found between subjective SES and perceived interpersonal discrimination among migrants older than 24 years of age than younger migrant groups. The results showed that, compared with traditional objective SES indicators, subjective SES could be a more sensitive index for identifying those migrant workers with a high risk of mental health problems. In addition, reducing interpersonal discrimination toward migrants can alleviate their mental health problems. And we should pay more attention to older migrant workers since they are more likely to prone to interpersonal discrimination and mental health issues.",
+    "DOI": "10.1371/journal.pone.0274669",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the relationship between socioeconomic status and mental health among China's migrant workers.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between socioeconomic status and mental health among migrant workers in China, which does not directly address employment interventions or outcomes for people with mental health disorders. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "The study design is not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (China) and does not address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

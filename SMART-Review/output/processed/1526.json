@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1526,
+    "Authors": "Nicholas, Jennifer; Ardill-Young, Oliver; Levy, Philippa; Pearce, Katie; Chinnery, Gina; Sim, Esther; Scully, Alana; Ottavio, Antonia; Curtis, Jackie; Killackey, Eoin",
+    "Article Title": "A supported education programme implemented in youth mental health services: Outcomes and lessons from the first year of COVID-disrupted delivery",
+    "Abstract": "Aim: Educational attainment is consistently highly valued by young people with mental ill health, yet maintenance and completion of education is a challenge. This paper reports on the implementation of a supported education programme for youth mental health. Methods: Between 10 October 2019 and 10 October 2020, a supported education programme was delivered within primary and tertiary youth mental health services. A description of the programme, context, and adjustments required due to COVID-19 is presented, and the educational outcomes of young people referred to the programme were explored. Two case studies are also presented. Results: The programme received 71 referrals over this period, of which 70.4% had not yet completed secondary school and 68% were experiencing multiple mental health conditions. Overall outcomes were positive, with 47.5% of the 40 young people who chose to engage with the programme maintaining or re-engaging with education. However, the remainder of those who engaged withdrew from the programme, often reporting challenges due to COVID-19 such as social isolation or increased uncertainty. Additionally, a number of young people declined or disengaged from the programme to focus on employment. Conclusion: This report of the experience of integrating a supported employment programme in Australian youth mental health services reinforces the need for such support, and provides preliminary evidence for its successful implementation as part of routine care. The disengagement in response to COVID-19 highlights the real-world challenges of the pandemic, while young people's voicing of employment goals indicates the need for combined educational and vocational support-to assist transition and progression between these goals.",
+    "DOI": "10.1111/eip.13530",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within Australia, meeting the inclusion criteria for geographic scope. The timeframe is between 2019 and 2020, meeting the inclusion criteria for timeframe. The intervention is a supported education programme, meeting the inclusion criteria for intervention. The population is people with mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration and job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on educational attainment within youth mental health services.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on a supported education programme for youth with mental health issues, which does not directly address employment interventions for adults with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Case studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment; it focuses on education.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

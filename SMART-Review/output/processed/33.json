@@ -1,0 +1,33 @@
+{
+    "ArticleID": 33,
+    "Authors": "Miliutina, Kateryna; Chuiko, Olena; Legka, Viktoriya; Shkuro, Valentyna",
+    "Article Title": "Tolerance and social inclusion as a condition for successful rehabilitation of persons with disabilities",
+    "Abstract": "The academic paper is devoted to studying the features of the attitude of teachers, parents, employers towards people from different social groups in need of social inclusion and rehabilitation. A survey of 120 people (40 primary school teachers, 40 parents of healthy children, 40 employees of the State Employment Service of Ukraine) was conducted on their attitude to people in need of social-psychological and social-labour rehabilitation. The survey was conducted in 2 stages. At the first stage, it has been found out whom exactly the respondents consider to be those who require social and psychological assistance and rehabilitation. In the second stage, a modification of the method of E. S. Bogardus has been applied in order to determine social distance. Teachers and parents believe that children with disabilities need rehabilitation, involvement in an inclusive school community and increased attention. Regarding the categories with other health disorders (ADHD and dysgraphia), the viewpoint of teachers is quite unanimous - they know about these students and believe that they need above average teachers' attention. However, while parents are aware of the presence of children with ADHD, they are almost unfamiliar with children with reading and writing disorders. Children with mental disorders, autism and ADHD have the greatest problems with integration into inclusive communities. They are ready to be perceived at the maximum social distance - in a special school, in a boarding school, except sporadically on the playground. For employees of the employment service, the maximum social distance was for people with mental and psychological disorders. According to experts' viewpoints, employers do not want to hire people with these disorders.",
+    "DOI": "10.34069/AI/2022.53.05.20",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The survey was conducted with 120 people and does not mention a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks a rigorous evaluation or control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, nor does it directly address employment interventions for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is conducted in Ukraine and does not directly address employment interventions for mental health.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

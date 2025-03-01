@@ -1,0 +1,33 @@
+{
+    "ArticleID": 622,
+    "Authors": "Gray, Aaliyah; Liu, Tingting; Giorgi, Salvatore; Fisher, Celia B.; Curtis, Brenda",
+    "Article Title": "Differences in mental health and alcohol use across profiles of COVID-19 disruptions",
+    "Abstract": "This study aimed to examine differences in mental health and alcohol use outcomes across distinct patterns of work, home, and social life disruptions associated with the COVID-19 pandemic. Data from 2093 adult participants were collected from September 2020 to April 2021 as a part of a larger study examining the impacts of the COVID-19 pandemic on substance use. Participants provided data on COVID-19 pandemic experiences, mental health outcomes, media consumption, and alcohol use at baseline. Alcohol use difficulties, including problems related to the use, desire to use alcohol, failure to cut down on alcohol use, and family/friend concern with alcohol use, were measured at 60-day follow-up. Factor mixture modeling followed by group comparisons, multiple linear regressions, and multiple logistic regressions was conducted. A four-profile model was selected. Results indicated that profile membership predicted differences in mental health and alcohol use outcomes above and beyond demographics. Individuals experiencing the most disruption reported the strongest daily impact of COVID-19 and significantly high levels of depression, anxiety, loneliness, overwhelm, alcohol use at baseline, and alcohol use difficulties measured at 60-day follow-up. The findings highlight the need for integrated mental health and/or alcohol services and social services targeting work, home, and social life during public health emergencies in order to respond effectively and comprehensively to the needs of those requiring different types of support.Short Summary: Disruptive changes to employment, income, housing, social support, and media consumption are associated with varying COVID-19 pandemic experiences. Individuals who have experienced higher levels of disruptions reported more adverse outcomes in terms of negative mental health and alcohol use, in contrast to those who have experienced little to no disruption.",
+    "DOI": "10.1093/alcalc/agad028",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of COVID-19 disruptions on mental health and alcohol use.",
+            "study_design": "Quasi-experimental study with group comparisons and multiple linear regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies and interventions. It focuses on the impact of COVID-19 disruptions on mental health and alcohol use.",
+            "study_design": "Cross-sectional survey with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "Factor mixture modeling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

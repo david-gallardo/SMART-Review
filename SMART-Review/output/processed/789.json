@@ -1,0 +1,33 @@
+{
+    "ArticleID": 789,
+    "Authors": "Weber, Jeannette; Hasselhorn, Hans Martin; Borchart, Daniela; Angerer, Peter; Mueller, Andreas",
+    "Article Title": "The moderating role of psychosocial working conditions on the long-term relationship between depressive symptoms and work ability among employees from the Baby Boom generation",
+    "Abstract": "Objective Mental disorders have been identified as a leading cause for reduced work ability in industrialized countries. Identification of workplace factors that can increase the work ability of employees with depressive symptoms from the Baby Boom generation is, therefore, highly relevant. This study thus aims to investigate whether changes in psychosocial working conditions can moderate the negative association between depressive symptoms and work ability. Methods Two waves with a 3-year time lag of the German lidA cohort study with 3609 participants born in 1959 and 1965 (aged 46 and 52 years at first wave) were analyzed. Self-report data about depressive symptoms at baseline and changes of working conditions from baseline to follow-up were used to calculate main and interaction effects on perceived work ability at follow-up. These analyses were controlled for baseline work ability and working conditions. Results Depressive symptoms were predictive for an unfavorable course of work ability from baseline to follow-up (B = - 0.173, 95% CI = - 0.219 to - 0.128). However, no interaction effect between depressive symptoms and psychosocial working conditions was found. Instead, independent from the level of depressive symptoms, a decrease in quantitative demands (B = - 0.279, 95% CI = - 0.326 to - 0.232) and increases in leadership quality (B = 0.242, 95% CI = 0.192-0.292) and development opportunities (B = 0.177, 95% CI = 0.127-0.277) were related to a more favorable course of work ability. Only small effects were found for social support (B = 0.057, 95% CI = 0.008-0.106) and job control (B = 0.043, 95% CI = - 0.005-0.091). Conclusions The results indicate that the lagged and negative effect of depressive symptoms on work ability was not moderated by changes in psychosocial working conditions. However, the promotion of favorable working conditions may contribute to a positive development of work ability among employees from the Baby Boom generation independently from the level of depressive symptoms.",
+    "DOI": "10.1007/s00420-020-01570-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental analysis with a control group, the geographic scope is within the EU, and the timeframe is within the specified range. The intervention is job search services (implied by changes in psychosocial working conditions), and the population references mental health problems.",
+            "study_design": "Quasi-experimental analysis with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on psychosocial working conditions rather than specific employment policies. It also lacks an intervention component such as job search services, wage subsidies, etc.",
+            "study_design": "Observational with cohort analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

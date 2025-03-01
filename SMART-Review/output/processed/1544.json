@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1544,
+    "Authors": "Fond, Guillaume B.; Yon, Dong Keon; Tran, Bach; Mallet, Jasmina; Urbach, Mathieu; Leignier, Sylvain; Rey, Romain; Misdrahi, David; Llorca, Pierre-Michel; Schuerhoff, Franck; Berna, Fabrice; Boyer, Laurent",
+    "Article Title": "Poverty and inequality in real-world schizophrenia: a national study",
+    "Abstract": "BackgroundSchizophrenia has high socioeconomic impact among severe psychiatric disorders.AimsTo explore clinician-reported and patient-reported inequities between patients under the poverty threshold vs. the others.Method916 patients consecutively recruited in 10 national centers received a comprehensive standardized evaluation of illness severity, addictions and patient-reported outcomes.Results739 (80.7%) of the patients were classified in the poverty group. This group had poorer objective illness outcomes (lower positive, negative, cognitive, excitement/aggressive and self-neglect symptoms and lifetime history of planned suicide) in multivariate analyses. While they had similar access to treatments and psychotherapy, they had lower access to socially useful activities, couple's life, housing and parenthood. They had also more disturbed metabolic parameters. On the contrary, the poverty group reported better self-esteem. No significant difference for depression, risky health behavior including addictions and sedentary behavior was found.InterpretationThe equity in access to care is attributed to the French social system. However, mental and physical health remain poorer in these patients, and they still experience poor access to social roles independently of illness severity and despite healthcare interventions. These patients may have paradoxically better self-esteem due to decreased contact with society and therefore lower stigma exposure (especially at work). Schizophrenia presents itself as a distinct impoverished population concerning health-related outcomes and social integration, warranting focus in public health initiatives and improved treatment, including tailored interventions, collaborative care models, accessible mental health services, housing support, vocational training and employment support, community integration, education and awareness, research and data collection, culturally competent approaches, and long-term support.",
+    "DOI": "10.3389/fpubh.2023.1182441",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the socioeconomic impact of schizophrenia on patients.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks interventions related to job search services, adult training, wage subsidies, or supported employment. It focuses on socioeconomic impact and inequities in access to care for patients with schizophrenia.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizoppheria and poverty, which does not align with the specified inclusion criteria of active employment policies for people with mental health disorders. The study's population and outcomes are not directly related to the interventions of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "National study with standardized evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes specifically.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

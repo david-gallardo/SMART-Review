@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1573,
+    "Authors": "Au, Doreen W. H.; Tsang, Hector W. H.; So, Wendy W. Y.; Bell, Morris D.; Cheung, Vinci; Yiu, Michael G. C.; Tam, K. L.; Lee, Gary Tin-ho",
+    "Article Title": "Effects of integrated supported employment plus cognitive remediation training for people with schizophrenia and schizoaffective disorders",
+    "Abstract": "Objectives: The present study aims to investigate the synergistic effects of cognitive remediation training (CRT) on Integrated Supported Employment (ISE). ISE blends individual placement support service with work-related social skills training for Chinese people suffering from schizophrenia or schizoaffective disorder.Method: Ninety participants with schizophrenia or schizoaffective disorders were recruited from two psychiatric outpatient services in Hong Kong. They were randomly assigned into the ISE + CRT (n = 45) and ISE (n = 45) conditions. Blinded assessments on vocational, clinical, psychological, and neurocognitive outcomes were conducted by independent assessors. The two groups were followed up at 7 and 11 months.Results: Both groups yielded similar improvements across several outcome domains assessed immediately after the interventions and at 7 and 11 month follow-ups, but no significant group differences were found. Significant positive trends over time in vocational, clinical and cognitive outcomes consistently favored the ISE + CRT condition.Conclusion: While both the ISE + CRT and ISE groups demonstrated improvement in vocational, clinical, psychological, and neurocognitive outcomes, there was no evidence to show that cognitive remediation facilitated further improvement in these domains beyond gains associated with ISE alone. Further investigation is needed to fully exploit the synergistic potential of ISE combined with CRT, and to better understand which individuals experience a maximal benefit from the specific rehabilitation program components. (C) 2015 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2015.05.013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group for the CRT intervention compared to ISE alone.",
+            "study_design": "Quasi-experimental with a comparison condition but no true control group for the CRT intervention.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on cognitive remediation training (CRT) in addition to Integrated Supported Employment (ISE), which is not one of the intervents specified in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Hong Kong).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

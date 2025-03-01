@@ -1,0 +1,33 @@
+{
+    "ArticleID": 874,
+    "Authors": "Peijen, Roy; Bos, Manon Carola Maria",
+    "Article Title": "Brief Report: The Benefits of an Employer-Based Work-Experience Program for Participants with ASD",
+    "Abstract": "An employer-based work-experience program run by a multinational organization temporarily employs people with an autism spectrum disorder (ASD) to prepare them for external employment. This study observes the impact of participation for people with ASD in establishing employment (with or without a competitive salary). A quasi-experimental design constructed a control group that can be considered similar to the group of participants in the employer-based program, except for supported-employment entitlement. Results indicate a 29% increase in post-five-year employment for participants than the control group, but no effect was found on employment with a competitive salary, only for the post-second year. Inclusivity enhances the careers of people with ASD, but their potential to establish employment with a competitive salary remains limited.",
+    "DOI": "10.1007/s10803-021-04976-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders and the intervention does not directly address employment. The study focuses on people with ASD (Autism Spectrum Disorder) and its impact on employment without a competitive salary, which does not align with the specified inclusion criteria.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on ASD, not mental health disorders in general, and does not meet the specified intervention criteria.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with ASD (a mental health disorder), and reports employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

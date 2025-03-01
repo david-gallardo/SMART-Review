@@ -1,0 +1,33 @@
+{
+    "ArticleID": 160,
+    "Authors": "Toska, Marko; Behrendt, Doerte; Erzberger, Melanie",
+    "Article Title": "Prevention of Mental Health as Part of a Holistic Health Management",
+    "Abstract": "Mental illnesses are increasingly common in workplace environments. But interventions that focus exclusively on reducing workplace-stressors are not enough. It takes long-term primary and secondary preventive, integrated solutions on an individual, role-based and organizational level. The promotion of resources of mental and physical health in everyday work can improve an efficient health development and thus should be fostered systematically. TPIII under psychenet starts at this need and systematically investigates two interventions (Employee Assistance Program, Blended Learning), that are intended to promote personal and job-related resources. This study contributes to the evidence base of an established prevention program which allows for broad dissemination building on existing capacities for broad dissemination.",
+    "DOI": "10.1055/s-0034-1387696",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the prevention of mental health issues rather than interventions that directly address employment outcomes. It does not meet the inclusion criteria for population (people with mental disorders) and intervention (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on interventions for mental health in the workplace but does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

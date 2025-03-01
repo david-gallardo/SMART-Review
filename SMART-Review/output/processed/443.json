@@ -1,0 +1,33 @@
+{
+    "ArticleID": 443,
+    "Authors": "Oswald, Tasha M.; Winder-Patel, Breanna; Ruder, Steven; Xing, Guibo; Stahmer, Aubyn; Solomon, Marjorie",
+    "Article Title": "A Pilot Randomized Controlled Trial of the ACCESS Program: A Group Intervention to Improve Social, Adaptive Functioning, Stress Coping, and Self-Determination Outcomes in Young Adults with Autism Spectrum Disorder",
+    "Abstract": "The purpose of this pilot randomized controlled trial was to investigate the acceptability and efficacy of the Acquiring Career, Coping, Executive control, Social Skills (ACCESS) Program, a group intervention tailored for young adults with autism spectrum disorder (ASD) to enhance critical skills and beliefs that promote adult functioning, including social and adaptive skills, self-determination skills, and coping self-efficacy. Forty-four adults with ASD (ages 18-38; 13 females) and their caregivers were randomly assigned to treatment or waitlist control. Compared to controls, adults in treatment significantly improved in adaptive and self-determination skills, per caregiver report, and self-reported greater belief in their ability to access social support to cope with stressors. Results provide evidence for the acceptability and efficacy of the ACCESS Program.",
+    "DOI": "10.1007/s10803-017-3421-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for the population, as it only references adults with Autism Spectrum Disorder (ASD), which is not a mental health disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders or documented mental health problems. It focuses on young adults with autism spectrum disorder.",
+            "study_design": "Pilot randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with autism spectrum disorder (ASD), not specifically on people with mental health disorders in general.",
+            "study_design": "Pilot randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

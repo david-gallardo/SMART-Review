@@ -1,0 +1,33 @@
+{
+    "ArticleID": 722,
+    "Authors": "Marchand, Gunn Hege; Lau, Bjorn; Myhre, Kjersti; Roe, Cecilie; Bautz-Holter, Erik; Leivseth, Gunnar",
+    "Article Title": "Pain and disability do not influence psychological and social factors at work among sick-listed patients with neck and back pain",
+    "Abstract": "BACKGROUND: It is unknown whether living with neck and back pain, disability, and mental disorders influences the perception of psychological and social factors at work among sick-listed patients.OBJECTIVES: The primary aim of the present study was to examine the associations between pain, disability, anxiety, depression, and perceived psychological and social factors at work among sick-listed patients with neck and back pain.METHODS: We performed a cross-sectional study of 380 sick-listed patients with neck and low-back pain who were referred to spine clinics at two Norwegian university hospitals. Ordinal regression was applied, with psychological and social factors at work as the dependent variable.RESULTS: Pain was not associated with psychological and social factors at work. Disability was associated with a minor increase in the perception of demands among women, but not men. Women with high anxiety or depression scores experienced less control over work situations and less positive challenges at work. Men with high depression scores perceived low support.CONCLUSIONS: Sick-listed patients with neck and back pain who had concurrent anxiety or depression reported increased psychological and social challenges at work. To provide suitable treatment in the clinical setting, further attention should be paid to the interaction between anxiety or depression and perceived job strain.",
+    "DOI": "10.3233/WOR-152226",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is ordinal regression, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Ordinal regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

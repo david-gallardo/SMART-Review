@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1468,
+    "Authors": "Russo, Maria; Lucifora, Claudio; Pucciarelli, Francesco; Piccoli, Bruno",
+    "Article Title": "Work hazards and workers' mental health: an investigation based on the fifth European Working Conditions Survey",
+    "Abstract": "Background: Workplace hazards are a sign t cant source of health impairment for workers and of financial losses for firms. EU directives on workers' health and safety standards significantly contributed to reduce reported occupational injuries, yet the incidence and prevalence of work-related mental illness is still very high. Objectives: We investigated the association between work-related hazards and individuals' perceived mental health. We reviewed the existing evidence on the channels through which task-related factors, adverse agents and psychosocial factors are expected to affect workers' health, with specific regard to mental health. Methods: We used data from the fifth wave of the European Working Conditions Survey, covering over 40,000 face-to : face interviews with workers in 34 countries, which includes information on socio-demographic characteristics, firms and jobs attributes, employment status, as well as working conditions and health status. We carried out an empirical analysis with multivariate regression models in order to estimate the relationship between workers' mental health problems and workplace risk factors. Results: 21,020 interviews were used in the multivariate analysis. We found strong correlations between hazards and various indicators of mental health. Among hazardous agents, low temperatures (beta=0.0287) and contact with infectious materials (beta=0.0394) were positively associated with mental health outcomes. Among task/sequence-related factors, tiring or painful positions (beta=0.0713), repetitive band/arm movements (beta=0.0255), working with VDUs (beta=0.0301), repetitive tasks <10 min (beta=0.0859) and working in evenings (beta=0.00754) were positively associated with mental health. Various psychosocial risk factors related to both the content of the job (for example, frequent disruptive interruptions: beta=0.219, working in free time: beta=0.0759, poor work-life balance: beta=0.228) as well as the job context (for example, bad employment prospects: beta=0.177, low decisional autonomy: beta=0.245, bad social relations:beta=0.186, workplace violence: beta=0.411) were positively associated with mental health. The main results of the decomposition show that an important contribution to workers' overall mental distress at work is associated with psychosocial risk factors (up to 60% for depression/anxiety symptoms and sleep disorders), while the contribution of somatic factors is on average lower (up to 20%for overall fatigue). Conclusions: We argue that action is needed to improve workers' mental well-being, and reduce the economic costs for both the national health system and employers. Regulations and traditional economic measures are unlikely to prove successful in providing adequate standards of primary and secondary preventive measures in the work place without an appropriate and reliable Risk Assessment Procedure.",
+    "DOI": "10.23749/mdl.v110i2.7640",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariate regression analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is related to workplace hazards and workers' mental health, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as mental health problems, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Multivariate regression analysis with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It focuses on the association between work-related hazards and workers' mental health without addressing interventions aimed at improving employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace hazards and mental health in general, without a specific intervention targeted at employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        }
+    }
+}

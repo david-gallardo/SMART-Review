@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1513,
+    "Authors": "Kester, Louis; Holena, Daniel N.; Hynes, Allyson M.; Kaufman, Elinore J.; Brahmbhatt, Tejal; Sanchez, Sabrina; Byrne, James P.; Dechert, Tracey; Seamon, Mark; Scantling, Dane R.",
+    "Article Title": "Preventing the most common firearm deaths: Modifiable factors related to firearm suicide",
+    "Abstract": "Background: More than 20,000 firearm suicides occur every year in America. Firearm restrictive legis-lation, firearm access, demographics, behavior, access to care, and socioeconomic metrics have been correlated to firearm suicide rates. Research to date has largely evaluated these contributors singularly. We aimed to evaluate them together as they exist in society. We hypothesized that state firearm laws would be associated with reduced firearm suicide rates. Methods: We acquired the 2013 to 2016 data for firearm suicide rates from The Centers for Disease Control Wide-ranging Online Data for Epidemiologic Research. Firearm laws were obtained from the State Firearms Law Database. Depression rates and access to care were obtained from the Behavioral Risk Factor Surveillance System and Occupational Employment and Wage Statistics program. Population demographics, poverty, and access to social support were obtained from the American Community Survey. Firearm access estimates were retrieved from the National Instant Criminal Background Check System. We used a univariate panel linear regression with fixed effect for state and firearm suicide rates as the outcome. We created a final multivariable model to determine the adjusted associations of these factors with firearm suicide rates. Results: In univariate analysis, firearm access, heavy drinking behavior, demographics, and access to care correlated to increased firearm suicide rates. The state proportion identifying as white and the pro-portion of those in poverty receiving food benefits correlated to decreased firearm suicide rates. In multivariable regression, only heavy drinking (b, 0.290; 95% confidence interval, 0.092-0.481; P 1/4 .004) correlated to firearm suicides rates increases. Conclusions: During our study, few firearm laws changed. Heavy drinking behavior association with firearm suicide rates suggests an opportunity for interventions exists in the health care setting. (c) 2022 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.surg.2022.10.012",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a univariate panel linear regression with fixed effect, which does not meet the inclusion criteria of systematic reviews, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "univariate panel linear regression with fixed effect",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on firearm suicide rates in the US. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using multivariable regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on firearm suicide rates and not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Univariate panel linear regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

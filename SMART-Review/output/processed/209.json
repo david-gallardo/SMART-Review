@@ -1,0 +1,33 @@
+{
+    "ArticleID": 209,
+    "Authors": "Teresa Carrasco-Barrios, Maria; Huertas, Paloma; Martin, Paloma; Martin, Carlos; Carmen Castillejos, Ma; Petkari, Eleni; Moreno-Kustner, Berta",
+    "Article Title": "Determinants of Suicidality in the European General Population: A Systematic Review and Meta-Analysis",
+    "Abstract": "Close to one million people commit suicide each year, with suicidal attempts being the main risk factor for suicide. The aim of this systematic review and meta-analysis is to achieve a greater understanding of suicidality in the general population of Europe by studying associated factors and their statistical significance with suicidality, as well as the effect of the temporal moment in which suicidality is observed in a relationship. A search strategy was carried out in electronic databases: Proquest's Psychology Database, Scopus, PsycINFO, Medline and Embase. Odds ratios (ORs), publication bias, influential studies on heterogeneity and analysis moderators were calculated. Twenty-six studies were included after meeting the inclusion criteria. Factors statistically associated with suicidality are female gender, age over 65 years, unemployment, low social support, adulthood adversity, childhood adversity, family history of mental disorder, any affective disorder, major depression, anxiety/stress/somatoform disorders, tobacco and substance use, any mental disorder and body mass index. As a limitation, a high heterogeneity between studies was found. Factors associated with suicidality in the general population are relevant for understanding the suicidal phenomenon. Systematic review registration: PROSPERO (CRD42017075190).",
+    "DOI": "10.3390/ijerph17114115",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study aims to understand suicidality in the general population of Europe, which is outside the scope of the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on suicidality in the general population of Europe.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

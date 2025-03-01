@@ -1,0 +1,33 @@
+{
+    "ArticleID": 756,
+    "Authors": "Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Individual placement and support: History, current status, and future directions",
+    "Abstract": "Over the past three decades, Individual Placement and Support (IPS) has emerged as a robust evidence-based approach to helping people with severe mental illnesses, such as schizophrenia, bipolar disorder, and major depression, to obtain and succeed in competitive employment. This review addresses the history, principles, research, and future directions of IPS. It covers current evidence on employment outcomes, cost-effectiveness, and nonvocational outcomes. It also describes current attempts to extend IPS to new populations. The authors provide an overview of numerous systematic reviews and meta-analyses of randomized controlled trials involving people with serious mental illness. For studies addressing nonvocational outcomes and new populations, the review uses best available evidence. Published reviews agree that IPS enables patients with serious mental illness in high-income countries to succeed in competitive employment at a higher rate than patients who receive other vocational interventions. Within IPS programs, quality of implementation, measured by standardized fidelity scales, correlates with better outcomes. Employment itself leads to enhanced income, psychosocial outcomes, clinical improvements, and decreased mental health service use. As IPS steadily spreads to new populations and new settings, research is active across high-income countries and spreading slowly to middle-income countries. IPS is an evidence-based practice for people with serious mental illness in high-income countries. It shows promise to help other disability groups also, and emerging research aims to clarify adaptations and outcomes.",
+    "DOI": "10.1002/pcn5.122",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review of randomized controlled trials, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The intervention is Individual Placement and Support (IPS), which is one of the specified interventions. The population is people with severe mental illnesses, such as schizophrenia, bipolar disorder, and major depression, which meets the population criteria. The outcomes include employment outcomes such as employment rates, job duration, job quality, workplace integration, and job retention.",
+            "study_design": "Systematic review of randomized controlled trials",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review article rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a review and not a primary study, which does not meet the inclusion criteria for study design.",
+            "study_design": "Systematic review",
+            "logprobs": "N/A"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a review of systematic reviews and meta-analyses of RCTs, focuses on employment outcomes for people with severe mental illnesses in high-income countries (including EU, US, Canada, Australia), and discusses interventions related to supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

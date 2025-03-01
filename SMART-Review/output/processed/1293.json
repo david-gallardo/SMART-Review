@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1293,
+    "Authors": "Henry, Alexis D.; Hashemi, Lobat; Zhang, Jianying",
+    "Article Title": "Evaluation of a Statewide Implementation of Supported Employment in Massachusetts",
+    "Abstract": "Objective: Randomized controlled trials (RCT) have shown supported employment (SE) to be an evidence-based practice (EBP) for people with psychiatric disabilities. Whether SE implemented under real-world conditions achieves outcomes comparable to RCTs is an important question for the psychiatric rehabilitation field. We examined employment outcomes achieved by SE programs in Massachusetts, and in particular examined whether fidelity to EBP standards was associated with outcomes. Method: We examined outcomes for 3,474 clients served by 21 programs between 1997 and 2006, using multiple sources of data, including a client tracking database maintained by the SE programs as well as program site visits to assess fidelity to EBP standards. Using Generalized Estimating Equations, we modeled associations of client factors (demographics, diagnosis), program fidelity and other program factors to: (a) obtaining a job within 1 year of program enrollment; and among those obtaining jobs, (b) working 20 hours/week or more; and (c) earning $9/hr or more. Results: There were 51% of clients who obtained a job within 1 year of enrollment. Clients served by high fidelity programs were more likely to obtain jobs (OR = 1.45) and to work 20 hr/week or more (OR = 1.52); fidelity was unrelated to wages. Conclusions and Implications for Practice: This study contributes to the evidence that real-world programs can implement SE with fidelity and achieve outcomes on par with those found in RCTs, and that fidelity makes a difference in the outcomes programs achieve. High fidelity programs may be most effective in helping clients acquire jobs and maximize the hours they work.",
+    "DOI": "10.1037/prj0000097",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US - Massachusetts), timeframe (2005-2025), intervention (supported employment), population (people with psychiatric disabilities), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a RCT, which is one of the specified study designs in the inclusion criteria. It is focused on the EU country of Massachusetts, which falls within the specified geographic scope. The intervention is supported employment, which is one of the interventions of interest. The study population includes people with mental disorders, meeting the population criteria. The outcomes include employment rates and job retention, which are among the specified outcomes. The study does not fall under the exclusion criteria as it does not include labor regulation policies or social security policies, and it does not have an undefined population.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study's timeframe is outside the specified range (1997-2006).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

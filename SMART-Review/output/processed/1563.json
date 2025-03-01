@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1563,
+    "Authors": "Harvey, Ronald; Jason, Leonard A.; Ferrari, Joseph R.",
+    "Article Title": "Substance abuse relapse in Oxford House recovery homes: A survival analysis evaluation",
+    "Abstract": "Background: This study used survival analysis to examine risk factors for substance abuse relapse among residents in Oxford Houses (OH), a national network of self-run, self-financed aftercare homes for individuals recovering from substance use disorders. Methods: Participants who entered OH within 60 days of a 1-year longitudinal study (N = 268) were selected from of a nationally representative US sample. Discrete-time survival analysis compared baseline risk of relapse with 4 hypothesized survival models that included time-invariant and time-varying factors across 3 subsequent time periods. Results: The model predicting higher risk for more severe substance use disorders and psychiatric problems was supported. The hypothesized model that predicted time-varying increases in alcohol (but not drug) abstinence self-efficacy significantly affected risk of relapse. Hypothesized demographic and employment variables did not significantly predict relapse risk. Conclusions: Results suggested that OH recovery homes may reduce relapse by providing closer monitoring and referring additional services to new residents with more severe prior addiction severity. Risk for relapse may also be reduced by enhancing abstinence self-efficacy for alcohol regardless of drug of choice.",
+    "DOI": "10.1080/08897077.2015.1080786",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on substance abuse relapse in recovery homes.",
+            "study_design": "Survival analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on substance abuse relapse in recovery homes.",
+            "study_design": "Survival analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance abuse relapse in recovery homes, which is not directly related to employment outcomes for people with mental health disorders.",
+            "study_design": "Survival analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

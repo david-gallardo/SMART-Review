@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1391,
+    "Authors": "Bruns, Eric J.; Kerns, Suzanne E. U.; Pullmann, Michael D.; Hensley, Spencer W.; Lutterman, Ted; Hoagwood, Kimberly E.",
+    "Article Title": "Research, Data, and Evidence-Based Treatment Use in State Behavioral Health Systems, 2001-2012",
+    "Abstract": "Objective: Empirical study of public behavioral health systems' use of data and their investment in evidence-based treatments (EBTs) is limited. This study describes trends in state-level EBT investment and research supports from 2001 to 2012.Methods: Data were from National Association for State Mental Health Program Directors Research Institute (NRI) surveys, which were completed by representatives of state mental health authorities (SMHAs). Multilevel models examined change over time related to state adoption of EBTs, numbers of clients served, and penetration rates for six behavioral health EBTs for adults and children: supported housing, supported employment, assertive community treatment, therapeutic foster care, multisystemic therapy, and functional family therapy. State supports related to research, evaluation, and information management were also examined.Results: Increasing percentages of states reported funding an external research center, promoting the adoption of EBTs through provider contracts, and providing financial incentives for EBTs. Decreasing percentages of states reported promoting EBT adoption through stakeholder mobilization, monitoring fidelity, and specific budget requests. There was greater reported use of adult-focused EBTs (65%-280%) compared with youth-focused EBTs (25%-250%). Overall penetration rates of EBTs were low (1%-23%) and EBT adoption by states showed flat or declining trends. SMHAs' investment in data systems and use of research showed little change.Conclusions: SMHA investment in EBTs, implementation infrastructure, and use of research has declined. More systematic measurement and examination of these metrics may provide a useful approach for setting priorities, evaluating success of health reform efforts, and making future investments.",
+    "DOI": "10.1176/appi.ps.201500014",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group. It is a descriptive study with data from NRI surveys.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified timeframe (2005-2025) and its intervention focuses on evidence-based treatments rather than employment services.",
+            "study_design": "Survey analysis using multilevel models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly addressing employment for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Empirical study with multilevel models",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1481,
+    "Authors": "Eisen, Susan V.; Mueller, Lisa N.; Chang, Bei Hung; Resnick, Sandra G.; Schultz, Mark R.; Clark, Jack A.",
+    "Article Title": "Mental Health and Quality of Life Among Veterans Employed as Peer and Vocational Rehabilitation Specialists",
+    "Abstract": "Objective: The study compared employment experiences, mental health recovery, and quality of life among peer specialists and vocational rehabilitation (VR) specialists hired by the U.S. Department of Veterans Affairs (VA), the VR specialists under the Homeless Veterans Supported Employment Program. Employment characteristics associated with mental health recovery were examined.Methods: The study was a national, observational survey of 152 peer specialists and 222 VR specialists across 138 VA health care systems in 49 states. The survey, administered over the Internet, included measures describing participant characteristics, employment factors, mental health, and quality of life. The two cohorts were compared by using t tests or chi square tests. Multiple regression analysis controlling for participant characteristics was used to identify employment factors associated with mental health and quality of life.Results: Peer specialists were more likely than VR specialists to share recovery stories, serve as a role model or mentor, and advocate for veterans. Activities by VR specialists tended to focus more narrowly on job skills. Overall, after adjusting for multiple comparisons, the analysis found high levels of mental health and average quality of life for both cohorts, with no significant differences between the groups. Satisfaction with amount of supervision was consistently associated with aspects of mental health recovery, including work-related and helping-related quality of life, for both cohorts.Conclusions: The results highlight the value of work and the importance of supervision in realizing both the adoption of recovery-oriented services and the promotion of mental health in a community of veterans serving each other.",
+    "DOI": "10.1176/appi.ps.201400105",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a national, observational survey with a control group, meeting the inclusion criteria for study design. The study includes employment outcomes such as job duration and job quality, and references mental health problems, meeting the inclusion criteria for population and outcomes.",
+            "study_design": "National, observational survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design as it is an observational survey without a control group.",
+            "study_design": "Observational survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for comparison.",
+            "study_design": "Observational survey",
+            "logprobs": null
+        }
+    }
+}

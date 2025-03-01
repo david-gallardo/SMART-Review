@@ -1,0 +1,33 @@
+{
+    "ArticleID": 295,
+    "Authors": "Drake, Robert E.; Becker, Deborah R.; Bond, Gary R.",
+    "Article Title": "Introducing Individual Placement and Support (IPS) supported employment in Japan",
+    "Abstract": "Individual Placement and Support is a standardized model of supported employment, developed initially for people with serious mental disorders and now applied to people with a range of disabilities. More than two dozen randomized controlled trials around the world show that the approach helps a majority of participants to succeed in competitive employment. Individual Placement and Support is spreading rapidly across the USA and in many other high-income countries, with facilitation by an international learning community.",
+    "DOI": "10.1111/pcn.12792",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is Japan which is outside the specified EU countries, Europe, US, Canada, and Australia.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), the geographic scope includes the USA, the timeframe is within 2005-2025, the intervention is supported employment, the population is people with serious mental disorders, and the outcomes include competitive employment.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        }
+    }
+}

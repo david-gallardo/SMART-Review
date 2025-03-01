@@ -1,0 +1,33 @@
+{
+    "ArticleID": 100,
+    "Authors": "Wehman, Paul; Brooke, Valerie; Brooke, Alissa Molinelli; Ham, Whitney; Schall, Carol; McDonough, Jennifer; Lau, Stephanie; Seward, Hannah; Avellone, Lauren",
+    "Article Title": "Employment for adults with autism spectrum disorders: A retrospective review of a customized employment approach",
+    "Abstract": "Over the past few decades, there has been an increase in prevalence of children with autism spectrum disorders (ASD), and those children are now becoming young adults in need of competitive integrated employment (CIE). Customized employment (CE) is one pathway to employment that has been successful for other individuals with developmental disabilities (DD), though research has been very limited on the effectiveness with individuals with ASD. This paper provides a retrospective review of 64 individuals with ASD who came to our program from 2009 to 2014 for supported employment services as referred by the state vocational rehabilitation services agency. Employment specialists engaged in situational assessment, discovery, job development, customized job descriptions, on-site training and support, positive behavioral supports, and job retention techniques. The employment specialists were responsible for tracking their actual time spent working directly with or for the jobseeker with autism spectrum disorders (ASD). All vocational rehabilitation clients with ASD served during this time successfully secured CIE, and maintained their employment with ongoing supports, with intensity of support time decreasing over time. The majority (63/64, 98.4%) of individuals successfully secured CIE through the use of supported employment, in 72 unique employment positions. Of the majority of the individuals who secured employment, 77% (50) individuals indicated that they had never worked before and additional 18% (12) reported having short intermittent histories of employment. Despite this lack of employment experience, in all cases the jobseeker directed the job search and ultimately the job selection. (C) 2016 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.ridd.2016.01.015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a retrospective review of a customized employment approach, which meets the inclusion criteria. The study includes a control group (vocational rehabilitation clients with ASD) and presents measures of employment outcomes.",
+            "study_design": "Retrospective review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its population is limited to individuals with autism spectrum disorders, which does not specifically address people with mental health disorders as defined in the inclusion criteria.",
+            "study_design": "Retrospective review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective review without a control group.",
+            "study_design": "Retrospective Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 53,
+    "Authors": "Peterson, Sonia; Alkhadim, Ghadah S. S.",
+    "Article Title": "Predictors of Employment for Transition-Aged Youth With Co-Occurring Substance Use Disorder and Psychiatric Disorder in the State Vocational Rehabilitation Service-Delivery System",
+    "Abstract": "Objective: To identify state vocational rehabilitation (VR) services that were associated with employment for transition-aged youth with co-occurring disabilities (TAYWCD). Method: Hierarchical logistic regression analyses were utilized. Participants were 830 youth aged 24 and younger who had a cooccurring substance use disorder and another mental illness. Results: After controlling for the effect of demographic covariates, assessment services (OR = .53, 95% CI [.35, .80], p < .01), job placement services (OR = 2.56, 95% CI [1.73, 3.78], p < .001), and supported employment services (OR = 3.7, 95% CI [2.33, 5.89], p < .001) were found to significantly impact employment outcomes. Conclusions and Implications for Practice: State VR services that aligned with the individual placement and support model of supported employment principles were correlated with successful employment outcomes for TAYWCD who received these services. Recommendations include the following: (a) prepare VR counselors to effectively work with individuals with psychiatric disabilities; (b) provide TAYWCD with high-quality assessment and the individual placement and support model of supported employment services; (c) require VR counselors who serve TAYWCD to collaborate with community partner agencies that provide coordinated specialty care model services; (d) require VR counselors to collaborate with community partner agencies that provide recovery-oriented and evidence-based services; (e) encourage clients to formulate a Wellness Recovery Action Plan (WRAP) as a state VR assessment and Individualized Plan for Employment planning service; (f) include the state VR on-the-job training service in the Individualized Plan for Employment; (g) make use of benefits counseling services; and (h) institute in-service learning opportunities in state VR agencies.",
+    "DOI": "10.1037/prj0000556",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a hierarchical logistic regression analysis, which meets the inclusion criteria. The study includes a control group and presents measures of employment outcomes.",
+            "study_design": "Hierarchical logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on transition-aged youth with co-occurring substance use disorder and psychiatric disorders rather than people with mental health disorders as specified. Additionally, while supported employment services are discussed, the primary focus is on vocational rehabilitation services within a specific state system.",
+            "study_design": "Hierarchical logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

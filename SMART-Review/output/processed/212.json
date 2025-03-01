@@ -1,0 +1,33 @@
+{
+    "ArticleID": 212,
+    "Authors": "Elhaija, Ahmad; Chu, Nathan; Siddiq, Hafifa",
+    "Article Title": "Identifying the service needs of homeless individuals in the skid-row community",
+    "Abstract": "Skid Row is an impoverished neighborhood in Los Angeles, also known as the homeless capital of America. Those experiencing homelessness have compounding needs that are largely unmet by existing safety-net systems. The goal of this study is to evaluate the needs of homeless individuals in the Skid Row community, to better tailor services for the homeless population residing in the area. For the study, the International Collegiate Health Initiative (ICHI), a 501(c)-3 nonprofit, conducted a community needs assessment and a comprehensive review of the literature regarding community-based solutions to addressing unmet needs of this population. A cross-sectional survey approach was utilized to conduct a community needs assessment of adults residing in Skid Row. The subsequent descriptive analysis of the data collected reveal unmet needs of individual's health, social, and employment situations among unhoused individuals in Skid Row. Potential exists for the needs of the unhoused population to be met through various community efforts and public health interventions. The identified service priorities for mental health care, medical care, and employment services, are verified by prior literature which identifies high frequency of mental health issues, substance use, and underemployment in the population.",
+    "DOI": "10.1080/10530789.2023.2187273",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group and a rigorous evaluation.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on evaluating the needs of homeless individuals in Skid Row, Los Angeles.",
+            "study_design": "Descriptive analysis using a cross-sectional survey approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless individuals in Skid Row, not specifically on people with mental health disorders or documented mental health problems.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It is a community needs assessment and does not evaluate specific interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Community needs assessment",
+            "logprobs": null
+        }
+    }
+}

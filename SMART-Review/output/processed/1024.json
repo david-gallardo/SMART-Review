@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1024,
+    "Authors": "Mosca, Irene; Barrett, Alan",
+    "Article Title": "The impact of adult child emigration on the mental health of older parents",
+    "Abstract": "We explore whether older parents of adult children who emigrate experience, in the short term, increases in depressive symptoms and loneliness feelings compared to parents whose children do not migrate. We use data from the first two waves of The Irish Longitudinal Study on Ageing, which is a nationally representative sample of 8500 people aged 50+ living in Ireland. To deal with the endogeneity of migration, we apply fixed-effects estimation models and control for a broad range of life events occurring between the two waves. These include the emigration of a child but also events such as bereavement, onset of disease, retirement and unemployment. We find that depressive symptoms and loneliness feelings increase among the parents of migrant children but that the effect is only present for mothers. As the economic burden of mental health problems is high, our findings have potentially significant impacts for migrant-sending regions and countries.",
+    "DOI": "10.1007/s00148-015-0582-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the mental health of older parents in relation to adult child emigration.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the impact of adult child emigration on older parents' mental health.",
+            "study_design": "Cross-sectional study using fixed-effects estimation models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the mental health of older parents in the context of adult child emigration, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

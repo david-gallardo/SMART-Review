@@ -1,0 +1,33 @@
+{
+    "ArticleID": 24,
+    "Authors": "Chan, Dara, V; Doran, Julie D.",
+    "Article Title": "Mental health counseling is rated as most helpful by autistic adults: Service perspectives in adulthood",
+    "Abstract": "The growing number of autistic adults challenges the limited adult service system. While data on service use and barriers are available, there is limited information from the individual's perspective on which services are most helpful in adulthood and how service use is connected to community participation outcomes. Forty autistic adults participated in a study combining global positioning system community participation measures with survey and interview data on service use, including which services are most helpful in adulthood, barriers to services, and service needs. Participation outcomes were analyzed relative to demographics, number and types of services received in the past 2 years, and current mental health service use. Participants received an average of two services in the past 2 years, most frequently mental health and employment services. Individuals currently seeing a mental health counselor were more likely to be working full-time and visit more community locations compared to those who were not seeing a counselor. Participants reported mental health services as the most helpful service received in adulthood followed by employment services. While an emphasis is often placed on employment services in the transition to adulthood, findings suggest a need for integrated mental health and employment services for autistic adults.Lay AbstractThe number of autistic adults is growing, but there are fewer services to support them in adulthood. Many autistic adults need some support services to lead successful adult lives. We know a lot about the services autistic adults use and some of the problems with using these services, but we do not know which services are most helpful to them and how the services they use relate to how they interact with their communities. Forty autistic adults took part in a study about service use and community participation. They completed surveys, interviews, and carried a global positioning system tracker. They answered questions about which services are most helpful in adulthood, things that make it hard to use services, and what services they needed. Most participants used two services in the past 2 years, most frequently mental health and employment services. Adults who were currently seeing a mental health counselor were more likely to be working full-time and visit more locations in the community compared to those who were not seeing a counselor. Mental health services were reported as the most helpful service they received as adults, followed by employment services. We often focus on the importance of employment services after high school, but our findings show a need for both mental health and employment services for autistic adults.",
+    "DOI": "10.1177/13623613231197446",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a combination of global positioning system community participation measures with survey and interview data, and it includes a control group (current mental health service use) and a quasi-experimental analysis relative to demographics, number and types of services received in the past 2 years, and current mental health service use.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions (job search services, adult training, wage subsidies, supported employment) and outcomes (employment rates, job duration, job quality, workplace integration, or job retention) related to active employment policies for people with mental health disorders. It focuses on mental health counseling and its impact on community participation and employment status of autistic adults.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies specifically targeting people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes in a rigorous evaluation format.",
+            "study_design": "Survey and interview study",
+            "logprobs": null
+        }
+    }
+}

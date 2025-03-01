@@ -1,0 +1,33 @@
+{
+    "ArticleID": 647,
+    "Authors": "Metcalfe, Justin D.; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Economic, Labor, and Regulatory Moderators of the Effect of Individual Placement and Support Among People With Severe Mental Illness: A Systematic Review and Meta-analysis",
+    "Abstract": "As Individual Placement and Support (IPS) has become the international standard for vocational rehabilitation of adults with serious mental illness, researchers must consider the relationship between IPS and local environments. This meta-analysis used mixed-effects meta-regressions to assess the impact of site-level moderators on the likelihood that IPS recipients, compared with recipients of alternative vocational services, achieved competitive employment. Potential moderators included change in gross domestic product (GDP), local unemployment and unionization rates, and indices describing employment protection regulations, level of disability benefits compensation, and efforts to integrate people with disabilities into the workforce. Regulatory moderators represent facilitators and barriers to employment that may reinforce or detract from the effectiveness of IPS. Across 30 sites drawn from 21 randomized controlled trials in 12 countries (33% in the United States), IPS recipients were 2.31 (95% CI 1.99-2.69) times more likely to find competitive employment than recipients of alternative vocational rehabilitation services. The significant competitive-employment rate advantage of IPS over control services increased in the presence of weaker employment protection legislation and integration efforts, and less generous disability benefits. Policy makers should recognize and account for the fact that labor and disability regulations can create an arrangement of incentives that reduces the relative efficacy of supported employment.",
+    "DOI": "10.1093/schbul/sbx132",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study includes data from 21 randomized controlled trials in 12 countries, which meets the geographic scope. The intervention is Individual Placement and Support (IPS), which is one of the interventions listed in the inclusion criteria. The population is people with severe mental illness, which meets the population criterion. The outcomes include employment rates and job duration, which meets the outcome criterion.",
+            "study_design": "Systematic Review and Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (meta-analysis), geographic scope (12 countries including the US), timeframe (ongoing until publication), intervention (Individual Placement and Support), population (people with severe mental illness), and outcomes (competitive employment rates).",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review and meta-analysis that meets the inclusion criteria regarding study design, intervention, population, and outcomes. It also falls within the specified geographic scope and timeframe.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: systematic review and meta-analysis of RCTs, relevant geographic scope, within timeframe, relevant intervention (supported employment), relevant population, and includes employment outcomes.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1272,
+    "Authors": "Hoeg, B. L.; Johansen, C.; Christensen, J.; Frederiksen, K.; Dalton, S. Oksbjerg; Boge, P.; Dencker, A.; Dyregrov, A.; Bidstrup, P. E.",
+    "Article Title": "Does losing a parent early influence the education you obtain? A nationwide cohort study in Denmark",
+    "Abstract": "Background Health inequalities are rooted in education and we investigate the association between early parental death and attainment across the educational spectrum.Methods Using total population data on Danes born between 1982 and 2000 (n = 1 043 813), we assess incidence rate ratios (RRs) by gender for attainment of each educational level (basic school, high school or vocational training, bachelor degree or professional programme, and university graduate degree) according to loss of a parent before the age of 18 years. We adjust for family income, education and psychiatric illness and examine parent's gender, cause of death and child's age at time of death as potential moderators.Results Bereaved people had significantly lower attainment rates than non-bereaved people: basic school (RR = 0.95; 95% CI: 0.93-0.97 for men and 0.96; 0.94-0.98 for women), high school or vocational training (0.78; 0.76-0.80 for men and 0.82; 0.80-0.84 for women), bachelor degree or professional programme (0.74; 0.70-0.79 for men and 0.83; 0.79-0.86 for women) and university graduate degree (0.77; 0.68-0.86 for men and 0.77; 0.69-0.86 for women). Parent's gender, cause of death and child's age at the death did not modify the associations.Conclusions As education impacts population health, support for bereaved school children may be more important than realized.",
+    "DOI": "10.1093/pubmed/fdy070",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, but rather investigates the association between early parental death and educational attainment.",
+            "study_design": "Nationwide cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It investigates the impact of early parental death on educational attainment.",
+            "study_design": "Nationwide cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on educational attainment and not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Nationwide cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and the population is not defined by mental health disorders.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

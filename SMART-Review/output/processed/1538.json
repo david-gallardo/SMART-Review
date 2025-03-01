@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1538,
+    "Authors": "Baka, Lukasz",
+    "Article Title": "When do the 'dark personalities' become less counterproductive? The moderating role of job control and social support",
+    "Abstract": "Introduction. The objective of the study is to examine how job resources modify the relationship between the Dark Triad (DT) and counterproductive work behavior (CWB). Specifically the study examined: (a) the direct link between DT and CWB; (b) the moderation effects of two kinds of job resources (job control and social support); (c) the moderated moderation effect of the job resources (job control x social support) on the DT-CWB link. Moreover, the effect of social approval on CWB was controlled. Method. Data were collected among 659 white-collar and blue-collar workers. The hypotheses were tested by means of the PROCESS method. Results. As expected in the hypotheses, a high DT level was found to be directly related to high CWB, and job control moderated (intensified) the link. Social support did not moderate the DT-CWB link. The moderated moderation effect was supported. Social support increases the moderation effect of job control on the DT-CWB link. The lowest level of CWB is observed when job control was low and social support was high.",
+    "DOI": "10.1080/10803548.2018.1463670",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the relationship between the Dark Triad and counterproductive work behavior, without considering job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the relationship between dark personalities and counterproductive work behavior. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey with PROCESS method for moderation analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions for employment such as job search services, adult training, wage subsidies, or supported employment. Additionally, it does not measure employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

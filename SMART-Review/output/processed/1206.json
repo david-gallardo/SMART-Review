@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1206,
+    "Authors": "Tamayo-Fonseca, Nayara; Nolasco, Andreu; Moncho, Joaquin; Barona, Carmen; Irles, Maria Angeles; Mas, Rosa; Giron, Manuel; Gomez-Beneyto, Manuel; Pereyra-Zamora, Pamela",
+    "Article Title": "Contribution of the Economic Crisis to the Risk Increase of Poor Mental Health in a Region of Spain",
+    "Abstract": "Previous research suggests that the economic crisis can affect mental health. The purpose of this study was to analyse the association of risk of poor mental health with various socioeconomic, demographic, health, quality of life, and social support variables; and to evaluate the contribution of socioeconomic variables most affected by the beginning of the economic crisis (employment situation and income) on the changes in the prevalence of the risk of poor mental health between 2005 and 2010. A study of prevalence evolution in adult population residents of the Valencian Community in the Spanish Mediterranean was conducted. We studied 5781 subjects in 2005 and 3479 in 2010. Logistic regression models have been adjusted to analyse the association between variables. A standardisation procedure was carried out to evaluate which part of the changes in overall prevalence could be attributed to variations in the population structure by age, sex, employment status, and income between the years under study. The prevalence of GHQ+ increased from 2005 to 2010, in both men and women. Several variables were closely associated with the risk of poor mental health (sex, age, country of birth, number of nonmental chronic diseases, social support, disability, cohabitation in couple, employment status, and income). The changes produced as a result of the onset of the economic crisis in income and unemployment (increase in low income and in unemployment rates) contributed to the increase of poor mental health risk. This could confirm the sensitivity of mental health to the economic deterioration caused by the crisis.",
+    "DOI": "10.3390/ijerph15112517",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). Additionally, the timeframe for inclusion is from 2005 to 2025, but this study focuses on data from 2005 to 2010.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of economic crisis on mental health risk. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

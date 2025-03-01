@@ -1,0 +1,33 @@
+{
+    "ArticleID": 235,
+    "Authors": "Hellstrom, Lone; Bech, Per; Hjorthoj, Carsten; Nordentoft, Merete; Lindschou, Jane; Eplov, Lene Falgaard",
+    "Article Title": "Effect on return to work or education of Individual Placement and Support modified for people with mood and anxiety disorders: results of a randomised clinical trial",
+    "Abstract": "Objectives The effect of Individual Placement and Support (IPS) on return to work or education among people with mood or anxiety disorders is unclear, while IPS increases return to work for people with severe mental illness. We examined the effect of IPS modified for people with mood and anxiety disorders (IPS-MA) on return to work and education compared with services as usual (SAU).Methods In a randomised clinical superiority trial, 326 participants with mood and anxiety disorders were centrally randomised to IPS-MA, consisting of individual mentor support and career counselling (n=162) or SAU (n=164). The primary outcome was competitive employment or education at 24 months, while weeks of competitive employment or education, illness symptoms and level of functioning, and well-being were secondary outcomes.Results After 24 months, 44.4% (72/162) of the participants receiving IPS-MA had returned to work or education compared with 37.8% (62/164) following SAU (OR=1.34, 95% CI: 0.86 to 2.10, p=0.20). We found no difference in mean number of weeks in employment or education (IPS-MA 32.4 weeks vs SAU 26.7 weeks, p=0.14), level of depression (Hamilton Depression 6-Item Scale score IPS-MA 5.7 points vs SAU 5.0 points, p=0.12), level of anxiety (Hamilton Anxiety 6-Item Scale score IPS-MA 5.8 points vs SAU 5.1 points, p=0.17), level of functioning (Global Assessment of Functioning IPS-MA 59.1 points vs SAU 59.5 points, p=0.81) or wellbeing measured by WHO-Five Well-being Index (IPS-MA 49.6 points vs SAU 48.5 points, p=0.83) at 24 months.Conclusion The modified version of IPS, IPS-MA, was not superior to SAU in supporting people with mood or anxiety disorders in return to work at 24 months.",
+    "DOI": "10.1136/oemed-2016-104248",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized clinical trial, which meets the inclusion criteria. The study is conducted within the EU, Europe, US, Canada, or Australia, and the timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment), population (people with mood and anxiety disorders), and outcomes (employment or labor outcomes).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather focuses on return to work or education in general.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for people with mental health disorders, conducted in Europe within the specified timeframe and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 231,
+    "Authors": "Swartz, James A.; Tabahi, Suhad",
+    "Article Title": "Community-Based Mental Health Treatment Preceding Jail Detention Among Adults with Serious Mental Illness",
+    "Abstract": "This study examined the lifetime and past-year community mental health treatment use of 282 male and 149 female jail detainees with SMI. Although most participants reported high lifetime rates of mental health treatment they believed effective, only a minority accessed treatment in the year and month before arrest. Women were less likely to receive treatment than men and more often left treatment against medical advice. Both substance use and post-traumatic stress disorder were significantly undertreated and care was provided predominantly by psychiatrists. The implications for expanding treatment availability and access to critical services such as housing and employment are discussed.",
+    "DOI": "10.1080/14999013.2016.1255283",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions directly related to employment. It focuses on community-based mental health treatment use among jail detainees with serious mental illness.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on jail detainees with serious mental illness and does not specifically address employment outcomes or interventions aimed at employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

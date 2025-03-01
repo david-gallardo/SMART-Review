@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1404,
+    "Authors": "Belackova, Vendula; Silins, Edmund; Salmon, Allison M.; Jauncey, Marianne; Day, Carolyn A.",
+    "Article Title": "Beyond Safer InjectingHealth and Social Needs and Acceptance of Support among Clients of a Supervised Injecting Facility",
+    "Abstract": "Health and social issues in aging populations of people who inject drugs (PWID) tend to aggregate, despite risky injecting practices decreasing with age. Identifying needs and avenues of support is becoming increasingly important. We described the health and social situation among clients of a long-running supervised injecting facility (SIF) in Sydney, Australia. An interviewer-administered survey (n = 182) assessed current housing status, employment, physical and mental health, incarceration history, drug use, engagement in drug treatment, health service utilization, and willingness to accept support. Results were compared to the information provided at initial visit. Up to half of the participants transitioned between lower- and higher-risk health and social indicators over time. Willingness to accept support was greatest amongst those with higher self-perceived need. Support for mental health was a low priority, despite the high self-reporting of mental health issues. SIF clients are open to support for health and social issues, despite ongoing active drug use. Lower-threshold services such as SIFs are well-positioned to recognize and respond to deteriorating health and social issues for PWID. Facilitating care and treatment remains a challenge when the services to which people are being referred are higher-threshold with a more rigid approach.",
+    "DOI": "10.3390/ijerph16112032",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey (n = 182) and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is people who inject drugs (PWID) rather than individuals with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes for people with mental health disorders, but rather on health and social needs of PWID. It also does not include interventions directly addressing employment.",
+            "study_design": "Interviewer-administered survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

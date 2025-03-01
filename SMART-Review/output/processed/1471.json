@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1471,
+    "Authors": "Ruiz-Perez, Isabel; Bermudez-Tamayo, Clara; Rodriguez-Barranco, Miguel",
+    "Article Title": "Socio-economic factors linked with mental health during the recession: a multilevel analysis",
+    "Abstract": "Background: Periods of financial crisis are associated with higher psychological stress among the population and greater use of mental health services. The objective is to analyse contextual factors associated with mental health among the Spanish population during the recession.Methodology: Cross-sectional, descriptive study of two periods: before the recession (2006) and after therecession (2011-2012). The study population comprised individuals aged 16+ years old, polled for the National Health Survey. There were 25,234 subjects (2006) and 20,754 subjects (2012). The dependent variable was psychic morbidity. Independent variables: 1) socio-demographic (age, socio-professional class, level of education, nationality, employment situation, marital status), 2) psycho-social (social support) and 3) financial (GDP per capita, risk of poverty, income per capita per household), public welfare services (health spending per capita), labour market (employment and unemployment rates, percentage of temporary workers). Multilevel logistic regression models with mixed effects were constructed to determine change in psychic morbidity according to the variables studied.Results: The macroeconomic variables associated with worse mental health for both males and females were lower health spending per capita and percentage of temporary workers. Among women, the risk of poor mental health increased 6% for each 100(sic) decrease in healthcare spending per capita. Among men, the risk of poor mental health decreased 8% for each 5-percentage point increase in temporary workers.Conclusions: Higher rates of precarious employment in a region have a negative effect on people's mental health; likewise lower health spending per capita. Policies during periods of recession should focus on support and improved conditions for vulnerable groups such as temporary workers. Healthcare cutbacks should be avoided in order to prevent increased prevalence of poor mental health.",
+    "DOI": "10.1186/s12939-017-0518-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional, descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and descriptive, lacking a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional, descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on socio-economic factors affecting mental health during a recession.",
+            "study_design": "Cross-sectional, descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional descriptive study",
+            "logprobs": null
+        }
+    }
+}

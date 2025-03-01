@@ -1,0 +1,33 @@
+{
+    "ArticleID": 117,
+    "Authors": "Barrech, Amira; Kilian, Reinhold; Rottler, Edit; Jerg-Bretzke, Lucia; Hoelzer, Michael; Rieger, Monika Annemarie; Jarczok, Marc Nicolas; Guendel, Harald; Rothermund, Eva",
+    "Article Title": "Do Working Conditions of Patients in Psychotherapeutic Consultation in the Workplace Differ from Those in Outpatient Care? Results from an Observational Study",
+    "Abstract": "In previous studies, it was found that patients treated at a psychosomatic outpatient clinic (PSOC) for common mental disorders showed more severe symptoms than those who used a psychotherapeutic consultation service at the workplace (PSIW). This study examines whether the higher symptom severity of the PSOC patients in comparison to their PSIW counterparts is also related to higher levels of occupational stress as measured by the demand-control-support model (DCS). N = 253 participants (PSIW n = 100; PSOC n = 153) provided self-reported data on demands, decision latitude, social support, and health before consultation. The association between mental health care setting, symptom level and demands, decision latitude, and social support was assessed by means of a path model. Results of the path model indicated that the higher level of depression in PSOC patients was related to higher levels of demands and lower levels of social support. Demands and social support were found to be indirectly associated with treatment setting. No interaction effect between demands, decision latitude, social support, and depression was found. Results of this study reveal that the working conditions influenced the pathway to care process via symptom severity.",
+    "DOI": "10.3390/ijerph15020227",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a path model, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it includes data from EU countries, Europe, US, Canada, and Australia. The study's timeframe is within the specified range of 2005-2025. The intervention is related to employment, specifically working conditions, and the population has documented mental health problems. The study presents measures of employment outcomes.",
+            "study_design": "path model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it lacks a rigorous evaluation (control group) and does not directly address employment interventions. The study focuses on comparing working conditions in different mental health care settings rather than evaluating specific active employment policies.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the inclusion criteria.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

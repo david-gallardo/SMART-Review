@@ -1,0 +1,33 @@
+{
+    "ArticleID": 667,
+    "Authors": "Aiyegbusi, Olalekan Lee; Hughes, Sarah E.; Turner, Grace; Rivera, Samantha Cruz; McMullan, Christel; Chandan, Joht Singh; Haroon, Shamil; Price, Gary; Davies, Elin Haf; Nirantharakumar, Krishnarajah; Sapey, Elizabeth; Calvert, Melanie J.",
+    "Article Title": "Symptoms, complications and management of long COVID: a review",
+    "Abstract": "Globally, there are now over 160 million confirmed cases of COVID-19 and more than 3 million deaths. While the majority of infected individuals recover, a significant proportion continue to experience symptoms and complications after their acute illness. Patients with 'long COVID' experience a wide range of physical and mental/psychological symptoms. Pooled prevalence data showed the 10 most prevalent reported symptoms were fatigue, shortness of breath, muscle pain, joint pain, headache, cough, chest pain, altered smell, altered taste and diarrhoea. Other common symptoms were cognitive impairment, memory loss, anxiety and sleep disorders. Beyond symptoms and complications, people with long COVID often reported impaired quality of life, mental health and employment issues. These individuals may require multidisciplinary care involving the long-term monitoring of symptoms, to identify potential complications, physical rehabilitation, mental health and social services support. Resilient healthcare systems are needed to ensure efficient and effective responses to future health challenges.",
+    "DOI": "10.1177/01410768211032850",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a review, but it lacks a control group and does not address employment outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the symptoms and complications of long COVID.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the symptoms and management of long COVID, which is not directly related to employment outcomes for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

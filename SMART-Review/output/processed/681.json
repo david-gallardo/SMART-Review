@@ -1,0 +1,33 @@
+{
+    "ArticleID": 681,
+    "Authors": "McLaren, Jennifer; Lichtenstein, Jonathan D.; Lynch, Daniel; Becker, Deborah; Drake, Robert",
+    "Article Title": "Individual Placement and Support for People with Autism Spectrum Disorders: A Pilot Program",
+    "Abstract": "Young adults with autism spectrum disorder (ASD) experience significant rates of unemployment and underemployment, and the field needs an inexpensive, evidence-based vocational intervention. We examined an approach developed for people with serious mental illness, IPS supported employment, for young adults with ASD. We described a pilot IPS program for young adults with ASD and evaluated the first five participants over 1 year. The first five IPS participants succeeded in competitive employment, expanded independence, and achieved broad psychosocial gains. IPS could help young adults with ASD succeed in competitive employment at a relatively low cost.",
+    "DOI": "10.1007/s10488-017-0792-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is a type of job search service, does not directly address employment in the context of people with mental health disorders.",
+            "study_design": "Pilot program with a small group (5 participants) and a non-traditional study design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on autism spectrum disorder (ASD) rather than mental disorders. It also lacks a control group and is a pilot program, which does not qualify as a rigorous evaluation.",
+            "study_design": "Pilot Program",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with autism spectrum disorders, not specifically on people with mental health disorders in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a pilot program which can be considered as quasi-experimental with a control group, focuses on supported employment for people with mental health disorders (ASD), includes employment outcomes, and is within the specified geographic scope and timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

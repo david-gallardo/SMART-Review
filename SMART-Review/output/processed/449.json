@@ -1,0 +1,33 @@
+{
+    "ArticleID": 449,
+    "Authors": "Stengler, K.; Rauschenbach, J.; Riedel-Heller, S. G.; Becker, T.; Steinhart, I.; Gerlinger, G.; Hauth, I.",
+    "Article Title": "DGPPN compass of participation for vocational integration of persons with mental illnesses",
+    "Abstract": "Working and living for persons with mental illnesses are a major concern of rehabilitative psychiatry. In Germany the definition of rehabilitation for persons with mental illnesses is closely linked to different sectors of social welfare and to the strongly organized supply chain of prevention, acute treatment, rehabilitation and care. In successfully supporting people with mental health problems in terms of vocational integration, professionals face various obstacles. Besides finding the correct content, structural and organizational difficulties can also arise. The welfare system with its specific institutions and settings is complicated which often leads to delays in the onset of rehabilitation. Some essential reasons are insufficient knowledge about established options of rehabilitative treatment and about responsibilities related to participation in specialized training and further education for professional caregivers. Also information and (positive) experiences from pilot projects working in an inclusive, cross-sectional way and across different settings are practically unavailable in Germany. The presented compass of participation from the German Association for Psychiatry, Psychotherapy and Psychosomatics (DGPPN) for vocational integration of persons with mental illnesses starts at this point: it provides guidelines for psychiatric and psychotherapeutic practitioners, general practitioners as well as for physicians working in residential or day care institutions with a psychiatric and psychotherapeutic background. Both the paper and planned online versions should help professionals to help people, particularly those with severe mental illnesses to navigate the system of services for vocational integration in Germany.",
+    "DOI": "10.1007/s00115-016-0215-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a guideline document for professionals, not a research study.",
+            "study_design": "Guideline document",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. It is a descriptive paper providing guidelines rather than presenting empirical evidence from controlled trials.",
+            "study_design": "Guidelines/Descriptive Paper",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on interventions like job search services, adult training, wage subsidies, or supported employment. The study's geographic scope is limited to Germany, which is outside the specified EU countries, Europe, US, Canada, or Australia. Additionally, the study does not focus on employment or labor outcomes but rather on vocational integration in general.",
+            "study_design": "Compass of participation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and does not mention any rigorous evaluation or control group. Additionally, the intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

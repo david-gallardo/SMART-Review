@@ -1,0 +1,33 @@
+{
+    "ArticleID": 613,
+    "Authors": "Borgi, Marta; Collacchi, Barbara; Correale, Cinzia; Marcolin, Mario; Tomasin, Paolo; Grizzo, Alberto; Orlich, Roberto; Cirulli, Francesca",
+    "Article Title": "Social farming as an innovative approach to promote mental health, social inclusion and community engagement",
+    "Abstract": "Nature-based contextual factors are being recognized as fundamental for mental health prevention and promotion. Rural areas, indeed, are increasingly recognized as an elective place for the promotion of mental health. In recent years there has been a surge of rurally-based hybrid governance models in which public bodies, local communities and economic actors join forces to create innovative welfare solutions to facilitate the financial (and organizational) challenges faced by the National Health Systems. Using agricultural resources, such as animals and plants, social farming is able to address specific social needs, including rehabilitation, sheltered employment, life-long education and other activities that contribute to social inclusion. At the same time social farming is able to strengthen the economic and social viability of rural communities. We have been studying the factors underlying the potentiality of social farms to provide job placement programs and rehabilitation for people with mental disorders. Using novel methodologies and appropriate tools, we have been collecting data indicating the positive effects of farming activities on individual's social functioning, as well as the impact of farms' networking on system's sustainability.",
+    "DOI": "10.4415/ANN_20_02_10",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned. The intervention is social farming, rehabilitation, sheltered employment, life-long education, and other activities that contribute to social inclusion.",
+            "study_design": "Other",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not provide outcomes related to employment or labor results. The intervention discussed is social farming which, while potentially beneficial for mental health, does not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social farming and its impact on mental health and social inclusion, which does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Not specified in the abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

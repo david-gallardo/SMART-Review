@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1048,
+    "Authors": "Rosander, Michael; Hetland, Jorn; Einarsen, Stale Valvatne",
+    "Article Title": "Workplace bullying and mental health problems in balanced and gender-dominated workplaces",
+    "Abstract": "We investigate risks of exposure to workplace bullying and related mental health outcomes for men and women when being in a gender minority as opposed to working in a gender-balanced working environment or when belonging to a gender majority. Based on a social identity perspective, we tested hypotheses about the risks of bullying and differences in the increase in mental health problems in a probability sample of the Swedish workforce in a prospective design. The results showed an increased risk of bullying and an increase in mental health problems as an outcome for men when in a gender minority, however, there were no corresponding risks for women. The risks for men were most obvious for person-related negative acts and for anxiety as an outcome. Social identity may clarify why a minority might be more at risk as well as the outcome it may lead to. Deviating from the group prototype may be perceived as a threat to the group alienating the target and opening up for sanctions. The observed gender differences may further be understood using social role theory. Men in female-dominated workplaces may deviate more from the expected traditional gender role and may be more susceptible to sanctions and suffer graver consequences as a result. The outcomes may be more severe if exposed to person-related acts compared to acts related to one's work.",
+    "DOI": "10.1080/02678373.2022.2129514",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the risks of workplace bullying and its impact on mental health in gender-dominated workplaces.",
+            "study_design": "Prospective design with a probability sample",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace bullying and mental health outcomes in relation to gender minority status, which does not align with the specified inclusion criteria focusing on employment interventions for people with mental health disorders.",
+            "study_design": "Prospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

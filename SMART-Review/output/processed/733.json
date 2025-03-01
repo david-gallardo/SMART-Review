@@ -1,0 +1,33 @@
+{
+    "ArticleID": 733,
+    "Authors": "Drake, Robert E.; Whitley, Rob",
+    "Article Title": "Recovery and Severe Mental Illness: Description and Analysis",
+    "Abstract": "The notion of recovery has been embraced by key stakeholders across Canada and elsewhere. This has led to a proliferation of definitions, models, and research on recovery, making it vitally important to examine the data to disentangle the evidence from the rhetoric. In this paper, first we ask, what do people living with severe mental illness (SMI) say about recovery in autobiographical accounts? Second, what do they say about recovery in qualitative studies? Third, from what we have uncovered about recovery, can we learn anything from quantitative studies about proportions of people leading lives of recovery? Finally, can we identify interventions and approaches that may be consistent or inconsistent with the grounded notions of recovery unearthed in this paper? We found that people with mental illness frequently state that recovery is a journey, characterized by a growing sense of agency and autonomy, as well as greater participation in normative activities, such as employment, education, and community life. However, the evidence suggests that most people with SMI still live in a manner inconsistent with recovery; for example, their unemployment rate is over 80%, and they are disproportionately vulnerable to homelessness, stigma, and victimization. Research stemming from rehabilitation science suggests that recovery can be enhanced by various evidence-based services, such as supported employment, as well as by clinical approaches, such as shared decision making and peer support. But these are not routinely available. As such, significant systemic changes are necessary to truly create a recovery-oriented mental health system.",
+    "DOI": "10.1177/070674371405900502",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It appears to be a qualitative study with no control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative analysis of autobiographical accounts and qualitative studies; no randomized controlled trials or systematic reviews are reported.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on recovery in the context of severe mental illness (SMI) and does not specifically address employment interventions or outcomes for people with mental health disorders. The study's primary focus is on the concept of recovery and the lived experiences of individuals with SMI, rather than on the effectiveness of specific employment policies or interventions.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design and does not present measures of employment or labor results.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

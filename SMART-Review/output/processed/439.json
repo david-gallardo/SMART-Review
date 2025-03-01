@@ -1,0 +1,33 @@
+{
+    "ArticleID": 439,
+    "Authors": "Marshall, Tina; Goldberg, Richard W.; Braude, Lisa; Dougherty, Richard H.; Daniels, Allen S.; Ghose, Sushmita Shoma; George, Preethy; Delphin-Rittmon, Miriam E.",
+    "Article Title": "Supported Employment: Assessing the Evidence",
+    "Abstract": "Objective: Supported employment is a direct service with multiple components designed to help adults with mental disorders or co-occurring mental and substance use disorders choose, acquire, and maintain competitive employment. This article describes supported employment and assesses the evidence base for this service. Methods: Authors reviewed meta-analyses, research reviews, and individual studies from 1995 through 2012. Databases surveyed were PubMed, PsycINFO, Applied Social Sciences Index and Abstracts, Sociological Abstracts, Social Services Abstracts, Published International Literature on Traumatic Stress, the Educational Resources Information Center, and the Cumulative Index to Nursing and Allied Health Literature. Authors chose from three levels of evidence (high, moderate, and low) based on benchmarks for the number of studies and quality of their methodology. They also described the evidence for service effectiveness. Results: The level of research evidence for supported employment was graded as high, based on 12 systematic reviews and 17 randomized controlled trials of the individual placement and support model. Supported employment consistently demonstrated positive outcomes for individuals with mental disorders, including higher rates of competitive employment, fewer days to the first competitive job, more hours and weeks worked, and higher wages. There was also strong evidence supporting the effectiveness of individual elements of the model. Conclusions: Substantial evidence demonstrates the effectiveness of supported employment. Policy makers should consider including it as a covered service. Future research is needed for subgroups such as young adults, older adults, people with primary substance use disorders, and those from various cultural, racial, and ethnic backgrounds.",
+    "DOI": "10.1176/appi.ps.201300262",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review of controlled trials and individual studies, meeting the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 1995 and 2012, which is within the specified range. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic review of controlled trials and individual studies",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study does not meet the inclusion criteria as it is outside the specified range (2005-2025).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on adults with mental disorders, and discusses employment outcomes.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005.",
+            "study_design": "Systematic review of controlled trials and RCTs",
+            "logprobs": null
+        }
+    }
+}

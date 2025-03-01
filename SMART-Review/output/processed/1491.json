@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1491,
+    "Authors": "Veldman, Karin; Pingel, Ronnie; Hallqvist, Johan; G. Bean, Christopher; Hammarstrom, Anne",
+    "Article Title": "How does social support shape the association between depressive symptoms and labour market participation: a four-way decomposition",
+    "Abstract": "Background Little is known about factors that may explain the association between depressive symptoms and poor labour market participation (LMP). The aim of this study is to examine the mediation and interaction effects of social support on the association between depressive symptoms and LMP. Methods Data were used from 985 participants (91% of the initial cohort) of the Northern Swedish Cohort, a longitudinal study of Swedish participants followed from adolescence throughout adulthood. Depressive symptoms were measured at age 16, social support at age 21 and LMP from age 30 to 43. Poor LMP was defined as being unemployed for a total of 6 months or more between the ages of 30 and 43. A four-way decomposition approach was applied to identify direct, mediation and interaction effects, together and separately. Results Both depressive symptoms during adolescence and social support at young adulthood were associated with poor LMP [odds ratio (OR) = 1.70, 95% confidence interval (CI) 1.17-2.47 and OR = 2.56, 95% CI 1.78-3.68 respectively]. The association between depressive symptoms and poor LMP was partially mediated by a lack of social support. No interaction effect of a lack of social support was found. Conclusion The results suggest that depressive symptoms influence not only later LMP but also the intermediary level of social support, and in turn influencing later LMP. Recommendations for public health are to detect and treat depressive symptoms at an early stage and to focus on the development of social skills, facilitating the increased availability of social support, thereby improving future LMP.",
+    "DOI": "10.1093/eurpub/ckab185",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on the mediation effects of social support on the association between depressive symptoms and labor market participation.",
+            "study_design": "Cross-sectional analysis using a longitudinal dataset",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on data from the Northern Swedish Cohort, which is within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005 and 2025. The intervention is job search services, adult training, wage subsidies, supported employment, and social support, which meets the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, and the study presents measures of employment or labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment, but rather on the association between depressive symptoms and LMP mediated by social support.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study with a four-way decomposition approach",
+            "logprobs": null
+        }
+    }
+}

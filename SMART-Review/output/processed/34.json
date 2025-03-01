@@ -1,0 +1,33 @@
+{
+    "ArticleID": 34,
+    "Authors": "Bergstrom, G.; Lohela-Karlsson, M.; Kwak, L.; Bodin, L.; Jensen, I.; Torgen, M.; Nybergh, L.",
+    "Article Title": "Preventing sickness absenteeism among employees with common mental disorders or stress-related symptoms at work: Design of a cluster randomized controlled trial of a problem-solving based intervention versus care-as-usual conducted at the Occupational Health Services",
+    "Abstract": "Background: Common mental disorders (CMDs) are among the leading causes of sick leave in Sweden and other OECD countries. They result in suffering for the individual and considerable financial costs for the employer and for society at large. The occupational health service (OHS) can offer interventions in which both the individual and the work situation are taken into account. The aim of this paper is to describe the design of a study evaluating the effectiveness of an intervention given at the OHS to employees with CMDs or stress-related symptoms at work. In addition, intervention fidelity and its relation to the outcome will be assessed in a process analysis.Methods: The study is designed as a cluster randomized trial in which the participating OHS consultants are randomized into either delivering the intervention or performing care as usual. Employees with CMDs or stress-related symptoms at work are recruited consecutively by the OHS consultants. The intervention aims to improve the match between the employee and the job situation. Interviews are held individually with the employee and the nearest supervisor, after which a joint meeting with both the employee and the supervisor takes place. A participatory approach is applied by which the supervisor and the employee are guided by the OHS consultant and encouraged to actively take part in problem solving concerning the work situation. Outcomes will be assessed at baseline and at six and 12 months. A long-term follow-up at 3 years will also be performed. The primary outcome is registered sickness absence during a 1-year period after study inclusion. Secondary outcomes are mental health and work ability. The intervention's cost effectiveness, compared to treatment as usual, both for society and for the employer will be evaluated. A process evaluation by both the OHS consultants and the employee will be carried out.Discussion: The study includes analyses of the effectiveness of the intervention (clinical and economic) as well as an analysis of its implementation at the participating OHSs. Possible methodological challenges such as selection bias and risk of contamination between OHS consultants delivering the experimental condition and consultants giving usual care are discussed.",
+    "DOI": "10.1186/s12889-017-4329-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized controlled trial, which meets the inclusion criteria. The study is conducted in Sweden, which is within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005 and 2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster randomized controlled trial (RCT), which meets the inclusion criteria. However, the primary outcome focuses on sickness absence rather than employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in Sweden (EU country), within the specified timeframe, targeting people with mental health disorders, and includes employment outcomes such as sickness absence.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

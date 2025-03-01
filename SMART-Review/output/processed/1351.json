@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1351,
+    "Authors": "Smith, Matthew J.; Ginger, Emily J.; Wright, Katherine; Wright, Michael A.; Taylor, Julie Lounds; Humm, Laura Boteler; Olsen, Dale E.; Bell, Morris D.; Fleming, Michael F.",
+    "Article Title": "Virtual Reality Job Interview Training in Adults with Autism Spectrum Disorder",
+    "Abstract": "The feasibility and efficacy of virtual reality job interview training (VR-JIT) was assessed in a single-blinded randomized controlled trial. Adults with autism spectrum disorder were randomized to VR-JIT (n = 16) or treatment-as-usual (TAU) (n = 10) groups. VR-JIT consisted of simulated job interviews with a virtual character and didactic training. Participants attended 90 % of laboratory-based training sessions, found VR-JIT easy to use and enjoyable, and they felt prepared for future interviews. VR-JIT participants had greater improvement during live standardized job interview role-play performances than TAU participants (p = 0.046). A similar pattern was observed for self-reported self-confidence at a trend level (p = 0.060). VR-JIT simulation performance scores increased over time (R (2) = 0.83). Results indicate preliminary support for the feasibility and efficacy of VR-JIT, which can be administered using computer software or via the internet.",
+    "DOI": "10.1007/s10803-014-2113-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on adults with autism spectrum disorder rather than mental disorders. It also lacks a control group that directly addresses employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with autism spectrum disorder, not specifically on people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in a relevant geographic scope (though not explicitly stated, it can be inferred from the context), within the specified timeframe, and focuses on job search services for people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

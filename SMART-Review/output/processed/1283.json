@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1283,
+    "Authors": "Tophoven, Silke; Reims, Nancy; Tisch, Anita",
+    "Article Title": "Vocational Rehabilitation of Young Adults with Psychological Disabilities",
+    "Abstract": "Objective Vocational rehabilitation measures support youth and young adults with disabilities to obtain vocational training and to enter the labor market. In Germany, a growing number of young people with psychological disabilities in vocational rehabilitation can be observed. The study at hand focuses on this group and examines their (un-)unemployment biographies before vocational rehabilitation, their access to vocational rehabilitation and identifies their individual challenges within the process of vocational rehabilitation. Methods Using a multi-methods approach, we analyze representative administrative data of the German Federal Employment Agency as well as biographical interviews conducted with young rehabilitants. We compare the population of young rehabilitants with psychological disorders to those with other disabilities in terms of vocational rehabilitation and initial labor market entry in order to get a representative picture about their school to work transitions. Since rehabilitants with psychological disabilities tend to be older than the remaining population, analyses are stratified by age groups. In addition, qualitative in-depth interviews provide an additional and deeper understanding of specific employment barriers youth with psychological disorders have to overcome. Furthermore, the individual perspective gives insight on how the crucial transition from school to work is perceived by the population under study. Results The pathway into vocational rehabilitation of youth with psychological disorders is often characterized by obstacles in their transition from school to work. During rehabilitation, it appears essential to provide psychological stabilization along with vocational training. Although their average level of education is higher than those of other rehabilitants, labor market transition after (often company-external) vocational training challenges many young people with psychological disabilities, leaving many of them with comparatively poor labor market prospects. Conclusions Young persons with psychological disabilities, who come from regular schools or dropped out from regular school or university, seem to find their way to vocational rehabilitation more indirectly. Furthermore, vocational rehabilitation itself is often prolonged for those with psychological disabilities possibly due to a corresponding stabilization process. However, vocational rehabilitation can be a core element within the stabilization process of a psychological disease.",
+    "DOI": "10.1007/s10926-018-9773-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is vocational rehabilitation, the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks rigorous evaluation and control group. It focuses on identifying challenges within vocational rehabilitation processes rather than evaluating specific interventions that lead to employment outcomes.",
+            "study_design": "Qualitative analysis with biographical interviews and administrative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational rehabilitation for young adults with psychological disabilities in Germany, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's population does not explicitly include people with mental health disorders as defined by the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an EU country, Europe, US, Canada, or Australia.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

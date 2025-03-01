@@ -1,0 +1,33 @@
+{
+    "ArticleID": 446,
+    "Authors": "Riedel-Heller, Steffi G.; Guehne, Uta",
+    "Article Title": "Work Life Participation of Mentally Ill Individuals - Implications for Research and Best Practice",
+    "Abstract": "Participation in working life improves the health outcome of mentally ill individuals. The paper reviews the current situation of mentally ill individuals and barriers to enter the open labour market. Barriers are discussed and the contribution of mental health professionals is outlined. Implications for research and best practice are considered.",
+    "DOI": "10.1055/s-0035-1559668",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key criterion for inclusion.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation or a control group. It is a review focusing on barriers and implications rather than presenting employment outcomes through controlled studies.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 996,
+    "Authors": "Baldwin, Susanna; Costley, Debra",
+    "Article Title": "The experiences and needs of female adults with high-functioning autism spectrum disorder",
+    "Abstract": "There is limited large-scale research into the lived experiences of female adults who have an autism spectrum disorder with no co-occurring intellectual disability. Drawing on the findings of an Australia-wide survey, this report presents self-report data from n=82 women with high-functioning autism spectrum disorder in the areas of health, education, employment, social and community activities. Where relevant, comparisons are provided with the male subset of the same study population; however, in the majority of analyses, no discernible gender differences emerged. The findings highlight the diverse and complex challenges faced by women with high-functioning autism spectrum disorder, including high levels of mental health disorder, unmet support needs in education settings and the workplace, and social exclusion and isolation.",
+    "DOI": "10.1177/1362361315590805",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the experiences and needs of female adults with high-functioning autism spectrum disorder, which does not meet the inclusion criteria for population.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies. It focuses on the lived experiences of female adults with high-functioning autism spectrum disorder.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

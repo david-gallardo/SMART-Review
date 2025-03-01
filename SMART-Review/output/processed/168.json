@@ -1,0 +1,33 @@
+{
+    "ArticleID": 168,
+    "Authors": "Cepeda, Javier A.; Niccolai, Linda M.; Lyubimova, Alexandra; Kershaw, Trace; Levina, Olga; Heimer, Robert",
+    "Article Title": "High-risk behaviors after release from incarceration among people who inject drugs in St. Petersburg, Russia",
+    "Abstract": "Background: Injection drug use, infectious disease, and incarceration are inextricably linked in Russia. We aimed to identify factors associated with time to relapse (first opioid injection after release from prison) and using a non-sterile, previously used syringe at relapse in a sample of people who inject drugs in St. Petersburg.Methods: We collected data on time from release to relapse among individuals with a history of incarceration, a subsample of a larger study among people who inject drugs. Proportional hazards and logistic regression were used to identify factors associated with time to relapse and injection with a non-sterile previously used syringe at relapse, respectively.Results: The median time to relapse after release was 30 days. Factors that were independently associated with relapsing sooner were being a native of St. Petersburg compared to not being native (AHR: 1.64; 95% CI 1.15-2.33), unemployed at relapse compared to employed (AHR: 4.49; 95% CI 2.96-6.82) and receiving a previous diagnosis of HBV and HCV compared to no previous diagnosis (AHR: 1.49; 95% CI 1.03-2.14). Unemployment at relapse was also significant in modeling injection with a non-sterile, previously used syringe at relapse compared to those who were employed (AOR: 6.80; 95% CI 1.96-23.59).Conclusions: Unemployment was an important correlate for both resuming opioid injection after release and using a non-sterile previously used syringe at relapse. Linkage to medical, harm reduction, and employment services should be developed for incarcerated Russian people who inject drugs prior to release. (C) 2014 Elsevier Ireland Ltd. All rights reserved.",
+    "DOI": "10.1016/j.drugalcdep.2014.11.021",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on people who inject drugs in St. Petersburg, Russia, which is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia). Additionally, the intervention and population do not align with those specified for this review.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, or wage subsidies.",
+            "study_design": "Proportional hazards and logistic regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and the population is not defined as having mental health problems.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

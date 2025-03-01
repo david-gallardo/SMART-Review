@@ -1,0 +1,33 @@
+{
+    "ArticleID": 959,
+    "Authors": "Liu, Chang-E; Hu, Chenhong; Xie, Wei; Liu, Tingting; He, Wei",
+    "Article Title": "The Moderated-Mediation Effect of Workplace Anxiety and Regulatory Focus in the Relationship between Work-Related Identity Discrepancy and Employee Innovation",
+    "Abstract": "Extant research on work-related identity discrepancy mostly has probed its effects on employees' attitudes and emotions but has paid little attention to its impact on employee behaviors. Drawing on self-discrepancy theory, we examined the influencing mechanism and conditions of work-related identity discrepancy on employee innovation behavior. With data collected from 563 employees who personally experienced leadership transition in the workplace, we found that work-related identity discrepancy predicts employee innovation behavior through workplace anxiety. We also discovered that employees' personality traits-promotion regulatory focus and prevention regulatory focus in particular-can intensify or buffer the negative relationship between work-related identity discrepancy and employee innovation behavior. We further discuss the conceptual and practical implications of these findings.",
+    "DOI": "10.3390/ijerph17176121",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It focuses on employee innovation behavior and its relationship with work-related identity discrepancy, workplace anxiety, and regulatory focus.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1073,
+    "Authors": "Copeland, William E.; Wolke, Dieter; Shanahan, Lilly; Costello, Jane",
+    "Article Title": "Adult Functional Outcomes of Common Childhood Psychiatric Problems A Prospective, Longitudinal Study",
+    "Abstract": "IMPORTANCE Psychiatric problems are among the most common health problems of childhood.OBJECTIVE To test whether these health problems adversely affect adult functioning even if the problems themselves do not persist.DESIGN, SETTING, AND PARTICIPANTS Prospective, population-based study of 1420 participants from 11 predominantly rural counties of North Carolina who were assessed with structured interviews up to 6 times during childhood (9-16 years of age, for a total 6674 observations) for common psychiatric diagnoses and subthreshold psychiatric problems. The period for this study was from 1993 to 2010.MAIN OUTCOMES AND MEASURES A total of 1273 participantswere assessed 3 times during young adulthood (19, 21, and 24-26 years of age, for a total of 3215 observations) for adverse outcomes related to health, the legal system, personal finances, and social functioning.RESULTS Participants with a childhood disorder had 6 times higher odds (odds ratio [OR], 5.9 [95% CI, 3.6-9.7]) of at least 1 adverse adult outcome (ie, indicator) compared with those with no history of psychiatric problems and 9 times higher odds (OR, 8.7 [95% CI, 4.3-17.8]) of 2 or more such indicators (1 indicator: 59.5% vs 19.9% [P < .001]; >= 2 indicators: 34.2% vs 5.6% [P < .001]). These associations persisted after statistically controlling for childhood psychosocial hardships and adult psychiatric problems. Risk was not limited to those who received a diagnosis; participants with subthreshold psychiatric problems had 3 times higher odds (OR, 2.9 [95% CI, 1.8-4.8]) of adult adverse outcomes and 5 times higher odds (OR, 5.1 [95% CI, 2.4-10.7]) of 2 or more outcomes (1 indicator: 41.9% vs 19.9% [P < .001]; >= 2 indicators: 23.2% vs 5.6%[P < .001]). The best diagnostic predictor of adverse outcomes was cumulative childhood exposure to psychiatric disorders.CONCLUSIONS AND RELEVANCE Common, typically moderately impairing, childhood psychiatric problems are associated with a disrupted transition to adulthood even if the problems do not persist into adulthood and even if the problems are subthreshold. Such problems provide a potential target for public health efforts to ameliorate adult suffering and morbidity.",
+    "DOI": "10.1001/jamapsychiatry.2015.0730",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on adult functioning and adverse outcomes related to health, the legal system, personal finances, and social functioning.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the long-term outcomes of childhood psychiatric problems on adult functioning.",
+            "study_design": "Prospective, population-based study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

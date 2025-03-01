@@ -1,0 +1,33 @@
+{
+    "ArticleID": 338,
+    "Authors": "Stengler, K.; Riedel-Heller, S. G.; Becker, T.",
+    "Article Title": "Work rehabilitation in people with severe mental illnesses",
+    "Abstract": "Work and employment are basic human rights. Work therapy has a long-standing tradition in mental health care. Integrating people with severe mental illness into jobs has always been considered indispensable. Germany has a good legal framework for work rehabilitation and there is solid evidence of effectiveness for a range of interventions. International models of work integration have not been implemented to a sufficient degree and this may be one of the reasons for limited success in work rehabilitation for people with mental illnesses. The need for work rehabilitation measures and the available evidence are outlined. Social legislation, conceptual and organizational aspects of rehabilitation are described. International comparisons suggest that the care system will have to integrate prevention, curative treatment, rehabilitation and long-term care in a better way.",
+    "DOI": "10.1007/s00115-013-3846-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is an overview of work rehabilitation for people with severe mental illnesses and does not meet the inclusion criteria as it lacks rigorous evaluation methods (RCTs, systematic reviews, etc.), a control group, or specific employment outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design and does not mention any controlled trials, RCTs, or quasi-experimental studies. Additionally, it discusses social legislation and conceptual aspects rather than specific interventions like job search services or supported employment.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 128,
+    "Authors": "Devine, Alexandra; Shields, Marissa; Dimov, Stefanie; Dickinson, Helen; Vaughan, Cathy; Bentley, Rebecca; LaMontagne, Anthony D.; Kavanagh, Anne",
+    "Article Title": "Australia's Disability Employment Services Program: Participant Perspectives on Factors Influencing Access to Work",
+    "Abstract": "Disability employment programs play a key role in supporting people with disability to overcome barriers to finding and maintaining work. Despite significant investment, ongoing reforms to Australia's Disability Employment Services (DES) are yet to lead to improved outcomes. This paper presents findings from the Improving Disability Employment Study (IDES): a two-wave survey of 197 DES participants that aims to understand their perspectives on factors that influence access to paid work. Analysis of employment status by type of barrier indicates many respondents experience multiple barriers across vocational (lack of qualifications), non-vocational (inaccessible transport) and structural (limited availability of jobs, insufficient resourcing) domains. The odds of gaining work decreased as the number of barriers across all domains increased with each unit of barrier reported (OR 1.22, 95% CI 1.07, 1.38). Unemployed respondents wanted more support from employment programs to navigate the welfare system and suggest suitable work, whereas employed respondents wanted support to maintain work, indicating the need to better tailor service provision according to the needs of job-seekers. Combined with our findings from the participant perspective, improving understanding of these relationships through in-depth analysis and reporting of DES program data would provide better evidence to support current DES reform and improve models of service delivery.",
+    "DOI": "10.3390/ijerph182111485",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU country of Australia, within the specified timeframe. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the population criterion. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a survey-based analysis without randomized controlled trials or quasi-experimental designs.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which are required inclusion criteria. The study is also not focused on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 523,
+    "Authors": "Nicaise, Pablo; Garin, Helene; Smith, Pierre; de Lantremange, Sebastien D'Oreye; Leleux, Laurent; Wyngaerden, Francois; Lorant, Vincent",
+    "Article Title": "Implementation of a computer-assisted face-to-face intervention for mapping the social support networks of patients with severe mental illness in routine clinical practice: Analysis of the appropriateness and acceptability of the intervention",
+    "Abstract": "Background: Social support is a key dimension of personal recovery for patients with severe mental disorders. Although clinicians and health professionals should monitor the social support resources of patients in order to provide effective treatment, no specific tool or intervention exist for that purpose. Egonet is a computer-assisted intervention for health and social services that enables the mapping, assessment and fostering of patients' social support networks. Aims: This paper describes the intervention and evaluates the appropriateness and acceptability of its implementation in a clinical setting. Method: We described the computer-assisted intervention. We used a questionnaire to assess how appropriate and acceptable clinicians found a preliminary version to be. We also collected patients' level of satisfaction with their social support networks before and after the intervention and carried out qualitative interviews. Results: Egonet is made up of four components: (1) a computer-assisted interview for mapping social networks, (2) a remote data server, (3) a data-mining module and (4) a customisable reporting tool. Egonet was implemented for 232 patients by 91 clinicians from five services. The intervention was perceived by clinicians as appropriate and useful for clinical practice, although it was noted that considerable effort was required to obtain its benefits. Patients were slightly more satisfied with their social support after the intervention than before, and expressed the opinion that more attention should be paid to the social support network. Conclusions: EGONET is appropriate and acceptable for use in work related to the social support networks of patients with psychiatric disorders.",
+    "DOI": "10.1177/00207640211058977",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive study with a questionnaire to assess clinicians' perception of the intervention, and does not include a control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on mapping social support networks for patients with severe mental illness. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Qualitative evaluation of a computer-assisted intervention",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on social support networks rather than employment outcomes for people with mental health disorders.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

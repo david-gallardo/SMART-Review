@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1410,
+    "Authors": "Choi, Namkee G.; Marti, Nathan; Choi, Bryan Y.",
+    "Article Title": "Job loss, financial strain, and housing problems as suicide precipitants: Associations with other life stressors",
+    "Abstract": "Previous research has shown that job loss, financial strain, and/or loss of housing (JFH) in midlife elevate suicide risk. In this study based on the 2017-2019 National Violent Death Reporting System, we examined other suicide precipitants and contributors of decedents whose suicide was in part precipitated by JFH and the circumstances under which they died. First, we examined all adult decedents (N = 94,454; 74,042 males [78.4%] and 20,412 females [21.6%]) and then focused on decedents age 45-64 (N = 34,208; 25,640 males [75%] and 8568 females [25.0%]). The 45-64 age group had the highest rate of JFH (22.0% for males and 15.1% for females) as a suicide precipitant. The results of generalized linear models for all adult suicide decedents of both sexes showed that the 45-64 age group (IRR = 2.02, 95% CI = 1.89-2.16), compared to 65+ age group, and relationship problems, mental disorders, and alcohol problems were associated with significantly higher risk of JFH-precipitated sui-cide. In male decedents age 45-64, JFH was positively associated with depressed mood (IRR = 1.95, 95% CI = 1.85-2.06), alcohol problems (IRR = 1.14, 95% CI = 1.07-1.21), and number of crises (IRR = 1.48, 95% CI = 1.43-1.53). In female decedents age 45-64, JFH was positively associated with relationship problems (IRR = 1.19, 95% CI = 1.05-1.35), legal problems (IRR = 1.27, 95% CI = 1.06-1.54), depressed mood (IRR = 1.78, 95% CI = 1.59-1.99), and number of crises (IRR = 1.58, 95% CI = 1.48-1.68). In both sexes, the risk of JFH was also positively associated with a college education. In female decedents, JFH risk was higher among divorced or never-married individuals. Coroner/medical examiner and law enforcement agency reports show that some experienced depression and started misusing alcohol and/or other substances following a job loss, but others had these problems throughout life, which caused/contributed to JFH. These findings show the significance of suicide prevention approaches at both systemic (generous unemployment insurance, housing subsidies) and individual (treatment of depression and alcohol/substance misuse problems and social support/connection) levels.",
+    "DOI": "10.1016/j.ssmph.2022.101243",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention, but rather examines the associations between job loss, financial strain, and housing problems as suicide precipitants.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to employment policies for people with mental health disorders. It focuses on the associations between job loss, financial strain, and housing problems as suicide precipitants.",
+            "study_design": "Cross-sectional analysis using data from the National Violent Death Reporting System (2017-2019)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

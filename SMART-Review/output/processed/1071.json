@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1071,
+    "Authors": "Nicholson, Joanne; Carpenter-Song, Elizabeth A.; MacPherson, Lynn H.; Tauscher, Justin S.; Burns, T. Chris; Lord, Sarah E.",
+    "Article Title": "Developing the WorkingWell Mobile App to Promote Job Tenure for Individuals With Serious Mental Illnesses",
+    "Abstract": "Objective: Individuals living with serious mental illnesses are key stakeholders in user experience design and the development of the WorkingWell mobile app to enhance on-the-job follow-along support. In this study, Individual Placement and Support (IPS) consumers identify challenges in sustaining employment, provide data regarding their use of technology, and suggest technology-based solutions for coping on the job to inform app development. Method: Focus groups were conducted in 3 agencies providing IPS services to examine consumers' perspectives on supported employment, work, and their preferences for technology-based supports. Qualitative data were coded thematically in a multistep, collaborate approach to ensure trustworthiness. Survey data were collected to describe participants and their current technology use; these data were analyzed descriptively. Results: A total of 25 IPS consumers reported work challenges related to interpersonal relationships and social situations; job characteristics, tasks, and expectations; illness-and treatment-related issues; lifestyle/wellness and conditions apart from work; and motivation. The majority owned mobile phones, felt comfortable using technology, and could see how technology-based tools could help sustain employment. Participants highlighted the potential benefits of technology-based supports for work challenges, and underscored the potential for independence and empowerment as a consequence. Conclusions and Implications for Practice: Study findings suggest the value of a WorkingWell mobile app that is innovative, easy to access, self-directed, and individually tailored to enhance IPS follow-along support. The WorkingWell app, if proven effective, will provide an empowering set of tools designed with input from individuals with serious mental illnesses, and integrated into a single, accessible interface.",
+    "DOI": "10.1037/prj0000201",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (focus groups and thematic coding), which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not include a control group. It focuses on the development of a mobile app rather than directly addressing employment outcomes through interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (focus groups and surveys) without a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

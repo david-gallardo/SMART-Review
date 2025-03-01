@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1079,
+    "Authors": "Mueser, Kim T.; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Recent advances in supported employment for people with serious mental illness",
+    "Abstract": "Purpose of reviewSupported employment is a vocational rehabilitation approach that eschews prevocational training in favor of rapid job search for competitive work and follow-along supports to sustain employment, with the individual placement and support (IPS) model being the most standardized and researched model. This review covers recent research on the IPS model of supported employment.Recent findingsThe evidence base for IPS-supported employment continues to grow, with seven new randomized controlled trials published, most conducted abroad, resulting in a total of 23 controlled studies showing that IPS is effective at improving work outcomes. Several reviews have concluded that competitive work improves quality of life in persons with serious mental illness, and some research has suggested that employment may confer clinical benefits. Encouraging research has been published on modifications of the IPS model (such as inclusion of supported education), augmentations (such as cognitive remediation) and adaptations for underserved populations (such as persons with criminal justice involvement). Recent studies have also described the effective strategies for implementing and sustaining IPS; others have reported its cost-effectiveness.Research continues to accumulate on the effectiveness of IPS-supported employment, adaptations of the model and overcoming programme and policy barriers to its widespread implementation.",
+    "DOI": "10.1097/YCO.0000000000000247",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study covers recent research on the IPS model of supported employment, and the evidence base continues to grow.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review article (purpose of review) rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Purpose of Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review that meets the inclusion criteria for study design, intervention, population, and outcomes. It focuses on supported employment, which is one of the interventions of interest. The study is also within the specified timeframe and includes EU countries, which are part of the geographic scope.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials (RCTs) focusing on supported employment for people with serious mental illness, conducted in various countries including those within the specified geographic scope. It includes relevant outcomes such as work outcomes and job quality.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

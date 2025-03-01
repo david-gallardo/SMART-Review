@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1512,
+    "Authors": "Gilan, Donya; Rothke, Nikolaus; Blessin, Manpreet; Kunzler, Angela; Stoffers-Winterling, Jutta; Mussig, Markus; Yuen, Kenneth S. L.; Tuscher, Oliver; Thrul, Johannes; Kreuter, Frauke; Sprengholz, Philipp; Betsch, Cornelia; Stieglitz, Rolf Dieter; Lieb, Klaus",
+    "Article Title": "Psychomorbidity, Resilience, and Exacerbating and Protective Factors During the SARS-CoV-2 Pandemic",
+    "Abstract": "Background: The SARS-CoV-2 pandemic has caused mental stress in a number of ways: overstrain of the health care system, lockdown of the economy, restricted opportunities for interpersonal contact and excursions outside the home and workplace. and quarantine measures where necessary. In this article. we provide an overview of psychological distress in the current pandemic, identifying protective factors and risk factors.Methods: The PubMed, PsycINFO, and Web of Science databases were systematically searched for relevant publications (1 January 2019 -16 April 2020). This study was registered in OSF Registries (osf.io/34j8g). Data on mental stress and resilience in Germany were obtained from three surveys carried out on more than 1000 participants each in the framework of the COSMO study (24 March, 31 March, and 21 April 2020).Results: 18 studies from China and India, with a total of 79 664 participants, revealed increased stress in the general population, with manifestations of depression and anxiety, post-traumatic stress. and sleep disturbances. Stress was more marked among persons working in the health care sector. Risk factors for stress included patient contact, female sex, impaired health status, worry about family members and significant others, and poor sleep quality. Protective factors included being informed about the increasing number of persons who have recovered from COVID, social support. and a lower perceived infectious risk. The COSMO study, though based on an insufficiently representative population sample because of a low questionnaire return rate (<20%), revealed increased rates of despondency, loneliness, and hopelessness in the German population as compared to norm data, with no change in estimated resilience.Conclusion: Stress factors associated with the current pandemic probably increase stress by causing anxiety and depression. Once the protective factors and risk factors have been identified, these can be used to develop psychosocial interventions. The informativeness of the results reported here is limited by the wide variety of instruments used to acquire data and by the insufficiently representative nature of the population samples.",
+    "DOI": "10.3238/arztebl.2020.0625",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a cross-sectional study with a survey design.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on psychological distress and resilience during the SARS-CoV-2 pandemic.",
+            "study_design": "Cross-sectional surveys, systematic review of literature (up to April 2020)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological distress and resilience during the COVID-19 pandemic, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

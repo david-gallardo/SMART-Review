@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1215,
+    "Authors": "Cook, Judith A.; Steigman, Pamela J.; Burke-Miller, Jane K.; Pashka, Nicole; Ruiz, Anabel; Egli, Drew; Cortez, Claudia; Prestipino, John; Brown, Adrienne; Furlong, Mark; Razzano, Lisa A.",
+    "Article Title": "Impact of Individual Budgets on Work and Financial Well-Being of Supported Employment Recipients With Serious Mental Illness",
+    "Abstract": "Objective: The authors sought to determine whether providing recipients of supported employment with individual budgets from which they could purchase employment- related goods and services would improve employment and financial outcomes. Methods: Sixty study participants were recruited from an individual placement and support (IPS) program and randomly assigned (1:1) to receive IPS services only (N=32) or IPS services with a 12-month $950 flexible fund called a career account (N=28). Participants receiving IPS and a career account met with staff who helped them identify employment goals and create a budget for purchases directly tied to these goals. The primary outcome was competitive employment; secondary outcomes included job tenure, days worked, total earnings, and financial wellbeing. Outcomes were analyzed by using adjusted generalized linear models (GLMs) with binary logistic, negative binomial, and linear distributions. Results: The proportion of participants who achieved competitive employment was largely similar for those in the career account+IPS group (54%) and in the IPS-only group (47%). However, the GLM analysis revealed that career account+IPS participants had significantly longer job tenure, more total days of employment, and higher total earnings than IPS-only participants. Feelings of financial well-being increased significantly among career account participants, whereas financial well-being declined among control participants. The amount of career account dollars participants spent was positively and significantly associated with longer job tenure, more days employed, and higher total earnings. Conclusions: Combining flexible funds with IPS-supported employment achieved some superior outcomes compared with IPS only. Further research is needed to assess the longer- term effects of this practice and its cost-effectiveness.",
+    "DOI": "10.1176/appi.ps.20230597",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention (individual budgets/career account) does not directly address job search services, adult training, wage subsidies, or supported employment. The study focuses on a flexible fund within an existing supported employment program.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focuses on adult training as an intervention, and is conducted in the US. It also includes people with mental health problems and measures employment outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe, focuses on supported employment for people with serious mental illness, and includes employment outcomes such as job tenure and total earnings.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

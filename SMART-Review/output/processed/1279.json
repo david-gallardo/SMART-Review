@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1279,
+    "Authors": "Kordsmeyer, Ann-Christin; Lengen, Julia Christine; Kiepe, Niklas; Harth, Volker; Mache, Stefanie",
+    "Article Title": "Working Conditions in Social Firms and Health Promotion Interventions in Relation to Employees' Health and Work-Related Outcomes-A Scoping Review",
+    "Abstract": "Background: Social firms-a type of social enterprise-offer people with severe disabilities the possibility of employment and integration into the labor market. Since 01 January 2018, social firms in Germany are obligated to provide health promotion interventions for their employees. Therefore, the study aims to provide an overview of the current state of research on working conditions, coping strategies, work- and health-related outcomes, and health promotion interventions in social firms to derive recommendations for action. Methods: The databases PubMed, MEDLINE, PsycINFO, PSYNDEX, CINAHL, and Web of Science were searched. The study selection was based on predefined inclusion and exclusion criteria in the time period between 2000 and 2019. The quality of the studies was critically appraised in a standardized way using the Mixed-Methods Appraisal Tool. Results: A total of 25 studies were included. The current state of research indicated that employees with disabilities were provided with several environmental resources like social support, flexibility, structured work tasks or options for training. A mix of environmental and personal resources impacted several work- and health-related outcomes like well-being, job satisfaction, productivity, work engagement, the motivation to work, or job tenure. Conclusions: There is a need for further (longitudinal) research concerning the work and health situation of employees working in social firms and the development of health promotion interventions.",
+    "DOI": "10.3390/ijerph17113963",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is within the specified timeframe (2000-2019), and it focuses on people with mental health disorders (employees with disabilities) and employment outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not directly address employment policies for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on social firms, which are not explicitly mentioned in the inclusion criteria. Additionally, the study'senvironmental resources' and 'personal resources' are not clearly defined interventions, and the study does not focus on employment outcomes but rather on well-being and job satisfaction.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific active employment policies such as job search services, adult training, wage subsidies, or supported employment. Additionally, the timeframe of the study (2000-2019) partially falls outside the specified inclusion criteria (2005-2025).",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

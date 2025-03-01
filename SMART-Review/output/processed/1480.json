@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1480,
+    "Authors": "Rafla-Yuan, Eric; Handunge, Veronica L.; White, Jordan J.; Castillo, Enrico G.",
+    "Article Title": "Housing, Homelessness and Mental Health",
+    "Abstract": "Homelessness is one of the most significant humanitarian, policy, and public health issues in the United States. People experiencing homelessness are at a heightened risk of various health issues, including severe mental illness, and face a life expectancy up to 30 years shorter than those with stable housing. The US Department of Housing and Urban Development (HUD) defines homelessness as lack of a fixed, regular, and adequate nighttime residence and reports that there has been a steady rise in the number of individuals with mental illness lacking stable housing, far outpacing the capacity of available services. Despite the importance of housing for mental health, psychiatrists are often ill-equipped to intervene on this key social determinant of health. This article reviews underlying factors contributing to homelessness for individuals with mental illness, details clinical ramifications of homelessness, and outlines evidence based interventions for supporting people experiencing homelessness and psychiatric illness.",
+    "DOI": "10.3928/00485713-20240618-02",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on homelessness and housing issues.",
+            "study_design": "Review of underlying factors contributing to homelessness",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homelessness and mental health, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

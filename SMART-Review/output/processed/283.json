@@ -1,0 +1,33 @@
+{
+    "ArticleID": 283,
+    "Authors": "Reissner, V.; Scherbaum, N.; Wiltfang, J.; Kis, B.; Meiler, B.; Lieb, B.; Mikoteit, T.; Ehren, G.; Hebebrand, J.",
+    "Article Title": "Psychiatric interventions for the unemployed",
+    "Abstract": "Unemployment is related to a higher risk for psychological distress and mental disorders, which cause individual suffering and socioeconomic costs for society in general. This selective review surveys the relationship between unemployment and psychological well-being and mental disorders. The most important programs for the improvement of the mental health of the unemployed are summarized:1. Interventions for the unemployed with the aim of improving coping strategies reduce the risk of developing depressive symptoms.2. The SUPPORT liaison outpatient unit collaborates closely with the unemployment agency and offers a low-threshold screening for mental disorders for unemployed subjects as well as counseling for those in need of treatment.3. A group training based on cognitive behavioral therapy improves the psychological well-being of unemployed participants.4. Supported employment is an effective means of placing severely mentally ill patients in a work-place accompanied by an extensive professional support.",
+    "DOI": "10.1007/s00115-015-4299-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a selective review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Selective Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on unemployment and mental health but does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Selective review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not present measures of employment or labor outcomes.",
+            "study_design": "Selective review",
+            "logprobs": null
+        }
+    }
+}

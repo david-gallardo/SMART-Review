@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1228,
+    "Authors": "Vukadin, Miljana; Schaafsma, Frederieke G.; Michon, Harry W. C.; Cillekens, Bart; van de Ven, Peter M.; Juurlink, Trees; Anema, Johannes R.",
+    "Article Title": "Evaluation of an implementation strategy for Individual Placement and Support in the Netherlands: a 30-month observational study",
+    "Abstract": "Background Individual Placement and Support (IPS) is an evidence-based, effective approach to help people with severe mental illness (SMI) obtain and maintain competitive employment. The aim of the present study was to examine employment outcomes and associations with an organizational and a financial factor in people with SMI who participated in Individual Placement and Support using a multifaceted implementation strategy (IPS + MIS). The goal of this strategy was to improve IPS implementation by enhancing collaboration among mental health care and vocational rehabilitation stakeholders, and realizing secured IPS funding. Methods An observational cohort study including 103 participants was conducted, with a 30-month follow-up. Descriptive analyses were used to examine employment outcomes. Multivariable logistic and linear regression analyses were performed to study associations with an organizational and a financial factor: the level of experience of mental health agencies with providing IPS + MIS and the type of IPS funding (i.e. municipality funding (reference group) and the Dutch Social Security Institute: the Institute for Employee Benefits Schemes (UWV) funding). Results Forty-six percent of the participants were competitively employed at any time during the 30-month follow-up; the median number of days until competitive job obtainment and in competitive jobs was 201 and 265, respectively. The majority of all jobs obtained (81%) were categorized as 'elementary occupations', 'clerical support workers', and 'service and sales workers'. A higher level of experience of the mental health agencies with providing IPS + MIS was found to be positively associated with job obtainment (OR = 3.83, 95% CI 1.42-10.30, p = 0.01) and the number of days worked in competitive jobs (B = 1.21, 95% CI 0.36-2.07, p = 0.01). UWV funding was found to be negatively associated with job obtainment (OR = 0.30, 95% CI 0.11-0.77, p = 0.01). No association was found for the type of IPS funding and the number of days worked in competitive jobs (B = -0.73, 95% CI -1.48-0.02, p = 0.06). Conclusions This study shows that almost half of the people who participate in IPS + MIS obtain a competitive job within 30 months. The results further suggest that both the level of experience of mental health agencies with providing IPS + MIS, and funding may play a role in employment outcomes.",
+    "DOI": "10.1186/s12888-022-04121-9",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational (cohort study) without a control group, and the geographic scope is outside the specified regions.",
+            "study_design": "Observational cohort study",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a 30-month observational cohort study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is Individual Placement and Support (IPS) + MIS, which is one of the interventions listed in the inclusion criteria. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "30-month observational cohort study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "observational cohort study",
+            "logprobs": null
+        }
+    }
+}

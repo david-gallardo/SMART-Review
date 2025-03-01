@@ -1,0 +1,33 @@
+{
+    "ArticleID": 711,
+    "Authors": "Bos, Sandra Carvalho; Macedo, Antonio Ferreira",
+    "Article Title": "Literature review on Insomnia (2010-2016)",
+    "Abstract": "The present literature review investigated the recent knowledge/ findings on Insomnia, the most prevalent sleep disorder in the general population. Insomnia consequences included mortality risk, physical and mental problems, particularly depression, cognitive impairment, work-related problems such as accidents, injuries, absenteeism, lower productivity and diminished job satisfaction. Female gender, aging, unemployment, lower education levels, manual occupations, lifestyle behaviors (e.g. heavy drinking) and sleep hygiene practices (e.g. improper sleep schedules) increased the likelihood of experiencing Insomnia. By contrast, physical exercise improved Insomnia symptoms. Personality factors such as Neuroticism, Perfectionism and Evening Chronotype increased the odds of experiencing Insomnia. Conversely, Extroversion and Optimism were associated with less Insomnia symptoms. Negative affect (depression and anxiety) predicted new cases of Insomnia in the long term. Cognitive processes (e.g. worry), sleep-related cognitive processes (e.g. dysfunctional sleep beliefs) and emotional dysregulation processes were also related to Insomnia. In the workplace, Insomnia was associated with night work and short-time duration for recovery between shifts or work-related psychological processes such as embeddedness, effort-reward imbalance, surface acting, low social support or interpersonal conflict, higher over commitment, low employment level and job insecurity.",
+    "DOI": "10.1080/09291016.2017.1413766",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a literature review, and the timeframe is not within the specified range.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review on insomnia, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. Additionally, it focuses on insomnia rather than employment policies for people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1569,
+    "Authors": "Heming, Meike; Xu, Tianwei; Nyberg, Anna; Magnusson Hanson, Linda L.",
+    "Article Title": "The relationship between onset of workplace violence and onset of sleep disturbances in the Swedish working population",
+    "Abstract": "The study investigated the association between onset of workplace violence and onset of sleep disturbances. We used self-reported data from the Swedish Longitudinal Occupational Survey of Health (SLOSH) collected in 2014, 2016, and 2018. A two-wave design was based on participants who had no exposure to workplace violence or sleep disturbances at baseline (n = 6,928). A three-wave design was based on participants who in addition were unexposed to sleep disturbances in the second wave (n = 6,150). Four items of the Karolinska Sleep Questionnaire were used to measure sleep disturbances and one question was used to measure the occurrence of workplace violence or threats of violence. Multivariate logistic regression analyses were performed. In the two-wave approach, onset of workplace violence was associated with onset of sleep disturbances after adjustment for sex, age, occupational position, education, and civil status (adjusted odds ratio 1.41, 95% confidence interval 1.02-1.96). The association was no longer statistically significant after further adjustment for night/evening work, demands, control, and social support at work. In the three-wave approach, results were only suggestive of an association between onset of workplace violence and subsequent onset of sleep disturbances after adjustment for sex, age, occupational position, education, and civil status. Onset of frequent exposure to workplace violence was associated with subsequent onset of sleep disturbances in the adjusted analyses, but these analyses were based on few individuals (13 exposed versus 5,907 unexposed). The results did not conclusively demonstrate that onset of workplace violence predicts development of sleep disturbances. Further research could elucidate the role of other working conditions.",
+    "DOI": "10.1111/jsr.13307",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates the association between onset of workplace violence and onset of sleep disturbances.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the relationship between workplace violence and sleep disturbances. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study using a longitudinal design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it involve interventions aimed at improving employment for this population.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

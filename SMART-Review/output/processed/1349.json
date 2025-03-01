@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1349,
+    "Authors": "Prencipe, Leah; Houweling, Tanja A. J.; van Lenthe, Frank J.; Palermo, Tia M.; Kajula, Lusajo",
+    "Article Title": "Exploring multilevel social determinants of depressive symptoms for Tanzanian adolescents: evidence from a cross-sectional study",
+    "Abstract": "Background Depression has substantial and enduring impacts for adolescents, particularly those living in poverty. Yet, evidence on its determinants in low-income countries remains scarce. We examined the social determinants of depressive symptoms for Tanzanian adolescents. Methods We used cross-sectional data for 2458 adolescents (aged 14-19), to describe associations with depressive symptoms within and across five domains-demographic, economic, neighbourhood, environmental and social-cultural-using linear mixed models. We estimated depressive symptoms using the 10-item Centre for Epidemiological Studies Depression Scale, which ranges from 0 to 30 and increases with additional symptoms. Results Factors associated with depressive symptoms in the fully adjusted models included experiencing five or more household economic shocks (beta=2.40; 95% CI 1.48 to 3.32), experiencing droughts/floods (beta=0.76; 95% CI 0.36 to 1.17), being in a relationship (beta=1.82; 95% CI 1.30 to 2.33), and having moderate (beta=1.26; 95% CI 0.80 to 1.71) or low (beta=2.27; 95% CI 1.81 to 2.74) social support. Exclusive schooling was protective compared with being engaged in both school and paid work (beta=1.07; 95% CI 0.05 to 2.61) and not engaged in either (beta=0.73; 95% CI 0.24 to 1.22). Household size and relationship status were more important factors for girls, while employment status, and extreme precipitation were more important for boys. Conclusion Mental health is associated with determinants from multiple domains. Results suggest that environmental shocks related to climate change contribute to poor mental health in adolescents, highlighting an important area for intervention and research.",
+    "DOI": "10.1136/jech-2020-216200",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for intervention (specifically employment policies) or outcomes related to employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment policies for people with mental health disorders, does not include job search services, adult training, wage subsidies, or supported employment interventions, and is not a systematic review or RCT with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in the specified geographic scope (Tanzania) and does not address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

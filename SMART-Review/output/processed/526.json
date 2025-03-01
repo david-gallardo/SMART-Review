@@ -1,0 +1,33 @@
+{
+    "ArticleID": 526,
+    "Authors": "Maru, Mihoko; Rogers, E. Sally; Hutchinson, Dori; Shappell, Heather",
+    "Article Title": "An Integrated Supported Employment and Education Model: Exploratory Study of an Innovative Approach Designed to Better Meet the Needs of Young Adults with Psychiatric Conditions",
+    "Abstract": NaN,
+    "DOI": "10.1007/s11414-018-9595-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is not directly addressed as one of the specified interventions (job search services, adult training, wage subsidies, or adult training).",
+            "study_design": "Exploratory study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an exploratory study and lacks a rigorous evaluation or control group.",
+            "study_design": "Exploratory Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and does not mention a control group.",
+            "study_design": "Exploratory Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

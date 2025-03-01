@@ -1,0 +1,33 @@
+{
+    "ArticleID": 291,
+    "Authors": "Lokman, Suzanne; Volker, Danielle; Zijlstra-Vlasveld, Moniek C.; Brouwers, Evelien P. M.; Boon, Brigitte; Beekman, Aartjan T. F.; Smit, Filip; Van der Feltz-Cornelis, Christina M.",
+    "Article Title": "Return-to-work intervention versus usual care for sick-listed employees: health-economic investment appraisal alongside a cluster randomised trial",
+    "Abstract": "Objective To evaluate the health-economic costs and benefits of a guided eHealth intervention (E-health module embedded in Collaborative Occupational healthcare (ECO)) encouraging sick-listed employees to a faster return to work.Design A two-armed cluster randomised trial with occupational physicians (OPs) (n=62), clustered and randomised by region into an experimental and a control group, to conduct a health-economic investment appraisal. Online self-reported data were collected from employees at baseline, after 3, 6, 9 and 12 months.Setting Occupational health care in the Netherlands.Participants Employees from small-sized and medium-sized companies (>= 18 years), sick-listed between 4 and 26 weeks with (symptoms of) common mental disorders visiting their OP.Interventions In the intervention group, employees (N=131) received an eHealth module aimed at changing cognitions regarding return to work, while OPs were supported by a decision aid for treatment and referral options. Employees in the control condition (N=89) received usual sickness guidance.Outcomes Measures Net benefits and return on investment based on absenteeism, presenteeism, health care use and quality-adjusted life years (QALYs) gained.Results From the employer's perspective, the incremental net benefits were (sic) 3187 per employee over a single year, representing a return of investment of (sic)11 per invested Euro, with a break-even point at 6 months. The economic case was also favourable from the employee's perspective, partly because of QALY health gains. The intervention was costing (sic)234 per employee from a health service financier's perspective. The incremental net benefits from a social perspective were (sic)4210. This amount dropped to (sic)3559 in the sensitivity analysis trimming the 5% highest costs.Conclusions The data suggest that the ECO intervention offers good value for money for virtually all stakeholders involved, because initial investments were more than recouped within a single year. The sometimes wide 95% CIs suggest that the costs and benefits are not always very precise estimates and real benefits could vary considerably.",
+    "DOI": "10.1136/bmjopen-2017-016348",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomised trial with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster Randomised Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on return to work from sick leave and health-economic evaluation.",
+            "study_design": "Cluster randomised trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the Netherlands (EU country), within the specified timeframe, and focuses on an intervention aimed at encouraging return to work for employees with mental health disorders. It also includes employment outcomes such as absenteeism.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 208,
+    "Authors": "Ubalde-Lopez, Monica; Arends, I.; Almansa, J.; Delclos, G. L.; Gimeno, D.; Bultmann, U.",
+    "Article Title": "Beyond Return to Work: The Effect of Multimorbidity on Work Functioning Trajectories After Sick Leave due to Common Mental Disorders",
+    "Abstract": "Objectives Patients with common mental disorders (CMDs) often suffer from comorbidities, which may limit their functioning at work. We assessed the longitudinal impact of multimorbidity, defined as two or more co-occurring chronic health conditions, on work functioning over time among workers who had returned to work after sick leave due to CMDs. Methods Prospective cohort study of 156 workers followed for 1 year after return to work from sick leave due to CMDs. A multimorbidity score was computed by counting severity-weighted chronic health conditions measured at baseline. Work functioning was measured at baseline and at 3, 6 and 12 months follow-up with the Work Role Functioning Questionnaire. Work functioning trajectories, i.e. the course of work functioning after return to work over time, were identified through latent class growth analysis. Results A total of 44 % of workers had multimorbidity. Four work functioning trajectories were identified: one (12 % of the workers) showed increasing work functioning scores during follow-up, whereas the other trajectories showed low, medium and high scores (23, 41 and 25 %, respectively) that remained stable across time points. Although multimorbidity did not predict membership in any trajectory, within the increasing score trajectory levels of work functioning were lower among those with high baseline multimorbidity score (p < 0.001). Conclusions Over time, multimorbidity negatively impacts work functioning after return to work from sick leave due to CMDs.",
+    "DOI": "10.1007/s10926-016-9647-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective cohort study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries, Europe, US, Canada, or Australia, and the timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Prospective cohort study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study without a control group and does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not measure employment or labor results).",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate an employment intervention.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

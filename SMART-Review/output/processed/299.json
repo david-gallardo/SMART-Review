@@ -1,0 +1,33 @@
+{
+    "ArticleID": 299,
+    "Authors": "Charette-Dussault, Elyse; Corbiere, Marc",
+    "Article Title": "An Integrative Review of the Barriers to Job Acquisition for People With Severe Mental Illnesses",
+    "Abstract": "This integrative review analyses and synthesizes specialized literature of 20 years up to 2017 studying barriers/obstacles to employment for people with severe mental illnesses. The inclusion and exclusion criteria led to 35 experimental and nonexperimental studies. Results of the prospective studies were analyzed with the evidence synthesis method to isolate the most salient obstacles. Six main themes emerged from the findings, grouped into personal and environmental barriers. Environmental barriers were related to disability benefits and other physical resources, to stigma and social support, and to vocational services. Individual barriers included those related to illness, to work experience and skills, and to self-perception, fears, and motivation. The most prominent obstacles are lack of work experience and lack of use of effective strategies toward employment. Systematically identifying barriers to employment for people with severe mental illnesses will enable employment specialists to better support their clients in overcoming them, thus facilitating their work integration.",
+    "DOI": "10.1097/NMD.0000000000001013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study timeframe does not meet the inclusion criteria as it only covers up to 2017, which is before the specified timeframe of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an integrative review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. The timeframe ends in 2017, which is outside the specified range of 2005-2025.",
+            "study_design": "Integrative Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is an integrative review, not a systematic review or RCT, and it does not focus on interventions or outcomes related to employment.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an integrative review, not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Integrative Review",
+            "logprobs": null
+        }
+    }
+}

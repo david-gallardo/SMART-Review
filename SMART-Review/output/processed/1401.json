@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1401,
+    "Authors": "Vanovenberghe, Charlotte; Van den Broeck, Anja; Du Bois, Marc; De Schryver, Maarten; Lauwerier, Emelien",
+    "Article Title": "A pilot randomized controlled trial on motivational interviewing in return to work after work disability",
+    "Abstract": "Purpose: Does 15-minute consult using Motivational Interviewing (MI) have a positive effect on (1) time until return to work (RTW) and relapse after work resumption for patients who have been work disabled for longer than 3 months, and (2) can psychological variables (i.e., work-related motivation, work-related psychological needs, quality of life and work ability) explain these results?Methods: 265 patients were included in a pilot randomized controlled trial, parallel and single blind, with an allocation ratio of 1:1 comparing the consult with MI with the consult as usual group (CAU). There was a 12 -month follow up on actual RTW and relapse for both groups. The psychological outcomes were work-related motivation (MAWS), work-related psychological needs (BPNSFS), quality of life (EQ5D5L)) and work ability (WAI). Measurement of these indicators took place at baseline, 1 week after the intervention and 3 months after the intervention.Results: Patients in the MI group showed faster RTW and had a lower chance of relapse compared to those in the CAU condition. No significant differences were found between MI and CAU for the psychological outcomes.Conclusions: Based on our results, there is some evidence that counseling including MI helps work-disabled pa-tients to RTW faster and experience less relapse. However, much remains unknown about the underlying psy-chological mechanisms explaining this effect. Suggestions are made for the full RCT.",
+    "DOI": "10.1016/j.pec.2022.09.014",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a pilot randomized controlled trial (RCT) and does not meet the inclusion criteria for being a full RCT.",
+            "study_design": "Pilot RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Pilot randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, and focuses on an intervention (motivational interviewing) aimed at improving employment outcomes for people with work disabilities, which can be linked to mental health issues.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

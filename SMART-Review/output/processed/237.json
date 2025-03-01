@@ -1,0 +1,33 @@
+{
+    "ArticleID": 237,
+    "Authors": "van Beurden, Karlijn M.; van der Klink, Jac J. L.; Brouwers, Evelien P. M.; Joosen, Margot C. W.; Mathijssen, Jolanda J. P.; Terluin, Berend; van Weeghel, Jaap",
+    "Article Title": "Effect of an intervention to enhance guideline adherence of occupational physicians on return-to-work self-efficacy in workers sick-listed with common mental disorders",
+    "Abstract": "Background: Since a higher level of self-efficacy in common mental disorders is associated with earlier return-towork (RTW), it is important to know if work related self-efficacy can be increased by occupational health care. The primary aim of this study was to evaluate whether an intervention to enhance guideline adherence of occupational physicians lead to an increase in RTW self-efficacy in workers three months later. The secondary aim was to evaluate whether the intervention modified the association between RTW self-efficacy and return-to-work three months later.Methods: A total of 66 occupational physicians participated in the study. They were randomized into two groups; the intervention group received a training, the control group did not. The training aimed to enhance adherence to a mental health guideline that contained strategies that are supposed to enhance RTW self-efficacy. In 128 sicklisted workers guided by these occupational physicians, RTW self-efficacy, RTW, and personal, health-related and work-related variables were measured at baseline and three months later. Generalized linear mixed models analysis and linear mixed models analysis were used for the evaluations.Results: In workers whose occupational physicians had received the training RTW self-efficacy increased significantly more than in workers whose occupational physicians had participated in the control group (t = -2.626, p <= .05). Higher baseline RTW self-efficacy scores were significantly more often associated with full RTW than with no RTW three months later (OR 2.20, 95 % CI 1.18-4.07), but the intervention did not affect this association.Conclusions: This study showed that a training to enhance guideline adherence of occupational physicians leads to increased RTW self-efficacy in workers sick-listed with common mental disorders during the first months of sickness absence in a real-life occupational health care setting. This insight is helpful for optimizing the recovery and RTW process, and for understanding the role of RTW self-efficacy in this process.",
+    "DOI": "10.1186/s12889-015-2125-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group and measures employment or labor outcomes (RTW self-efficacy, RTW, and personal, health-related and work-related variables).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on return-to-work self-efficacy rather than actual employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of an intervention on return-to-work self-efficacy in workers with common mental disorders, which is not directly related to employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. Additionally, the study does not include adult training, wage subsidies, or supported employment intervents, which are specified in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted within the specified timeframe (2005-2025), in a relevant geographic scope (EU countries), focuses on an intervention related to job search services and supported employment, targets people with mental health disorders, and includes employment outcomes such as return-to-work.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

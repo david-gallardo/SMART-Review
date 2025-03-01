@@ -1,0 +1,33 @@
+{
+    "ArticleID": 638,
+    "Authors": "Newnham, Elizabeth A.; Mergelsberg, Enrique L. P.; Tearne, Jessica; McEvoy, Peter; Stanley, Susanne; Celenza, Antonio; Kavanagh, Hyranthi; Stevenson, Teresa; Mavaddat, Nahal; Demore, Gavin; Hood, Sean",
+    "Article Title": "Mental Health Status, Risk and Protective Factors for Healthcare Staff Prior to the First Major COVID-19 Outbreak in Western Australia",
+    "Abstract": "Objectives: Western Australia's unique public health response delayed the first wave of community COVID-19 transmission for 2 years. We aimed to determine the status of post-traumatic stress (PTSS), depressive, and anxiety symptoms among healthcare staff in major tertiary hospitals, together with associated risk and protective factors prior to the first substantial outbreak of COVID-19.Methods: A cross-sectional study was conducted with 431 healthcare staff immediately prior to the Western Australian border re-opening in 2022. Staff were recruited via notices in email newsletters, at four tertiary hospitals and a public mental health clinic in metropolitan Perth. Validated and original questionnaires were administered via Qualtrics.Results: Moderate levels of PTSS (22.3%), depression (21.9%), and anxiety (25.9%) were reported. Pathway analyses indicated that sleep difficulties, workplace stressors, and infectious disease training were associated with higher PTSS, depression and anxiety symptoms, and younger age was associated with higher levels of depression and anxiety. Nursing roles were associated with higher PTSS. Social support and workplace support were associated with lower levels of depression and anxiety but were not associated with PTSS.Conclusion: The findings illustrate high levels of resilience, but indicate a need for structural supports within the health system to foster staff mental health prior to the onset of emergencies.",
+    "DOI": "10.3389/ijph.2023.1606102",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and outcomes for people with mental health disorders. It focuses on the mental health status of healthcare staff prior to a specific event (first major COVID-19 outbreak) in Western Australia.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

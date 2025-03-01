@@ -1,0 +1,33 @@
+{
+    "ArticleID": 287,
+    "Authors": "Rodriguez Pulido, Francisco; Caballero Estebaranz, Nayra; Gonzalez Davila, Enrique; Melian Cartaya, Maria Jesus",
+    "Article Title": "Cognitive remediation to improve the vocational outcomes of people with severe mental illness",
+    "Abstract": "The present study investigates the effects of cognitive remediation (CR) training with Individual Placement and Support (IPS) in people suffering from severe mental illness in European population (Spanish). Sixty-five participants (83% with schizophrenia or bipolar disorder) were recruited from community mental health teams. Fifty-seven met the criteria and agreed to participate in the study. The conditions of cognitive rehabilitation were assigned randomly with support employment CR + IPS (n = 28) and IPS alone (n = 29). Two groups were followed at 8 and 12 months after the baseline. Participants in the CR + IPS group improved more than the IPS only group during the follow-up period in measures of cognitive functioning (significantly higher in executive functions, verbal learning and memory) and obtained higher employment percentages during the follow-up period, including people who got a job after 8 months (52.2% versus 29.2%, p = .023) and after 1 year (60.9% versus 37.5%, p = .025), as well as, in the weekly hours worked (37.2 versus 26.7 h, p = .023). Retention in the CR + IPS program was high (82.14%). The calculated global cognitive score showed that the evolution over time differed significantly between groups (p < .001).",
+    "DOI": "10.1080/09602011.2019.1692671",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Spain), timeframe (2005-2025), intervention (supported employment with cognitive remediation), population (people with severe mental illness), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation and its effects on vocational outcomes in people with severe mental illness, which does not directly address employment interventions as per the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in Europe within the specified timeframe, focusing on supported employment for people with severe mental illness and reporting employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

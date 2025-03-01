@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1406,
+    "Authors": "Taylor, Jeffrey A.; Salkever, David S.; Frey, William D.; Riley, Jarnee; Marrow, Jocelyn",
+    "Article Title": "Enrollment in the Supported Employment Demonstration: An Employment Intervention for Denied Disability Benefits Applicants with a Mental Impairment",
+    "Abstract": "The Supported Employment Demonstration enrolled denied Social Security Disability Benefits applicants with alleged or documented mental impairment into an employment and health intervention. Recruiters attempted to contact 21,003 applicants located near participating community mental health agencies, and enrolled 2960 eligible applicants from November 2017 through March 2019. Among potentially eligible enrollees, 26.2% enrolled. We use regression analysis incorporating disability application data, local area economic characteristics, and benefits receipt information to assess probability of enrollment. Complementary qualitative data were drawn from ethnographic interviews with enrollees and non-enrollees. Quantitative results suggest males, people with limited work experience, and people with higher educational attainment were more likely to enroll. SSA denial based on assessment that the applicant could find alternative work in the national economy also strongly predicted enrollment. Denied applicants were also more likely to enroll if their local unemployment rate was high and if average wages in their county were rising rapidly. Qualitative interviews suggest that enrollees joined because they felt the study would improve their lives, although some enrollees reported they enrolled for the financial incentives of interview participation. Key reasons for non-enrollment include (1) lack of interest in work and (2) the perception that subjects' health prevented them from working. Comparisons between the sample selected for contact and the sample not selected for contact showed the two groups were largely identical. The SED achieved considerably higher recruitment rates than comparable studies. Applicant and local economic characteristics relate to the likelihood of enrollment. Clinical Trials Registration: This study is registered with ClinicalTrials.gov: registration number NCT03682263. This study follows the Mixed Methods guidelines.",
+    "DOI": "10.1007/s10488-021-01159-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2017-2019), and the intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment policies and focuses on enrollment in an employment and health intervention for denied disability benefits applicants. It lacks clear measures of employment outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

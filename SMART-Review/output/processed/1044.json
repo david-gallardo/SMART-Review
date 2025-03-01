@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1044,
+    "Authors": "Tinh Doan; Van Ha; Leach, Liana; Anh La",
+    "Article Title": "Mental health: who is more vulnerable to high work intensity? Evidence from Australian longitudinal data",
+    "Abstract": "Aim The adverse impacts of exposure to work intensity on mental health have been widely studied. However, there is a lack of research examining who is most vulnerable in terms of position on the mental health distribution. The current study aims to: (a) initially estimate the average impacts of work intensity on workers' mental health in Australia, and then (b) estimate the extent to which this effect varies across the mental health distribution. Materials and methods The current study uses data from waves 2005--2017 of the Household Income and Labour Dynamics in Australia (HILDA) survey. It first employs Average Treatment Effect (ATE) to provide a baseline/average treatment effect for the whole population, and then applies Quantile Regression fixed effects models for various quantiles on the mental health distribution. Discussion and conclusion The baseline estimates show that there are significantly negative effects of work intensity on mental health for the whole population, but importantly the quantile fixed effect estimates show that these adverse effects are substantially stronger for those with the poorest mental health (i.e. at the bottom of the distribution). When ATE alone is estimated, the significant effect is averaged over the mental health distribution, missing important information regarding the heterogeneity of the effect. The findings have important implications for understanding and reducing mental health inequality, particularly inequality driven by workplace stress. First, they align with existing research demonstrating the importance of reducing psychosocial job stressors. Second, given workers with mental health problems were most susceptible to the adverse effects of work intensity, there is a need to offer additional support (and be sensitive of workloads) for this group in particular.",
+    "DOI": "10.1007/s00420-021-01732-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on data from the Household Income and Labour Dynamics in Australia (HILDA) survey, which is within the specified geographic scope. The study examines the effects of work intensity on mental health, which is a relevant outcome. The population is people with mental disorders or documented mental health problems, and the study estimates the average impacts of work intensity on workers' mental health in Australia.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It examines the impact of work intensity on mental health in Australia but lacks relevant intervention and outcome measures.",
+            "study_design": "Cross-sectional analysis using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions for employment or labor outcomes in people with mental health disorders. It discusses the impact of work intensity on mental health but does not specifically address employment policies or interventions.",
+            "study_design": "Longitudinal study using ATE and Quantile Regression fixed effects models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

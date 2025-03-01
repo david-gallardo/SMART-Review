@@ -1,0 +1,33 @@
+{
+    "ArticleID": 196,
+    "Authors": "Huang, Zimei; Li, Tinghui; Xu, Mark",
+    "Article Title": "Are There Heterogeneous Impacts of National Income on Mental Health?",
+    "Abstract": "Understanding heterogeneous impact and mechanisms between national income and mental health are crucial to develop prevention and intervention strategies. Based on panel data from 2007 to 2017, this study explores the heterogeneous impact of national income on different types of mental health. Then, it analyzes the heterogeneous impact among countries with different income levels. Furthermore, the heterogeneous moderating effects of national income on mental health mechanisms are elaborated and the findings reveal several key conclusions: firstly, national income exerts a heterogeneous impact on different types of mental health. Rising national income is conducive to increase people's happiness and reduce their prevalence of anxiety disorders, but it increases the prevalence of depression disorders. Secondly, national income has a heterogeneous impact on different types of mental health among countries with different income levels. Furthermore, the heterogeneous influence mechanism of national income on mental health is mainly reflected in different types of mental health. Unemployment, social support and freedom can moderate the relationship between national income and depression, while social support, positive affect and negative affect can moderate the relationship between national income and anxiety. Finally, based on the conclusions of quantitative analysis, some important policy recommendations are proposed for policy makers.",
+    "DOI": "10.3390/ijerph17207530",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the impact of national income on mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. The article focuses on the impact of national income on mental health without addressing employment policies.",
+            "study_design": "Cross-sectional analysis using panel data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the review.",
+            "study_design": "Panel data study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Panel data analysis",
+            "logprobs": null
+        }
+    }
+}

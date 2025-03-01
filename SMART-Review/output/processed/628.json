@@ -1,0 +1,33 @@
+{
+    "ArticleID": 628,
+    "Authors": "Virgolino, Ana; Costa, Joana; Santos, Osvaldo; Pereira, Maria Emilia; Antunes, Rita; Ambrosio, Sara; Heitor, Maria Joao; Carneiro, Antonio Vaz",
+    "Article Title": "Lost in transition: a systematic review of the association between unemployment and mental health",
+    "Abstract": "Background Unemployment can involve financial strain and major psychosocial challenges. Integration of the existing evidence is needed to better characterize the association between unemployment and mental health, independently of macroeconomic contexts. Aims Main objectives of this study: (a) review, integrate, and summarize evidence about the association between unemployment and anxiety disorders, mood disorders, and suicidal behaviour, and (b) identify variables affecting this association. Method Systematic review of literature following PRISMA guidelines. PubMed, Web of Science, SciELO, RCAAP, and Cochrane Library databases were searched. Quantitative empirical studies on the association between unemployment and mental illness of community-based samples were included. The quality of the evidence provided in the studies was assessed following pre-defined methodological criteria. Results Overall, 294 articles were considered eligible. In total, 55.7% of the studies were conducted in Europe; 91.4% supported a positive association between increased unemployment rates and anxiety, mood disorders, or suicidal behavior. Men and young adults were most severely affected by unemployment. Education and social support were found to buffer the negative outcomes of job loss. Conclusions Unemployment was inversely associated with mental health irrespectively of the economic context; unemployed individuals were more vulnerable to commit suicide and suffer from anxiety and mood disorders.",
+    "DOI": "10.1080/09638237.2021.2022615",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the association between unemployment and mental health outcomes without addressing specific active employment policies.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and mental health, not on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

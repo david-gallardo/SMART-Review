@@ -1,0 +1,33 @@
+{
+    "ArticleID": 390,
+    "Authors": "Huegaerts, Kelly; Puig-Barrachina, Vanessa; Vanroelen, Christophe",
+    "Article Title": "The mental health of unemployed Brussels youth: the role of social and material resources",
+    "Abstract": "Background: In the aftermath of the 2008 Great Recession, youth unemployment rates in the Brussels Capital Region (BCR) increased. The aim of this study is firstly to investigate the evolution of the mental health gap between employed and unemployed youth and secondly to examine the association of material and social resources with mental health of youth entering the labour market in the BCR.Methods: Two data sources are used to answer the research questions: the Belgian Health Interview Survey (HIS) data (1997 to 2013; 18-to 29-year-olds; N = 5,562), and the authors' own primary data collection among Brussels youth in the transition from education to employment (2015; 18-to 29-year-olds; N = 1,151; BCR-sample). Prevalence ratios, bivariate and multivariate logistic regression analyses are used to explore mental distress and possible mental disorder amongst this particular group of youth.Results: The results show a consistent tendency towards increasing mental health problems for unemployed, compared to employed youth in the 1997-2013 period in the three Belgian Regions. Both social support and the living arrangements of men are related to mental distress and a possible mental disorder. The perception of a poor financial situation is related to a possible mental disorder. Our study also found that escape-avoidance behaviour is important in explaining both adverse mental health outcomes amongst women.Conclusions: This study suggests that the mental health gap between employed and unemployed youth increases and demonstrates the importance of material and social resources for the mental health of unemployed youth. These results can contribute to discussions on unemployment policies targeting vulnerable youth.",
+    "DOI": "10.1186/s13690-017-0187-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU (Belgium), the timeframe is within the specified range (2005-2025), the intervention is job search services (implied by the study's focus on unemployment policies), the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include a control group. Additionally, the intervention focus is on social and material resources rather than specific employment policies like job search services or wage subsidies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders, nor does it include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "The study design is not specified in the provided abstract, but it appears to be a descriptive study rather than a systematic review, meta-analysis, or RCT.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with primary data collection and secondary data analysis",
+            "logprobs": null
+        }
+    }
+}

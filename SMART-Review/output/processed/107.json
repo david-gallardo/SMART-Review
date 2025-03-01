@@ -1,0 +1,33 @@
+{
+    "ArticleID": 107,
+    "Authors": "Baller, Julia B.; Blyler, Crystal R.; Bronnikov, Svetlana; Xie, Haiyi; Bond, Gary R.; Filion, Kai; Hale, Thomas",
+    "Article Title": "Long-Term Follow-Up of a Randomized Trial of Supported Employment for SSDI Beneficiaries With Mental Illness",
+    "Abstract": "Objective: In this study, the authors assessed the long-term impact of the Mental Health Treatment Study (MHTS), a randomized controlled trial testing the effects of providing 2 years of employment services based on the evidence-based individualized placement and support model to Social Security Disability Insurance (SSDI) recipients with serious mental illness. Treatment recipients also received systematic medication management, supplemental health care supports, and short-term relief from medical continuing disability review by the Social Security Administration (SSA).Methods: MHTS site data for 2,160 participants were linked to SSA administrative data from 2011 to 2015, 1 to 5 years after the original study concluded. Univariate and multivariate models were used to assess the MHTS effects on employment, earnings, and disability benefit suspension-termination up to 7 years after services ended.Results: The analyses showed that the treatment group was more likely than the control group to work, and average earnings among the treatment group increased more over time than earnings among the control group. Disability benefit suspension/termination did not differ between groups.Conclusions: Providing the demonstration's package of services and support to SSDI beneficiaries with psychiatric disabilities for up to 2 years may have a long-term impact on employment and earnings. Under the SSDI program as currently structured, however, even after receiving 2 years of evidence-based supported employment and high-quality mental health services, SSDI beneficiaries with psychiatric conditions are unlikely to achieve economic independence within 5 years.",
+    "DOI": "10.1176/appi.ps.201800554",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (US), timeframe (2011-2015 within the specified range), intervention (supported employment), population (people with mental illness), and outcomes (employment, earnings).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized controlled trial (RCT) that meets the intervention criteria and focuses on people with mental health disorders in the EU. It examines employment outcomes, which are among the required outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US, published within the timeframe of 2005-2025, focuses on supported employment for people with mental illness, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

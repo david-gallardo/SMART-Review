@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1109,
+    "Authors": "Vins, Holly; Bell, Jesse; Saha, Shubhayu; Hess, Jeremy J.",
+    "Article Title": "The Mental Health Outcomes of Drought: A Systematic Review and Causal Process Diagram",
+    "Abstract": "Little is understood about the long term, indirect health consequences of drought (a period of abnormally dry weather). In particular, the implications of drought for mental health via pathways such as loss of livelihood, diminished social support, and rupture of place bonds have not been extensively studied, leaving a knowledge gap for practitioners and researchers alike. A systematic review of literature was performed to examine the mental health effects of drought. The systematic review results were synthesized to create a causal process diagram that illustrates the pathways linking drought effects to mental health outcomes. Eighty-two articles using a variety of methods in different contexts were gathered from the systematic review. The pathways in the causal process diagram with greatest support in the literature are those focusing on the economic and migratory effects of drought. The diagram highlights the complexity of the relationships between drought and mental health, including the multiple ways that factors can interact and lead to various outcomes. The systematic review and resulting causal process diagram can be used in both practice and theory, including prevention planning, public health programming, vulnerability and risk assessment, and research question guidance. The use of a causal process diagram provides a much needed avenue for integrating the findings of diverse research to further the understanding of the mental health implications of drought.",
+    "DOI": "10.3390/ijerph121013251",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a systematic review, but it lacks a control group and does not address employment outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the mental health effects of drought rather than interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the mental health outcomes of drought, which is not directly related to employment or labor outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specifically people with mental disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

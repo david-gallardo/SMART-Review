@@ -1,0 +1,33 @@
+{
+    "ArticleID": 375,
+    "Authors": "Smith, Matthew J.; Parham, Brittani; Mitchell, Jamie; Blajeski, Shannon; Harrington, Meghan; Ross, Brittany; Johnson, Jeffery; Brydon, Daphne M.; Johnson, Jennifer E.; Cuddeback, Gary S.; Smith, Justin D.; Bell, Morris D.; Mcgeorge, Robert; Kaminski, Kyle; Suganuma, Aaron; Kubiak, Sheryl",
+    "Article Title": "VIRTUAL REALITY JOB INTERVIEW TRAINING FOR ADULTS RECEIVING PRISON-BASED EMPLOYMENT SERVICES A Randomized Controlled Feasibility and Initial Effectiveness Trial",
+    "Abstract": "Returning citizens struggle to obtain employment after release from prison and navigating job interviews is a critical barrier they encounter. Implementing evidence-based interview training is a major gap in prison-based vocational services. We conducted a randomized controlled trial (RCT) to evaluate the feasibility and initial effectiveness of Virtual Reality Job Interview Training (VR-JIT) within two prisons. Forty-four male returning citizens were randomized to receive service-asusual (SAU) with VR-JIT (SAU + VR-JIT, n = 28) or SAU (n = 16). Participants reported VR-JIT was highly acceptable and usable. SAU + VR-JIT, compared with SAU, had significant improvements (with large effect sizes) in interview skills, interview training motivation, and interview anxiety (all p < .05; eta(2)(p), > .15), and greater employment by 6-month follow-up (odds ratio [OR] 7.4, p = .045). VR-JIT can potentially help fill a major gap in prison-based services. Future research is needed to validate VR-JIT effectiveness and evaluate VR-JIT implementation strategies within prisons.",
+    "DOI": "10.1177/00938548221081447",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on returning citizens from prison and does not specifically address people with mental health disorders. The intervention (VR-JIT) is aimed at improving job interview skills, but the population does not align with the specified inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on job search services, adult training, wage subsidies, or supported employment interventions, which are the specified interventions of interest. Instead, it focuses on Virtual Reality Job Interview Training, which is not explicitly mentioned in the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in the US within the specified timeframe. It focuses on job search services for individuals with mental health issues (prisoners) and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1022,
+    "Authors": "Noyes, Susan; Sokolow, Helena; Arbesman, Marian",
+    "Article Title": "Evidence for Occupational Therapy Intervention With Employment and Education for Adults With Serious Mental Illness: A Systematic Review",
+    "Abstract": "OBJECTIVE. Many of the estimated 9.8 million American adults with serious mental illness (SMI) want to engage in employment and education, yet the majority report a need for more skills training. This review presents evidence for the effectiveness of interventions that occupational therapy practitioners can provide to help people with SMI improve and maintain performance and participation in employment and education.METHOD. Citations, abstracts, and full-text articles in databases including MEDLINE, PsycINFO, CINAHL, OTseeker, and the Cochrane Database of Systematic Reviews were reviewed for inclusion and analysis.RESULTS. Fifty-seven articles met criteria for inclusion. For employment, strong evidence was found for the Individual Placement and Support (IPS) model and cognitive interventions. For education, moderate evidence was found for supported education interventions.CONCLUSION. This systematic review supports the role of occupational therapy practitioners in promoting the implementation of IPS, cognitive-based, and social skills programs to improve vocational and educational outcomes for adults with SMI.",
+    "DOI": "10.5014/ajot.2018.033068",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on adults with serious mental illness, which meets the population criterion. The outcomes include employment and labor outcomes, which meets the outcome criterion.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on occupational therapy interventions for employment and education rather than direct employment policies. It does not meet the inclusion criteria for interventions that directly address active employment policies.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review that meets the inclusion criteria for study design, intervention, population, and outcomes. It focuses on adults with serious mental illness, which is the targeted population.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, focuses on the US within the specified timeframe, and evaluates interventions such as job search services (IPS model) for people with mental disorders, with outcomes including employment rates.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

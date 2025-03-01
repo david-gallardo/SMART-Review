@@ -1,0 +1,33 @@
+{
+    "ArticleID": 625,
+    "Authors": "Weaver, Addie; Capobianco, Jeff; Ruffolo, Mary",
+    "Article Title": "Systematic review of EBPs for SMI in rural America.",
+    "Abstract": "This systematic review of the implementation of evidence-based practices (EBPs) for adults with severe mental illnesses (SMI) in rural mental health settings examined peer-reviewed literature, grey literature, and public information. Included articles had to report implementation efforts of EBP(s) for SMI in rural settings or adaptations for rural service delivery. Only three peer-reviewed articles and two publicly available reports met inclusion criteria. Findings suggest little attention is focused on studying factors affecting implementation of EBPs for SMI in rural areas. Adaptations are occurring in rural settings, though rarely documented or tested; their impact on fidelity and consumer outcomes is unclear.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. The article is a systematic review of implementation efforts rather than controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on EBPs for adults with severe mental illnesses in rural settings, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the study does not specifically address employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment policies or outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

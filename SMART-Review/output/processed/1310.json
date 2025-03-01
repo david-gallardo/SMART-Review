@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1310,
+    "Authors": "Gazzola, Marina Gaeta; Carmichael, Iain D.; Madden, Lynn M.; Dasgupta, Nabarun; Beitel, Mark; Zheng, Xiaoying; Eggert, Kathryn F.; Farnum, Scott O.; Barry, Declan T.",
+    "Article Title": "A cohort study examining the relationship among housing status, patient characteristics, and retention among individuals enrolled in low-barrier-to-treatment-access methadone maintenance treatment",
+    "Abstract": "Background: Few studies have directly compared patient characteristics and retention among those enrolled in methadone maintenance treatment (MMT) based on housing status. Low-barrier-to-treatment-access programs may be particularly effective at attracting patients experiencing homelessness into MMT; however, the literature on retention in such settings is limited. Methods: We performed a retrospective chart review of 488 consecutive patients enrolled from April to October 2017 at low-barrier-to-treatment-access MMT programs in southern New England. Patients completed measures of demographics, social isolation, trauma, chronic pain, smoking behavior, and psychiatric distress. The study investigated associations between housing status and correlates with chi-square and Mann-Whitney U tests while controlling the False Discovery Rate. A two-sample log-rank test examined the relationship between retention and housing status. The study further scrutinized this association by regressing retention on all covariates using a Cox proportional hazards model. Results: Forty-six patients (9.4%) reported experiencing homelessness and 442 (90.6%) reported being housed. Thirty-seven percent of patients self-identified as female and 20% as non-white. Compared to patients who were housed, those experiencing homelessness had lower rates of recent employment; higher rates of social isolation, trauma, current chronic pain, and recent cannabis use; and higher overall psychiatric distress (all p < 0.01). At one year, overall retention was 51.8%, and retention was 32.6% in the unhoused group and 53.8% in the housed group. A significant negative association occurred between retention and housing status (p = 0.006). After regressing on all covariates, homelessness was associated with a 69% increase in one-year treatment discontinuation (HR = 1.69 for homelessness, CI = 1.14-2.50). Conclusions: Patients entering MMT experiencing homelessness have multiple clinical vulnerabilities and are at increased risk for 12-month MMT discontinuation. Low-barrier-to-treatment-access MMT programs are an important venue for identifying and addressing vulnerabilities associated with homelessness.",
+    "DOI": "10.1016/j.jsat.2022.108753",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and its focus is on retention among individuals enrolled in methadone maintenance treatment, which is not related to active employment policies for people with mental health disorders.",
+            "study_design": "Retrospective chart review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective chart review without a control group, and it does not directly address employment or labor outcomes. The intervention focuses on housing status rather than active employment policies.",
+            "study_design": "Retrospective chart review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group. It also does not focus on employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "retrospective chart review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

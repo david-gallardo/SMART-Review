@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1209,
+    "Authors": "Zalzala, Aieyat; Fiszdon, Joanna M.; Moritz, Steffen; Wardwell, Patricia; Petrik, Tammy; Mathews, Laura; Shagan, Dana; Bracken, Daniel; Bell, Morris D.; Pearlson, Godfrey D.; Choi, Jimmy",
+    "Article Title": "Metacognitive Training to Improve Insight and Work Outcome in Schizophrenia",
+    "Abstract": "Individuals with psychotic disorders have deficits in metacognition. Thirty-four adults with schizophrenia were randomized to 2 months of metacognitive training (MCT) or a healthy living skills control group. All participants were enrolled in a work therapy program, followed by a supported employment program. Assessments were conducted at baseline, at the end of the 2-month active intervention, and at 4- and 12-month follow-ups. At the end of active intervention, the MCT group demonstrated greater improvement and better work behavior relative to controls. At follow-up, the MCT group demonstrated significantly greater insight and fewer positive symptoms and a greater percentage were employed in the community. We speculate that being better able to think about one's thoughts, recognize biases in thinking, and correct those thoughts may aid in responding to workplace challenges and hence improve work outcomes.",
+    "DOI": "10.1097/NMD.0000000000001512",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is mentioned in the article, does not directly address employment as per the exclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It focuses on metacognitive training to improve insight and work outcomes in schizophrenia.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsychia, not on mental health disorders in general, and the intervention is not directly related to employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted within the specified timeframe (2005-2025), focuses on supported employment for people with mental disorders, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

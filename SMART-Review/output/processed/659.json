@@ -1,0 +1,33 @@
+{
+    "ArticleID": 659,
+    "Authors": "McGurk, Susan R.; Mueser, Kim T.; Xie, Haiyi; Welsh, Jason; Kaiser, Susan; Drake, Robert E.; Becker, Deborah R.; Bailey, Edward; Fraser, Ginnie; Wolfe, Rosemarie; McHugo, Gregory J.",
+    "Article Title": "Cognitive Enhancement Treatment for People With Mental Illness Who Do Not Respond to Supported Employment: A Randomized Controlled Trial",
+    "Abstract": "Objective: Cognitive impairment presents a serious and common obstacle to competitive employment for people with severe mental illness, including those who receive supported employment. This study evaluated a cognitive enhancement program to improve cognition and competitive employment in people with mental illness who had not responded to supported employment.Method: In a randomized controlled trial, 107 people with severe mental illness (46% with schizophrenia or schizo-affective disorder) who had not obtained or kept competitive work despite receiving high-fidelity supported employment were assigned to receive either enhanced supported employment (with specialized cognitive training of employment specialists) or enhanced supported employment plus the Thinking Skills for Work program, a standardized cognitive enhancement program that includes practice of computer cognitive exercises, strategy coaching, and teaching of coping and compensatory strategies. Research assistants tracked competitive employment weekly for 2 years, and assessors blind to treatment assignment evaluated cognitive functioning at baseline, at the end of cognitive enhancement training, and 12 and 24 months after baseline.Results: Participants in the Thinking Skills for Work group improved more than those in the enhanced supported employment only group on measures of cognitive functioning and had consistently better competitive employment outcomes during the follow-up period, including in jobs obtained (60% compared with 36%), weeks worked (23.9 compared with 9.2), and wages earned ($3,421 compared with $1,728).Conclusions: The findings suggest that cognitive enhancement interventions can reduce cognitive impairments that are obstacles to work, there by increasing the number of people who can benefit from supported employment and competitive work.",
+    "DOI": "10.1176/appi.ajp.2015.14030374",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT). The study also meets the geographic scope as it is conducted in the US. The intervention is job search services (enhanced supported employment) and adult training (Thinking Skills for Work program), which are relevant to the population with mental health disorders. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, and job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment with cognitive enhancement), population (people with mental illness), and outcomes (employment rates, job duration).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for individuals with mental health disorders in the US within the specified timeframe and includes relevant outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

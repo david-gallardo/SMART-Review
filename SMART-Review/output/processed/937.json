@@ -1,0 +1,33 @@
+{
+    "ArticleID": 937,
+    "Authors": "Houssemand, Claude; Pignault, Anne; Meyers, Raymond",
+    "Article Title": "A Psychological Typology of Newly Unemployed People for Profiling and Counselling",
+    "Abstract": "Profiling of the unemployed in order to predict and prevent long-term unemployment has hitherto been based on socio-professional data; however, there is evidence that psychological dimensions also predict job search strategies and unemployment duration. In order to provide psychological profiling, a typological method could be more parsimonious than trait/dimension approaches. Typologies created to date have not addressed the issue of predicting employment status. A sample of 384 newly unemployed people was assessed using psychometric scales which have been shown in past research to be linked to job finding. Through cluster analysis, five groups of unemployed people were differentiated: the integrated, willing, outsider, anxious, and dispossessed. The typology showed predictive validity for employment status after 12 months. People who were anxious or dispossessed were more often unemployed than those who were integrated, willing, or outsider. It provided an alternative way of classifying unemployed people that could be used in profiling and especially in advisory support and counselling.",
+    "DOI": "10.1007/s12144-014-9214-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Cluster analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on profiling newly unemployed individuals using psychological typologies without specifying any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on newly unemployed individuals without a specific focus on people with mental health disorders. The intervention is not directly related to employment services or policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

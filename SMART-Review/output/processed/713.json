@@ -1,0 +1,33 @@
+{
+    "ArticleID": 713,
+    "Authors": "Niedzwiedz, Claire L.; Mitchell, Richard J.; Shortt, Niamh K.; Pearce, Jamie R.",
+    "Article Title": "Social protection spending and inequalities in depressive symptoms across Europe",
+    "Abstract": "Common mental disorders are an increasing global public health concern. The least advantaged in society experience a greater burden of mental illness, but inequalities in mental health vary by social, political, and economic contexts. This study investigates whether spending on different types of social protection alters the extent of social inequality in depressive symptoms.Data were obtained from the 2006 and 2012 cross-sectional waves of the European Social Survey, which included 48,397 individuals from 18 European countries. Depressive symptoms were measured using the Centre for Epidemiologic Studies-Depression Scale (CES-D 8). Statistical interactions between country-level social protection spending and individuals' education level, employment and family status were explored using multilevel regression models.Higher spending on active labour market programmes was related to narrower inequality in depressive symptoms by education level. Compared to men with high education, the marginal effect of having low education was 1.67 (95 % CI, 1.46-1.87) among men in countries with lower spending and 0.85 (95 % CI, 0.66-1.03) in higher spending countries. Single parents exhibited fewer depressive symptoms, as spending on family policies increased. Little evidence was found for an overall association between spending on unemployment benefits and employment-related inequalities in depressive symptoms, but in 2012, unemployment spending appeared beneficial to mental health among the unemployed.Greater investment in social protection may act to reduce inequalities in depressive symptoms. Reductions in spending levels or increased conditionality may adversely affect the mental health of disadvantaged social groups.",
+    "DOI": "10.1007/s00127-016-1223-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates the relationship between social protection spending and inequalities in depressive symptoms.",
+            "study_design": "Cross-sectional analysis using multilevel regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on inequalities in depressive symptoms related to social protection spending. It lacks specific interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis using multilevel regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of social protection spending on depressive symptoms across different social groups.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

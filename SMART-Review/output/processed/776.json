@@ -1,0 +1,33 @@
+{
+    "ArticleID": 776,
+    "Authors": "O'Connor, Maureen K.; Mueller, Lisa; Kwon, Eunice; Drebing, Charles E.; O'Connor, Ashley A.; Semiatin, Alicia; Wang, Shihwe; Daley, Ryan",
+    "Article Title": "Enhanced vocational rehabilitation for Veterans with mild traumatic brain injury and mental illness: Pilot study",
+    "Abstract": "Work plays a significant role in how people identify themselves, and successful return to work is associated with significant psychological and rehabilitative benefits. Unfortunately, despite the many benefits of employment, Veterans who experience mild traumatic brain injury and have mental health issues often have significant difficulty getting their vocational needs met. Considering that a consistent relationship between cognitive dysfunction and difficulties with employability has been firmly established, cognitive rehabilitation may enhance engagement in vocational rehabilitation and return to work outcomes. In this pilot study, we evaluated a 12 wk cognitive rehabilitation intervention embedded within vocational rehabilitation services. Eighteen Veterans were randomly assigned to receive either the embedded cognitive rehabilitation intervention (n = 10) or a control condition offering supportive client-centered therapy that did not focus on employment or cognitive rehabilitation (n = 8); all Veterans (intervention and control groups) received vocational rehabilitation services. This pilot feasibility study demonstrated efficient implementation of an embedded cognitive rehabilitation intervention within vocational rehabilitation. The current pilot data revealed small to moderate effect sizes on employment outcomes. Given these preliminary findings, a larger outcome study is warranted.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is one of the specified interventions, but the study does not directly address employment.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group that directly compares the intervention to employment outcomes without cognitive rehabilitation. The population is not clearly defined in terms of mental health disorders, and the primary focus is on Veterans with mild traumatic brain injury rather than people with documented mental health problems.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with mild traumatic brain injury and mental illness, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the intervention is not directly related to job search services, adult training, wage subsidies, or supported employment as outlined in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe. It focuses on vocational rehabilitation for Veterans with mental health issues and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

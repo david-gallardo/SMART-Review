@@ -1,0 +1,33 @@
+{
+    "ArticleID": 822,
+    "Authors": "Vukadin, Miljana; Schaafsma, Frederieke G.; Vlaar, Sandra J.; van Busschbach, Jooske T.; van de Ven, Peter M.; Michon, Harry W. C.; Anema, Johannes R.",
+    "Article Title": "Work Motivation and Employment Outcomes in People with Severe Mental Illness",
+    "Abstract": "Purpose To study associations between the level of self-reported work motivation and employment outcomes in people with severe mental illness (SMI) enrolled in a vocational rehabilitation program. Methods Data of 151 study participants, collected from a randomised controlled trial with a 30-month follow-up period, were used for a secondary data analysis. Multiple logistic regression, linear regression and cox regression analyses were performed to analyse the association between the level of work motivation at baseline and job obtainment, duration of job, and time until job obtainment during the 30-month follow-up period. Results No statistically significant associations were found between the level of work motivation and job obtainment (OR 1.83, 95% CI 0.55-6.06, p = 0.32), job duration (B = - 0.74, 95% CI - 2.37 to 0.89, p = 0.37, R-squared = 0.03), or time until job obtainment (HR = 1.53, 95% CI 0.64-3.68, p = 0.34). Conclusions The results of this study show no statistically significant associations between the level of work motivation and employment outcomes in people with SMI enrolled in a vocational rehabilitation program. These associations may be underestimated due to range restriction of the work motivation's level. Further research is recommended to increase knowledge on the associations between work motivation and employment outcomes, as it could be relevant for further understanding success in vocational rehabilitation.",
+    "DOI": "10.1007/s10926-019-09839-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It is based on secondary data analysis from a randomized controlled trial but does not meet the criteria for an RCT itself as it does not present original results of the intervention.",
+            "study_design": "Secondary data analysis from a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, does not include a control group, and does not focus on the interventions specified in the inclusion criteria.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on people with severe mental illness, includes employment outcomes, and was conducted within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

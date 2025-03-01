@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1239,
+    "Authors": "Kunz, James J.; Fisher, Gwenith G.; Ganster, Daniel C.; Gibbons, Alyssa M.; Graham, Daniel J.; Schwatka, Natalie V.; Dally, Miranda J.; Shore, Erin; Brown, Carol E.; Tenney, Liliana; Newman, Lee S.",
+    "Article Title": "The Relationship Between Stress and Sleep Sufficiency in the Context of Varied Workplace Social Support",
+    "Abstract": "Objectives: compares impact on the level of physical activity, performed by public servants, in April and November 2020. Methods: The survey examined the amount (in minutes per week) and the energy expenditure (in metabolic equivalent of task in minutes per week [METmin/week]) of physical activity for both before and during contact restrictions in April and November 2020, respectively. Results: Especially for sports activity difference was determined by the medians before (April/ November: median [Mdn] = 180.0 min/wk) and during (April: Mdn =130 minutes, November: Mdn = 60 min/wk) restrictions (P < 0.05). Also for energy consumption (METmin/wk), the medians before and during the contact restrictions declined for both periods. Conclusions: Measures against the coronavirus have led to a reduction in activity levels among public employees, regardless of their work environment. The decrease in participation in sport activities seemed to be even more noticeable within the second restriction period.",
+    "DOI": "10.1097/JOM.0000000000002902",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of workplace social support on physical activity and energy expenditure.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on physical activity and sleep sufficiency in the context of workplace social support.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on physical activity and energy expenditure in public servants, not employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

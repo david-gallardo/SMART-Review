@@ -1,0 +1,33 @@
+{
+    "ArticleID": 508,
+    "Authors": "Zuercher, Simeon J.; Zuercher, Micha; Burkhalter, Michael; Richter, Dirk",
+    "Article Title": "Job Retention and Reintegration in People with Mental Health Problems: A Descriptive Evaluation of Supported Employment Routine Programs",
+    "Abstract": "Purpose Striking evidence supports the effectiveness of supported employment (SE) in achieving competitive employment in individuals with mental health problems. Yet, little is known whether SE is effective to maintain employment in individuals at risk of job loss. We aimed to descriptively compare SE for employed clients (SE-retention) and unemployed clients (SE-integration) regarding competitive employment. Methods We used administrative data from January 2017 to October 2021 provided by a vocational rehabilitation center in Switzerland including all individuals (>= 18yrs.) with mental health problems who participated either in SE-retention or SE-reintegration. The outcome was the proportion with competitive employment at discharge. Logistic regression was used to assess time trends and to descriptively compare SE-treatments. We used propensity score weighting, including personal, clinical and program-specific information to reduce group differences. Results A total of 556 participants primarily diagnosed with mood/stress-related, schizophrenia and personality disorders were included (n = 297 SE-retention, n = 259 SE-reintegration) with median age 41 years and 57% female gender. The overall weighted comparison favored SE-retention over SE-reintegration OR 4.85 (95%-CI 3.10 to 7.58, p < 0.001) with predicted employment of 67.3% and 29.9% for SE-retention and SE-reintegration, respectively. While success for SE-reintegration remained stable over time, SE-retention showed an increase in more recent years. Conclusion SE-retention provides an approach for early work-related support that can prevent labor market exclusion. In contrast, reintegration is likely to require more efforts to achieve employment and may result in less favorable outcomes. It is therefore necessary that further research includes appropriate comparison groups to evaluate the effectiveness of SE-retention programs as well as the economic and individual benefits.",
+    "DOI": "10.1007/s10488-022-01227-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2021, the intervention is supported employment, and the population references mental health problems.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is descriptive in nature (descriptive evaluation) and lacks a rigorous evaluation or control group. The geographic scope also falls outside the specified regions.",
+            "study_design": "Descriptive evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on EU countries (Switzerland), and covers the timeframe of 2017-2021. The intervention (supported employment) and outcomes (employment rates) are directly relevant to the research question. The study design is appropriate for the inclusion criteria.",
+            "study_design": "Systematic review of controlled trials (RCTs with a control group)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Switzerland).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

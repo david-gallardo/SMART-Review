@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1570,
+    "Authors": "Wright, Abigail C.; Kritikos, Katherine; Bhiku, Kamila; LeFeber, Lisa; Skiest, Hannah; Whitman, Anne; Browne, Julia; Arntz, Diana; Fortuna, Karen L.; Mueser, Kim T.; Cather, Corinne",
+    "Article Title": "The Impact of the COVID-19 Pandemic on Peer Specialists",
+    "Abstract": "Objective: Individuals with mental health challenges are at particularly high risk of experiencing negative outcomes (e.g., worsening of mental health, increased risk of mortality) due to the coronavirus disease (COVID-19) pandemic. Peer specialists may have the benefit of several protective factors, including higher levels of social support and better illness self-management skills that buffer against negative effects of the pandemic. In this study, we compared the differences in the impact of COVID-19 on those trained as peer specialists (e.g., certified peer specialists, recovery coaches) to those not trained in this role. Method: Participants with self-reported mental health and/or substance use challenges completed an online survey to collect information on their experiences during COVID-19 (Epidemic-Pandemic Impacts Inventory [EPII]), loneliness (3-item Loneliness Scale), and access to and satisfaction with mental health support. Respondents self-identified as peer specialists or not. Results: One hundred seventy-three U.S. resident participants from 23 states were included in the final analysis: 109 were peer specialists and 64 were nonpeer specialists. Those who were trained as peer specialists reported fewer negative outcomes during the pandemic, including less disruption in employment, less loneliness, and less worsening of mental health, while reporting more positive attitudes in the face of difficulties. Peer specialists were also likely to report more access to and satisfaction with mental health services. Conclusions and Implications for Practice: Possibly as a function of their role, peer specialists reported better mental health outcomes during COVID-19, providing key, empirical evidence to support the benefits of helping others.Impact and Implications Peer specialists (e.g., certified peer specialists, recovery coaches) reported less disruption in employment, less loneliness, and less mental health worsening during coronavirus disease (COVID-19) than nonpeer specialists (i.e., those not trained to provide peer support). Peer specialists also reported more positive attitudes and more access to and satisfaction with mental health services during the pandemic than nonpeer specialists, highlighting protective factors associated with the peer specialist role.",
+    "DOI": "10.1037/prj0000517",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on people with mental health disorders, meeting the inclusion criteria for population. The study also presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group for rigorous evaluation.",
+            "study_design": "Survey-based observational study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not focus on the employment or labor outcomes as required.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and lacks a control group for rigorous evaluation.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

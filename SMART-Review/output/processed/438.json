@@ -1,0 +1,33 @@
+{
+    "ArticleID": 438,
+    "Authors": "Brathen, Magne; Dahl, Espen; Hermansen, Asmund; Lodemel, Ivar; Loyland, Borghild; Wahl, Astrid Klopstad; van der Wel, Kjetil A.",
+    "Article Title": "Are people with mental disorders excluded from work and from active labour market programs?",
+    "Abstract": NaN,
+    "DOI": "10.5334/ijic.s2350",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article title does not provide sufficient information about the study design, geographic scope, timeframe, intervention, population, and outcomes. Therefore, it cannot be determined if these meet the inclusion criteria.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not provide enough information to determine if the study design meets the inclusion criteria.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or outcomes related to employment or labor results for people with mental disorders.",
+            "study_design": "mixed-methods study",
+            "logprobs": null
+        }
+    }
+}

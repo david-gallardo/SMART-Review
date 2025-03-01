@@ -1,0 +1,33 @@
+{
+    "ArticleID": 737,
+    "Authors": "Mohammad, Salahuddin; Miguet, Maud; Rukh, Gull; Schioth, Helgi B.; Mwinyi, Jessica",
+    "Article Title": "Job satisfaction and job tenure of people with mental health disorders: a UK Biobank cohort study",
+    "Abstract": "Aims: Job satisfaction plays an important role for the life quality and health of working individuals. While studies have shown that self-reported mental health conditions such as stress, anxiety and depression are associated with job satisfaction, a large population-based study exploring and comparing self-reported physician posed diagnosed conditions and their association with job satisfaction and job tenure is missing. This study addresses the gap along with exploring the impact of the neurotic personality trait and other possible contributing factors. Methods: Sixteen mental health disorders diagnosed by physicians, categorised into four major groups were investigated in relation to employment status (108,711 participants) and in relation to job satisfaction and job tenure (34,808 participants). Analyses were performed using linear regression adjusted for age, sex, townsend deprivation index, body mass index, education, physical activity, work hours and neuroticism. Results: Neurotic and stress disorders, eating disorders and other mental health disorders were strongly associated with lower job satisfaction and shorter job tenure in both unadjusted and adjusted analyses. Neuroticism was strongly linked to job satisfaction but was not associated with job tenure. Conclusions: Study findings clarify the complex relationship of mental health with job satisfaction and job tenure, which is very important to understand in designing measures to improve working life participation of individuals with mental health issues.",
+    "DOI": "10.1177/14034948221119639",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort study with a control group, meeting the inclusion criteria for study design. The study is based in the UK, within the EU's geographic scope, and was published between 2005-2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which are all relevant to active employment policies for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as job satisfaction and job tenure.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It focuses on job satisfaction and tenure.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention targeting employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

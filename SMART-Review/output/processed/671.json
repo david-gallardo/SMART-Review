@@ -1,0 +1,33 @@
+{
+    "ArticleID": 671,
+    "Authors": "Church, Haley R.; Seewald, P. Michelle; Clark, Jillian M. R.; Jak, Amy J.; Twamley, Elizabeth W.",
+    "Article Title": "Predictors of work outcomes following supported employment in veterans with a history of traumatic brain injury",
+    "Abstract": "BACKGROUND: The effects of traumatic brain injury (TBI) on return to work have been the focus of many clinical studies in recent years. Veterans with a history of TBI may be at increased risk of unemployment.OBJECTIVE: We sought to understand predictors of work outcomes for Veterans with a history of TBI who received evidence-based supported employment.METHODS: Fifty unemployed Veterans with a history of mild-to-moderate TBI and current neuropsychological impairment participated in a 12-month supported employment intervention. Demographic data and baseline assessments of neuropsychological impairment, functional capacity, and psychiatric and post-concussive symptom severity were investigated as predictors of work outcomes (job attainment, weeks worked, and wages earned).RESULTS: Bivariate analyses showed that lower disability ratings, more recent work history, more months worked in the past 5 years, lower PTSD symptom severity, worse verbal memory, and better cognitive flexibility were all associated with better work outcomes. In multivariate regression analyses, better cognitive flexibility and worse verbal memory performance predicted better work outcomes.CONCLUSIONS: Further research is needed to determine how treatment of cognitive impairments and psychiatric symptoms is related to return to work in Veterans with a history of TBI.",
+    "DOI": "10.3233/NRE-182631",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in the US, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with a history of traumatic brain injury, meeting the population criteria. The outcomes include employment or labor outcomes such as job duration and job quality, meeting the outcome criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on veterans with traumatic brain injury and does not specifically address employment policies for people with mental health disorders in EU countries, Europe, US, Canada, or Australia. Additionally, the intervention is specific to supported employment for those with TBI, but the broader context of active employment policies is not addressed.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with a history of TBI, which is not explicitly mentioned as people with mental health disorders in the inclusion criteria. Additionally, the study population is not clearly defined as having documented mental health problems.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment, includes people with mental health disorders (TBI and neuropsychological impairment), and reports employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

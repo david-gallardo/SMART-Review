@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1298,
+    "Authors": "Dressing, Andrea; Bormann, Tobias; Blazhenets, Ganna; Schroeter, Nils; Walter, Lea, I; Thurow, Johannes; August, Dietrich; Hilger, Hanna; Stete, Katarina; Gerstacker, Kathrin; Arndt, Susan; Rau, Alexander; Urbach, Horst; Rieg, Siegbert; Wagner, Dirk; Weiller, Cornelius; Meyer, Philipp T.; Hosp, Jonas A.",
+    "Article Title": "Neuropsychologic Profiles and Cerebral Glucose Metabolism in Neurocognitive Long COVID Syndrome",
+    "Abstract": "During the coronavirus disease 2019 (COVID-19) pandemic, Long COVID syndrome, which impairs patients through cognitive deficits, fatigue, and exhaustion, has become increasingly relevant. Its underlying pathophysiology, however, is unknown. In this study, we assessed cognitive profiles and regional cerebral glucose metabolism as a biomarker of neuronal function in outpatients with long-termneurocognitive symptoms after COVID-19. Methods: Outpatients seeking neurologic counseling with neurocognitive symptoms persisting for more than 3mo after polymerase chain reaction (PCR)-confirmed COVID-19 were included prospectively between June 16, 2020, and January 29, 2021. Patients (n = 31; age, 53.6 +/- 2.0 y) in the long-term phase after COVID-19 (202 +/- 58 d after positive PCR) were assessed with a neuropsychologic test battery. Cerebral F-18-FDG PET imaging was performed in 14 of 31 patients. Results: Patients self-reported impaired attention, memory, and multitasking abilities (31/31), word-finding difficulties (27/31), and fatigue (24/31). Twelve of 31 patients could not return to the previous level of independence/employment. For all cognitive domains, average group results of the neuropsychologic test battery showed no impairment, but deficits (z score < -1.5) were present on a single-patient levelmainly in the domain of visualmemory (in 7/31; other domains <= 2/31). Mean Montreal Cognitive Assessment performance (27/30 points) was above the cutoff value for detection of cognitive impairment (<26 points), although 9 of 31 patients performed slightly below this level (23-25 points). In the subgroup of patients who underwent F-18-FDG PET, we found no significant changes of regional cerebral glucose metabolism. Conclusion: Long COVID patients self-report uniform symptoms hampering their ability to work in a relevant fraction. However, cognitive testing showedminor impairments only on a single-patient level approximately 6 mo after the infection, whereas functional imaging revealed no distinct pathologic changes. This clearly deviates from previous findings in subacute COVID-19 patients, suggesting that underlying neuronal causes are different and possibly related to the high prevalence of fatigue.",
+    "DOI": "10.2967/jnumed.121.262677",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or have an undefined population.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on cognitive profiles and cerebral glucose metabolism in patients with long COVID syndrome.",
+            "study_design": "Prospective observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

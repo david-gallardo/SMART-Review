@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1262,
+    "Authors": "Schwarz, Betje; Banaschak, Hannes; Heyme, Rebekka; von Kardorff, Ernst; Reims, Nancy; Streibelt, Marco; Bethge, Matthias",
+    "Article Title": "A Mega-Ethnography of Qualitative Meta-Syntheses on Return to Work in People with Chronic Health Conditions",
+    "Abstract": "Purpose The aim of this study was to synthesize the findings of qualitative meta-syntheses (QMS) on return to work (RTW) of people with different chronic illnesses and to develop a generic RTW model that can provide advice on how to improve RTW interventions and strategies.Methods We conducted a systematic literature search in PubMed, Epistemonikos, CENTRAL, and PsycARTICLES to find relevant QMS, published in English or German between 2000 and 2021, and adapted the meta-ethnographic approach of Noblit and Hare to synthesize their findings.Results Nineteen QMS (five focusing on musculoskeletal disorders or chronic pain, four on acquired or traumatic brain injuries, four on cancer, two on mental disorders, one on spinal cord injury, and three on mixed samples) met our inclusion criteria for the meta-ethnographic synthesis. Through systematic comparison and reciprocal translation of the single QMS findings, we could identify a set of key cross-cutting themes/concepts, which formed the basis for four RTW principles and a generic RTW model.Conclusions RTW is a multifactorial and highly interactive multistakeholder process, embedded in an individual's life and working history, as well as in a determined social and societal context. It runs parallel and interdependently to the process of coping with the disease and realigning one's own identity, thus emphasizing the significance of RTW for the person. Besides symptoms and consequences of the disease, individual coping strategies, and RTW motivation, the course and success of RTW are strongly affected by the adaptability of the person's working environment and the social support in their private and working life. Thus, RTW is not only a problem of the individual, but also a matter of the social environment, especially the workplace, requiring a holistic, person-centered, and systemic approach, coordinated by a designated body, which considers the interests of all actors involved in the RTW process.",
+    "DOI": "10.1055/a-2129-2731",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic literature search and meta-ethnographic synthesis, which meets the inclusion criteria. The study also includes a control group (the individual's life and working history, as well as the social and societal context) and presents measures of employment or labor results (RTW principles and a generic RTW model).",
+            "study_design": "Systematic literature search and meta-ethnographic synthesis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mega-ethnography and qualitative meta-synthesis of QMS on return to work for people with chronic health conditions. It does not meet the inclusion criteria as it lacks rigorous evaluation or control groups, and its population includes people with different types of chronic illnesses rather than focusing specifically on mental disorders.",
+            "study_design": "Qualitative Meta-Synthesis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on qualitative meta-syntheses (QMS) on return to work (RTW) in people with chronic illnesses, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic Review of Qualitative Meta-Syntheses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a qualitative meta-synthesis, not an RCT, quasi-experimental study, systematic review of controlled trials, or meta-analysis.",
+            "study_design": "Qualitative Meta-Synthesis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1159,
+    "Authors": "de Jong, S.; Renard, S. B.; van Donkersgoed, R. J. M.; van der Gaag, M.; Wunderink, L.; Pijnenborg, G. H. M.; Lysaker, P. H.",
+    "Article Title": "The influence of adjunctive treatment and metacognitive deficits in schizophrenia on the experience of work",
+    "Abstract": "Enhancing work function is now widely considered a core element of comprehensive schizophrenia treatment. While research efforts have illuminated factors that influence how well patients perform at work, less is known about the factors influencing the subjective experience of work. It is not known how, and to what extent, symptoms, cognitive deficits or metacognitive capacities impact job satisfaction and whether treatment can have an effect on job satisfaction. To explore this issue, data from a trial in which participants in a six-month vocational program were assigned to either a standard support group or a cognitive behavioral group therapy, and asked to fill in weekly self-reports of job satisfaction was analyzed. Work satisfaction and the consistency of these ratings were compared between the two groups and the moderating influence of metacognitive capacity was analyzed. A significant interaction effect revealed that higher metacognitive capacity predicted higher average job satisfaction only in the CBT group. Additionally, higher metacognitive capacity led to a more varied appraisal of work satisfaction only in the support group. (C) 2014 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2014.04.017",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a trial (RCT) without a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (with self-reports but no randomized controlled trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsychia, not on mental health disorders in general, and does not meet the specified inclusion criteria regarding the population.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

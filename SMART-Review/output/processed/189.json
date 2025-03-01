@@ -1,0 +1,33 @@
+{
+    "ArticleID": 189,
+    "Authors": "Laine, Hanna; Saastamoinen, Peppiina; Lahti, Jouni; Rahkonen, Ossi; Lahelma, Eero",
+    "Article Title": "The associations between psychosocial working conditions and changes in common mental disorders: a follow-up study",
+    "Abstract": "Background: Common mental disorders (CMD) are prevalent in working populations and have adverse consequences for employee well-being and work ability, even leading to early retirement. Several studies report associations between psychosocial working conditions and CMD. However, there is a lack of longitudinal research within a broad framework of psychosocial working conditions and improvement in CMD. The aim of this study was to examine the associations between several psychosocial working conditions and deteriorating and improving CMD among ageing employees over a five-to-six-year follow-up period.Methods: The study is based on the Helsinki Health Study baseline survey in 2001-2002 and a follow-up in 2007 (N = 4340, response rate 83%) conducted among 40-60-year-old female and male employees. The General Health Questionnaire (GHQ-12) was used to measure common mental disorders. Psychosocial working conditions were measured in terms of job strain, organisational justice, work-family interface, social support and workplace bullying. The covariates included sociodemographic and health factors.Results: Following adjustment for all the covariates, family-to-work (OR 1.41, 95% CI 1.04-1.91) and work-to-family conflicts (OR 1.99, 95% CI 1.42-2.78) and workplace bullying (OR 1.40, 95% CI 1.09-1.79) were associated with deterioration, and family-to-work conflicts (OR 1.65, 95% CI 1.66-2.34) and social support (OR 1.47, 95% CI 1.07-2.00) with improvement in CMD.Conclusions: Adverse psychosocial working conditions contribute to poor mental health among employees. Preventing workplace bullying, promoting social support and achieving a better balance between work and family may help employees to maintain their mental health.",
+    "DOI": "10.1186/1471-2458-14-588",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on the Helsinki Health Study baseline survey in 2001-2002 and a follow-up in 2007, which meets the inclusion criteria for timeframe. The intervention is job strain, organisational justice, work-family interface, social support, and workplace bullying, which meets the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on psychosocial working conditions and their impact on common mental disorders without examining any employment outcomes.",
+            "study_design": "Longitudinal follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not include a control group, which is a requirement for the study design.",
+            "study_design": "longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

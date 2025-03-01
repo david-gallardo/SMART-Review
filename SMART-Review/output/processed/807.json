@@ -1,0 +1,33 @@
+{
+    "ArticleID": 807,
+    "Authors": "del Cura Bilbao, Alicia; Vazquez, Maria Sandin",
+    "Article Title": "Activos para la salud y calidad de vida en personas diagnosticadas de enfermedad mental grave",
+    "Abstract": "Objective: To identify health assets and describe quality of life for people diagnosed with severe mental disorder through their own testimonies; to understand the necessities and barriers that affect their quality of life; and offer improvement recommendations. Method: A qualitative, descriptive analysis based on the information obtained through semi-structured interviews and asset mapping. Results: Assets are similar to those found in undiagnosed people, while needs and barriers differ in both groups. The main assets include social relationships, socioeconomic assets, personal development, leisure and free time assets, places, art, daily activities, which usually take place within the mental health network, sense of belonging, and autonomy. To improve their health and life quality, they need access to employment and studies, more and better social relationships, and more control over their lives. Side effects of medication and socio-economic exclusion, and the lack of autonomy derived from it are the main existing barriers, which have a negative effect in self-esteem and social interactions. An important measure to improve health and quality of life is the increase of economic and social assets for a more autonomous personal development. Conclusions: This community action for health care has served to reveal the similarities between health and quality of life assets for severe mental disorder diagnosed and undiagnosed people, as well as the differences in the needs and difficulties to achieve them. (c) 2020 SESPAS. Published by Elsevier Espana, S.L.U. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).",
+    "DOI": "10.1016/j.gaceta.2020.03.004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and descriptive, lacking a control group, which does not meet the inclusion criteria.",
+            "study_design": "Qualitative, descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and descriptive analysis based on semi-structured interviews and asset mapping, which does not meet the inclusion criteria of randomized controlled trials (RCTs), quasi-experimental studies with a control group, or systematic reviews/meta-analyses. Additionally, it focuses on health assets and quality of life rather than employment outcomes.",
+            "study_design": "Qualitative, descriptive analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and descriptive, lacking a rigorous evaluation or control group.",
+            "study_design": "Qualitative, descriptive analysis",
+            "logprobs": null
+        }
+    }
+}

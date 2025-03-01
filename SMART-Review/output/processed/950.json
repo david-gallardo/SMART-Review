@@ -1,0 +1,33 @@
+{
+    "ArticleID": 950,
+    "Authors": "Barbosa, Isabel; de Oliveira, Elizabeth Real",
+    "Article Title": "Beyond image: evaluating the perceived effectiveness of workplace mental health programs in the insurance sector",
+    "Abstract": "BackgroundMental health programs in the workplace have gained increasing attention as organizations strive to support employee well-being. However, the effectiveness and reception of these initiatives from the employee perspective still need to be studied.MethodsA qualitative study used 30 semi-structured interviews with individuals from large insurance companies in Portugal. It focused on their perceptions of workplace mental health programs, stress, and time management training. The participants ranged in age from 25 to 55 years (average 38), with a slightly more significant proportion of women, reflecting the gender distribution in the Portuguese insurance sector. The sample had an average of 10 years of industry experience, from entry-level to middle-management roles. Thematic analysis with an audit trail and thick description was used to analyse data.ResultsThe findings revealed a significant disconnect between the intended benefits of these programs and employee experiences. Many viewed the initiatives as primarily beneficial for the company's image rather than employee well-being. A common concern was that workload remained unchanged after training, leading employees to prioritize work over program participation. Additional key findings included generational differences in program perception, with younger employees expressing more frustration over the lack of follow-through. Most participants reported that initiatives failed to address the root causes of stress. More than half of the interviewees felt a lingering stigma around discussing mental health at work, whereas a majority mentioned increased stress due to rapid industry digitalization. Notably, many participants perceived a significant gap between upper management's promotion of mental health initiatives and their understanding of daily employee challenges.ConclusionsThese findings highlight a critical gap between implementing workplace mental health programs and their perceived value among employees. Organizations need to reevaluate their mental health initiatives to ensure that they provide tangible benefits and address underlying workplace stressors. Future research should explore strategies to better align mental health programs with the insurance sector's employee needs and work realities.",
+    "DOI": "10.1186/s12889-025-21302-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, lacking a control group, and does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (30 semi-structured interviews), lacks a rigorous evaluation or control group, and does not present measures of employment or labor results.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a qualitative investigation into employee perceptions of workplace mental health programs in the insurance sector, not an intervention study with a control group or an outcome measure of employment or labor results.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

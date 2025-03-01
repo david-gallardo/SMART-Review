@@ -1,0 +1,33 @@
+{
+    "ArticleID": 908,
+    "Authors": "Nelson, Geoffrey; Patterson, Michelle; Kirst, Maritt; Macnaughton, Eric; Isaak, Corinne A.; Nolin, Danielle; McAll, Christopher; Stergiopoulos, Vicky; Townley, Greg; MacLeod, Timothy; Piat, Myra; Goering, Paula N.",
+    "Article Title": "Life Changes Among Homeless Persons With Mental Illness: A Longitudinal Study of Housing First and Usual Treatment",
+    "Abstract": "Objective: This study compared the life changes of homeless people with mental illness participating in Housing First or treatment as usual and examined factors related to various changes.Methods: Semistructured narrative interviews were conducted with 219 participants in five Canadian cities at baseline; 197 were interviewed again at 18 months after random assignment to Housing First (N= 119) or treatment as usual (N= 78). Interviews were coded across 13 life domains, and each participant was categorized as reporting positive, mixed-neutral, or negative changes. Housing First and treatment as usual participants were compared with respect to change patterns. Thematic analysis was used to examine factors related to various changes.Results: The percentage of participants in Housing First reporting positive changes was more than double that for participants in treatment as usual, and treatment as usual participants were four times more likely than Housing First participants to report negative changes. Factors related to positive changes included having stable good-quality housing, increased control over substance use, positive relationships and social support, and valued social roles. Factors related to negative changes included precarious housing, negative social contacts, isolation, heavy substance use, and hopelessness. Factors related to mixed-neutral changes were similar to those for participants reporting negative changes but were less intense.Conclusions: Housing First with intensive support was related to more positive changes among homeless adults with mental illness across five Canadian cities. Those with poor housing or support, more common in treatment as usual, continued to struggle. These findings are relevant for services and social change to benefit this population.",
+    "DOI": "10.1176/appi.ps.201400201",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within Canada, meeting the inclusion criteria for geographic scope. The timeframe is within 2005-2025, meeting the inclusion criteria for timeframe. The intervention is Housing First, which is one of the interventions included in the inclusion criteria. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. It is a longitudinal study comparing Housing First and treatment as usual but does not fit into meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless individuals with mental illness and does not specifically address employment interventions or outcomes for people with mental health disorders in the workplace.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on housing and treatment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

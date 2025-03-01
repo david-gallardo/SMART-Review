@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1146,
+    "Authors": "Cichocki, Ben",
+    "Article Title": "The alliance in psychiatric rehabilitation: Client characteristics associated with the initial alliance in a supported employment program",
+    "Abstract": "BACKGROUND: The therapeutic alliance is associated with outcomes for individuals in psychiatric rehabilitation programs. However, there are no known studies examining factors associated with the alliance in these programs.OBJECTIVE: To determine whether client characteristics associated with the alliance across multiple populations and program types were associated with the alliance for individuals enrolling in a supported employment program.METHODS: Previously collected data were available for 70 individuals served by the single employment specialist in the program. Potential independent variables and the strength of their relationship to the alliance were identified, then further explored using a forward stepwise logistic regression model.RESULTS: Seventy-three percent of the sample had the highest possible alliance rating. Being older and having a smaller social network size were significantly correlated with a high alliance, but neither remained a predictor of the alliance, controlling for the effects of the other.CONCLUSIONS: Client age and social network size were associated with the initial alliance, though not in a model containing both variables. Low power may have hindered the ability to show additional relationships, and the uniqueness of the program structure limits the generalizability to other programs. Future research should investigate the variables examined further.",
+    "DOI": "10.3233/WOR-152107",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case series with no control group, which does not meet the inclusion criteria.",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional analysis using previously collected data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the therapesitic alliance in psychiatric rehabilitation programs, not on employment outcomes or interventions directly related to employment.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group as per the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group and does not use a rigorous evaluation method.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

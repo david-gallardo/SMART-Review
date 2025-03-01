@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1078,
+    "Authors": "Nischk, Daniel; Herwig, Uwe; Senner, Simon; Rockstroh, Brigitte",
+    "Article Title": "Effectiveness and Cost-Effectiveness of Individual Placement and Support (Ips) in Germany - A Controlled Trials with Individuals with Psychosis",
+    "Abstract": "Objective: To establish the effectiveness of Individual Placement and Support (IPS) to integrate people with mental illness into the general labor market, controlled comparisons with usual rehabilitative practice in terms of employment rates and cost-effectiveness are needed.Methods: 20 IPS participants with psychoses (primarily schizophrenia spectrum disorders) were compared with 20 controls who were offered usual rehabilitative practices in adjacent counties (rehabilitation as usual, RAU) over 18 months.Results: IPS was significantly superior to RAU on all job-related criteria with moderate to high effect sizes, with no differences in absenteeism, hospital days, or dropout rates. IPS was significantly superior to RAU on cost-effectiveness.Conclusion: This study provides evidence that IPS is an effective and cost-efficient addition to existing vocational rehabilitation services for people with psychoses.",
+    "DOI": "10.1055/a-2165-8728",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a controlled trial, which meets the inclusion criteria. The study is conducted in Germany, which falls within the specified geographic scope. The intervention is Individual Placement and Support (IPS), which is one of the specified interventions. The population is individuals with psychoses, which meets the population criterion. The outcomes include employment-related outcomes, which meets the outcome criterion.",
+            "study_design": "Controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU country - Germany), timeframe (2005-2025), intervention (supported employment), population (people with mental illness), and outcomes (employment rates).",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a controlled trial with a clear intervention (IPS) and a defined population (people with psychosis). It is within the specified timeframe and geographic scope, and the outcomes are relevant to the objective of identifying effective employment policies for people with mental health disorders.",
+            "study_design": "Controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study with a control group, conducted in Germany (EU country), published within the specified timeframe, focuses on supported employment for people with mental disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 779,
+    "Authors": "Bovopoulos, Nataly; LaMontagne, Anthony; Martin, Angela; Jorm, Anthony",
+    "Article Title": "Delivering mental health first aid training in Australian workplaces: exploring instructors' experiences",
+    "Abstract": "The impact of common mental illnesses in the workplace can be reduced by encouraging support from co-workers and promoting early professional help-seeking. The Mental Health First Aid (MHFA) course is an evidence-based effective program designed to encourage social support and early help-seeking in the general community. However, little is known about whether the course meets the needs of workplaces. The current study aimed to gain a better understanding of how the course is being delivered in Australian workplaces and invite feedback on how it could be tailored for this delivery setting. This study used a purpose-designed survey to explore 120 MHFA instructors' experiences of delivering the course in workplaces. The results indicated that MHFA is most commonly deployed in the human service and education sectors to assist workers with helping clients, rather than helping co-workers. The results also suggest ways in which the MHFA course could be tailored for workplaces, as well as further support instructors require to deliver courses in workplace settings.",
+    "DOI": "10.1080/14623730.2015.1122658",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is a survey of instructors' experiences without a comparison group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on the experiences of instructors delivering a mental health first aid course in workplaces.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Mental Health First Aid training in workpsaces, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

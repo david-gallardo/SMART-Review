@@ -1,0 +1,33 @@
+{
+    "ArticleID": 993,
+    "Authors": "Dowshen, Nadia; Matone, Meredith; Luan, Xianqun; Lee, Susan; Belzer, Marvin; Fernandez, Maria Isabel; Rubin, David",
+    "Article Title": "Behavioral and Health Outcomes for HIV plus Young Transgender Women (YTW) Linked To and Engaged in Medical Care",
+    "Abstract": "We describe health and psychosocial outcomes of HIV+ young transgender women (YTW) engaged in care across the United States. When compared to other behaviorally infected youth (BIY), YTW reported higher rates of unemployment (25% vs. 19%), limited educational achievement (42% vs 13%), and suboptimal ART adherence (51% vs. 30%). There was no difference in likelihood of having a detectable viral load (38% vs. 39%) between groups. However, particular isolating psychosocial factors (unstable housing, depression, and lack of social support for attending appointments) increased predicted probability of viral detection to a greater extent among YTW that may have important health implications for this marginalized youth population.",
+    "DOI": "10.1089/lgbt.2014.0062",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is HIV+ young transgender women, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on HIV+ young transgender women and does not meet the specified population criteria for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not include people with mental disorders as the primary population.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

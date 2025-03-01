@@ -1,0 +1,33 @@
+{
+    "ArticleID": 755,
+    "Authors": "Katikireddi, Srinivasa Vittal; Niedzwiedz, Claire L.; Popham, Frank",
+    "Article Title": "Employment status and income as potential mediators of educational inequalities in population mental health",
+    "Abstract": "We assessed whether educational inequalities in mental health may be mediated by employment status and household income. Poor mental health was assessed using General Health Questionnaire 'caseness' in working age adult participants ( N = 48 654) of the Health Survey for England (2001-10). Relative indices of inequality by education level were calculated. Substantial inequalities were apparent, with adjustment for employment status and household income markedly reducing their magnitude. Educational inequalities in mental health were attenuated by employment status. Policy responses to economic recession (such as active labour market interventions) might reduce mental health inequalities but longitudinal research is needed to exclude reverse causation.",
+    "DOI": "10.1093/eurpub/ckw126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a cross-sectional analysis without a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on the mediation of educational inequalities in mental health by employment status and household income.",
+            "study_design": "Cross-sectional analysis using data from a survey (Health Survey for England)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on educational inequalities in mental health and does not directly address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1318,
+    "Authors": "van der Laan, Jorien; van Straaten, Barbara; Boersma, Sandra N.; Rodenburg, Gerda; van de Mheen, Dike; Wolf, Judith R. L. M.",
+    "Article Title": "Predicting homeless people's perceived health after entering the social relief system in The Netherlands",
+    "Abstract": "We explored whether changes in the perceived health of homeless people after entering the social relief system (SRS) in The Netherlands were predicted by housing, income, hours of work, social support, unmet care needs, arrests, physical and mental health, substance use, and experiences of autonomy, competence and relatedness, in addition to perceived health at baseline, demographics, suspected intellectual disability, the duration of homelessness and the company of children in the shelter facility.A hierarchical regression analysis was used to explore the significant predictors of the perceived health of 344 homeless persons 18 months after entering the social relief system.A decrease in psychological distress and an increase in hours of (paid/voluntary) work as well as competence predicted a better perceived health.Perceived health is not only influenced by objective circumstances related to work and mental health, but also self-determination, as shown by the influence of competence. Services should aim to reduce psychological distress of homeless people, support them in increasing their working hours and focus on strengthening their competence.",
+    "DOI": "10.1007/s00038-017-1026-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a hierarchical regression analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Hierarchical regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is homeless people in The Netherlands, which does not specifically target people with mental health disorders.",
+            "study_design": "Cross-sectional survey using hierarchical regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless individuals, not specifically on people with mental health disorders, and does not directly address employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 695,
+    "Authors": "Heber, Elena; Lehr, Dirk; Ebert, David Daniel; Berking, Matthias; Riper, Heleen",
+    "Article Title": "Web-Based and Mobile Stress Management Intervention for Employees: A Randomized Controlled Trial",
+    "Abstract": "Background: Work-related stress is highly prevalent among employees and is associated with adverse mental health consequences. Web-based interventions offer the opportunity to deliver effective solutions on a large scale; however, the evidence is limited and the results conflicting.Objective: This randomized controlled trial evaluated the efficacy of guided Web-and mobile-based stress management training for employees.Methods: A total of 264 employees with elevated symptoms of stress (Perceived Stress Scale-10, PSS-10 >= 22) were recruited from the general working population and randomly assigned to an Internet-based stress management intervention (iSMI) or waitlist control group. The intervention (GET. ON Stress) was based on Lazarus's transactional model of stress, consisted of seven sessions, and applied both well-established problem solving and more recently developed emotion regulation strategies. Participants also had the opportunity to request automatic text messages on their mobile phone along with the iSMI. Participants received written feedback on every completed session from an e-coach. The primary outcome was perceived stress (PSS-10). Web-based self-report assessments for both groups were scheduled at baseline, 7 weeks, and 6 months. At 12 months, an extended follow-up was carried out for the iSMI group only.Results: An intention-to-treat analysis of covariance revealed significantly large effect differences between iSMI and waitlist control groups for perceived stress at posttest (F-1,F-261= 58.08, P<.001; Cohen's d=0.83) and at the 6-month follow-up (F-1,F-261= 80.17, P<.001; Cohen's d=1.02). The effects in the iSMI group were maintained at 12-month follow-up.Conclusions: This Web-and mobile-based intervention has proven effective in reducing stress in employees in the long term. Internet-based stress management interventions should be further pursued as a valuable alternative to face-to-face interventions.",
+    "DOI": "10.2196/jmir.5112",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group, which is required. The intervention is job search services (in this case, a web-based stress management intervention), and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as perceived stress (PSS-10), which is a measure of employment or labor results.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on stress management for employees.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stress management interventions for employees, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

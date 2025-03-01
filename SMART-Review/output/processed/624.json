@@ -1,0 +1,33 @@
+{
+    "ArticleID": 624,
+    "Authors": "Jackel, Dorothea; Kupper, Zeno; Glauser, Sibylle; Mueser, Kim T.; Hoffmann, Holger",
+    "Article Title": "Effects of Sustained Competitive Employment on Psychiatric Hospitalizations and Quality of Life",
+    "Abstract": "Objective: There is extensive evidence for the effectiveness of supported employment among people with severe mental illness. However, less research has been conducted to evaluate the effects of sustained competitive employment on nonvocational outcomes. The aim of this study was to evaluate the effects of sustained competitive work on quality of life and psychiatric hospitalizations.Methods: As part of a randomized controlled trial, a mediation analysis was used to compare the direct and indirect effects of supported employment versus a traditional vocational program on sustained competitive employment, days of psychiatric hospitalization, and quality of life among 85 participants over five years.Results: The five-year follow-up indicated that the effects of supported employment on reduced days of hospitalization and increased quality of life were fully mediated by the program's effects on increasing sustained competitive employment.Conclusions: The rehabilitative and therapeutic dimensions of functional health conditions are interrelated in the long term. The achievement of sustained competitive employment may be a key factor in improving social and psychiatric outcomes for people with severe and persistent mental disorders.",
+    "DOI": "10.1176/appi.ps.201600083",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group and presents measures of employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not directly address employment outcomes. The primary focus is on the effects of supported employment on psychiatric hospitalizations and quality of life, rather than employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychiatric hospitalizations and quality of life, not directly on employment outcomes.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that evaluates the effects of supported employment on employment outcomes among people with severe mental illness.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

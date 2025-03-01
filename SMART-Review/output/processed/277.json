@@ -1,0 +1,33 @@
+{
+    "ArticleID": 277,
+    "Authors": "Coelho, Julien; Lucas, Guillaume; Micoulaud-Franchi, Jean-Arthur; Tran, Bach; Yon, Dong Keon; Taillard, Jacques; D'Incau, Emmanuel; Philip, Pierre; Boyer, Laurent; Fond, Guillaume",
+    "Article Title": "Sleep timing, workplace well-being and mental health in healthcare workers",
+    "Abstract": "Introduction: Healthcare workers face an elevated risk of burnout, sleep disorders, and mental health issues, potentially stemming from the misalignment of their circadian rhythm due to nonstandard work schedules. This cross-sectional survey aims to examine the connections between sleep timing, workplace well-being (including burnout and absenteeism), and mental health outcomes (specifically depression and poor sleep) in healthcare workers. Additionally, the survey takes into account individual and professional factors, as well as the interaction with work schedules.Methods: The study encompasses 4,971 healthcare workers from both public and private healthcare facilities in France, including nurses, nursing assistants, and physicians recruited during the third wave of the COVID-19 pandemic. The Maslach Burnout Inventory assesses burnout, the Center for Epidemiologic Studies Depression Scale measures depression, and the Pittsburgh Sleep Quality Index evaluates poor sleep. Sleep timing is categorized into morning, neutral, and evening timing, referred to as midsleep. Multivariate logistic regression analysis is conducted to explore the relationships between sleep timing and burnout, depression, and poor sleep, while adjusting for various factors.Results: The findings reveal that 56.5% of participants experience burnout, 29.8% report depression, and 64.5% report poor sleep. Nurses and nursing assistants exhibit a higher prevalence of poor sleep. Morning sleep timing is associated with burnout among those with fixed schedules and with depression among those with shift schedules. Among physicians, both morning and evening sleep timing are associated with depression, while morning sleep timing is linked to poor sleep across all subgroups.Interpretation: This study suggests that the misalignment between healthcare workers' internal circadian rhythm and their work schedules may contribute to an increased risk of burnout, depression, and poor sleep. Occupational health services and policymakers should recognize the potential for enhancing workplace well-being and mental health outcomes by enabling healthcare workers to maintain sleep schedules that accommodate their needs.",
+    "DOI": "10.1016/j.sleep.2023.09.013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the connections between sleep timing, workplace well-being, and mental health outcomes in healthcare workers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, but rather on mental health outcomes and workplace well-bedependent factors.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1227,
+    "Authors": "Hegedues, Anna; Seidel, Elena; Steinauer, Regine",
+    "Article Title": "Participants' employment status and experiences in the year after the Experienced Involvement training",
+    "Abstract": "Background: Peer support workers (PSWs) are an emerging workforce within the Swiss mental health system. The Experienced Involvement' (EX-IN) training programmes prepare and certify individuals who have experienced mental health problems to work as PSWs.Aims: This study examined the influence of EX-IN training on participants' employment status and their experiences in the year after training.Method: We employed quantitative and qualitative methods. Quantitative data were collected at baseline, immediately after completion and at 1year post-training. Additionally, individual narrative interviews were conducted with 10 participants at 1year post-training.Results: At 1year of completion, the majority of participants were in paid employment. Difficulties included unclear PSW roles. The qualitative analyses revealed the following categories: Evolving from the patient role despite experiencing effects or consequences of mental illness', Feeling welcome and being confronted with conflicting expectations', Helping others while being needy at the same time' and Doing something worthwhile and the fear of failure'.Conclusion: Clear role descriptions, well-defined expectations, team preparation, acknowledgement of vulnerabilities and institution-level support PSWs are important to safeguard both PSWs and service users by minimising the destabilisation risk. Future EX-IN training graduates can benefit from the establishment of remunerated PSW roles in psychiatric services.",
+    "DOI": "10.1177/0020764015623969",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Switzerland), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The timeframe also falls outside the specified range (2005-2025).",
+            "study_design": "Quantitative and qualitative methods with no control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment policies for people with mental health disorders but rather on peer support workers' experiences and roles.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in one of the specified geographic locations (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

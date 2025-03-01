@@ -1,0 +1,33 @@
+{
+    "ArticleID": 777,
+    "Authors": "Covell, Nancy H.; Margolies, Paul J.; Myers, Robert W.; Ruderman, Douglas; Fazio, Marcia L.; McNabb, Liam M.; Gurran, Suzanne; Thorning, Helle; Watkins, Liza; Dixon, Lisa B.",
+    "Article Title": "Scaling Up Evidence-Based Behavioral Health Care Practices in New York State",
+    "Abstract": "This column describes the Center for Practice Innovations (CPI), which was created in 2007 by the New York State Office of Mental Health and the Department of Psychiatry at Columbia University. CPI uses innovative approaches to build stakeholder collaborations, develop and maintain practitioners' expertise, and build agency infrastructures that support implementing and sustaining evidence-based practices. CPI's five core initiatives provide training in co-occurring mental and substance use disorders, assertive community treatment, supported employment and education, wellness self-management, and treatment of first-episode psychosis. Central to CPI's activities are award-winning training modules, statewide learning collaboratives, and use of a learning management system.",
+    "DOI": "10.1176/appi.ps.201400071",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include rigorous evaluation or a control group. It focuses on the development and implementation of evidence-based practices rather than directly addressing employment outcomes for people with mental health disorders.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the implementation of evidence-based practices in behavioral health care, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Not specified in the abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design and lacks a rigorous evaluation or control group.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1265,
+    "Authors": "Hummel, Emilie; Cogne, Melanie; Lange, Marie; Lecuyer, Anatole; Joly, Florence; Gouranton, Valerie",
+    "Article Title": "VR for Vocational and Ecological Rehabilitation of Patients With Cognitive Impairment: A Survey",
+    "Abstract": "Cognitive impairment arises from various brain injuries or diseases, such as traumatic brain injury, stroke, schizophrenia, or cancer-related cognitive impairment. Cognitive impairment can be an obstacle for patients to the return-to-work. Research suggests various interventions using technology for cognitive and vocational rehabilitation. The present work offers an overview of sixteen vocational or ecological VR-based clinical studies among patients with cognitive impairment. The objective is to analyze these studies from a VR perspective focusing on the VR apparatus and tasks, adaptivity, transferability, and immersion of the interventions. Our results highlight how a higher level of immersion could bring the participants to a deeper level of engagement and transferability, rarely assessed in current literature, and a lack of adaptivity in studies involving patients with cognitive impairments. From these considerations, we discuss the challenges of creating a standardized yet adaptive protocol and the perspectives of using immersive technologies to allow precise monitoring, personalized rehabilitation and increased commitment.",
+    "DOI": "10.1109/TNSRE.2023.3324131",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the VR apparatus and tasks, adaptivity, transferability, and immersion of the interventions.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders. It focuses on cognitive impairment due to various brain injuries or diseases and uses VR for vocational rehabilitation.",
+            "study_design": "Survey of clinical studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive impairment and not specifically on mental health disorders. The intervention is also not directly related to employment policies.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

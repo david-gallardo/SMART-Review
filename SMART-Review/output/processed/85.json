@@ -1,0 +1,33 @@
+{
+    "ArticleID": 85,
+    "Authors": "Solar, Ann; Bennett, Kellie; Hulse, Gary",
+    "Article Title": "An intervention at an adult inpatient unit to engage people with schizophrenia and work goals with supported employment",
+    "Abstract": "ObjectiveTest an intervention for individuals with schizophrenia at an Adult Inpatient Unit with employment and social inclusion goals, compared to treatment as usual.MethodA single-blind, randomised, controlled trial assigned 25 participants to treatment as usual and 26 participants to receive an Individual Placement and Support (IPS) Disability Employment Service (DES) information pack and an offer of support from a nurse. Outcomes were measured at 6 and 12 months using Job Acquisition, IPS DES employment provider, Activity Participation Questionnaire-Revised, Brief Psychiatric Rating Scale, and Adult Hope Scale questionnaires, and Digit Span and Trail Making tests.ResultsThe intervention did not result in significant contact with the DES employment provider or paid employment outcomes. Secondary outcomes from combining groups due to high attrition rates: A significant proportion of participants obtained unpaid work from baseline to 6 months follow-up (N = 24, p = 0.001).ConclusionsThe 'light touch' intervention did not promote change. More support is required during inpatient admissions and after discharge to assist people with schizophrenia achieve their vocational goals.",
+    "DOI": "10.1177/10398562221147429",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The intervention in this study is IPS Disability Employment Service (DES) information pack and an offer of support from a nurse, which is not directly addressing employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it is a single-blind trial without randomization to the intervention and control groups. It does not meet the inclusion criteria for study design.",
+            "study_design": "Single-blind controlled trial without randomization",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with schizophrenia and does not specifically address employment interventions for people with mental health disorders in general. The study design is a randomized controlled trial (RCT), which meets the study design criteria. However, the study's population is too specific and does not encompass the broader population of people with mental health disorders as required by the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, focuses on supported employment for people with schizophrenia, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

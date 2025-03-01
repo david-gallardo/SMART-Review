@@ -1,0 +1,33 @@
+{
+    "ArticleID": 697,
+    "Authors": "Jiang, Nan; Lu, Nan",
+    "Article Title": "Correlates of Mental Illness and Health Categories among Older Adults in China: An Empirical Study Based on the Two Continua Model",
+    "Abstract": "Objective: Keyes' two continua model is a useful concept in which mental health and mental illness exist on two separate axes. Based on this model, this study examined the prevalence and correlates of three mental health categories among older adults in China. Methods: Cross-sectional data were derived from Wave 1 of the Study on Global AGEing and Adult Health. Participants were categorized into complete mental health (CMH), complete mental illness (CMI), and moderate mental health (MMH) groups. Multinomial logistic regressions were used. Results: The prevalence of CMH, CMI, and MMH in China was 18%, 16%, and 66%, respectively. Being female, unmarried, younger, and feeling unhealthy were more likely to result in placement in the CMI category. Employment, education, and cognitive function were identified as important protective factors of CMH. Age, income, urban or rural residence, and physical function difficulty were associated with all three categories. Discussion: We demonstrated the utility of the two continua model in identifying mental health needs in Chinese contexts. The findings suggest that future policy reforms and clinical interventions should establish a more comprehensive mental health category as a screening tool nationwide. The promotion of social engagement could play an important role in treating mental illness and improving positive mental health.",
+    "DOI": "10.1080/07317115.2018.1470589",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional data from Wave 1 of the Study on Global AGEing and Adult Health, which lacks a rigorous evaluation or control group. Additionally, the geographic scope is outside the specified regions (China). The intervention does not address employment directly, and the population is older adults in China, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 59,
+    "Authors": "Van de Poll, Marijke Keus; Bergstrom, Gunnar; Jensen, Irene; Nybergh, Lotta; Kwak, Lydia; Lornudd, Caroline; Lohela-Karlsson, Malin",
+    "Article Title": "Cost-Effectiveness of a Problem-Solving Intervention Aimed to Prevent Sickness Absence among Employees with Common Mental Disorders or Occupational Stress",
+    "Abstract": "The cost-benefit and cost-effectiveness of a work-directed intervention implemented by the occupational health service (OHS) for employees with common mental disorders (CMD) or stress related problems at work were investigated. The economic evaluation was conducted in a two-armed clustered RCT. Employees received either a problem-solving based intervention (PSI;n= 41) or care as usual (CAU;n= 59). Both were work-directed interventions. Data regarding sickness absence and production loss at work was gathered during a one-year follow-up. Bootstrap techniques were used to conduct a Cost-Benefit Analysis (CBA) and a Cost-Effectiveness Analysis (CEA) from both an employer and societal perspective. Intervention costs were lower for PSI than CAU. Costs for long-term sickness absence were higher for CAU, whereas costs for short-term sickness absence and production loss at work were higher for PSI. Mainly due to these costs, PSI was not cost-effective from the employer's perspective. However, PSI was cost-beneficial from a societal perspective. CEA showed that a one-day reduction of long-term sickness absence costed on average euro101 for PSI, a cost that primarily was borne by the employer. PSI reduced the socio-economic burden compared to CAU and could be recommended to policy makers. However, reduced long-term sickness absence, i.e., increased work attendance, was accompanied by employees perceiving higher levels of production loss at work and thus increased the cost for employers. This partly explains why an effective intervention was not cost-effective from the employer's perspective. Hence, additional adjustments and/or support at the workplace might be needed for reducing the loss of production at work.",
+    "DOI": "10.3390/ijerph17145234",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a two-armed clustered RCT, which meets the inclusion criteria. The intervention is job search services (problem-solving based intervention), and the population is employees with common mental disorders or occupational stress, which also meets the inclusion criteria. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Two-armed clustered RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on sickness absence and production loss. It also lacks an intervention that specifically targets job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Clustered RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe. It focuses on people with mental health disorders and includes employment outcomes such as sickness absence and production loss at work.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

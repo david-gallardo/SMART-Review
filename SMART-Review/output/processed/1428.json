@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1428,
+    "Authors": "Betz, Marian E.; Knoepke, Christopher E.; Siry, Bonnie; Clement, Ashley; Azrael, Deborah; Ernestus, Stephanie; Matlock, Daniel D.",
+    "Article Title": "'Lock to Live': development of a firearm storage decision aid to enhance lethal means counselling and prevent suicide",
+    "Abstract": "Objectives We sought to (1) clarify decision needs among suicidal adults with home firearm access; (2) identify accurate, unbiased and acceptable approaches for content and messaging; and (3) develop a tablet-delivered decision aid for firearm storage options. Methods Following international standards, we used stakeholder interviews to develop a decision aid for the decision, 'what option(s) to choose to reduce home access to firearms for an adult at risk of suicide'. Participants were adults with personal or family history of suicidal ideation or behaviours, firearm ownership or employment in a firearm range or store, involvement in suicide prevention field, or work as emergency department or other healthcare provider. Results Through 64 interviews, we created the 'Lock to Live' decision aid, which includes (1) introduction specifying the decision, (2) clarification of preferences and logistics, (3) table of storage options and (4) summary with specific next steps. The final tool had high user acceptability. Conclusions Should the 'Lock to Live' decision aid prove useful in a pilot feasibility trial and subsequent testing, it could enhance lethal means counselling and help prevent firearm suicide.",
+    "DOI": "10.1136/injuryprev-2018-042944",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is qualitative (stakeholder interviews), and the population does not reference mental health or has an undefined population.",
+            "study_design": "Qualitative (stakeholder interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the development of a decision aid for firearm storage to prevent suicide. It lacks an intervention related to active employment policies.",
+            "study_design": "Qualitative research (stakeholder interviews)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on firearm storage decision aids for suicide prevention, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Stakeholder interviews and development of a decision aid",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to mental health.",
+            "study_design": "Mixed methods (qualitative interviews and development of a decision aid)",
+            "logprobs": null
+        }
+    }
+}

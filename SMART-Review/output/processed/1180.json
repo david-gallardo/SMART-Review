@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1180,
+    "Authors": "Berg, Anne T.; Baca, Christine B.; Rychlik, Karen; Vickrey, Barbara G.; Caplan, Rochelle; Testa, Francine M.; Levy, Susan R.",
+    "Article Title": "Determinants of Social Outcomes in Adults With Childhood-onset Epilepsy",
+    "Abstract": "BACKGROUND: Adults with childhood-onset epilepsy experience poorer adult social outcomes than their peers. The relative roles of seizures over time versus learning and psychiatric problems are unclear.METHODS: We examined independent influences of psychiatric and learning disorders and of seizure course in 241 young adults (22-35 years old) with uncomplicated epilepsy in a longitudinal community-based cohort study. Social outcomes were ascertained throughout the study. A history of psychiatric and learning problems was ascertained similar to 9 years after study entry. Seizure course was: Excellent, no seizures after the first year, in complete remission at last contact (N = 95, 39%);  Good,  seizures occurred 1 to 5 years after diagnosis, in complete remission at last contact (N = 56, 23%);  Fluctuating,  more complicated trajectories, but never pharmacoresistant (N = 70, 29%);  Pharmacoresistant,  long-term pharmacoresistant (N = 20, 8%). Multiple logistic regression was used to identify contributors to each social outcome.RESULTS: Better seizure course predicted college completion, being either employed or pursuing a degree, and driving, but was not substantially associated with other social outcomes. Poorer seizure course was associated with a greater likelihood of having offspring, particularly in women without partners. Learning problems, psychiatric disorders, or both negatively influenced all but 2 of the social outcomes.CONCLUSIONS: In young adults with uncomplicated epilepsy, the course of seizures contributed primarily to education, employment, and driving. A history of learning problems and psychiatric disorders adversely influenced most adult outcomes. These findings identify potential reasons for vocational and social difficulties encountered by young adults with childhood epilepsy and areas to target for counseling and transition planning.",
+    "DOI": "10.1542/peds.2015-3944",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on social outcomes in adults with childhood-onset epilepsy, which is outside the scope of the inclusion criteria.",
+            "study_design": "Longitudinal community-based cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on social outcomes in adults with childhood-onset epilepsy.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

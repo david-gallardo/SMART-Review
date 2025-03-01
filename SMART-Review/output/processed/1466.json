@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1466,
+    "Authors": "Narain, Kimberly Danae Cauley; Jeffers, Kia Skrine",
+    "Article Title": "Exploring the Relationship Between Self-Employment and Health Among Blacks",
+    "Abstract": "Purpose: There is some evidence that self-employment may improve measures of cardiovascular and general health among the general population; however, no studies have examined this relationship among Non-Hispanic Blacks (NHBs). Studying the health implications of self-employment among NHBs is important because of the disparities that persist in both cardiovascular health and self-employment rates between NHBs and other racial/ethnic subgroups.Methods: A pooled cross-sectional analysis of data from the Behavioral Risk Factor Surveillance System (2000 to 2014) was used to explore the association between self-employment and the following self-reported outcomes: no exercise,'' fruit consumption, vegetable consumption, days of alcohol consumption, fair or poor health, hypertension, poor mental health days, and poor physical health days among the total population of NHBs and across gender/income subgroups.Results: We find favorable associations between self-employment and several measures of cardiovascular health (increased fruit and vegetable consumption, reduced reports of no exercise,'' and reduced reports of hypertension) and positive associations between self-employment, poor mental health days, and days of alcohol consumption among the total population. The nature of these associations varies across gender/ income subgroup.Conclusions: Given the disparities between racial/ethnic subgroups with respect to adverse cardiovascular outcomes and the well-documented roles of exercise and blood pressure control in limiting cardiovascular disease, it is important to probe the relationship between self-employment and health among NHBs further.",
+    "DOI": "10.1089/heq.2019.0084",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies directly. It focuses on the relationship between self-employment and health outcomes among Non-Hispanic Blacks.",
+            "study_design": "Pooled cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on self-employment and health among Non-Hispanic Blacks, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "pooled cross-sectional analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Pooled cross-sectional analysis",
+            "logprobs": null
+        }
+    }
+}

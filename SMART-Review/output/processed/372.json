@@ -1,0 +1,33 @@
+{
+    "ArticleID": 372,
+    "Authors": "Norder, G.; Hoedeman, R.; de Bruin, J.; van Rhenen, W.; Roelen, C. A. M.",
+    "Article Title": "Time to recurrence of mental health-related absence from work",
+    "Abstract": "Background It is unclear when occupational health providers should re-evaluate workers after mental health-related absences from work.Aims To investigate the time to recurrence of mental health-related absences, stratified by International Classification of Diseases-Tenth Revision (ICD-10) diagnostic categories.Methods A 10-year observational study of workers employed at a steel mill. Sickness absence data were retrieved from an occupational health register. Mental health-related absences were defined as absence due to emotional disturbance or mental and behavioural disorders. The first mental health-related absence since baseline was called the index episode. Recurrences were defined as mental health-related absences occurring >28 days after recovery from the index episode. The frequency of recurrent mental health-related absence was assessed by the recurrence density (RD) per 1000 person-years. The time to recurrent mental health-related absence was investigated by Kaplan-Meier survival analysis.Results Of 15 461 workers, 391 had recurrent mental health-related absences. RD was 30.5, 34.3, 29.9 and 37.7 per 1000 person-years after index episodes due to emotional disturbance, mood disorders, neurotic disorders and other psychiatric disorders, respectively. RDs did not differ across ICD-10 diagnostic categories. The median time to recurrent mental health-related absence was 15.2 months [95% confidence interval (CI) 12.6-17.7] and was shortest for mood disorders (5.2, 95% CI 1.4-8.9 months) and specific psychiatric disorders (5.3, 95% CI 1.0-13.1 months).Conclusions Based on this observational study, we suggest that occupational and primary health care providers consider reviewing the mental health status of workers 6 months after recovery from mental health-related absence.",
+    "DOI": "10.1093/occmed/kqv109",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a 10-year observational study with a control group, meeting the inclusion criteria for study design. The study is within the specified timeframe (2005-2025), and the intervention (job search services, adult training, wage subsidies, supported employment) is not explicitly mentioned but the study focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "10-year observational study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an observational study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. The study is also not focused on interventions but on the recurrence of mental health-related absences.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention related to employment policies.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

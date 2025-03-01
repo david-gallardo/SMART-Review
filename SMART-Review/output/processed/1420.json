@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1420,
+    "Authors": "Perreault, Michel; Power, Niamh; Toure, El Hadj; Caron, Jean",
+    "Article Title": "Transitional Employment and Psychological Distress: a Longitudinal Study",
+    "Abstract": "Although it has been established that employed status is generally associated with better mental health than unemployed status, the psychological mechanisms that underlie the longitudinal association between employment status and psychological distress remain to be understood. Initial mental health, lower coping skills and social support, and more stressful events could potentially preselect certain vulnerable individuals to be at higher risk for unemployment or employment instability. The aim of this study was to examine the longitudinal association between employment status (including transitional employment status) and psychological distress, controlling for the effect of initial psychological distress, coping skills, social support, and stressful events. In 2009, residents from the epidemiological catchment area of south-west Montreal responded to a randomized household survey for adults. Follow-up surveys were conducted in 2011 and 2013 (n = 1168). Psychological distress was measured using the K-10 scale. Employment status was not significantly associated with psychological distress over time, however there were significant differences between the groups with the continually employed reporting the lowest average levels of psychological distress over time. Controlling for coping skills, social support, stressful events and initial psychological distress changed the strengths of the association between transitional employment status and psychological distress at follow-up. A significant longitudinal association between continual unemployment and psychological distress was observed. Initial psychological distress was significantly associated with becoming unemployed. Results suggest initial psychological distress as a risk factor for becoming unemployed and that the negative psychological implications of employment transitions can be significantly reduced when conditions for coping are optimized.",
+    "DOI": "10.1007/s11126-020-09739-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Montreal, Canada), within the specified timeframe (2005-2025). The intervention is transitional employment, which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Longitudinal study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is longitudinal and does not include a control group. It lacks the rigorous evaluation required by the inclusion criteria.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the association between employment status and psychological distress. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

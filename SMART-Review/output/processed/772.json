@@ -1,0 +1,33 @@
+{
+    "ArticleID": 772,
+    "Authors": "Landolt, Karin; Brantschen, Elisabeth; Nordt, Carlos; Baertsch, Bettina; Kawohl, Wolfram; Roessler, Wulf",
+    "Article Title": "Association of Supported Employment With Cognitive Functioning and Employment Outcomes",
+    "Abstract": "Objective: Cognitive functioning affects employment outcomes in supported employment. This study examined which cognitive parameters are associated with employment outcomes for persons with mental illnesses and discusses possible mechanisms involved.Methods: Data stem from a randomized controlled trial conducted as part of the Zurich Impulse Program for the Sustainable Development of Mental Health Services (ZInEP). A sample of 116 patients in supported employment was recruited, coached, and followed up. Factor analysis and logistic regression were used to determine cognitive parameters associated with employment outcomes.Results: Results showed that verbal learning was positively associated with better employment outcomes (any job and employment for at least three months).Conclusions: Results of this study imply that training in verbal learning should be included in supported employment programs. More generally, elaborated models are needed to explain interactions between cognitive functioning, supported employment, and employment outcomes and to enhance understanding of the interrelationships between cognitive functioning, employment outcomes, and any mediating and moderating variables.",
+    "DOI": "10.1176/appi.ps.201500183",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted within the EU (Switzerland) and within the specified timeframe (2005-2025). The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment outcomes such as job duration and job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not directly address employment policies. Instead, it focuses on the association between cognitive functioning and employment outcomes in supported employment programs.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive functioning and its association with employment outcomes, not directly on employment interventions or policies.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for people with mental illnesses, conducted in Europe within the specified timeframe and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

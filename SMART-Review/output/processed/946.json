@@ -1,0 +1,33 @@
+{
+    "ArticleID": 946,
+    "Authors": "Johnson, Gene; Magee, Chris; Maru, Mihoko; Furlong-Norman, Kathleen; Rogers, E. Sally; Thompson, Kenneth",
+    "Article Title": "Personal and Societal Benefits of Providing Peer Support: A Survey of Peer Support Specialists",
+    "Abstract": "Objective: Peer-delivered services have burgeoned, and evidence of the effectiveness of peer support is increasing. However, the potential benefits to peer support specialists (PSSs) themselves are not as well understood. The authors conducted a survey of PSSs to examine potential benefits. Methods: A survey instrument was developed and refined and sent anonymously via the Internet to PSSs who had been employed for a minimum of two months by an agency that employs a large number of PSSs. Results: A total of 253 respondents completed the survey (70% response rate). Respondents reported a variety of benefits in the intrapersonal, social, mental health, recovery, spiritual, and professional domains. Forty percent of respondents reported discontinuing at least one type of disability or social benefit Conclusions: Results suggest that employment as a PSS is a potent vehicle for improving recovery and quality of life. Results accrue to society in reduction of public benefits.",
+    "DOI": "10.1176/appi.ps.201300113",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the perceived benefits to peer support specialists themselves rather than evaluating interventions aimed at improving employment rates or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders but rather on the benefits of employment for peer support specialists.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

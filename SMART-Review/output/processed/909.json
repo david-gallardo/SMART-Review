@@ -1,0 +1,33 @@
+{
+    "ArticleID": 909,
+    "Authors": "Tiles-Sar, Natalia; Habtewold, Tesfa Dejenie; Liemburg, Edith J.; van der Meer, Lisette; Bruggeman, Richard; Alizadeh, Behrooz Z.",
+    "Article Title": "Understanding Lifelong Factors and Prediction Models of Social Functioning After Psychosis Onset Using the Large-Scale GROUP Cohort Study",
+    "Abstract": "Background and hypothesis Current rates of poor social functioning (SF) in people with psychosis history reach 80% worldwide. We aimed to identify a core set of lifelong predictors and build prediction models of SF after psychosis onset. Study design We utilized data of 1119 patients from the Genetic Risk and Outcome in Psychosis (GROUP) longitudinal Dutch cohort. First, we applied group-based trajectory modeling to identify premorbid adjustment trajectories. We further investigated the association between the premorbid adjustment trajectories, six-year-long cognitive deficits, positive, and negative symptoms trajectories, and SF at 3-year and 6-year follow-ups. Next, we checked associations between demographics, clinical, and environmental factors measured at the baseline and SF at follow-up. Finally, we built and internally validated 2 predictive models of SF. Study results We found all trajectories were significantly associated with SF (P < .01), explaining up to 16% of SF variation (R-2 0.15 for 3- and 0.16 for 6-year follow-up). Demographics (sex, ethnicity, age, education), clinical parameters (genetic predisposition, illness duration, psychotic episodes, cannabis use), and environment (childhood trauma, number of moves, marriage, employment, urbanicity, unmet needs of social support) were also significantly associated with SF. After validation, final prediction models explained a variance up to 27% (95% CI: 0.23, 0.30) at 3-year and 26% (95% CI: 0.22, 0.31) at 6-year follow-up. Conclusions We found a core set of lifelong predictors of SF. Yet, the performance of our prediction models was moderate.",
+    "DOI": "10.1093/schbul/sbad046",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on social functioning after psychosis onset.",
+            "study_design": "Longitudinal cohort study with group-based trajectory modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on social functioning after psychosis onset.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on predicting social functioning after psychosis onset, not specifically on employment outcomes for people with mental health disorders. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

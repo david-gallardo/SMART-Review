@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1069,
+    "Authors": "Lukyanova, Valentina V.; Balcazar, Fabricio E.; Oberoi, Ashmeet K.; Suarez-Balcazar, Yolanda",
+    "Article Title": "Employment outcomes among African Americans and Whites with mental illness",
+    "Abstract": "BACKGROUND: People with mental illness often experience major difficulties in finding and maintaining sustainable employment. African Americans with mental illness have additional challenges to secure a job, as reflected in their significantly lower employment rates compared to Whites.OBJECTIVE: To examine the factors that contribute to racial disparities in employment outcomes for African-American and White Vocational Rehabilitation (VR) consumers with mental illness.METHODS: This study used VR data from a Midwestern state that included 2,122 African American and 4,284 White participants who reported mental illness in their VR records. Logistic regression analyses were conducted.RESULTS: African Americans had significantly more closures after referral and were closed as non-rehabilitated more often than Whites. Logistic regressions indicated that African Americans are less likely to be employed compared to Whites. The regression also found differences by gender (females more likely to find jobs than males) and age (middle age consumers [36 to 50] were more likely to find jobs than younger consumers [18 to 35]). Case expenditures between $1,000 and $4,999 were significantly lower for African Americans.CONCLUSIONS: VR agencies need to remain vigilant of potential discrepancies in service delivery among consumers from various ethnic groups and work hard to assure as much equality as possible.",
+    "DOI": "10.3233/WOR-131788",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is logistic regression analyses, which lacks a rigorous evaluation and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Logistic regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It examines racial disparities in employment outcomes among African Americans and Whites with mental illness but does not focus on active employment policies or interventions.",
+            "study_design": "Descriptive analysis using logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "The study design is not specified in the provided abstract, which is necessary to determine if it meets the study design criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

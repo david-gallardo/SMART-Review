@@ -1,0 +1,33 @@
+{
+    "ArticleID": 346,
+    "Authors": "Kukla, Marina; Strasburger, Amy M.; Salyers, Michelle P.; Rattray, Nicholas A.; Lysaker, Paul H.",
+    "Article Title": "Subjective Experiences of the Benefits and Key Elements of a Cognitive Behavioral Intervention Focused on Community Work Outcomes in Persons With Mental Illness",
+    "Abstract": "New research suggests that group-based cognitive behavioral therapy (CBT) may help improve employment outcomes in persons with mental illness, yet the effects and potential key elements facilitating change in such interventions are unclear. Using a mixed methods approach, this study examined the perspectives of persons with mental illness after participating in a pilot study of the CBT for Work Success intervention. Findings demonstrate that participants valued the intervention and perceived that it assisted them in achieving work goals. Therapeutic effects included improved self-efficacy, work motivation, enhanced sense of self as workers, and increased beliefs that work success is attainable. CBT for Work Success elements perceived to be important in facilitating work goals included cognitive restructuring, behavioral coping strategies, problem solving work barriers, meaningful reflection on oneself as a worker, and important factors associated with the group process. The authors discuss the implications of these findings and future research directions.",
+    "DOI": "10.1097/NMD.0000000000000601",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mixed-methods approach, which does not meet the inclusion criteria of a systematic review, meta-analysis, or controlled trial.",
+            "study_design": "Mixed-methods approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (mixed methods) without a control group, does not directly address employment outcomes, and the population is not clearly defined in terms of mental health disorders.",
+            "study_design": "Mixed Methods",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive behavioral therapy (CBT) intervention for employment outcomes in persons with mental illness, which does not directly address job search services, adult training, wage subsidies, or supported employment interventions as per the inclusion criteria. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required for inclusion.",
+            "study_design": "Mixed methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not rigorous enough (mixed methods approach without a control group) and does not specify employment outcomes such as employment rates, job duration, etc.",
+            "study_design": "Mixed methods",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 636,
+    "Authors": "Bakos-Block, Christine; Langabeer, James R.; Yatsco, Andrea; Cardenas-Turanzas, Marylou; Champagne-Langabeer, Tiffany",
+    "Article Title": "Prevalence of Mental Health Disorders among Individuals Enrolled in an Emergency Response Program for Treatment of Opioid Use Disorder",
+    "Abstract": "Background:Psychiatric co-occurring disorders among individuals with opioid use disorder has primarily focused on epidemiological surveys of patients in continuous or long-term treatment, yet little is known about the socio-economically vulnerable who are non-treatment seeking prior to an emergency response.Methods:We retrospectively analyzed data from patients who had enrolled in a study involving home outreach to patients referred from police, emergency medical services (EMS), or hospital emergency departments following an emergency response. The sample is largely socio-economically vulnerable with high rates of unemployment and uninsured. Eligible consenting patients received an intervention consisting of medication (buprenorphine), behavioral counseling, and peer support. Participants completed semi-structured, psychological instruments to assess current and prior history for both substance use and mental health disorders. We used descriptive statistics to evaluate rates of co-occurring mental health comorbidity.Results:Among 102 patients (average age = 36.5 years old), approximately 61 (59.8%) reported a prior mental health diagnosis, with 31 (30.3%) currently on medications for their diagnoses. Mood and anxiety disorders were most frequently recorded. Just over half (51%) had received any prior treatment for their substance use. Of those with dual disorders, 67.2% had experienced prior suicidal thoughts, and 63.7% reported polysubstance use of 5 or more substances.Conclusion:Co-occurring psychiatric disorders, and specifically mood and anxiety disorders, appear to be prevalent in vulnerable populations at an increased rate. Mental health assessments should routinely be performed in the emergency setting and in early stages of treatment.",
+    "DOI": "10.1177/1178221820981998",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is retrospective, lacks a control group, and does not meet the inclusion criteria for intervention as it focuses on medication, behavioral counseling, and peer support rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies. It focuses on the prevalence of mental health disorders among individuals enrolled in an emergency response program for opioid use disorder.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with opioid use disorder and does not specifically address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "retrospective analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 356,
+    "Authors": "Zhao, Emo",
+    "Article Title": "The key factors contributing to the persistence of homelessness",
+    "Abstract": "Homelessness is a long-standing social problem in many countries. People who work and volunteer in homeless shelters struggle with the question of how to help homeless people lead an independent life. We sought to answer this question using insights obtained from Google Scholar literature searches and personal experiences with homeless people. In this brief research, we explored the main causes of homelessness in the United States for children, youth, adults, elderly, women, and veterans, over the past decade. The results showed that the three leading causes of homelessness were substance abuse, domestic violence, and mental illness. These problems lead to the initial homelessness, and in turn, homelessness further exacerbates these problems. Preventing and reducing homelessness requires effective policies and community interventions, such as rehabilitation facilities for people with substance abuse, job placement assistance and accommodation for homeless people, and homeless camps in designated areas to serve as bases to help homeless people rebuild their lives. Solving the issue of homelessness will contribute to achieving the UN's Sustainable Development Goals.",
+    "DOI": "10.1080/13504509.2022.2120109",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, and it does not directly address employment or labor outcomes.",
+            "study_design": "Lack of rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies, etc.), and its geographic scope is limited to the United States. Additionally, while it discusses mental health issues, it focuses on homelessness rather than employment or labor outcomes.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homelessness, not employment outcomes for people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not present measures of employment or labor outcomes.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 274,
+    "Authors": "Hamilton, Alison B.; Williams, Lindsay; Washington, Donna L.",
+    "Article Title": "Military and Mental Health Correlates of Unemployment in a National Sample of Women Veterans",
+    "Abstract": "Background: The unemployment rate is currently higher among women Veterans than among male Veterans and civilian women. Employment is a key social determinant of health, with unemployment being strongly associated with adverse health.Objective: To identify military-related and health-related characteristics associated with unemployment in women Veterans.Research Design and Subjects: Secondary analysis of workforce participants (n = 1605) in the National Survey of Women Veterans telephone survey.Measures: Demographics, mental health conditions, health care utilization, and military experiences and effects. Unemployment was defined as being in the labor force but unemployed and looking for work.Analysis: The chi(2) analyses to identify characteristics of unemployed women Veterans; logistic regression to identify independent factors associated with unemployment.Results: Ten percent of women Veterans were unemployed. Independent correlates of unemployment were screening positive for depression [odds ratio (OR) = 4.7; 95% confidence interval [CI], 1.8-12.4], military service during wartime (OR = 2.9; 95%, CI 1.1-7.3), and service in the regular military (vs. in the National Guards/Reserves only) (OR = 6.8; 95% CI, 2.2-20.5). Two postactive duty perceptions related to not being respected and understood as a Veteran were each independently associated with unemployment.Conclusions: Whether depression underlies unemployment, is exacerbated by unemployment, or both, it is critical to identify and treat depression among women Veterans, and also to investigate women Veterans' experiences and identities in civilian life. Community-based employers may need education regarding women Veterans' unique histories and strengths. Women who served in the regular military and during wartime may benefit from job assistance before and after they leave the military. Gender-specific adaptation of employment services may be warranted.",
+    "DOI": "10.1097/MLR.0000000000000297",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of workforce participants in the National Survey of Women Veterans telephone survey, which meets the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and the intervention (unemployment) is relevant to the population (people with mental disorders or documented mental health problems).",
+            "study_design": "Secondary analysis of workforce participants in the National Survey of Women Veterans telephone survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies and lacks an intervention component. It is a secondary analysis of workforce participants without any controlled group or experimental design.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployment in women Veterans, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Secondary analysis of survey data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Secondary analysis of survey data with logistic regression",
+            "logprobs": null
+        }
+    }
+}

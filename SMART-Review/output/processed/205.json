@@ -1,0 +1,33 @@
+{
+    "ArticleID": 205,
+    "Authors": "Fan, Jonathan K.; Mustard, Cameron; Smith, Peter M.",
+    "Article Title": "Psychosocial Work Conditions and Mental Health: Examining Differences Across Mental Illness and Well-Being Outcomes",
+    "Abstract": "Objectives: Psychosocial work conditions are determinants of mental illness among worker populations. However, while the focus on negative aspects of mental health has generated important contributions to the development of workplace interventions, there is less evidence on the factors that support the positive aspects of mental well-being. This study aimed to examine the association between psychosocial work conditions and mental health outcomes among a representative sample of Canadian workers; and to assess whether the relationships are consistent across measures of mental illness versus mental well-being.Methods: Population-based data were obtained from the cross-sectional 2012 Canadian Community Health Survey. Psychosocial work conditions were measured using an abbreviated version of the Job Content Questionnaire. For mental illness, we focused on major depressive episodes, generalized anxiety disorders, and bipolar disorders in the past 12 months, as measured using Composite International Diagnostic Interview criteria. Mental well-being was defined as having flourishing mental health, based on items from the Mental Health Continuum-Short Form. Regression models provided odds ratios (ORs) and fitted probabilities for the relationship between work conditions and mental health, adjusting for covariates.Results: Higher levels of job control, social support, and job security were associated with being free of disorders (ORs ranging from 1.08 to 1.15) as well as having flourishing mental health (ORs ranging from 1.10 to 1.14). Lower physical effort was associated with decreased odds of having flourishing mental health (OR 0.89). Psychological demands were not associated with any of the mental health outcomes in the fully-adjusted models. The overall pattern of these relationships was consistent across the two outcome models, although there was evidence of heterogeneity on the absolute probability scale. Specifically, there was a relatively stronger relationship between job control/social support/physical demands and well-being outcomes, compared with disorder outcomes.Conclusions: Psychosocial work conditions were associated with both negative and positive measures of mental health. However, mental illness and mental well-being may represent complementary, yet distinct, aspects in relation to psychosocial work conditions. Interventions targeting the psychosocial work environment may serve to improve both of these dimensions, although the measurement and examination of specific dimensions may be required to obtain an integrated and comprehensive understanding of mental health in the workplace.",
+    "DOI": "10.1093/annweh/wxz028",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is Canada, within the EU, Europe, US, Canada, or Australia. The timeframe is 2012, within the 2005-2025 range. The intervention is job search services, adult training, wage subsidies, supported employment, and psychosocial work conditions, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cross-sectional analysis with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It focuses on psychosocial work conditions and their association with mental health outcomes (mental illness and well-being) without examining specific employment policies or interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

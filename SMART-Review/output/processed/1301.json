@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1301,
+    "Authors": "Carter, Angela",
+    "Article Title": "The Consequences of Adolescent Delinquent Behavior for Adult Employment Outcomes",
+    "Abstract": "Delinquent behavior is common during adolescence and may disrupt trajectories of labor market attainment. Estimates of the relationship between delinquency and employment are threatened by selection bias, as youth who engage in delinquency often differ substantially from youth who do not. The current study examined the association between adolescents' engagement in serious delinquency and four measures of occupational attainment in young adulthood: unemployment, personal earnings, employer-provided benefits, and occupational earnings. It examined the effect of delinquency independent of between-person differences in a variety of attributes and tested whether the hypothesized relationship was mediated by educational attainment, work experience, disconnectedness from both education and work, or criminal justice sanctioning. This study analyzed data from the first four waves of the National Longitudinal Survey of Adolescent to Adult Health (Add Health), yielding an analytic sample of 14,800 (51% female, mean age 16 years). The Wave 1 Add Health survey was administered in 1994-1995, and Wave 4 of the survey was administered in 2007-2008. The analytic strategy, propensity score weighting, produced estimates that were less biased by differences between youth who had and who had not engaged in delinquent behavior. The study found that delinquency was significantly associated with the likelihood of being unemployed: compared to non-delinquents, delinquents were more likely to be unemployed even after controlling for temporally prior traits and resources, human capital, and criminal justice contact. The results provided more qualified support for hypothesized relationships between delinquency and job quality. The study concluded that offending may result in less fruitful job searches, but once a search results in employment, employed delinquents are not readily discernible from employed non-delinquents in the quality of their jobs. These conclusions contribute to literature on the labor market outcomes of people with histories of adolescent delinquency as they enter young adulthood.",
+    "DOI": "10.1007/s10964-018-0934-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the relationship between adolescent delinquent behavior and adult employment outcomes, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the consequences of adolescent delinquent behavior on adult employment outcomes.",
+            "study_design": "Cross-sectional analysis using propensity score weighting",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adolescents with delinquent behavior, not adults with mental health disorders.",
+            "study_design": "Analysis of data from the National Longitudinal Survey of Adolescent to Adult Health (Add Health), using propensity score weighting to control for biases.",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

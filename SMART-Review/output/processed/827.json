@@ -1,0 +1,33 @@
+{
+    "ArticleID": 827,
+    "Authors": "LePage, James P.; Crawford, April M.; Martin, W. Blake; Ottomanelli, Lisa; Cipher, Daisha; Rock, Avery; Parish-Johnson, Julie; Washington, Edward",
+    "Article Title": "The Association Between Time Incarcerated and Employment Success: Comparing Traditional Vocational Services With a Hybrid Supported Employment Program for Veterans",
+    "Abstract": "Objective: This study evaluates the effects of time incarcerated on employment outcomes between a manualized vocational program, the About Face Vocational Program (AFVP), and a hybrid program of the AFVP and Individualized Placement and Support, Supported Employment (AFVP + IPS-SE). Method: Eighty-four veterans with the histories of felony convictions and a mental illness or a substance use disorder were randomly assigned to the AFVP or AFVP + IPS-SE conditions and followed for 6 months. The associations between time to employment and months incarcerated were evaluated using nonparametric tests. Findings: The number of months incarcerated was positively associated with time to employment in the hybrid AFVP + IPS-SE condition but not the AFVP condition. In addition, significant differences were found between employment rates of the groups at lower number of months incarcerated, with higher rates of employment in the hybrid AFVP + IPS-SE condition, becoming similar as months incarcerated increased. Conclusion and Implications for Practice: Number of months incarcerated may have a deleterious effect on employment rates when using IPS-SE.",
+    "DOI": "10.1037/prj0000418",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The article discusses labor regulation policies (labor laws for veterans) and does not directly address employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions of interest (job search services, adult training, wage subsidies, supported employment) and its population is veterans with felony convictions and mental illness/substance use disorders. The intervention evaluated is a hybrid vocational program which does not specifically target employment policies for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with felony convictions and does not specifically target people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating supported employment for veterans with mental health disorders and reports on employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 82,
+    "Authors": "Hilarion, Pilar; Koatz, Debora; Bonet, Pere; Cid, Jordi; Pinar, Immaculada; Otin, Jose M.; Espallargues, Mireia; Molina, Cristina; Sunol, Rosa",
+    "Article Title": "Implementation of the Individual Placement and Support Pilot Program in Spain",
+    "Abstract": "Objective: This article describes the adoption of Individual Placement and Support (IPS) supported employment between 2013 and 2017 in Catalonia (Spain) in the context of high unemployment and a predominance of traditional preemployment training approaches. It reports the experience of implementing IPS to promote competitive job placement of people with mental disorders. Method: The Avedis Donabedian Research Institute (FAD) designed. trained, implemented. and evaluated the project. We used a longitudinal. mixed-methods approach. Results: The demonstration project comprised 7 employment services and 12 ambulatory mental health centers. It followed up programs and participants from October 2013 to December 2017. The project added 1,188 new competitive jobs, increased the rate of competitive employment from 16% to 43%, and improved the fidelity of IPS by 44% on the organizational dimension and by 34% on services dimension. The quality of employment was similar to the overall employment market, with 94% of temporary jobs. The qualitative analysis confirmed several areas of improvement, including the vision of recovery, collaborations between vocational and mental health services, work patterns of practitioners, and views of work as an important treatment. Conclusions and implications for Practice: A strong leadership team, consistent training. and commitment to model fidelity have established IPS in the pilot region as an important intervention to obtain and maintain competitive employment and recovery for people with a mental health condition.",
+    "DOI": "10.1037/prj0000398",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is from Spain which does not meet the geographic scope criteria (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Quasi-experimental with a longitudinal mixed-methods approach.",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal, mixed-methods approach with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, specifically Spain, meeting the inclusion criteria for geographic scope. The timeframe is between 2013 and 2017, meeting the inclusion criteria for timeframe. The intervention is Individual Placement and Support (IPS) supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Longitudinal, mixed-methods approach with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion.",
+            "study_design": "Longitudinal mixed-methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of supported employment in Spain within the specified timeframe and geographic scope.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

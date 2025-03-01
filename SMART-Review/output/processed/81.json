@@ -1,0 +1,33 @@
+{
+    "ArticleID": 81,
+    "Authors": "Waghorn, Geoffrey; Saha, Sukankta; McGrath, John J.",
+    "Article Title": "Correlates of Competitive Versus Noncompetitive Employment Among Adults With Psychotic Disorders",
+    "Abstract": "Objective: Studies of the demographic and clinical correlates of. employment activity have proven useful for identifying employment assistance needs among people with severe and persistent mental illness. However, the results of prior studies remain unclear, and most reviews of prior studies have not differentiated competitive from noncompetitive employment. This study attempted to clarify the relative strength and consistency of correlates of competitive versus noncompetitive employment. Methods: Data were drawn from a population-based survey of Australian adults with psychotic disorders between March and December 2010. Demographic, clinical, and employment assistance correlates of competitive and noncompetitive employment were compared. The sample comprised 1,825 participants who agreed to face-to-face interviews. Results: A total of 408 (22.3%) participants were employed in the previous four weeks, 330 (18.1%) in competitive employment and 78 (4.3%) in noncompetitive employment. Those in competitive employment were more likely to be female and aged 18-34, to have a partner, to have received formal vocational training or education after high school, and to have no literacy difficulties.. Better global functioning, shorter illness duration, less severe course of illness, and affective versus non-affective psychosis were associated with a greater likelihood of competitive employment. Those using Australian government employment services were less likely to be in competitive employment, suggesting a service provider preference for noncompetitive employment. Conclusions: Four times as many employees were in competitive employment than in noncompetitive employment. The negative relationship between employment assistance and competitive employment highlights the urgent need to improve the effectiveness of Australian employment services for people with severe mental illnesses.",
+    "DOI": "10.1176/appi.ps.201300096",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a population-based survey with a control group, meeting the inclusion criteria for study design. The geographic scope is Australia, within the specified region. The timeframe is 2010, within the specified range. The intervention is competitive versus noncompetitive employment, addressing employment outcomes. The population is adults with psychotic disorders, referencing mental health. The outcomes include employment rates and job quality.",
+            "study_design": "Population-based survey with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include a control group. Additionally, while it focuses on adults with psychotic disorders, which falls under people with mental health problems, its outcomes do not specifically address employment or labor results.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with psychotic disorders in Australia and does not specifically address employment interventions for people with mental health disorders in general. The study also does not include a control group, which is a key inclusion criterion.",
+            "study_design": "Population-based survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

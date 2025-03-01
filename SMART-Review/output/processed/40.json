@@ -1,0 +1,33 @@
+{
+    "ArticleID": 40,
+    "Authors": "Cook, Judith A.; Steigman, Pamela J.; Swarbrick, Margaret; Burke-Miller, Jane K.; Laing, Taina B.; Vite, Laurie; Jonikas, Jessica A.; Brown, Isaac",
+    "Article Title": "Outcomes of Peer-Provided Individual Placement and Support Services in a Mental Health Peer-Run Vocational Program",
+    "Abstract": "Objective: The authors sought to determine whether staff at a peer-run agency could deliver supported employ-ment services with high fidelity to the individual placement and support (IPS) model and whether employment out-comes of peer-delivered IPS plus work-specific health promotion were superior to usual supported employment services. Methods: Two teams from a vocational program of a large peer-run agency were studied from July 2015 to July 2017. One team received training and supervision in delivering IPS plus employment-focused physical wellness support and mentoring. The other team continued providing usual sup-ported employment services. Study data included vocational outcomes from 348 clients served by the two teams (IPS, N=184; comparison condition, N=164) and the results of IPS fidelity reviews of the IPS team at study baseline, midpoint, and end. The authors modeled the primary outcome of competitive employment with random-effects logistic regression and adjusted propensity scores for age, gender, race, ethnicity, education, and months of service receipt. Results: Following training, the IPS team demonstrated ac-ceptable and increasing fidelity to the IPS model, achieving good fidelity by the end of the 25-month observation period. Among IPS recipients, 43% achieved competitive employment versus 21% of comparison recipients (p<0.001). Multivariable analysis indicated that IPS recipients were signifi-cantly more likely to achieve competitive employment than individuals in the comparison group (OR=4.06, p<0.001). Conclusions: Providing training in IPS along with health promotion to the behavioral health peer workforce may help address the severe shortage of IPS services and enhance the competitive employment outcomes of people served by peer-run programs.",
+    "DOI": "10.1176/appi.ps.20220134",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a control group. The comparison condition is described as 'usual supported employment services' but this is not a true control group with no intervention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not clearly stated as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion. The study also does not specify the intervention as job search services, adult training, wage subsidies, or supported employment, which are required interventions in the inclusion criteria.",
+            "study_design": "Not clearly stated",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, conducted in the US within the specified timeframe (2015-2017), and focuses on supported employment for people with mental health disorders, with outcomes including competitive employment rates.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 292,
+    "Authors": "Borger, Christine; Marrow, Jocelyn; Drake, Robert E.; Taylor, Jeffrey",
+    "Article Title": "Characteristics of Enrollees in the Supported Employment Demonstration",
+    "Abstract": "Objective: The Supported Employment Demonstration (SED), a multiyear (2016-2022), randomized controlled trial funded by the Social Security Administration, recruited a nontraditional sample of benefits applicants with self-reported or documented mental health conditions who were denied disability benefits and who expressed a desire for employment. This study describes the characteristics of the SED sample at baseline. Methods: The authors analyzed baseline data from the 2,960 eligible enrollees, including responses to the Composite International Diagnostic Interview, the 12-item Short-Form Health Survey (SF-12), and the Work Disability Functional Assessment Battery (WD-FAB). Results: A majority of SED enrollees self-identified as female (57%), White (56%), and non-Hispanic (87%). Many were 35 years or older (58%), reported at least a high school education (81%), lived with relatives (69%), had never married (55%), were unemployed (81%), and were poor. Median monthly household income was $1,200. Anxiety disorders (71%), personality disorders (65%), and mood disorders (61%) were prevalent. Enrollees reported a mean +/- SD of 2.5 +/- 1.3 mental health conditions and 3.5 +/- 2.1 general medical conditions. Health-related quality of life was low, relative to national norms: mean scores for the sample were 32.6 +/- 12.5 on the SF-12 mental component summary and 38.3 +/- 13.0 on the physical component summary. Mean scores on the WD-FAB subdomains were more than a SD below norms. Conclusions: At baseline, the SED sample had multiple mental health and general medical conditions, low quality of life, and low functional ability. Despite these challenges, the ongoing SED intervention seeks to build on enrollees' expressed desire for employment.",
+    "DOI": "10.1176/appi.ps.202000826",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is also within the specified timeframe (2016-2022), and the intervention is supported employment, which is one of the included interventions. The population is people with mental health disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a control group and does not directly address the effectiveness of interventions on employment outcomes.",
+            "study_design": "Descriptive analysis of baseline data from a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a randomized controlled trial (RCT) and meets the study design criteria. However, it does not focus on job search services, adult training, wage subsidies, or supported employment intervents, which are the specified interventions of interest. Additionally, the study'senrolled participants are not explicitly described as having mental disorders or documented mental health problems, which is a requirement for the study to be included. The study also does not provide employment or labor outcomes, which are necessary to meet the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

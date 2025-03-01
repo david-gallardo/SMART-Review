@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1147,
+    "Authors": "Goetz, Lance L; Ottomanelli, Lisa; Barnett, Scott D; Sutton, Bryce; Njoh, Eni",
+    "Article Title": "Relationship Between Comorbidities and Employment Among Veterans with Spinal Cord Injury.",
+    "Abstract": "Objective: To determine the relationship between medical and mental health comorbidities in a large cohort of veterans with spinal cord injury (SCI). Methods: Data were collected from interviews and electronic medical records of veterans with SCI (N = 1,047) who received care at 7 geographically diverse SCI centers within the Department of Veterans Affairs across the country (https://clinicaltrials.gov/ct2/show/NCT01141647). Employment, medical, functional, and psychosocial data underwent cross-sectional analysis. Results: Lack of any documented mental health diagnosis correlated strongly with being employed at the time of enrollment. No single comorbidity was associated with employment at enrollment, but an increased number of medical and/or mental health comorbidities (health burden) were associated with a decreased likelihood of employment at the time of enrollment. Conclusion: Further investigation is needed to clarify whether comorbidity severity or combinations of specific comorbidities predict rehabilitation outcome, including employment.",
+    "DOI": "10.1310/sci16-00047",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention (employment policies) and population (people with mental health disorders). It focuses on veterans with spinal cord injury and examines comorbidities rather than employment interventions.",
+            "study_design": "Cross-sectional analysis of medical records and interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with spinal cord injury, which is not the targeted population for active employment policies for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        }
+    }
+}

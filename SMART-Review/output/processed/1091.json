@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1091,
+    "Authors": "Sanches, Sarita A.; Swildens, W. E.; van Busschbach, J. T.; van Weeghel, J.",
+    "Article Title": "Identifying social participation subgroups of individuals with severe mental illnesses: a latent class analysis",
+    "Abstract": "Purpose To investigate factors that influence participation in and needs for work and other daytime activities among individuals with severe mental illnesses (SMI). Methods A latent class analysis using routine outcome monitoring data from 1069 patients was conducted to investigate whether subgroups of individuals with SMI can be distinguished based on participation in work or other daytime activities, needs for care in these areas, and the differences between these subgroups. Results Four subgroups could be distinguished: (1) an inactive group without daytime activities or paid employment and many needs for care in these areas; (2) a moderately active group with some daytime activities, no paid employment, and few needs for care; (3) an active group with more daytime activities, no paid employment, and mainly met needs for care; and (4) a group engaged in paid employment without needs for care in this area. Groups differed significantly from each other in age, duration in MHC, living situation, educational level, having a life partner or not, needs for care regarding social contacts, quality of life, psychosocial functioning, and psychiatric symptoms. Differences were not found for clinical diagnosis or gender. Conclusions Among individuals with SMI, different subgroups can be distinguished based on employment situation, daytime activities, and needs for care in these areas. Subgroups differ from each other on patient characteristics and each subgroup poses specific challenges, underlining the need for tailored rehabilitation interventions. Special attention is needed for individuals who are involuntarily inactive, with severe psychiatric symptoms and problems in psychosocial functioning.",
+    "DOI": "10.1007/s00127-019-01704-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a latent class analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Latent Class Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on latent class analysis of subgroups based on participation in work and other daytime activities among individuals with severe mental illnesses.",
+            "study_design": "Latent Class Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on participation in daytime activities and needs for care among individuals with severe mental illnesses.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        }
+    }
+}

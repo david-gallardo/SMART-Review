@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1461,
+    "Authors": "Pogue, Jacqueline A.; Bond, Gary R.; Drake, Robert E.; Becker, Deborah R.; Logsdon, Susanne M.",
+    "Article Title": "Growth of IPS Supported Employment Programs in the United States: An Update",
+    "Abstract": "Objective: Individual placement and support (IPS), an evidence-based supported employment practice, is a core service in community mental health in the United States. Several factors promote the growth of IPS, including a network of 24 states participating in a learning community devoted to expanding IPS services. This study examined growth of IPS in the United States from 2016 to 2019, comparing growth rates for states within and outside the learning community.Methods: This national survey included telephone interviews with 70 representatives from state mental health and vocational rehabilitation agencies in 50 states and the District of Columbia, replicating methods of a 2016 survey. The primary outcomes were the number of IPS programs and clients served. The survey inquired about four indicators of state-level support for IPS implementation and sustainment: collaboration between state agencies, independent fidelity reviews, technical assistance and training, and funding.Results: In 2019, 41 (80%) of 50 states and the District of Columbia had IPS services, with 857 IPS programs serving an estimated 43,209 clients. Between 2016 and 2019, the number of programs increased from 272 to 486 in 22 learning-community states and two learning-community counties, and from 251 to 371 in 18 states outside the learning community. State-level support for IPS was significantly greater in learning-community states, compared with non-learning-community states.Conclusions: IPS services expanded substantially in the United States between 2016 and 2019. Learning-community states had more rapid growth and provided greater implementation support, facilitating implementation, expansion, and sustainment of high-fidelity IPS. Nevertheless, access to IPS remains limited.",
+    "DOI": "10.1176/appi.ps.202100199",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a national survey with telephone interviews, which meets the inclusion criteria for systematic reviews. The study includes a control group (states within and outside the learning community) and presents measures of employment outcomes (number of IPS programs and clients served).",
+            "study_design": "Systematic review with telephone interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly evaluate the effectiveness of employment policies for people with mental health disorders. It focuses on the growth and implementation of IPS programs in the United States without providing outcomes related to employment or labor results.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on the EU (United States in this case), covers the timeframe 2016-2019, discusses interventions like job search services and supported employment, and addresses the population with mental health disorders. It also reports on employment outcomes such as the number of IPS programs and clients served.",
+            "study_design": "Systematic review of controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a national survey which can be considered as quasi-experimental with a control group (learning community vs non-learning community states), focuses on supported employment in the US within the specified timeframe, and includes outcomes related to job programs for people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

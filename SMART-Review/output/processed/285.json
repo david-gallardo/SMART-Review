@@ -1,0 +1,33 @@
+{
+    "ArticleID": 285,
+    "Authors": "Nelson, Elisa B.; Franco, Olivia H.; Patton, Bridgette A.; Schmidt, Lyndsay R.; Lawley, H. Steven; Calkins, Monica E.; Kohler, Christian G.",
+    "Article Title": "Telehealth of Coordinated Specialty Care in Early Psychosis During COVID-19",
+    "Abstract": "Background: The coronavirus 2019 (COVID-19) pandemic forced health care globally to provide remote services when feasible. In March 2020, psychiatric outpatient services across the United States transitioned to telehealth. Persons with early psychosis (EP) face challenges to maintain connection with care, an important element associated with better outcome. The ongoing pandemic offers the opportunity to review the feasibility of EP services using telehealth and to evaluate implications for continued implementation.Methods: We examined delivery of coordinated specialty care (CSC) for 49 individuals aged 16-30 years enrolled in an EP (first-episode psychosis and clinical high risk) university-affiliated outpatient clinic located in Philadelphia, Pennsylvania, from March 2020 to July 2021, during which most appointments were delivered through telehealth. The services evaluated in this setting include psychotherapy, medication management, employment and educational services, peer support, and multifamily psychoeducation group. We compared completed and missed appointment rates across services and new enrollment rates with in-person versus hybrid telehealth and in-person care pre-COVID-19 and during the pandemic.Results: In 6 months pre- COVID-19 (September 2019-February 2020), the Psychosis Evaluation and Recovery Center enrolled a mean of 4 people/mo compared to during the pandemic (March 2020-July 2021), when a mean of 2.2 people/mo were enrolled. The total number of completed psychology appointments pre-COVID-19 ranged from 51 to 88 and during the pandemic ranged from 72 to 137. The rate of missed psychology appointments ranged from 1.4% to 6.4% pre-COVID-19 and from 3.4% to 11.3% during the pandemic. The total number of completed medication management appointments preCOVID-19 ranged from 35 to 59 and during the pandemic ranged from 22 to 66. The rate of missed medication management appointments ranged from 2.1% to 8.0% pre-COVID-19 and from 1.7% to 9.1% during the pandemic. The total number of completed supported education and employment services appointments pre-COVID-19 ranged from 5 to 11 and during the pandemic ranged from 3 to 16. Finally, the mean number of family members in attendance at the family psychoeducation group was 8.3 pre-COVID-19 and 17.1 during the pandemic.Conclusions: New and continued engagement across services in EP CSC during the COVID-19 pandemic supports feasibility of telehealth and suggests that offering a hybrid model of in-person and telehealth should be considered once restrictions are lifted.",
+    "DOI": "10.4088/JCP.21m14259",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines the feasibility of telehealth for coordinated specialty care in early psychosis during the COVID-19 pandemic.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the feasibility and implications of telehealth services for early psychosis during the COVID-19 pandemic.",
+            "study_design": "Quasi-experimental with pre-post comparison",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

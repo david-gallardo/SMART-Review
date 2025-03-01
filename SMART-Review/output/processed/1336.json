@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1336,
+    "Authors": "Peccoralo, Lauren A. A.; Pietrzak, Robert H. H.; Tong, Michelle; Kaplan, Sabrina; Feingold, Jordyn H. H.; Feder, Adriana; Chan, Chi; Verity, Jaclyn; Charney, Dennis; Ripp, Jonathan",
+    "Article Title": "A Longitudinal Cohort Study of Factors Impacting Healthcare Worker Burnout in New York City During the COVID-19 Pandemic",
+    "Abstract": "ObjectiveThis study aimed to longitudinally examine the prevalence and correlates of burnout in frontline healthcare workers (FHCWs) during COVID-19 in New York City.MethodsA prospective cohort study of 786 FHCWs at Mount Sinai Hospital was conducted during the initial COVID surge in April to May 2020 (T1) and November 2020 to January 2021 (T2) to assess factors impacting burnout.ResultsBurnout increased from 38.9% to 44.8% (P = 0.002); 222 FHCWs (28.3%) had persistent burnout, 82 (10.5%) had early burnout, and 129 (16.5%) had delayed burnout. Relative to FHCWs with no burnout (n = 350; 44.7%), those with persistent burnout reported more prepandemic burnout (relative risk [RR], 6.67), less value by supervisors (RR, 1.79), and lower optimism (RR, 0.82), whereas FHCWs with delayed burnout reported more prepandemic burnout (RR, 1.75) and caring for patients who died (RR, 3.12).ConclusionFHCW burnout may be mitigated through increasing their sense of value, support, and optimism; treating mental health symptoms; and counseling regarding workplace distress.",
+    "DOI": "10.1097/JOM.0000000000002790",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on burnout in healthcare workers.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on burnout in healthcare workers during the COVID-19 pandemic.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal Cohort Study",
+            "logprobs": null
+        }
+    }
+}

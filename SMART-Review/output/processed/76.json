@@ -1,0 +1,33 @@
+{
+    "ArticleID": 76,
+    "Authors": "van Beurden, Karlijn M.; Brouwers, Evelien P. M.; Joosen, Margot C. W.; de Boer, Michiel R.; van Weeghel, Jaap; Terluin, Berend; van der Klink, Jac J. L.",
+    "Article Title": "Effectiveness of an Intervention to Enhance Occupational Physicians' Guideline Adherence on Sickness Absence Duration in Workers with Common Mental Disorders: A Cluster-Randomized Controlled Trial",
+    "Abstract": "Purpose Evidence-based guidelines in occupational health care improve the quality of care and may reduce sickness absence duration. Notwithstanding that, guideline adherence of occupational physicians (OPs) is limited. Based on the literature on guideline implementation, an intervention was developed that was shown to effectively improve self-reported adherence in OPs. The aim of present study was to evaluate whether this intervention leads to earlier return to work (RTW) in workers with common mental disorders (CMD). Methods In a two-armed cluster randomized controlled trial, 66 OPs were randomized. The trial included 3379 workers, with 1493 in the intervention group and 1886 in the control group. The outcome measures were: time to full RTW, time to first RTW, and total hours of sickness absence. Cox regression analyses and generalized linear mixed model analyses were used for the evaluations. Results The median time to RTW was 154 days among the 3228 workers with CMD. No significant differences occurred in (time to) full RTW between intervention and control group HR 0.96 (95% CI 0.81-1.15) nor for first RTW HR 0.96 (95% CI 0.80-1.15). The mean total hours of sickness absence was 478 h in the intervention group and 483 h in the control group. Conclusions The intervention to enhance OPs' guideline adherence did not lead to earlier RTW in workers with CMD guided by the OPs. Possible explanations are the remaining external barriers for guideline use, and that perceived guideline adherence might not represent actual guideline adherence and improved care.Trail registration: ISRCTN86605310.",
+    "DOI": "10.1007/s10926-016-9682-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster-randomized controlled trial, which is a type of RCT. However, the study does not meet the inclusion criteria because it does not present measures of employment or labor results.",
+            "study_design": "Cluster-Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on sickness absence duration rather than employment rates, job retention, or other labor outcomes.",
+            "study_design": "Cluster-RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on occupational physicians' guideline adherence and its impact on sickness absence duration in workers with common mental disorders, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's outcome measures do not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster-randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, focuses on supported employment for people with mental health disorders, and includes outcomes related to job duration.",
+            "study_design": "Cluster-RCT",
+            "logprobs": null
+        }
+    }
+}

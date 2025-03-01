@@ -1,0 +1,33 @@
+{
+    "ArticleID": 725,
+    "Authors": "Goetzel, Ron Z.; Henke, Rachel Mosher; Head, Michael A.; Benevent, Richele; Rhee, Kyu",
+    "Article Title": "Ten Modifiable Health Risk Factors and Employees' Medical Costs-An Update",
+    "Abstract": "Purpose:To estimate the relationship between employees' health risks and health-care costs to inform health promotion program design.Design:An observational study of person-level health-care claims and health risk assessment (HRA) data that used regression models to estimate the relationship between 10 modifiable risk factors and subsequent year 1 health-care costs.Setting:United States.Participants:The sample included active, full-time, adult employees continuously enrolled in employer-sponsored health insurance plans contributing to IBM MarketScan Research Databases who completed an HRA. Study criteria were met by 135 219 employees from 11 employers.Measures:Ten modifiable risk factors and individual sociodemographic and health characteristics were included in the models as independent variables. Five settings of health-care costs were outcomes in addition to total expenditures.Analysis:After building the analytic file, we estimated generalized linear models and conducted postestimation bootstrapping.Results:Health-care costs were significantly higher for employees at higher risk for blood glucose, obesity, stress, depression, and physical inactivity (all at P < .0001) than for those at lower risk. Similar cost differentials were found when specific health-care services were examined.Conclusion:Employers may achieve cost savings in the short run by implementing comprehensive health promotion programs that focus on decreasing multiple health risks.",
+    "DOI": "10.1177/0890117120917850",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an observational study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (focuses on health-care costs rather than employment or labor results).",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on health risks and health-care costs, not employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

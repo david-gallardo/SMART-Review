@@ -1,0 +1,33 @@
+{
+    "ArticleID": 22,
+    "Authors": "Martin, Valerie; Lanovaz, Marc J.",
+    "Article Title": "Program evaluation of a community organization offering supported employment services for adults with autism",
+    "Abstract": "Background: Individuals with autism spectrum disorder (ASD) have an employment rate well below the general population. One potential solution to address this issue is the implementation of supported employment services. The purpose of our study was to evaluate a Canadian community supported employment program designed for individuals with ASD without an intellectual disability. Method: Thirty-seven individuals with ASD, who were receiving services from a local community agency (Action main-d'oeuvre) providing supported employment services, participated in the study. The research team monitored the characteristics of the participants, the number of hours of services provided, and outcome measures related to employment. We then conducted descriptive analyses, t-tests, and Wilcoxon signed rank tests to compare anxiety about work and self-efficacy before services and after outcomes of the program. Results: Despite high levels of comorbid mental health issues, our results indicated that 62.1 % of individuals obtained paid employment within 12 months. Furthermore, participants with postsecondary education found jobs related to their degree or requiring specialized skills. Participants felt less anxious and more self-efficacious towards employment. Maintaining employment was a greater challenge and continuing support may be required. Conclusions: The study suggests that the employment services may have supported the participants in finding a job. However, collaboration is essential to address mental health issues in job seekers with ASD, which appeared to hinder job search and maintenance.",
+    "DOI": "10.1016/j.rasd.2021.101741",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Canada, within the specified timeframe of 2005-2025, and focuses on individuals with mental health disorders (autism spectrum disorder). The study also presents measures of employment outcomes, such as employment rates and job duration.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, while it focuses on employment services for individuals with autism spectrum disorder, which is related to mental health issues, it does not specifically target people with documented mental disorders or mental health problems as per the inclusion criteria.",
+            "study_design": "Descriptive analysis with t-tests and Wilcoxon signed rank tests",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focuses on adults with ASD (a mental health condition), and examines the outcomes of employment interventions. It is within the specified geographic scope and timeframe.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of supported employment services for individuals with ASD, which includes mental health disorders. It was conducted in Canada within the specified timeframe and reports on employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

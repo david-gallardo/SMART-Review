@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1232,
+    "Authors": "Borsch, Anne Sofie; de Montgomery, Christopher Jamil; Gauffin, Karl; Eide, Ketil; Heikkila, Elli; Smith Jervelund, Signe",
+    "Article Title": "Health, Education and Employment Outcomes in Young Refugees in the Nordic Countries: A Systematic Review",
+    "Abstract": "Objectives: Since 2000, approximately 500,000 refugees have settled in the Nordic countries, about a third of them being children and young people. To identify general trends, and to detect gaps in the existing knowledge about the socioeconomic and health status of these young refugees, this review discusses the literature regarding three key areas related to welfare policy: health, education and employment. Methods: A systematic search in PubMed, Scopus, SocINDEX, Sociological Abstracts, Embase and Cochrane, and a search for publications from relevant institutions were undertaken. All publications had to be original quantitative studies published since 1980. The total number of studies identified was 1353, 25 publications were included. Results: Young refugees had poorer mental health than ethnic minority and native-born peers. Mental health problems were related to pre-migration experiences but also to post-migration factors, such as discrimination and poor social support. Refugees performed worse in school than native-born and few progressed to higher education. Experiencing less discrimination and having better Nordic language proficiency was associated with higher educational attainment. A higher proportion of refugees were unemployed or outside the labour force compared with other immigrants and native-born. Assessment instruments varied between studies, making comparisons difficult. Conclusions: The study suggests pre-migration factors but also post-migration conditions such as perceived discrimination, social support and Nordic language proficiency as important factors for the mental health, education and employment outcomes of young refugees in the Nordic countries. Further Nordic comparative research and studies focusing on the relationship between health, education and employment outcomes are needed.",
+    "DOI": "10.1177/1403494818787099",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems. It examines young refugees in general and their socioeconomic outcomes including education and employment.",
+            "study_design": "Systematic review of original quantitative studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young refugees in the Nordic countries and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Nordic countries are not explicitly included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

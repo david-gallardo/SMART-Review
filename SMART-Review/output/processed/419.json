@@ -1,0 +1,33 @@
+{
+    "ArticleID": 419,
+    "Authors": "Williams, Ed-Dee G.; Smith, Matthew J. J.",
+    "Article Title": "Virtual Interview Training Among BIPOC Autistic Transition-Age Youth: A Secondary Analysis of an Initial Effectiveness RCT",
+    "Abstract": "Black, Indigenous, and Persons of Color (BIPOC) autistic transition-aged youth (TAY) report lower rates of competitive employment compared to White autistic TAY and even greater deficits with social skills associated with positive job interviewing. A virtual job interviewing program was adapted to support and improve the job interviewing skills of autistic TAY. The current study evaluates the effectiveness of an efficacious virtual interview training program on the job interview skills, interview anxiety, and likeliness to be hired, for a subsample of 32 BIPOC autistic TAY, ages 17-26 years old from a previous randomized control trial of the program. Bivariate analyses were used to evaluate between-group differences at pre-test related to background characteristics, and whether Virtual Interview Training for Transition-Age Youth (VIT-TAY) was associated with changes between pre-test and post-test measures of job interview skills. Additionally, a Firth logistic regression was conducted to examine the relationship between VIT-TAY and competitive integrative employment at 6 months, covarying for fluid cognition, having ever had a job interview, and baseline employment status. Participants receiving preemployment services (Pre-ETS) and virtual interview training had better job interview skills (F = 12.7, ? < .01; ?(2)(?) = .32), lower job interview anxiety (F = .3.96, ? < .05; ?(2)(?) = .12), and a higher likeliness of receiving employment (F = 4.34, ? < .05; ?(2)(?) = .13 at the 6-month follow up compared to participants that only had Pre-ETS. Findings from this study suggest that virtual interview training for TAY is effective for BIPOC autistic TAY in improving their interview skills to gain competitive employment and lower their job interview anxiety.",
+    "DOI": "10.1007/s10803-023-06022-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of an initial effectiveness RCT, which meets the inclusion criteria. The study includes a control group (Pre-ETS) and evaluates the effectiveness of the virtual interview training program on job interview skills, interview anxiety, and likeliness to be hired.",
+            "study_design": "Secondary analysis of an initial effectiveness RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address people with mental health disorders. It focuses on BIPOC autistic transition-age youth and their job interview skills.",
+            "study_design": "RCT (Randomized Controlled Trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on job interview skills and anxiety in BIPOC autistic transition-aged youth, which does not directly address employment outcomes or interventions targeted at employment.",
+            "study_design": "Secondary analysis of an initial RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on a specific intervention (virtual interview training) for people with mental health disorders (autistic youth), conducted in the US within the specified timeframe, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

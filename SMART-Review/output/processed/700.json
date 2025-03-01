@@ -1,0 +1,33 @@
+{
+    "ArticleID": 700,
+    "Authors": "Riedl, Lina; Blank, Daniela; Kohl, Monika; Lang, Anne; Kehl, Victoria; Brieger, Peter; Hamann, Johannes",
+    "Article Title": "Return-to-work-experts for inpatient treatment of patients with mental illnesses- a proof-of-concept-study (RETURN): the study protocol",
+    "Abstract": "Background Patients with mental illnesses often have massive difficulties returning to work after inpatient treatment at a psychiatric clinic and are often at risk of losing their jobs. The psychosocial support for this patient group at the interface of clinic/outpatient care is often insufficient. Methods/design The RETURN-study prospectively assesses and surveys 200 patients with mental disorders in a cluster randomized intervention study, i.e. treatment teams and patients from intervention wards receive a return-to-work (RTW) intervention. Patients in control wards obtain treatment as usual (TAU). Pairs of comparable wards (similar patient population, similar staff density) have been identified and then randomized for control and intervention (n = 14 for each condition). On intervention wards return-to-work experts (RTW experts) who focus treatment on the workplace-related needs of patients with mental illnesses have been established. These RTW experts ensure the use of available resources within the framework of work-related discharge management and should lead to a more successful return to the workplace. The days at work in the year after release will be evaluated in a mixed methods approach as well as the return rate in the year after release, disability days in the year after return, relapse rate after 12 months, cost-benefit ratio of the intervention, analysis of the predictors / barriers for a successful return to the workplace (e.g. psychopathology, cognition, stigma, social-psychiatric support, company support, etc.), possibilities to implement the concept of RTW experts in standard psychiatric care (TAU - treatment as usual), the impact of the RTW experts' approach on the treatment process in standard psychiatric care. Discussion This approach is already internationally established in the field of somatic rehabilitation and supported employment [Am J Psychiatry 171:1183-90, 2014; Lancet 370:1146-52, 2007; Cochrane Database Syst Rev, doi:10.1002/14651858.CD006237.pub3, 2014]; the innovative aspect of this project is to implement and evaluate it in standard psychiatric care in Germany. This project requires no new interventions to be developed and tested, as the techniques of the case manager/job coach is applied to the field of return to work.",
+    "DOI": "10.1186/s12888-020-02504-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized intervention study, which meets the inclusion criteria. The study also includes a control group and evaluates employment outcomes, making it eligible for inclusion.",
+            "study_design": "Cluster Randomized Intervention Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a control group. The RETURN-study uses treatment as usual (TAU) without a separate intervention group for comparison.",
+            "study_design": "Cluster randomized intervention study with no separate control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

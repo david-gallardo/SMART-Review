@@ -1,0 +1,33 @@
+{
+    "ArticleID": 31,
+    "Authors": "Marwaha, Steven; Gilbert, Eleanor; Flanagan, Sarah",
+    "Article Title": "Implementation of an employment intervention in mental health teams: a naturalistic 1-year employment outcome study in people with severe mental illness",
+    "Abstract": "Background: In the UK, the severely mentally ill have high rates of unemployment.Aims: To (1) evaluate implementation of an employment intervention and (2) test the effectiveness of training an existing staff member in providing the employment intervention (Model A) against the provision of a dedicated employment specialist to a team (Model B).Methods: An employment service was implemented in five mental health teams, with three teams having an existing team member trained and two teams receiving an additional member of staff to carry out the employment intervention. Work outcomes for the two groups were compared at 1 year.Results: Competitive employment was obtained by 17.7% receiving an employment intervention (10.3%, Model A versus 22.8% Model B). Rates of employment or training obtained were 25.6% (10/39) in Model A versus 35.1% (20/57) in Model B, but the difference was not statistically different. Type of employment service model was not significantly associated with working.Conclusion: An employment service can be introduced effectively into mental health teams in the UK and positive employment outcomes achieved in a short space of time. Providing an additional resource is more effective compared to asking existing staff to deliver the intervention alongside other roles.",
+    "DOI": "10.3109/09638237.2014.910647",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a naturalistic 1-year employment outcome study with a control group, meeting the inclusion criteria for study design. The study is conducted in the UK, within the EU's geographic scope, and within the specified timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The study presents measures of employment or labor results.",
+            "study_design": "Naturalistic 1-year employment outcome study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it is a naturalistic study without a control group.",
+            "study_design": "Naturalistic study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Naturalistic 1-year employment outcome study",
+            "logprobs": null
+        }
+    }
+}

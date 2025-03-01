@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1200,
+    "Authors": "Carmona, Viviana R.; Gomez-Benito, Juana; Huedo-Medina, Tania B.; Emilio Rojo, J.",
+    "Article Title": "EMPLOYMENT OUTCOMES FOR PEOPLE WITH SCHIZOPHRENIA SPECTRUM DISORDER: A META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS",
+    "Abstract": "Access to employment plays a critical role in the recovery and functioning of people with schizophrenia. We have investigated the effectiveness of treatments to enhance employment outcomes for people with schizophrenia and evaluated the potential moderators of these outcomes. A literature search was conducted in CINAHL, Cochrane Databases, MEDLINE, ProQuest XML, PsycINFO, Scopus, and Web of Science. Grey literature databases, references lists of the retrieved articles and specialized journals in the field were also inspected. Job placement, job tenure and wages earned were tested. Risk ratios were extracted for job placement and standardized mean differences were calculated for job tenure and wages earned. Twenty-five randomized controlled trials published between 1986 and December 2015 were analyzed. Engaging in a vocational intervention increases the likelihood of obtaining a competitive job (risk ratio (RR) = 2.31, 95% confidence interval (CI): 1.85-2.88) and has a positive impact on hours worked in any job (standardized mean difference (SMD) = 0.42, 95% CI: 0.16-0.68). There was no evidence of intervention efficacy with regard to wages earned from competitive employment. Participation in rehabilitative vocational treatment is not sufficient to ensure work participation for people with schizophrenia. Comprehensive treatments are necessary to address functional deficits that hinder labor stability and job performance for people with schizophrenia.",
+    "DOI": "10.13075/ijomeh.1896.01074",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis of randomized controlled trials, which meets the inclusion criteria. The study also includes employment outcomes such as job placement, job tenure, and wages earned, which meets the outcome criteria.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (meta-analysis of RCTs), geographic scope (global but includes EU countries), timeframe (2005-2025), intervention (vocational interventions), population (people with schizophrenia spectrum disorder), and outcomes (employment rates).",
+            "study_design": "Meta-analysis of randomized controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        }
+    }
+}

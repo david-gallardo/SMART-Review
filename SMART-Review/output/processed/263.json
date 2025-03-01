@@ -1,0 +1,33 @@
+{
+    "ArticleID": 263,
+    "Authors": "Smith, Matthew J.; Merle, James L.; Baker-Ericzen, Mary; Sherwood, Kari; Bornheimer, Lindsay A.; Ross, Brittany; Harrington, Meghan; Sharma, Apara; Brown, Cheryl; Gordon, Timotheus (TJ); Telfer, David; Reese, Jocelyn; Hirst, Jennifer; Oulvey, Eugene A.; Dignadice, Valerie; Williams, Ed-Dee; Magana, Sandra; Hume, Kara; Sung, Connie; Burke-Miller, Jane K.; Smith, Justin D.",
+    "Article Title": "A type 1 hybrid multi-site randomized controlled trial protocol for evaluating virtual interview training among autistic transition-age youth",
+    "Abstract": "A number of policies mandate that autistic transition-age youth receive employment services to prepare for the workforce before high school graduation. A key limitation to these services is the job interview component, which relies on non-standardized, resource-intensive, staff-led role-plays to help autistic transition-age youth improve their interview skills. The autism community has called for better job interview preparation. To address this gap in services, our team, collaborated with the autism community to adapt the intervention, Virtual Reality Job Interview Training ( VR-JIT ; effective among adults with serious mental illness), into Virtual Interview Training for Transition Age Youth ( VIT-TAY ). This adapted intervention was tailored to meet the needs of autistic transition age youth while maintaining the core components of VR-JIT (i.e., an online job interview simulator with four levels of automated feedback and e-learning content). A pilot randomized controlled trial (RCT) demonstrated VIT-TAY's feasibility and initial effectiveness at improving job interview skills, reducing anxiety, and increasing employment rates within six months when added to transition services or pre-employment transition services (Pre-ETS). Thus, the overarching goal of this Hybrid Type 1 effectiveness-implementation study protocol is to conduct a fully-powered RCT of VIT-TAY across 16 schools in various geographical locations. Our specific aims are to 1) Evaluate whether Pre-ETS (or transition services) with VIT-TAY, as compared to Pre-ETS (or transition services) with an active control intervention (i.e., job interview didactics/e-learning with a series of 3-5 min videos of employed autistic adults talking about their career pathways) enhances employment outcomes; 2) Evaluate mechanisms of employment by nine months post-randomization; and 3) Conduct a multilevel, mixed-method process evaluation of the initial implementation of VIT-TAY across settings (e.g., acceptability, feasibility, and barriers and facilitators of implementation).",
+    "DOI": "10.1016/j.conctc.2024.101384",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pilot randomized controlled trial (RCT), but it lacks a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on autistic transition-age youth and does not specifically target people with mental disorders. The intervention is tailored for autism spectrum conditions rather than documented mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly addressing employment for people with mental health disorders, but rather on job interview skills for autistic transition-age youth. It also lacks a control group and does not measure employment or labor outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on employment outcomes for individuals with autism spectrum disorder, which falls under mental health disorders. It includes relevant interventions and outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

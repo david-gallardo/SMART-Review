@@ -1,0 +1,33 @@
+{
+    "ArticleID": 468,
+    "Authors": "O'Connell, Maria; Tsai, Jack; Rosenheck, Robert",
+    "Article Title": "Beyond Supported Housing: Correlates of Improvements in Quality of Life Among Homeless Adults with Mental Illness",
+    "Abstract": "Background: The goal of supported housing, aside from exiting homelessness, is to improve overall quality of life. The contribution of factors that enhance quality of life in supported housing programs, beyond housing itself, have not been empirically identified. Methods: Five-year follow-up data from two arms of a randomized trial comparing case management with and without housing vouchers (n = 278) were examined to identify correlates of improved quality of life, beyond housing resources. Results: Access to a housing contributed to 4% of the variance in improved quality of life. Improvement in psychiatric symptoms, alcohol and drug use, employment, total income, and social support were associated with an additional 34-43% of variance in improved quality of life above and beyond housing. Conclusion: Improvements in quality of life were more strongly associated with improvements in mental health and other aspects of social well-being than housing alone.",
+    "DOI": "10.1007/s11126-022-10010-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized trial, but it lacks a control group for the intervention of interest (supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on quality of life improvements beyond housing in supported housing programs for homeless adults with mental illness.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless adults with mental illness and not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes employment outcomes for people with mental disorders in the US.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

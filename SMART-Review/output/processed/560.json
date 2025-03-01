@@ -1,0 +1,33 @@
+{
+    "ArticleID": 560,
+    "Authors": "Roberts, Tessa; Esponda, Georgina Miguel; Krupchanka, Dzmitry; Shidhaye, Rahul; Patel, Vikram; Rathod, Sujit",
+    "Article Title": "Factors associated with health service utilisation for common mental disorders: a systematic review",
+    "Abstract": "Background: There is a large treatment gap for common mental disorders (CMD), with wide variation by world region. This review identifies factors associated with formal health service utilisation for CMD in the general adult population, and compares evidence from high-income countries (HIC) with that from low-and-middle-income countries (LMIC).Methods: We searched MEDLINE, PsycINFO, EMBASE and Scopus in May 2016. Eligibility criteria were: published in English, in peer-reviewed journals; using population-based samples; employing standardised CMD measures; measuring use of formal health services for mental health reasons by people with CMD; testing the association between this outcome and any other factor(s). Risk of bias was assessed using the adapted Mixed Methods Appraisal Tool. We synthesised the results using best fit framework synthesis, with reference to the Andersen socio-behavioural model.Results: Fifty two studies met inclusion criteria. 46 (88%) were from HIC.Predisposing factors: There was evidence linking increased likelihood of service use with female gender; Caucasian ethnicity; higher education levels; and being unmarried; although this was not consistent across all studies.Need factors: There was consistent evidence of an association between service utilisation and self-evaluated health status; duration of symptoms; disability; comorbidity; and panic symptoms. Associations with symptom severity were frequently but less consistently reported.Enabling factors: The evidence did not support an association with income or rural residence. Inconsistent evidence was found for associations between unemployment or having health insurance and use of services. There was a lack of research from LMIC and on contextual level factors.Conclusion: In HIC, failure to seek treatment for CMD is associated with less disabling symptoms and lack of perceived need for healthcare, consistent with suggestions that treatment gap statistics over-estimate unmet need for care as perceived by the target population. Economic factors and urban/rural residence appear to have little effect on treatment-seeking rates. Strategies to address potential healthcare inequities for men, ethnic minorities, the young and the elderly in HIC require further evaluation. The generalisability of these findings beyond HIC is limited. Future research should examine factors associated with health service utilisation for CMD in LMIC, and the effect of health systems and neighbourhood factors.",
+    "DOI": "10.1186/s12888-018-1837-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria because it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on health service utilization for common mental disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes related to employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

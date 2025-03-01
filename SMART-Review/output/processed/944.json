@@ -1,0 +1,33 @@
+{
+    "ArticleID": 944,
+    "Authors": "Sultan-Taieb, Helene; Villotti, Patrizia; Berbiche, Djamal; Dewa, Carolyn S.; Desjardins, Emilie; Fraccaroli, Franco; Zaniboni, Sara; Mazaniello-Chezol, Maud; Lecomte, Tania; Durand, Marie-Jose; Corbiere, Marc",
+    "Article Title": "Can social firms contribute to alleviating the economic burden of psychiatric disabilities for the public healthcare system?",
+    "Abstract": "In a number of countries, unemployment rates for people with psychiatric disabilities are much higher than in the general population. On the one hand, the expenses for mental health reach 3.5% of the total public health and social services budget in Quebec. On the other hand, social firms (SFs) receive government subsidies. The objective was to compare public healthcare expenses for people with psychiatric disabilities who work in SFs with those associated with people with a similar condition who are looking for a job in the competitive labour market. This study followed a retrospective comparative design and considered two groups, namely: 122 employees working in SFs and 64 individuals participating in a supported employment program as job-seekers. Two complementary datasets were used: a self-report questionnaire and public healthcare databases. The cost analysis was performed from the perspective of the public healthcare system and included outpatient visit fees to physicians, outpatient visits to health professionals other than physicians in public healthcare centres, inpatient expenses due to hospitalisations, emergency room visits and amounts reimbursed to patients for medication. Regression analyses using generalised linear models with a gamma distribution and log link were used. Our results revealed that when controlling for sociodemographic variables (gender, age, marital status, education, physical disability), global health (EuroQol EQ-5D-5L), the severity of psychiatric symptoms (18-item Brief Symptom Inventory) and self-declared primary mental health diagnosis, annual healthcare costs paid by the public insurance system were between $1,924 and $3,912 lower for people working in SFs than for the comparison group. An explanatory hypothesis is that working in SFs could act as a substitute for medical treatments such as outpatient visits and medication use. There might be a form of compensation between supporting SFs and financing the public healthcare system, which provides valuable insights for public decision-making.",
+    "DOI": "10.1111/hsc.12775",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a retrospective comparative design with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Quebec, Canada) within the specified timeframe (2005-2025), and the intervention (supported employment) and population (people with psychiatric disabilities) meet the inclusion criteria. The study presents measures of employment or labor results (healthcare costs) and is published after 2005.",
+            "study_design": "retrospective comparative design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and is based on a retrospective comparative design without random assignment. It also does not directly address employment interventions but focuses on healthcare costs associated with working in social firms compared to job-seeking individuals.",
+            "study_design": "Retrospective comparative design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment in Canada within the specified timeframe, and includes outcomes related to employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

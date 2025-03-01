@@ -1,0 +1,33 @@
+{
+    "ArticleID": 684,
+    "Authors": "Escudero-Castillo, Israel; Diaz, Fco Javier Mato; Rodriguez-Alvarez, Ana",
+    "Article Title": "The Effect of Being Unemployed on Mental Health: The Spanish Case",
+    "Abstract": "Background: The lack of work appeared to be linked to several symptoms related to poor mental health. Likewise, the reverse relationship, namely the influence of poor mental health on the risk of job loss, has also been analysed, i.e. distress could lead to a poorer work performance culminating in potential job loss. Thus, the bidirectional nature of the relationship between unemployment and mental health makes the accurate estimation of causal relationships a complex matter, leaving room for additional research on the subject.Aims of the Study: The aim of this research is to analyse the influence that unemployment could have on mental health taking into account the bidirectional nature that exists between both concepts.Methods: In order to tackle the causal effect of being unemployed on mental health, we present a biprobit model taking into account the presence of dummy endogenous regressors and we compare these results with those obtained from a standard univariate probit. Our identification strategy exploits geographical information on the unemployment rates as instrument. We use Spanish cross-sectional data from the 2006, 2011 and 2017 years.Results: Based on the results, the paper concludes that unemployed persons in Spain could be subject to a 5.4% higher probability of suffering symptoms related to a common mental disorder (versus 11% obtained using a standard probit).Discussion: The results obtained confirm a negative impact of unemployment situation on mental health. In other words, the probability of unemployed people suffering a mental disorder seems superior to that for individuals with a job. Moreover, the marginal effect obtained from a univariate probit model without the possibility of controlling the mental health selection effects, proves the existence of a problem of simultaneity that would have overestimated the effect of being unemployed on mental health.Implications for Health Care Provision: It is hoped that the conclusions obtained here prove useful in the implementation of specific mental health care provision aimed at unemployed people. In this context, the evidence obtained should result in the incorporation of health assistance as an essential part in response to the needs of this collective.Implications for Health Policies: These special needs of unemployed people should be contemplated not only from a health care provision but also as part of a broader system that incorporates the mental health care of unemployed persons as part of more general public health policies. Finally, these results suggest that mental health-related objectives should be considered when planning, implementing, and evaluating active labour market policies for the unemployed.Implications for Further Research: The length and severity of the last recession, together with the risks associated with the global crisis resulting from COVID-19, reiterate the obvious concerns about the consequences of economic crises and unemployment on personal mental health. In this context, our study could be a step forward in the study of the causal relationships between unemployment and mental health when new data are available.",
+    "DOI": "10.13039/501100011033",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a univariate probit model without the possibility of controlling the mental health selection effects, which does not meet the inclusion criteria of a rigorous evaluation or control group.",
+            "study_design": "univariate probit model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it focuses on the effect of unemployment on mental health rather than interventions aimed at improving employment for people with mental disorders. It lacks an intervention component and does not address specific active employment policies.",
+            "study_design": "Cross-sectional study using a biprobit model",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1524,
+    "Authors": "Milner, Allison; Krnjacki, Lauren; Butterworth, Peter; LaMontagne, Anthony D.",
+    "Article Title": "The role of social support in protecting mental health when employed and unemployed: A longitudinal fixed-effects analysis using 12 annual waves of the HILDA cohort",
+    "Abstract": "Perceived social support is associated with overall better mental health. There is also evidence that unemployed workers with higher social support cope better psychologically than those without such support. However, there has been limited research about the effect of social support among people who have experienced both unemployment and employment. We assessed this topic using 12 years of annually collected cohort data.The sample included 3190 people who had experienced both unemployment and employment. We used longitudinal fixed-effects modelling to investigate within-person changes in mental health comparing the role of social support when a person was unemployed to when they were employed.Compared to when a person reported low social support, a change to medium (6.35, 95% 5.66 to 7.04, p < 0.001) or high social support (11.58, 95%, 95% CI 10.81 to 12.36, p < 0.001) was associated with a large increase in mental health (measured on an 100 point scale, with higher scores representing better mental health). When a person was unemployed but had high levels of social support, their mental health was 2.89 points (95% CI 1.67 to 4.11, p < 0.001) higher than when they were employed but had lower social support. The buffering effect of social support was confirmed in stratified analysis.There was a strong direct effect of social support on mental health. The magnitude of these differences could be considered clinically meaningful. Our results also suggest that social support has a significant buffering effect on mental health when a person is unemployed. (C) 2016 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.socscimed.2016.01.050",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal fixed-effects analysis using 12 annual waves of the HILDA cohort, which meets the inclusion criteria. The study also includes people with mental disorders or documented mental health problems, and presents measures of employment or labor results.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes for people with mental health disorders. It focuses on the role of social support in protecting mental health among those who have experienced both unemployment and employment, but it does not evaluate specific active employment policies or their effectiveness.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a longitudinal fixed-effects analysis, which is not explicitly mentioned in the inclusion criteria. The study also does not focus on employment interventions but rather on the role of social support in mental health among employed and unemployed individuals.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        }
+    }
+}

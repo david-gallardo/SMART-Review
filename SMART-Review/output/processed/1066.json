@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1066,
+    "Authors": "Sconfienza, Carolina; Lindfors, Petra; Friedrich, Annika Lantz; Sverke, Magnus",
+    "Article Title": "Social support at work and mental distress: A three-wave study of normal, reversed, and reciprocal relationships",
+    "Abstract": "Objectives: This longitudinal study aimed to investigate the causal relationships between social support at work and mental health in terms of mental distress. Despite assuming social support at work to be associated with less mental distress, reversed and reciprocal relationships were investigated as well.Methods: Self-reports in questionnaires of social support and mental distress were collected longitudinally, with annual measurements over three consecutive years, among 301 office workers (57% women) in Sweden. Cross-lagged structural equation modeling was used to test the hypotheses.Results: The reciprocal causation model was considered the best-fitting model. The results suggest that social support and mental distress influenced each other negatively, but with a delayed effect. Specifically, this involves Time 1 levels of social support being negatively associated with Time 2 levels of mental distress, while Time 2 levels of mental distress were negatively associated with Time 3 levels of support.Conclusions: The findings partly align with the hypothesis that social support is related to lower levels of mental distress but also suggest that mental distress can reduce levels of social support. While the findings also suggest a mutual interrelation between social support and mental distress, this is not a consistent reciprocal causation. Rather, and due to the variation in reciprocity between time points, it appears to he a cyclical process, which needs further investigation.",
+    "DOI": "10.1002/1348-9585.12020",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-lagged structural equation modeling, which does not meet the inclusion criteria of RCTs, systematic reviews, or quasi-experimental studies with a control group.",
+            "study_design": "Cross-lagged structural equation modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It investigates the causal relationships between social support at work and mental health in terms of mental distress.",
+            "study_design": "Cross-lagged structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social support and mental distress, not employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

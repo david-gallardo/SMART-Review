@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1400,
+    "Authors": "Taylor, Harry O.; Nguyen, Ann W.",
+    "Article Title": "Depressive Symptoms and Loneliness Among Black and White Older Adults: The Moderating Effects of Race",
+    "Abstract": "Background and Objectives: Loneliness is consistently linked to worse depression/depressive symptoms; however, there are few studies that have examined whether the relationship between loneliness and depressive symptoms varies by race. The purpose of this study was to determine whether race moderated the relationship between loneliness and depressive symptoms.Research Design and Methods: Data come from the 2014 wave of the Health and Retirement Study (HRS) Core survey and Psychosocial Leave-Behind Questionnaire; only black and white older adults were included in the analysis (N = 6,469). Depressive symptoms were operationalized by the eight-item Center for Epidemiological Studies-Depression scale; however, the felt lonely item was removed given concerns with collinearity. Loneliness was operationalized using the Hughes 3-Item Loneliness Scale. Sociodemographic variables included gender, age, education, household income, employment status, marital status, and living alone or with others. Furthermore, social support and negative interactions from family members and friends, and religious service attendance were included in the analysis. Lastly, we created an interaction term between race and loneliness. All analyses used survey weights to account for the complex multistage sampling design of the HRS. Missing data were multiply imputed.Results: In multivariable analysis, we found race significantly moderated the relationship between loneliness and depressive symptoms while controlling for sociodemographic covariates, social support and negative interaction variables, and religious service attendance.Discussion and Implications: Our findings demonstrate a differential racial effect for loneliness and depressive symptoms. For both blacks and whites, greater loneliness affected depressive symptoms; however, the effect was stronger among whites than it was for blacks. Given this is one of the first studies to examine the differential effects of race on loneliness and depressive symptoms, more research is necessary to determine the consistency of these results.",
+    "DOI": "10.1093/geroni/igaa048",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on the relationship between loneliness and depressive symptoms in relation to race.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It examines the relationship between loneliness and depressive symptoms among black and white older adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

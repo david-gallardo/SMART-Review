@@ -1,0 +1,33 @@
+{
+    "ArticleID": 60,
+    "Authors": "Kern, Robert S.; Reddy, L. Felice; Horan, William P.; Glynn, Shirley M.; Stigers, Peter J.; Sugar, Catherine A.; Green, Michael F.",
+    "Article Title": "Social Cognition and Social Problem Solving Skills Training to Improve Job Functioning and Tenure in Veterans With Psychotic Disorders",
+    "Abstract": "Impact and Implications The results from the study showed that a two-phase intervention that targeted social cognition and workplace social problem-solving deficits improved social cognition and workplace social behavior, but not job tenure, in Veterans with psychotic disorders participating in a VA vocational rehabilitation program. The findings on workplace social skills support a promising new direction for enhancing work outcomes in this clinical population.Objective: Veterans with psychotic disorders often experience employment difficulties. Job tenure is highly variable with shorter tenure frequently tied to interpersonal difficulties in the workplace. The present study sought to address this problem by examining the efficacy of social cognition skills training (SCST) and social problem solving skills training (SPSST) interventions, implemented sequentially, and added to usual VA employment services (augmented vocational rehabilitation [VR]). Method: Participants were 91 Veterans with schizophrenia and other psychotic disorders who were recently enrolled in one of three types of VA employment services (incentive therapy, transitional work, supported employment), and randomized 1:1 to augmented VR versus control VR. Training for the augmented VR group included 12 weeks of SCST plus 6 weeks of work-related SPSST; training for the control VR group included a control intervention (symptom management training) matched in instructional format and length of training to the SCST and SPSST interventions. All participants received baseline and posttraining measures of social cognition. For those who got jobs, the primary work outcome measures were social skills work behavior and job tenure. Results: Results showed a significant group x time interaction favoring the augmented VR group on measures of social cognition and social skills work behavior, but there were no significant differences in job tenure. Conclusions and Implications for Practice: The findings for workplace social skills support a promising new direction for enhancing work outcomes in this population; the null effect on job tenure may have been due to high job retention rates across the three types of employment service programs.",
+    "DOI": "10.1037/prj0000518",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the US and within the specified timeframe (2005-2025). The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as job duration and job quality.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (social cognition and social problem solving skills training), population (Veterans with psychotic disorders), and outcomes (measures of social cognition, workplace social behavior).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with psychotic disorders and does not specifically target people with mental health disorders in general. The interventions are not clearly described as job search services, adult training, wage subsidies, or supported employment. The study also does not include a control group, which is a requirement for inclusion.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment, includes people with mental disorders, and reports job tenure as an outcome.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

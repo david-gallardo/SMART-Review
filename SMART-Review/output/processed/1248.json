@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1248,
+    "Authors": "Balayan, Tatevik; Sudfeld, Christopher R.",
+    "Article Title": "Health-related quality of life among adults living with HIV: a cross-sectional survey in Armenia",
+    "Abstract": "Few studies have examined health-related quality of life (HRQoL) among people living with HIV (PLWHIV) in Eastern Europe and Central Asia. We conducted a cross-sectional survey of 180 PLWHIV aged 18 years+ in Armenia who were on cART and used the 36-Item Short-Form Health Survey to assess HRQoL. The highest HRQoL domain score was 85.3 (SD 24.7) for physical functioning, followed by 82.1 (SD 25.0) for pain, 77.9 (SD 24.2) for social functioning, 76.4 (SD 39.6) for emotional role-functioning, 71.1 (SD 39.7) for physical role-functioning, and 64.0 (SD 20.3) for energy/fatigue, 63.7 (SD 22.7) for emotional well-being and 63.4 for general health 63.4 (SD 21.2). In the physical domain, chronic comorbidities and low emotional support were associated with worse physical functioning, physical role-functioning, general health and pain scores (p < 0.05). Unemployment and hepatitis C coinfection were associated with worse physical role functioning and pain scores (p < 0.01). As for mental HRQoL, we found that unemployment, chronic comorbidities, and lower emotional support were associated with poorer emotional well-being, energy, and emotional role-functioning scores (p < 0.05). These findings suggest that improved social support, employment opportunities, mental health services and integrated care for noncommunicable comorbidities may improve HRQoL in Armenia and similar settings.",
+    "DOI": "10.1080/09540121.2019.1709615",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on people living with HIV rather than individuals with mental health disorders. Additionally, the geographic scope is Armenia which is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment interventions for people with mental health disorders, but rather on the health-related quality of life among PLWHIV in Armenia.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

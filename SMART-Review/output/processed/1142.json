@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1142,
+    "Authors": "Meshberg-Cohen, Sarah; Reid-Quinones, Kathryn; Black, Anne C.; Rosen, Marc I.",
+    "Article Title": "Veterans' attitudes toward work and disability compensation: Associations with substance abuse",
+    "Abstract": "Introduction: Veterans deemed disabled for conditions resulting from, or aggravated by, their service in the military are eligible for service-connected disability payments. Despite many positive effects of disability payments, one concern is that Veterans with psychiatric conditions who receive disability payments are less likely to be employed compared to those who are denied benefits. Little is known about the attitudes of substance using Veterans, for whom work is a particularly important part of recovery, toward work and disability compensation.Methods: This study compared the responses of Veterans with (n = 33) and without substance use problems (n = 51) to questions about work's significance and its relationship to disability payments. T- and chi-square tests were conducted to determine if Veterans with substance use problems differed from the others on work-related attitudes and perceptions of the relation between work and Veterans' benefits.Results: Veterans endorsed high levels of agreement with statements that working would lead to loss of benefits. Veterans with substance use agreed more strongly that they would rather tum down a job offer than lose financial benefits.Conclusions: The greater preference for disability payments among substance-using Veterans may reflect a realistic concern that they are particularly likely to have difficulty maintaining employment. The widespread concern among Veterans that work will lead to loss of VA disability payments is striking given the ambiguity about how likely loss of benefits actually is, and should be addressed during the service-connection application process. Published by Elsevier Ltd.",
+    "DOI": "10.1016/j.addbeh.2013.09.005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Non-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders and lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with substance use problems and their attitudes toward work and disability compensation, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders. The study's population is Veterans, not people with mental health disorders in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

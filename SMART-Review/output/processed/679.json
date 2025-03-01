@@ -1,0 +1,33 @@
+{
+    "ArticleID": 679,
+    "Authors": "Rebeiro Gruhl, Karen L.; Boucher, Martin; Lacarte, Sara",
+    "Article Title": "Evaluation of an occupation-based, mental-health program: Meeting being, belonging and becoming needs",
+    "Abstract": "Introduction: Being, belonging and becoming are important theoretical constructs for occupational scientists and therapists, and for members of Northern Initiative for Social Action (NISA), located in northern Ontario, Canada. Collaborative research with service users guided the development of NISA and its evaluation tool: the 3B similar to S Scale. The aim of this paper is to share the results of the 2018 program evaluation.Methods: 113 participants completed a questionnaire consisting of the 3B similar to S Scale, demographic and program satisfaction questions, and open-ended questions. Quantitative analysis used descriptive statistics followed by ordinal logistic regression to determine the intersectional effects of gender, race and age on becoming and system impact outcomes. Open-ended responses were analysed thematically and triangulated with quantitative findings.Results: Participants agreed-to-strongly agreed that the program met their 3B needs (x = 4.20, SD = 0.24). Participants indicated strong satisfaction with the program (x = 4.38, SD = 0.66), and agreement that participating in the program reduced their reliance on other system-based services (x = 3.96, SD = 0.24). The regression revealed no significant differences in gender, race or age in predicting six of 10 outcomes examined; race was not significant for any outcome. Younger females were more likely to agree that the work they do is part of a larger community charitable purpose, the program is helping them to achieve their goals, and is increasing their involvement in community. Younger participants were more likely to agree that participation facilitated a return to school or employment than older participants.Conclusions: Occupation-based, mental health programs that address participants' being, belonging and becoming needs can contribute to improvements in perceived mental health and well-being, as well as to improved community and system usage outcomes. The NISA model provides a framework for clinically operationalising the 3B's and may provide a unique contribution to ongoing theoretical discussions of these constructs within occupational therapy and science.",
+    "DOI": "10.1111/1440-1630.12707",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is occupation-based, mental-health programs, meeting the inclusion criteria for intervention. The population references people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (no control group) and does not meet the geographic scope criteria as it is conducted in Canada.",
+            "study_design": "Quasi-experimental with self-report measures but no control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and is not a systematic review or meta-analysis.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

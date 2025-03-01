@@ -1,0 +1,33 @@
+{
+    "ArticleID": 509,
+    "Authors": "Fikretoglu, Deniz; Liu, Aihua; Nazarov, Anthony; Blackler, Kristen",
+    "Article Title": "A group randomized control trial to test the efficacy of the Road to Mental Readiness (R2MR) program among Canadian military recruits",
+    "Abstract": "Background: Despite increased interest in workplace mental health interventions, the evidence for beneficial effects is mixed. Furthermore, many existing studies lack methodological rigor. We report results from a group randomized control trial to test the efficacy of a vastly popular intervention in Canada, the Road to Mental Readiness (R2MR) program, which has been widely disseminated in military, first responder, and civilian settings.Methods: The trial took place among Canadian Armed Forces military recruits completing their basic military qualification (BMQ) training, and randomized 65 platoons (N = 2831) into either (a) an Intervention (R2MR at week 2 of BMQ), or (b) a delayed Intervention Control (R2MR at week 9 of BMQ) condition. The principal investigator, participants, and data collection staff were blinded to platoon condition. Individual-level psychological functioning, resilience, mental health service use attitudes, intentions, and behaviours, and additional covariates were assessed with questionnaires around week 2 (a day or two before Intervention platoons received R2MR), at week 5, and at week 9 (a day or two before the Control platoons received R2MR). Military performance outcomes were obtained from administrative databases.Results: The full trial results were mixed; for some outcomes (psychological functioning, resilience, and military performance), we saw no evidence of beneficial effects; where we did see benefits (mental health service use attitudes, intentions, behaviours), the effects were very small, or disappeared over time. Analyses among two subsamples (Group 1: Intervention platoons with a Fidelity Check and their Controls, and Group 2: Intervention platoons without Fidelity Check and their Controls) indicated that for some outcomes (attitudes and help-seeking), under high fidelity conditions, the beneficial effects of R2MR were increased and better sustained; Conversely, under poor fidelity conditions, decreased beneficial effects or even iatrogenic effects were observed. Analyses across three training divisions indicated the larger organizational climate further influences efficacy.Conclusions: Our findings paint a very complex picture in which it is made evident that sensible, evidenceinformed workplace mental health interventions such as R2MR may work under high fidelity conditions, but may yield no discernable benefit or even inadvertent iatrogenic effects if implemented poorly or without sufficient consideration to the larger organizational context.",
+    "DOI": "10.1186/s12888-019-2287-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a group randomized control trial, which is a type of RCT. However, the study does not meet the inclusion criteria because it does not present measures of employment or labor results.",
+            "study_design": "Group Randomized Control Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (Canada), timeframe (2005-2025), intervention (mental health program), and population (military recruits with mental health implications). Outcomes include psychological functioning, resilience, and attitudes towards mental health services.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria. It also does not meet the intervention criteria as it is a group randomized control trial for a specific program (R2MR) rather than the interventions listed in the inclusion criteria.",
+            "study_design": "Group randomized control trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

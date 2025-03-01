@@ -1,0 +1,33 @@
+{
+    "ArticleID": 797,
+    "Authors": "Goodhew, Mark; Salmon, Allison M.; Marel, Christina; Mills, Katherine L.; Jauncey, Marianne",
+    "Article Title": "Mental health among clients of the Sydney Medically Supervised Injecting Centre (MSIC)",
+    "Abstract": "The Sydney Medically Supervised Injecting Centre (MSIC) is a supervised injecting facility (SIF) where people who inject drugs (PWID) can do so legally, under health professional supervision. The majority of clients have low levels of education and employment, high rates of incarceration and unstable housing and poor social networks, and 70 % do not access local health services. These factors increase the risk of poor mental health, and it has been documented that PWID have elevated rates of mood, anxiety, personality and psychotic disorders; post-traumatic stress disorder (PTSD); and higher rates of trauma exposure, suicidality and self-harm. The current study is the first to investigate the mental health among clients of a SIF. Validated instruments to examine clients' mental health, social networks and trauma histories were administered to 50 frequently attending clients by a mental health nurse. The majority of respondents were unemployed, homeless and had a history of incarceration, and 82 % report they had been diagnosed with a mental health problem, but only 24 % report they were receiving treatment. Respondents had poor social networks, had poorer mental health symptoms compared to US inpatients and had experienced multiple traumatic events, and a high number of respondents had scores indicative of PTSD. These results highlight the need for mental health clinicians to be employed in SIFs and other drug consumption rooms (DCRs) to assist clients to address their mental health and psychosocial needs, particularly in light of the fact that these services are often the only places these PWID engage with in an ongoing way.",
+    "DOI": "10.1186/s12954-016-0117-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case study with a small sample size (n=50) and lacks a control group.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly target job search services, adult training, wage subsidies, or supported employment. It focuses on mental health among clients of a supervised injecting facility.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on PWID, which is not the specified population of people with mental health disorders. Additionally, the study does not report on employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

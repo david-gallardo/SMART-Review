@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1528,
+    "Authors": "Milner, Allison; Disney, George; Byars, Sean; King, Tania L.; Kavanagh, Anne M.; Aitken, Zoe",
+    "Article Title": "The effect of gender on mental health service use: an examination of mediation through material, social and health-related pathways",
+    "Abstract": "Purpose We aimed to understand how much of the gender difference in mental health service use could be due to the joint mediation of employment, behavioural and material factors, social support and mental health need. Methods We used data from employed individuals aged 18-65 years who participated in the 2015-2017 waves of the Household, Income and Labour Dynamics in Australia survey. The exposure (male, female) and confounders were measured in 2015, mediators in 2016 and the outcome-whether a person had seen a mental health professional in the previous year-was measured in 2017. We estimated natural mediation effects using weighted counterfactual predictions from a logistic regression model. Results Men were less likely to see a mental health care provider than women. The total causal effect on the risk difference scale was - 0.045 (95% CI - 0.056, - 0,034). The counterfactual of men taking the mediator values of women explained 28% (95% CI 1.7%, 54%) of the total effect, with the natural direct effect estimated to represent an absolute risk difference of - 0.033 (95% CI - 0.048, - 0.018) and the natural indirect effect - 0.012 (95% CI - 0.022, - 0.0027). Conclusion Gendered differences in the use of mental health services could be reduced by addressing inequalities in health, employment, material and behavioural factors, and social support.",
+    "DOI": "10.1007/s00127-020-01844-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the use of mental health services.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies for people with mental health disorders. It focuses on the gender difference in mental health service use and its mediation through various pathways.",
+            "study_design": "Cross-sectional analysis using data from a survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment policies for people with mental health disorders, but rather on gender differences in mental health service use.",
+            "study_design": "Natural mediation effects study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

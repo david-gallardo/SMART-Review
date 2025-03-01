@@ -1,0 +1,33 @@
+{
+    "ArticleID": 226,
+    "Authors": "Kuehl, Kerry S.; Elliot, Diane L.; MacKinnon, David P.; O'Rourke, Holly P.; DeFrancesco, Carol; Miocevic, Milica; Valente, Matthew; Sleigh, Adriana; Garg, Bharti; McGinnis, Wendy; Kuehl, Hannah",
+    "Article Title": "The SHIELD (Safety & Health Improvement: Enhancing Law Enforcement Departments) Study: Mixed Methods Longitudinal Findings",
+    "Abstract": "The SHIELD (Safety & Health Improvement: Enhancing Law Enforcement Departments) Study is a worksite wellness team-based intervention among police and sheriff departments assessing the program's effectiveness to reduce occupational risks and unhealthy lifestyle behaviors. The SHIELD program focused on improving diet, physical activity, body weight and sleep, and reducing the effects of unhealthy stress and behaviors, such as tobacco and substance abuse. The SHIELD team-based health promotion program was found to be feasible and effective at 6 months in improving diet, sleep, stress, and overall quality of life of law enforcement department personnel. Both intervention and control groups were followed for 24 months, and we report those durability findings, along with qualitative group interview results that provide insight into the changes of the long-term outcomes. Long-term effects were observed for consumption of fruits and vegetables, and there was some evidence for effects on tobacco and alcohol use. Assessment of dietary habits, physical activity behaviors, weight loss maintenance, and substance use is rare more than 1 year following an intervention, and in general, initial positive changes do not persist in prior research. The SHIELD program was feasible, effective, and durable for improving dietary changes.",
+    "DOI": "10.1097/JOM.0000000000000716",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on improving diet, physical activity, body weight and sleep, and reducing the effects of unhealthy stress and behaviors.",
+            "study_design": "Mixed Methods Longitudinal Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on worksite wellness interventions related to diet, physical activity, and stress reduction among law enforcement departments.",
+            "study_design": "Mixed Methods Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on law enforcement personnel and does not specifically target people with mental health disorders. The intervention is also not directly related to employment outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment, and the population is law enforcement personnel, not people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

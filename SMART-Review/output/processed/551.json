@@ -1,0 +1,33 @@
+{
+    "ArticleID": 551,
+    "Authors": "Pelizza, Lorenzo; Ficarelli, Maria L.; Vignali, Elisabetta; Artoni, Simona; Franzini, Maria C.; Montanaro, Serenella; Andreoli, Maria V.; Marangoni, Sara; Ciampa, Elizabeth; Erlicher, Diana; Troisi, Elisa; Pupo, Simona",
+    "Article Title": "Individual placement and support in Italian young adults with mental disorder: Findings from the Reggio Emilia experience",
+    "Abstract": "Aim Individual placement and support (IPS) has a considerable body of evidence for its effectiveness in helping people with mental disorder to achieve and maintain competitive jobs. However, little data in young adult populations are currently available, especially in Europe. Aim of this study was to assess the effect of IPS in Italian young adults with moderate-to-severe mental illness, examining the main competitive employment outcomes and drop out rates during a 3-year follow-up period. Methods Participants (n = 54) were recruited from patients receiving psychiatric treatment in one of the seven adult Community Mental Health Centers of the Reggio Emilia Department of Mental Health. Together with drop out rates, we investigated job duration (total number of days worked), job acquisition (employment in the labour market for at least 1 day during the follow-up), total hours per week worked, and job tenure (weeks worked on the longest-held competitive job). Results A crude competitive employment rate of 40.7% and a crude drop out rate of 22.2% over the 3-year follow-up period were found. However, 66% of 42 clients who remained in the program over 3 years gained competitive employment at some time during the 3-year period. Conclusions This research shows the feasibility of an IPS intervention model in the public mental health care system in Italy, especially for a young adult target population.",
+    "DOI": "10.1111/eip.12883",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria on study design (RCT), geographic scope (EU - Italy), timeframe (2005-2025), intervention (job search services), population (people with mental disorders), and outcomes (employment rates, job duration).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a control group and is not a systematic review or meta-analysis.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on an EU country (Italy), was published within the specified timeframe, involves supported employment as an intervention, targets people with mental disorders, and includes employment outcomes such as job duration and employment rates.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

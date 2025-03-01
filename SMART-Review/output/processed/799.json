@@ -1,0 +1,33 @@
+{
+    "ArticleID": 799,
+    "Authors": "Read, Halley; Roush, Sean; Downing, Donna",
+    "Article Title": "Early Intervention in Mental Health for Adolescents and Young Adults: A Systematic Review",
+    "Abstract": "OBJECTIVE. The purpose of this systematic review was to describe the evidence for the effectiveness of early intervention to improve and maintain performance in occupations for youths with or at risk for serious mental illness (SMI).METHOD. Titles and abstracts of 670 articles were reviewed, 234 were retrieved for full review, and 30 met inclusion criteria.RESULTS. Moderate to strong evidence supports cognitive remediation (CR) and mixed evidence supports cognitive-behavioral therapy (CBT) as an adjunct modality to improve general functioning. Moderate to strong evidence supports use of supported employment and supported education (SE/E) to improve social and occupational outcomes in employment and academics. Strong evidence supports family psychoeducation (FPE) to prevent relapse and rehospitalization and improve problem-solving skills and general functioning.CONCLUSION. Occupational therapy practitioners should integrate CR, SE/E, and FPE into early intervention with youth with or at risk for SMI. In addition, CBT is an effective modality for use with this population.",
+    "DOI": "10.5014/ajot.2018.033118",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it focuses on cognitive remediation (CR), cognitive-behavioral therapy (CBT), supported employment (SE/E), and family psychoeducation (FPE) which are not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on early intervention in mental health for adolescents and young adults at risk for serious mental illness (SMI) rather than people with documented mental disorders. It does not directly address employment outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youths with or at risk for serious mental illness (SMI), which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, the geographic scope is not specified but likely includes relevant countries, the timeframe is not specified but likely includes relevant years, the intervention includes supported employment, the population includes people with mental disorders, and the outcomes include occupational outcomes which can be considered labor outcomes.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

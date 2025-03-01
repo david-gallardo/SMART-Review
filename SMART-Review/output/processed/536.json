@@ -1,0 +1,33 @@
+{
+    "ArticleID": 536,
+    "Authors": "Burton, Wayne N.; Chen, Chin-Yu; Li, Xingquan; Erickson, Denise; McCluskey, Maureen; Schultz, Alyssa",
+    "Article Title": "A Worksite Occupational Health Clinic-Based Diabetes Mellitus Management Program",
+    "Abstract": "This study is an analysis of a workplace diabetes management program offered to employees of a Fortune 100 financial services corporation located in the United States. The 12-month worksite-based educational program was for employees who were at risk for diabetes, had prediabetes, or were diagnosed with diabetes. This employed population, with health benefits, generally had acceptable control of their diabetes at the start of the program. They statistically improved most self-efficacy measures, but improvement in biometric tests at 6 and 12 months were not significantly different from baseline. Mean hemoglobin A1c at baseline, 6 months, and 12 months was 7.2%, 7.2%, and 7.3%, respectively. At 12 months, about 40% of preprogram survey participants completed all screenings and the post-program questionnaire. Disease management programs at the workplace can be an important component in helping employees enhance their knowledge of diabetes and maintain and improve their health. (Population Health Management 2015;18:429-436)",
+    "DOI": "10.1089/pop.2014.0141",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather focuses on a workplace diabetes management program.",
+            "study_design": "Analytical study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population is employees at risk for diabetes, prediabetes, or diagnosed with diabetes. It does not focus on people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on diabetes management in the workplace, not employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specifically people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

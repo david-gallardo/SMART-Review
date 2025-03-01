@@ -1,0 +1,33 @@
+{
+    "ArticleID": 246,
+    "Authors": "Cheng, Tyrone C.; Lo, Celia C.",
+    "Article Title": "Among Children Placed in Kinship Care: Exit to Reunification, Adoption, or Foster Care",
+    "Abstract": "This study examined factors related to children's exit from kinship care to reunification, adoption, and foster care. Data describing 498 parents of children placed in kinship care were extracted from a national survey. Results showed that the likelihood of reunification was increased with other maltreatment type, parent receipt of mental health services, number of alcoholic drinks consumed, having other health insurance, and family income; such likelihood was reduced by parent nonmedical use of medication, receipt of health-care services, and education. Number of alcoholic drinks consumed, number of IPV episodes reported, receipt of domestic-violence services, caseworker turnover, and family income increased the likelihood of exit to adoption; receipt of legal services, having other health insurance, parent of other minority race/ethnicity, and being employed diminished such likelihood. Likelihood of exit to foster care was reduced by other maltreatment, nonmedical use of medication, mental health, receipt of employment services, receipt of health-care services, having other health insurance, parent-caseworker shared race/ethnicity, Hispanic parent, other non-Black minority parent, and education. Such likelihood was increased with physical maltreatment, receipt of financial assistance, difficulty in accessing services, perceived caseworker engagement, and caseworker turnover. Implications and future research for facilitating unification, case plans, and working alliance are discussed.",
+    "DOI": "10.1080/01488376.2022.2149940",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on factors related to children's exit from kinship care.",
+            "study_design": "Cross-sectional analysis of national survey data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is children in kinship care, not people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

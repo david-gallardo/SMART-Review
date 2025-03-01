@@ -1,0 +1,33 @@
+{
+    "ArticleID": 37,
+    "Authors": "Abraham, Kristen M.; Chang, Ming-Un Myron; Van, Tony; Resnick, Sandra G.; Zivin, Kara",
+    "Article Title": "Employment After Vocational Rehabilitation Predicts Decreased Health Care Utilization in Veterans With Mental Health Diagnoses",
+    "Abstract": "Introduction:Although the benefits of employment for veterans with mental health conditions are well-known, the effect of veterans' employment on a health system has not been evaluated. The purpose of this study was to evaluate the effect of veterans' employment (versus unemployment) on subsequent health care utilization in the Veterans Health Administration (VHA).Materials and Methods:This study used a sample of 29,022 veterans with mental health and substance use disorders who were discharged from VHA's employment services programs between fiscal years 2006 and 2010. Veterans' employment status (employed/unemployed) upon discharge from VHA employment programs was ascertained from program discharge forms and linked with VHA administrative health care utilization data for the subsequent 1- and 5-year periods.Results:Multivariable ordinary least-squares and logistic regression models adjusted for site clustering and covariates indicated that employment (versus unemployment) predicted less health care utilization 1 year and 5 years post-discharge from employment services, including fewer outpatient mental health visits, homelessness services visits, employment services visits, primary care visits, and lower odds of mental health hospitalizations, mental health or vocational rehabilitation residential stays, and medical hospitalizations. Employment did not predict emergency department visits.Conclusions:VHA's investment in employment services for veterans with mental health and substance use disorders could reduce health care utilization system wide.",
+    "DOI": "10.1093/milmed/usab113",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It evaluates the effect of veterans' employment status on health care utilization rather than examining what works in active employment policies for people with mental health disorders.",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with mental health and substance use disorders, not specifically on active employment policies for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the US, within the specified timeframe, and evaluates job search services for people with mental health disorders, with employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 999,
+    "Authors": "Rennhack, Frauke; Lindahl-Jacobsen, Line Elisabeth; Schori, Dominik",
+    "Article Title": "Pre-vocational therapy in mental health. Clients' desired and achieved productivity status",
+    "Abstract": "Background Knowledge about work-related occupational therapy in psychiatric inpatient and day hospital clients is limited. Aims The aim of the study was to explore the desired and achieved productivity status in mental health service users participating in a pre-vocational therapy (PVT) intervention. Outcome variables were productivity status and achievement of desired productivity status at discharge, and change or persistence of productivity status between admission and discharge. Methods This is a short-term prospective study based on observational data from health records (N = 98). Results At admission, 53.2% of participants named a clear desired productivity status; 46.8% did not. Of the former, 76.9% expressed a desire for employment or education on the regular job market; 28.0% achieved their desired outcome at discharge, whereas 72.0% did not. Overall, 58.5% retained, established or increased productive activities, while 41.5% were not engaged in or had reduced productive activities at discharge. These two groups differed in socio-economic and social-security-related characteristics, treatment-related characteristics and psychiatric diagnosis. Conclusions and significance Some, but not all kinds of clients in acute psychiatric inpatient and day hospital settings manage to take a first step towards productive activities during the first phase of treatment.",
+    "DOI": "10.1080/11038128.2021.1968950",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a short-term prospective study based on observational data from health records, which lacks a rigorous evaluation and control group.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a short-term prospective observational study based on health records and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Prospective observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational without a control group.",
+            "study_design": "Prospective observational study",
+            "logprobs": null
+        }
+    }
+}

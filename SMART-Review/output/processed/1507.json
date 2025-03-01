@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1507,
+    "Authors": "Hasselhorn, Hans Martin; Stiller, Michael; du Prel, Jean-Baptist; Ebener, Melanie",
+    "Article Title": "Work profiles of older employees in Germany-results from the lidA-cohort study",
+    "Abstract": "Background This study investigates whether a typology of work exposure can be established among older workers in Germany. Work exposure comprises physical work, working time quality, work intensity, skills & discretion, social environment, leadership, continued education, earnings and work prospects. Methods Latent profile analysis was conducted on a representative sample of the socially insured workforce in Germany born in 1959 or 1965 (N = 6277). Seven year-prospective associations between the typology and work-related outcomes (physical and mental health, work ability and work-privacy-conflict) were investigated to establish the distinctness of the profiles. Results Five profiles were identified: Poor Quality (19%), Relaxed Manuals (30%), Strained non-Manuals (16%), Smooth Running (33%) and High Flying (3%). These profiles exhibited diverging patterns of association with the selected outcomes, thus representing qualitatively distinct subgroups of older workers in Germany. Conclusions We conclude that a typological approach may broaden the understanding of the ageing work force and the complex interplay of the overall work situation with outcomes of high individual and social relevance such as health, work ability and employment. The five work profiles identified in this study may constitute crucial clusters needed to reliably mirror today's over-all work exposure patterns in the older work force in Germany. They may allow for the comprehensible monitoring of quality of work and personal life among the older work force during their last working years and their transition to retirement in current times of extending working lives.",
+    "DOI": "10.1186/s12889-020-09542-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is latent profile analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Latent Profile Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on work profiles and typology of older workers in Germany without addressing interventions related to employment services or labor outcomes.",
+            "study_design": "Latent profile analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions for employment or labor outcomes in people with mental health disorders. It also does not include a control group or specify the population as people with mental health disorders.",
+            "study_design": "Latent profile analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

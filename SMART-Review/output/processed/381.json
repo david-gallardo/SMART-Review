@@ -1,0 +1,33 @@
+{
+    "ArticleID": 381,
+    "Authors": "Liu, Ruijie; Beetham, Tamara; Newton, Helen; Busch, Susan H.",
+    "Article Title": "Access to treatment before and after Medicare coverage of opioid treatment programs",
+    "Abstract": "Since January 2020, Medicare has covered opioid use disorder (OUD) treatment services at opioid treatment programs (OTPs), the only outpatient settings allowed to dispense methadone for treating OUD. This study examined policy-associated changes in Medicare acceptance and the availability of four OUD treatment services (ongoing buprenorphine, HIV/AIDS education, employment services, and comprehensive mental health assessment), by for-profit status, and county-level changes in Medicare-accepting-OTPs access, by sociodemographic characteristics (racial composition, poverty rate, and rurality). Using data from the 2019-2022 National Directory of Drug and Alcohol Abuse Treatment Facilities, we found Medicare acceptance increased from 21.31% in 2018 to 80.76% in 2021. The availability of the four treatment services increased, but no increases were significantly associated with Medicare coverage. While county-level OTP access significantly improved, counties with higher rates of non-White residents experienced an additional average increase of 0.86 Medicare-accepting-OTPs (95% CI, 0.05-1.67) compared to those without higher rates of non-White populations. Overall, Medicare coverage was associated with improved OTP access, not ancillary services.Opioid treatment programs (OTPs) are the only outpatient settings allowed to dispense methadone as a medication for treating opioid use disorder (OUD). However, Medicare fee-for-service did not cover treatment services for OUD furnished in OTPs until 2020. Adding to previous literature, we examined changes in the availability of OUD treatment services at OTPs and in county-level access to Medicare-accepting-OTPs associated with the nationwide Medicare coverage expansion. Our findings highlight the role of for-profit facilities and facilities in non-White communities in expanding access to OUD treatment among Medicare population. This study helps better understand policy-associated improvements in the treatment access and suggests potential policy strategies to address the ongoing opioid epidemic.Opioid treatment programs (OTPs) are the only outpatient settings allowed to dispense methadone for treating opioid use disorder (OUD). Starting in 2020, Medicare fee-for-service began covering treatment for OUD in OTPs. We examined policy-associated changes at OTPs and found significant increases in Medicare acceptance, especially among for-profit facilities. There were also increases in the availability of OUD treatment services at OTPs, but no increases were significantly associated with the Medicare coverage expansion. Additionally, county-level access to Medicare-accepting-OTPs significantly improved, particularly in counties with more non-White residents. As a result, the Medicare coverage expansion was associated with improved access to OTPs for Medicare beneficiaries, although limited treatment availability persists.",
+    "DOI": "10.1093/haschl/qxae076",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not directly address employment or labor outcomes. The study focuses on access to opioid treatment programs and the impact of Medicare coverage on this access.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is focused on individuals with opioid use disorder rather than mental health disorders. The intervention also pertains to healthcare policy changes related to treatment services, which do not align with the specified interventions for active employment policies.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on opioid treatment programs (OTPs) for OUD, which is not directly related to employment policies for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided document.",
+            "logprobs": ""
+        }
+    }
+}

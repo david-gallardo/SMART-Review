@@ -1,0 +1,33 @@
+{
+    "ArticleID": 562,
+    "Authors": "Lovgren, Veronica; Markstrom, Urban; Sauer, Lennart",
+    "Article Title": "Towards Employment: What Research Says About Support-to-Work in Relation to Psychiatric and Intellectual Disabilities.",
+    "Abstract": "This article presents an overview of research about support-to-work in relation to psychiatric and intellectual disabilities. The overview shows that support-to-work services are multifaceted, and that work can be seen as a tool for individual rehabilitation or as a set of goals to achieve. Providers are presented with specific components, which are characterized by systematic, targeted, and individualized interventions. The overview illustrates a need for long-term engagement and cooperation of and between welfare services and agents within the labor market to dissolve the Gordian knot that the transition from welfare interventions to employment seems to be.",
+    "DOI": "10.1080/1536710X.2017.1260516",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present a specific intervention (job search services, adult training, wage subsidies, supported employment) and focuses on an overview of research about support-to-work in relation to psychiatric and intellectual disabilities.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is an overview and lacks rigorous evaluation or control groups. It does not meet the inclusion criteria for study design.",
+            "study_design": "Overview",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and does not mention any controlled trials, RCTs, or quasi-experimental studies.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

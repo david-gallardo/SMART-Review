@@ -1,0 +1,33 @@
+{
+    "ArticleID": 273,
+    "Authors": "Saavedra, Javier; Lopez, Marcelino; Gonzalez, Sergio; Arias, Samuel; Crawford, Paul",
+    "Article Title": "Cognitive and Social Functioning Correlates of Employment Among People with Severe Mental Illness",
+    "Abstract": "We assess how social and cognitive functioning is associated to gaining employment for 213 people diagnosed with severe mental illness taking part in employment programs in Andalusia (Spain). We used the Repeatable Battery for the Assessment of Neuropsychological Status and the Social Functioning Scale and conducted two binary logistical regression analyses. Response variables were: having a job or not, in ordinary companies (OCs) and social enterprises, and working in an OC or not. There were two variables with significant adjusted odds ratios for having a job: attention and Educational level. There were five variables with significant odds ratios for having a job in an OC: Sex, Educational level, Attention, Communication, and Independence-competence. The study looks at the possible benefits of combining employment with support and social enterprises in employment programs for these people and underlines how both social and cognitive functioning are central to developing employment models.",
+    "DOI": "10.1007/s10597-015-9874-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not have a control group and the intervention is not clearly defined in terms of employment policies.",
+            "study_design": "Cross-sectional study with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

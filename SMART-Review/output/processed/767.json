@@ -1,0 +1,33 @@
+{
+    "ArticleID": 767,
+    "Authors": "van Egmond, M. P.; Duijts, S. F. A.; Scholten, A. P. J.; van der Beek, A. J.; Anema, J. R.",
+    "Article Title": "Offering a tailored return to work program to cancer survivors with job loss: a process evaluation",
+    "Abstract": "Background: In Europe, 1.7 million persons of working age are diagnosed with cancer each year. During or after treatment, cancer survivors (CSs) are vulnerable for job loss, and many CSs struggle with return to work (RTW). When offering RTW interventions to CSs, it is important to conduct a process evaluation to assess such factors as the population reached and implementation problems. Recently, we developed an innovative RTW program, tailored specifically to the needs of CSs with job loss in the Netherlands. The aim of this study was to evaluate the likelihood of theory and implementation failure, as well as to evaluate procedures for recruitment, execution and implementation of the tailored RTW program for CSs with job loss.Methods: Six components were evaluated in the RTW program: Recruitment, Reach, Dosage, Implementation, Satisfaction, and Experienced Barriers. Data were provided by logbooks and questionnaires from participating CSs, occupational health care (OHC) professionals, and re-integration coaches and job hunting officers who delivered the RTW program. SPSS and Excel were used to conduct the analyses.Results: 85 CSs received the tailored RTW program. Their mean age was 47.9 years (SD 8.5). The majority were female (72 %), married (52 %), and of Dutch nationality (91 %). The program reached 88.2 % of the target population and 52 % of participants who started the program received the adequate dosage. The program implementation score was 45.9 %. Participants' mean overall program duration remained within the protocol boundaries. Re-integration coaches were more satisfied with the program than job hunting officers or OHC professionals. Likewise, participants were more satisfied with the program delivery by the re-integration coaches than with the delivery by the job hunting officers. Reported barriers within the RTW program were a lack of communication, high program intensity and short program duration, and, with regard to the job hunting officers, a lack of experience with cancer-related RTW problems.Conclusions: Participants, OHC professionals, re-integration coaches and job hunting officers generally had positive experiences with the innovative tailored RTW program. Facilitating communication between the delivering parties, and engaging usual care during program delivery, could be key elements to improved program implementation.",
+    "DOI": "10.1186/s12889-016-3592-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a process evaluation with a control group (the target population), and it meets the geographic scope (EU countries), timeframe (2005-2025), intervention (tailored return to work program), population (people with mental health problems), and outcomes (employment or labor outcomes) criteria.",
+            "study_design": "Process Evaluation with Control Group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders. It focuses on cancer survivors.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cancer survivors (CSs) with job loss, which does not align with the specified population of people with mental health disorders.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is cancer survivors, not people with mental health disorders.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        }
+    }
+}

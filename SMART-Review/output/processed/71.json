@@ -1,0 +1,33 @@
+{
+    "ArticleID": 71,
+    "Authors": "Allande-Cusso, Regina; Jesus Garcia-Iglesias, Juan; Fagundo-Rivera, Javier; Navarro-Abal, Yolanda; Antonio Climent-Rodriguez, Jose; Gomez-Salgado, Juan",
+    "Article Title": "Mental health and mental disorders in the workplace",
+    "Abstract": "The work environment can be considered one of the main determining factors that can influence the mental health of workers, especially as regards the structural and organisational conditions to which the worker is subjec-ted. This work environment has positive effects when work provides satisfaction and contributes to personal self-fulfil-ment, or negative effects provoked by situations of stress, inadequate working patterns and schedules, possible situa-tions of abuse and/or harassment, etc., which may contri-bute to the appearance of alterations in the mental health of the worker. Therefore, it is crucial that organisations use strategies for mental health promotion and disease prevention in the workplace, as mental health problems arising from work represent a major burden of disease for society and the eco-nomy of a country. Stress can be considered one of the main factors capable of disrupting a person's mental health and determining the development of a mental disorder, but other individual, so -cio-cultural, organisational, biological, and environmental factors also play a role to a greater or lesser extent. A negative work situation can trigger the development of serious mental disorders such as psychotic, neurotic, or cognitive disorders, as well as those derived from work-related stress and psychoactive substance abuse, and self-injurious behaviours. For early detection, treatment, rein-tegration, and/or rehabilitation, coordination between the public health system and occupational health or occupatio-nal risk prevention services is necessary.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, and the intervention does not directly address employment.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it lacks rigorous evaluation and control groups. It provides general information about mental health in the workplace rather than focusing on specific interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review/General Discussion",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on the impact of work environment on mental health and strategies for mental health promotion in the workplace, but does not specifically address employment interventions for people with mental disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

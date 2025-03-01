@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1026,
+    "Authors": "Strelkovskii, Nikita; Rovenskaya, Elena; Ilmola-Sheppard, Leena; Bartmann, Robin; Rein-Sapir, Yonat; Feitelson, Eran",
+    "Article Title": "Implications of COVID-19 Mitigation Policies for National Well-Being: A Systems Perspective",
+    "Abstract": "The ongoing COVID-19 crisis and measures aimed at curbing the pandemic have a widespread impact on various aspects of well-being, such as housing, social connections, and others. Moreover, COVID-19 does not affect all population groups equally. This study analyzes the impact of major COVID-19 non-pharmaceutical interventions (NPIs) on a set of national well-being indicators from the most recent version of the OECD Well-Being Framework. Using causal loop diagrams (systems maps), we consider direct and indirect effects of these policies on various components of the national well-being system. Our results show that business closures directly and/or indirectly impact more national well-being components than any other policy. The most affected national well-being components by all policies are life satisfaction, perceived health, and prevalence of depressive symptoms. In addition, we specify how the impact of the anti-pandemic measures differs for various population strata, using the degree of income and employment loss as key stratifying variables. Our insights can be helpful to identify and promote measures that can alleviate the adverse effects of the COVID-19 crisis on the national well-being.",
+    "DOI": "10.3390/su14010433",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of COVID-19 mitigation policies on national well-being indicators.",
+            "study_design": "Analytical study (using causal loop diagrams and systems maps)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It examines the impact of COVID-19 mitigation policies on national well-being indicators such as life satisfaction and perceived health.",
+            "study_design": "Cross-sectional analysis using causal loop diagrams (systems maps)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

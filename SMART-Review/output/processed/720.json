@@ -1,0 +1,33 @@
+{
+    "ArticleID": 720,
+    "Authors": "Vendrig, A. A.; Schaafsma, F. G.",
+    "Article Title": "Reliability and Validity of the Work and Well-Being Inventory (WBI) for Employees",
+    "Abstract": "Purpose The purpose of this study is to measure the psychometric properties of the Work and Wellbeing Inventory (WBI) (in Dutch: VAR-2), a screening tool that is used within occupational health care and rehabilitation. Our research question focused on the reliability and validity of this inventory. Methods Over the years seven different samples of workers, patients and sick listed workers varying in size between 89 and 912 participants (total: 2514), were used to measure the test-retest reliability, the internal consistency, the construct and concurrent validity, and the criterion and predictive validity. Results The 13 scales displayed good internal consistency and test-retest reliability. The constructive validity of the WBI could clearly be demonstrated in both patients and healthy workers. Confirmative factor analyses revealed a CFI >.90 for all scales. The depression scale predicted future work absenteeism (> 6 weeks) because of a common mental disorder in healthy workers. The job strain scale and the illness behavior scale predicted long term absenteeism (> 3 months) in workers with short-term absenteeism. The illness behavior scale moderately predicted return to work in rehab patients attending an intensive multidisciplinary program. Conclusions The WBI is a valid and reliable tool for occupational health practitioners to screen for risk factors for prolonged or future sickness absence. With this tool they will have reliable indications for further advice and interventions to restore the work ability.",
+    "DOI": "10.1007/s10926-017-9729-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not directly address employment outcomes for people with mental health disorders. The study focuses on the reliability and validity of a screening tool for occupational health practitioners to screen for risk factors for prolonged or future sickness absence, but it does not evaluate the effectiveness of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes or directly involve people with mental health disorders. It focuses on the psychometric properties of a screening tool.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the psychometric properties of the Work and Well-Being Inventory (WBI), which is not an intervention but a screening tool. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Methodological study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Psychometric validation study",
+            "logprobs": null
+        }
+    }
+}

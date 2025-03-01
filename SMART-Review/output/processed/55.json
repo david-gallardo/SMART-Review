@@ -1,0 +1,33 @@
+{
+    "ArticleID": 55,
+    "Authors": "Gewurtz, Rebecca E.; Cott, Cheryl; Rush, Brian; Kirsh, Bonnie",
+    "Article Title": "How is unemployment among people with mental illness conceptualized within social policy? A case study of the Ontario Disability Support Program",
+    "Abstract": "BACKGROUND: Government policy shapes and is shaped by society's views of important social issues such as employment among people with disabilities.OBJECTIVE: This article explores how unemployment among people with mental illness has been understood and characterized within social policy.METHODS: Drawing on a qualitative case study that explored the construction and implementation of policy reform within the employment support branch of the Ontario Disability Support Program, this paper examines assumptions about unemployment among people with mental illness that underlie social policy and their impact on employment services and supports.RESULTS: The most prominent messages that emerged from the data focused on unemployment among people with mental illness as a function of personal responsibility, limitations and a lack of motivation. Although there was awareness of the role of social and systemic factors, these issues were given less weight, especially when describing employment support practices. There is a lack of sufficient attention to complex and deeply-rooted social and systemic inequalities within social policy and employment services.CONCLUSIONS: There is a need to expand conceptualizations of unemployment among people with mental illness within social policy, and develop interventions that address complex social factors and systemic constraints that can limit employment opportunities.",
+    "DOI": "10.3233/WOR-141843",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative case study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (case study) without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Qualitative case study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment interventions but rather on the conceptualization of unemployment within social policy. It also lacks a control group and does not provide employment outcomes.",
+            "study_design": "Qualitative case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative case study which lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative Case Study",
+            "logprobs": null
+        }
+    }
+}

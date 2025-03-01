@@ -1,0 +1,33 @@
+{
+    "ArticleID": 75,
+    "Authors": "Kukla, Marina; Faith, Laura A.; Lysaker, Paul H.; Wiesepape, Courtney; Corbiere, Marc; Lecomte, Tania",
+    "Article Title": "Total Metacognitive Capacity Predicts Competitive Employment Acquisition Across 6 Months in Adults With Serious Mental Illness Receiving Psychiatric Rehabilitation Services",
+    "Abstract": "Deficits in metacognitive capacity are common among people with serious mental illness (SMI), although there is a gap in knowledge regarding how these impairments predict later functioning, especially employment. This study aimed to prospectively examine the relationship between metacognitive capacity and 6-month competitive employment attainment in adults with SMI who were participating in a study testing a cognitive behavioral therapy intervention added to supported employment services. Sixty-seven participants with complete data at baseline and the 6-month follow-up comprised the sample. Data were analyzed using stepwise logistic regression covarying for work history and study assignment. Results indicate that total metacognitive capacity at baseline significantly predicted employment acquisition at 6 months; the final model correctly classified 83.3% of participants who obtained work. In conclusion, these findings suggest that better overall metacognitive capacity may be key for future work functioning. Thus, interventions that target metacognitive capacity may lead to enhancements in community outcomes.",
+    "DOI": "10.1097/NMD.0000000000001554",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective study with a control group, meeting the inclusion criteria for study design. The study is conducted in the US, within the specified timeframe of 2005-2025, and focuses on adults with serious mental illness, which meets the population criteria. The study also examines employment outcomes, meeting the outcome criteria.",
+            "study_design": "Prospective study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective observational study with cognitive behavioral therapy added to supported employment services",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on metacognitive capacity and its relationship with employment in adults with serious mental illness, which does not directly address the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a prospective cohort study with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

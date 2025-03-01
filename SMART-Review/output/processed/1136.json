@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1136,
+    "Authors": "Margolies, Paul J.; Humensky, Jennifer L.; Chiang, I-Chin; Covell, Nancy H.; Jewell, Thomas C.; Broadway-Wilson, Karen; Gregory, Raymond; Scannevin, Gary, Jr.; Dixon, Lisa B.",
+    "Article Title": "Relationship Between Self-Assessed Fidelity and Self-Reported Employment in the Individual Placement and Support Model of Supported Employment",
+    "Abstract": "Objective: A growing body of literature demonstrates that high-fidelity implementation of the individual placement and support (IPS) model of supported employment increases the chances of achieving desired outcomes. This study examined the relationship between IPS fidelity, as self-reported by program sites, and employment outcomes and determined whether this relationship was maintained over time.Methods: A total of 78 outpatient programs in New York State provided data on self-reported IPS fidelity and employment outcomes. Pearson correlations were used to determine the relationship between fidelity scores and competitive employment rates. A mixed-effects model examined the relationship between repeated fidelity and employment measures over time.Results: A significant positive relationship was found between better self-reported IPS fidelity and greater employment. The relationship between IPS fidelity and employment was sustained over time (up to one year).Conclusions: Higher-fidelity implementation of the IPS model, as self-assessed by program sites, was associated with higher employment rates, which were sustained over time.",
+    "DOI": "10.1176/appi.ps.201700472",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the relationship between self-assessed fidelity of the IPS model and employment outcomes without specifying a particular intervention or targeting individuals with mental health issues.",
+            "study_design": "Cross-sectional analysis using Pearson correlations and mixed-effects models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, which meets the inclusion criteria for study design. It focuses on the IPS model of supported employment, which is one of the interventions of interest. The study is conducted in the US, which falls within the specified geographic scope. The study's timeframe is 2015-2019, which is within the 2005-2025 timeframe. The study population includes people with mental health disorders, meeting the population criteria. The study outcomes include employment rates, job duration, job quality, workplace integration, and job retention, which are the specified outcomes. The study design is a systematic review of controlled trials, which meets the inclusion criteria for study design.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment in the US, was published within the specified timeframe (2005-2025), targets people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

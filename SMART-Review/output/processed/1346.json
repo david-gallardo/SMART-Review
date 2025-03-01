@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1346,
+    "Authors": "Nicholson, Joanne",
+    "Article Title": "For Parents With Mental Health Conditions: The Chance to Have It All at Work and at Home",
+    "Abstract": "Topic: Evidence-based Individual Placement and Support (IPS) supported employment provides opportunities to individualize supports for parents with mental health conditions who are vulnerable to financial insecurity and family instability. Purpose: Adults living with serious mental health conditions may have goals related to both work and parenting. IPS employment specialists can capitalize on our understanding of the challenges faced by parents living with serious mental health conditions to improve the economic wellbeing of these individuals and their families. Sources Used: Data include a summary of analyses of the U.S. National Survey on Drug Use and Health as well as first-person accounts from parents and employment specialists. Conclusions and Implications for Practice: Empirical and anecdotal evidence support the relevance of discussing goals for parenting and family life with adults living with mental health conditions in the context of job assessment, placement, and support to promote goal achievement in both role domains employment and parenting.",
+    "DOI": "10.1037/prj0000057",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. It is a quasi-experimental study with first-person accounts from parents and employment specialists, but it does not meet the inclusion criteria for a systematic review or meta-analysis with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental with control group) and does not specify employment outcomes. It focuses on IPS supported employment for parents with mental health conditions but does not provide data from controlled trials or studies that include a control group.",
+            "study_design": "Summary of analyses and first-person accounts",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the support for parents with mental health conditions in general.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 39,
+    "Authors": "Petrakis, Melissa; Stirling, Yolande; Higgins, Kate",
+    "Article Title": "Vocational support in mental health service delivery in Australia",
+    "Abstract": "Background: Individuals experiencing severe and persistent mental illness report a desire to gain and sustain work. Individual Placement and Support (IPS) is an evidence-based approach to vocational rehabilitation to support competitive employment outcomes. Aim/Objective: This study aimed to evaluate whether a joint-governance management partnership, between a clinical adult mental health and an employment service, could deliver a sustained IPS program in Australia. Materials and Method: The methodology entailed a Clinical Data Mining approach, to examine records from seven years of implementation of IPS in one setting within an Australian public mental health service context. Results/Findings: Despite the prevalence of schizophrenia spectrum diagnoses and an older mean age (39 years), indicating that a large proportion of the cohort had experienced serious mental illness for over twenty years, findings were that 46.3% of participants achieved employment. Conclusions: This is an excellent result and is comparable to the only randomised control trial, with adult services, in the Australian context, which found a 42.5% employment rate possible under IPS compared with just 23.5% with referral to external employment services. Significance: More extensive trialling of IPS across clinical services is required, in Australia and internationally, including fidelity protocols, for knowledge translation to be achieved.",
+    "DOI": "10.1080/11038128.2018.1498918",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Australia, within the EU's geographic scope, and was published between 2005-2025. The intervention is IPS, which is one of the included interventions. The population is individuals with mental disorders, and the outcomes include employment rates.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT) and does not have a control group. It also does not specify the timeframe within the required period (2005-2025).",
+            "study_design": "Clinical Data Mining approach without RCT or control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Clinical Data Mining approach",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Clinical Data Mining",
+            "logprobs": null
+        }
+    }
+}

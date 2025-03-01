@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1477,
+    "Authors": "Yun, Mansik; Beehr, Terry",
+    "Article Title": "When experiencing nice interactions at work: Good sleep quality via well-being",
+    "Abstract": "Based on the Work-Home Resources Model and Conservation of Resources Theory, we develop dual mechanisms by which nice interactions (patients' compliments and coworkers' informational support) predict sleep quality. Specifically, we expect these nice interactions to help individuals conserve their personal energy in the form of less cognitive depletion (a cognitive process) and diminished physical fatigue (a physical process). Further, we propose employees utilise their energy resources to experience better sleep quality. To test the proposed model, we utilised an experience-sampling method by recruiting 223 female nurses working in a regional university hospital in South Korea. Specifically, we measured nice interactions and personal resources at 3 PM on Day t and sleep quality at 5-6 AM on Day t + 1, and we administered the questionnaire for 10 consecutive days. Overall, after removing 79 invalid observations (not completing questionnaire in a timely manner), we had a final total of two-wave 1997 daily observations from 223 nurses. Receiving more compliments from patients and more information from coworkers positively affects nurses' cognitive energy (less cognitive depletion) and physical energy (less physical fatigue), which predicts better sleep quality. Finally, results supported indirect effects of these nice interactions on sleep quality via cognitive and physical processes.",
+    "DOI": "10.1002/smi.3390",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned. The study focuses on nice interactions, compliments, and informational support from coworkers, which is not directly related to employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders. It focuses on the relationship between nice interactions at work and sleep quality among female nurses in South Korea.",
+            "study_design": "Cross-sectional experience-sampling study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Korea).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

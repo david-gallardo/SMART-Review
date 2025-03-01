@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1083,
+    "Authors": "Owusu, Ernest; Shalaby, Reham; Eboreime, Ejemai; Nkire, Nnamdi; Lawal, Mobolaji A.; Agyapong, Belinda; Pazderka, Hannah; Obuobi-Donkor, Gloria; Adu, Medard K.; Mao, Wanying; Oluwasina, Folajinmi; Agyapong, Vincent I. O.",
+    "Article Title": "Prevalence and Determinants of Generalized Anxiety Disorder Symptoms in Residents of Fort McMurray 12 Months Following the 2020 Flooding",
+    "Abstract": "BackgroundThe flood in Fort McMurray (FMM) which occurred between April 26 and May 2, 2020, is known to have displaced an estimated population of 1,500 people, and destroyed or damaged about 1,230 buildings. In all, it is estimated to have caused about $228 million in losses. ObjectiveThis study aims to identify the prevalence and determinants of likely Generalized Anxiety disorder (GAD) in among respondents 12-months after the 2020 flooding. MethodsData for the study were collected through a cross-sectional survey sent through REDCap and hosted online from the 24th of April to the 2nd of June 2021. The self-administered questionnaire was emailed to respondents using community, government, school, and occupational platforms. Demographic, flooding-related variables, and clinical data were collected. A validated instrument, the GAD-7 was used to collect information on likely GAD. Consent was implied by completing the survey forms, and the University of Alberta Health Research Ethics Committee approved the study. ResultsOf the 249 residents surveyed, 74.7% (186) respondents completed the online survey, 81.6% (80) were above 40 years, 71% (132) were in a relationship, 85.5% (159) were females, and 94.1% (175) were employed. The prevalence of likely GAD was 42.5% in our study. Predictors of likely GAD among respondents included positive employment status (OR = 30.70; 95% C.I. 2.183-423.093), prior diagnosis of depression (OR = 3.30; 95% C.I. 1.157-9.43), and the perceived need to have mental health counseling (OR = 6.28; 95% C.I. 2.553-15.45). ConclusionThis study showed that there was an increased magnitude of moderate to high anxiety symptoms among respondents following the natural disaster particularly the flood in 2020. The predictors of likely GAD include positive employment status, history of depression diagnosis, and the need to have mental health counseling. Policymakers may mitigate the rise of anxiety after flooding in vulnerable areas by addressing these and other factors.",
+    "DOI": "10.3389/fpsyt.2022.844907",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on the prevalence and determinants of Generalized Anxiety Disorder symptoms in residents 12 months following a natural disaster.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions. It focuses on the prevalence of Generalized Anxiety Disorder symptoms following a natural disaster.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders, nor does it include job search services, adult training, wage subsidies, or supported employment interventions. The study is also not a systematic review or meta-analysis, but rather a cross-sectional survey. The study's population is not specifically defined as people with mental health disorders, and the outcomes are not directly related to employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

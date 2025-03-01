@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1173,
+    "Authors": "Dagher, Rada K.; Chen, Jie; Thomas, Stephen B.",
+    "Article Title": "Gender Differences in Mental Health Outcomes before, during, and after the Great Recession",
+    "Abstract": "We examined gender differences in mental health outcomes during and post-recession versus pre-recession. We utilized 2005-2006, 2008-2009, and 2010-2011 data from the Medical Expenditure Panel Survey. Females had lower odds of depression diagnoses during and post-recession and better mental health during the recession, but higher odds of anxiety diagnoses post-recession. Males had lower odds of depression diagnoses and better mental health during and post-recession and lower Kessler 6 scores post-recession. We conducted stratified analyses, which confirmed that the aforementioned findings were consistent across the four different regions of the U.S., by employment status, income and health care utilization. Importantly, we found that the higher odds of anxiety diagnoses among females after the recession were mainly prominent among specific subgroups of females: those who lived in the Northeast or the Midwest, the unemployed, and those with low household income. Gender differences in mental health in association with the economic recession highlight the importance of policymakers taking these differences into consideration when designing economic and social policies to address economic downturns. Future research should examine the reasons behind the decreased depression diagnoses among both genders, and whether they signify decreased mental healthcare utilization or increased social support and more time for exercise and leisure activities.",
+    "DOI": "10.1371/journal.pone.0124103",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a cross-sectional analysis of data from the Medical Expenditure Panel Survey.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes or interventions related to active employment policies. It focuses on gender differences in mental health outcomes during and after the Great Recession.",
+            "study_design": "Cross-sectional analysis using data from the Medical Expenditure Panel Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on gender differences in mental health outcomes during economic recessions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

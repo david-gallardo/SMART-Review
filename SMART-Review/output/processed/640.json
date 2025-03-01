@@ -1,0 +1,33 @@
+{
+    "ArticleID": 640,
+    "Authors": "Cohen, Deborah Ann; Klodnick, Vanessa Vorhies; Stevens, Laura; Fagan, Marc A.; Spencer, E-Shawn",
+    "Article Title": "Implementing Adapted Individual Placement and Support (IPS) Supported Employment for Transition-Age Youth in Texas",
+    "Abstract": "Transition-age youth (TAY, ages 14-26) diagnosed with serious mental health conditions are at high risk for vocational struggles. This paper examines the implementation and process evaluation of Individual Placement and Support (IPS) and Supported Employment enhanced to better meet developmental needs of TAY. Enhancements include the integration of a TAY development focus, engagement best-practices, Supported Education and Peer Support. Community mental health providers participated in a process evaluation to explore the feasibility of a larger scale implementation. Common organizational barriers were encountered across provider sites including: leadership support, agency structures and funding mechanisms; compounded by the complexity of bridging child and adult systems. Findings have implications for both child and adult community mental health providers as they adapt and integrate programming for TAY.",
+    "DOI": "10.1007/s10597-019-00508-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2025",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a process evaluation of the implementation and feasibility of IPS supported employment for transition-age youth in Texas without a control group.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Transition-Age Youth (TAY) with serious mental health conditions, which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "Process Evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a process evaluation of Supported Employment, which is an eligible intervention. It includes a control group and focuses on people with mental health disorders within the specified geographic scope (US) and timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

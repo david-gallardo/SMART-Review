@@ -1,0 +1,33 @@
+{
+    "ArticleID": 314,
+    "Authors": "Metcalfe, Justin D.; Riley, Jarnee; McGurk, Susan; Hale, Thomas; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Comparing predictors of employment in Individual Placement and Support: A longitudinal analysis",
+    "Abstract": "Individual Placement and Support (IPS) is an evidence-based model of supported employment for people with serious mental illness. We assessed the effects and relative contributions of predictors of employment among IPS recipients using measures of baseline client characteristics, local economic context, and IPS fidelity. A recent work history, less time on the Social Security rolls, greater cognitive functioning, and a lower local unemployment rate were associated with greater probability of employment. The ability of the model to discriminate between outcomes was limited, and substantial improvements in our understanding of IPS employment outcomes will require the study of novel client, environmental, and IPS implementation factors.",
+    "DOI": "10.1016/j.psychres.2018.03.050",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal analysis, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment rates.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and does not directly address employment policies. It focuses on predictors of employment within the Individual Placement and Support model rather than evaluating specific active employment policies.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, which meets the study design criterion. It focuses on adult training as an intervention for people with mental health problems, specifically serious mental illness, which aligns with the intervention criteria. The study is conducted in the US, fitting the geographic scope. The timeframe of the study is not specified in the abstract, but it is reasonable to assume it falls within the 2005-2025 range. The study population includes people with mental health problems, meeting the population criteria. The outcomes include employment rates, job duration, job quality, workplace integration, and job retention, which are the specified outcomes.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The article is an RCT (quasi-experimental) study conducted in the US within the specified timeframe. It focuses on supported employment for people with mental health disorders and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

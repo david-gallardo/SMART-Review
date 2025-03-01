@@ -1,0 +1,33 @@
+{
+    "ArticleID": 655,
+    "Authors": "Saarinen, Aino; Hietala, Jarmo; Lyytikainen, Leo-Pekka; Mishra, Binisha Hamal; Sormunen, Elina; Kahonen, Mika; Rovio, Suvi; Viikari, Jorma; Raitakari, Olli; Lehtimaki, Terho; Keltikangas-Jarvinen, Liisa",
+    "Article Title": "Polygenic liabilities underlying job stress and exhaustion over a 10-year follow-up: A general population study",
+    "Abstract": "We investigated whether individuals, who have a high polygenic loading for schizophrenia and major depression (PGL) but have not developed the respective disorders, are still susceptible to experience milder forms of ill-being in terms of job strain or exhaustion. We used the population-based Young Finns Study data (n = 928). PGL was assessed with a cumulative score of the polygenic risk scores for schizophrenia and depression. Participants (24-49-year-olds) evaluated their exhaustion levels and perceived job characteristics over a 10-year follow-up (2001, 2007, 2011). Participants with diagnosed psychotic or affective disorders were excluded. We found that high PGL did not predict less favorable perceptions of job environment (job strain, demands, control, satisfaction, social support at work) but high PGL predicted a higher trajectory of exhaustion in early adulthood and middle age. Additionally, high (vs. low) PGL predicted a stronger increase in exhaustion at increased levels of job strain. These findings remained after controlling for sex, socioeconomic factors, health behaviors, and cognitive performance. In conclusion, individuals with high PGL may have an elevated liability to experience exhaustion especially in early adulthood and middle age (despite they perceive their job environment similarly than others), and especially and at high levels of job strain.",
+    "DOI": "10.1016/j.psychres.2023.115355",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a population-based study without a control group.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on genetic predispositions and job stress/exhaustion over a long follow-up period without any intervention or employment outcomes.",
+            "study_design": "Observational study (longitudinal)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

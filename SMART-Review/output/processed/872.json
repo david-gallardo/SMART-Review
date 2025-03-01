@@ -1,0 +1,33 @@
+{
+    "ArticleID": 872,
+    "Authors": "Cervello, S.; Dubreucq, J.; Trichanh, M.; Dubrulle, A.; Amado, I; Bralet, M. C.; Chirio-Espitalier, M.; Delille, S.; Fakra, E.; Francq, C.; Guillard-Bouhet, N.; Graux, J.; Lancon, C.; Zakoian, J. M.; Gauthier, E.; Demily, C.; Franck, N.",
+    "Article Title": "Cognitive remediation and professional insertion of people with schizophrenia: RemedRehab, a randomized controlled trial",
+    "Abstract": "Background People suffering from schizophrenia cannot easily access employment in European countries. Different types of vocational programs coexist in France: supported employment, sheltered employment (ShE), and hybrid vocational programs. It is now acknowledged that the frequent cognitive impairments constitute a major obstacle to employment for people with schizophrenia. However, cognitive remediation (CR) is an evidence-based nonpharmacological treatment for these neurocognitive deficits. Methods RemedRehab was a multicentric randomized comparative open trial in parallel groups conducted in eight centers in France between 2013 and 2018. Participants were recruited into ShE firms before their insertion in employment (preparation phase). They were randomly assigned to cognitive training Cognitive Remediation for Schizophrenia (RECOS) or Treatment As Usual (TAU). The aim of the study was to compare with the benefits of the RECOS program on access to employment and work attendance for people with schizophrenia, measured by the ratio: number of hours worked on number of hours stipulated in the contract. Results Seventy-nine patients were included in the study between October 2018 and September 2019. Fifty-three patients completed the study. Hours worked / planned hours equal to 1 or greater than 1 were significantly higher in the RECOS group than in the TAU group. Conclusions Participants benefited from a RECOS individualized CR program allows a better rate of work attendance in ShE, compared to the ones benefited from TAU. Traditional vocational rehabilitation enhanced with individualized CR in a population of patients with schizophrenia is efficient on work attendance during the first months of work integration.",
+    "DOI": "10.1192/j.eurpsy.2021.25",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - France), timeframe (2013-2018 within the specified range), intervention (cognitive remediation), population (people with schizophrenia, a form of mental disorder), and outcomes (work attendance which is an employment outcome).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia, which is not explicitly mentioned in the inclusion criteria as a mental health disorder. The inclusion criteria require the study to focus on people with mental disorders or documented mental health problems, and schizophrenia is not specified.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in France (EU country) within the specified timeframe (2013-2018). It focuses on supported employment for people with schizophrenia and measures employment outcomes such as work attendance.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

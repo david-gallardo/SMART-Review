@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1545,
+    "Authors": "Davtyan, Mariam; Kacanek, Deborah; Lee, Jessica; Berman, Claire; Chadwick, Ellen G.; Smith, Renee; Salomon, Liz; Frederick, Toinette",
+    "Article Title": "Factors associated with internalized HIV-related stigma among biological mothers living with HIV enrolled in a US cohort study",
+    "Abstract": "Understanding factors associated with internalized HIV-related stigma among mothers living with HIV may improve health outcomes. We examined factors (age, race/ethnicity, education, income, employment, marital status, health limitations, and years since HIV diagnosis) associated with internalized HIV-related stigma among biological mothers of children enrolled in the Surveillance Monitoring for ART Toxicities study of the US-based Pediatric HIV/AIDS Cohort Study. Stigma was measured with the Internalized HIV Stigma Scale (IHSS), completed biennially at their child's 11-17-year visits. Linear regression models were fit with generalized estimating equations to evaluate the association between the factors of interest and internalized HIV-related stigma using all completed IHSS surveys. Among 438 eligible mothers, the mean IHSS score was 43.7 (SD = 19.5). Higher IHSS scores were observed for widowed women compared to married women, with an estimated mean difference of 8.91 (95% CI: 2.25, 15.57) after adjusting for age, education, income, and health limitations. Years since HIV diagnosis was associated with internalized HIV-related stigma. For every year of increase since HIV diagnosis, IHSS scores decreased by 0.54 per year, after adjusting for age (95% CI: -0.92, -0.17). Interventions to reduce internalized HIV-related stigma should target mothers who are widowed and those with a more recent HIV diagnosis.",
+    "DOI": "10.1080/09540121.2023.2263680",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on internalized HIV-related stigma among biological mothers living with HIV.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study using linear regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on internalized HIV-related stigma among mothers living with HIV, not employment outcomes for people with mental health disorders.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not measure employment outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 187,
+    "Authors": "Beck, J. Gayle; Clapp, Joshua D.; Jacobs-Lentz, Jason; McNiff, Judiann; Avery, Megan; Olsen, Shira A.",
+    "Article Title": "The Association of Mental Health Conditions With Employment, Interpersonal, and Subjective Functioning After Intimate Partner Violence",
+    "Abstract": "This study explored the associations of posttraumatic stress disorder (PTSD), generalized anxiety disorder (GAD), and depressive symptoms with employment, social support, and subjective functioning in 100 women who were seeking mental health assistance after intimate partner violence. Depressive disorders showed significant associations with low levels of social support, diminished self-esteem, reduced quality of life, and elevated negative social problem-solving orientation. PTSD severity was significantly associated with low self-esteem and elevated negative problem orientation, while severity of GAD was only associated with negative problem orientation. Results are discussed in light of current service models for women who have experienced intimate partner violence.",
+    "DOI": "10.1177/1077801214552855",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its intervention does not directly address employment. The population is not specifically defined as people with mental disorders, and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Observational",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the association of mental health conditions with employment and social functioning in women who have experienced intimate partner violence, not on employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

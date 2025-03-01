@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1099,
+    "Authors": "Al-Abdulmunem, Monirah; Bond, Gary R.; Ressler, Daniel R.; Becker, Deborah R.; Swanson, Sarah J.; Marbacher, Jessica",
+    "Article Title": "Individual placement and support programmes for young adults: Where are they and whom do they serve?",
+    "Abstract": "AimIndividual Placement and Support (IPS), an evidence-based supported employment model developed for adults with serious mental illness, has been recently targeted to young adults with mental health conditions, but little is known about its adoption in this age group in the United States. MethodsWe recruited a volunteer sample of nine IPS programmes in five states serving young adults with mental health conditions aged 16 to 24. IPS team leaders reported programme and participant characteristics and rated barriers to employment and education. ResultsMost IPS programmes were located in community mental health centres, served a small number of young adults, and received most referrals from external sources. The study sample of 111 participants included 53% female, 47% under 21 years old, 60% diagnosed with a depressive disorder; 92% had an employment goal, and 40% had an education goal. IPS specialists reported that managing mental health symptoms was the most common barrier to achieving employment and education goals. ConclusionFuture research should examine how IPS programmes could best provide services to young adults.",
+    "DOI": "10.1111/eip.13440",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a descriptive study with a volunteer sample of 111 participants, and it does not have a control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group. It is a volunteer sample of IPS programmes without random assignment.",
+            "study_design": "Quasi-experimental (volunteer sample)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Individual Placement and Support (IPS) programmes for young adults with mental health conditions, which is not directly related to the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        }
+    }
+}

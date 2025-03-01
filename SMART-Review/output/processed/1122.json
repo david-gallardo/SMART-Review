@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1122,
+    "Authors": "McFarlane, William R.; Levin, Bruce; Travis, Lori; Lucas, F. Lee; Lynch, Sarah; Verdi, Mary; Williams, Deanna; Adelsheim, Steven; Calkins, Roderick; Carter, Cameron S.; Cornblatt, Barbara; Taylor, Stephan F.; Auther, Andrea M.; McFarland, Bentson; Melton, Ryan; Migliorati, Margaret; Niendam, Tara; Ragland, J. Daniel; Sale, Tamara; Salvador, Melina; Spring, Elizabeth",
+    "Article Title": "Clinical and Functional Outcomes After 2 Years in the Early Detection and Intervention for the Prevention of Psychosis Multisite Effectiveness Trial",
+    "Abstract": "To test effectiveness of the Early Detection, Intervention, and Prevention of Psychosis Program in preventing the onset of severe psychosis and improving functioning in a national sample of at-risk youth.In a risk-based allocation study design, 337 youth (age 12-25) at risk of psychosis were assigned to treatment groups based on severity of positive symptoms. Those at clinically higher risk (CHR) or having an early first episode of psychosis (EFEP) were assigned to receive Family-aided Assertive Community Treatment (FACT); those at clinically lower risk (CLR) were assigned to receive community care. Between-groups differences on outcome variables were adjusted statistically according to regression-discontinuity procedures and evaluated using the Global Test Procedure that combined all symptom and functional measures.A total of 337 young people (mean age: 16.6) were assigned to the treatment group (CHR + EFEP, n = 250) or comparison group (CLR, n = 87). On the primary variable, positive symptoms, after 2 years FACT, were superior to community care (2 df, p < .0001) for both CHR (p = .0034) and EFEP (p < .0001) subgroups. Rates of conversion (6.3% CHR vs 2.3% CLR) and first negative event (25% CHR vs 22% CLR) were low but did not differ. FACT was superior in the Global Test (p = .0007; p = .024 for CHR and p = .0002 for EFEP, vs CLR) and in improvement in participation in work and school (p = .025).FACT is effective in improving positive, negative, disorganized and general symptoms, Global Assessment of Functioning, work and school participation and global outcome in youth at risk for, or experiencing very early, psychosis.",
+    "DOI": "10.1093/schbul/sbu108",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a risk-based allocation study design, which meets the inclusion criteria. The study includes a control group and evaluates the effectiveness of the Early Detection, Intervention, and Prevention of Psychosis Program in preventing the onset of severe psychosis and improving functioning in a national sample of at-risk youth.",
+            "study_design": "Risk-based allocation study design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on youth at risk of psychosis rather than people with mental disorders. It also lacks an intervention directly addressing employment.",
+            "study_design": "Risk-based allocation study design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Risk-based allocation study design",
+            "logprobs": null
+        }
+    }
+}

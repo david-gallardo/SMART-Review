@@ -1,0 +1,33 @@
+{
+    "ArticleID": 513,
+    "Authors": "DeTore, Nicole R.; Mueser, Kim T.; Byrd, Jessica A.; McGurk, Susan R.",
+    "Article Title": "Cognitive functioning as a predictor of response to comprehensive cognitive remediation",
+    "Abstract": "Cognitive remediation is aimed at reducing cognitive impairments in severe mental illnesses such as schizophrenia, but little is known about whether severity of cognitive impairment predicts benefit from this intervention. To address this question, this study aggregated data from five randomized controlled trials (N = 300) of a standardized comprehensive, multimodal outpatient cognitive remediation program, the Thinking Skills for Work program, and evaluated whether baseline level of cognitive impairment differentially predicted improvement in cognitive functioning following cognitive remediation vs. usual services. Using standardized scores of neuropsychological functioning to designate low average, moderate, and severe levels of cognitive impairment, participants with greater cognitive impairment were found to benefit differentially more from cognitive remediation than usual services compared to less cognitively impaired participants. The findings were unaffected by statistically controlling for participant demographic and clinical characteristics. The findings suggest that individuals with the greatest cognitive impairment, for whom cognitive remediation was developed, are also most likely to benefit from this intervention.",
+    "DOI": "10.1016/j.jpsychires.2019.03.012",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on cognitive functioning as a predictor of response to comprehensive cognitive remediation.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the interventions do not include job search services, adult training, wage subsidies, or supported employment. It focuses on cognitive remediation for severe mental illnesses.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation for severe mental illnesses and its impact on cognitive functioning, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

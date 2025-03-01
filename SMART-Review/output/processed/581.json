@@ -1,0 +1,33 @@
+{
+    "ArticleID": 581,
+    "Authors": "Lopez-de-Ipina, Karmele; Iradi, Jon; Fernandez, Elsa; Calvo, Pilar M.; Salle, Damien; Poologaindran, Anujan; Villaverde, Ivan; Daelman, Paul; Sanchez, Emilio; Requejo, Catalina; Suckling, John",
+    "Article Title": "HUMANISE: Human-Inspired Smart Management, towards a Healthy and Safe Industrial Collaborative Robotics",
+    "Abstract": "The workplace is evolving towards scenarios where humans are acquiring a more active and dynamic role alongside increasingly intelligent machines. Moreover, the active population is ageing and consequently emerging risks could appear due to health disorders of workers, which requires intelligent intervention both for production management and workers' support. In this sense, the innovative and smart systems oriented towards monitoring and regulating workers' well-being will become essential. This work presents HUMANISE, a novel proposal of an intelligent system for risk management, oriented to workers suffering from disease conditions. The developed support system is based on Computer Vision, Machine Learning and Intelligent Agents. Results: The system was applied to a two-arm Cobot scenario during a Learning from Demonstration task for collaborative parts transportation, where risk management is critical. In this environment with a worker suffering from a mental disorder, safety is successfully controlled by means of human/robot coordination, and risk levels are managed through the integration of human/robot behaviour models and worker's models based on the workplace model of the World Health Organization. The results show a promising real-time support tool to coordinate and monitoring these scenarios by integrating workers' health information towards a successful risk management strategy for safe industrial Cobot environments.",
+    "DOI": "10.3390/s23031170",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on risk management and worker well-being in industrial Cobot environments.",
+            "study_design": "This study appears to be a descriptive or exploratory study, as it presents a novel proposal of an intelligent system for risk management and does not mention a control group or comparison to a standard.",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on the development of an intelligent system for risk management in industrial robotics. It lacks measures related to employment or labor results.",
+            "study_design": "Innovative proposal, no randomized controlled trial or systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the integration of intelligent systems for risk management in industrial settings with workers suffering from mental disorders. It does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it discuss job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Experimental study with a control group",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

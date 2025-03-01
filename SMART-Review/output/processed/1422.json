@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1422,
+    "Authors": "Mueser, Kim T.; Meyer-Kalos, Piper S.; Glynn, Shirley M.; Lynde, David W.; Robinson, Delbert G.; Gingerich, Susan; Penn, David L.; Cather, Corrine; Gottlieb, Jennifer D.; Marcy, Patricia; Wiseman, Jennifer L.; Potretzke, Sheena; Brunette, Mary F.; Schooler, Nina R.; Addington, Jean; Rosenheck, Robert A.; Estroff, Sue E.; Kane, John M.",
+    "Article Title": "Implementation and fidelity assessment of the NAVIGATE treatment program for first episode psychosis in a multi-site study",
+    "Abstract": "The NAVIGATE program was developed for the Recovery After Initial Schizophrenia Episode-Early Treatment Program (RAISE-ETP) study, which compared NAVIGATE to usual Community Care in a cluster randomized design involving 34 sites and 404 patients. This article describes the approach to training and implementing the NAVIGATE program at the 17 sites (including 134 practitioners) randomized to provide it, and to evaluating the fidelity of service delivery to the NAVIGATE model. Fidelity was evaluated to five different components of the program, all of which were standardized in manuals in advance of implemental ion. The components included four interventions (Individualized Resiliency Training, Family Education Program, Supported Employment and Education, Personalized Medication Management) and the overall organization (staffing and structure) of the NAVIGATE team. Most of the sites demonstrated acceptable or higher levels of fidelity in their implementation of the four interventions and the organization of the program, with all 17 sites demonstrating at least acceptable overall fidelity to the NAVIGATE program. The results indicate that the NAVIGATE program can be implemented with good fidelity to the treatment model in a diverse array of community mental health care settings serving persons with a first episode psychosis. (C) 2018 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2018.08.015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental study with a control group, but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the implementation and fidelity assessment of the NAVIGATE treatment program for first episode psychosis rather than addressing employment outcomes. It does not meet the inclusion criteria related to employment interventions.",
+            "study_design": "Quasi-experimental (cluster randomized design)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on a treatment program for first episode psychosis and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT involving people with mental health disorders and includes supported employment as one of the interventions.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

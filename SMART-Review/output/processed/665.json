@@ -1,0 +1,33 @@
+{
+    "ArticleID": 665,
+    "Authors": "Antai-Otong, Deborah",
+    "Article Title": "Psychosocial Recovery and Rehabilitation",
+    "Abstract": "This article discusses a psychosocial recovery and rehabilitation recovery model that uses an intensive case management approach. The approach offers an interdisciplinary model that integrates pharmacotherapy, social skills training, cognitive remediation, family involvement, and community integration. This evidence-based plan of care instills hope and nurtures one's capacity to learn and improve function and quality of life. It is cost-effective and offers psychiatric nurses opportunities to facilitate symptomatic remission, facilitate self-efficacy, and improve communication and social cognition skills. Nurses in diverse practice settings must be willing to plan and implement innovative treatment models that provide seamless mental health care across the treatment continuum.",
+    "DOI": "10.1016/j.cnur.2016.01.011",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment or labor outcomes, and instead focuses on a psychosocial recovery and rehabilitation model for people with mental health disorders.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. It focuses on psychosocial recovery and rehabilitation rather than employment interventions.",
+            "study_design": "None (descriptive article)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

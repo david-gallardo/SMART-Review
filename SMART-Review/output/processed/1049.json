@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1049,
+    "Authors": "Nicholson, Joanne; Wright, Spenser M.; Carlisle, Alyssa M.; Sweeney, Mary Ann; McHugo, Gregory J.",
+    "Article Title": "The WorkingWell Mobile Phone App for Individuals With Serious Mental Illnesses: Proof-of-Concept, Mixed-Methods Feasibility Study",
+    "Abstract": "Background: The disparities in employment for individuals with serious mental illnesses have been well documented, as have the benefits of work. Mobile technology can provide accessible in-the-moment support for these individuals. The WorkingWell mobile app was developed to meet the need for accessible follow-along supports for individuals with serious mental illnesses in the workplace.Objective: We explore the usability, usage, usefulness, and overall feasibility of the WorkingWell mobile app with individuals with serious mental illnesses who are actively employed and receiving community-based services.Methods: In this proof-of-concept, mixed-methods, 2-month feasibility study (N=40), employed individuals with serious mental illnesses were recruited in mental health agencies. Participants completed surveys regarding background characteristics and cellphone use at enrollment and responded to interview items regarding app usability, usage, and usefulness in technical assistance calls at 1, 2, 4, and 6 weeks of participation and in the exit interview at 8 weeks. Data on the frequency of app usage were downloaded on a daily basis. A version of the System Usability Scale (SUS) was administered in the exit interview. Overall feasibility was determined by the percent of users completing the study, responses to an interview item regarding continued use, and findings on usability, usage, and usefulness. General impressions were obtained from users regarding user support materials, technical assistance, and study procedures.Results: Most participants were male (60%, 24/40), aged 55 or younger (70%, 28/40), white (80%, 32/40), had less than a 4-year college education (78%, 31/40), were employed part-time (98%, 39/40), had been working more than 6 months (60%, 24/40), and indicated a diagnosis of bipolar, schizoaffective, or depressive disorder (84%, 16/25). The majority of participants owned cellphones (95%, 38/40) and used them multiple times per day (83%, 33/40). Their average rating on SUS usability items was 3.93 (SD 0.77, range 1.57-5.00), reflecting positive responses. In general, participants indicated WorkingWell was very easy, straightforward, simple, and user friendly. Usability challenges were related to personal issues (eg, memory) or to difficulties with the phone or app. Data on app usage varied considerably. The most frequent navigations were to the home screen, followed by Rate My Day and My Progress, and then by Manage the Moment and Remind Me. The app was described as useful by most participants; 86% (30/35) agreed the app would help them manage better on the job. Of the 40 original participants, 35 (87%) completed the study.Conclusions: The WorkingWell app is a feasible approach to providing accessible, as-needed employment support for individuals with serious mental illnesses. The app would benefit from modifications to address recommendations from feasibility testing. Controlled research with larger samples, more diverse in individual characteristics and workplace settings, is essential to demonstrating the effectiveness of the app.",
+    "DOI": "10.2196/11383",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a proof-of-concept, mixed-methods feasibility study with a control group, the population is individuals with serious mental illnesses, and the outcomes include employment or labor outcomes.",
+            "study_design": "Proof-of-concept, mixed-methods feasibility study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation and control group. It is a proof-of-concept, mixed-methods feasibility study.",
+            "study_design": "Proof-of-Concept Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "proof-ofs-concept, mixed-methods feasibility study",
+            "logprobs": null
+        }
+    }
+}

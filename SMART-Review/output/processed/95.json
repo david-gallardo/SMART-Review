@@ -1,0 +1,33 @@
+{
+    "ArticleID": 95,
+    "Authors": "Waynor, William R.; Gill, Kenneth J.; Gao, Ni",
+    "Article Title": "The Role of Work Related Self-Efficacy in Supported Employment for People Living With Serious Mental Illnesses",
+    "Abstract": "Objective: This study tested whether higher work-related self-efficacy would predict the achievement of competitive employment in supported employment (SE) programs. Methods: N = 105 individuals were recruited from 5 state-funded SE programs in a Northeastern state. Participants were required to be unemployed and seeking employment to be eligible to enter the study. Research staff met with the individuals at baseline and collected demographic information and data on self-efficacy and psychiatric symptoms. For the follow-up assessment at 6 months, data were collected on participants, self-efficacy, psychiatric symptoms, and employment activity. Results: Thirty-eight percent of the participants achieved competitive employment at the 6-month follow-up. However, self-efficacy was not a positive predictor of competitive employment. Surprisingly, 1 of the subscales, work-related social skills self efficacy, was negatively associated with employment. Conclusions and Implications for Practice: These findings suggest that self-efficacy is not a predictor of competitive employment for individuals living with serious mental illness and receiving supported employment services. It appears that SE can be helpful for participants with a range of self-efficacy.",
+    "DOI": "10.1037/prj0000156",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group and is based on a single-site sample. It also does not meet the geographic scope criteria.",
+            "study_design": "Single-site observational study with follow-up assessment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment interventions, which are the required interventions for inclusion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

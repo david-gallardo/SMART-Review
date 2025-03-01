@@ -1,0 +1,33 @@
+{
+    "ArticleID": 63,
+    "Authors": "Topitzes, James; Bacalso, Edwin; Plummer-Lee, Chien Ti; Jonas-Gordon, Sofia; Mersky, Joshua P.",
+    "Article Title": "Trauma Screening, Brief Intervention, and Referral to Treatment (T-SBIRT) Implemented within TANF Employment Services: An Outcome Study",
+    "Abstract": "The current study tested a trauma screening, brief intervention, and referral to treatment (T-SBIRT) interview protocol as implemented within Temporary Assistance to Needy Families programming. Using a non-experimental process evaluation and quasi-experimental outcome evaluation (N = 88), the study assessed four research questions. First, do T-SBIRT providers reach model adherence rates above 90%? Second, do over 90% of T-SBIRT completers experience the intervention as tolerable? Third, is T-SBIRT completion associated with decreases in mental health symptoms? Fourth, is T-SBIRT completion linked to reductions in positive mental health screenings? Process data emerged from provider-completed integrity checklists. Participant-completed baseline and follow-up surveys furnished outcome data, i.e., mental health indicators from validated scales of depression, anxiety, and post-traumatic stress disorder (PTSD). Descriptive statistics answered questions one and two; multivariate analyses addressed questions three and four. Results revealed that providers realized adherence rates at 98.5%; 91.3% of completers found the protocol tolerable; and completers reported significant reductions in depression symptoms, PTSD symptoms, and positive PTSD screenings relative to a comparison group. Findings recommend integrating T-SBIRT into social services to promote participant mental health and potentially enhance program outcomes. Future T-SBIRT research should include a randomized controlled trial assessing long-term mental health, employment, and income outcomes.",
+    "DOI": "10.1080/01488376.2022.2149678",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental process evaluation and outcome evaluation, which meets the inclusion criteria. The study also includes a control group and presents measures of employment outcomes.",
+            "study_design": "Quasi-experimental process evaluation and outcome evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (no control group) and its intervention does not directly address employment. The focus is on mental health outcomes through trauma screening, brief intervention, and referral to treatment within TANF programming.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on trauma screening and intervention within TANF services, which is not directly related to employment policies for people with mental health disorders. The study's intervention is not explicitly about job search services, adult training, wage subsidies, or supported employment, which are the specified interventions of interest in the inclusion criteria.",
+            "study_design": "quasi-experimental outcome evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on trauma screening and mental health interventions rather than active employment policies.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

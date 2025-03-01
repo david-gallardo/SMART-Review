@@ -1,0 +1,33 @@
+{
+    "ArticleID": 964,
+    "Authors": "van der Velden, Peter G.; Contino, Carlo; Das, Marcel; van Loon, Peter; Bosmans, Mark W. G.",
+    "Article Title": "Anxiety and depression symptoms, and lack of emotional support among the general population before and during the COVID-19 pandemic. A prospective national study on prevalence and risk factors",
+    "Abstract": "Background: The effects of the COVID-19 pandemic on the mental health and emotional support among the general population are unclear. We therefore assessed if the prevalence of high Anxiety and Depression Symptoms (ADS) levels and lack of Emotional Support (ES) increased, and if risk factors of ADS and ES changed.Methods: Data was extracted from surveys conducted with the Dutch longitudinal population-based LISS panel (N = 3,983). ADS and ES were assessed in March 2019 and 2020. Risk factors for ADS and ES were extracted from surveys in November 2018 and 2019. These were: ADS, gender, education, domestic situation, employ-ment, age, ethnicity, lung and heart problems, and diabetes.Results: The prevalence of high ADS levels and lack of ES did not increase compared to the pre-outbreak prevalence. ADS, non-native ethnic background, (partial) work disabilities and lung problems were predictive of both ADS and lack of ES in March 2019 and 2020. Job seekers, students and those who take care of housekeeping were more at risk for ADS in March 2020, but not in 2019. While 35-49 years old respondents were less at risk for ADS in March 2019, they were more at risk in 2020. Parents with child(ren) at home and those who take care of housekeeping more often lacked ES in March 2020, but not in 2019.Limitations: No other mental health problems were assessed. Conclusions: No increase in the prevalence of ADS and lack of ES was found. Some risk factors remained significant after the outbreak, while others changed notably.",
+    "DOI": "10.1016/j.jad.2020.08.026",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the prevalence and risk factors of anxiety and depression symptoms and lack of emotional support among the general population.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on general mental health outcomes without specific reference to people with documented mental health problems. It also lacks any intervention or employment-related outcomes.",
+            "study_design": "Prospective national study using a longitudinal population-based panel (LISS)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "prospective national study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Prospective national study",
+            "logprobs": null
+        }
+    }
+}

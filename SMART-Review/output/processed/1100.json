@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1100,
+    "Authors": "Lee, Kyoung Hag; Hines, Lisa D.",
+    "Article Title": "Racial Disparity: Substance Dependency and Psychological Health Problems among Welfare Recipients",
+    "Abstract": "This study explored the racial disparity of substance dependency and psychological health among White, African American, and Hispanic Temporary Assistance to Needy Families (TANF) recipients as well as the relationship between substance dependency and psychological health. It analyzed 1,286 TANF recipients from the 2006 National Survey on Drug Use and Health data. Analysis of variance indicated that Whites were experiencing more nicotine and alcohol dependency and psychological distress than others, but African Americans and Hispanics were experiencing more cocaine dependency than Whites. Ordinary least squares regression revealed that nicotine dependency is significantly related to the psychological distress of Whites. Alcohol dependency is significantly associated with the psychological distress of three groups. Culturally competent programs are suggested.",
+    "DOI": "10.1080/19371918.2013.776322",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and its focus is on substance dependency and psychological health problems among welfare recipients, which does not meet the inclusion criteria.",
+            "study_design": "Analysis of variance and Ordinary least squares regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental disorders.",
+            "study_design": "Cross-sectional analysis using survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance dependency and psychological health among welfare recipients, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Analysis of variance and ordinary least squares regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

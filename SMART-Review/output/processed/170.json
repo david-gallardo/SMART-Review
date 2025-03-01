@@ -1,0 +1,33 @@
+{
+    "ArticleID": 170,
+    "Authors": "McGahey, Ellie; Waghorn, Geoffrey; Lloyd, Chris; Morrissey, Shirley; Williams, Philip Lee",
+    "Article Title": "Formal plan for self-disclosure enhances supported employment outcomes among young people with severe mental illness",
+    "Abstract": "AimYoung people with mental illness experience high levels of unemployment, which can be related to stigma and discrimination. This may result from poor choices in disclosing personal information, such as their mental illness diagnosis, in the workplace. The aim of this study was to investigate the predictive validity of a formal plan to manage personal information (PMPI) during the early stages of supported employment. The focal question was: does the use of a brief structured PMPI lead to more employment outcomes for young people with a mental illness?MethodsA sample of 40 young unemployed mental health service users (mean age 23.9 years), who were also attending employment services on the Gold Coast, was asked about their disclosure preferences. If they preferred not to disclose at all, they did not complete a plan for managing personal information. If they preferred to disclose some personal information, they were provided with assistance to complete a PMPI. Baseline information was gathered from two equal groups of 20 individuals. Employment status was ascertained at a 6-week follow-up interview.ResultsThose who completed a plan to manage their personal information had 4.9 times greater odds of employment at 6 weeks than those who preferred not to disclose any personal information.ConclusionsA formal PMPI has promising predictive validity with respect to job seekers not opposed to pragmatic forms of self-disclosure. Further research is needed to examine other properties of this decision-making tool.",
+    "DOI": "10.1111/eip.12196",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (Australia), timeframe (2005-2025), intervention (supported employment), population (people with mental health disorders), and outcomes (employment).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on the specified interventions and populations, and lacks clear outcomes and study design details.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

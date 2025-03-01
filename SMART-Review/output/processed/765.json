@@ -1,0 +1,33 @@
+{
+    "ArticleID": 765,
+    "Authors": "Liljeholm, Ulrika; Argentzell, Elisabeth; Bejerholm, Ulrika",
+    "Article Title": "An integrated mental health and vocational intervention: A longitudinal study on mental health changes among young adults",
+    "Abstract": "Aim This study aimed to investigate changes in mental health among young adults participating in an integrated mental health and vocational support intervention according to the Sodertalje Supported Employment and Education model. Design A prospective longitudinal pre-post intervention study of 12 months. Methods Instruments on depressive symptoms, quality of life, empowerment, engagement in activities and sociodemographic characteristics were administered to 42 young adults aged 19-28 years with mood disorders. Wilcoxon signed rank tests were used to assess changes in mental health. Results Statistically significant positive changes between baseline and 12 months were noted for quality of life and engagement in activities. Difference in empowerment scores neared significance and a statistical trend towards lower depression scores was seen, corresponding to moderate depression at baseline and less severe depression at 12 months. Conclusions Integrated mental health and vocational services may support young adults' mental health and is suggested to be linked to their personal recovery and clinical recovery.",
+    "DOI": "10.1002/nop2.560",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective longitudinal pre-post intervention study, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, and the timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as quality of life, engagement in activities, and empowerment scores.",
+            "study_design": "Prospective longitudinal pre-post intervention study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a rigorous evaluation with a control group. It is a prospective longitudinal pre-post intervention study without random assignment and lacks a comparison group.",
+            "study_design": "Prospective longitudinal pre-post intervention study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not specifically address job search services, adult training, wage subsidies, or supported employment intervents.",
+            "study_design": "Longitudinal pre-post intervention study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective longitudinal pre-post intervention study without a control group.",
+            "study_design": "Prospective longitudinal pre-post intervention study",
+            "logprobs": null
+        }
+    }
+}

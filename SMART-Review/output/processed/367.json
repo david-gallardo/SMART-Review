@@ -1,0 +1,33 @@
+{
+    "ArticleID": 367,
+    "Authors": "Roser, Patrik; Manz, Kirsi; Scherbaum, Norbert; Lotz-Metz, Gabriele; Franke, Andreas G.",
+    "Article Title": "Prevalence of mental disorders and work ability among unemployed individuals in Germany: a register-based analysis of socio-medical assessments by the Federal Employment Agency between 2016 and 2021",
+    "Abstract": "BackgroundThe interactions between unemployment and mental health are complex. However, broad and current epidemiological data about the mental health status of unemployed individuals in Germany are scarce. This study aimed to evaluate the prevalence rates of mental disorders and work ability among all unemployed people who underwent socio-medical assessment by the Federal Employment Agency (FEA).MethodsSocio-medical assessments between 2016 and 2021 were taken from the FEA database and analyzed regarding sociodemographic characteristics, mental disorders and work ability. Standard descriptive statistics were used to analyze the data.ResultsA total of 4,249,028 unemployed individuals were assessed. Of these, 2,213,048 persons (52.1%) had at least one psychiatric diagnosis (mean age 40.6 +/- 13.5 years, 51.7% female). Mood disorders (53.9%), neurotic, stress-related and somatoform disorders (43.9%), as well as substance use disorders (15.3%) showed the highest prevalence rates among mental disorders and accounted for about 80% of all psychiatric diagnoses. About 40% of them were evaluated to be able to work full time.ConclusionsPsychiatric morbidity among unemployed people is high. However, a significant proportion of them was assessed to be able to return to the labor market. Therefore, close collaborations between unemployment agencies and mental health care institutions as well as specific re-integration programs including supported job placement and vocational training, long-term job coaching as well as integrated mental health care are required in order to improve mental health status, prevent further chronification, avoid labor market exit, and increase employment rate.",
+    "DOI": "10.1186/s12889-025-21603-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a register-based analysis of socio-medical assessments by the Federal Employment Agency between 2016 and 2021, which meets the inclusion criteria. The study includes employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. The population references mental health disorders, and the timeframe is between 2016 and 2021.",
+            "study_design": "Register-based analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks an intervention component directly addressing employment. It focuses on prevalence rates of mental disorders and work ability among unemployed individuals without evaluating any specific interventions.",
+            "study_design": "Register-based analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemploys individuals in Germany and does not specifically address interventions or outcomes related to employment or labor results for people with mental health disorders.",
+            "study_design": "Register-based analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for rigorous evaluation.",
+            "study_design": "Register-based analysis",
+            "logprobs": null
+        }
+    }
+}

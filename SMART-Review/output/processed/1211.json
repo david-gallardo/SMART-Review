@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1211,
+    "Authors": "Rose, Sophia Miryam Schussler-Fiorenza; Eslinger, Jessica G.; Zimmerman, Lindsey; Scaccia, Jamie; Lai, Betty S.; Lewis, Catrin; Alisic, Eva",
+    "Article Title": "Adverse Childhood Experiences, Support, and the Perception of Ability to Work in Adults with Disability",
+    "Abstract": "ObjectiveTo examine the impact of adverse childhood experiences (ACEs) and support on self-reported work inability of adults reporting disability.ParticipantsAdults (ages 18-64) who participated in the Behavioral Risk Factor Surveillance System in 2009 or 2010 and who reported having a disability (n = 13,009).Design and Main Outcome MeasuresThe study used a retrospective cohort design with work inability as the main outcome. ACE categories included abuse (sexual, physical, emotional) and family dysfunction (domestic violence, incarceration, mental illness, substance abuse, divorce). Support included functional (perceived emotional/social support) and structural (living with another adult) support. Logistic regression was used to adjust for potential confounders (age, sex and race) and to evaluate whether there was an independent effect of ACEs on work inability after adding other important predictors (support, education, health) to the model.ResultsACEs were highly prevalent with almost 75% of the sample reporting at least one ACE category and over 25% having a high ACE burden (4 or more categories). ACEs were strongly associated with functional support. Participants experiencing a high ACE burden had a higher adjusted odds ratio (OR) [95% confidence interval] of 1.9 [1.5-2.4] of work inability (reference: zero ACEs). Good functional support (adjusted OR 0.52 [0.42-0.63]) and structural support (adjusted OR 0.48 [0.41-0.56]) were protective against work inability. After adding education and health to the model, ACEs no longer appeared to have an independent effect. Structural support remained highly protective, but functional support only appeared to be protective in those with good physical health.ConclusionsACEs are highly prevalent in working-age US adults with a disability, particularly young adults. ACEs are associated with decreased support, lower educational attainment and worse adult health. Health care providers are encouraged to screen for ACEs. Addressing the effects of ACEs on health and support, in addition to education and retraining, may increase ability to work in those with a disability.",
+    "DOI": "10.1371/journal.pone.0157726",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective cohort design, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "retrospective cohort design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. The main outcome is self-reported work inability rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Retrospective cohort design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Retrospective cohort design",
+            "logprobs": null
+        }
+    }
+}

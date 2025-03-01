@@ -1,0 +1,33 @@
+{
+    "ArticleID": 885,
+    "Authors": "Dewa, Carolyn S.; Loong, Desmond; Trojanowski, Lucy; Bonato, Sarah",
+    "Article Title": "The effectiveness of augmented versus standard individual placement and support programs in terms of employment: a systematic literature review",
+    "Abstract": "Background: The Individual Placement and Support (IPS) program is a well-studied vocational rehabilitation program. Although it is more effective than usual care, it is not effective for everyone. This offers an opportunity for program improvement.Aims: This systematic literature review examines the state of knowledge regarding the effectiveness of augmented versus standard IPS for people with severe mental illness (SMI). We address the questions, What IPS augmentations have been tested? and What is the evidence for the effectiveness of augmented IPS versus standard IPS in terms of employment?Methods: This systematic literature review used publically available peer-reviewed studies published between January 2002 and January 2016 in either: (1) Medline Current, (2) Medline In-process, (3) PsycINFO, (4) Econlit or (5) Web of Science.Results: 5718 unique citations were identified; seven articles from five studies were included. Of these studies, four were rated as having moderate risk of bias and one as having high risk.Conclusions: The results suggest that augmentations of IPS focusing on cognitive and psychosocial skills training, may have additional effects to standard IPS. Areas in need of further research related to the process and targeting of those interventions are discussed.",
+    "DOI": "10.1080/09638237.2017.1322180",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe for this study is outside the specified range (2005-2025).",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic literature review that meets the inclusion criteria: study design (systematic review), intervention (Individual Placement and Support program), population (people with severe mental illness), and outcomes (employment). It also falls within the specified timeframe and geographic scope.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study (2002-2016) does not fully align with the inclusion criteria (2005-2025).",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

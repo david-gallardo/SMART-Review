@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1457,
+    "Authors": "Reinstadler, Vera; Lierheimer, Stefan; Boettcher, Michael; Oberacher, Herbert",
+    "Article Title": "A validated workflow for drug detection in oral fluid by non-targeted liquid chromatography-tandem mass spectrometry",
+    "Abstract": "Oral fluid is recognized as an important specimen for drug testing. Common applications are monitoring in substance abuse treatment programs, therapeutic drug monitoring, pain management, workplace drug testing, clinical toxicology, and driving under the influence of drugs (DRUID). In this study, we demonstrate that non-targeted LC-MS/MS with subsequent compound identification by tandem mass spectral library search is a valuable tool for comprehensive detection and confirmation of drugs in oral fluid samples. The workflow developed involves solid-phase extraction and chromatographic separation on reversed phase materials. Mass spectrometric detection is accomplished on a quadrupole-quadrupole-time-of-flight instrument operated with data-dependent acquisition control. The workflow was optimized for 500l of neat oral fluid collected with the Greiner Bio-One saliva collection system. The fitness of the developed method was tested and proven by analyzing blank and spiked samples as well as 59 authentic patient samples. We could demonstrate that compounds with logP values in the range 0.5-5.5 are efficiently detected at low nanograms per milliliter concentrations. The true positive and true negative rates of automated library search were equal or close to 100%. The beauty of the non-targeted LC-MS/MS approach is the ability to detect compounds hardly included in routinely applied targeted assays, and this was demonstrated by detecting the synthetic opioid U-47700 in two patient samples.",
+    "DOI": "10.1007/s00216-018-1504-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and it is not related to active employment policies for people with mental health disorders.",
+            "study_design": "No control group, lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the development of a method for drug detection in oral fluid using non-targeted LC-MS/MS.",
+            "study_design": "Method development",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on drug detection in oral fluid, not employment policies for people with mental health disorders.",
+            "study_design": "non-targeted liquid chromatography-tandem mass spectrometry study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions for people with mental health disorders.",
+            "study_design": "Experimental study (not relevant to inclusion criteria)",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 875,
+    "Authors": "Freak-Poli, Rosanne; Htun, Htet Lin; Teshale, Achamyeleh Birhanu; Kung, Claryn",
+    "Article Title": "Understanding loneliness after widowhood: The role of social isolation, social support, self-efficacy, and health-related factors",
+    "Abstract": "Background: Widowhood negatively affects trajectories of social isolation and loneliness. Given the inevitability of spousal bereavement for many, further investigation into potential modifiers of bereavement-related loneliness is warranted. Aim: To examine the moderating effects of social isolation, social support, sociodemographic, self-efficacy, health, and quality of life factors on changes in loneliness before and after widowhood. Methods: We analysed 19 waves of data from the Household, Income and Labour Dynamics in Australia (HILDA) Survey, comprising 749 widowed and 8,418 married individuals (comparison). Coarsened exact matching weights were applied, controlling for age and time trends. Local polynomial smoothed plots illustrated social health trajectories from three years before to three years after spousal death. All analyses were gender-stratified. Results: Low social isolation and higher social support did not prevent increased loneliness following widowhood. Men in major cities were less likely to experience reductions in social isolation during bereavement, despite being less socially-isolated at baseline than men in regional/remote areas. The bereavement-loneliness relationship was consistent across all subgroups. For men, this relationship was weakened by older age and being born in a nonEnglish-speaking country, but strengthened by poverty and living in a regional/remote areas. For women, it was weakened by older age, and strengthened by factors such as being born in a non-English-speaking country, poverty, employment or volunteering, and having a long-term mental health condition. Conclusion: Loneliness is a common and potentially unavoidable experience during widowhood, highlighting the importance of screening by healthcare workers to improve wellbeing and prevent future mental health issues.",
+    "DOI": "10.1016/j.archger.2024.105692",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not directly address employment or labor outcomes. The study focuses on loneliness, social isolation, and social support in the context of widowhood, but does not examine employment or labor outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of widowhood on loneliness and social isolation.",
+            "study_design": "Cross-sectional analysis using longitudinal data from HILDA Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the review.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks an intervention directly addressing employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

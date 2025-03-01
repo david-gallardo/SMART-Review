@@ -1,0 +1,33 @@
+{
+    "ArticleID": 215,
+    "Authors": "Becker, Deborah R.; Courtney, Claire; Reese, Sandra Langfitt",
+    "Article Title": "Update on Funding IPS Supported Employment Services in the IPS Learning Community",
+    "Abstract": "Impact and Implications Individual placement and support (IPS) services effectively assist people with serious mental illness to gain and benefit from competitive integrated employment, yet states have been unable to meet the demand. A funding survey of the 24 states in the IPS Learning Community demonstrates how each state uses multiple sources. State and federal policy leaders could coordinate efforts to develop a more efficient funding strategy to encourage expansion of IPS services.Objective: Individual placement and support (IPS) is the evidence-based supported employment approach for people with serious mental illness. Because funding is the major barrier for states to implement IPS and increase access, the IPS Learning Community collected information about sources of IPS funding from 24 member states. Methods: In early 2020, IPS employment leaders from the public mental health authority and the state vocational rehabilitation (VR) authority completed a questionnaire identifying sources of funding for IPS in their states. Results: The main sources of funding were Medicaid, Substance Abuse and Mental Health Services Administration (SAMHSA) block grants, state and county government, the Ticket to Work program, and the federal-state VR programs. Conclusions and Implications for Practice: Funding IPS services requires braided funding from multiple sources. This complicated method limits scaling up services statewide. Solving this funding problem would require coordinated action from federal and state agencies.",
+    "DOI": "10.1037/prj0000516",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey of IPS employment leaders, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation and does not include a control group. It focuses on funding sources for IPS services rather than employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on the interventions specified in the inclusion criteria.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

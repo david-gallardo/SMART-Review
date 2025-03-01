@@ -1,0 +1,33 @@
+{
+    "ArticleID": 516,
+    "Authors": "Li, Zejun; Wu, Min; Zhang, Xiaoyu; Yan, Kewen; Wang, Xin; Xu, Huixue; Li, Peizhen; Liu, Yueheng; Deng, Qijian; Li, Xueyi; Wang, Qianjin; Li, Manyun; Wang, Yunfei; Hao, Yuzhu; He, Li; Tang, Yi-Yuan; Liu, Tieqiao; Peng, Pu; Wu, Qiuxia",
+    "Article Title": "Interrelationships of stress, burnout, anxiety, depression, quality of life and suicidality among Chinese residents under Standardized Residency Training: a network analysis",
+    "Abstract": "BackgroundChinese resident physicians confront challenges such as staff shortages and heavy workloads, leading to a heightened prevalence of mental distress. This study aims to investigate the symptom network of stress, burnout, anxiety, depression (SBAD) and adverse personal outcomes in this cohort.MethodsFrom October 2020 to April 2022, 994 physicians were recruited across China through snowball sampling. Stress, burnout, anxiety and depression were assessed using the 10-item Perceived Stress Scale, a two-item burnout questionnaire, Generalized Anxiety Disorder Scale-7 and the Patient Health Questionnaire-9, respectively. Data on adverse personal outcomes (low quality of life [QOL] and suicidal ideation) were collected. We constructed and visualized two networks, calculating expected influence (EI) and bridge EI indices to identify central and bridge symptoms.ResultsIn the SBAD network, perceived helplessness was the most central and critical bridge symptom connecting stress and mental distress, with emotional exhaustion identified as the secondary bridge symptom. Perceived helplessness, perceived self-efficacy and emotional exhaustion exhibited the highest negative correlations with QOL. Worthless (PHQ6) and motor (PHQ8) symptoms were strongly correlated with suicidal ideation. The estimated SBAD network showed excellent stability and accuracy.ConclusionsOur study emphasizes that perceived helplessness may be a high-priority target for preventing and intervening in mental distress and improving QOL among residents. Burnout transcends workplace problems and is widely connected to depression, anxiety and QOL. Implementing early detection and intervention measures at three levels-the individual physician, health system and professional colleges, and external regulators-is crucial for preventing and alleviating stress and mental distress among residents.",
+    "DOI": "10.1080/07853890.2024.2433030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the symptom network of stress, burnout, anxiety, depression, quality of life, and suicidality among Chinese resident physicians.",
+            "study_design": "Network analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on Chinese resident physicians and does not address employment policies for people with mental health disorders. The intervention and population criteria are not met.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

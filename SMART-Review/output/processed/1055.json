@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1055,
+    "Authors": "Hall, Peter V.; Montgomery, Phyllis; Davie, Samantha; Dickins, Kevin; Forchuk, Cheryl; Jeng, Momodou S.; Kersey, Melissa; Meier, Amanda; Lahey, Pam; Rudnick, Abraham; Solomon, Michelle; Warner, Laura",
+    "Article Title": "Seeking and securing work: Individual-level predictors of employment of psychiatric survivors",
+    "Abstract": "BACKGROUND: For people with mental illness (psychiatric survivors), seeking and securing employment involves personal, social, and environmental factors. In Canada, psychiatric survivors are under-represented in the workforce, and services can help by tailoring their supports to help make the most gains in employment.OBJECTIVE: Determine whether individual socio-demographic and health factors predict seeking and securing employment among psychiatric survivors.METHODS: A community sample of psychiatric survivors from a Southwestern Ontario region participated in this study. Step-wise logistic regression was used to analyze data from 363 participants who had completed a variety of questionnaires to ascertain individual characteristics and employment outcomes.RESULTS: Health service utilization, living circumstances, homelessness, substance use issues, general health, social integration, ethnicity, having children under 18, and being a student emerged as significant predictors of seeking and securing work. Other commonly accepted human capital indicators, such as education and age, were not predictive of employment search behavior and outcomes.CONCLUSIONS: Individual characteristics that predict employment search and success outcomes for psychiatric survivors include aspects related to treatment and living circumstances, which stands in contrast to predictors of employment for the general population, suggesting that employment support services may need to be tailored to psychiatric survivors specifically.",
+    "DOI": "10.3233/WOR-141973",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is logistic regression, which is a type of controlled trial. The study is conducted in Canada, within the specified timeframe. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Logistic Regression",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies and lacks a control group.",
+            "study_design": "Cross-sectional survey using step-wise logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not provide employment or labor outcomes as required.",
+            "study_design": "Community survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cross-sectional study using logistic regression",
+            "logprobs": null
+        }
+    }
+}

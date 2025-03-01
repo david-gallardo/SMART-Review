@@ -1,0 +1,33 @@
+{
+    "ArticleID": 115,
+    "Authors": "Brinchmann, Beate; Rinaldi, Miles; Sandtorv, Elisabeth; Moe, Cathrine Fredriksen; McDaid, David; Killackey, Eoin; Mykletun, Arnstein",
+    "Article Title": "Are attitudes in employees of public employment service in line with the principles of individual placement and support? A questionnaire-based survey",
+    "Abstract": "A high proportion of people with severe mental illness (SMI) want to work, consider it essential for recovery, yet employment rates are low. Many employees in public employment services (PES) work according to traditional attitudes that people with SMI are unable to work and if they do, risk harm from work-related stress. These attitudes conflict with principles in evidence based vocational models like individual placement and support (IPS) and probably contributes to the low-employment rate. The aim of this study was to investigate attitudes towards the evidence-based principles of IPS among PES employees with and without exposure to IPS. A case vignette describing a person with SMI and statements referring to this vignette was developed and administered to PES employees at two timepoints, 4 years apart. Respondents indicated their attitudes on a six-point Likert scale to statements in accordance to the principles of IPS. Independent two-tailed sample t-tests were used to analyse differences between respondents in municipalities with IPS exposure, compared to municipalities without. Multiple linear regressions with attitudes as a dependent variable was used to test whether attitudes changed over time dependent on exposure to IPS. Attitudes were generally aligned with IPS principles compared to current PES practice. The municipality with IPS exposure had more favourable attitudes (p < 0.01). Changes in attitudes were minimal over time and did not differ between regions (p < 0.287). Attitudes of employees in PES are aligned with the principles of IPS and to a greater extent if exposed to IPS.",
+    "DOI": "10.1111/spol.12828",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a questionnaire-based survey, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it focuses on EU countries, Europe, US, Canada, and Australia. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a questionnaire-based survey without a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on attitudes towards employment principles in public employment services.",
+            "study_design": "Questionnaire-based survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1495,
+    "Authors": "Roxo, L.; Porto, G.; Perelman, J.",
+    "Article Title": "Combining jobs and motherhood: is it worse when raising children alone?",
+    "Abstract": "Background Paid employment has been shown to benefit childless women's health, while employed mothers experience poorer health, and more pronounced fatigue. This study measures the association between job characteristics and the health and well-being of employed mothers and the differential susceptibility to job characteristics between coupled and single-parent mothers. Methods We used data from the 5th Portuguese National Health Survey from 1649 employed women (aged 25-54) living with a child under 16. We modelled depression (assessed by the Personal Health Questionnaire-8) and self-reported health as a function of job characteristics, adding interaction terms to compare coupled and single-parent mothers, using logistic regressions. Results Working part-time was associated with depression (odds ratio (OR) = 3.39, 95% confidence interval (CI) = 3.31-3.48) and less-than-good health (OR = 1.28, 95%CI = 1.26-1.31), compared to working full time. Compared to high-skill jobs, the likelihood for depression among low-skill occupations was lower among coupled mothers (OR = 0.25, 95%CI = 0.24-0.26), and higher among single-parent mothers (OR = 1.75, 95%CI = 1.54-1.99). Unstable jobs were associated with depression among coupled mothers. Conclusions Part-time jobs are detrimental for mothers' mental health, but high-skilled jobs are protective for single-parent mothers. Part-time and unstable jobs are linked to poorer self-reported health among coupled mothers. Results question the gendered arrangements that may face employed coupled mothers.",
+    "DOI": "10.1093/pubmed/fdab048",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the health and well-being of employed mothers and the differential susceptibility to job characteristics between coupled and single-parent mothers.",
+            "study_design": "Quasi-experimental study with logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the impact of job characteristics on the mental health and well-being of employed mothers, particularly in relation to part-time work and job stability.",
+            "study_design": "Cross-sectional study using logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the health outcomes of employed mothers in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders and the intervention is not related to employment policies.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

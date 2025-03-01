@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1539,
+    "Authors": "Dalglish, Sarah L.; Melchior, Maria; Younes, Nadia; Surkan, Pamela J.",
+    "Article Title": "Work characteristics and suicidal ideation in young adults in France",
+    "Abstract": "Job insecurity, unemployment, and job strain can predict psychological distress and suicide risk. Young people, who are particularly at risk of suicide, may be especially vulnerable to the deterioration of labor market conditions as a result of the current economic crisis in Europe. We aimed to examine the effects of work and employment characteristics on suicidal ideation in a contemporary sample of young adults.Using data from a sample of French young adults surveyed in 2011 (TEMPO study, N = 1,214, 18-37 years old) and their parents who took part in a longitudinal cohort study, we used multiple logistic regression to examine the relationship between job insecurity, lifetime and recent unemployment and suicidal ideation in the past 12 months. Our analyses were adjusted for factors associated with suicidal risk including age, sex, educational attainment, living with a partner, insufficient social support, alcohol abuse, depression and parental history of depression.Five percent of the sample reported suicidal ideation in the preceding 12 months. Controlling for all covariates, the likelihood of suicidal ideation was associated with job insecurity (OR 2.24, 95 % CI 1.08-4.63), lifetime unemployment (OR 2.25, 95 % CI 1.17-4.29), and recent unemployment (OR 2.10, 95 % CI 1.04-4.25). After stratifying by educational attainment, the association between suicidal ideation and job insecurity was particularly notable for participants with low educational attainment (OR 9.28, 95 % CI 1.19-72.33).Young adults who have unstable and unfavorable employment characteristics are disproportionately likely to be suicidal, which should be monitored, particularly in times of economic downturn.",
+    "DOI": "10.1007/s00127-014-0969-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multiple logistic regression analysis, which lacks a rigorous evaluation and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Multiple Logistic Regression Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on the relationship between work characteristics and suicidal ideation in young adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders, but rather on job characteristics and suicidal ideation in young adults without a specific focus on mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with multiple logistic regression",
+            "logprobs": null
+        }
+    }
+}

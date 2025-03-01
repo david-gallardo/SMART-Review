@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1195,
+    "Authors": "Kammogne, C. L.; Marchand, A.",
+    "Article Title": "Ethnicity and immigration status: How are they associated with work and depressive symptoms?",
+    "Abstract": "Background. - The purpose of this research is to determine whether, in the Canadian workforce, cultural identity traits, particularly ethnicity and immigrant status, might modify the association of work with depressive symptoms.Method. - Data were derived from the nine cycles of the National Population Health Survey (NPHS) conducted by Statistics Canada. Based on a sample of 6477 workers, multilevel regression models were brought into being. Analyses were adjusted for family-related factors, non-work social support, and personal characteristics.Results. - After accounting for potential confounders, ethnicity and work-related factors were distinctly and directly associated with depressive symptoms. Workers belonging to visible minorities had significantly fewer depressive symptoms than their Caucasian counterparts. Unlike Caucasians, they were more often overqualified, less in a position to use their skills, and largely without decision-making authority. On the other hand, all analyses having to do with immigrant status led to inconclusive results.Conclusion. - Ethnicity seems to have some bearing on the association of work with depressive symptoms among members of the Canadian workforce. It might be beneficial to carry out targeted interventions aimed at improving working conditions according to ethnicity and situations involving professional overqualification. (C) 2021 Elsevier Masson SAS. All rights reserved.",
+    "DOI": "10.1016/j.respe.2021.01.009",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the association between ethnicity, immigration status, and depressive symptoms, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Multilevel regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders and lacks an intervention related to active employment policies. It focuses on the association between ethnicity, immigration status, and depressive symptoms in the Canadian workforce.",
+            "study_design": "Cross-sectional analysis using multilevel regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

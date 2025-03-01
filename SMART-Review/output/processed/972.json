@@ -1,0 +1,33 @@
+{
+    "ArticleID": 972,
+    "Authors": "Corbiere, Marc; Willems, Louis; Guay, Stephane; Panaccio, Alexandra; Lecomte, Tania; Mazaniello-Chezol, Maud",
+    "Article Title": "Development and User Testing of the PRATICAdr Web Application: Return-to-work Platform Focused on Interaction and Communication Between Stakeholders, Integrating a Sustainable Recovery Program",
+    "Abstract": "Introduction Common mental disorders (CMDs) account for 30% to 50% of all illness absences. The success of RTW is not only due to the individual but rather to the result of the interaction between the stakeholders involved in the RTW process. Numerous mental health applications have been developed to improve patient management and optimize communication between professionals, but have not been validated. Moreover, no technological solution has been developed to date to facilitate both consultation among the RTW stakeholders (e.g., managers, health professionals) and systematic support for the employee in his or her RTW.Objective To address these shortcomings, the purpose of this article is twofold: 1) to describe the development of the PRATICA(dr) application (Return-toWork Platform focused on Stakeholder Interaction and Communication: a Sustainable Recovery Program) and 2) to document PRATICA(dr) application user testing.Method The development of PRATICA(dr) has been operationalized in three phases: 1) needs assessment, 2) conceptualization of the internal mechanisms of the application and programming techniques and 3) testing of the application in real situation. The application is evaluated through questionnaires and interviews to measure user satisfaction.Results PRATICA(dr) allows to follow in real time the path of RTW stakeholders involved in the personalized support of the employee in his RTW. The operationalization of the RTW process and the inclusion of validated assessment tools help systematize the stakeholders' consultation and shared decision-making, as well as the monitoring and actions taken to undertake a recovery-promoting RTW. The PRATICA(dr) interface was developed to simplify the user experience for the employee on sick leave and all RTW stakeholders. Regarding user satisfaction, results show that the first 16 users of PRATICA(dr), employees in a large healthcare organization returning to work following a CMD, were very satisfied (average>9/ 10) with the Web application, as well as the participation of RTW stakeholders and the questionnaires included in PRATICA(dr). Improvements were also suggested.Conclusion PRATICA(dr) is implemented in two large organizations (>15,000 employees) in order to evaluate its effectiveness with employees on sick leave due to CMD registered in a RTW process. The aim of this article was to present not only the development of PRATICA(dr), but also to measure user satisfaction. Preliminary results indicate a high level of satisfaction among employees on sick leave who used PRATICA(dr). In terms of future avenues, the integration of e-learning will be addressed with the objective of customizing the RTW program according to the predictions of duration of sick leave and sustainable RTW.",
+    "DOI": NaN,
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group (large healthcare organization), the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is job search services (PRATICA(dr) web application), the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes (user satisfaction, RTW process).",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks an intervention directly addressing employment. It focuses on the development and user testing of a web application for return-to-work processes related to mental health disorders but does not include any controlled trials, RCTs, or quasi-experimental studies with a control group that measure employment outcomes.",
+            "study_design": "Development and User Testing",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

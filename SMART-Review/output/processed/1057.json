@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1057,
+    "Authors": "Kyron, Michael J.; Rees, Clare S.; Lawrence, Donna; Carleton, R. Nicholas; McEvoy, Peter M.",
+    "Article Title": "Prospective risk and protective factors for psychopathology and wellbeing in civilian emergency services personnel: a systematic review",
+    "Abstract": "Emergency services personnel have an elevated risk of developing mental health conditions. Most research in this area is cross-sectional, which precludes inferences about temporal and potentially causal relationships between risk and protective factors and mental health outcomes. The current study systematically reviewed prospective studies of risk and protective factors for mental health outcomes in civilian emergency services personnel (firefighters, paramedics, police) assessed at pre-operational and operational stages. Out of 66 eligible prospective studies identified, several core groups of risk and protective factors emerged: (1) cognitive abilities; (2) coping tendencies; (3) personality factors; (4) peritraumatic reactions and post-trauma symptoms; (5) workplace factors; (6) interpersonal factors; (7) events away from work. Although there was insufficient evidence for many associations, social support was consistently found to protect against the development of mental health conditions, and peritraumatic dissociation, prior mental health issues, and prior trauma exposure were risk factors for future mental health conditions. Among operational studies, neuroticism was significantly associated with future PTSD symptoms, burnout, and general poor mental health, and avoidance and intrusion symptoms of PTSD were associated with future PTSD and depression symptoms. The current review results provide important targets for future research and interventions designed to improve the mental health of emergency services personnel.",
+    "DOI": "10.1016/j.jad.2020.12.021",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on risk and protective factors for psychopathology and wellbeing in civilian emergency services personnel.",
+            "study_design": "Systematic review of prospective studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic review of prospective studies, not a meta-analysis, RCT, or quasi-experimental study with a control group. The study's focus is on civilian emergency services personnel, not specifically on people with mental health disorders. The study also does not focus on employment or labor outcomes.",
+            "study_design": "Systematic review of prospective studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

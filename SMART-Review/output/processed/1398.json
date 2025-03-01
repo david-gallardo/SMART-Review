@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1398,
+    "Authors": "Slany, Corinna; Schuette, Stefanie; Chastang, Jean-Francois; Parent-Thirion, Agnes; Vermeylen, Greet; Niedhammer, Isabelle",
+    "Article Title": "Psychosocial work factors and long sickness absence in Europe",
+    "Abstract": "Background: Studies exploring a wide range of psychosocial work factors separately and together in association with long sickness absence are still lacking.Objectives: The objective of this study was to explore the associations between psychosocial work factors measured following a comprehensive instrument (Copenhagen psychosocial questionnaire, COPSOQ) and long sickness absence (>7 days/year) in European employees of 34 countries. An additional objective was to study the differences in these associations according to gender and countries.Methods: The study population consisted of 16 120 male and 16 588 female employees from the 2010 European working conditions survey. Twenty-five psychosocial work factors were explored. Statistical analysis was performed using multilevel logistic regression models and interaction testing.Results: When studied together in the same model, factors related to job demands (quantitative demands and demands for hiding emotions), possibilities for development, social relationships (role conflicts, quality of leadership, social support, and sense of community), workplace violence (physical violence, bullying, and discrimination), shift work, and job promotion were associated with long sickness absence. Almost no difference was observed according to gender and country.Conclusions: Comprehensive prevention policies oriented to psychosocial work factors may be useful to prevent long sickness absence at European level.",
+    "DOI": "10.1179/2049396713Y.0000000048",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is a cross-sectional analysis of the 2010 European working conditions survey.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions aimed at employment for people with mental health disorders. It focuses on psychosocial work factors and their association with long sickness absence in Europe.",
+            "study_design": "Cross-sectional study using multilevel logistic regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with multilevel logistic regression analysis",
+            "logprobs": null
+        }
+    }
+}

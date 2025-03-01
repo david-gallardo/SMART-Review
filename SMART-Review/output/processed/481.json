@@ -1,0 +1,33 @@
+{
+    "ArticleID": 481,
+    "Authors": "Burton, Cynthia Z.; Vella, Lea; Twamley, Elizabeth W.",
+    "Article Title": "Prospective memory, level of disability, and return to work in severe mental illness",
+    "Abstract": "Objective: Prospective memory (the ability to remember to do things) has clear implications for everyday functioning, including employment, in people with severe mental illnesses (SMI). This study aimed to evaluate prospective memory performance and its relationship to real-world functional variables in an employment-seeking sample of people with SMI (Clinical Trial registration number NCT00895258). Method: 153 individuals with DSM-IV diagnosis of depression (n = 58), bipolar disorder (n = 37), or schizophrenia (n = 58) who were receiving outpatient psychiatric care at a university clinic enrolled in a trial of supported employment and completed a baseline assessment. Prospective memory was measured with the Memory for Intentions Test (MIST); real-world functional status included work history variables, clinical history variables, baseline functional capacity (UCSD Performance-based Skills Assessment-Brief), and work outcomes (weeks worked and wages earned during two years of supported employment). Results: Participants with schizophrenia performed worse on the MIST than did those with affective disorders. Independent of diagnosis, education, and estimated intellectual functioning, prospective memory significantly predicted variance in measures of disability and illness burden (disability benefits, hospitalization history, current functional capacity), and work outcomes over two years of supported employment (weeks worked). Conclusions: Worse prospective memory appears to be associated with greater illness burden and functional disability in SMI. Mental health clinicians and employment specialists may counsel clients to use compensatory prospective memory strategies to improve work performance and decrease functional disability associated with SMI.",
+    "DOI": "10.1080/13854046.2018.1436725",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a trial of supported employment, which does not meet the inclusion criteria of a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It focuses on the relationship between prospective memory and work outcomes in individuals with severe mental illness but lacks specific employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Clinical Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on prospective memory in severe mental illness and its impact on work outcomes, which does not directly address the interventions or outcomes specified in the inclusion criteria.",
+            "study_design": "Clinical Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a controlled trial (RCT) focusing on supported employment for people with mental health disorders and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

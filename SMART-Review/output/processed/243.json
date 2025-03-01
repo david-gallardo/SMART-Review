@@ -1,0 +1,33 @@
+{
+    "ArticleID": 243,
+    "Authors": "Kouvonen, Anne; Manty, Minna; Harkko, Jaakko; Sumanen, Hilla; Konttinen, Hanna; Lahti, Jouni; Pietilainen, Olli; Blomgren, Jenni; Tuovinen, Eevamaija; Ketonen, Eeva-Leena; Stenberg, Jan-Henry; Donnelly, Michael; Sivertsen, Borge; Mittendorfer-Rutz, Ellenor; Pirkola, Sami; Rahkonen, Ossi; Lallukka, Tea",
+    "Article Title": "Effectiveness of internet-delivered cognitive behavioural therapy in reducing sickness absence among young employees with depressive symptoms: study protocol for a large-scale pragmatic randomised controlled trial",
+    "Abstract": "Introduction Depression is a highly prevalent condition with typical onset in early adulthood. Internet-delivered cognitive behavioural therapy (iCBT) is a promising cost-effective and more widely available alternative to face-to-face CBT. However, it is not known whether it can reduce sickness absence in employees showing depressive symptoms. The randomised controlled trial component of the DAQI (Depression and sickness absence in young adults: a quasi-experimental trial and web-based treatment intervention) project aims to investigate if iCBT is effective in reducing sickness absence compared with care as usual (CAU) among young employees with depressive symptoms in primary care provided in an occupational health setting.Methods and analysis This study will use a randomised controlled single-centre service-based trial of an existing iCBT programme (Mental Hub iCBT for Depression) to evaluate whether or not this treatment can reduce the number of sickness absence days in public sector employees aged 18-34 years who present at the occupational health service with mild depressive symptoms (score >= 9 on the Beck Depression Inventory-IA). Control participants will be offered CAU, with no constraints regarding the range of treatments. The active condition will consist of seven weekly modules of iCBT, with support from a web therapist. Primary outcome will be participants' all-cause sickness absence as indicated in employer's and national administrative records up to 6 months from study entry. Secondary outcomes relating to long-term sickness absence (over 11 calendar days) for mental and musculoskeletal disorders and psychotropic medication use will be obtained from the Finnish Social Insurance Institution's administrative records; and short sickness absence spells (up to 11 calendar days) will be extracted from employer's records. Analyses will be conducted on an intention-to-treat basis.Ethics and dissemination The Coordinating Ethics Committee of the Hospital District of Helsinki and Uusimaa has approved the study (HUS/974/2019). The results will be published in peer-reviewed scientific journals and in publications for lay audience.",
+    "DOI": "10.1136/bmjopen-2019-032119",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the EU (Finland), within the specified timeframe (2005-2025), and addresses employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental trial (randomised controlled single-centre service-based trial) without a control group that meets the exclusion criteria.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. However, the intervention is not directly related to employment policies but rather focuses on mental health treatment (iCBT for depression), which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study population is not explicitly defined as people with mental disorders or documented mental health problems, which is a requirement for inclusion.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted within the specified timeframe (2005-2025), in Europe (Finland), and focuses on an intervention related to job search services (iCBT to reduce sickness absence) for people with mental health disorders. It also includes employment outcomes such as sickness absence.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

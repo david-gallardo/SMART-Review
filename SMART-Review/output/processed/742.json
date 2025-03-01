@@ -1,0 +1,33 @@
+{
+    "ArticleID": 742,
+    "Authors": "McGurk, Susan R.; Mueser, Kim T.; Xie, Haiyi; Feldman, Karin; Shaya, Yaniv; Klein, Leslie; Wolfe, Rosemarie",
+    "Article Title": "Cognitive remediation for vocational rehabilitation nonresponders",
+    "Abstract": "Cognitive remediation in people with severe mental illnesses (SMI) that interfere with work, but less research has evaluated its effects in those who have not benefitted from vocational services. Participants with SMI (83% schizophrenia) who had not benefitted from vocational rehabilitation were randomized to vocational services enhanced by training vocational specialists in recognizing cognitive difficulties and providing job-relevant cognitive coping strategies (Enhanced Vocational Rehabilitation: E-VR), or similarly enhanced vocational services and cognitive remediation (Thinking Skills Work: TSW). Cognition and symptoms were assessed at baseline, post-treatment (9 months), and follow-up (18 months), with work tracked weekly for 3 years. Fifty-four participants were randomized to E-VR (N = 26) or TSW(N = 28). Participants in TSW had high rates of exposure to the program (89%) and improved more than those in E-VR on cognitive functioning post-training, with attenuation of some gains at the 18-months. Participants in TSW and E-VR did not differ significantly in competitive work (57% vs. 48%) or paid employment (61% vs. 48%) over the 3-year study, although those in TSW were more likely to be engaged in any work activity, including paid or volunteer work (75% vs. 50%, p = 0.057), and had more weeks of work activity (23.04 vs. 48.82, p = 0.051), and improved marginally more on the clinical symptoms. The significantly higher education level of participants in E-VR than TSW at baseline may have obscured the effects of TSW. This study supports the feasibility and potential benefits of cognitive remediation for persons who have not benefited from vocational rehabilitation. (C) 2016 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2016.04.045",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US and Canada, within the specified timeframe of 2005-2025. The intervention is cognitive remediation, which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (randomized controlled trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion. The study focuses on cognitive remediation for individuals with severe mental illnesses who have not benefitted from vocational rehabilitation, which is not directly related to the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that evaluates the effects of enhanced vocational rehabilitation and cognitive remediation on employment outcomes for people with severe mental illnesses in the US.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

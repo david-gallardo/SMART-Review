@@ -1,0 +1,33 @@
+{
+    "ArticleID": 718,
+    "Authors": "Lee, Hui-Ling; Hwang, Eric J.; Wu, Shang-Liang; Tu, Wei-Mo; Wang, Ming Hung; Chan, Fong",
+    "Article Title": "Employment Outcomes After Vocational Training for People With Chronic Psychiatric Disorders: A Multicenter Study",
+    "Abstract": "People with a chronic psychiatric disorder (CPD) have low employment rates worldwide. This multicenter retrospective cohort study examined the employment outcomes of an innovative in-house vocational training program for people with CPD in Taiwan and explored which program parameters significantly predicted outcomes. Data were retrieved from the records of 323 participants who completed the training program. Satisfactory employment rates were found at 1 (52.9%), 3 (60.4%), and 6 (65.6%) mo posttraining, and 38.7% of participants demonstrated high employment sustainability (employed throughout the first 6 mo posttraining). Three program parameters significantly predicted employment outcomes: (1) occupational therapists' pursuit of additional training or short-term apprenticeship pertinent to clients' job interests, (2) posttraining vocational counseling provided by community-based occupational therapists, and (3) the duration of 6 mo posttraining to allow clients to prepare for competitive employment. Occupational therapist-led in-house vocational training is a promising alternative to traditional vocational training for people with CPD.",
+    "DOI": "10.5014/ajot.2018.028621",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multicenter retrospective cohort study with a control group, meeting the inclusion criteria for study design. The study is set in Taiwan, which falls within the specified geographic scope. The study timeframe is between 2005 and 2025. The intervention is vocational training, which is one of the specified interventions. The population is people with chronic psychiatric disorders, which meets the population criterion. The study presents measures of employment outcomes.",
+            "study_design": "Multicenter retrospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a retrospective cohort study and lacks a control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Retrospective Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a retrospective cohort study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "retrospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (Taiwan)",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        }
+    }
+}

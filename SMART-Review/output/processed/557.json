@@ -1,0 +1,33 @@
+{
+    "ArticleID": 557,
+    "Authors": "Salkever, David; Abrams, Michael; Baier, Kevin; Gibbons, Brent",
+    "Article Title": "Impacting Entry into Evidence-Based Supported Employment: A Population-Based Empirical Analysis of a Statewide Public Mental Health Program in Maryland",
+    "Abstract": "We use discrete-time survival regression to study two empirical issues relating to take-up of individual placement and support (IPS) supported employment (SE) services for persons with serious mental illness: (1) the influence of client characteristics on take-up probability, and (2) the possible impacts of a major recent initiative in one state (Maryland) to overcome barriers to IPS-SE expansion. Our longitudinal analysis of population-based Medicaid cohorts, during 2002-2010, provides tentative evidence of positive state initiative impacts on SE take-up rates, and evidence of effects on take-up for clients' diagnoses, prior work-history, health and demographic characteristics, and geographic accessibility to SE providers.",
+    "DOI": "10.1007/s10488-017-0827-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": "Longitudinal analysis of population-based Medicaid cohorts",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia) as it focuses on Maryland, USA.",
+            "study_design": "Population-based empirical analysis with discrete-time survival regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a population-based empirical analysis of a statewide public mental health program in Maryland, which aligns with the inclusion criteria of intervention (supported employment) and population (people with mental disorders). The study design is not explicitly mentioned in the abstract, but given the nature of the research, it is likely to be a quasi-experimental study or systematic review, which meets the inclusion criteria for study design. The timeframe and geographic scope are also consistent with the inclusion criteria. The study focuses on employment outcomes, which is one of the required outcomes in the inclusion criteria.",
+            "study_design": "Quasi-experimental study or systematic review (assumed based on the nature of the research)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Timeframe is outside the specified range (2005-2025). The study covers data from 2002-2010.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

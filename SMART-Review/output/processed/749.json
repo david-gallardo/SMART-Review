@@ -1,0 +1,33 @@
+{
+    "ArticleID": 749,
+    "Authors": "Becker, Deborah R.; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "The IPS Supported Employment Learning Collaborative",
+    "Abstract": "Objective: Learning collaboratives aim to improve the quality and outcomes of health care. This paper updates the Johnson & Johnson Dartmouth Community Mental Health Program, a 12-year learning collaborative on supported employment for people with mental illness. Methods: We gathered data from quarterly employment reports, monthly Individual Placement and Support (IPS) meetings, and presentations at the 2013 annual meeting of the learning collaborative. Results: The number of participant states or regions (and sites within these jurisdictions) was expanded to 16 jurisdictions in the United States and 3 in European countries. The quarterly rate of competitive employment has averaged 43% over 11 years in the U.S. sites. The collaborative has spawned numerous interactions, trainings, innovations, and research projects. Conclusions and Implications for Practice: Long-term learning collaboratives can produce high quality services, good outcomes, sustainability, and innovation.",
+    "DOI": "10.1037/prj0000044",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group (the Johnson & Johnson Dartmouth Community Mental Health Program), the geographic scope includes EU countries, Europe, US, Canada, and Australia, the intervention is supported employment, and the population references people with mental illness.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT or quasi-experimental) with a control group.",
+            "study_design": "Learning collaborative without randomized controlled trial or quasi-experimental design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not focus on job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Learning collaborative",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of supported employment for people with mental illness, includes employment outcomes, and is conducted in the US and Europe within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1126,
+    "Authors": "Hanson, Linda L. Magnusson; Peristera, Paraskevi; Chungkham, Holendro S.; Westerlund, Hugo",
+    "Article Title": "Psychosocial work characteristics, sleep disturbances and risk of subsequent depressive symptoms: a study of time-varying effect modification",
+    "Abstract": "Job strain and low social support at work are recognized risk factors for depression. However, people with poor sleep may represent a high-risk group more likely to benefit from interventions against work stress. The present study examined whether the associations between these work stressors and depressive symptoms differed by strata of sleep disturbances (effect modification/effect moderation) considering repeat measures of work characteristics and sleep. The study was based on five biennial measurements of the Swedish Longitudinal Occupational Survey of Health, including 1537 respondents recurrently in paid work, from an originally representative sample of the Swedish working population. High work demands, low decision authority and low social support were measured waves 2 and 4, sleep disturbances (putative moderator/modifier) waves 1 and 3, and depressive symptoms (outcome) wave 5. Causal effect modification, whether the effect of working conditions differed by strata of sleep disturbances, was analysed by structural nested mean modelling estimated using a regression-with-residuals with inverse-probability-of-treatment weighting approach. High demands and low social support, but not low decision authority, influenced subsequent depressive symptoms. The relationship between social support and depressive symptoms was not apparently modified by sleep disturbances. However, disturbed sleep wave 3 modified the effect of high demands wave 4 (coefficient 1.77, P<0.05) on depressive symptoms wave 5. The results indicate that high job demands is a stronger risk factor for depressive symptoms in people with pre-existing sleep disturbances, suggesting that targeted workplace interventions may be more effective when it comes to preventing negative effects of job demands.",
+    "DOI": "10.1111/jsr.12494",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a cross-sectional study.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on the relationship between psychosocial work characteristics, sleep disturbances, and depressive symptoms.",
+            "study_design": "Cross-sectional analysis with repeated measures over time",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on the association between work stressors and depressive symptoms in the context of sleep disturbances.",
+            "study_design": "longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

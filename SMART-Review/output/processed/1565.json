@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1565,
+    "Authors": "Bond, Gary R.; Drake, Robert E.; Becker, Deborah R.; Noel, Valerie A.",
+    "Article Title": "The IPS Learning Community: A Longitudinal Study of Sustainment, Quality, and Outcome",
+    "Abstract": "Objective: Implementations of evidence-based mental health practices often disappear quickly, and few studies have examined sustainment. Since 2001, the Individual Placement and Support (IPS) learning community has promoted dissemination, implementation, sustainment, and expansion of IPS by using multiple strategies: online training, in-person training and technical assistance, technical assistance teleconferences, annual meetings, stakeholder conference calls, fidelity assessments, and transparency of outcomes. This study examined sustainment of IPS over a two-year period among programs in the learning community in the United States.Methods: The authors interviewed IPS team leaders in 129 programs actively participating in the learning community in 2012 and 2014. The structured interview addressed questions about program status, funding, and quality improvement activities. Simultaneously, the learning community tracked program-level data on IPS fidelity and employment rates. The study examined two-year program sustainment and changes in employment rates, fidelity, funding, and quality improvement activities.Results: In 2012, 129 participating sites had been active for an average of 4.5 years. At two-year follow-up, 124 (96%) sites were sustained. The sustaining sites maintained quality improvement activities, expanded funding sources, and increased employment rates (41% to 43%; p=.04) and fidelity scores (103.8 to 108.4; p=.002).Conclusions: Nearly all programs participating in a learning community in 2012 continued to provide IPS services over the next two years, exceeding sustainment rates for evidence-based practices reported in the literature. Quality indicators also improved, suggesting that learning community activities fostered sustainment and quality. Controlled studies must compare specific learning community approaches with usual methods of sustainment.",
+    "DOI": "10.1176/appi.ps.201500301",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group (program-level data on IPS fidelity and employment rates), the geographic scope is the US, the timeframe is 2005-2025, the intervention is supported employment, and the population references people with mental disorders.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (program evaluation)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on job search services, adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria. Additionally, the study's geographic scope is limited to the United States, which is outside the specified EU countries, Europe, US, Canada, and Australia.",
+            "study_design": "Interview study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a longitudinal study with a control group, focuses on supported employment in the US, and includes employment rates as an outcome.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

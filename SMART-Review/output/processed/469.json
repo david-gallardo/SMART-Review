@@ -1,0 +1,33 @@
+{
+    "ArticleID": 469,
+    "Authors": "Wammes, Michael; Summerhurst, Carolyn; Demy, Jazzmin; Vingilis, Evelyn; Tremblay, Paul F.; Carter, Chloe; Osuch, Elizabeth",
+    "Article Title": "Hopes and fears: emerging adults in mood and anxiety disorder treatment predict outcomes of the COVID-19 pandemic",
+    "Abstract": "Active patients at The First Episode Mood and Anxiety Program (FEMAP) were asked to participate in a study monitoring their symptoms during early COVID-19 closures. Participants were asked to predict both possible positive and feared outcomes of the pandemic. Responses were analyzed with a descriptive qualitative approach using thematic analysis. Primary feared outcomes included death, prolonged pandemic impacts, and concerns about employment, mental health, and education. Prevalent positive predictions included a new perspective, improved relationships, personal growth, and environmental improvement. These findings suggest the complex relationship between fear and hope for young people in the early stages of the pandemic.",
+    "DOI": "10.1080/15332985.2021.2008088",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the impact of the pandemic on young people's mental health, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Descriptive qualitative approach using thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not directly address employment interventions. It focuses on qualitative analysis of patient fears and hopes during the early stages of the COVID-19 pandemic.",
+            "study_design": "Qualitative study with thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on employment interventions for people with mental health disorders.",
+            "study_design": "Descriptive qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a control group.",
+            "study_design": "Qualitative descriptive study",
+            "logprobs": null
+        }
+    }
+}

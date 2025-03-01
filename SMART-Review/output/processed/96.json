@@ -1,0 +1,33 @@
+{
+    "ArticleID": 96,
+    "Authors": "Spronken, Maitta; Brouwers, Evelien P. M.; Vermunt, Jeroen K.; Arends, Iris; Oerlemans, Wido G. M.; van der Klink, Jac J. L.; Joosen, Margot C. W.",
+    "Article Title": "Identifying return to work trajectories among employees on sick leave due to mental health problems using latent class transition analysis",
+    "Abstract": "Objectives To develop effective return to work (RTW) interventions for employees on sick leave due to mental health problems (MHPs), a better understanding of individual variation in the RTW process is needed. We investigated which RTW trajectories can be identified among employees with MHPs in terms of RTW duration and relapse occurrence during the RTW process. Additionally, we examined how different RTW trajectories can be described in terms of personal and work characteristics.Methods Longitudinal sickness absence registry data were collected retrospectively from the largest Dutch occupational health service. Quantitative RTW information as well as personal and work characteristics were extracted. In total, 9517 employees with a sickness absence due to MHPs were included in the analyses (62 938 data points; RTW durations from 29 to 730 days).Results A latent class transition analysis revealed five distinct RTW trajectories, namely (1) fast RTW with little chance of relapse, (2) slow RTW with little chance of relapse, (3) fast RTW with considerable chance of relapse, (4) slow RTW with considerable chance of relapse and (5) very fast RTW with very small chance of relapse. Differences between employees in the slower and faster trajectories were observed regarding gender, age, type of MHP, organisation sector and organisation size but not regarding part-time work.Conclusions RTW trajectories among employees with MHPs showed large individual variability and differed on personal and work characteristics. Knowledge on different RTW trajectories and their characteristics contributes to the development of personalised RTW treatments, tailored to specific individuals and organisations.",
+    "DOI": "10.1136/bmjopen-2019-032016",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a latent class transition analysis, which is a type of quasi-experimental study with a control group (the entire dataset). The study meets the geographic scope criteria as it is from the EU (Netherlands). The timeframe is within the specified range (2005-2025). The intervention is job search services (in the form of return to work interventions) and adult training, which are related to employment. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Latent Class Transition Analysis (QLCTA)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It focuses on identifying return-to-work trajectories among employees on sick leave due to mental health problems using latent class transition analysis.",
+            "study_design": "Latent class transition analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on return to work (RTW) trajectories among employees with mental health problems (MHPs) and does not specifically address employment intervent\u00e9ments or outcomes.",
+            "study_design": "Longitudinal sickness absence registry data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for comparison.",
+            "study_design": "Longitudinal study using latent class transition analysis",
+            "logprobs": null
+        }
+    }
+}

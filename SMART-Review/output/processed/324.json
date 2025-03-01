@@ -1,0 +1,33 @@
+{
+    "ArticleID": 324,
+    "Authors": "Robertson, L. J.; Maposa, I; Somaroo, H.; Johnson, O.",
+    "Article Title": "Mental health of healthcare workers during the COVID-19 outbreak: A rapid scoping review to inform provincial guidelines in South Africa",
+    "Abstract": "COVID-19 is prevalent in sub-Saharan Africa. The healthcare response to the pandemic depends upon a mentally and physically healthy workforce. Infectious disease outbreaks cause high psychosocial stress among healthcare workers, which may impact negatively on workplace functioning. To understand which mental health conditions may occur and which interventions could be considered, we conducted a rapid scoping review. Using a 2018 systematic review as the starting point, PubMed, Cochrane, Web of Science and MEDLINE databases were searched for any type of evidence published in English between 2014 and 2020 on mental health of healthcare workers exposed to infectious disease outbreaks; 19 primary studies and 13 opinion pieces were included. Depression, anxiety, post-traumatic stress, and other mental health conditions were noted among healthcare workers exposed to COVID-19 and other outbreaks. Although no effectiveness studies were identified, certain proposed interventions may be implemented by healthcare leaders. Further research is recommended.",
+    "DOI": "10.7196/SAMJ.2020.v110i10.15022",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a rapid scoping review, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Rapid scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a rapid scoping review and lacks a rigorous evaluation or control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The timeframe also falls outside the specified range (2005-2025).",
+            "study_design": "Rapid scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the mental health of healthcare workers during COVID-19, which is not directly related to employment outcomes for people with mental health disorders.",
+            "study_design": "Rapid scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the EU, Europe, US, Canada, Australia.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

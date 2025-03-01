@@ -1,0 +1,33 @@
+{
+    "ArticleID": 595,
+    "Authors": "Cores, Sara Estevez; Sayed, Anwar A.; Tracy, Derek K.; Kempton, Matthew J.",
+    "Article Title": "Individual-Focused Occupational Health Interventions: A Meta-Analysis of Randomized Controlled Trials",
+    "Abstract": "Employee stress and related psychological strain is not only damaging for those that experience it, but is also costly for employers and society at large. This study aims to evaluate the effectiveness of individual-focused occupational health interventions in a comprehensive meta-analysis, improving the interpretability of results by analyzing the interventions' impact on specific outcome measures. A literature search of randomized control trials (RCTs) of stress management, health or wellness interventions in healthy workers was completed using PubMed, Scopus, Web of Science, PsycINFO, and PsycARTICLES. The following outcome measures were meta-analyzed: (a) Perceive Stress Scale (PSS), (b) General Health Questionnaire (GHQ), (c) State-Trait Anxiety Inventory (STAI), (d) Maslach Burnout Inventory (MBI), and (e) absenteeism. Forty-nine studies met the inclusion criteria and were included in a random-effects meta-analysis. There was a beneficial effect of interventions across all outcome measures (all p < .05) except for the MBI Personal Accomplishment subscale and absenteeism. The largest effect size (g = -0.65, p < .001) was observed with the PSS scale. For separate subanalyses considering intervention types, multimodal interventions had the largest impact on reducing state anxiety (g = -1.01, p = .02), followed by relaxation interventions reducing PSS levels (g = -0.75, p < .001) and cognitive interventions reducing PSS levels (g = -0.66, p < .001). This meta-analysis provides evidence that individual-focused occupational health interventions can have a significant effect on stress-related outcomes postintervention and at follow-up. It also suggests that the intervention's effectiveness varies based on the outcome measures used.",
+    "DOI": "10.1037/ocp0000249",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis of RCTs, which meets the inclusion criteria. The study includes a control group and focuses on employment outcomes, which also meets the inclusion criteria.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on healthy workers and does not address people with mental disorders. It also does not include employment or labor outcomes.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individual-focused occupational health interventions in healthy workers, not specifically targeting people with mental health disorders. The interventions also include stress management and general wellness, which are not explicitly mentioned in the inclusion criteria.",
+            "study_design": "Meta-analysis of randomized control trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but healthy workers.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        }
+    }
+}

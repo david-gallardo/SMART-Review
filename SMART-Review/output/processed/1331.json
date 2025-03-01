@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1331,
+    "Authors": "Hawton, Keith; Bale, Elizabeth; Casey, Deborah",
+    "Article Title": "Self-harm on roads: Register-based study of methods and characteristics of individuals involved",
+    "Abstract": "Background: Suicide on roads is receiving increased attention. However, there has been little research on non-fatal road-related self-harm. This study was conducted in order to investigate the characteristics of such acts.Method: Information on non-fatal road self-harm was extracted from a self-harm monitoring system database of self-harm presentations to a major general hospital in England during 2005-2017. Patients were identified through being referred for psychosocial assessment by a clinical service and through scrutiny of medical records.Results: During the 13-year study period 110 individuals (67 males, 43 females) presented to the hospital with road-related self-harm: 38 (34.5%) jumped from bridges, 34 (30.9%) jumped or lay in front of vehicles, 27 (24.5%) crashed vehicles and 11 (10.0%) jumped from moving vehicles. Crashing vehicles was more common in males and jumping from vehicles more common in females. In patients who received a psychosocial assessment, their most frequent problems were with a partner, employment and family members. Over half had been in psychiatric care and nearly two-thirds had a history of previous self-harm. Suicide intent was often high, especially in those who crashed a vehicle or jumped from a bridge.Limitation: The study was based on presentations to a single hospital. Some data were not available for non-assessed patients.Conclusions: Road-related self-harm, while not common, more frequently involves males and the acts are often of high suicidal intent. The range of problems preceding this method of self-harm indicates that there needs to be a variety of aftercare interventions, adapted to each individual's situation.",
+    "DOI": "10.1016/j.jad.2020.12.107",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not address employment or labor outcomes, and it lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on self-harm methods and characteristics.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        }
+    }
+}

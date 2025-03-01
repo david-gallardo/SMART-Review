@@ -1,0 +1,33 @@
+{
+    "ArticleID": 829,
+    "Authors": "Nakamura, Aurelie; Lesueur, Fabienne El-Khoury; Sutter-Dallay, Anne-Laure; Franck, Jeanna-eve; Thierry, Xavier; Melchior, Maria; van der Waerden, Judith",
+    "Article Title": "The role of prenatal social support in social inequalities with regard to maternal postpartum depression according to migrant status",
+    "Abstract": NaN,
+    "DOI": "10.1016/j.jad.2020.04.024",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group and does not address employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on prenatal social support and its role in social inequalities related to maternal postpartum depression among migrants.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health or has an undefined population.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1013,
+    "Authors": "Kwan, Amanda; Conroy, Kim; Barron, Keri; Nandlall, Nadia; Iyer, Srividya N.; Henderson, J. L.; Barbic, Skye",
+    "Article Title": "Navigating Supported Employment and Education Services for Youths During COVID-19 and Severe Weather Events",
+    "Abstract": "In 2021, the British Columbia (BC) Interior experienced a series of unprecedented disasters, ranging from extreme heat and wildfires to catastrophic flooding and evacuations. Along with these severe weather events, BC was affected by COVID-19 outbreaks and public health restrictions. Despite these challenges, communities worked to ensure that youths who are at risk for increased mental health challenges continued to have access to services that promote well-being, such as individual placement and support programs for supported employment and educa-tion. This Open Forum presents program considerations and adaptations in Foundry Penticton, one of 12 province -wide integrated youth hubs, to ensure service delivery during acute and chronic disasters.",
+    "DOI": "10.1176/appi.ps.20220281",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.), and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Open Forum presentation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adults with mental health disorders, nor does it evaluate employment interventions.",
+            "study_design": "Open Forum",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

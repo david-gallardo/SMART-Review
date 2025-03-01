@@ -1,0 +1,33 @@
+{
+    "ArticleID": 398,
+    "Authors": "Stone, Kahler W.; Jagger, Meredith A.; Horney, Jennifer A.; Kintziger, Kristina W.",
+    "Article Title": "Changes in anxiety and depression among public health workers during the COVID-19 pandemic response",
+    "Abstract": "ObjectivesThe COVID-19 pandemic has negatively impacted mental health indicators, leading to an increase in symptoms of anxiety and depression in both the general population of adults and children and many occupational groups. This study aims to examine changes in anxiety and depression among a cohort of public health workers in the U.S. during the first year of the COVID-19 pandemic and identify potential risk factors.MethodsLongitudinal data were collected from a sub-sample (N = 85) of public health workers in 23 U.S. states who completed two surveys in 2020 and 2021. Information on background characteristics, personal well-being, and work environment as well as validated scales to assess generalized anxiety disorder (GAD), depressive disorder, and burnout was collected. Data were analyzed using Stata Version 17, and significant differences were determined using Pearson's Chi(2) and Fisher's Exact tests.ResultsThe proportion of those reporting GAD (46.3% to 23.2%) or depression (37.8% to 26.8%) improved from Survey 1 to Survey 2 overall; symptoms of anxiety saw the largest improvement. Persistent depression was associated with sustained burnout, changes in social support, and days worked per week.ConclusionPublic health workers experienced elevated levels of anxiety and depression during the initial pandemic response, but a reduction in these symptoms was observed in the subsequent year after vaccines had become widely available. However, unmet needs remain for ongoing workplace mental health supports to address burnout, as well as for additional emotional supports outside of work for public health professionals.",
+    "DOI": "10.1007/s00420-023-02002-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population is not specifically people with mental disorders.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on public health workers in the U.S. and does not specifically address employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment or labor outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

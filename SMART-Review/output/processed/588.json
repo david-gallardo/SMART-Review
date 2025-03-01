@@ -1,0 +1,33 @@
+{
+    "ArticleID": 588,
+    "Authors": "Mattila-Holappa, Pauliina; Joensuu, Matti; Ahola, Kirsi; Koskinen, Aki; Tuisku, Katinka; Ervasti, Jenni; Virtanen, Marianna",
+    "Article Title": "Psychotherapeutic and work-oriented interventions: employment outcomes among young adults with work disability due to a mental disorder",
+    "Abstract": "Background: We examined the extent to which psychotherapeutic and work-oriented interventions were included in a medical treatment and rehabilitation plan and whether they predicted future employment among young adults with work disability due to a mental disorder.Methods: Data were obtained from the treatment and rehabilitation plans of 1163 young adults aged 18. 34 years, who in 2008 were granted fixed-term work disability compensation due to a mental disorder and were followed for 5 years.Results: Forty-six percent had no proposal for psychotherapy or a work-oriented intervention in their treatment and rehabilitation plan, 22 % had a plan for only a psychotherapeutic intervention, 23 % had a plan for only a work-oriented intervention, and 10 % had both types of interventions planned. Having a planned psychotherapeutic intervention (HR = 1.35, 95 % CI 1.07-1.69) and of the work-oriented interventions, planned rehabilitative courses and training (HR = 1.34, 95 % CI 1.03-1.70) predicted quicker entry into competitive employment. Having a plan for both a psychotherapeutic and work-oriented intervention was associated with being employed at the end of the follow-up (OR = 1.77, 95 % CI 1.07-2.95).Conclusions: Young adults with a long-term psychiatric work disability episode rarely have a recorded plan for rehabilitation in their treatment and rehabilitation plan although psychotherapeutic interventions and a combination of a psychotherapeutic and work-oriented intervention might help them gain employment.",
+    "DOI": "10.1186/s13033-016-0101-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the specified timeframe of 2005-2025. The intervention is a combination of psychotherapeutic and work-oriented interventions, addressing employment outcomes among young adults with work disability due to a mental disorder. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. It is a retrospective analysis of treatment and rehabilitation plans without random assignment.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and is not a systematic review or meta-analysis.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on the EU (as it mentions young adults granted work disability compensation), falls within the timeframe of 2005-2025, includes relevant interventions such as training and rehabilitation courses, targets people with mental disorders, and measures employment outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

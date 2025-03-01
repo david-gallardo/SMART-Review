@@ -1,0 +1,33 @@
+{
+    "ArticleID": 920,
+    "Authors": "van Duin, Danielle; de Winter, Lars; Oud, Matthijs; Kroon, Hans; Veling, Wim; van Weeghel, Jaap",
+    "Article Title": "The effect of rehabilitation combined with cognitive remediation on functioning in persons with severe mental illness: systematic review and meta-analysis",
+    "Abstract": "BackgroundPsychiatric rehabilitation (PR) can improve functioning in people with severe mental illness (SMI), but outcomes are still suboptimal. Cognitive impairments have severe implications for functioning and might reduce the effects of PR. It has been demonstrated that performance in cognitive tests can be improved by cognitive remediation (CR). However, there is no consistent evidence that CR as a stand-alone intervention leads to improvements in real-life functioning. The present study investigated whether a combination of PR and CR enhances the effect of a stand-alone PR or CR intervention on separate domains of functioning.MethodA meta-analysis of randomized controlled trials of PR combined with CR in people with SMI was conducted, reporting on functioning outcomes. A multivariate meta-regression analysis was carried out to evaluate moderator effects.ResultsThe meta-analysis included 23 studies with 1819 patients. Enhancing PR with CR had significant beneficial effects on vocational outcomes (e.g. employment rate: SMD = 0.41), and social skills (SMD = 0.24). No significant effects were found on relationships and outcomes of community functioning. Effects on vocational outcomes were moderated by years of education, intensity of the intervention, type of CR approach and integration of treatment goals for PR and CR. Type of PR was no significant moderator.ConclusionsAugmenting PR by adding cognitive training can improve vocational and social functioning in patients with SMI more than a stand-alone PR intervention. First indications exist that a synergetic mechanism also works the other way around, with beneficial effects of the combined intervention compared with a stand-alone CR intervention.",
+    "DOI": "10.1017/S003329171800418X",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis, which meets the inclusion criteria. The study includes a control group and reports on functioning outcomes, which also meets the inclusion criteria. The study's geographic scope is within the EU, Europe, US, Canada, and Australia. The study's timeframe is between 2005 and 2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which meets the inclusion criteria. The population is people with mental disorders or documented mental health problems, which meets the inclusion criteria. The study reports on employment or labor outcomes, which meets the inclusion criteria.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on vocational outcomes which are broader than job retention or labor integration.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on severe mental illness (SMI) and not specifically on people with mental health disorders. The study also does not include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": "Not available"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a meta-analysis of RCTs focusing on vocational outcomes including employment rate for people with severe mental illness.",
+            "study_design": "meta-analysis of randomized controlled trials",
+            "logprobs": null
+        }
+    }
+}

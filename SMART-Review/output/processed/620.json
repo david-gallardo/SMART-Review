@@ -1,0 +1,33 @@
+{
+    "ArticleID": 620,
+    "Authors": "Sanghera, Jaspinder; Pattani, Nikhil; Hashmi, Yousuf; Varley, Kate F.; Cheruvu, Manikandar Srinivas; Bradley, Alex; Burke, Joshua R.",
+    "Article Title": "The impact of SARS-CoV-2 on the mental health of healthcare workers in a hospital setting-A Systematic Review",
+    "Abstract": "Objectives: The SARS-CoV-2 global pandemic has subjected healthcare workers (HCWs) to high risk of infection through direct workplace exposure, coupled with increased workload and psychological stress. This review aims to determine the impact of SARS-CoV-2 on mental health outcomes of hospital-based HCWs and formulate recommendations for future action.Methods: A systematic review was performed between 31st December 2019 and 17th June 2020 through Ovid Medline and Embase databases (PROSPERO ID CRD42020181204). Studies were included for review if they investigated the impact of SARS-CoV-2 on mental health outcomes of hospital-based HCWs and used validated psychiatric scoring tools. Prevalence of ICD-10 classified psychiatric disorders was the primary outcome measure.Results: The initial search returned 436 articles. Forty-four studies were included in final analysis, with a total of 69,499 subjects. Prevalence ranges of six mental health outcomes were identified: depression 13.5%-44.7%; anxiety 12.3%-35.6%; acute stress reaction 5.2%-32.9%; post-traumatic stress disorder 7.4%-37.4%; insomnia 33.8%-36.1%; and occupational burnout 3.1%-43.0%. Direct exposure to SARS-CoV-2 patients was the most common risk factor identified for all mental health outcomes except occupational burnout. Nurses, frontline HCWs, and HCWs with low social support and fewer years of working experience reported the worst outcomes.Conclusion: The SARS-CoV-2 pandemic has significantly impacted the mental health of HCWs. Frontline staff demonstrate worse mental health outcomes. Hospitals should be staffed to meet service provision requirements and to mitigate the impact onmental health. This can be improved with access to rapid-response psychiatric teams and should be continually monitored throughout the pandemic and beyond its conclusion.",
+    "DOI": "10.1002/1348-9585.12175",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly related to active employment for people with mental health disorders. It focuses on the impact of SARS-CoV-2 on the mental health outcomes of healthcare workers.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on healthcare workers (HCWs) and their mental health outcomes due to SARS-CoV-2, which does not align with the specified population of people with mental disorders or documented mental health problems. The study's intervention is not directly related to employment policies but rather to the impact of the pandemic on mental health in a healthcare setting.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

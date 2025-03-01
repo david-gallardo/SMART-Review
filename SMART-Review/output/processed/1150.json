@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1150,
+    "Authors": "Cook, Sarah; Saburova, Lyudmila; Bobrova, Natalia; Avdeeva, Ekaterina; Malyutina, Sofia; Kudryavtsev, Alexander, V; Leon, David A.",
+    "Article Title": "Socio-demographic, behavioural and psycho-social factors associated with depression in two Russian cities",
+    "Abstract": "Background: Russia has a high burden of suicide and alcohol-attributable mortality. However there have been few studies of the epidemiology of depression.Methods: The study population was 5077 men and women aged 35-69 years from a cross-sectional population based survey in the cities of Arkhangelsk and Novosibirsk (2015-17). Moderate depression was defined as Patient Health Questionnaire-9 (PHQ-9) score>10. Risk factors considered were socio-demographic factors (age, sex, marital status, living alone, education, employment status, financial constraints); health behaviours (smoking, alcohol use) and psycho-social factors (life events and social support).Results: After mutual adjustment for all other factors, there was evidence that PHQ-9>10 was associated with sex (higher in women), financial constraints, employment status, being a non-drinker, problem drinking, smoking, not having enough people to confide in and the number of life events in the past 6 months. Employment status was more strongly associated in men (OR 1.84 (95%CI 1.17, 2.88)) than women (OR 1.15 95% CI 0.86, 1.55). The effect size was particularly striking for financial constraints (odd ratio over 3 times higher in those with not enough money for food and clothes compared to no financial constraints), problem drinking (OR 1.72 (1.12, 2.65) among drinkers with CAGE score of 2 and 2.25 (95% CI 1.42, 3.57) in those with score >3 compared to zero) and life events (85% higher odds in those experiencing one life event and over 4 times higher odds in those experiencing 3 or more life events) all of which demonstrated a dose-response with PHQ-9>=10.Limitations: The study was cross-sectional in nature therefore temporal relationships could not be assessed. Conclusions: We have identified here a range of risk factors for depression among the Russian general population consistent with findings from other populations. The strikingly strong association with financial constraints indicates the importance of social inequality for the burden of depression.",
+    "DOI": "10.1016/j.jad.2021.04.093",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which means it lacks a rigorous evaluation and cannot assess temporal relationships.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, nor does it target the population with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Russia is not included).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

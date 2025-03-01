@@ -1,0 +1,33 @@
+{
+    "ArticleID": 353,
+    "Authors": "Lancombe, Enara; Muller, Amanda",
+    "Article Title": "The relationship between borderline personality disorder and occupational participation: An integrative review",
+    "Abstract": "This integrative review explores the impact of borderline personality disorder (BPD) symptomology and behaviours on occupational capacity, participation, and sustainability. The disorder has also been associated with lower education levels, higher levels of attrition in tertiary education populations, and low occupational participation and employment rates. Personality traits and symptomology have been found to substantially detract from employability. Articles were identified from CINAHL (Cumulative Index to Nursing and Allied Health Literature), PsycINFO/Ovid, ProQuest, and PubMed databases. The Joanna Briggs' Institute (JBI) critical appraisal tools were used to evaluate the quality of evidence, and inductive thematic analysis used to extract main themes. Four themes regarding 'barriers', 'enablers', 'treatment', and 'benefits' emerged amongst the 11 eligible articles. The negative symptomology was a barrier to occupational participation, and people with BPD engaged in self-stigmatizing and non-disclosure. However, the positive symptomology such as boldness and honesty were enablers. Treatment was found to be a key element, and occupational engagement was also found to have positive effectives. The evidence indicates that employment improved the symptoms, and a long-term treatment plan is a key element. Some upskilling of mental health workers may be required, including a focus on possible positive symptomology as a way of dealing with the stigmatization. Some awareness raising of the disorder, including for employers, may be needed, with education programmes that deal with the stigmatization. Future funding should focus on specialized programmes targeting unemployment for this group.",
+    "DOI": "10.1111/inm.13014",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a critical appraisal and inductive thematic analysis, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Critical appraisal and inductive thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an integrative review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on borderline personality disorder (BPD) and its impact on occupational participation, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment for people with mental health disorders. Additionally, the study's population is not explicitly defined as people with mental health disorders, and the outcomes are not directly related to employment or labor results.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate the effectiveness of specific employment interventions.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1205,
+    "Authors": "Audhoe, Selwin S.; Nieuwenhuijsen, Karen; Hoving, Jan L.; Sluiter, Judith K.; Frings-Dresen, Monique H. W.",
+    "Article Title": "The effectiveness of the ''Brainwork Intervention in reducing sick leave for unemployed workers with psychological problems: design of a controlled clinical trial",
+    "Abstract": "Background: Among the working population, unemployed, temporary agency and expired fixed-term contract workers having psychological problems are a particularly vulnerable group, at risk for sickness absence and prolonged work disability. Studies investigating the effectiveness of return-to-work (RTW) interventions on these workers, who are without an employment contract, are scarce. Therefore, a RTW intervention called 'Brainwork' was developed. The objective of this paper is to describe the 'Brainwork Intervention' and the trial design evaluating its effectiveness in reducing the duration of sick leave compared to usual care.Methods/Design: The 'Brainwork Intervention' is designed to assist unemployed, temporary agency and expired fixed-term contract workers who are sick-listed due to psychological problems, with their return to work. The 'Brainwork Intervention' uses an activating approach: in the early stage of sick leave, workers are encouraged to exercise and undertake activities aimed at regaining control and functional recovery while job coaches actively support their search for (temporary) jobs. The content of the intervention is tailored to the severity of the psychological problems and functional impairments, as well as the specific psychosocial problems encountered by the sick-listed worker.The intervention study is designed as a quasi-randomized controlled clinical trial with a one-year follow-up and is being conducted in the Netherlands. The control group receives care as usual with minimal involvement of occupational health professionals. Outcomes are measured at baseline, and 4, 8 and 12 months after initiation of the program. The primary outcome measure is the duration of sick leave. Secondary outcome measures are: the proportion of subjects who returned to work at 8 and 12 months; the number of days of paid employment during the follow-up period; the degree of worker participation; the level of psychological complaints; and the self-efficacy for return to work. The cost-benefit analysis will be evaluated from an insurer's perspective.Discussion: The methodological considerations of the study design are discussed. In this trial we evaluate the effectiveness of an intervention in real occupational health practice, rather than under highly controlled circumstances. The results will be published in 2015.",
+    "DOI": "10.1186/s12889-015-1728-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-randomized controlled clinical trial with a control group, meeting the inclusion criteria for study design. The study is conducted in the EU (Netherlands), within the specified timeframe (2005-2025), and addresses employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-randomized controlled clinical trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-randomized controlled clinical trial but lacks a control group from the EU, Europe, US, Canada, or Australia. The timeframe does not meet the criteria as it will be published after 2025.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental trial with a control group, conducted in the Netherlands (EU country), within the specified timeframe, and focuses on job search services for people with psychological problems, measuring employment outcomes.",
+            "study_design": "quasi-randomized controlled clinical trial",
+            "logprobs": null
+        }
+    }
+}

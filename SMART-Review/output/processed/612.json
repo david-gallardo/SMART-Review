@@ -1,0 +1,33 @@
+{
+    "ArticleID": 612,
+    "Authors": "Slade, Mike; Longden, Eleanor",
+    "Article Title": "Empirical evidence about recovery and mental health",
+    "Abstract": "Background: Two discourses exist in mental health research and practice. The first focuses on the limitations associated with disability arising from mental disorder. The second focuses on the possibilities for living well with mental health problems.Discussion: This article was prompted by a review to inform disability policy. We identify seven findings from this review: recovery is best judged by experts or using standardised assessment; few people with mental health problems recover; if a person no longer meets criteria for a mental illness, they are in remission; diagnosis is a robust basis for characterising groups and predicting need; treatment and other supports are important factors for improving outcome; the barriers to receiving effective treatment are availability, financing and client awareness; and the impact of mental illness, in particular schizophrenia, is entirely negative. We selectively review a wider range of evidence which challenge these findings, including the changing understanding of recovery, national mental health policies, systematic review methodology and undertainty, epidemiological evidence about recovery rates, reasoning biased due to assumptions about mental illness being an illness like any other, the contested nature of schizophrenia, the social construction of diagnoses, alternative explanations for psychosis experiences including the role of trauma, diagnostic over-shadowing, stigma, the technological paradigm, the treatment gap, social determinants of mental ill-health, the prevalence of voice-hearing in the general population, and the sometimes positive impact of psychosis experience in relation to perspective and purpose.Conclusion: We propose an alternative seven messages which are both empirically defensible and more helpful to mental health stakeholders: Recovery is best judged by the person living with the experience; Many people with mental health problems recover; If a person no longer meets criteria for a mental illness, they are not ill; Diagnosis is not a robust foundation; Treatment is one route among many to recovery; Some people choose not to use mental health services; and the impact of mental health problems is mixed.",
+    "DOI": "10.1186/s12888-015-0678-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of existing literature, and it does not meet the inclusion criteria for a systematic review or meta-analysis. The study does not have a control group and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the broader discourse and understanding of recovery in mental health.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes or interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

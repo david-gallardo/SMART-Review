@@ -1,0 +1,33 @@
+{
+    "ArticleID": 900,
+    "Authors": "Jenkins, Rachel; Othieno, Caleb; Ongeri, Linnet; Kiima, David; Sifuna, Peter; Kingora, James; Omollo, Raymond; Ogutu, Bernhards",
+    "Article Title": "Alcohol consumption and hazardous drinking in western Kenya-a household survey in a health and demographic surveillance site",
+    "Abstract": "Background: Alcohol use and hazardous drinking have been studied in school children and in urban areas of Kenya, but there has been no adult survey of these issues in a rural household population.Methods: This study reports the prevalence of alcohol consumption and hazardous drinking in a household survey of a demographic surveillance site in rural Kenya. Information collected included demographic characteristics, socio-economic factors, recent life events and perceived social support. Alcohol consumption was assessed by questions about quantity and frequency. The Alcohol Use Disorders Identification Test (AUDIT) measured hazardous alcohol use. The Clinical Interview Schedule-Revised assessed common mental disorder, and the Psychosis Screening Questionnaire indicated the presence of psychotic symptoms.Results: The study found that lifetime and current alcohol consumption were 10.8 % and 9.2 % respectively. Current alcohol consumption was significantly higher in men (OR 0.4, p < 0.001 for women) and in the self-employed (OR 1.8, p = 0.013), after adjustment for factors significant at the bivariate level.Hazardous drinking was significantly higher in men (OR 0.3, p < 0.001 for women), people living in larger households (OR 1.8, p = 0.021), people who were single (OR 1.7, p = 0.093), and in those who are self-employed (OR 1.8, p = 0.036), after adjustment for factors significant at the bivariate level.Conclusion: This study suggests that alcohol consumption and hazardous drinking in the general population in a poor rural area in Nyanza Province is still relatively low. This represents an important public health educational opportunity to keep such rates low before increasing income and employment opportunities enable higher access to alcohol and other substances, and before the higher consumption found by studies on urban youth, especially neighbouring Kisumu town, spreads to the rural areas.",
+    "DOI": "10.1186/s12888-015-0603-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it does not have a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on alcohol consumption and hazardous drinking in rural Kenya.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on alcohol consumption and hazardous drinking in a rural household population in Kenya, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Household survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not include outcomes related to employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

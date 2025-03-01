@@ -1,0 +1,33 @@
+{
+    "ArticleID": 234,
+    "Authors": "Arici, Cecilia; Tamhid, Tishad; Porru, Stefano",
+    "Article Title": "Migration, Work, and Health: Lessons Learned from a Clinical Case Series in a Northern Italy Public Hospital",
+    "Abstract": "Background: Migrant workers (MWs) generally perform dangerous jobs and have reduced access to occupational health (OH) care, therefore being prone to developing occupational diseases (OD). The aim of the work is to describe a case series of MWs and report on related outcomes for OH professionals. Methods: A case series of 724 MWs, sent from January 2001 to June 2013 to a public OH unit for OD or fitness-for-work (FFW) evaluation, was entered in a dedicated database and elaborated for descriptive statistics with Microsoft Excel. Results: MWs were mostly (75%) men, with a mean age of 40. They came mainly from Morocco, Senegal, Albania, Romania, and Pakistan. Main sectors of employment were manufacturing, metal industry, services, construction. OD were found in 210 cases, main diagnoses being: Lumbar disc and upper limb musculoskeletal disorders (51%), contact dermatitis (15%), allergic asthma (8%), noise-induced hearing loss (7%), tumors (3%), psychiatric disorders (2%). Moreover, 136 FFW judgements were formulated, with some limitations /restrictions expressed. Finally, a relevant prevalence of some chronic non-occupational diseases was found. Conclusions: MWs in Italy may suffer from OH inequalities. Qualified public OH professionals and occupational physicians in workplaces should have a proactive role to concretely meet MWs' health needs.",
+    "DOI": "10.3390/ijerph16173007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case series, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case series without a control group and does not meet the inclusion criteria for rigorous evaluation. The geographic scope is limited to Northern Italy which is outside the specified EU countries, Europe, US, Canada, or Australia. Additionally, it focuses on occupational health inequalities among migrant workers rather than addressing employment policies directly.",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on migrant workers' occupational health and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Case series",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 339,
+    "Authors": "Yang, Jing; Shen, Qianyu; Tong, Xi; Mukhopadhaya, Pundarik",
+    "Article Title": "The impact of digital literacy in enhancing individuals' health in China",
+    "Abstract": "BackgroundHealth is the cornerstone of individual well-being and a vital factor in socioeconomic development. In an increasingly digitalized world, digital literacy has emerged as one of the indispensable abilities, which not only pertains to an individual's capacity to acquire, analyze, evaluate, and utilize information but also profoundly influences their health behaviours, health decisions, and overall well-being. This paper uses the 2020 China Family Panel Studies (CFPS) data to explore digital literacy's impact on individuals' health.MethodsBy using the Entropy-TOPSIS method, this paper calculates digital literacy as a three-dimensional construct and adopts Ordered Probit and OLS models to analyze the impact of digital literacy on physical and mental health. Additionally, this paper employs the Two-Stage Least Squares (2SLS) to address endogeneity issues. The indirect effects of income, employment quality, and informal social support on individual's digital literacy and health nexus are also examined by the mediation effect model.ResultsThe results indicate that digital literacy positively impacts individuals' physical and mental health, which was confirmed by several robustness tests. The heterogeneity analysis shows that digital literacy is more effective in enhancing the health of middle-aged and older groups as well as rural individuals in China. According to mechanism analysis, digital literacy can enhance individuals' health by boosting income, improving employment quality, and expanding informal social support; however, the effects vary on physical and mental health.ConclusionSeveral policy suggestions emanate from the findings. To enhance the positive impact of digital literacy on individuals' health, the policy makers should emphasize on enhancing digital literacy particularly in rural areas and older age groups, bridging the digital divide, refining employment services and embracing a healthy concept of online social networking.",
+    "DOI": "10.1186/s12889-025-21454-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on the impact of digital literacy on physical and mental health.",
+            "study_design": "Descriptive study using data from the 2020 China Family Panel Studies (CFPS)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to active employment policies for people with mental health disorders. It focuses on the impact of digital literacy on health in China.",
+            "study_design": "Cross-sectional analysis using CFPS data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on digital literacy and its impact on health in China, not on employment outcomes for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it is a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (China) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

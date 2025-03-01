@@ -1,0 +1,33 @@
+{
+    "ArticleID": 561,
+    "Authors": "Luther, Lauren; Suor, Jennifer H.; Rosen, Cherise; Jobe, Thomas H.; Faull, Robert N.; Harrow, Martin",
+    "Article Title": "Clarifying the direction of impact of negative symptoms and neurocognition on prospective work functioning in psychosis: A 20-year longitudinal study",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study design is a longitudinal study without a control group.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation and does not have a control group. It also falls outside the specified geographic scope.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

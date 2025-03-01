@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1319,
+    "Authors": "Meyer, Sophie-Charlotte; Tisch, Anita",
+    "Article Title": "Exploring the Relationship Between Techno-Unreliability at Work and Burnout",
+    "Abstract": "Objective: With the growing dissemination of digital technologies in the orkplace, technologies itself and related factors are increasingly discussed as an additional source of work stress, often referred to as technostress. This article explores whether techno-unreliability as a dimension of technostress is associated with burnout. Methods: We perform linear regression analyses based on a large representative sample of German employees collected in 2019. We distinguish between information and communication technology users (n = 4702) and tool users (n = 1953). Interaction models explore whether individual and workplace-related factors might moderate the relationship. Results: The results indicate that the more frequently employees experience techno-induced interruptions (as an indicator for techno-unreliability), the stronger their burnout symptoms. Interaction models reveal that social support and job autonomy might buffer this association. Conclusions: Ensuring reliable technology and technical support can reduce employee stress.",
+    "DOI": "10.1097/JOM.0000000000003008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group.",
+            "study_design": "linear regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on techno-unreliability and its association with burnout. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on techno-unreliability and burnout, not employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address any of the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study with linear regression analyses",
+            "logprobs": null
+        }
+    }
+}

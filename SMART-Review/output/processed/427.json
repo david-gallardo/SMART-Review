@@ -1,0 +1,33 @@
+{
+    "ArticleID": 427,
+    "Authors": "Ma, Chenyi; Smith, Tony Edward; Iversen, Roberta Rehner",
+    "Article Title": "Mental Illness Prevalence and Disparities Among Hurricane Sandy Survivors: A 2-Year Retrospective",
+    "Abstract": "This study examined mental health status among Hurricane Sandy survivors in the most severely damaged areas of New York and New Jersey in 2014, approximately 2 years after this disaster. We used the 2014 Associated Press NORC survey of 1009 Sandy survivors to measure the prevalence of probable mental illness and to analyze its association with selected socioeconomic characteristics of survivors, direct impact by Sandy, as well as social support and social trust. The study found major disparities in mental illness by race/ethnicity, age groups, and employment status. Higher Sandy impact levels were strongly associated with higher rates of mental illness and accounted for much of the disparity between blacks and Hispanics compared with whites in our study group. Social support was more strongly associated with lower rates of mental illness than was social trust. In addition, social support served as a significant mitigating factor in the mental health disparities between blacks and whites. The severity of mental illness among Sandy survivors differed significantly among racial and ethnic groups but was moderated by both the direct impact of this disaster on their lives and the degree of social support they received, as well as how trusting they were.",
+    "DOI": "10.1017/dmp.2020.46",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes that measure employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "retrospective survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

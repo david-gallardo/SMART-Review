@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1075,
+    "Authors": "Hedley, Darren; Uljarevic, Mirko; Bury, Simon M.; Dissanayake, Cheryl",
+    "Article Title": "Predictors of mental health and well-being in employed adults with autism spectrum disorder at 12-month follow-up",
+    "Abstract": "People with Autism Spectrum Disorder (ASD) commonly experience poor outcomes in adulthood. Previous research on adult outcomes has focused on negative aspects of health and well-being, while positive well-being remains understudied. The current study charted 12-month change in daily living skills, job satisfaction, depression, anxiety, and positive well-being in 36 (32 male) newly employed adults with ASD aged 18 to 57 years who were participating in a supported employment program. There was a small increase in daily living skills, and a slight decrease in job satisfaction, with all other measures remaining stable over time. Regression analyses revealed that, controlling for baseline depression, positive well-being negatively predicted depression at follow-up. No significant predictors of anxiety were identified. Social support and depression at baseline were associated with positive well-being at follow-up; however, they were no longer significant predictors after the effects of baseline positive well-being were taken into account. The findings provide evidence that positive well-being may buffer against depression in people with ASD. Our finding of stability of mental health and well-being measures over time indicates more research is required to uncover the mechanisms underpinning mental health and well-being outcomes in employed adults with ASD. Autism Res 2019, 12: 482-494 (c) 2019 International Society for Autism Research, Wiley Periodicals, Inc.Lay SummaryPeople with autism commonly experience poor outcomes in adulthood. We studied mental health and well-being in newly employed adults with autism who were participating in a supported employment program. Apart from a slight increase in daily living skills and a slight decrease in job satisfaction, other measures of mental health and well-being remained stable over time. Our findings suggest that positive well-being may protect against symptoms of depression in people with autism.",
+    "DOI": "10.1002/aur.2064",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on mental health and well-being in employed adults with Autism Spectrum Disorder.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on predictors of mental health and well-being in employed adults with autism spectrum disorder.",
+            "study_design": "Observational",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with mental health disorders (ASD), and includes outcomes related to job satisfaction and workplace integration.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

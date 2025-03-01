@@ -1,0 +1,33 @@
+{
+    "ArticleID": 800,
+    "Authors": "Bouvet, Cyrille; Battin, Clemence; Cappelaere, Camille; Leroy-Hatala, Claire",
+    "Article Title": "Psychosocial Change in Members of Clubhouse Paris (France) Over an 18-Month Period: A Longitudinal Mixed Methods Study",
+    "Abstract": "The community-based mental health organizations known as Clubhouses have existed since the 1940s in the United States, and the model has since spread to many countries. The present study investigates the psychological and social trajectories of 33 members of Clubhouse Paris, the first Clubhouse in France. The study used a pre-post, mixed methods design, with three assessments over an 18-month period. A participatory action research approach was taken to ensure compatibility with Clubhouse principles. The results showed improvements in Clubhouse members' labor market integration, quality of life, sense of self-efficacy, psychosocial skills, symptoms, and hospitalization. The other variables studied (life satisfaction, social support, self-esteem) did not change over the study period. In addition to the statistical results, analysis of interviews highlights the diversity of individual patterns of change and the complexity of the interactions between the variables. These results confirm previous findings from the international literature, and the robustness of the Clubhouse model across different cultures.",
+    "DOI": "10.1007/s10597-020-00654-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Longitudinal mixed methods study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation with a control group and is not an RCT, systematic review, meta-analysis, or quasi-experimental study. It also falls outside the specified geographic scope.",
+            "study_design": "Pre-post mixed methods longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on employment outcomes, which are required by the inclusion criteria.",
+            "study_design": "Longitudinal mixed methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not included in the specified criteria (mixed methods study without a control group).",
+            "study_design": "Mixed Methods Study",
+            "logprobs": null
+        }
+    }
+}

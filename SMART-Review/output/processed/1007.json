@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1007,
+    "Authors": "Lamothe, Josianne; Boyer, Richard; Guay, Stephane",
+    "Article Title": "A Longitudinal Analysis of Psychological Distress Among Healthcare Workers Following Patient Violence",
+    "Abstract": "Workplace violence is a known risk factor for diminished mental health and turnover intentions. Yet, to this day, researchers still do not know how victimized workers cope over time or how organisations can best help them recover. This study sought to document the evolution of psychological distress in a sample of recently victimized professionals (N = 81) immediately after the event and over the course of the following year. Mixed modelling was used to assess distress scores at 4 different time points (3, 11, 27, and 52 weeks). Findings suggest that patient violence had a serious impact on staff mental health, with close to 35% of women and 11% of men suffering from severe distress after returning to work. In addition, 15% of participants exceeded the diagnostic threshold for Acute Stress Disorder (ASD). Rates of psychological distress decreased steadily over time but always remained above the national average. Although perceived organisational support proved to be a good protective factor against distress, its effect eroded with cumulative exposure to violence. Given the high risk of experiencing violence in certain work settings, this article concludes with a discussion of how organisations might be more considerate of the needs of traumatized workers. Employers should screen victimized workers to ensure they receive the help they need.",
+    "DOI": "10.1037/cbs0000187",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. The study uses mixed modelling, which is not a traditional RCT or quasi-experimental design.",
+            "study_design": "Mixed modelling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and interventions for people with mental health disorders. It focuses on the impact of workplace violence on healthcare workers' psychological distress.",
+            "study_design": "Longitudinal analysis using mixed modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological distress among healthcare workers following patient violence, which does not directly address employment or labor outcomes in the context of active employment policies for people with mental health disorders. The study design is a longitudinal study, which is not explicitly mentioned in the inclusion criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal Analysis",
+            "logprobs": null
+        }
+    }
+}

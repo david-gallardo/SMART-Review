@@ -1,0 +1,33 @@
+{
+    "ArticleID": 994,
+    "Authors": "Hajek, Andre; Koenig, Hans-Helmut; Buczak-Stec, Elzbieta; Blessmann, Marco; Grupp, Katharina",
+    "Article Title": "Prevalence and Determinants of Depressive and Anxiety Symptoms among Transgender People: Results of a Survey",
+    "Abstract": "Objectives: The aim was to investigate the prevalence of probable depression and probable anxiety and to investigate the determinants of depressive symptoms and anxiety symptoms among transgender people. Methods: In this Transgender Survey (n = 104) we included transgender people who had joined self-help groups to obtain and share information about the gender-affirming surgeries performed at the Division of Plastic, Reconstructive and Aesthetic Surgery at the University Medical Center Hamburg-Eppendorf. Data collection took place between April and October 2022. To measure probable depression, the patient health questionnaire-9 was used. The generalized anxiety disorder-7 was used to quantify probable anxiety. Results: The prevalence of probable depression was 33.3% and it was 29.6% for probable anxiety. Multiple linear regressions showed that both more depressive symptoms and anxiety symptoms were significantly associated with younger age (beta = -0.16, p < 0.01; beta = -0.14, p < 0.01), being unemployed (e.g., full-time employed compared to unemployment: beta = -3.05, p < 0.05; beta = -2.69, p < 0.05), worse self-rated health (beta = -3.31, p < 0.001; beta = -1.88, p < 0.05), and having at least one chronic disease (beta = 3.71, p < 0.01; beta = 2.61, p < 0.05). Conclusions: Remarkably high prevalence rates were identified among transgender people. Furthermore, risk factors of poor mental health (e.g., unemployment or younger age) were identified-which can help to address transgender people at risk for poor mental health.",
+    "DOI": "10.3390/healthcare11050705",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on the prevalence and determinants of depressive and anxiety symptoms among transgender people.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on prevalence and determinants of depressive and anxiety symptoms among transgender people. It does not address interventions related to employment policies or directly measure outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the prevalence of depressive and anxiety symptoms among transgender people and does not meet the intervention criteria of employment-related policies or outcomes. It also lacks a control group and does not fall within the specified geographic scope or timeframe.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

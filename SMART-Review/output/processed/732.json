@@ -1,0 +1,33 @@
+{
+    "ArticleID": 732,
+    "Authors": "Finol, Octavio; Perdig\u00f3n, Antonio; L\u00f3pez, Vanesa; Carral\u00f3n, Sonia; Fraguas, David",
+    "Article Title": "Relaci\u00f3n entre empleo y bienestar emocional en personas con trastorno mental grave",
+    "Abstract": "Abstract: People with a diagnosis of severe mental disorder (SMD) have significantly higher unemployment rates than the general population. This is associated with a greater risk of social exclusion and marginalization, and favors the chronicity of personal and social difficulties. This observational study aims to assess the relationship between employment and subjective emotional state in people with a SMD diagnosis. The study included 744 participants (304 with a SMD diagnosis who were users of psychosocial rehabilitation resources, 168 with a SMD diagnosis with supported employment, and 272 people without diagnosis of SMD with ordinary (non-supported) employment), with a mean age of 41.9 years and 50.1% women. Out of the 744 participants, 577 (77.6%) had an employment (409 (60.9%) ordinary employment and 168 (29.1%) supported employment), 244 (32.8%) reported that they have a diagnosis of psychosis and 400 (53.8%) that they have a recognized disability. People with an employment had better subjective psychological well-being values than people without an employment (p=0.013), regardless of diagnosis or disability. There were no significant differences in subjective psychological well-being between people with ordinary employment and people with supported employment (p=0.687). In conclusion, people with a paid employment had higher subjective psychological well-being than people without an employment, regardless of diagnosis, disability or whether the employment was ordinary or supported.",
+    "DOI": "10.4321/s0211-57352021000200006",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU and within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically job search services, adult training, wage subsidies, supported employment) or outcomes (employment or labor results).",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is an observational study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational and lacks a control group.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

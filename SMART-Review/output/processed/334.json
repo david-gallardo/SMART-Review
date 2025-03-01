@@ -1,0 +1,33 @@
+{
+    "ArticleID": 334,
+    "Authors": "Boer, Suzanne; Dekkers, Olaf M.; le Cessie, Saskia; Carlier, Ingrid V. E.; van Hemert, Albert M.",
+    "Article Title": "Prediction of prolonged treatment course for depressive and anxiety disorders in an outpatient setting: The Leiden routine outcome monitoring study",
+    "Abstract": "Objective: The aim of this study was to improve clinical identification of patients with a prolonged treatment course for depressive and anxiety disorders early in treatment.Method: We conducted a cohort study in 1.225 adult patients with a depressive or anxiety disorders in psychiatric specialty care setting between 2007 and 2011, with at least two Brief Symptom Inventory (BSI) assessments within 6 months. With logistic regression, we modelled baseline age, gender, ethnicity, education, marital status, housing situation, employment status, psychiatric comorbidity and both baseline and 1st follow-up BSI scores to predict prolonged treatment course (> 2 years). Based on the regression coefficients, we present an easy to use risk prediction score.Results: BSI at 1st follow-up proved to be a strong predictor for both depressive and anxiety disorders (OR=2.17 (CI95% 1.73-2.74); OR=2.52 (CI95% 1.86-3.23)). The final risk prediction score included BSI 1st follow-up and comorbid axis II disorder for depressive disorder, for anxiety disorders BSI 1st follow-up and age were included. For depressive disorders, for 28% of the patients with the highest scores, the positive predictive value for a prolonged treatment course was60% (sensitivity 0.38, specificity 0.81). For anxiety disorders, for 35% of the patients with the highest scores, the positive predictive value for a prolonged treatment course was 52% (sensitivity 0.55, specificity 0.75).Conclusions: A high level of symptoms at 2-6 months of follow-up is a strong predictor for prolonged treatment course. This facilitates early identification of patients at risk of a prolonged course of treatment; in a relatively easy way by a self-assessed symptom severity.",
+    "DOI": "10.1016/j.jad.2018.12.035",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment and labor outcomes. It focuses on predicting the prolonged treatment course for depressive and anxiety disorders in an outpatient setting.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on predicting prolonged treatment courses in depressive and anxiety disorders, not on employment outcomes for people with mental health disorders.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

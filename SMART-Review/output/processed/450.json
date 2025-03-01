@@ -1,0 +1,33 @@
+{
+    "ArticleID": 450,
+    "Authors": "Juurlink, T. T.; Lamers, F.; van Marle, H. J. F.; Michon, H.; van Busschbach, J. T.; Beekman, A. T. F.; Anema, J. R.",
+    "Article Title": "Employment in Personality Disorders and the Effectiveness of Individual Placement and Support: Outcomes from a Secondary Data Analysis",
+    "Abstract": "PurposePersonality disorders (PDs) are associated with severe functional impairment and subsequent high societal costs, increasing the need to improve occupational functioning in PD. Individual placement and support (IPS) is an effective, evidence-based method of supported employment, which so far has been tested in various mixed patient populations with severe mental illness (SMI, including PDs). However, the effectiveness of IPS for PDs per se remains uninvestigated.MethodsData from the SCION trial were used, including 31 SMI patients with PDs and 115 SMI patients with other primary diagnoses (primarily psychotic disorders). First, the interaction effect of diagnosis (PD vs other SMI) and intervention (IPS vs traditional vocational rehabilitation) was studied. Second, in the IPS condition, difference between diagnostic groups in time to first job was studied.ResultsWe did not find evidence of a moderating effect of PD diagnosis on the primary effect of IPS (proportion who started in regular employment) (OR = 0.592, 95% CI 0.80-4.350, p = 0.606) after 30 months. Also, PD diagnosis did not moderate the effect of time until first job in IPS.ConclusionsFrom the present explorative analysis we did not find evidence for a moderating effect of PD diagnosis on the effectiveness of IPS among PD participants. This indicates that IPS could be as effective in gaining employment in participants with PD as it is in participants with other SMI. Future studies, implementing larger numbers, should confirm whether IPS is equally effective in PDs and study whether augmentations or alterations to the standard IPS model might be beneficiary for PD.",
+    "DOI": "10.1007/s10926-019-09868-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary data analysis of the SCION trial, which is a controlled trial. The study includes a control group and examines the effectiveness of Individual Placement and Support (IPS) for people with mental health disorders, specifically those with personality disorders.",
+            "study_design": "Secondary data analysis of a controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it focuses on personality disorders (PDs) which are not explicitly categorized as mental disorders in the specified inclusion criteria. The study also lacks a control group and does not provide outcomes related to employment or labor results.",
+            "study_design": "Secondary Data Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Personality Disorders (PDs) and not on mental health disorders in general. The study also does not include job search services, adult training, wage subsidies, or supported employment interventions as specified in the inclusion criteria.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The article is an RCT that evaluates supported employment (IPS) for people with personality disorders, focusing on employment outcomes in the EU.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

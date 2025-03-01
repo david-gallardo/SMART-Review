@@ -1,0 +1,33 @@
+{
+    "ArticleID": 463,
+    "Authors": "Santini, Ziggi Ivan; Stougaard, Sarah; Koyanagi, Ai; Ersboll, Annette Kjaer; Nielsen, Line; Hinrichsen, Carsten; Madsen, Katrine R.; Meilstrup, Charlotte; Stewart-Brown, Sarah; Koushede, Vibeke",
+    "Article Title": "Predictors of high and low mental well-being and common mental disorders: findings from a Danish population-based study",
+    "Abstract": "Background: Mental well-being is fundamental for a good life. Previous literature has examined the predictors of mental disorders and continuous measures of positive mental health. Very few studies have specifically focused on the predictors of different levels of mental well-being, but those that have suggest a different picture. This study aimed to compare socioeconomic and relational/recreational behaviour predictors of different levels of mental well-being as well as common mental disorders (CMDs). Methods: Data from 3508 adults aged 16+ years old from the Danish Mental Health and Well-Being Survey 2016 were linked to Danish national register-based data. Mental well-being was assessed using the Warwick-Edinburgh Mental Well-being Scale, and information on CMDs was assessed using the Patient Health Questionnaire (PHQ-4). Regression analyses were conducted to estimate the predictors of low and high mental well-being compared to moderate mental well-being and also of CMDs. Results: Lower socioeconomic position (education, income and employment status) was associated with increased odds of low mental well-being and the presence of CMDs, but did not significantly predict high mental well-being. Relational/recreational behaviours (informal and formal social participation, social support and recreational activity) were associated with reduced odds of low mental well-being and CMDs, and also with increased odds of high mental well-being. Conclusions: Socioeconomic predictors of high mental well-being do not mirror those of low mental well-being and CMDs, whereas relational/recreational predictors of high mental well-being do mirror those of low mental well-being and CMDs. These findings have important implications for public mental health strategies.",
+    "DOI": "10.1093/eurpub/ckaa021",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on predictors of mental well-being and common mental disorders.",
+            "study_design": "Regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on predictors of mental well-being rather than outcomes such as employment rates or job retention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on predictors of mental well-being and common mental disorders, not on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Population-based survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

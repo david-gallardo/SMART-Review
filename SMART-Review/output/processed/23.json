@@ -1,0 +1,33 @@
+{
+    "ArticleID": 23,
+    "Authors": "Dutheil, Frederic; Naughton, Geraldine; Sindyga, Patricia; Lesage, Francois-Xavier",
+    "Article Title": "Ill Health-Related Job Loss: A One-Year Follow-Up of 54,026 Employees",
+    "Abstract": "Introduction:The diagnoses of workers being unfit to work may be a relevant health indicator. Therefore, the aim of this study was to analyze the one-year incidence of an unfit to work diagnosis.Method:This one-year prospective study included all workers undergoing annual work medical examination from occupational health services in Troyes, France.Results:Twenty-one occupational physicians followed 54,026 employees. The all-cause incidence of being unfit to return to work was 0.772%. The two main causes of being unfit to work were musculoskeletal disorders (61%) and psychopathologies (24%). The relative risk (RR) of being unfit to work, independent of the cause, was higher when employees were aged over 50 years (RR=2.51), and female (RR=1.51).Conclusions:Prospective results from occupational physicians' medical records may provide significant and cost-effective directions to prioritize actions and target health promotion in the workplace.",
+    "DOI": "10.1097/JOM.0000000000000825",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Prospective study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). Additionally, the intervention and population criteria are not addressed.",
+            "study_design": "Prospective observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on the incidence of being unfit to work due to health reasons.",
+            "study_design": "Prospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, it lacks a control group for rigorous evaluation.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 866,
+    "Authors": "Charzynska, Katarzyna; Kucharska, Katarzyna; Mortimer, Ann",
+    "Article Title": "DOES EMPLOYMENT PROMOTE THE PROCESS OF RECOVERY FROM SCHIZOPHRENIA? A REVIEW OF THE EXISTING EVIDENCE",
+    "Abstract": "The aim of this review is to appraise current evidence on the association between employment and specific, non-vocational components that are indicators of recovery from schizophrenia, such as symptom remission, neurocognitive functioning, social cognitive functioning, and quality of life. Out of 754 studies identified in a comprehensive bibliographical data search, 43 were selected for abstract screening and 18 were included in the final review. The studies were categorized in terms of the type of employment investigated (supported employment, Individual Placement and Support, competitive employment). Studies on the Individual Placement and Support programs provide the strongest evidence for their effectiveness in terms of non-vocational outcomes. Quality of life, psychopathology and well being were the most frequently investigated outcomes and only 2 studies utilized a global concept of recovery as a measure. Employment was also associated with positive changes in domains that are not directly related to working, e.g., leisure activities. The current review reports promising, but not conclusive, results in the improvement of quality of life, social functioning and other indicators of recovery, but there is still a need for high quality, long term follow-up, randomized studies to further investigate this relationship.",
+    "DOI": "10.13075/ijomeh.1896.00341",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on the association between employment and recovery from schizophrenia, and it includes a control group. The study is also within the specified timeframe (2005-2025) and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of existing evidence rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Review of existing evidence",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not primarily focus on employment or labor results such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

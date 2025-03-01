@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1252,
+    "Authors": "Gilson, Carly B.; Carter, Erik W.",
+    "Article Title": "Promoting Social Interactions and Job Independence for College Students with Autism or Intellectual Disability: A Pilot Study",
+    "Abstract": "The employment outcomes for young adults with autism or intellectual disability (ID) lag far behind those of their peers without disabilities. Most postsecondary education programs for students with disabilities incorporate internship experiences to foster employment skills. However, the proximity of job coaches may inadvertently hinder social opportunities and independence. We used a multiple-probe, single-case experimental design across three college students with autism or ID to examine the effects of a coaching package on task engagement and social interactions. For all participants, interactions increased and task engagement maintained when job coaches reduced proximity and delivered prompts discreetly through bug-in-ear devices. Participants considered the intervention beneficial and unobtrusive. We present implications for supporting employment preparation within postsecondary education programs.",
+    "DOI": "10.1007/s10803-016-2894-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multiple-probe, single-case experimental design, which is not a type of study design that meets the inclusion criteria.",
+            "study_design": "single-case experimental design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on college students with autism or intellectual disability rather than people with mental disorders. Additionally, it lacks a control group and is not an RCT, meta-analysis, systematic review, or other rigorous evaluation method.",
+            "study_design": "Single-case experimental design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on college students with autism or intellectual disability, not specifically on people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Multiple-probe, single-case experimental design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a single-case experimental design, which does not meet the criteria for meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "single-case experimental design",
+            "logprobs": null
+        }
+    }
+}

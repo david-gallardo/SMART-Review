@@ -1,0 +1,33 @@
+{
+    "ArticleID": 766,
+    "Authors": "Leddy, Meaghan; Stefanovics, Elina; Rosenheck, Robert",
+    "Article Title": "Health and well-being of homeless veterans participating in transitional and supported employment: Six-month outcomes",
+    "Abstract": "Supported employment, specifically individual placement and support (IPS), improves competitive employment (CE) rates for individuals with serious mental illness, but has not shown greater improvement in non-vocational outcomes than other rehabilitation approaches. The Department of Veterans Affairs offers two types of vocational services, IPS and transitional work experience (TWE), but no study has compared the effectiveness of these approaches. This secondary analysis of data from a study of homeless veterans compared 6 mo improvement in diverse outcomes for five employment patterns: never worked, worked only in TWE, worked in TWE followed by CE, worked in CE without IPS, and worked in CE with IPS referral. Veterans referred to IPS were more likely to be competitively employed. Those who worked in CE (whether following TWE or with or without IPS referral) showed the greatest increase in days worked, employment income, and total income and the greatest decrease in public support income when compared with those who worked only in TWE or not at all. Veterans in TWE showed the greatest increase in residential treatment days, but there were no other differences in non-vocational outcomes between groups. There are multiple paths to CE, but few differences in non-vocational outcomes across employment experiences.",
+    "DOI": "10.1682/JRRD.2013.01.0011",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study also presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention of interest (job search services, adult training, wage subsidies, supported employment) and its outcomes within the specified geographic scope and timeframe. It focuses on homeless veterans participating in transitional and supported employment but lacks a control group or rigorous evaluation.",
+            "study_design": "Secondary analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless veterans and not specifically on people with mental health disorders in general. The intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment. The study also does not meet the specified timeframe of 2005-2025.",
+            "study_design": "Secondary analysis of data from a study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

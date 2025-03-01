@@ -1,0 +1,33 @@
+{
+    "ArticleID": 122,
+    "Authors": "Devine, Alexandra; Vaughan, Cathy; Kavanagh, Anne; Dickinson, Helen; Byars, Sean; Dimov, Stefanie; Gye, Bill; Brophy, Lisa",
+    "Article Title": "'I'm proud of how far I've come. I'm just ready to work': mental health recovery narratives within the context of Australia's Disability Employment Services",
+    "Abstract": "BackgroundEmployment is recognised as facilitating the personal and clinical recovery of people with psychosocial disability. Yet this group continue to experience considerable barriers to work, and, constitute a significant proportion of individuals engaged with Disability Employment Services (DES). Recognition of the role of recovery-oriented practice within DES remains limited, despite these approaches being widely promoted as best-practice within the field of mental health.MethodsThe Improving Disability Employment Study (IDES) aims to gather evidence on factors influencing employment outcomes for Australians with disability. Descriptive analysis and linear regression of IDES survey data from 369 DES participants, alongside narrative analysis of data collected through 56 in-depth interviews with 30 DES participants with psychosocial disability, allowed us to explore factors influencing mental health, well-being and personal recovery within the context of DES.ResultsPsychosocial disability was reported as the main disability by 48% of IDES respondents. These individuals had significantly lower scores on measures of mental health and well-being (44.9, 48.4 respectively, p <= 0.01), compared with respondents with other disability types (52.2, 54.3 p <= 0.01). Within this group, individuals currently employed had higher mental health and well-being scores than those not employed (47.5 vs 36.9, 55.5 vs 45.4 respectively, p <= 0.01). Building on these findings, our qualitative analysis identified five personal recovery narratives: 1) Recovery in spite of DES; 2) DES as a key actor in recovery; 3) DES playing a supporting role in fluctuating journeys of recovery; 4) Recovery undermined by DES; and, 5) Just surviving regardless of DES. Narratives were strongly influenced by participants' mental health and employment status, alongside the relationship with their DES worker, and, participants' perspectives on the effectiveness of services provided.ConclusionThese findings re-iterate the importance of work in supporting the mental health and well-being of people with psychosocial disability. Alongside access to secure and meaningful work, personal recovery was facilitated within the context of DES when frontline workers utilised approaches that align with recovery-orientated practices. However, these approaches were not consistently applied. Given the number of people with psychosocial disability moving through DES, encouraging greater consideration of recovery-oriented practice within DES and investment in building the capacity of frontline staff to utilise such practice is warranted.",
+    "DOI": "10.1186/s12889-020-8452-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU country of Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005 and 2025, meeting the inclusion criteria for timeframe. The intervention is job search services, adult training, wage subsidies, and supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation (RCTs or controlled trials) and does not present specific employment outcomes. It focuses on qualitative data and recovery narratives without providing quantitative measures of employment or labor results.",
+            "study_design": "Qualitative study with narrative analysis and descriptive statistics",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a qualitative analysis of narratives and interviews, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not meet the intervention criteria as it does not directly address employment interventions but rather discusses the role of DES in the recovery process.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Descriptive analysis and linear regression of survey data alongside narrative analysis",
+            "logprobs": null
+        }
+    }
+}

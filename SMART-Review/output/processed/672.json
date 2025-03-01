@@ -1,0 +1,33 @@
+{
+    "ArticleID": 672,
+    "Authors": "Ruesch, Nicolas; Nordt, Carlos; Kawohl, Wolfram; Brantschen, Elisabeth; Baertsch, Bettina; Mueller, Mario; Corrigan, Patrick W.; Roessler, Wulf",
+    "Article Title": "Work-Related Discrimination and Change in Self-Stigma Among People With Mental Illness During Supported Employment",
+    "Abstract": "Objective: The relationship of work-related discrimination to the change in self-stigma and stigma stress was assessed among supported employment participants in Switzerland. Methods: Self-stigma and the cognitive appraisal of mental illness stigma as a stressor were measured at baseline among supported employment participants (N5116). These variables and work-related discrimination in the past year were assessed one year later (N596). Results: Compared with participants who did not find employment (N530), those who worked without experiencing discrimination (N525) had lower levels of self-stigma and stigma stress at one year. Among those who worked and reported work-related discrimination (N538), these measures did not decrease significantly. Conclusions: Experiencing discrimination at work may determine whether employment has positive effects in terms of self-stigma and stigma stress among individuals with mental illness. Interventions to reduce discrimination in work settings and to improve coping resources of these individuals could augment the positive effects of supported employment.",
+    "DOI": "10.1176/appi.ps.201400073",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Switzerland, which falls within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study was published between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is supported employment, which meets the inclusion criteria. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria. The study presents measures of employment outcomes, meeting the inclusion criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes. It focuses on the relationship between work-related discrimination and self-stigma among supported employment participants in Switzerland.",
+            "study_design": "Cross-sectional follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work-related discrimination and its impact on self-stigma and stigma stress among supported employment participants, not directly on employment outcomes or interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Switzerland is not in EU, Europe, US, Canada, or Australia).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

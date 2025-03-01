@@ -1,0 +1,33 @@
+{
+    "ArticleID": 97,
+    "Authors": "Leathers, Sonya J.; Holtschneider, Casey; Ludington, Melissa; Ross, Ellen, V; Barnett, James L.",
+    "Article Title": "Mentoring, employment assistance, and enhanced staff outreach for older youth in care: Outcomes from a randomized controlled trial",
+    "Abstract": "Youth who exit out-of-home care to live on their own face high risks for homelessness, unemployment, and incarceration. Federal support for the extension of services after age 18 provides the opportunity to better support youth in early adulthood, but to fully realize this potential requires the development of services with demonstrated positive impacts. This study contributes to the limited methodologically strong research in this area in a randomized controlled trial examining the impact of job readiness training, mentoring, and enhanced outreach by a youth specialist in an urban sample of youth (N = 152, 82% Black). Youth were interviewed at baseline when they were 17-20 years old and 14 months later to assess youth outcomes including employment, school enrollment, delinquency, and depression. Those randomized to receive enhanced services all received regular outreach from a youth specialist and could choose to participate in a mentoring and job readiness programs. Although less than a third of eligible youth fully completed either formal program, youth in the enhanced services condition had significantly fewer arrests, lower delinquency, and increased hours of employment. These outcomes were unrelated to changes in social support needs, counter to expectations. Future research is needed to build on these findings and those from other programs with positive effects in other areas such as educational outcomes to create effective service systems for older youth in care.",
+    "DOI": "10.1016/j.childyouth.2023.107095",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT). The study also meets the geographic scope as it is conducted in the US. The intervention is job readiness training, mentoring, and enhanced outreach, which is relevant to employment. The population is youth with mental health problems, and the outcomes include employment rates.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address job search services, adult training, wage subsidies, or supported employment. The study focuses on mentoring, job readiness training, and enhanced outreach by a youth specialist, which do not align with the specified interventions.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly stated to have mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

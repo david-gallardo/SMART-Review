@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1148,
+    "Authors": "Blajeski, Shannon M.; Smith, Matthew J.; Harrington, Meghan M.; Johnson, Jeffrey M.; Oulvey, Eugene A.; Mueser, Kim T.; McGurk, Susan R.; Razzano, Lisa A.",
+    "Article Title": "Critical Elements in the Experience of Virtual Reality Job Interview Training for Unemployed Individuals With Serious Mental Illness: Implications for IPS Supported Employment",
+    "Abstract": "Objective: Individuals with serious mental illness (SMI) who re-enter the labor market after extended unemployment may benefit from exposure to job interview training. This study explored the processes and perceived benefits of preparing for interviews using Virtual Reality Job Interviewing Training (VR-JIT) among employment specialists (ESs) and clients within the individual placement and support (IPS) model of supported employment. Method: This study analyzed secondary qualitative data from a randomized controlled trial (RCT) of VR-JIT including qualitative focus groups comprised of IPS employment specialists (n = 11) and IPS clients (n = 13), semistructured interviews with IPS employment specialists (n = 3), and semistructured interviews with IPS clients (n = 3). Additionally, semistructured interviews with IPS employment specialists (n = 8) who naturalistically implemented VR-JIT at four community mental health agencies independent of the RCT. All focus group and interview data were analyzed using grounded theory methodology. Results: Three main processes were viewed by employment specialists (and their clients) as beneficial for individuals with SMI receiving IPS with VR-JIT: (a) exposure to a simulated interview in a safe environment; (b) practicing and receiving job interviewing feedback; and (c) improved confidence and motivation in job seeking. Conclusions and Implications for Practice: VR-JIT improved IPS participants' confidence in job seeking through proposed mechanisms of exposure to a simulated job interview and repetition and practice of job interview skills. These critical elements indicate that VR-JIT has the potential to improve IPS client engagement particularly with those who have had prolonged periods of unemployment.",
+    "DOI": "10.1037/prj0000574",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes employment outcomes such as job seeking confidence and motivation, which meets the outcome criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a rigorous evaluation with a control group. It does not meet the inclusion criteria for RCTs or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative analysis of secondary data from an RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Virtual Reality Job Interview Training (VR-JIT) for individuals with serious mental illness (SMI) and does not directly address employment interventions or outcomes for people with mental health disorders in the context of active employment policies. The study's intervention is not among the specified interventions in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for individuals with serious mental illness in the US.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

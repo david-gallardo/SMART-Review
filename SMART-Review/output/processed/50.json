@@ -1,0 +1,33 @@
+{
+    "ArticleID": 50,
+    "Authors": "Devine, Alexandra; Vaughan, Cathy; Kavanagh, Anne",
+    "Article Title": "If I had stable housing I would be a bit more receptive to having a job. Factors influencing the effectiveness of Disability Employment Services reform",
+    "Abstract": "BACKGROUND: Continual reforms of the Australian Disability Employment Services (DES) program aim to improve employment outcomes for people with disabilities, including people with a psychosocial disability who experience high levels of unemployment.OBJECTIVE: To understand contextual factors in the lives of DES participants with a psychosocial disability that influence their engagement with and potential benefits from the DES program in the context of the 2018 reforms.METHODS: Thematic analysis of 30 qualitative interviews with DES participants with a psychosocial disability was conducted as part of the Improving Disability Employment Study between November 2017 to October 2018.RESULTS: Findings highlight diverse life challenges experienced by DES participants including disrupted education, inadequate access to mental and general health services, and financial and housing insecurity.CONCLUSIONS: The life circumstances of DES participants with a psychosocial disability are often complex and undermine their engagement with employment services and access to labour markets. Despite considerable investment in ongoing reforms, these circumstances continue to undermine the effectiveness of the DES program.",
+    "DOI": "10.3233/WOR-203130",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a qualitative analysis of 30 interviews, which does not meet the inclusion criteria of a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Qualitative analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (thematic analysis) and lacks a rigorous evaluation or control group. It also does not directly address employment outcomes within the specified timeframe.",
+            "study_design": "Qualitative thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the Australian Disability Employment Services (DES) program, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Thematic analysis of qualitative interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        }
+    }
+}

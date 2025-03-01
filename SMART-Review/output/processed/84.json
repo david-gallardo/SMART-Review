@@ -1,0 +1,33 @@
+{
+    "ArticleID": 84,
+    "Authors": "Arena, Andrew F.; Mobbs, Sophia; Sanatkar, Samineh; Williams, Douglas; Collins, Daniel; Harris, Marnie; Harvey, Samuel B.; Deady, Mark",
+    "Article Title": "Mental health and unemployment: A systematic review and meta-analysis of interventions to improve depression and anxiety outcomes",
+    "Abstract": "Background: Unemployment is associated with substantially greater depression and anxiety, constituting a considerable public health concern. The current review provides the most comprehensive synthesis to date, and first meta-analysis, of controlled intervention trials aimed at improving depression and anxiety outcomes during unemployment.Methods: Searches were conducted within PsycInfo, Cochrane Central, PubMed and Embase from their inception to September 2022. Included studies conducted controlled trials of interventions focused on improving mental health within unemployed samples, and reported on validated measures of depression, anxiety, or distress (mixed depression and anxiety). Narrative syntheses and random effects meta-analyses were conducted among pre- vention-and treatment-level interventions for each outcome.Results: A total of 39 articles reporting on 33 studies were included for review (sample sizes ranging from 21 to 1801). Both prevention and treatment interventions tended to be effective overall, with treatment interventions producing larger effect sizes than prevention interventions. The clearest evidence for particular intervention approaches emerged for prevention-level Cognitive Therapy/CBT, followed by prevention-level work-related interventions, although neither produced entirely consistent effects.Limitations: Risk of bias was generally high across studies. Low numbers of studies within subgroups precluded any comparisons between long-term and short-term unemployment, limited comparisons among treatment studies, and reduced the power of meta-analyses.Conclusions: Both prevention-and treatment-level mental health-focused interventions have merit for reducing symptoms of anxiety and depression among those experiencing unemployment. Cognitive Therapy/CBT and work-related interventions hold the most robust evidence base, which can inform both prevention and treatment strategies implemented by clinicians, employment services providers, and governments.",
+    "DOI": "10.1016/j.jad.2023.05.027",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis of controlled trials, which meets the inclusion criteria. The study also includes interventions focused on improving depression and anxiety outcomes during unemployment, which aligns with the population and intervention criteria.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (systematic review and meta-analysis), geographic scope (EU countries, Europe), timeframe (2005-2025), intervention (Cognitive Therapy/CBT, work-related interventions), population (unemployed samples with mental health issues), and outcomes (depression and anxiety).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and mental health outcomes, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not include measures of employment or labor results.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

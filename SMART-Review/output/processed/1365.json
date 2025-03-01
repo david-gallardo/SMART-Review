@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1365,
+    "Authors": "Aubry, Tim; Duhoux, Arnaud; Klodawsky, Fran; Ecker, John; Hay, Elizabeth",
+    "Article Title": "A Longitudinal Study of Predictors of Housing Stability, Housing Quality, and Mental Health Functioning Among Single Homeless Individuals Staying in Emergency Shelters",
+    "Abstract": "The current study examined risk and resilience factors at multiple levels that affect homeless individuals' ability to exit homelessness and achieve housing stability. It also examined the relationship between housing status, housing quality and mental health functioning. The methodology is a longitudinal study of single homeless individuals staying in emergency shelters in a medium-sized Canadian city who were followed for a 2 year period. Data were collected from participants at a baseline interview when they were homeless and at a 2-year follow-up. There were 329 participants interviewed at baseline and 197 (59.9%) participants interviewed at follow-up. Results from a structural equation modelling analysis found that having interpersonal and community resources were predictive of achieving housing stability. Specifically, having a larger social support network, access to subsidized housing, and greater income was related to achieving housing stability. On the other hand, having a substance use problem was a risk factor associated with a failure to achieving housing stability. Being female, feeling personally empowered, having housing that is perceived of being of higher quality were directly predictive of mental health functioning at follow-up. Findings are discussed in the context of previous research and their policy implications.",
+    "DOI": "10.1002/ajcp.12067",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on housing stability, housing quality, and mental health functioning.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on predictors of housing stability and mental health functioning among homeless individuals.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless individuals, not specifically on people with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

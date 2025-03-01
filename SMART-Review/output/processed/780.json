@@ -1,0 +1,33 @@
+{
+    "ArticleID": 780,
+    "Authors": "Rodr\u00edguez Pulido, Francisco; Caballero Estebaranz, Nayra; Tallo Aldana, Elena; M\u00e9ndez Abad, Manuel E; Hern\u00e1ndez \u00c1lvarez-Sotomayor, M Carmen; L\u00f3pez Reig, Susana; V\u00edlchez de Le\u00f3n, Patricia In\u00e9s; Gonz\u00e1lez-D\u00e1vila, Enrique",
+    "Article Title": "Efectividad de una estrategia de apoyo individualizado al empleo para personas con trastornos mentales graves",
+    "Abstract": "Abstract Objective To assess the effectiveness of an individual placement and support (IPS) strategy in people with severe mental disorders in Tenerife Island (Spain). Methods Patients of Community Mental Health Services with severe mental disorders were randomly assigned to two groups. One of them received IPS (n=124), and the control group (n=75) was advised in the usual job search. Patients were followed up for an average of 3.4 years and an analysis was made of how many patients worked at least one day, working hours, wages, the number of contracts and the number of hospital admissions. Non-parametric methods were used to compare the results (Mann-Whitney U test). Results The percentage of patients who worked at least one day was 99% in the IPS group compared with 75% in the control group; they worked on average 30.1 weeks per year vs 7.4; the monthly salary was \u20ac 777.9 vs \u20ac 599.9; the number of contracts per person was 3.89 vs 4.85, and hospital admissions were 0.19 vs 2.1. Conclusions The IPS strategy is effective for the labour integration of people with severe mental illness getting them to work longer, have higher wages and fewer hospital admissions.",
+    "DOI": "10.1016/j.gaceta.2017.05.004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focuses on employment outcomes for people with mental health disorders, and was published within the specified timeframe.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not from the specified geographic scope (EU countries, Europe, US, Canada, Australia). It is conducted in Spain.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focuses on adult training as an intervention, and is conducted in the EU (Spain). It also covers the timeframe and population specified.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in Spain (EU country) within the specified timeframe. It evaluates an employment intervention (IPS) for people with severe mental disorders and reports on employment outcomes such as employment rates, job duration, wages, and hospital admissions.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

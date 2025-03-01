@@ -1,0 +1,33 @@
+{
+    "ArticleID": 28,
+    "Authors": "Joyce, S.; Modini, M.; Christensen, H.; Mykletun, A.; Bryant, R.; Mitchell, P. B.; Harvey, S. B.",
+    "Article Title": "Workplace interventions for common mental disorders: a systematic meta-review",
+    "Abstract": "Depression and anxiety disorders are the leading cause of sickness absence and long-term work incapacity in most developed countries. The present study aimed to carry out a systematic meta-review examining the effectiveness of workplace mental health interventions, defined as any intervention that a workplace may either initiate or facilitate that aims to prevent, treat or rehabilitate a worker with a diagnosis of depression, anxiety or both. Relevant reviews were identified via a detailed systematic search of academic and grey literature databases. All articles were subjected to a rigorous quality appraisal using the AMSTAR assessment. Of the 5179 articles identified, 140 studies met the inclusion criteria, of which 20 were deemed to be of moderate or high quality. Together, these reviews analysed 481 primary research studies. Moderate evidence was identified for two primary prevention interventions; enhancing employee control and promoting physical activity. Stronger evidence was found for CBT-based stress management although less evidence was found for other secondary prevention interventions, such as counselling. Strong evidence was also found against the routine use of debriefing following trauma. Tertiary interventions with a specific focus on work, such as exposure therapy and CBT-based and problem-focused return-to-work programmes, had a strong evidence base for improving symptomology and a moderate evidence base for improving occupational outcomes. Overall, these findings demonstrate there are empirically supported interventions that workplaces can utilize to aid in the prevention of common mental illness as well as facilitating the recovery of employees diagnosed with depression and/or anxiety.",
+    "DOI": "10.1017/S0033291715002408",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic meta-review, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is workplace interventions for common mental disorders, which meets the inclusion criteria. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic meta-review rather than a meta-analysis, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic meta-review, not a primary study or RCT, and does not focus on interventions but on the effectiveness of interventions.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "systematic meta-review",
+            "logprobs": null
+        }
+    }
+}

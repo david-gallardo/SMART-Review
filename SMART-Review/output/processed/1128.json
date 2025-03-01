@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1128,
+    "Authors": "Thekkumkara, Sreekanth; Rawat, Vikram Singh; Jagannathan, Aarti; Muliyala, Krishna Prasad",
+    "Article Title": "Vocational rehabilitation in persons with mental illness in India: A scoping review",
+    "Abstract": "Background: Employment has a therapeutic impact, enhances community integration and improves the quality of life of persons with mental illness (PwMI). Vocational rehabilitation (VR) models must be sensitive to existing needs and resources. Several VR models have been tested in high income countries. Mapping different VR models in India would help both practitioners and policymakers. Aim: The study aimed to comprehensively review VR models tested among PwMI in India. Methods: We adhered to the Preferred Reporting Items for Systematic Reviews extension for Scoping Reviews. We included interventional studies, case studies and grey literature carried out for the VR of PwMI in India. The search was done in PubMed, PsychInfo, worldwide science and Web of Science. Google Scholar was used to supplement the search. A Boolean search using MeSH terms was carried out for the period January 2000 to December 2022. Results: A total of twelve studies (one feasibility study, four case studies, four institute-based intervention studies and two studies reporting NGOs' role) were included in the final synthesis. The studies included in the review were either quasi-experimental studies or case based. Types of VR included supported employment or place and train or train and place models, case management and prevocational skills training. Conclusion: Limited studies exist on VR in PwMI from India. Most studies assessed a restricted set of outcomes. The experiences of NGOs should be published so that practical challenges can be understood. There is a need for public-private partnerships in designing and testing services and should involve all the stakeholders.",
+    "DOI": "10.1177/00207640231183920",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design includes case studies and feasibility studies without a control group, which does not meet the inclusion criteria. Additionally, the geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Scoping review with case studies and feasibility studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the specified inclusion criteria. It is not a systematic review or meta-analysis, and it does not include a control group. The study's focus is on vocational rehabilitation in India, not specifically on active employment policies for people with mental health disorders in the specified geographic scope.",
+            "study_design": "quasi-experimental studies or case studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (India).",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

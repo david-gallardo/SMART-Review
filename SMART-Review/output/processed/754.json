@@ -1,0 +1,33 @@
+{
+    "ArticleID": 754,
+    "Authors": "LePage, James P.; Crawford, April M.; Cipher, Daisha J.; Anderson, Kemol; Rock, Avery; Johnson, Julie A. Parish; Washington, Edward L.; Ottomanelli, Lisa",
+    "Article Title": "Blending Traditional Vocational Services and Individualized Placement and Support for Formerly Incarcerated Veterans",
+    "Abstract": "Objective: This study compared two vocational programs: the About Face Vocational Program (AFVP), a traditional group-based vocational program created for formerly incarcerated veterans, and a hybrid program combining the AFVP with principles of individual placement and support-supported employment.Methods: The study evaluated 111 veterans with at least one felony conviction who had a mental illness, substance use disorder, or both. Veterans were randomly assigned to either vocational condition.Results: Veterans in the hybrid condition, compared with the AFVP alone, were more likely to find employment, had higher rates of full-time employment, and earned significantly more money over the course of the study. A comparison of only participants who found employment showed higher rates of full-time employment for veterans in the hybrid condition but similarities between the two groups in other measures of employment success.Conclusions: Blended models of vocational services for veterans with mental illness, substance use disorders, or both are effective at returning formerly incarcerated veterans to competitive employment.",
+    "DOI": "10.1176/appi.ps.201900421",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also has a control group and evaluates employment outcomes, meeting the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on formerly incarcerated veterans and does not specifically address people with mental health disorders as defined in the inclusion criteria. Additionally, while it evaluates employment outcomes, the population is not strictly limited to individuals with documented mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on formerly incarcerated veterans with mental health issues or substance use disorders, which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on the US, was published within the specified timeframe, evaluates a supported employment intervention, targets individuals with mental health problems, and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

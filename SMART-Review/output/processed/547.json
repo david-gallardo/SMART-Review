@@ -1,0 +1,33 @@
+{
+    "ArticleID": 547,
+    "Authors": "Lecomte, Tania; Corbiere, Marc; Giguere, Charles-Edouard; Titone, Debra; Lysaker, Paul",
+    "Article Title": "Group cognitive behaviour therapy for supported employment - Results of a randomized controlled cohort trial",
+    "Abstract": "The merging of evidence-based interventions with supported employment programs are being increasingly studied, with encouraging results. The current study is aimed at determining the impact of a brief cognitive behaviour therapy group intervention adapted for supported employment programs (called CBT-SE) on the work outcomes of: obtaining a competitive job, number of weeks worked, and number of hours worked per week. Participants were randomized to either receive the 8-session CBT-SE group on top of their supported employment program, or to only receive their support employment program. The results show that those who received CBT-SE were significantly more likely to obtain a job (75% vs 58%), and worked a significantly greater number of hours (24 vs 18 hours per week). No differences were found in terms of number of weeks worked. Those in the CBT-SE condition also experienced a significant decrease in their negative symptoms over time, compared to the control condition. Although replication is needed, these results suggest that a brief cognitive-behavioural intervention specifically tailored to work-related issues can be greatly beneficial. (C) 2019 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2019.10.063",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country), timeframe (2005-2025), intervention (supported employment with cognitive behavior therapy), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized controlled trial (RCT) that meets the intervention criteria and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment as an intervention, includes people with mental health disorders, and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

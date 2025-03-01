@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1089,
+    "Authors": "Fleischhacker, W. Wolfgang; Arango, Celso; Arteel, Paul; Barnes, Thomas R. E.; Carpenter, William; Duckworth, Ken; Galderisi, Silvana; Halpern, Lisa; Knapp, Martin; Marder, Stephen R.; Moller, Mary; Sartorius, Norman; Woodruff, Peter",
+    "Article Title": "Schizophrenia-Time to Commit to Policy Change",
+    "Abstract": "Care and outcomes for people with schizophrenia have improved in recent years, but further progress is needed to help more individuals achieve an independent and fulfilled life. This report sets out the current need, informs policy makers and all relevant stakeholders who influence care quality, and supports their commitment to creating a better future. The authors recommend the following policy actions, based on research evidence, stakeholder consultation, and examples of best practice worldwide. (1) Provide an evidence-based, integrated care package for people with schizophrenia that addresses their mental and physical health needs. (2) Provide support for people with schizophrenia to enter and to remain in their community, and develop mechanisms to help guide them through the complex benefit and employment systems. (3) Provide concrete support, information, and educational programs to families and carers on how to enhance care for an individual living with schizophrenia in a manner that entails minimal disruption to their lives. (4) All stakeholders, including organizations that support people living with schizophrenia, should be consulted to regularly revise, update, and improve policy on the management of schizophrenia. (5) Provide support, which is proportionate to the impact of the disease, for research and development of new treatments. (6) Establish adequately funded, ongoing, and regular awareness-raising campaigns that form an integral part of routine plans of action. Implementation of the above recommendations will require engagement by every stakeholder, but with commitment from all, change can be achieved.",
+    "DOI": "10.1093/schbul/sbu006",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation and does not include a control group. It also does not present specific interventions related to job search services, adult training, wage subsidies, or supported employment. The outcomes discussed are not focused on employment or labor results.",
+            "study_design": "Policy recommendations report without rigorous evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on schizoppheria, not mental health disorders in general, and does not specifically address employment interventions.",
+            "study_design": "report",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not present measures of employment or labor results and does not directly address employment interventions.",
+            "study_design": "Policy report",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1337,
+    "Authors": "Ow, Nikki; Marchand, Kirsten; Glowacki, Krista; Alqutub, Diana; Mathias, Steve; Barbic, Skye P.",
+    "Article Title": "YESS: A feasibility study of a supported employment program for youths with mental health disorders",
+    "Abstract": "ObjectiveIn Canada, employment/education support is rarely embedded as a component of mental health service delivery. This study describes a supported education/employment program (SEP) that integrates both clinical and community mental health services. The main objectives were to estimate the feasibility of a 5-week SEP among youths aged 17-24 with mental illness and to estimate the extent to which participation in this program improved employment and mental health outcomes. MethodsThis was a single cohort study. Feasibility outcomes assessed were demand, acceptability, practicality, integration, adaptation, and effectiveness. These were assessed through recruitment and retention rates, recording patterns of missing data, and examining differences between completers and non-completers. Appropriateness of the outcome measures was assessed through the strength of the association between the outcome measures at baseline. Effectiveness of the program was assessed through employment and as measured using MyLifetracker (MLT), Satisfaction with Life Scale (SWLS), and the Canadian Personal Recovery Outcome Measure (CPROM). ResultsA total of 110 youths with a mean age of 20.6 (SD: 2.2) were recruited. At 5 weeks, 82 (74.5%) of participants remained in the program. Of the people who completed the program, 56.1% were women, 76.6% were in stable housing and 64.1% had depression. Approximately 60% of non-completers used two or more services and were in at-risk housing. More than 25% of participants improved on the patient-reported outcomes. Scores on these measures were moderately to highly correlated with each other. Employment rates varied and corresponded to the waves of the COVID-19 pandemic in Canada. ConclusionResults showed that this program was feasible and there was high demand for SEP during the COVID-19 pandemic but gaining employment remained difficult. Educational or employment outcomes, measured over a short period, may not be adequate. Instead, individualized and patient-reported outcome measures may be more appropriate for SEP programs.",
+    "DOI": "10.3389/fpsyt.2022.856905",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a single cohort study with a control group (completers vs. non-completers), which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is a supported employment program for youths with mental health disorders, which meets the inclusion criteria. The population is people with mental health disorders, and the outcomes include employment and labor results.",
+            "study_design": "single cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a single cohort study without a control group.",
+            "study_design": "Single cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a feasibility study, not a systematic review or RCT, and it does not include a control group.",
+            "study_design": "feasibility study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a single cohort study without a control group.",
+            "study_design": "Single cohort study",
+            "logprobs": null
+        }
+    }
+}

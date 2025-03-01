@@ -1,0 +1,33 @@
+{
+    "ArticleID": 165,
+    "Authors": "Wolvetang, Sjors; van Dongen, Johanna Maria; Spekle, Erwin; Coenen, Pieter; Schaafsma, Frederieke",
+    "Article Title": "Sick Leave Due to Stress, What are the Costs for Dutch Employers?",
+    "Abstract": "Purpose Stress-related illnesses are prevalent in Western society, causing sick leave and putting a heavy economic burden on employers and society. For Dutch employers it is particularly relevant to have insight into the costs of absenteeism due to stress-related illness, as they are legally obligated to continue payment of wages. Therefore, this study assessed the duration and costs of an episode of sick leave due to stress-related illness for Dutch employers. Methods Data on sick leave due to various stress-related illnesses were obtained from a nationwide occupational health service database. Stress-related illnesses included tension complaints, burn-out, overexertion, and other reactions to stress. The duration per sick leave episode was estimated in working days, after which the average cost per sick leave period was estimated using age- and gender-specific price weights. Results During the study period, 16,676 employees took 17,338 episodes of sick leave due to stress-related illness. On average, one episode of sick leave lasted 101 working days, for which the costs for the employer were on average euro19,151 per worker. Women were responsible for most episodes of sick leave and were on average 37 days more absent per episode compared to men. Moreover, of all kinds of stress-related illnesses, burn-out had the longest duration of sick leave with 313 calendar days and 163 working days, resulting in an average cost of euro30,770. Conclusions Sick leave due to stress-related illness places a heavy burden on employers and thus society. Further research should be conducted on how to reduce this burden.",
+    "DOI": "10.1007/s10926-022-10042-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a descriptive analysis of data from a nationwide occupational health service database, without a comparison group.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the costs and duration of sick leave due to stress-related illnesses for Dutch employers.",
+            "study_design": "Cross-sectional analysis using data from a nationwide occupational health service database.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

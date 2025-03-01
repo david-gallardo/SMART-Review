@@ -1,0 +1,33 @@
+{
+    "ArticleID": 321,
+    "Authors": "Barbalat, Guillaume; Plasse, Julien; Chereau-Boudet, Isabelle; Gouache, Benjamin; Legros-Lafarge, Emilie; Massoubre, Catherine; Guillard-Bouhet, Nathalie; Haesebaert, Frederic; Franck, Nicolas",
+    "Article Title": "Contribution of socio-demographic and clinical characteristics to predict initial referrals to psychosocial interventions in patients with serious mental illness",
+    "Abstract": "Aims Psychosocial rehabilitation (PSR) is at the core of psychiatric recovery. There is a paucity of evidence regarding how the needs and characteristics of patients guide clinical decisions to refer to PSR interventions. Here, we used explainable machine learning methods to determine how socio-demographic and clinical characteristics contribute to initial referrals to PSR interventions in patients with serious mental illness.Methods Data were extracted from the French network of rehabilitation centres, REHABase, collected between years 2016 and 2022 and analysed between February and September 2022. Participants presented with serious mental illnesses, including schizophrenia spectrum disorders, bipolar disorders, autism spectrum disorders, depressive disorders, anxiety disorders and personality disorders. Information from 37 socio-demographic and clinical variables was extracted at baseline and used as potential predictors. Several machine learning models were tested to predict initial referrals to four PSR interventions: cognitive behavioural therapy (CBT), cognitive remediation (CR), psychoeducation (PE) and vocational training (VT). Explanatory power of predictors was determined using the artificial intelligence-based SHAP (SHapley Additive exPlanations) method from the best performing algorithm.Results Data from a total of 1146 patients were included (mean age, 33.2 years [range, 16-72 years]; 366 [39.2%] women). A random forest algorithm demonstrated the best predictive performance, with a moderate or average predictive accuracy [micro-averaged area under the receiver operating curve from 'external' cross-validation: 0.672]. SHAP dependence plots demonstrated insightful associations between socio-demographic and clinical predictors and referrals to PSR programmes. For instance, patients with psychotic disorders were more likely to be referred to PE and CR, while those with non-psychotic disorders were more likely to be referred to CBT and VT. Likewise, patients with social dysfunctions and lack of educational attainment were more likely to be referred to CR and VT, while those with better functioning and education were more likely to be referred to CBT and PE.Conclusions A combination of socio-demographic and clinical features was not sufficient to accurately predict initial referrals to four PSR programmes among a French network of rehabilitation centres. Referrals to PSR interventions may also involve service- and clinician-level factors. Considering socio-demographic and clinical predictors revealed disparities in referrals with respect to diagnoses, current clinical and psychological issues, functioning and education.",
+    "DOI": "10.1017/S2045796024000015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a data analysis of existing data from the REHABase network without a control group.",
+            "study_design": "Data analysis of existing data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on predicting referrals to psychosocial interventions for patients with serious mental illness.",
+            "study_design": "Machine learning model using a random forest algorithm and SHAP method",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria specified in the inclusion criteria. The study focuses on predicting referrals to psychosocial interventions, not directly on employment or labor outcomes.",
+            "study_design": "Random forest algorithm",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

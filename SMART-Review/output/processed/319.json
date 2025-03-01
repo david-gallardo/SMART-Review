@@ -1,0 +1,33 @@
+{
+    "ArticleID": 319,
+    "Authors": "De Angelis, Marco; Giusino, Davide; Nielsen, Karina; Aboagye, Emmanuel; Christensen, Marit; Innstrand, Siw Tone; Mazzetti, Greta; van den Heuvel, Machteld; Sijbom, Roy B. L.; Pelzer, Vince; Chiesa, Rita; Pietrantoni, Luca",
+    "Article Title": "H-WORK Project: Multilevel Interventions to Promote Mental Health in SMEs and Public Workplaces",
+    "Abstract": "The paper describes the study design, research questions and methods of a large, international intervention project aimed at improving employee mental health and well-being in SMEs and public organisations. The study is innovative in multiple ways. First, it goes beyond the current debate on whether individual- or organisational-level interventions are most effective in improving employee health and well-being and tests the cumulative effects of multilevel interventions, that is, interventions addressing individual, group, leader and organisational levels. Second, it tailors its interventions to address the aftermaths of the Covid-19 pandemic and develop suitable multilevel interventions for dealing with new ways of working. Third, it uses realist evaluation to explore and identify the working ingredients of and the conditions required for each level of intervention, and their outcomes. Finally, an economic evaluation will assess both the cost-effectiveness analysis and the affordability of the interventions from the employer perspective. The study integrates the training transfer and the organisational process evaluation literature to develop toolkits helping end-users to promote mental health and well-being in the workplace.",
+    "DOI": "10.3390/ijerph17218035",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned.",
+            "study_design": "Realist evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental disorders. It focuses on improving employee mental health and well-being in SMEs and public organizations.",
+            "study_design": "Multilevel intervention project using realist evaluation and economic evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on mental health interventions in SMEs and public workplaces, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Intervention study with a multilevel approach",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

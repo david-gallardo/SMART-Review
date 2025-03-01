@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1323,
+    "Authors": "Leddy-Stacy, Meaghan A.; Rosenheck, Robert",
+    "Article Title": "Obtaining employment as an anchor for estimating the minimum clinically important difference on the Positive and Negative Syndrome Scale (PANSS) in schizophrenia",
+    "Abstract": "Statistical differences on clinical scales are often used to compare the effectiveness of treatments. However, statistical significance does not necessarily indicate clinical significance. The minimum clinically important difference (MCID) refers to clinically meaningful treatment differences. This study estimates the MCID of the Positive and Negative Syndrome Scale (PANSS) by anchoring the change in scores to an objective clinical outcome: employment. This secondary analysis compared PANSS score change from baseline among 1049 non-working individuals with schizophrenia, who were followed and categorized as either having not worked, worked 1-10 days, or worked > 10 days at 15 or 18 months. The difference in change in average PANSS Total scores between participants who did not work and those who worked 1-10 days (4.25 points) and > 10 days (8.30) were statistically significant. This study estimates the MCID for the PANSS to be between 4.25 and 8.30 Total points. This study revealed significant differences in PANSS score changes between participants who did and did not work. Using employment, an objective and clinically meaningful change in health status, to determine the MCID of PANSS resulted in estimates lower than previously reported. MCID estimates vary across methods but using objective anchors increases face validity. Published by Elsevier Ireland Ltd.",
+    "DOI": "10.1016/j.psychres.2016.02.018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Secondary analysis of existing data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an outcome and lacks a control group. It focuses on estimating the MCID of the PANSS using employment as an anchor but does not evaluate interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Secondary analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsphrenia and does not meet the inclusion criteria for the population of interest, which is people with mental health disorders in general.",
+            "study_design": "secondary analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Secondary analysis of a cohort study",
+            "logprobs": null
+        }
+    }
+}

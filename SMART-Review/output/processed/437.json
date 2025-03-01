@@ -1,0 +1,33 @@
+{
+    "ArticleID": 437,
+    "Authors": "Hser, Yih-Ing; Evans, Elizabeth; Grella, Christine; Ling, Walter; Anglin, Douglas",
+    "Article Title": "Long-Term Course of Opioid Addiction",
+    "Abstract": "Opioid addiction is associated with excess mortality, morbidities, and other adverse conditions. Guided by a life-course framework, we review the literature on the long-term course of opioid addiction in terms of use trajectories, transitions, and turning points, as well as other factors that facilitate recovery from addiction. Most long-term follow-up studies are based on heroin addicts recruited from treatment settings (mostly methadone maintenance treatment), many of whom are referred by the criminal justice system. Cumulative evidence indicates that opioid addiction is a chronic disorder with frequent relapses. Longer treatment retention is associated with a greater likelihood of abstinence, whereas incarceration is negatively related to subsequent abstinence. Over the long term, the mortality rate of opioid addicts (overdose being the most common cause) is about 6 to 20 times greater than that of the general population; among those who remain alive, the prevalence of stable abstinence from opioid use is low (less than 30% after 10-30 years of observation), and many continue to use alcohol and other drugs after ceasing to use opioids. Histories of sexual or physical abuse and comorbid mental disorders are associated with the persistence of opioid use, whereas family and social support, as well as employment, facilitates recovery. Maintaining opioid abstinence for at least five years substantially increases the likelihood of future stable abstinence. Recent advances in pharmacological treatment options (buprenorphine and naltrexone) include depot formulations offering longer duration of medication; their impact on the long-term course of opioid addiction remains to be assessed.",
+    "DOI": "10.1097/HRP.0000000000000052",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study reviews the long-term course of opioid addiction and its associated factors, but it does not address employment outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the long-term course of opioid addiction.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on opioid addiction, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Long-term follow-up study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment policies and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

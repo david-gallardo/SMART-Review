@@ -1,0 +1,43 @@
+{
+    "ArticleID": 836,
+    "Authors": "Kielan, Aleksandra; Jaworski, Mariusz; Mosiolek, Anna; Chodkiewicz, Jan; Swiecicki, Lukasz; Walewska-Zielecka, Bozena",
+    "Article Title": "Factors Related to the Level of Depression and Suicidal Behavior Among Men With Diagnosed Depression, Physically Ill Men, and Healthy Men",
+    "Abstract": "Depression is the most common psychiatric disorder in people who die by suicide. Awareness of risk factors for suicide in depression is important for clinicians. The study was aimed at establishing models of factors related to the level of depression and suicidal behavior among men from three different groups-in men with depressive disorder, in comparison to men with physical disorder and healthy men. A total of 598 men were included in the study. The following questionnaires were used in research model: test with sociodemographic variables, AUDIT Test, Fagerstrom Test, Generalized Self-Efficacy Scale (GSES), Inventory for Measuring Coping with Stress (Mini-COPE), Resilience Evaluation Questionnaire (KOP-26), Suicide Behaviors Questionnaire-Revised (SBQ-R) by Osman, and Gotland Male Depression Scale. In men with depression, the positive factors strongly related to the intensity of depression and suicidal behavior were as follows: vocational education, active coping, turning toward religion, social competence for resilience, and bachelor status. The factors negatively related to the intensity of depression and suicidal behavior in this group were as follows: unemployed status, student status, low satisfaction with the financial situation, having children, history of mental disorders in family, alcohol addiction, and seeking instrumental support. In the group of men with physical disorders, the following protection factors were identified: the medium or small city as a place of living, active coping, venting, and personal competence. The following risk factors were identified in this group: psychiatric treatment in the past. In the group of healthy men, the following protective factors were identified: the medium city as a place of living, positive reappraisal, planning abilities, and personal and social competence for resilience. In this group, the following risk factors were identified: vocational and higher education, student status, satisfaction with the financial situation, having more than one children, the occurrence of mental disorders in the family, the occurrence of alcohol abuse in the family, and use of psychoactive substances as a strategy of dealing with stress. The risk factors identified in this study should be included in the clinical assessment of depression and suicidal behavior risk in male patients. There are some protective factors identified, including productive coping and personal and social competencies, which can be developed and should be especially considered and strengthened in mental health promotion programs aimed at men.",
+    "DOI": "10.3389/fpsyt.2021.644097",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on factors related to depression and suicidal behavior.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on factors related to depression and suicidal behavior among different groups of men.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "selfReportedOutcomes": {
+                "menWithDepression": [],
+                "menWithPhysicalDisorders": [],
+                "healthyMen": []
+            },
+            "protectiveFactors": {
+                "menWithDepression": [],
+                "menWithPhysicalDisorders": [],
+                "healthyMen": []
+            },
+            "inclusion_decision": "Unclear",
+            "reason": "No reason provided",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes related to employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

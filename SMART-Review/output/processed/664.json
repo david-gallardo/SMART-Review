@@ -1,0 +1,33 @@
+{
+    "ArticleID": 664,
+    "Authors": "Ware, Deanna; Rueda, Sergio; Plankey, Michael; Surkan, Pamela; Okafor, Chukwuemeka N.; Teplin, Linda; Friedman, M. Reuel",
+    "Article Title": "The longitudinal impact of employment, retirement and disability status on depressive symptoms among men living with HIV in the Multicenter AIDS Cohort Study",
+    "Abstract": "Many persons living with HIV (PLWH) either reduced their employment capacity or stopped work completely due to disease progression. With the advent of effective antiretroviral therapy, some PLWH were able to return to the workforce and many are now transitioning into retirement. We examined the histories of employment, retirement and disability status on depression among 1,497 Participants living with HIV from 1997 to 2015 in the Multicenter AIDS Cohort Study. Data were collected on depressive symptoms, employment, retirement, disability status as well as HIV-related and sociodemographic characteristics. Employment, retirement and disability status were lagged 2 years to assess whether the risk of depression at a given observation were temporally predicted by each respective status, adjusting for prior depressive symptoms and covariates. Being employed (aOR: 0.76; 95% CI: 0.71-0.82) had lower odds of depression risk two years later compared to those unemployed. There were higher odds of depression risk associated with disability (aOR: 1.43; 95% CI: 1.32-1.54) versus those not on disability. Retirement status was not associated with the risk of depressive symptoms. These findings could help inform policies and employment programs to facilitate the return to work for PLWH who are willing and able to work.",
+    "DOI": "10.1371/journal.pone.0239291",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis of the Multicenter AIDS Cohort Study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not include people with mental disorders or documented mental health problems. The study focuses on individuals living with HIV and their employment status in relation to depressive symptoms.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on PLWH and not specifically on people with mental health disorders. The intervention is not directly related to employment policies but rather to the impact of employment status on depression among PLWH.",
+            "study_design": "longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly people with mental disorders but rather people living with HIV.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

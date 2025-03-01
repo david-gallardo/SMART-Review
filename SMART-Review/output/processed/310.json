@@ -1,0 +1,33 @@
+{
+    "ArticleID": 310,
+    "Authors": "de Vries, Neeltje; Maniscalco, Laura; Matranga, Domenica; Bouman, Jose; de Winter, J. Peter",
+    "Article Title": "Determinants of intention to leave among nurses and physicians in a hospital setting during the COVID-19 pandemic: A systematic review and meta-analysis",
+    "Abstract": "Background The global outbreak of COVID-19 has brought to light the profound impact that large-scale disease outbreaks can have on healthcare systems and the dedicated professionals who serve within them. It becomes increasingly important to explore strategies for retaining nurses and physicians within hospital settings during such challenging times. This paper aims to investigate the determinants of retention among nurses and physicians during the COVID-19 pandemic.Method A systematic review of other potential determinants impacting retention rates during the pandemic was carried out. Secondly, a meta-analysis on the prevalence of intention to leave for nurses and physicians during the COVID-19 pandemic.Findings A comprehensive search was performed within four electronic databases on March 17 2023. Fifty-five papers were included in the systematic review, whereas thirty-three papers fulfilled the eligibility criteria for the meta-analysis. The systematic review resulted in six themes of determinants impacting intention to leave: personal characteristics, job demands, employment services, working conditions, work relationships, and organisational culture. The main determinants impacting the intention to leave are the fear of COVID-19, age, experience, burnout symptoms and support. Meta-analysis showed a prevalence of intent to leave the current job of 38% for nurses (95% CI: 26%-51%) and 29% for physicians (95% CI: 21%-39%), whereas intention to leave the profession for nurses 28% (95% CI: 21%-34%) and 24% for physicians (95% CI: 23%-25%).Conclusion The findings of this paper showed the critical need for hospital managers to address the concerning increase in nurses' and physicians' intentions to leave during the COVID-19 pandemic. This intention to leave is affected by a complex conjunction of multiple determinants, including the fear of COVID-19 and the confidence in and availability of personal protective equipment. Moreover, individual factors like age, experience, burnout symptoms, and support are maintained in this review. Understanding the influence of determinants on retention during the COVID-19 pandemic offers an opportunity to formulate prospective strategies for retaining nurses and physicians within hospital settings.",
+    "DOI": "10.1371/journal.pone.0300377",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study also includes a control group (the current job) and presents measures of employment or labor results (intention to leave).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the determinants of intention to leave among nurses and physicians during the COVID-19 pandemic.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the intention to leave among nurses and physicians during the COVID-19 pandemic, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

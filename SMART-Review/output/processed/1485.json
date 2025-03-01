@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1485,
+    "Authors": "Ruch, Willibald; Stahlmann, Alexander G.",
+    "Article Title": "Toward a dynamic model of Gelotophobia: Social support, workplace bullying and stress are connected with diverging trajectories of life and job satisfaction among Gelotophobes",
+    "Abstract": "Recent theoretical advances have grounded gelotophobia (Greek:gelos = laughter,phobos = fear) in a dynamic framework of causes, moderating factors, and consequences of the fear of being laughed at. This understanding corresponds to that ofvulnerabilityand translates gelotophobia into a distinguishable pattern of lacking resources (i.e., misinterpretation of joy and laughter) that can result in negative consequences (e.g., reduced well-being and performance) if individuals have no access to further resources (e.g., social support) or are exposed to severe stressors (e.g., workplace bullying). Based on the panel data provided by the Swiss National Centre of Competence in Research LIVES (N = 2469 across six measurement intervals), this study takes the first step toward empirically testing this model's assumptions: First, we computed exemplary zero-order correlations and showed that gelotophobia was negatively connected with social support (resource) and life and job satisfaction (consequences) and positively connected with perceived stress, work stress, and workplace bullying (stressors). Second, we used longitudinal cluster analyses (KmL; k-means-longitudinal) and showed that the panel data can be clustered into three stable patterns of life and job satisfaction and that gelotophobia is primarily related to the two clusters marked by lower levels of satisfaction. Third, we computed partial correlations and showed that social support, perceived stress, and work stress (but not workplace bullying) can weaken or completely resolve gelotophobia's relationships with such diverging trajectories of life and job satisfaction. We concluded that seeing gelotophobia through the lens of vulnerability is useful and that such research warrants further attention using more dedicated, theoretically grounded projects.",
+    "DOI": "10.1007/s12144-020-01046-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between gelotophobia, social support, and workplace bullying with life and job satisfaction.",
+            "study_design": "Longitudinal cluster analysis (KmL; k-means-longitudinal)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on gelotophobia and its impact on life and job satisfaction without any intervention or employment outcomes.",
+            "study_design": "Cross-sectional analysis using panel data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on gelotophobia (fear of being laughed at), which is not directly related to employment or labor outcomes. The study also does not include interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Longitudinal cluster analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal cluster analyses",
+            "logprobs": null
+        }
+    }
+}

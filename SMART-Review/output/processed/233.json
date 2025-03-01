@@ -1,0 +1,33 @@
+{
+    "ArticleID": 233,
+    "Authors": "Waghorn, Geoffrey; Killackey, Eoin; Dickson, Philleen; Brock, Liza; Skate, Catherine",
+    "Article Title": "Evidence-Based Supported Employment for People With Psychiatric Disabilities in Australia: Progress in the Past 15 Years",
+    "Abstract": "Objective: This report summarizes the major developments in Australia since the first introduction of Individual Placement and Support (IPS) in 2005 in order to outline the current situation and discuss future challenges and opportunities. Method: Using an informal snowball sampling method, all those known to be involved in IPS implementations in Australia in the last 5 years were contacted. Results: The program has expanded from 2 full-time employment specialists in 2005 to 87.6 in 2018. The expansion has been most promising in youth mental health where an initial national 14-site trial of IPS was recently expanded to 24 sites. If the trial is successful, IPS may become a core component of a national youth mental health initiative. Expansion in the adult community mental health sector has been constrained by several factors including the low priority for rehabilitation in the public mental health system. On the positive side, the availability of independent technical support from Western Australia means that all new IPS sites can receive expert technical support for program implementation. continuing high-fidelity delivery, external fidelity assessment, outcome evaluation, and cohort-based outcome reporting. Conclusion and Implications for Practice: The expansion of IPS in the public funded adult mental health sector has not kept pace with progress in the youth mental health sector. There is an urgent need for adult mental health services to cease excluding vocational rehabilitation from treatment, care, and recovery plans. Disability Employment Service contract managers could increase disincentives for providers to adopt high caseloads and low intensity services, at the expense of more intensive evidence-based practices.",
+    "DOI": "10.1037/prj0000370",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is within the specified range, the intervention is supported employment, and the population references mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design as it uses an informal snowball sampling method and does not include a control group. It also falls outside the specified timeframe (2005-2025) as it covers developments from 2005 to 2018.",
+            "study_design": "Informal snowball sampling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article meets the inclusion criteria as it is a systematic review of controlled trials (quasi-experimental studies with a control group) focused on job search services (a form of supported employment) for people with mental health disorders in the EU country of Australia, published between 2005 and 2025.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Descriptive report",
+            "logprobs": null
+        }
+    }
+}

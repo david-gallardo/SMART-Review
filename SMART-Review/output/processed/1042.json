@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1042,
+    "Authors": "Poremski, Daniel; Distasio, Jino; Hwang, Stephen W.; Latimer, Eric",
+    "Article Title": "Employment and Income of People Who Experience Mental Illness and Homelessness in a Large Canadian Sample",
+    "Abstract": "Objectives: Research suggests that homeless people with mental illness may have difficulty obtaining employment and disability benefits. Our study provides a comprehensive description of sources of income and employment rates in a large Canadian sample.Methods: Participants (n = 2085) from the 5 sites of the At Home/Chez Soi study were asked about their income, employment, and desire for work during the pre-baseline period. The proportion of participants employed, receiving government support, and relying on income from other activities were compared across sites, as were total income and income from different sources. Generalized linear models were used to identify participant characteristics associated with total income.Results: Unemployment ranged from 93% to 98% across 5 sites. The per cent of participants who wanted to work ranged from 61% to 83%. Participants relied predominantly on government assistance, with 29.5% relying exclusively on welfare, and 46.2% receiving disability benefits. Twenty-eight per cent of participants received neither social assistance nor disability income. Among the 2085 participants, 6.8% reported income from panhandling, 2.1% from sex trade, and 1.2% from selling drugs. Regression models showed that income differed significantly among sites and age groups, and was significantly lower for people with psychotic illnesses.Conclusion: These results suggest that homeless people with mental illness are predominantly unemployed, despite expressing a desire to work. In Canada, this group relies predominantly on welfare, but has access to disability benefits and employment insurance. These findings highlight the importance of developing effective interventions to support employment goals and facilitate access to benefits.",
+    "DOI": "10.1177/070674371506000902",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is Canada, within the EU, Europe, US, Canada, or Australia. The timeframe is 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, while it focuses on people with mental illness, it does not specifically address employment or labor outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless people with mental illness in Canada and does not specifically address employment interventions or outcomes for people with mental health disorders in the context of active employment policies.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention targeting job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 146,
+    "Authors": "Salkever, David; Gibbons, Brent; Ran, Xiaotao",
+    "Article Title": "Do Comprehensive, Coordinated, Recovery-Oriented Services Alter the Pattern of Use of Treatment Services? Mental Health Treatment Study Impacts on SSDI Beneficiaries' Use of Inpatient, Emergency, and Crisis Services",
+    "Abstract": "Current arrangements for financing and delivering behavioral health services to U.S. working-age adults with severe and persistent mental disorders (SPMD) have major inadequacies in funding for and access to critical elements of a recovery-oriented, comprehensive, and coordinated package of community-based treatment and rehabilitation services. This study presents results from a nation-wide 2-year randomized trial, involving 2,238 SSDI beneficiaries with SPMD, of a comprehensive intervention including evidence-based treatment and employment services. Estimates of impacts of the MHTS service intervention package, from a variety of regression specifications, showed clearly significant treatment group reductions in four outcomes (hospital stays and days, ER visits for mental health problems, and psychiatric crisis visits); these estimates suggest annual inpatient hospital treatment cost savings in excess of approximately $900 to 1,400. Negative estimated MHTS effects on three other utilization outcomes (hospital stays and days for mental health problems, overall ER visits) generally did not achieve statistical significance. Possible study implications for cost offsets from further expansions/replications of the MHTS intervention model are considered within the context of health reform.",
+    "DOI": "10.1007/s11414-013-9388-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized trial, but it lacks a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on treatment service utilization rather than employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on SSDI beneficiaries with severe and persistent mental disorders in the U.s. and does not specifically target employment interventions or outcomes. The study design is an RCT, which meets the inclusion criteria for study design. However, the study'senvironment' does not align with the specified geographic scope of EU countries, Europe, US, Canada, or Australia. The study's intervention is not directly related to employment services but rather to a comprehensive intervention package that includes employment services. The study's population is not explicitly defined as people with mental health disorders but as SSDI beneficiaries with severe and persistent mental disorders. The study's outcomes are not focused on employment or labor outcomes but on healthcare service utilization. Therefore, the study does not meet the inclusion criteria for intervention, population, and outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an outcome.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

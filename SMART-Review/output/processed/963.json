@@ -1,0 +1,33 @@
+{
+    "ArticleID": 963,
+    "Authors": "Padgett, Deborah K.; Smith, Bikki Tran; Choy-Brown, Mimi; Tiderington, Emmy; Mercado, Micaela",
+    "Article Title": "Trajectories of Recovery Among Formerly Homeless Adults With Serious Mental Illness",
+    "Abstract": "Objective: Recovery from mental illness is possible, but individuals with co-occurring disorders and homelessness face challenges. Although a nonlinear recovery course is assumed, few studies have analyzed recovery over time. This mixed-methods study examined recovery trajectories over 18 months after enrollment in supportive housing programs of 38 participants with DSM axis I diagnoses.Methods: Qualitative interview data were quantified through consensual ratings to generate a recovery score for four waves of data collection based on eight recovery domains culled from the literature. Case study analyses were conducted of participants whose scores varied by one standard deviation or more between baseline and 18 months to identify which domains were important.Results: Most of the 38 participants (N=23) had no significant change in recovery; seven had a negative trajectory, and eight had a positive trajectory. Case studies of these 15 participants indicated domains that contributed to change: significant-other relationships (N=9), engagement in meaningful activities (N=9), mental health (N=7), family relationships (N=6), general medical health (N=5), housing satisfaction (N=5), employment (N=2), and substance use (N=1). Except for mental health and substance use (which contributed only to negative trajectories), the influence of domains was both positive and negative. Domains were intertwined; for example, variation in relationships was linked to changes in meaningful activities.Conclusions: This study showed little change in recovery over time for most participants and a decline in mental health for a small minority. Findings underscore the importance of social relationships and meaningful activities among individuals with serious mental illness, who experience complex challenges.",
+    "DOI": "10.1176/appi.ps.201500126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a qualitative study with consensual ratings, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative study with consensual ratings",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on recovery trajectories among formerly homeless adults with serious mental illness.",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "mixed-methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not directly address employment interventions.",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        }
+    }
+}

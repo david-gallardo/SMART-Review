@@ -1,0 +1,33 @@
+{
+    "ArticleID": 678,
+    "Authors": "Troschel, Fabian M.; Ahndorf, Franziska; Wille, Lisa-Marie; Brandt, Ralf; Jost, Johanna; Rekowski, Sylvia; Eich, Hans Theodor; Stummer, Walter; Wiewrodt, Rainer; Jetschke, Kathleen; Wiewrodt, Dorothee",
+    "Article Title": "Quality of Life in Brain Tumor Patients and Their Relatives Heavily Depends on Social Support Factors during the COVID-19 Pandemic",
+    "Abstract": "Simple SummaryThe COVID-19 pandemic has been associated with increased mortality worldwide. Cancer patients are among those at enhanced risk while already suffering from decreased quality of life (QoL) due to their disease. In the present study, we investigated QoL in 100 brain tumor patients and relatives across a twelve-week timespan during the first COVID-related lockdown (04-07/2020) in detail. Compared to the general population, both patients and relatives showed significant distress, anxiety, and depression, with patients more at risk. QoL within a family-between patients and relatives-was correlated. While QoL did not change over time, acceptance of lockdown measures decreased towards the end of the study period. Finally, QoL was strongly associated with the number of weekly social contacts. These findings shed light on the psychosocial situation of a vulnerable cancer population during the COVID pandemic and indicate the need for targeted psychosocial interventions in these patients and their relatives.The COVID-19 pandemic is associated with significant morbidity, mortality, and restrictions on everyday life worldwide. This may be especially challenging for brain tumor patients given increased vulnerability due to their pre-existing condition. Here, we aimed to investigate the quality of life (QoL) in brain tumor patients and relatives in this setting. Over twelve weeks during the first wave of the pandemic (04-07/2020), brain tumor patients and their families from two large German tertiary care centers were asked to complete weekly questionnaires for anxiety, depression, distress, and well-being. Information regarding social support and living conditions was also collected. One hundred participants (63 patients, 37 relatives) completed 729 questionnaires over the course of the study. Compared to relatives, patients showed more depressive symptoms (p < 0.001) and reduced well-being (p = 0.013). While acceptance of lockdown measures decreased over time, QoL remained stable. QoL measures between patients and their families were weakly or moderately correlated. The number of social contacts was strongly associated with QoL. Age, living conditions, ongoing therapy, employment, and physical activity were other predictors. QoL is correlated between patients and their families and heavily depends on social support factors, indicating the need to focus on the entire family and their social situation for QoL interventions during the pandemic.",
+    "DOI": "10.3390/cancers13061276",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on quality of life in brain tumor patients and their relatives during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey over twelve weeks",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes related to mental health disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

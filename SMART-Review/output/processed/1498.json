@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1498,
+    "Authors": "Redekopp, Dave E.; Huston, Michael",
+    "Article Title": "The broader aims of career development: mental health, wellbeing and work",
+    "Abstract": "Work is a significant factor in mental health and wellbeing outcomes. Career development processes can be helpful in finding and managing work trajectories that lead to these as well as additional wellbeing outcomes. Conversely, mental illness can impede the acquisition and retention of suitable work as well as the ability to fully engage in career development. Evidence for the interactive relationships between work, career development, mental health and mental illness is reviewed, with an emphasis on the relationships between work (both good and bad) and wellbeing outcomes. Evidence for counselling/guidance interventions, organisational interventions and policy directions follow, concluding with suggestions for improving wellbeing via career development interventions.",
+    "DOI": "10.1080/03069885.2018.1513451",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, and the intervention does not directly address employment.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control groups. The article is a review focusing on relationships between work, career development, mental health, and wellbeing outcomes without presenting specific interventions or employment/labor results.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design and does not mention any controlled trials, RCTs, or quasi-experimental studies. Additionally, it does not clearly outline specific interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Unspecified",
+            "logprobs": null
+        }
+    }
+}

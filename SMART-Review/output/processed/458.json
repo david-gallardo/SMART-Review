@@ -1,0 +1,33 @@
+{
+    "ArticleID": 458,
+    "Authors": "Jirapramukpitak, Tawanchai; Pattanaseri, Keerati; Chua, Kia-chong; Takizawa, Patcharapim",
+    "Article Title": "Estimating Impact Based on Stages of Mental Illness on Employment and Earnings in Bangkok Metropolitan Region",
+    "Abstract": "Background: Evidence suggests mental disorders are associated with substantial economic burden. However, as the status of mental illness tends to change over time, estimating the burden based on cross-sectional presence or severity of illness may be problematic. An approach based on illness staging may provide a more stable estimate.Aims of the Study: We aim to explore whether three predefined stages of mental illness (i.e. early active, remitted, chronic) have differential impact on employment and earnings.Methods: A community survey of household population aged 18 and over in a university hospital's catchment area within Bangkok Metropolitan Region (BMR) was conducted (N=3877). The third version of the World Health Organization-Composite International Diagnostic Interview (WHO-CIDI) was administered to assess lifetime and 12-month common major mental disorders and the Kessler Psychological Distress Scale (K6) to assess current psychological distress. Multivariate approaches were used to estimate the observed and expected annual earnings and employment for persons with mental illness at each stage, controlling for sociodemographic variables.Results: Increasing level of chronicity, from the early active to the remitted and then to the chronic stage, was associated with increasing reduction in earnings (beta -0.14 95% CI -0.15 to -0.13, p = 0.004). All stages of illness were significantly associated with reduced earnings, with individuals at chronic stage having 12-month earnings averaging 78,522 Thai baht (US$2,356) less than those without a history of mental illness, followed by those at remitted (38,703 baht or US$1,161) and early active stages (25,870 baht or US$776), with the same values for control variables. Remitted and chronic stages, but not early active one, were associated with reduced odds of paid employment. The estimated societal-level loss in earnings was 26.9 billion baht (US$808.2 million) in the total BMR population.Discussion: The findings suggest that all stages of mental disorders, particularly chronic one, are associated with substantial individual and societal-level burden, and highlight differences in employment and earnings gaps among individuals at each stage of illness.Implications for Health Care Provision and Use: Mental health service should be provided in close coordination with vocational and welfare services in order to alleviate financial and work difficulties faced by mentally ill people at various stages of illness.Implications for Health Policies: There is a need to tailor disability benefits and employment promotion schemes to the needs of mentally ill people at each stage in order to maximize their productivity and quality of life.Implications for Further Research: Direct and other indirect costs of mental illness should be further investigated. Longitudinal studies would help to clarify how much of the reported association is due to mental illness causing unemployment and reduced earnings or vice versa.",
+    "DOI": NaN,
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a community survey with a control group, meeting the inclusion criteria for study design. The geographic scope is within the Bangkok Metropolitan Region, which is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and labor regulation policies indirectly addressed through the study's findings on employment and earnings.",
+            "study_design": "Community survey with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the geographic scope is limited to Bangkok Metropolitan Region, which is outside the specified EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Community survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in the specified geographic scope (EU countries, Europe, US, Canada, Australia) and does not focus on the interventions mentioned in the inclusion criteria.",
+            "study_design": "Community survey",
+            "logprobs": null
+        }
+    }
+}

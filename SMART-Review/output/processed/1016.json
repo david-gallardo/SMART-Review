@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1016,
+    "Authors": "Ohman, Mattias; Woodford, Joanne; von Essen, Louise",
+    "Article Title": "Socioeconomic consequences of parenting a child with cancer for fathers and mothers in Sweden: A population-based difference-in-difference study",
+    "Abstract": "Parents are the primary source of support for children with cancer. To inform clinical practice and health policies, the socioeconomic consequences of childhood cancer for fathers and mothers in Sweden were investigated. A total of 3865 mothers and 3865 fathers of 3865 children diagnosed with cancer in Sweden when 0 to 18 years were followed for 5 years before and 10 years after diagnosis. Socioeconomic consequences of the cancer diagnosis on earnings and employment, and mental health (number of inpatient diagnoses), were investigated exploiting variation in timing of cancer diagnosis. Data were obtained from the Swedish Childhood Cancer Registry, Intergenerational Registry and Inpatient Registry. Childhood cancer has a negative short-term effect on fathers' and mothers' earnings; a negative long-term effect on fathers' earnings; a positive long-term effect on mothers' earnings; negative short- and long-term effects on fathers' and mothers' employment; and no effect on the number of inpatient diagnosis of mental and behavioral disorders for fathers or mothers. Taken together, findings show that in Sweden childhood cancer has negative effects on parents' employment, a more negative impact on fathers' than mothers' earnings and no effect on inpatient diagnosis of mental and behavioral disorders. Future research should explore mechanisms possibly explaining, for example, mental health, social support and priorities regarding work and private life potentially resulting in changes from full-time to part-time work or vice versa. The novel findings should change clinical practice and help inform health policies for parents of children with cancer in Sweden and countries with a similar health and welfare system.",
+    "DOI": "10.1002/ijc.33444",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a population-based difference-in-difference study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Population-based difference-in-difference study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the socioeconomic consequences of parenting a child with cancer.",
+            "study_design": "Difference-in-difference study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders.",
+            "study_design": "Difference-in-difference study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders as the primary focus; it focuses on parents of children with cancer.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

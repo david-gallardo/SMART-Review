@@ -1,0 +1,33 @@
+{
+    "ArticleID": 452,
+    "Authors": "Grupp, Helen; Koenig, Hans-Helmut; Konnopka, Alexander",
+    "Article Title": "Calculation of Standardised Unit Costs for the Economic Evaluation of Mental Disorders",
+    "Abstract": "Introduction: Assessing resource utilisation and costs for treating mental disorders in Germany is difficult. This pertains especially to the numerous non-medical services that are financed by a considerable number of payers. To standardise and simplify cost calculation, we created a database of unit costs for the most important services for mental disorders.Method: We performed a literature and internet search to identify services provided to persons with mental disorders. Unit costs were calculated either by means of public statistics or data directly obtained from payers. If data could not be obtained that way, health care providers were interviewed to collect data relevant for cost estimation.Results: Unit costs were calculated for medical and vocational rehabilitation, assisted living, sociopsychiatric services, counselling centres, daycare facilities, ambulant psychiatric nursing care, occupational therapy, sociotherapy, psychoeducation, caretaker, domestic help, creative therapies, physical therapy, and relaxation techniques.Discussion and Conclusion: Calculating unit costs for non-medical services was essential, since these services constitute a central element in the treatment of persons with mental disorders. Nevertheless, the large amount of different services and payers complicated a comprehensive assessment of costs. Thus, uncertainty associated with the calculation of costs should be taken into account.",
+    "DOI": "10.1055/s-0035-1555950",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on calculating unit costs for non-medical services provided to persons with mental disorders.",
+            "study_design": "Systematic review of literature and internet search",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on calculating unit costs for services related to mental disorders in Germany. It lacks an intervention directly addressing employment policies.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the economic evaluation of mental disorders and does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Literature and internet search",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention and does not present measures of employment or labor outcomes.",
+            "study_design": "Cost analysis",
+            "logprobs": null
+        }
+    }
+}

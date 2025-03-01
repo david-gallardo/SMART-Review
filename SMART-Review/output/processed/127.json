@@ -1,0 +1,33 @@
+{
+    "ArticleID": 127,
+    "Authors": "Langlieb, Alan M.; Langlieb, Marin E.; Xiong, Willa",
+    "Article Title": "EAP 2.0: reimagining the role of the employee assistance program in the new workplace",
+    "Abstract": "Mental illness is a highly prevalent problem that affects millions of individuals. Like many other previous natural disasters and terrorist attacks, the recent Covid-19 pandemic has placed an enormous stress on the world and its workforce. In many ways the pandemic revealed gaps in the quality and availability of mental health resources, and, by magnifying the intense demand, it also spurred innovation. Telemedicine and virtual trauma-related services became examples of ways in which evaluation, treatment and counselling services could be delivered directly and efficiently to people who were confined to their dwellings and hospital beds. For many, the workplace has been a source of stress but also a vital component of one's self-worth, day-to-day purpose, and a resource for wellness programs and brief counselling services, not to mention, at least in many countries like the United States, a source for health insurance. The employee assistance program (EAP) is an example of a workplace-counselling and triage service that has enormous potential to meet the growing needs of individuals both in 'normal' times and during disasters. By better understanding the EAP's current structure alongside the advent of new technologies, it may be possible to develop a new and improved EAP model to meet a changing global landscape. For EAP to succeed and ultimately be scalable in an increasingly competitive and value-conscious marketplace, its processes of care will first require a bottom-up review with meaningful outcomes data. This will be necessary to drive continuous quality improvement and to demonstrate EAP 2.0's value to both employer and employee alike.",
+    "DOI": "10.1080/09540261.2021.2013172",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The article focuses on reimagining EAPs rather than evaluating specific interventions for employment outcomes.",
+            "study_design": "None (descriptive review)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on interventions directly addressing employment or labor outcomes for people with mental health disorders. It discusses the role of EAP in the workplace but does not specifically evaluate job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "The article is not a study design but a review of the EAP's role in the workplace.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

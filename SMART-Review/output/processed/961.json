@@ -1,0 +1,33 @@
+{
+    "ArticleID": 961,
+    "Authors": "Hayes, Laura; Brophy, Lisa; Harvey, Carol; Tellez, Juan Jose; Herrman, Helen; Killackey, Eoin",
+    "Article Title": "Enabling choice, recovery and participation: evidence-based early intervention support for psychosocial disability in the National Disability Insurance Scheme",
+    "Abstract": "Objectives: The aim of this study was to identify the most effective interventions for early intervention in psychosocial disability in the National Disability Insurance Scheme (NDIS) through an evidence review. Methods: A series of rapid reviews were undertaken to establish possible interventions for psychosocial disability, to develop our understanding of early intervention criteria for the NDIS and to determine which interventions would meet these criteria. Results: Three interventions (social skills training, supported employment and supported housing) have a strong evidence base for effectiveness in early intervention in people with psychosocial disability, with the potential for adoption by the NDIS. They support personal choice and recovery outcomes. Illness self-management, cognitive remediation and cognitive behavioural therapy for psychosis demonstrate outcomes to mitigate impairment. The evidence for family psycho-education is also very strong. Conclusions: This review identified evidence-based, recovery-oriented approaches to early intervention in psychosocial disability. They meet the criteria for early intervention in the NDIS, are relevant to participants and consider their preferences. Early intervention has the potential to save costs by reducing participant reliance on the scheme.",
+    "DOI": "10.1177/1039856218759407",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on EU countries (Australia is also mentioned), and the timeframe is between 2005-2025. The intervention is job search services (supported employment), adult training, and wage subsidies, which are relevant to people with mental health disorders. The outcomes include employment or labor outcomes such as job duration and job quality.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a rapid review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Rapid review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on interventions for psychosocial disability within the NDIS framework, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's population is not clearly defined as people with mental health disorders or documented mental health problems, which is a requirement for inclusion.",
+            "study_design": "Rapid reviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify that it is a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study. Additionally, the geographic scope is not specified and may not be within the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Rapid reviews",
+            "logprobs": null
+        }
+    }
+}

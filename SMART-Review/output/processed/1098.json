@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1098,
+    "Authors": "Sveinsdottir, Vigdis; Lie, Stein Atle; Bond, Gary R.; Eriksen, Hege R.; Tveito, Torill H.; Grasdal, Astrid L.; Reme, Silje E.",
+    "Article Title": "Individual placement and support for young adults at risk of early work disability (the SEED trial). A randomized controlled trial",
+    "Abstract": "Objectives Individual placement and support (IPS) is an effective approach for helping people with severe mental illness gain employment. This study aimed to investigate if IPS can he electively repurposed to support young adults at risk of early work disability due to various social and health related problems.Methods A randomized controlled trial including 96 young adults (18-29 years; 68% men) was conducted in Norway. Participants were not in employment, education, or training, received temporary benefits due to social or health-related problems, and were eligible for traditional vocational rehabilitation (TVR). Participants were randomized to IPS (N=50) or TVR (N=46). Self-reported data were collected at baseline and at 6- and I2-months follow-up. The primary outcome was obtaining any paid employment in the competitive labor market during follow-up. Secondary outcomes were physical and mental health, well-being, coping, alcohol consumption, and drug use.Results Significantly more IPS participants obtained competitive employment compared to TVR participants during 12-months follow-up (48% versus 8%; odds ratio 10.39, 95% confidence interval 2.79-38.68). The IPS group reported significantly better outcomes than the TVR group in subjective health complaints, helplessness, and hopelessness. In post hoc analyses adjusted for baseline and missing data, the IPS group reported significantly better outcomes on these measures in addition to level of disability, optimism about future well-being, and drug use.Conclusions IPS is effective for young adults at risk of early work disability. IPS was superior to TVR in increasing competitive employment and promoted improvements in some non-vocational outcomes. IPS services should he offered to improve employment rates in this vulnerable group.",
+    "DOI": "10.5271/sjweh.3837",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in Norway, which falls within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005 and 2025. The intervention is Individual Placement and Support (IPS), which is one of the interventions listed in the inclusion criteria. The population is people with mental disorders or documented mental health problems, and the study presents measures of employment or labor results.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU countries - Norway), timeframe (2005-2025), intervention (job search services), population (people with mental disorders or documented health problems), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not included)",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

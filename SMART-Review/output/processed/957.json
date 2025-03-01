@@ -1,0 +1,33 @@
+{
+    "ArticleID": 957,
+    "Authors": "Berchuck, Jacob E.; Meyer, Craig S.; Zhang, Ning; Berchuck, Caroline M.; Trivedi, Neil N.; Cohen, Beth; Wang, Sunny",
+    "Article Title": "Association of Mental Health Treatment With Outcomes for US Veterans Diagnosed With Non-Small Cell Lung Cancer",
+    "Abstract": "Importance Preexisting mental health disorders (MHDs) are associated with increased mortality in people diagnosed with cancer, yet few data exist on the efficacy of interventions to mitigate this disparity. Objective To evaluate the association of participation in mental health treatment programs (MHTPs), housing support programs, or employment support programs with stage at cancer diagnosis, receipt of stage-appropriate treatment, and mortality among patients with a preexisting MHD. Design, Setting, and Participants This retrospective, population-based cohort study included 55 315 veterans in the Veterans Affairs Central Cancer Registry (VACCR) who had newly diagnosed non-small cell lung cancer (NSCLC) from September 30, 2000, to December 31, 2011. Data were analyzed from January 15, 2017, to March 17, 2020. Exposures Mental health disorders, including schizophrenia, bipolar disorder, depressive disorder, posttraumatic stress disorder, and substance use disorder. Main Outcomes and Measures Stage at cancer diagnosis, receipt of stage-appropriate cancer treatment, all-cause mortality, and lung cancer-specific mortality. Results Of 55315 veterans with a new diagnosis of NSCLC included in the analysis (98.1% men; mean [SD] age, 68.1 [9.8] years), 18229 had a preexisting MHD, among whom participation in MHTPs was associated with a lower likelihood of being diagnosed in a late stage (odds ratio [OR], 0.62; 95% CI, 0.58-0.66; P < .001), a higher likelihood of receiving stage-appropriate treatment (OR, 1.55; 95% CI, 1.26-1.89; P < .001), lower all-cause mortality (adjusted hazard ratio [AHR], 0.74; 95% CI, 0.72-0.77; P < .001), and lower lung cancer-specific mortality (AHR, 0.77; 95% CI, 0.74-0.80; P < .001). Likewise, participation in housing and employment support programs was associated with similar improvements in all outcomes described above. Conclusions and Relevance In veterans with preexisting MHDs diagnosed with NSCLC, participation in MHTPs and housing and employment support programs was associated with improved lung cancer-related outcomes. This study might be the first to demonstrate significant improvement in cancer mortality for patients with MHDs who participate in MHTPs, housing support programs, or employment support programs. This work supports substantial literature that investment in mental health and social needs can improve health outcomes and highlights the importance of further research to identify, evaluate, and implement interventions to improve outcomes for patients with MHDs who are diagnosed with cancer.Question Is mental health treatment associated with improved outcomes for people with preexisting mental health disorders after they are diagnosed with cancer? Findings In this cohort study of 55315 US veterans diagnosed with non-small cell lung cancer, 18229 had a preexisting mental health disorder, among whom participation in mental health treatment programs was associated with a lower likelihood of being diagnosed with advanced cancer, a higher likelihood of receiving stage-appropriate treatment, and lower all-cause and lung cancer-specific mortality. Meaning The findings of this cohort study indicate that investment in mental health may be associated with improved cancer-related outcomes, but further research is needed to identify, evaluate, and implement effective interventions to improve outcomes for people with preexisting mental health disorders who are diagnosed with cancer.This cohort study evaluates the association of participation in mental health treatment, housing support, or employment support programs with stage at diagnosis, receipt of stage-appropriate treatment, and mortality among US veterans with a preexisting mental health disorder and a diagnosis of non-small cell lung cancer.",
+    "DOI": "10.1001/jamaoncol.2020.1466",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and only includes outcomes related to cancer mortality, stage at diagnosis, and receipt of stage-appropriate treatment.",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the association between mental health treatment and improved cancer-related outcomes such as stage at diagnosis, receipt of appropriate treatment, and mortality.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

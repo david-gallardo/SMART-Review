@@ -1,0 +1,33 @@
+{
+    "ArticleID": 587,
+    "Authors": "Kaya, Cahit; Chan, Fong",
+    "Article Title": "Vocational Rehabilitation Services and Outcomes for Working Age People with Depression and Other Mood Disorders",
+    "Abstract": "The purpose of this study is to examine the relationship between demographic variables, vocational rehabilitation (VR) services and employment outcomes for people with depression and other mood disorders. The Rehabilitation Services Administration's Case Service Reports database for Fiscal-Year 2013 was examined using multivariable logistic regression. Results indicated that participants who received on-the-job support, technical assistance, job placement, maintenance, on-the-job training, other services, occupational/vocational training, information-referral, job search, and vocational rehabilitation counseling were more likely to achieve competitive employment than participants who did not receive those services. Having a higher level of education, and not receiving cash benefits were positively associated with competitive employment. Hispanic or Latino and 36-54 years old participants were more likely to achieve competitive employment. The study shows that people with depression and other mood disorders may benefit from job related support services.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariable logistic regression analysis, which meets the inclusion criteria. The study is set in the US, within the specified timeframe of 2005-2025. The intervention is vocational rehabilitation services, which is one of the included interventions. The population is people with depression and other mood disorders, and the outcomes include employment outcomes such as competitive employment.",
+            "study_design": "Multivariable logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not mention the presence of a control group and is based on observational data from a database.",
+            "study_design": "Observational study using multivariable logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials that examines the impact of vocational rehabilitation services on employment outcomes for people with depression and mood disorders, which aligns with the inclusion criteria.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not included in the specified criteria (it is an observational study using logistic regression).",
+            "study_design": "Observational study using multivariable logistic regression",
+            "logprobs": null
+        }
+    }
+}

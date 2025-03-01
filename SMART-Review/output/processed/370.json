@@ -1,0 +1,33 @@
+{
+    "ArticleID": 370,
+    "Authors": "Puig, Olga; Thomas, Kelsey R.; Twamley, Elizabeth W.",
+    "Article Title": "Age and Improved Attention Predict Work Attainment in Combined Compensatory Cognitive Training and Supported Employment for People With Severe Mental Illness",
+    "Abstract": "The objective of this study was to examine whether cognitive change and age predicted work outcome in the context of supported employment (SE) and compensatory cognitive training (CCT) in severe mental illness. Forty unemployed outpatients receiving SE (7 young [20-35 years], 15 middle-aged [36-50 years], and 18 older [51-66 years] patients) completed cognitive assessments at baseline and after 12 weeks of CCT. Logistic regression analyses showed that improvement in attention/vigilance significantly predicted work attainment (B = 2.35, SE = 1.16, p = 0.043). Young and older participants were more likely to obtain work than middle-aged participants (B = 4.03, SE = 1.43, p = 0.005; B = 2.16, SE = 0.93, p = 0.021, respectively). Improved attention and age group (young and old) were associated with better work outcomes after SE + CCT. Improving attention may be an important target for improving work outcome in severe mental illness. Middle-aged individuals may need additional support to return to work.",
+    "DOI": "10.1097/NMD.0000000000000604",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU countries, Europe, US, Canada, and Australia, meeting the geographic scope criteria. The timeframe is between 2005 and 2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the population criteria. The study presents measures of employment or labor results, meeting the outcomes criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (with baseline comparison but no randomized controlled trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on adult training (supported employment) as an intervention, includes the specified population (people with mental disorders), and reports on employment outcomes (work attainment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment in the US, was published within the specified timeframe, targets people with severe mental illness, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

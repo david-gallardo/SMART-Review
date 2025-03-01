@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1447,
+    "Authors": "Tsuno, Kanami; Kawachi, Ichiro; Inoue, Akiomi; Nakai, Saki; Tanigaki, Takumi; Nagatomi, Hikaru; Kawakami, Norito; Haratani, Takashi; Kobayashi, Fumio; Ishizaki, Masao; Hayashi, Takeshi; Fujita, Osamu; Aizawa, Yoshiharu; Miyazaki, Shogo; Hiro, Hisanori; Masumoto, Takeshi; Hashimoto, Shuji; Araki, Shunichi",
+    "Article Title": "Long working hours and depressive symptoms: moderating effects of gender, socioeconomic status, and job resources",
+    "Abstract": "Systematic reviews and meta-analyses have found inconsistent associations between working hours and depressive symptoms. The purpose of this study was to investigate the possible moderators of this association, using data from a large-scale cross-sectional survey.A total of 16,136 Japanese employees (men 83.5%; women 16.5%) responded to a self-administered questionnaire inquiring about overtime working hours during the previous month and depressive symptoms (Center for Epidemiologic Studies Depression scale), as well as moderating factors including gender, age, marital status, socioeconomic status, commuting time, sleeping hours per day, job control and worksite social support (Job Content Questionnaire), neuroticism (Eysenck's Personality Questionnaire Revised), and social desirability (Social Desirability Scale) (response rate, 85%). We conducted sequential regression analyses to investigate the main effects and interaction effects of all moderating variables.The association between overtime working hours and depressive symptoms was significantly moderated by gender (interaction effect: beta = 0.03), age (beta = - 0.02), manager (beta = 0.03), sleeping hours (beta = - 0.02), job control (beta = - 0.03), and neuroticism (beta = 0.02). Among workers engaged in 80 + hours of overtime, higher depressive symptoms were reported by women, younger employees, non-managers, employees with low job control, low worksite social support, and high neuroticism. A significant main effect of long overtime working hours on depressive symptoms was also observed even after controlling for all independent variables (beta = 0.02).Long overtime working hours is associated with depressive symptoms. We also found significant heterogeneity in the association according to employee characteristics, which may explain the inconsistent findings in previous literature.",
+    "DOI": "10.1007/s00420-019-01401-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for intervention (does not address employment policies) or outcomes (focuses on depressive symptoms rather than employment or labor outcomes).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment interventions for people with mental health disorders, but rather on the association between working hours and depressive symptoms in general employees.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

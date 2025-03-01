@@ -1,0 +1,33 @@
+{
+    "ArticleID": 337,
+    "Authors": "Kawohl, Wolfram; Moock, Jorn; Heuchert, Sandra; Rossler, Wulf",
+    "Article Title": "Job Maintenance by Supported Employment: An Overview of the Supported Employment Plus Trial.",
+    "Abstract": "The number of days of absence from work associated with mental illness has risen dramatically in the past 10years in Germany. Companies are challenged by this issue and seek help for the physical and mental health of their employees. Supported Employment concepts such as the Individual Placement and Support (IPS) model have been designed to bring jobless persons with mental disorders back to work. In the randomized, controlled SEplus trial, a modified IPS-approach is tested concerning its ability to shorten times of sick leave of persons with mental distress or a mental disorder and to prevent them from losing their job. The trial is outlined in this study protocol.",
+    "DOI": "10.3389/fpubh.2015.00140",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized, controlled trial (RCT), which meets the inclusion criteria. The study is conducted in Germany, which falls within the specified geographic scope. The timeframe is also within the specified range. The intervention is supported employment, which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Randomized, Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on preventing job loss and reducing sick leave for employees with mental distress rather than directly addressing employment outcomes for people with documented mental health problems. The study design is a trial protocol, which lacks rigorous evaluation or a control group.",
+            "study_design": "Trial Protocol",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a randomized, controlled trial (RCT) that fits the intervention criteria and focuses on job retention for people with mental health issues, which is within the specified population.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a study protocol and does not present employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

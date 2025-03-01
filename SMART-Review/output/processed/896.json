@@ -1,0 +1,33 @@
+{
+    "ArticleID": 896,
+    "Authors": "Sung, Connie; Sanchez, Jennifer; Kuo, Hung-Jen; Wang, Chia-Chiang; Leahy, Michael J.",
+    "Article Title": "Gender Differences in Vocational Rehabilitation Service Predictors of Successful Competitive Employment for Transition-Aged Individuals with Autism",
+    "Abstract": "As males and females with autism spectrum disorder (ASD) experience different symptomology, their needs for vocational rehabilitation (VR) are unique as they transition into adulthood. This study examined the effects of gender differences in VR service predictors on employment outcomes for transition-aged individuals with ASD. A total of 1696 individuals (857 males and 839 females) were analyzed from a sample of RSA-911 data of FY 2011. Hierarchical logistic regression analyses were conducted. Results revealed both gender-independent VR service predictors (with job placement and on-the-job supports more beneficial for both genders) and gender-specific predictors of employment (with counseling and guidance, job search assistance, and other services more beneficial for the male group). This study provides support for individualized gender-specific VR services for people with ASD.",
+    "DOI": "10.1007/s10803-015-2480-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a hierarchical logistic regression analysis, which meets the inclusion criteria. The study is set in the US and covers the timeframe of 2011, which falls within the specified range. The intervention is vocational rehabilitation services, which is relevant to employment outcomes. The population is individuals with autism spectrum disorder, and the outcomes include employment rates.",
+            "study_design": "Hierarchical logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment; it focuses on vocational rehabilitation service predictors. The outcomes are related to successful competitive employment but do not meet the specific inclusion criteria for interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study using hierarchical logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with Autism Spectrum Disorder (ASD), not specifically on people with mental health disorders. The intervention is also not directly related to employment policies but rather to vocational rehabilitation services.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as having mental health disorders but rather autism spectrum disorder.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

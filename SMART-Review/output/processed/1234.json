@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1234,
+    "Authors": "Hammer, Leslie B.; Dimoff, Jennifer; Mohr, Cynthia D.; Allen, Shalene J.",
+    "Article Title": "A Framework for Protecting and Promoting Employee Mental Health through Supervisor Supportive Behaviors",
+    "Abstract": "The attention to workplace mental health is timely given extreme levels of burnout, anxiety, depression and trauma experienced by workers due to serious extraorganizational stressors - the COVID-19 pandemic, threats to climate change, and extreme social and political unrest. Workplace-based risk factors, such as high stress and low support, are contributing factors to poor mental health and suicidality (Choi, 2018; Milner et al., 2013, 2018), just as low levels of social connectedness and belonging are established risk factors for poor mental health (Joiner et al., 2009), suggesting that social support at work (e.g., from supervisors) may be a key approach to protecting and promoting employee mental health. Social connections provide numerous benefits for health outcomes and are as, or more, important to mortality as other well-known health behaviors such as smoking and alcohol consumption (Holt-Lundstad et al., 2015), and can serve as a resource or buffer against the deleterious effects of stress or strain on psychological health (Cohen & Wills, 1985). This manuscript provides an evidence-based framework for understanding how supervisor supportive behaviors can serve to protect employees against psychosocial workplace risk factors and promote social connection and belongingness protective factors related to employee mental health. We identify six theoretically-based Mental Health Supportive Supervisor Behaviors (MHSSB; i.e., emotional support, practical support, role modeling, reducing stigma, warning sign recognition, warning sign response) that can be enacted and used by supervisors and managers to protect and promote the mental health of employees. A brief overview of mental health, mental disorders, and workplace mental health is provided. This is followed by the theoretical grounding and introduction of MHSSB. Suggestions for future research and practice follow, all with the focus of developing a better understanding of the role of supervisors in protecting and promoting employee mental health in the workplace.",
+    "DOI": "10.1007/s41542-023-00171-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a theoretical framework and does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "theoretical framework",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation methods (RCTs, systematic reviews) and does not include employment outcomes. It focuses on supervisor supportive behaviors for protecting and promoting employee mental health but does not meet the inclusion criteria for interventions directly addressing employment or labor outcomes.",
+            "study_design": "Review without meta-analysis or RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Framework",
+            "logprobs": null
+        }
+    }
+}

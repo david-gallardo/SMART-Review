@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1505,
+    "Authors": "Ruesch, Nicolas; Staiger, Tobias; Waldmann, Tamara; Dekoj, Marie Christine; Brosch, Thorsten; Gabriel, Lisa; Bahemann, Andreas; Oexle, Nathalie; Klein, Thomas; Nehf, Luise; Becker, Thomas",
+    "Article Title": "Efficacy of a peer-led group program for unemployed people with mental health problems: Pilot randomized controlled trial",
+    "Abstract": "Background: People with long-term unemployment and mental health problems often find it difficult to take active steps toward help-seeking and job search and to navigate the complex system of available services. Likewise, job center staff would welcome interventions to improve the reintegration of long-term unemployed individuals with mental health problems into the labor market.Aim: To examine the efficacy of a peer-led group program that supports unemployed people with mental health problems in terms of help-seeking, job search and recovery.Methods: Based on participatory research, a four-session group program was designed and evaluated in a pilot randomized controlled trial (RCT) with 42 participants, randomized to the program (n=23) or treatment as usual (n=19). Outcomes were assessed at baseline (T0), 3weeks (T1), 6weeks (T2) and 6months later (T3).Results: There were no significant intervention effects on primary outcomes (job search self-efficacy and help-seeking). But compared to the control group, intervention participants showed significant improvements in depressive symptoms (p=.02) and recovery (p=.04) at T2 with medium effect sizes. There were trend-level positive program effects on self-stigma, hopelessness and secrecy.Conclusion: This pilot RCT provides initial evidence for the efficacy of a peer-led group program to improve symptoms and recovery among unemployed participants with mental health problems.",
+    "DOI": "10.1177/0020764019846171",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (job search services), population (people with mental health problems), and outcomes (includes measures of employment or labor results).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it is a pilot RCT, not a quasi-experimental study with a control group.",
+            "study_design": "Pilot randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, focuses on job search services for people with mental health problems, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

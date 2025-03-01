@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1216,
+    "Authors": "Lones, Carrie E.; Bond, Gary R.; McGovern, Mark P.; Carr, Kathryn; Leckron-Myers, Teresa; Hartnett, Tim; Becker, Deborah R.",
+    "Article Title": "Individual Placement and Support (IPS) for Methadone Maintenance Therapy Patients: A Pilot Randomized Controlled Trial",
+    "Abstract": "Individual Placement and Support (IPS) is an evidence-based employment model for people with severe mental illness, but it has not been evaluated for clients enrolled in substance abuse treatment programs. This study evaluated the effectiveness of IPS for people with opioid use disorders enrolled in an opioid treatment program. Within a randomized controlled experiment, 45 patients receiving methadone maintenance therapy were assigned to either IPS or a 6-month waitlist. The waitlist group received IPS after 6 months. The primary outcome assessed over 1 year compared the attainment of a job for the IPS condition to the waitlist comparison group. During the first 6 months after enrollment, 11 (50%) active IPS participants gained competitive employment compared to 1 (5%) waitlist participant (I (2) = 12.0, p < 0.001). Over 12 months of enrollment, 11 (50%) IPS participants gained competitive employment compared to 5 (22%) waitlist participants (I (2) = 3.92, p = 0.07). We conclude that IPS holds promise as an employment intervention for people with opioid use disorders in methadone maintenance treatment, but larger trials with longer follow-up are needed.",
+    "DOI": "10.1007/s10488-017-0793-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - implicitly), timeframe (2005-2025), intervention (job search services), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on opioid use disorder patients in methadone maintenance therapy, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating the effectiveness of supported employment (IPS) for people with opioid use disorders, which is a mental health condition. It includes employment outcomes and was conducted within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

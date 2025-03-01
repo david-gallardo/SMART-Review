@@ -1,0 +1,33 @@
+{
+    "ArticleID": 563,
+    "Authors": "Smith, Pierre; Nicaise, Pablo; Giacco, Domenico; Bird, Victoria Jane; Bauer, Michael; Ruggeri, Mirella; Welbel, Marta; Pfennig, Andrea; Lasalvia, Antonio; Moskalewicz, Jacek; Priebe, Stefan; Lorant, Vincent",
+    "Article Title": "Use of psychiatric hospitals and social integration of patients with psychiatric disorders: a prospective cohort study in five European countries",
+    "Abstract": "Purpose Long lengths of stay (LoS) in psychiatric hospitals or repeated admission may affect the social integration of patients with psychiatric disorders. So far, however, studies have been inconclusive. This study aimed to analyse whether long LoS or repeated admissions in psychiatric wards were associated in different ways with changes in the social integration of patients. Methods Within a prospective cohort study, data were collected on 2181 patients with a main ICD-10 diagnosis of psychotic, affective, or anxiety disorder, hospitalised in the UK, Italy, Germany, Poland, and Belgium in 2015. Social integration was measured at baseline and 1 year after admission using the SIX index, which includes four dimensions: employment, housing, family situation, and friendship. Regression models were performed to test the association between LoS, the number of admissions, and the change in social integration over the study period, controlling for patients' characteristics (trial registration ISRCTN40256812). Results A longer LoS was significantly associated with a decrease in social integration (beta = - 0.23, 95%CI - 0.32 to - 0.14, p = 0.03), particularly regarding employment (OR = 2.21, 95%CI 1.18-3.24, p = 0.02), housing (OR = 3.45, 95%CI 1.74-5.16, p < 0.001), and family situation (OR = 1.94, 95%CI 1.10-2.78, p = 0.04). In contrast, repeated admissions were only associated with a decrease in friendship contacts (OR = 1.15, 95CI% 1.08-1.22, p = 0.03). Conclusions Results suggest that a longer hospital LoS is more strongly associated with a decrease in patients' social integration than repeated admissions. Special attention should be paid to helping patients to find and retain housing and employment while hospitalised for long periods.",
+    "DOI": "10.1007/s00127-020-01881-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective cohort study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries (UK, Italy, Germany, Poland, and Belgium), within the specified timeframe (2015). The intervention is related to employment and social integration, and the population has documented mental health problems.",
+            "study_design": "prospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study without a control group, and it does not directly address employment interventions. The outcomes focus on social integration rather than employment or labor results.",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study, not a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group. The study also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. Additionally, the study population is not explicitly mentioned to be people with mental disorders or documented mental health problems, which is a requirement for inclusion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

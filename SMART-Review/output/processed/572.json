@@ -1,0 +1,33 @@
+{
+    "ArticleID": 572,
+    "Authors": "Hellstrom, Lone; Kruse, Marie; Christensen, Thomas Nordahl; Trap Wolf, Rasmus; Eplov, Lene Falgaard",
+    "Article Title": "Cost-effectiveness analysis of a supported employment intervention for people with mood and anxiety disorders in Denmark - the IPS-MA intervention",
+    "Abstract": "ObjectivesWe aimed to investigate the cost-utility and cost-effectiveness of a modified Individual Placement and Support intervention for people with mood and anxiety disorders (IPS-MA).MethodsCosts were assessed from a societal perspective. Health care costs were derived from registers and combined with data on use of IPS-MA services, municipal social care, and labour market services. EQ-5D was used to compute QALY. Missing data were imputed in a sensitivity analysis. We also computed the cost per gain in hours worked. Incremental cost-effectiveness ratios (ICER) were computed and bootstrapped to obtain confidence intervals for QALY and gain in hours worked.ResultsWe found no difference in overall costs between groups. A significant saving was found in use of labour market services in the IPS-MA group. But the IPS-MA group had significantly lower wage earnings compared to the control group. The intervention group had a higher, though statistically in-significant, increase in QALYs than the control group. The ICER did not show statistically significant results, but there was a tendency, that IPS-MA could have a positive effect on health-related quality of life without any additional costs. However, participants in the IPS-MA group had a significantly lower gain in hours worked compared to the control group.ConclusionsDespite a significant saving in use of labour market services, IPS-MA was not cost-effective. Participants in the IPS-MA group worked significantly fewer hours and earned significantly less than participants in the control group at 1-year follow-up.",
+    "DOI": "10.1080/08039488.2021.1877348",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cost-effectiveness analysis, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cost-effectiveness analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a cost-effectiveness analysis and lacks a control group for employment outcomes.",
+            "study_design": "Cost-effectiveness analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which is a key inclusion criterion.",
+            "study_design": "Cost-effectiveness analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders in Denmark (EU country), published within the specified timeframe, and includes labor outcomes such as hours worked.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

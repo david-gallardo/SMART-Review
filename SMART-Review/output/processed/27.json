@@ -1,0 +1,33 @@
+{
+    "ArticleID": 27,
+    "Authors": "Vlachou, Anastasia; Roka, Olga; Stavroussi, Panayiota",
+    "Article Title": "Experiences of workers with disabilities receiving supported employment services in Greece",
+    "Abstract": "People with disabilities (PwDs) are under-represented in the workforce, especially during times of economic recession. Supported employment is recognized as an effective practice for promoting work inclusion of PwDs, including people with intellectual disabilities (IDs). This study aimed at exploring the experiences of workers with ID or mental health conditions who received supported employment services in Greece. Semi-structured interviews were conducted with nine workers with ID and five with mental health conditions. The thematic analysis revealed that emotional pressure was experienced by the participants with mental health conditions and those with ID during the job search and the adaptation period, respectively. On-the-job training was available for the participants with ID and assistance in finding suitable job opportunities was given to those with mental health conditions. All participants highlighted the importance of maintaining employment. The findings can inform efforts on developing employment services targeting social and work inclusion for PwDs.",
+    "DOI": "10.1177/1744629519871172",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a qualitative research with semi-structured interviews, which meets the inclusion criteria. The study focuses on people with mental health conditions or documented mental health problems, and presents measures of employment or labor results.",
+            "study_design": "Qualitative research with semi-structured interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is based on qualitative data from semi-structured interviews and thematic analysis.",
+            "study_design": "Qualitative research (thematic analysis)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on supported employment services in Greece, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews) and lacks a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

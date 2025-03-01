@@ -1,0 +1,33 @@
+{
+    "ArticleID": 541,
+    "Authors": "Kocman, Andreas; Fischer, Linda; Weber, Germain",
+    "Article Title": "The Employers' perspective on barriers and facilitators to employment of people with intellectual disability: A differential mixed-method approach",
+    "Abstract": "BackgroundObtaining employment is among the most important ambitions of people with intellectual disability. Progress towards comprehensive inclusive employment is hampered by numerous barriers. Limited research is available on these barriers and strategies to overcome them.MethodA mixed method approach in a sample of 30 HR-managers was used to assess (i) differences in perceived barriers for employment of people with specific disabilities and mental disorders; (ii) barriers specific to employing people with intellectual disability; (iii) strategies to overcome these barriers.ResultsEmployers perceive more barriers for hiring people with intellectual disability and mental disorders than for physical disabilities. Employment for this population is hampered by a perceived lack of skills and legal issues. Strategies perceived as beneficial are supplying information, changes in organizational strategies and legal changes.ConclusionsEmployers' differentiated expectations and reservations towards hiring individuals with specific disabilities need to be taken into account to increase employment for people with intellectual disability.",
+    "DOI": "10.1111/jar.12375",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Mixed-method approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address the population of interest (people with mental disorders) and focuses on intellectual disability instead. It also lacks an intervention component related to employment policies.",
+            "study_design": "Mixed-method approach survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on employers' perspectives and not on interventions or outcomes for people with mental health disorders.",
+            "study_design": "Mixed-method approach",
+            "logprobs": "N/A"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the population includes people with intellectual disability rather than mental health disorders.",
+            "study_design": "Mixed-method approach",
+            "logprobs": null
+        }
+    }
+}

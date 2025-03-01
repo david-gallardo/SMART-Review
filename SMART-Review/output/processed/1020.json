@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1020,
+    "Authors": "Blajeski, Shannon; Smith, Matthew J.; Harrington, Meghan; Johnson, Jeffery; Ross, Brittany; Weaver, Addie; Razzano, Lisa A.; Pashka, Nicole; Brown, Adrienne; Prestipino, John; Nelson, Karley; Lieberman, Tovah; Jordan, Neil; Oulvey, Eugene A.; Mueser, Kim T.; McGurk, Susan R.; Bell, Morris D.; Smith, Justin D.",
+    "Article Title": "A Mixed-Methods Implementation Evaluation of Virtual Reality Job Interview Training in IPS Supported Employment",
+    "Abstract": "Objective: Employment rates among individuals with serious mental illness may be improved by engagement in the individual placement and support (IPS) model of supported employment. Results from a recent randomized controlled trial (RCT) indicate that virtual reality job interview training (VR-JIT) improves employment rates among individuals with serious mental illness who have been actively engaged in IPS for at least 90 days. This study reports on an initial implementation evaluation of VR-JIT during the RCT in a community mental health agency. Methods: A sequential, complementary mixed -methods design included use of qualitative data to improve understanding of quantitative findings. Thirteen IPS staff trained to lead VR-JIT implementation completed VR-JIT acceptability, appropriateness, and feasibility surveys. Participants randomly assigned to IPS with VR-JIT completed acceptability (N=42) and usability (N=28) surveys after implementation. The authors also conducted five focus groups with IPS staff (N= 11) and VR-JIT recipients (N= 13) and semistructured interviews with IPS staff (N=9) and VR-JIT recipients (N=4), followed by an integrated analysis process. Results: Quantitative results suggest that IPS staff found VRJIT to be highly acceptable, appropriate for integration with IPS, and feasible for delivery. VR-JIT was highly acceptable to recipients. Qualitative results add important context to the quantitative findings, including benefits of VR-JIT for IPS staff as well as adaptations for delivering technology -based interventions to individuals with serious mental illness. Conclusions: These qualitative and quantitative findings are consistent with each other and were influenced by VR-JIT's adaptability and perceived benefits. Tailoring VR-JIT instruction and delivery to individuals with serious mental illness may help optimize VR-JIT implementation within IPS. Psychiatric Services 2024; 75:228-236; doi: 10.1176/appi.ps.20230023",
+    "DOI": "10.1176/appi.ps.20230023",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and the intervention (VR-JIT) and population (individuals with serious mental illness) meet the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes as it focuses on the implementation evaluation of VR-JIT rather than its impact on employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental (mixed-methods design)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on supported employment for individuals with serious mental illness, conducted in the US within the specified timeframe and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

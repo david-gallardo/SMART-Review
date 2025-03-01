@@ -1,0 +1,33 @@
+{
+    "ArticleID": 216,
+    "Authors": "Mattila-Holappa, Pauliina; Joensuu, Matti; Ahola, Kirsi; Vahtera, Jussi; Virtanen, Marianna",
+    "Article Title": "Attachment to employment and education before work disability pension due to a mental disorder among young adults",
+    "Abstract": "Backround: We examined attachment to employment and education among young adults before they were granted a fixed-term work disability pension due to psychiatric diagnosis, and the factors associated with this attachment.Methods: The data comprised all persons aged 18-34 who received a new-onset fixed-term disability pension compensation due to a mental disorder in Finland in 2008 (N = 1163). The data were derived from pension applications and the enclosed medical records, and were linked to employment records from a period of three years before the disability pension. We analysed the factors associated with attachment to employment or education with log-binomial regression analysis.Results: Fifty percent of the participants were attached to employment or education before work disability pension. The attached were more often women; had higher basic and vocational education; had mood disorder rather than psychosis diagnosis as a primary diagnosis; and had no record of harmful alcohol use or drug use, or recorded symptoms of mental disorders already at school-age.Conclusions: The level of attachment to employment or education before work disability pension is low among young adults with mental disorders and several risk factors predict poor attachment; severe or comorbid mental disorder, early-life psychiatric morbidity, substance use, male sex, low basic education, and lacking vocational education.",
+    "DOI": "10.1186/s12888-016-0854-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Finland, within the EU, and within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on attachment to employment and education before receiving a work disability pension due to mental disorders.",
+            "study_design": "Cross-sectional analysis using log-binomial regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in one of the specified geographic locations (Finland is not included).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

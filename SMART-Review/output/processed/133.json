@@ -1,0 +1,33 @@
+{
+    "ArticleID": 133,
+    "Authors": "Lammerts, Lieke; Schaafsma, Frederieke G.; van Mechelen, Willem; Anema, Johannes R.",
+    "Article Title": "Process Evaluation of a Participatory Supportive Return to Work Program for Workers Without a Permanent Employment Contract, Sick-Listed Due to a Common Mental Disorder",
+    "Abstract": "Purpose This study aimed to perform a process evaluation of a participatory supportive return to work program for workers without a (permanent) employment contract, sick-listed due to a common mental disorder. The program consisted of a participatory approach, integrated care and direct placement in a competitive job. Our main questions were: were these components realized in practice and in accordance with the protocol? The evaluation took place alongside a randomized controlled trial. Methods The study population consisted of workers who filed a sickness benefit claim at the Dutch Social Security Agency, professionals of this agency and of vocational rehabilitation agencies. We focused on sick-listed workers and professionals who had actually participated in the intervention. Data was collected mainly by questionnaires. Results Only 36 out of 94 intervention group participants started with the program. In half of these cases application of integrated care was reported. Most other steps in the program were completed. However, fidelity to the protocol was low to reasonable. Much delay was observed in the execution of the program and only two sick-listed workers were placed in a competitive job. Still, satisfaction with the participatory approach was good. Conclusions Despite the positive evaluation of the participatory approach, the full program was executed less successfully compared to similar programs evaluated in earlier studies. This will probably affect the outcomes of our trial. Findings from this study will help to interpret these outcomes. Nevertheless, more knowledge is needed about experiences of stakeholders who participated in the program. Trial Registration NTR3563.",
+    "DOI": "10.1007/s10926-016-9625-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study focuses on workers without a permanent employment contract, sick-listed due to a common mental disorder, and presents measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (randomized controlled trial) and its population is not specifically defined as people with mental disorders. The intervention also does not directly address employment but rather focuses on return to work for workers without permanent contracts.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on a participatory supportive return to work program, not directly addressing employment interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Process Evaluation of a Participatory Supportive Return to Work Program",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating a supported employment program for people with mental health disorders in the Netherlands (EU country) within the specified timeframe. It includes relevant outcomes related to job placement.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

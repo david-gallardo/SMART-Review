@@ -1,0 +1,33 @@
+{
+    "ArticleID": 138,
+    "Authors": "Lubecka, Bogumila; Lubecki, Marek; Kasperczyk, Janusz; Josko-Ochojska, Jadwiga; Pudlo, Robert",
+    "Article Title": "Risk Modifying Factors of Anxiety and Depressive Disorders, Using the Example of a Population Study in the Zywiec District",
+    "Abstract": "The aim of this study was the identification of the risk modifying factors of anxiety and depressive disorders based on a population study. This study was conducted in a randomly selected group of 1659 adult inhabitants of the Zywiec district. Anonymous questionnaires consisting of a proprietary questionnaire and the Hospital Anxiety and Depression Scale (HADS) were used to collect the data. The conducted analysis revealed that the factors increasing the risk of depressive disorders in the studied population were female gender, age over 60, retirement period, primary and vocational education, unemployment, mental work and absolute lack of physical activity, but also daily and intensive sports, heavy smoking, chronic somatic diseases and misuse of sleeping pills and over-the-counter sedatives. Anxiety disorders occurred more often in the group of unemployed, self-employed or retired people. They also occurred more often in the group of people who do not perform any physical activity and use alcohol every day, but also among those who maintain abstinence, regularly smoke tobacco and use stimulants, suffer from somatic diseases and overuse sleeping drugs. Disease preventive factors for anxiety disorders and depression were a constant form of employment, moderate and regular physical activity, avoiding the use of psychoactive substances and the regular treatment of comorbid somatic diseases and insomnia.",
+    "DOI": "10.3390/ijerph181910248",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Population study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on identifying risk modifying factors of anxiety and depressive disorders based on a population study.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Population study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1023,
+    "Authors": "Amado, Isabelle; Moualla, Mona; Jouve, Julia; Brenugat-Herne, Lindsay; Attali, David; Willard, Dominique; Rigaut, Berangere; Malangin, Brigitte; Kern, Laurence; Meyniel, Clementine; Gaillard, Raphael; Plaze, Marion; Perquier, Florence; Yannick, Morvan",
+    "Article Title": "Employment, Studies and Feelings: Two to Nine Years After a Personalized Program of Cognitive Remediation in Psychiatric Patients",
+    "Abstract": "Employment rate in psychiatry is around 10 to 30%. Cognitive remediation (CR) associated with psychosocial rehabilitation shows good functional outcomes, with a high level of satisfaction in participants provided by tailored CR. However, few studies looked at the long-term outcome in participants who experienced such a program. This retrospective survey examines the outcome of persons having psychiatric diseases 2 to 9 years after being treated with a personalized CR program. The survey included 12 domains with questions relevant to work, studies, before CR (T1) and at the moment of the survey (T2), questions about housing, relatedness, familiar relationships and daily activities at T2. Finally, a narrative interview was included to express feelings of the participants about CR. Sixty-six participants completed the survey, and were treated with neurocognitive or social cognition programs. Their diagnosis was: schizophrenia (80.3%), neurodevelopment disorder (autism as well as genetic or metabolic disease with psychiatric expression) (15.2%) and bipolar disorder (4.5%). The comparison between T1 and T2 showed significant difference for job employment (P < 0.001), even for competitive jobs (p < 0.007), for performing studies (p = 0.033), for practicing a physical activity (0.033) or reading (0.002). Outcome was also examined in reference to the delay from CR to highlight changes in patient characteristics and service delivery over the years. Hence, the total sample was split in two subgroups: CR delivered in 2009-2013 (n = 37); CR delivered in 2014-2016 (n = 29). While in the former group more participants were working (p = 0.037), in the latter group, which was younger (p = 0.04), more participants were studying (p = 0.02). At T2, a majority of persons experienced no relapse, three years (79.1%) to 8 years (56.8%) after CR, when referring to the anamnesis. Concerning subjective perception of CR, participants expressed feelings concerning positive impact on clarity of thought, on cognitive functions, self-confidence, perceiving CR as an efficient help for work and studies. To conclude, even long years after a personalized CR program, good benefits in terms of employment or studies emerge when compared to the status before CR, with good determinants for recovery in terms of leisure or physical activity practice.",
+    "DOI": "10.3389/fpsyt.2020.00609",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a retrospective survey with a control group, meeting the inclusion criteria for study design. The study includes a control group (before CR) and a comparison group (after CR), making it a quasi-experimental study. The study also meets the geographic scope, timeframe, intervention, and population inclusion criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it is a retrospective survey without a control group.",
+            "study_design": "Retrospective survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on cognitive remediation (CR) rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "retrospective survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

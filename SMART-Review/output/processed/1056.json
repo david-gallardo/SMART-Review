@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1056,
+    "Authors": "Harper, Annie; Clayton, Ashley; Bailey, Margaret; Foss-Kelly, Louisa; Sernyak, Michael J.; Rowe, Michael",
+    "Article Title": "Financial Health and Mental Health Among Clients of a Community Mental Health Center: Making the Connections",
+    "Abstract": "Objectives: This study evaluated financial challenges, satisfaction with financial-management supports, and interest in additional or alternative supports among clients of a mental health center.Methods: Six focus groups were held with 39 clients of an urban community mental health center who reported having difficulty with their finances. Five focus groups were held with direct-care staff who provided services to the clients. Investigators used an inductive analytical approach to distill themes from notes taken during the focus groups.Results: Clients emphasized the challenges of living in poverty and described using complex strategies to sustain themselves, including negotiating benefits systems, carefully planning purchases, and developing and relying on social relationships. They spoke of having uneven access to tools and services for managing their money, such as advice from direct-care staff, representative payees, and bank accounts, and had varying opinions about their value. Noting concerns similar to those of clients, direct-care staff expressed frustration at the lack of support services for helping clients manage their finances. Both clients and staff expressed the need for more services to help clients with their finances.Conclusions: Findings suggest a need for more services to support people with mental illness to manage their finances, particularly a more flexible and broader range of options than are provided by current representative-payee mechanisms.",
+    "DOI": "10.1176/appi.ps.201400438",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on financial challenges and management supports among clients of a community mental health center.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on financial challenges and management among clients of a mental health center, not directly on employment or labor outcomes.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Qualitative study using focus groups",
+            "logprobs": null
+        }
+    }
+}

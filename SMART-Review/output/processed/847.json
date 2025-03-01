@@ -1,0 +1,33 @@
+{
+    "ArticleID": 847,
+    "Authors": "Hoelzle, Patricia; Baumbach, Anna; Mernyi, Lena; Hamann, Johannes",
+    "Article Title": "Return to Work: A Psychoeducational Module - An Intervention Study",
+    "Abstract": "Objective This study evaluated a psychoeducational intervention that aimed to facilitate return to work.Methods The randomized-controlled study trial was established at three psychiatric hospitals. The status of permanent employment in an age group of 18 to 60 served as main inclusion criterion. The intervention consisted of 5 sessions and covered topics such as disclosure of the diagnosis to colleagues and supervisors or legal frameworks in the return-to-work process. Participants of the control group received treatment as usual.Results The informative value of the comparisons was decreased by strong differences between the groups at baseline due to an allocation bias. However, participants of the intervention group felt more secure and prepared regarding their return to the workplace. In addition, participants developed a higher level of understanding regarding their rights within the legal frameworks when returning to work. More participants of the control group returned to work within 3 months. The decisive factor for a successful return to work was the intention of the participants to return at baseline.Conclusion The psychoeducational program was well accepted among participants and appeared to be a useful addition to individual counseling by social workers. However, the program did not increase the likelihood to return to work within three months.",
+    "DOI": "10.1055/s-0043-105775",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized-controlled trial, but it lacks a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation due to allocation bias and does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "RCT with allocation bias",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria specified in the inclusion criteria, as it focuses on psychoeducation rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized-controlled study trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe (psychiatric hospitals), within the specified timeframe, and focuses on an intervention related to job search services. The population includes people with mental health disorders, and it measures employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

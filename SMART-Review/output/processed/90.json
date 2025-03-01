@@ -1,0 +1,33 @@
+{
+    "ArticleID": 90,
+    "Authors": "Gantner, Melanie; Jarzcok, Marc Nicolas; Schneider, Juergen; Brandner, Stefan; Guendel, Harald; von Wietersheim, Joern",
+    "Article Title": "Psychotherapeutic Consultation Services in the Workplace: A Longitudinal Analysis of Treatments and Sick Leave Using Health Insurance Data",
+    "Abstract": "BackgroundPsychotherapeutic consultation services in the workplace (PSIW) have been developed to provide collaborative mental health care for employees. The aim of this study was to analyze participant characteristics, the role of PSIW in treatment courses, and the development of sick leave before and after PSIW start. MethodsRoutine data from PSIW and health insurance of 155 participants were analyzed descriptively and by means of a multilevel negative binomial regression. ResultsEighty-four percent of users were male, and 72% were diagnosed with a mental disorder. The number of PSIW consultations varied from 1 to 13 (mean = 4). For 34% of participants, PSIW sessions were sufficient, 33% received a recommendation for outpatient psychotherapy, and 20% for inpatient mental health treatment. While recommendations for inpatient treatment displayed a high adherence rate (74%), recommendations for outpatient treatment were followed by 37%. Compared with the period of a half-year before PSIW, sick-leave days were reduced from the period of the second half-year after PSIW start and in the subsequent observed half-year periods. Trajectories of sick leave by subgroups showed differences. ConclusionsPSIW is a flexible care offer, and results indicate a possible effect of PSIW on sick leave. In future studies, control group designs and inclusion of further variables are needed.",
+    "DOI": "10.3389/fpsyt.2022.838823",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multilevel negative binomial regression, which meets the inclusion criteria. The study is set in the EU, Europe, US, Canada, or Australia (Germany), and the timeframe is between 2005-2025. The intervention is PSIW, which is a job search service. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as sick leave.",
+            "study_design": "Multilevel negative binomial regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on sick leave reduction and does not meet the inclusion criteria for employment or labor outcomes.",
+            "study_design": "Descriptive analysis with multilevel negative binomial regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal Analysis",
+            "logprobs": null
+        }
+    }
+}

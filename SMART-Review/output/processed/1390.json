@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1390,
+    "Authors": "Rodriguez, Lindsey M.; Litt, Dana M.; Stewart, Sherry H.",
+    "Article Title": "Drinking to cope with the pandemic: The unique associations of COVID-19-related perceived threat and psychological distress to drinking behaviors in American men and women",
+    "Abstract": "The 2019 Coronavirus pandemic has brought about significant and unprecedented changes to the modern world, including stay-at-home orders, high rates of unemployment, and more than a hundred thousand deaths across the United States. Derived from the self-medication hypothesis, this research explored how perceived threat and psychological distress related to the COVID-19 pandemic are associated with drinking behavior among an American sample of adults. We also evaluated whether links between COVID-19-related perceived threat and psychological distress with drinking behavior are different for men and women. Participants (N = 754; 50% women) completed an online Qualtrics Panels study between April 17th and 23rd, 2020. Results suggested that psychological distress related to the COVID-19 pandemic was consistently related to alcohol use indices, and moderation results indicated this pattern was significant only among women for number of drinks consumed during the recent heaviest drinking occasion and number of drinks consumed on a typical evening. COVID-related distress' link to frequency of drinking and heavy drinking episodes was not different for men and women. Our results suggest that continued monitoring, particularly among women, should be conducted as this pandemic continues to evolve to identify the long-term public health impacts of drinking to cope with COVID-19 distress.",
+    "DOI": "10.1016/j.addbeh.2020.106532",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between COVID-19-related perceived threat, psychological distress, and drinking behaviors.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the association between perceived threat from the COVID-19 pandemic and drinking behaviors among American adults. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes for people with mental health disorders, but rather on drinking behaviors in response to perceived threat and psychological distress during the COVID-19 pandemic.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes related to mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

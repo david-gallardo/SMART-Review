@@ -1,0 +1,33 @@
+{
+    "ArticleID": 144,
+    "Authors": "Brinchmann, Beate; Wittlund, Sina; Lorentzen, Thomas; Moe, Cathrine; McDaid, David; Killackey, Eoin; Rinaldi, Miles; Mykletun, Arnstein",
+    "Article Title": "The societal impact of individual placement and support implementation on employment outcomes for young adults receiving temporary health-related welfare benefits: a difference-in-differences study",
+    "Abstract": "BackgroundIndividual placement and support (IPS) is an evidence-based practice that helps individuals with mental illness gain and retain employment. IPS was implemented for young adults at a municipality level through a cross-sectoral collaboration between specialist mental healthcare, primary mental healthcare, and the government funded employment service (NAV). We investigated whether IPS implementation had a causal effect on employment outcomes for all young adults in receipt of a temporary health-related rehabilitation (work assessment allowance, WAA) welfare benefit, measured at the societal level compared to municipalities that did not implement IPS.MethodWe used a difference in differences design to estimate the effects of IPS implementation on the outcome of workdays per year using longitudinal registry data. We estimate the average effect of being exposed to IPS implementation during four-years of implementation compared to ten control municipalities without IPS for all WAA recipients.ResultsWe found a significant, positive, causal effect on societal level employment outcomes of 5.6 (p = 0.001, 95% CI 2.7-8.4) increased workdays per year per individual, equivalent to 12.7 years of increased work in the municipality where IPS was implemented compared to municipalities without IPS. Three years after initial exposure to IPS implementation individuals worked, on average, 10.5 more days per year equating to 23.8 years of increased work.ConclusionsImplementing IPS as a cross sectoral collaboration at a municipality level has a significant, positive, causal, societal impact on employment outcomes for all young adults in receipt of a temporary health-related rehabilitation welfare benefit.",
+    "DOI": "10.1017/S0033291723003744",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a difference-in-differences study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, which meets the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Difference-in-differences study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (difference-in-differences), geographic scope (EU country - Norway), timeframe (2018-2023), intervention (individual placement and support), population (young adults receiving temporary health-related welfare benefits, i.e., mental health related), and outcomes (employment outcomes).",
+            "study_design": "Difference-in-Differences study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the societal impact of IPS implementation on employment outcomes for young adults receiving temporary health-related welfare benefits, which is not directly related to adult training, job search services, or supported employment interventions. The study's population is specific to young adults with mental health issues receiving a temporary health-related welfare benefit, which does not align with the general population of people with mental disorders as specified in the inclusion criteria.",
+            "study_design": "Difference-in-differences study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, EU country (Norway), within timeframe, relevant intervention (supported employment), population with mental health issues, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

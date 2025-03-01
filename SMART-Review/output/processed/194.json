@@ -1,0 +1,33 @@
+{
+    "ArticleID": 194,
+    "Authors": "Harvey, Samuel B.; Modini, Matthew; Joyce, Sadhbh; Milligan-Saville, Josie S.; Tan, Leona; Mykletun, Arnstein; Bryant, Richard A.; Christensen, Helen; Mitchell, Philip B.",
+    "Article Title": "Can work make you mentally ill? A systematic meta-review of work-related risk factors for common mental health problems",
+    "Abstract": "It has been suggested that certain types of work may increase the risk of common mental disorders, but the exact nature of the relationship has been contentious. The aim of this paper is to conduct the first comprehensive systematic meta-review of the evidence linking work to the development of common mental health problems, specifically depression, anxiety and/or work-related stress and to consider how the risk factors identified may relate to each other. MEDLINE, PsychInfo, Embase, the Cochrane Collaboration and grey literature databases were systematically searched for review articles that examined work-based risk factors for common mental health problems. All included reviews were subjected to a quality appraisal. 37 review studies were identified, of which 7 were at least moderate quality. 3 broad categories of work-related factors were identified to explain how work may contribute to the development of depression and/or anxiety: imbalanced job design, occupational uncertainty and lack of value and respect in the workplace. Within these broad categories, there was moderate level evidence from multiple prospective studies that high job demands, low job control, high effort-reward imbalance, low relational justice, low procedural justice, role stress, bullying and low social support in the workplace are associated with a greater risk of developing common mental health problems. While methodological limitations continue to preclude more definitive statements on causation between work and mental disorders, there is now a range of promising targets for individual and organisational-level interventions aimed at minimising mental health problems in the workplace.",
+    "DOI": "10.1136/oemed-2016-104015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic meta-review, which meets the inclusion criteria. The study scope is within the EU, Europe, US, Canada, and Australia, and the timeframe is between 2005 and 2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which are all related to employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic meta-review of review articles rather than a meta-analysis, RCT, cluster RCT, quasi-experimental study with a control group, or any other intervention-based study. It does not directly address employment interventions and outcomes.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic meta-review, not a primary study with original data, and it does not focus on interventions or outcomes directly related to employment.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic meta-review",
+            "logprobs": null
+        }
+    }
+}

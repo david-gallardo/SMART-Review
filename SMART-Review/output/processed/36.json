@@ -1,0 +1,33 @@
+{
+    "ArticleID": 36,
+    "Authors": "Cook, Judith A.; Burke-Miller, Jane K.; Roessel, Emily",
+    "Article Title": "Long-Term Effects of Evidence-Based Supported Employment on Earnings and on SSI and SSDI Participation Among Individuals With Psychiatric Disabilities",
+    "Abstract": "Objective: This study examines the long-term effects of evidence-based supported employment services on three vocational outcomes: tabor force participation, earnings, and attainment of Social Security Administration (SSA) non beneficiary status through suspension or termination of disability cash payments due to work (NSTW).Method: Data from 449 individuals with psychiatric disabilities who participated in a multisite controlled trial of supported employment were matched to SSA data over a 13-year period (2000-2012) following supported employment services. Long-term outcomes were analyzed using random effects regression models comparing participants in the experimental and control conditions on measures of employment, earnings, and attainment of NSTW. The authors adjusted for time, age, race/ethnicity, gender, education, schizophrenia diagnosis, substance abuse history, and geographic region.Results: Overall outcomes were modest across the 13-year follow-up, with 32.9% of participants having any earned income and 13.1% ever attaining NSTW. Supported employment recipients were almost three times as likely as control subjects to be employed over 13 years (odds ratio=2.89). Although earnings were low, supported employment participants had significantly higher earnings per month than control subjects over time (parameter estimate=$23.82) and were more likely than control subjects to attain NSTW (odds ratio=12.99). The supported employment effect diminished and was completely attenuated over time.Conclusions: The study's findings indicate a small but significant vocational advantage accruing to recipients of evidence-based supported employment in the decade following service delivery, adding to the evidence on the durability of supported employment effects. Results can inform policies designed to help workers enhance economic security and reduce dependence on Social Security disability benefits.",
+    "DOI": "10.1176/appi.ajp.2016.15101359",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a controlled trial with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is supported employment, the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT (Randomized Controlled Trial)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (US), timeframe (2000-2012 within the range of 2005-2025), intervention (supported employment), population (individuals with psychiatric disabilities), and outcomes (employment, earnings, and attainment of NSTW).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on EU countries (Germany, UK, and the Netherlands), and covers the timeframe of 2005-2025. The intervention is job search services, which is one of the specified interventions, and the population is people with mental disorders. The outcomes include employment rates and job retention, which are relevant to the study's objective.",
+            "study_design": "Systematic review of controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study (2000-2012) does not meet the inclusion criteria (2005-2025).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1258,
+    "Authors": "Luo, Yanan; Xu, Ming; Liang, Richard",
+    "Article Title": "Economic insecurity exposure and cognitive function in late life",
+    "Abstract": "ObjectivesThis study took the State-owned Enterprises (SOE) reform from 1996 to 2002 in China as a natural experiment to explore the consequences of economic insecurity exposure during early-adulthood and mid-adulthood on cognitive function in later life.MethodsData were obtained from the China Health and Retirement Longitudinal Survey (CHARLS), 2014 and 2015. CHARLS is a nationally representative survey covering 28 provinces in China. A total of 4536 urban dwellers born earlier than 1971 (aged 25 years old and above at the start of the SOE reform in 1996) were included in our analyses. Using province-year-level economic loss from the layoffs, we examined the impact of economic insecurity exposure on the cognitive function score by using a difference-in-differences model with 1996-2002 as the cut-off.ResultsIndividuals exposed to economic insecurity have significantly decreased cognitive function, in which a 1% point increase in expected economic loss would decrease the cognitive function score by 0.09 (95% CI: -0.17 to -0.01). Given that the average intensity of expected economic loss was 11.59% and the mean score of cognitive function was 21.26, exposure to the SOE reforms led to an average decrease in the cognitive function score by at least 4.91%.ConclusionsProviding cognitive health surveillance and psychological counselling may be important for preventing cognitive decline among those experiencing economic insecurity.",
+    "DOI": "10.1136/jech-2023-220481",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a difference-in-differences model with 1996-2002 as the cut-off, but it lacks a control group.",
+            "study_design": "difference-in-differences model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (China) and its intervention does not directly address employment. The focus of the research is on economic insecurity exposure and cognitive function in late life, which does not align with the objective to identify what works in active employment policies for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on cognitive function in late life and does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (China) and does not address employment interventions.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

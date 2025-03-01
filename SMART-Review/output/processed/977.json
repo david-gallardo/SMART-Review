@@ -1,0 +1,33 @@
+{
+    "ArticleID": 977,
+    "Authors": "Kyron, Michael J.; Rikkers, Wavne; Page, Andrew C.; O'Brien, Patrice; Bartlett, Jennifer; LaMontagne, Anthony; Lawrence, David",
+    "Article Title": "Prevalence and predictors of suicidal thoughts and behaviours among Australian police and emergency services employees",
+    "Abstract": "Objective: This study presents rates of suicide thoughts and behaviours of police and emergency services personnel around Australia. In addition, it examines personal (i.e. mental health, substance use) and working environment risk and protective factors. Method: A stratified random sample of personnel from 33 Australian emergency services organisations were invited to participate in a mental health and wellbeing survey. In total, 14,868 Australian ambulance, fire and rescue, police and state emergency services employees participated and self-reported any suicidal thoughts, plans and/or attempts in the 12 months prior to the survey or at any stage in their life. Logistic regressions assessed factors associated with suicidal thoughts and behaviours. Results: Employees reported notably higher rates of suicidal thoughts and plans than the general Australian adult population, but not attempts. Male, single/divorced, non-heterosexual or longer-serving employees reported higher rates of suicidal thoughts and behaviours across each sector. Perceptions of stigma regarding mental health conditions from others in the workplace, negative impact of work on one's private life and low meaning of work were associated with suicidal thoughts, while bullying significantly differentiated who planned and attempted suicide from those who reported suicidal thoughts only. Higher resilience and social support were associated with lower suicidal thoughts, while intermittent explosive anger and illegal drug use were associated with higher rates of suicidal thoughts. Post-traumatic stress disorder symptoms significantly differentiated who planned suicide, while misuse of prescription drugs and psychological distress differentiated who attempted suicide from those who only reported suicidal thoughts. Conclusion: Amid inherently stressful occupations, it is important that workplaces function in a way that supports their personnel. Access to mental health services should be promoted and readily available to personnel.",
+    "DOI": "10.1177/0004867420937774",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines suicidal thoughts and behaviors among police and emergency services employees, but does not address employment or labor outcomes.",
+            "study_design": "Cross-sectional survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the prevalence and predictors of suicidal thoughts and behaviors among Australian police and emergency services employees.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey with logistic regressions",
+            "logprobs": null
+        }
+    }
+}

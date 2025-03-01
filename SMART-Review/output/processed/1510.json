@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1510,
+    "Authors": "Sharp, Madison; Parpia, Alyssa; Ahram, Mamoun; Mahmoud, Refqi; Khoshnood, Kaveh",
+    "Article Title": "Prevalence of and risk factors for depression among female Syrian refugees and Jordanians with chronic disease: a pilot study",
+    "Abstract": "Background: Chronic disease and depression are primary contributors to morbidity among displaced and local populations. Aims: This study aims to address the prevalence for and risk factors of comorbid depression among Jordanian and Syrian women with known chronic disease. Methods: To provide evidence for mental health intervention planning, we conducted a cross-sectional survey to investigate determinants of depression among female Syrian refugees and Jordanians with chronic disease living in Amman. A total of 272 female Syrian refugees and Jordanians with chronic disease were recruited from 4 clinics across Amman from June to August 2017. We compared demographic and health characteristics and depression level and identified predictors of depression via multivariable ordinal regression. Results: Moderate to high levels of depression were reported in 55.9% of the participants, with a prevalence of 41.1% among Jordanians and 70.6% among Syrians. Syrians with chronic disease had 2.73 times greater odds of higher levels of depression than their Jordanian peers. After adjusting for age, income, spouse employment status, gastrointestinal or genitourinary disorder status, and perceived self-efficacy, Syrians were not at significantly greater odds of reporting higher levels of depression. Risk factors for higher depression levels included having an unemployed spouse, diagnosis of gastrointestinal or genitourinary disorder and low perceived self-efficacy. Conclusion: Depression is frequently comorbid with chronic physical conditions and has a deleterious impact on health status. Mental health interventions and chronic disease management tailored to differences among local and displaced communities may reduce disease burden and disability.",
+    "DOI": "10.26719/emhj.20.123",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 289,
+    "Authors": "Porter, Susann; Bejerholm, Ulrika",
+    "Article Title": "The effect of individual enabling and support on empowerment and depression severity in persons with affective disorders: outcome of a randomized control trial",
+    "Abstract": "Purpose: To evaluate the effect of Individual Enabling and Support (IES) on empowerment and depression severity as compared to Traditional Vocational Rehabilitation (TVR) in people with affective disorders at 12months follow-up. Additionally, longitudinal changes within the intervention groups and the correlation over time between empowerment and depression severity were evaluated.Method: A single-blind randomized controlled trial of two intervention groups, IES (n=33) and TVR (n=28), was performed with measurement points at baseline, 6, and 12months. Individuals with affective disorders, including depression and bipolar disorder diagnoses were included. The Empowerment Scale and Montgomery-angstrom sberg Depression Self-Rating Scale were administered, and Intention-To-Treat analysis was applied. The study was registered with the trial number ISRCTN93470551.Result: There was a statistically significant difference between the intervention groups on empowerment and depression severity at 12months. Within-group analysis showed that IES-participants increased their perceived empowerment and decreased their depression severity between measurement points, this was not seen among TVR-participants. A moderate, inverse relationship was detected between empowerment and depression.Conclusion: IES is more effective in increasing empowerment and decreasing depression severity after a 12-month intervention than is TVR. This study was limited by a small sample size and larger trials in different contexts are needed.",
+    "DOI": "10.1080/08039488.2018.1432685",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group (TVR) and evaluates employment or labor outcomes (empowerment and depression severity) in people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on increasing empowerment and decreasing depression severity using Individual Enabling and Support (IES) compared to Traditional Vocational Rehabilitation (TVR).",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on affective disorders, not specifically on mental health disorders in general, and the intervention is not directly related to employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted within the specified timeframe (2005-2025), and focuses on people with mental health disorders. The intervention involves job search services and adult training, and it includes employment outcomes such as job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

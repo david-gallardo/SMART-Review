@@ -1,0 +1,33 @@
+{
+    "ArticleID": 433,
+    "Authors": "Cramm, Heidi; Richmond, Rachel; Jamshidi, Laleh; Edgelow, Megan; Groll, Dianne; Ricciardelli, Rose; MacDermid, Joy Christine; Keiley, Michael; Carleton, R. Nicholas",
+    "Article Title": "Mental Health of Canadian Firefighters: The Impact of Sleep",
+    "Abstract": "Volunteer and career firefighters are at risk of major depressive disorders, posttraumatic stress disorder (PTSD), alcohol use disorder, and other mental health disorders due to the demanding and unpredictable nature of their employment. The mental health risks are exacerbated by the need to work extended hours, night shifts, and/or rotating schedules, or the competing demands of other employment, especially in volunteer firefighters. The mental health disorders and risk factors interact with altered sleeping patterns. In the current study, we examined volunteer and career firefighters regarding the association between mental health and sleep, drawing from a national Canadian mental health survey of 1217 firefighters. Most (69%) of the firefighters reported less than ideal sleep quality and 21% screened positive for clinical insomnia, with no significant difference between volunteer and career subgroups. Firefighters with insomnia had higher odds ratios (OR) and frequencies for PTSD (OR = 4.98), generalized anxiety disorder (OR = 7.15), panic disorder (OR = 6.88), social phobia (OR = 4.98), and major depressive disorder (OR = 7.91), than firefighters without insomnia. The burden of sleep disorders and their association with mental health disorders suggests that sleep should be considered in health monitoring and self-management, environmental design, fire service work-organization policies, and health programming.",
+    "DOI": "10.3390/ijerph182413256",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the association between mental health and sleep patterns in firefighters.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes. It focuses on the mental health of firefighters and their sleep quality without examining any active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1226,
+    "Authors": "Puig-Barrachina, Vanessa; Giro, Pol; Artazcoz, Lucia; Bartoll, Xavier; Cortes-Franch, Imma; Fernandez, Ana; Gonzalez-Marin, Patricia; Borrell, Carme",
+    "Article Title": "The impact of Active Labour Market Policies on health outcomes: a Scoping review",
+    "Abstract": "Background: Since the last Western great recession of 2008, an increasing interest on the effects of Active Labour Market Policies (ALMPs) on improving health has emerged. The aim of our review is to synthesize evidence on the effectiveness of ALMPs and whether some types of ALMP are more effective. Methods: Using the Scoping review methodology, we conducted a literature review in PubMed/MEDLINE, Scopus and Web of Science and selected articles published between 1990 and 2017 in high income countries. We applied four sequential phases of document screening to the list of retrieved articles. Results: Of the 416 documents detected in the search, 36 documents were finally selected. Most of them focused on mental health and related components (72.2%) and found positive results at least in one outcome (80.6%). The ALMPs reported mainly attempt to build capacity through job search assistance (31.6%) with a component on mental health, showing positive results on health; some offer job training (16.7%) and few subsidized employment (8.3%), showing more controversial results, although mostly positive. The rest include a combination of different types of ALMPs. Conclusions: This review shows that ALMPs have a positive impact on health and quality of life. There are relatively few studies of the impact of ALMPs on general health, and most of the studies found are focused on Anglo-Saxon and Nordic countries. The most significant knowledge gaps are the mechanisms involved in achieving this improvement, and above all the differential health impacts according to axes of inequality and welfare state.",
+    "DOI": "10.1093/eurpub/ckz026",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. The timeframe does not meet the criteria as it ends in 2017 instead of 2005-2025. Additionally, the geographic scope is limited to high-income countries but does not specifically include EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of ALMPs on health outcomes, not specifically on employment or labor outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study. Additionally, the timeframe includes publications before 2005.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

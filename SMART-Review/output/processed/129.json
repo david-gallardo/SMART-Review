@@ -1,0 +1,33 @@
+{
+    "ArticleID": 129,
+    "Authors": "Mikkelsen, Mai Bjornskov; Rosholm, Michael",
+    "Article Title": "Systematic review and meta-analysis of interventions aimed at enhancing return to work for sick-listed workers with common mental disorders, stress-related disorders, somatoform disorders and personality disorders",
+    "Abstract": "Objectives Mental disorders are associated with significant functional impairment, sickness absence and disability. The consequences of sickness absence warrant investigation into interventions aimed at enhancing return to work (RTW) for workers with mental disorders. The present systematic review and meta-analysis aim to synthesise evidence on the effectiveness of interventions aimed at enhancing RTW in sick-listed workers with mental disorders.Methods EconLit, Embase, PsychInfo, PubMed, Svemed+ andWeb of Science were searched for peer-reviewed, randomised or controlled studies assessing employment-related outcomes of interventions. A meta-analysis was conducted and meta-regressions were performed to explore prespecified potential sources of heterogeneity between studies.Results The literature search yielded 3777 publications of which 42 (n=38938) were included in the systematic review and 32 (n=9459) had appropriate data for the meta-analysis. The pooled effect size (95% CI) was 0.14 (0.07 to 0.22). Meta-regressions revealed that the heterogeneity could not be attributed to study quality, timing of the intervention or length of the intervention. However, it could be partly explained by number of components included in the intervention, if the intervention included contact to the work place and by the disorder targeted by the intervention.Conclusions The results reveal strong evidence for interventions including contact to the work place and multicomponent interventions and moderate evidence for interventions including graded RTW. In addition, the results provide strong evidence for interventions targeting stress compared with interventions targeting other mental disorders. The findings point to important implications for policy and design of future interventions.",
+    "DOI": "10.1136/oemed-2018-105073",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study includes data from various databases, and the meta-analysis was conducted to explore the effectiveness of interventions aimed at enhancing return to work for workers with mental disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria on study design (systematic review), geographic scope (EU countries, Europe), timeframe (2005-2023), intervention (return to work interventions), population (sick-listed workers with mental disorders), and outcomes (employment-related outcomes).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on sick-listed workers with mental disorders, which is not explicitly mentioned in the inclusion criteria. The inclusion criteria require studies to focus on people with documented mental health problems, not specifically on sick-listed workers.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

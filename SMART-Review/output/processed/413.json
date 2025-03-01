@@ -1,0 +1,33 @@
+{
+    "ArticleID": 413,
+    "Authors": "Lovvik, Camilla; overland, Simon; Nielsen, Morten Birkeland; Jacobsen, Henrik Borsting; Reme, Silje Endresen",
+    "Article Title": "Associations between workplace bullying and later benefit recipiency among workers with common mental disorders",
+    "Abstract": "Objective In this study, we examined exposure to workplace bullying as a predictor of registry-based benefit recipiency among workers struggling with work participation due to common mental disorders. Further, we examined if the experience of receiving social support moderated the association between workplace bullying and benefit recipiency. Design Secondary analyses of a randomized controlled trial. Patients People struggling with work participation due to common mental disorders (CMD). Methods Study participants (n = 1193) were from a randomized controlled trial (The At Work and Coping trial (AWaC), trial registration NCT01146730), and self-reported CMD as a main obstacle for work participation. Participants were at risk of sickness absence, currently on sickness absence or on long-term benefits. Benefit recipiency indicated sickness absence and/or long-term benefits (i.e., disability pension) at 6-month follow-up. Results Of the 1193 participants, 36% reported exposure to workplace bullying. Workplace bullying was significantly associated with benefit recipiency at 6-month follow-up (OR 1.41, CI 1.11-1.79). Social support did not moderate the association between bullying and benefit recipiency. Conclusions The finding that workplace bullying increases the risk of later benefit recipiency suggest that bullying is a significant obstacle for work participation.",
+    "DOI": "10.1007/s00420-021-01764-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also examines employment or labor outcomes (benefit recipiency) and focuses on people with mental disorders (common mental disorders).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group. It is secondary analyses of a randomized controlled trial but the primary trial's design does not meet the inclusion criteria.",
+            "study_design": "Secondary analyses of a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace bullying and its association with benefit recipiency among workers with common mental disorders, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Secondary analyses of a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on workplace bullying and its association with benefit recipiency rather than active employment policies.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        }
+    }
+}

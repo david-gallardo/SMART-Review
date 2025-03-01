@@ -1,0 +1,33 @@
+{
+    "ArticleID": 519,
+    "Authors": "Krasselt, Alexandra; Stengler, Katarina; Steinberg, Holger",
+    "Article Title": "Work Participation for People with Severe Mental Illnesses: A Challenge Yesterday and Today",
+    "Abstract": "Throughout its history, German psychiatry has been aware of the challenge it imposes to capacitate persons with severe mental disorders to participate in the job market. In the past, it was above all work therapy that was seen as an instrument to overcome this problem. The reform efforts of the Rodewisch Propositions can serve as an example. In Germany, social law legislation favored the classic rehabilitation sector to provide labor market participation benefits. Aiming at reintegrating patients in labor was not regarded a primary task of acute psychiatry. This approach should be altered to maintain the employability of mentally ill people and to prevent early retirement because of mental illnesses.",
+    "DOI": "10.1055/a-1123-0562",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The article is an overview of historical approaches in German psychiatry without presenting original data from controlled trials, RCTs, or quasi-experimental studies.",
+            "study_design": "Review/Overview",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the historical perspective of German psychiatry and does not directly address active employment policies or interventions for people with mental health disorders in the specified geographic scope or timeframe.",
+            "study_design": "historical review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

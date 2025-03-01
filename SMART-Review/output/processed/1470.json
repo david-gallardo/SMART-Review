@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1470,
+    "Authors": "Romppainen, Katri; Saloniemi, Antti; Kinnunen, Ulla; Liukkonen, Virpi; Virtanen, Pekka",
+    "Article Title": "Does provision of targeted health care for the unemployed enhance re-employment?",
+    "Abstract": "Background: There is increasing pressure to develop services to enhance the health of the workforce on the periphery of the labour market. Health promotion among unemployed people may improve their health but also to increase their employability. We tested whether re-employment can be enhanced with a health care intervention targeted at the unemployed.Methods: A 3-year follow-up, controlled design was used. The data were collected among unemployed people (n = 539) participating in active labour market policy measures. The baseline survey included established habitually used health questionnaires. The intervention consisted of three health check-ups and on-demand health services. Logistic regression analyses were used to obtain the odds ratios of the intervention group versus control group for being re-employed at follow-up. Health-related differences in the re-employment effects of the intervention were assessed through the significance of the interaction in the regression analyses.Results: The intervention did not serve to improve re-employment: at follow-up 50% of both the intervention group and the control group were at work. In further analyses, the odds ratios showed that the intervention tended to improve re-employment among participants in good health, whereas an opposite tendency was seen among those with poor health. The differences, however, were statistically non-significant.Conclusion: The experimental health service did not show any beneficial effects on re-employment. Nevertheless, rather than considering any particular health care as unnecessary and ineffective, we would like to stress the complexity of providing health services to match the diversity of the unemployed.",
+    "DOI": "10.1186/1471-2458-14-1200",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not have a control group and uses a non-RCT design.",
+            "study_design": "Controlled design with no randomization",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on unemployed individuals in general.",
+            "study_design": "Controlled design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a controlled trial with a control group, focuses on an intervention related to job search services (active labor market policy measures), includes people with mental health problems (unemployed people), and reports employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

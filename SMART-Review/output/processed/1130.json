@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1130,
+    "Authors": "Widman, Cheryl J.; Lopez-Reyna, Norma A.",
+    "Article Title": "Supports for Postsecondary Students with Autism Spectrum Disorder: A Systematic Review",
+    "Abstract": "In order to survey extant literature examining support specifically for postsecondary students with Autism Spectrum Disorder (ASD), a systematic review of the literature was conducted through a synthesis of an established protocol of quality indicators for special education research and the methodology for PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses). Eight themes were identified describing features of programs, interventions, and supports that were implemented or described in the 21 studies reviewed. One of the themes, parent support, is underexamined in the literature relating to postsecondary institutions. Recommendations for needed research are included.",
+    "DOI": "10.1007/s10803-020-04409-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment) as it focuses on programs, interventions, and supports for postsecondary students with Autism Spectrum Disorder.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is postsecondary students with Autism Spectrum Disorder, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on postsecondary students with Autism Spectrum Disorder (ASD), not specifically on people with mental health disorders in general.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but rather students with Autism Spectrum Disorder.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

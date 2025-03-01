@@ -1,0 +1,33 @@
+{
+    "ArticleID": 915,
+    "Authors": "Hasson-Ohayon, Ilanit; Roe, David; Yanos, Philip T.; Lysaker, Paul H.",
+    "Article Title": "The trees and the forest: mixed methods in the assessment of recovery based interventions' processes and outcomes in mental health",
+    "Abstract": "Background: Recent developments in mental health have emphasized recovery as an outcome for people with serious mental illness (SMI). Accordingly, several studies have attempted to evaluate the process and outcome of recovery-oriented psychosocial interventions.Aims: To review and discuss quantitative and qualitative findings from previous efforts to study the impact of five recovery-oriented interventions: Illness Management and Recovery (IMR), Narrative Enhancement and Cognitive Therapy (NECT), Supported Employment (SE), Supported Socialization (SS), and Family Psychoeducation.Methods: Reviewing the literature on studies that examine the effectiveness of these interventions by using both quantitative and qualitative approach.Results: Qualitative findings in these studies augment quantitative findings and at times draw attention to unexpected findings and uniquely illuminate the effects of these interventions on self-reflective processes.Conclusions: There is a need for further exploration of how mixed-methods can be implemented to explore recovery-oriented outcomes. Critical questions regarding the implications of qualitative findings are posed.",
+    "DOI": "10.3109/09638237.2015.1101419",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of literature with both quantitative and qualitative approaches, but it lacks a control group.",
+            "study_design": "Systematic review with qualitative findings",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies) and does not focus directly on employment outcomes. It reviews recovery-oriented interventions but does not provide specific employment or labor outcomes.",
+            "study_design": "Review of literature using both quantitative and qualitative approaches",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on recovery-oriented psychosocial intervent\u00e9ments, which do not meet the specified intervention criteria.",
+            "study_design": "Mixed methods review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study includes Supported Employment (SE) as an intervention and focuses on people with serious mental illness (SMI), with outcomes that may include employment-related measures.",
+            "study_design": "Systematic review of mixed methods studies",
+            "logprobs": null
+        }
+    }
+}

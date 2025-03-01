@@ -1,0 +1,33 @@
+{
+    "ArticleID": 151,
+    "Authors": "Tsai, Jack; Finlay, Andrea; Flatley, Bessie; Kasprow, Wesley J.; Clark, Sean",
+    "Article Title": "A National Study of Veterans Treatment Court Participants: Who Benefits and Who Recidivates",
+    "Abstract": "Although there are now over 400 veterans treatment courts (VTCs) in the country, there have been few studies on participant outcomes in functional domains. Using national data on 7931 veterans in the Veterans Affairs (VA) Veterans Justice Outreach program across 115 VA sites who entered a VTC from 2011 to 2015, we examined the housing, employment, income, and criminal justice outcomes of VTC participants; and identified veteran characteristics predictive of outcomes. VTC participants spent an average of nearly a year in the program and 14% experienced a new incarceration. From program admission to exit, 10% more participants were in their own housing, 12% more were receiving VA benefits, but only 1% more were employed. Controlling for background characteristics, a history of incarceration predicted poor criminal justice, housing, and employment outcomes. Participants with property offenses or probation/parole violations and those with substance use disorders were more likely to experience a new incarceration. Participants with more mental health problems were more likely to be receiving VA benefits and less likely to be employed at program exit. Together, these findings highlight the importance of proper substance abuse treatment as well as employment services for VTC participants so that they can benefit from the diversion process.",
+    "DOI": "10.1007/s10488-017-0816-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on housing, income, and criminal justice outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and is focused on veterans treatment courts rather than active employment policies for people with mental health disorders. It also lacks a control group.",
+            "study_design": "Observational study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans treatment courts (VTCs) and their outcomes, which is not directly related to employment policies for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not directly address interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

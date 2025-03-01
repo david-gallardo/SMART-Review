@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1090,
+    "Authors": "Kukla, Marina; Salyers, Michelle P.; Strasburger, Amy M.; Johnson-Kwochka, Annalee; Amador, Emily; Lysaker, Paul H.",
+    "Article Title": "Work-Focused Cognitive Behavioral Therapy to Complement Vocational Services for People With Mental Illness: Pilot Study Outcomes Across a 6-Month Posttreatment Follow-Up",
+    "Abstract": "Objective: People with mental illness frequently have trouble obtaining and keeping competitive employment and struggle with on-the-job performance. To address these issues, the manualized, group-based, 12-session Cognitive Behavioral Therapy for Work Success (CBTw) intervention was developed and tested in an open trial. Although posttreatment work outcomes were promising, lasting effects associated with the intervention are unknown. Method: This article presents the 6-month posttreatment work outcomes of the open trial of CBTw in 52 adults with mental illness who were concurrently receiving VA vocational services. Work outcomes included work status, hours worked and wages earned, steady work status, and work performance and effectiveness. Data were analyzed using repeated measures analysis of variances (ANOVAs) and within groups t tests. Results: Findings demonstrate that 75% of unemployed participants at baseline obtained competitive work during the study period. During the 6-month follow-up period, 73% of workers attained steady work status (i.e., working at least 50% of the follow-up period). In addition, during the 6-month follow-up period, working participants averaged significantly more hours of work per week and higher wages earned per hour as compared with the baseline period and the 12-week postintervention period. Finally, among workers, reports of work effectiveness remained high at 6 months and work productivity disruptions remained low at follow-up. Conclusions and Implications for Practice: These findings suggest that CBTw may potentially be a useful tool to enhance the effects of vocational programs. Future work should test CBTw in a randomized controlled trial and examine strategies for implementation in real-world vocational service settings.",
+    "DOI": "10.1037/prj0000365",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an open trial without a control group, and the intervention does not directly address employment policies.",
+            "study_design": "Open trial",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted across EU countries, Europe, US, Canada, and Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005 and 2025, meeting the inclusion criteria. The intervention is job search services, adult training, wage subsidies, and supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "open trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an open trial with a control group, focuses on job search services and adult training for people with mental illness in the US, published within the specified timeframe, and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

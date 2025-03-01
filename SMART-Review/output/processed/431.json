@@ -1,0 +1,33 @@
+{
+    "ArticleID": 431,
+    "Authors": "Pernice, Francesca M.; Price, Megan H.; Rice, Kevin",
+    "Article Title": "Why We Come: Clubhouse Members Seek Connection, Purpose and Meaning",
+    "Abstract": "Approximately 4.5% of U.S. adults live with a serious mental illness (SMI) (Substance Abuse and Mental Health Services Administration, 2018). Creating a place for people seeking structure, connection, and purpose following psychiatric hospitalization or for mental health recovery is difficult given several factors associated with illness trajectories, lack of community-based support programs, and reliance on traditional models of care. Using semi-structured interviews, the current study examined the reasons people attend community programs referred to as psychosocial clubhouses. Interviews with 140 people across 10 clubhouse programs in one state were conducted. Qualitative analyses revealed that social connections and the need to reduce social isolation were driving forces for attending. Further, individuals noted that the structure of engaging in meaningful activities and roles was a main reason for participating. Authors discuss the continued need for community models that provide a place for all people to successfully engage and recover from psychiatric illnesses.",
+    "DOI": "10.1007/s10597-020-00685-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews), which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews) without a control group or rigorous evaluation. It does not present measures of employment or labor outcomes and focuses on reasons for attending community programs rather than interventions to improve employment.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "Semi-structured interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes.",
+            "study_design": "Qualitative study using semi-structured interviews",
+            "logprobs": null
+        }
+    }
+}

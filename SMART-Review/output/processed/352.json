@@ -1,0 +1,33 @@
+{
+    "ArticleID": 352,
+    "Authors": "Scott-Storey, Kelly; O'Donnell, Sue; Busolo, David; DiTommaso, Enrico; Malcolm, Jeannie; Taylor, Petrea; Vincent, Charlene D.; Wuest, Judith",
+    "Article Title": "Cumulative lifetime violence severity, social determinants and anxiety in a national sample of Canadian men",
+    "Abstract": "Background Despite anxiety disorders being the ninth leading cause of disability and associated with social inequities, little attention has been given to how intersections among social determinants of health and chronic stressors such as cumulative lifetime violence affect the likelihood of experiencing anxiety disorders. Our purpose was to explore the relationships among cumulative lifetime violence severity as target and perpetrator, social determinants of health and generalized anxiety disorder in Canadian men. Methods Using a community sample of 592 Canadian men who self-identified as having experienced violence, we developed and tested an evidence-based model of generalized anxiety disorder including indicators of cumulative lifetime violence, gender, social location, socio-economic disparity, personal resources and other chronic stressors using logistic regression. Results Most men (76.4%, n = 452) reported experiences as both target and perpetrator. The model accounted for 50.8% of the variance in anxiety severity chi(2) (8) = 264.43, p = .000). The prevalence of probable generalized anxiety disorder was 30.9%, a rate higher than that found among Canadian men in general in the same period. Remarkably, the likelihood of generalized anxiety disorder increased by a factor of 5.30 for each increase of 1 in cumulative lifetime violence severity, and six-fold for feeling overwhelmed by demands of everyday life (aOR = 6.26). Masculine discrepancy stress, having been born in Canada, unemployment, and food insecurity also contributed significantly to increasing the likelihood of generalized anxiety disorder. Both social support and mastery had significant aORs < 1, suggesting possible protective effects. Together these findings delineate characteristics and social determinants that may heighten vulnerability to generalized anxiety disorder and influence its progression among men who have experienced lifetime violence. Conclusions These findings are the first evidence that Canadian men with lifetime violence histories are a sub-group disproportionately affected by chronic stressors and socio-economic disparities and that together the presence and/or severity of these factors increases their vulnerability to generalized anxiety disorder. Our results highlight the importance of strengths-based trauma- and violence-informed approaches to care, including practical resources to reduce the stress of everyday life, improve social support, and reinforce personal control and choice.",
+    "DOI": "10.1186/s12888-022-03865-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationships among cumulative lifetime violence severity, social determinants, and anxiety in Canadian men.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly involve job search services, adult training, wage subsidies, or supported employment. It focuses on the relationship between cumulative lifetime violence severity and generalized anxiety disorder in Canadian men.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it involve interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Community survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions.",
+            "study_design": "Cross-sectional study using logistic regression",
+            "logprobs": null
+        }
+    }
+}

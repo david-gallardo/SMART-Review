@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1018,
+    "Authors": "Baldwin, Susanna; Costley, Debra; Warren, Anthony",
+    "Article Title": "Employment Activities and Experiences of Adults with High-Functioning Autism and Asperger's Disorder",
+    "Abstract": "There is limited large-scale empirical research into the working lives of adults who have an autism spectrum disorder with no co-occurring intellectual disability. Drawing on data from a national survey, this report describes the employment activities and experiences of 130 adults with Asperger's Disorder (AD) and high functioning autism (HFA) in Australia. Outcome measures include current occupation; occupational skill level and alignment with educational attainment; type of job contract; hours of work; support received to find work; support received in the workplace; and positive and negative experiences of employment. The findings confirm and expand upon existing evidence that adults with AD and HFA, despite their capacity and willingness to work, face significant disadvantages in the labour market and a lack of understanding and support in employment settings.",
+    "DOI": "10.1007/s10803-014-2112-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a national survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the population is not specifically defined as having mental disorders or documented mental health problems.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a national survey which can be considered as quasi-experimental with a control group, it is conducted in Australia within the specified timeframe, the intervention includes job search services and workplace support, the population are people with mental health disorders (autism spectrum disorder), and the outcomes include employment rates, job quality, and workplace integration.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

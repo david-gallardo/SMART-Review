@@ -1,0 +1,33 @@
+{
+    "ArticleID": 610,
+    "Authors": "Boulanger, B.; Surquin, M.; Fantoni-Quinton, S.; Leroyer, A.",
+    "Article Title": "Factors related to the one-month retention of 8507 employees declared medically unfit in Hauts-de-France companies between 2014 and 2018",
+    "Abstract": "Background. - Given the low rate of retention in a company after an employee has been found unfit for the job, our aim was to determine the factors related to employees being kept by their company one month after being declared unfit for the job due to either a musculoskeletal disease (MSD) or a mental health disorder (MHD).Methods. - This study was based on all employees declared unfit for the job by the occupational physicians in the Unfitness survey in the French Hauts-de-France region between 2014 and 2018. For each of the two groups of workers, factors related to the employees being kept by their company one month after being declared unfit for the job were studied by logistic regression.Results. - Only 6.9% of the 5352 workers declared unfit for the job due to MSD were kept in their company whereas 3.6% of the 3155 workers declared unfit for the job due to MHD were kept in theirs. For the two groups of workers, the proportion of employees kept by their company decreased with female gender (OR = 0.63 95%Cl [0.47-0.84] for MSD and OR = 0.50 [0.32-0.78] for MHD for female vs. male), long sickleave (OR = 0.26 [0.18-0.40] for MSD and OR = 0.22 [0.11-0.45] for MHD for sick-leave > 6 months vs. no sick leave), small size of the company (< 50 employees) and working in the construction field or services sector (vs. industry or administration). Concerning the employees declared unfit due to MSD alone, the proportion of employees kept by their company decreased for seniors (> 50 years old) and for those with low seniority (< 5 years).Conclusion. - Retention in a company as a tool for maintenance of employment is a little-discussed subject, lending further credence to the current recommendations for reduction of inequalities in working conditions and vocational training of employees according to age and socio-occupational category, and also for reduction of inequalities in occupational pathways according to gender. (C) 2020 Elsevier Masson SAS. All rights reserved.",
+    "DOI": "10.1016/j.respe.2020.10.002",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on retention of employees declared unfit for the job, rather than active employment policies.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not directly address employment interventions. It focuses on factors related to retention but does not provide outcomes that measure employment or labor results.",
+            "study_design": "Observational",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions directly related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Case-control study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

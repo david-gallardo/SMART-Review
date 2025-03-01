@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1358,
+    "Authors": "Bouras, Nick; Ikkos, George; Craig, Thomas",
+    "Article Title": "From Community to Meta-Community Mental Health Care",
+    "Abstract": "Since the 1960s, we have witnessed the development and growth of community mental health care that continues to dominate mental health policy and practice. Several high-income countries have implemented community mental health care programmes but for many others, including mostly low- and middle-income countries, it remains an aspiration. Although community mental health care has been positive for many service users, it has also had severe shortcomings. Expectations that it would lead to fuller social integration have not been fulfilled and many service users remain secluded in sheltered or custodial environments with limited social contacts and no prospect of work. Others receive little or no service at all. In today's complex landscape of increasingly specialised services for people with mental health problems, the number of possible interfaces between services is increasing. Together with existing uneven financing systems and a context of constant change, these interfaces are challenging us to develop effective care pathways adjusted to the needs of service users and their carers. This discussion paper reviews the developments in community mental health care over the recent years and puts forward the concept of Meta-Community Mental Health Care. Meta-Community Mental Health Care embraces pluralism in understanding and treating psychiatric disorders, acknowledges the complexities of community provision, and reflects the realities and needs of the current era of care.",
+    "DOI": "10.3390/ijerph15040806",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a discussion paper, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Discussion Paper",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It is a discussion paper.",
+            "study_design": "Discussion paper",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Discussion paper",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on specific employment interventions such as job search services, adult training, wage subsidies, or supported employment. It also lacks a rigorous evaluation and does not present measures of employment or labor outcomes.",
+            "study_design": "Discussion paper",
+            "logprobs": null
+        }
+    }
+}

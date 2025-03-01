@@ -1,0 +1,33 @@
+{
+    "ArticleID": 440,
+    "Authors": "Patzina, Alexander; Dietrich, Hans; Barabasch, Anton",
+    "Article Title": "Health, Personality Disorders, Work Commitment, and Training-to-Employment Transitions",
+    "Abstract": "School-to-work transition research has persistently provided empirical evidence for the theoretical predictions of human capital, signaling, and credentialing, thereby emphasizing the importance of school performance and degree attainment for labor market entries. However, hitherto, research in this tradition has paid less attention to noncognitive and socioemotional factors. We address this gap by analyzing the influence of mental and physical health, coping abilities, cooperativeness, and work commitment on the transition from apprenticeship training to first job. For this purpose, this study draws on a unique dataset of 1,061 individuals from Germany, combining rich survey (i.e., information concerning baseline health, personality disorders, and work attitudes) and register (i.e., labor market information) data. The results of linear probability models reveal that only physical health is associated with finding a first job within six months. Physical and mental health are associated with a smooth transition into the labor market, i.e., a situation in which an individual transitions into regular employment without any job search gaps. Overall health and coping abilities are important to finding decent employment. However, after taking important preselection variables (i.e., educational outcomes and training firm characteristics) into account, these associations are weakened and become statistically nonsignificant. Overall, this study provides evidence that health and personality disorders have the potential to induce inequality at an important life course stage.",
+    "DOI": "10.17645/si.v10i2.5103",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a linear probability model, which is a type of quasi-experimental study with a control group. The study includes data from Germany, which falls within the specified geographic scope. The study focuses on employment outcomes, specifically job finding and labor market integration, which meets the inclusion criteria.",
+            "study_design": "Linear Probability Model (LPM)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation design (RCT, quasi-experimental study) and does not have a control group. It also focuses on noncognitive factors such as health and personality disorders without directly addressing specific employment interventions like job search services or wage subsidies.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion. It also does not include a control group, which is necessary for the study design criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

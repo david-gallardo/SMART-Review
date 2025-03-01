@@ -1,0 +1,33 @@
+{
+    "ArticleID": 614,
+    "Authors": "Davis, Lori L.; Mumba, Mercy N.; Toscano, Richard; Pilkinton, Patricia; Blansett, Catherine M.; McCall, Kimberly; MacVicar, David; Al Bartolucci",
+    "Article Title": "A Randomized Controlled Trial Evaluating the Effectiveness of Supported Employment Integrated in Primary Care",
+    "Abstract": "Objectives: Mental health issues can cause serious problems in occupational functioning, including higher rates of unemployment. Individual placement and support (IPS) is an evidence-based supported employment intervention that is typically integrated within a mental health setting; however, many primary care patients view referral to a mental health clinic as stigmatizing. Thus, this study examined whether delivery of IPS in a primary care setting provides an effective treatment option and avoids unnecessary delays in obtaining competitive employment.Methods: U.S. military veterans (N=119) who had a diagnosis in a broad range of nonpsychotic psychiatric disorders and who were receiving care from Veterans Health Administration (VHA) patient-aligned care teams were prospectively randomly assigned to IPS (N=58) or standard VHA non-IPS vocational rehabilitation (VR) (N=61). The primary outcome was achievement of steady worker status, defined as holding a competitive job for >= 6 months of the 12-month follow-up.Results: As hypothesized, a significantly greater proportion of IPS participants achieved steady worker status (45%), compared with VR participants (25%) (p=0.02; odds ratio=2.49, 95% confidence interval=1.14-5.43). On average, the IPS participants worked significantly more weeks (p= 0.003) and earned significantly more income (p=0.033) from competitive jobs, compared with VR participants.Conclusions: The results provide supporting evidence for offering IPS within primary care with the aim of restoring meaningful and sustained competitive employment for veterans living with a mental disorder. Such modifications could improve veterans' vocational outcomes, moving a significantly greater number of disabled veterans back to full and productive lives in the community.",
+    "DOI": "10.1176/appi.ps.202000926",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US, within the timeframe of 2005-2025, and focuses on people with mental disorders or documented mental health problems. The intervention is supported employment, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating supported employment for people with mental health disorders, conducted in the US within the specified timeframe and includes relevant outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

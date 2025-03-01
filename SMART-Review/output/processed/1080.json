@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1080,
+    "Authors": "Sveinsdottir, Vigdis; Tveito, Torill Helene; Bond, Gary R.; Grasdal, Astrid Louise; Lie, Stein Atle; Reme, Silje Endresen",
+    "Article Title": "Protocol for the SEED-trial: Supported Employment and preventing Early Disability",
+    "Abstract": "Background: Early withdrawal or exclusion from the labor market leads to significant personal and societal costs. In Norway, the increasing numbers of young adults receiving disability pension is a growing problem. While a large body of research demonstrates positive effects of Supported Employment (SE) in patients with severe mental illness, no studies have yet investigated the effectiveness of SE in young adults with a range of social and health conditions who are receiving benefits.Methods/design: The SEED-trial is a randomized controlled trial (RCT) comparing traditional vocational rehabilitation (TVR) to SE in 124 unemployed individuals between the ages of 18-29 who are receiving benefits due to various social-or health-related problems. The primary outcome is labor market participation during the first year after enrollment. Secondary outcomes include physical and mental health, health behaviors, and well-being, collected at baseline, 6, and 12 months. A cost-benefit analysis will also be conducted.Discussion: The SEED-trial is the first RCT to compare SE to TVR in this important and vulnerable group, at risk of being excluded from working life at an early age.",
+    "DOI": "10.1186/s12889-016-3280-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Norway is part of the EU), timeframe (2005-2025), intervention (Supported Employment), population (people with social and health conditions, including mental health issues), and outcomes (labor market participation).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a randomized controlled trial (RCT) that meets the inclusion criteria for study design, intervention, and population. It is focused on supported employment (SE) intervention for young adults with various social and health conditions, which aligns with the specified interventenergies. The study is conducted in Norway, which falls within the specified geographic scope. The timeframe of the study is not mentioned in the abstract, but given the nature of RCTs, it is likely to fall within the 2005-2025 timeframe. The study addresses employment outcomes, which is one of the required outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

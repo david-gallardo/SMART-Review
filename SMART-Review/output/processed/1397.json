@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1397,
+    "Authors": "Guerin, Rebecca J.; Barile, John P.; Thompson, William W.; McKnight-Eily, Lela; Okun, Andrea H.",
+    "Article Title": "Investigating the Impact of Job Loss and Decreased Work Hours on Physical and Mental Health Outcomes Among US Adults During the COVID-19 Pandemic",
+    "Abstract": "Objective: To investigate associations between adverse changes in employment status and physical and mental health among US adults (aged 18 years or older) during the COVID-19 pandemic. Methods: Data from participants (N = 2565) of a national Internet panel (June 2020) were assessed using path analyses to test associations between changes in self-reported employment status and hours worked and physical and mental health outcomes. Results: Respondents who lost a job after March 1, 2020 (vs those who did not) reported more than twice the number of mentally unhealthy days. Females and those lacking social support had significantly worse physical and mental health outcomes. Participants in the lowest, pre-pandemic household income groups reported experiencing worse mental health. Conclusions: Results demonstrate the importance of providing economic and social support services to US adults experiencing poor mental and physical health during the COVID-19 pandemic.",
+    "DOI": "10.1097/JOM.0000000000002288",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is path analyses, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "path analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders. It focuses on the impact of job loss and decreased work hours on physical and mental health outcomes during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey using path analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of job loss and decreased work hours on physical and mental health outcomes during the COVID-19 pandemic, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Path analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

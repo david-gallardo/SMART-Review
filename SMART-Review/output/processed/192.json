@@ -1,0 +1,33 @@
+{
+    "ArticleID": 192,
+    "Authors": "Lettieri, Andrea; Diez, Emiliano; Soto-Perez, Felipe; Bernate-Navarro, Mara",
+    "Article Title": "Employment related barriers and facilitators for people with psychiatric disabilities in Spain",
+    "Abstract": "BACKGROUND: People with mental health-related disabilities still experience difficulties in obtaining and maintaining a job. Previous international studies inform about employment barriers and facilitators but there is insufficient research in Spain.OBJECTIVE: To explore what type of employment barriers and facilitators were important for people with psychiatric disabilities with past work experiences in competitive and protected work settings.METHODS: In-depth, semi-structured qualitative interviews with 24 participants selected through purposive sampling.RESULTS: The personal sphere was the content most closely related to barriers, followed by the social environment. Facilitators were more closely related to the interviewees' social network, followed by elements in their personal sphere and job environment.CONCLUSIONS: The findings suggest the need to implement supported employment services in Spain to promote hiring people with psychiatric disabilities in competitive companies. The results also indicate the need to implement new services aimed at supporting the management of disability information during the process of obtaining and maintaining a job, while there is still a need to conduct anti-stigma and anti-discrimination campaigns.",
+    "DOI": "10.3233/WOR-213642",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews (in-depth, semi-structured) without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews) without a control group, does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review, meta-analysis, or RCT with a control group, and it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "In-depth, semi-structured qualitative interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews, which lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        }
+    }
+}

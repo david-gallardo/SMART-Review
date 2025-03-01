@@ -1,0 +1,33 @@
+{
+    "ArticleID": 417,
+    "Authors": "Mahmood, Zanjbeel; Keller, Amber, V; Burton, Cynthia Z.; Vella, Lea; Matt, Georg E.; McGurk, Susan R.; Twamley, Elizabeth W.",
+    "Article Title": "Modifiable Predictors of Supported Employment Outcomes Among People With Severe Mental Illness",
+    "Abstract": "Objective: Among people with severe mental illnesses, neuropsychological abilities may contribute to vocational outcomes. such as job attainment, job tenure, and wages earned. The current study aimed to determine the strongest neuropsychological and other modifiable predictors of work outcomes in 153 people with severe mental illness (schizophrenia, 38%; bipolar disorder, 24%; and major depression, 38%) who participated in a 2-year supported employment study.Methods: Assessments of neuropsychological performance, functional capacity, social skills, and psychiatric symptom severity were administered at baseline; work outcomes (job attainment, weeks worked, and wages earned) were collected weekly for 2 years.Results: Independent of education, diagnosis, and estimated intellectual functioning, more recent work history and less severe negative symptoms significantly predicted job attainment during the 2-year study. Among the 47% who obtained jobs, better global neuropsychological performance (i.e., lower global deficit score) was a significant predictor of greater weeks worked. Both global neuropsychological performance and more recent work history predicted higher wages earned.Conclusions: Modifiable predictors of supported employment outcomes included cognitive functioning and negative symptom severity; thus, interventions to improve these factors may improve work outcomes and decrease the loss of productivity associated with severe mental illness.",
+    "DOI": "10.1176/appi.ps.201800562",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a rigorous evaluation with a control group and lacks employment outcomes.",
+            "study_design": "Observational study without a control group",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU countries, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on adult training as an intervention, and includes the population of people with mental disorders. It is also within the specified timeframe and geographic scope.",
+            "study_design": "Systematic review of controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes such as job attainment, weeks worked, and wages earned.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

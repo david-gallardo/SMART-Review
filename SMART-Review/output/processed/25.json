@@ -1,0 +1,33 @@
+{
+    "ArticleID": 25,
+    "Authors": "Vendelbosch, Robert; Roelen, Corne; Almansa, Josue; Bultmann, Ute; Arends, Iris",
+    "Article Title": "Do return-to-work trajectories differ by mental disorder diagnosis? A register study among 37 523 Dutch workers",
+    "Abstract": "Objectives Return to work (RTW) of workers with mental disorders is often a process of gradually increasing work hours over time, resulting in a RTW trajectory. This study aimed to investigate 2-year RTW trajectories by mental disorder diagnosis, examining the distribution of age, sex and contracted work hours across the diagnosis Methods Sickness absence episodes diagnosed within the ICD-10 chapter V (mental and behavioral disorders) and ICD-10 Z73.0 (burnout) were retrieved from a Dutch occupational health service register, together with age, sex and contracted work hours. Sickness absence episodes due to adjustment disorders (N=25 075), anxiety disorders (N=1335), burnout (N=3644), mood disorders (N=5076), and post-traumatic stress disorders (N=2393) were most prevalent and included in latent class growth analysis (LCGA) to estimate 23-month RTW trajectories. Results Four main RTW trajectories were identified for all mental disorder diagnoses: fast full RTW [range 82.4% (mood disorders) to 92.0% (adjustment disorders) of the study population], slow full RTW [3.5% (burnout) to 6.1% (mood disorders)], slow partial RTW [0.6% (adjustment disorders) to 1.6% (mood disorders)] and no RTW [2.2% (adjustment disorders) to 9.7% (mood disorders)]. Trajectories with a late onset of fast full RTW included higher percentages of women and lower percentages of full-time workers. Conclusions RTW trajectories were similar for different mental disorder diagnoses although the distribution differed across diagnoses, with more partial and no RTW trajectories among workers with mood disorders. To better guide workers back to work, more knowledge is needed of factors associated with late, partial, or no RTW.",
+    "DOI": "10.5271/sjweh.4183",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a register study with a control group, meeting the inclusion criteria for study design. The study is within the EU timeframe, and the intervention is job search services (implied by the study's focus on return-to-work trajectories), which is included in the intervention criteria. The population references mental health disorders, and the outcomes present measures of employment or labor results.",
+            "study_design": "register study with latent class growth analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a register-based study without a control group and lacks rigorous evaluation.",
+            "study_design": "Register-based study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of an intervention.",
+            "study_design": "Register study",
+            "logprobs": null
+        }
+    }
+}

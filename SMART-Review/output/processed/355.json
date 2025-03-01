@@ -1,0 +1,33 @@
+{
+    "ArticleID": 355,
+    "Authors": "Tardif, Hilarie; Allingham, Samuel F.; Rahman, Mijanur; Daly, Anne",
+    "Article Title": "Patterns of patient outcomes following specialist pain management in Australasia: a latent class analysis using the electronic Persistent Pain Outcomes Collaboration database",
+    "Abstract": "The increasing demand for pain management and limited resources available highlight the need to measure treatment effectiveness. We analysed data collected at 75 specialist persistent pain services located in Australia and New Zealand to calculate the overall treatment outcome for patients receiving care during 2014 to 2020. Sociodemographic and clinical information was provided for 23,915 patients, along with patient-reported measures assessing pain, pain interference, depression, anxiety, stress, pain catastrophizing, and pain self-efficacy. Latent class analysis identified 4 distinct outcomes based on patients' pattern of responses across the assessment tools at treatment end. Group 1 (n = 8369, 35%) reported low/mild severity across all clinical domains at the end of care, while group 4 (n= 7081, 30%) were more likely to report moderate/high severity on all domains. Group 2 (n = 1991, 8%) reported low/mild pain with moderate/high psychological distress at treatment end, and group 3 (n = 6474, 27%) reported moderate/high pain with low/mild psychological distress. Multivariable logistic regression identified those factors associated with the different groups. In particular, factors most predictive of a poor (group 4) vs good outcome (group 1) were unemployment (due to pain or other reasons), requiring an interpreter, widespread pain, pain of longer duration, and attributing the pain to an injury at work. The results may allow identification of those most likely to benefit from the services currently provided and inform development of alternative or enhanced services for those at risk of a poor outcome.",
+    "DOI": "10.1097/j.pain.0000000000002799",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on patient outcomes following specialist pain management, and the results are related to factors associated with poor or good outcomes, such as unemployment, requiring an interpreter, and attributing pain to an injury at work.",
+            "study_design": "Latent class analysis using the electronic Persistent Pain Outcomes Collaboration database",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on pain management in patients.",
+            "study_design": "Latent class analysis using electronic database",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on pain management outcomes, not employment outcomes for people with mental health disorders.",
+            "study_design": "Latent class analysis using the electronic Persistent Pain Outcomes Collaboration database",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment outcomes.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        }
+    }
+}

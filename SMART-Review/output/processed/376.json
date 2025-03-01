@@ -1,0 +1,33 @@
+{
+    "ArticleID": 376,
+    "Authors": "Kaspersen, Silje L.; Pape, Kristine; Carlsen, Fredrik; Ose, Solveig Osborg; Bjorngaard, Johan Hakon",
+    "Article Title": "Employees' drug purchases before and after organizational downsizing: a natural experiment on the Norwegian working population (2004-2012)",
+    "Abstract": "Objectives This study investigated the association between organizational downsizing and purchases of prescribed drugs by private sector employees in Norway.Methods A natural experiment was constructed using individual-level employer and employee data linked to the national prescription database for the period 2004-2012. The study population comprised 144 089 employees who had been exposed to major downsizing in the same period. Random effects logistic regression models were used to investigate relative changes in drug purchases (antidepressants, hypnotics/sedatives, anxiolytics, and anti-psychotics, as well as anti-obesity, anti-diabetic, cardiovascular, and thyroid drugs, anti-inflammatory drugs, opioids, and analgesics/antipyretics) in the five-year-period before and after exposure to downsizing.Results Compared with the situation three years before exposure, the odds ratios (OR) of purchasing psycho tropic drugs one year after exposure increased for antidepressants (OR 1.44, 95% CI 1.34-1.55), hypnotics/sedatives (OR 1.39, 95% CI 1.29-1.49), anxiolytics (OR 1.32, 95% CI 1.22-1.43), and antipsychotics (OR 1.34, 95% CI 1.19-1.52). Similar associations were found for cardiovascular, anti-diabetic, and thyroid drugs. Stratified analyses showed that the odds of purchasing psychotropic, anti-diabetic, and cardiovascular drugs in the years around downsizing was more pronounced in men compared with women. Elevated odds were also found for employees in the oldest age group and those with less than tertiary education.Conclusions Exposure to organizational downsizing increased the odds of purchasing prescribed psychotropic, cardiovascular, anti-diabetic, and thyroid drugs. The clinical implications of these results might be systematic involvement from medical personnel and occupational health services in workforce reduction processes.",
+    "DOI": "10.5271/sjweh.3637",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is a natural experiment without a comparison group.",
+            "study_design": "Natural Experiment",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on organizational downsizing and drug purchases rather than active employment policies for people with mental health disorders. It lacks interventions directly addressing employment.",
+            "study_design": "Natural experiment using random effects logistic regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on interventions for employment or labor outcomes in people with mental health disorders. It is also not a systematic review or meta-analysis, and the study population does not specifically reference mental health or documented mental health problems.",
+            "study_design": "Natural experiment",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not included).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

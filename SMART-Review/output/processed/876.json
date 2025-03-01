@@ -1,0 +1,33 @@
+{
+    "ArticleID": 876,
+    "Authors": "Gal, Gilad; Shadmi, Efrat; Hoter-Ishay, Gili; Gelkopf, Marc; Roe, David",
+    "Article Title": "Comparing outcome measures of persons with severe mental illness in vocational rehabilitation programs: a dual perspective of consumers and providers",
+    "Abstract": "Objective: Vocational rehabilitation for people with severe mental illness (SMI) has many benefits. Among the existing models, supported employment has consistently shown to have better impact on vocational outcomes while the findings on non-vocational outcomes are inconsistent. One source of variation with regard to non-vocational outcomes could be related to differences between consumers' self-reports and the providers' point of view.Design: A cross-sectional study of people with SMI consuming three different vocational services and their service providers.Setting: Data were collected as part of the Israeli Psychiatric Rehabilitation Patient Reported Outcome Measurement project.Participants: The current data is based on 3666 pairs of people with SMI consuming vocational services and their service providers.Interventions: Vocational services included supported employment, sheltered workshops and vocational support centers.Main Outcome Measures: The consumers-filled self-report questionnaires, which consisted of the following patient-reported outcome measurements (PROMs): quality of life, functioning and illness management. Primary professional providers were given instruments that mirrored the ones designed for self-report.Results: According to providers' ratings, supported employment was associated with higher functioning (F = 78.6, P < 0.001) and illness management (F = 33.0, P < 0.001) compared to other vocational services. PROMs revealed that supported employment was associated with higher functioning only (F = 31.5, P < 0.001). Consumers rated themselves higher compared to providers on all measures.Conclusions: This study provides a deeper insight into non-vocational outcomes of people with SMI participating in vocational services and suggests differences in perspectives between consumers and providers with regard to outcome measures.",
+    "DOI": "10.1093/intqhc/mzaa030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional study with a control group (service providers' ratings), and it meets the geographic scope (Israel), timeframe (2005-2025), intervention (vocational services including supported employment), population (people with SMI), and outcomes (employment or labor outcomes such as functioning and illness management).",
+            "study_design": "Cross-sectional study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 673,
+    "Authors": "Guehne, U.; Weinmann, S.; Becker, Th; Riedel-Heller, S. G.",
+    "Article Title": "Psychosocial therapy in psychiatry Update of the DGPPN-S3 guidelines Psychosocial therapies for severe mental illnesses",
+    "Abstract": "Background Severe mental illnesses are often associated with substantial impairments of psychosocial functioning and a high risk of social exclusion. Along with somatic and psychotherapeutic treatment approaches, psychosocial interventions are an integral component of treatment. Psychosocial therapies aim to improve participation and enable patients to live self-determined lives as far as possible. Objective This paper provides an overview of the structure and recommendations of the German S3 guidelines Psychosocial therapies for severe mental illnesses of the German Association for Psychiatry, Psychotherapy and Psychosomatics (DGPPN). Material and methods In the DGPPN S3 guidelines psychosocial therapies are systematically described for the first time and recommendations are formulated on the basis of a systematic processing of scientific evidence and a formalized consensus process. Results The evidence-based and consensus-based guidelines formulate a total of 33 recommendations and 12 statements. For many psychosocial interventions there is a broad evidence base. In the field of individual interventions psychoeducation, social skills training and health-promoting interventions have been given the highest recommendation strength (A). In the field of system level interventions, team-based, multiprofessional community psychiatric approaches, supported employment and self-determined housing with mobile support (supported housing) are given A level recommendations. For other interventions, the current evidence base is less robust. Conclusion The successful implementation of guidelines depends not only on the quality but also on the dissemination. Therefore, in addition to the treatment guidelines a short version, a patient version and a waiting room version were developed.",
+    "DOI": "10.1007/s00115-020-00955-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive review of guidelines, and it lacks a rigorous evaluation or control group.",
+            "study_design": "Descriptive review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is an update of guidelines for psychosocial therapies.",
+            "study_design": "Guidelines Update",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychosocial therapy in psychiatry and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

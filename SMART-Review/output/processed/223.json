@@ -1,0 +1,33 @@
+{
+    "ArticleID": 223,
+    "Authors": "Dunn, Joanne M.; Sensky, Tom",
+    "Article Title": "Psychological Processes in Chronic Embitterment: The Potential Contribution of Rumination",
+    "Abstract": "Objective: Chronic embitterment has received considerable attention in terms of its presentation and epidemiology, but there has been relatively little focus on its psychology. The present study aimed to test the hypothesis that embitterment is positively correlated with rumination, and that this effect is influenced by positive beliefs about rumination. Method: A convenience sample (N = 79) of staff of a health care facility attending its occupational health service completed questionnaires assessing chronic embitterment, work-related rumination (distinguishing affective rumination and problem solving pondering), positive beliefs about rumination, and depression. Results: Embitterment scores correlated positively with affective rumination and depression. Positive beliefs about rumination correlated positively with problem-solving pondering but not with affective rumination. Regression analysis revealed that affective rumination contributed to embitterment independently of depression. Conclusions: Previous research has demonstrated that rumination impairs executive functions and problem-solving. The association of affective rumination with embitterment may contribute to the explanation for why embitterment becomes chronic and is often difficult to alleviate. However, this association also opens up possibilities of intervention, in light of research evidence of the effectiveness of rumination-focused therapies.",
+    "DOI": "10.1037/tra0000291",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it does not have a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychological processes related to chronic embitterment. It lacks an intervention directly addressing employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

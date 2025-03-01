@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1581,
+    "Authors": "Dams-O'Connor, Kristen; Sy, Karla Therese L.; Landau, Alexandra; Bodien, Yelena; Dikmen, Sureyya; Felix, Elizabeth R.; Giacino, Joseph T.; Gibbons, Laura; Hammond, Flora M.; Hart, Tessa; Johnson-Greene, Doug; Lengenfelder, Jeannie; Lequerica, Anthony; Newman, Jody; Novack, Thomas; O'Neil-Pirozzi, Therese M.; Whiteneck, Gale",
+    "Article Title": "The Feasibility of Telephone-Administered Cognitive Testing in Individuals 1 and 2 Years after Inpatient Rehabilitation for Traumatic Brain Injury",
+    "Abstract": "Traumatic brain injury (TBI) often results in cognitive impairment, and trajectories of cognitive functioning can vary tremendously over time across survivors. Traditional approaches to measuring cognitive performance require face-to-face administration of a battery of objective neuropsychological tests, which can be time- and labor-intensive. There are numerous clinical and research contexts in which in-person testing is undesirable or unfeasible, including clinical monitoring of older adults or individuals with disability for whom travel is challenging, and epidemiological studies of geographically dispersed participants. A telephone-based method for measuring cognition could conserve resources and improve efficiency. The objective of this study is to examine the feasibility and usefulness of the Brief Test of Adult Cognition by Telephone (BTACT) among individuals who are 1 and 2 years post-moderate-to-severe TBI. A total of 463 individuals participated in the study at Year 1 post-injury, and 386 participated at Year 2. The sample was mostly male (73%) and white (59%), with an average age of (mean +/- standard deviation) 47.9 +/- 20.9 years, and 73% experienced a duration of post-traumatic amnesia (PTA) greater than 7 days. A majority of participants were able to complete the BTACT subtests (61-69% and 56-64% for Years 1 and 2 respectively); score imputation for those unable to complete a test due to severity of cognitive impairment yields complete data for 74-79% of the sample. BTACT subtests showed expected changes between Years 1-2, and summary scores demonstrated expected associations with injury severity, employment status, and cognitive status as measured by the Functional Independence Measure. Results indicate it is feasible, efficient, and useful to measure cognition over the telephone among individuals with moderate-severe TBI.",
+    "DOI": "10.1089/neu.2017.5347",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or have documented mental health problems.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on cognitive testing for individuals with traumatic brain injury. It does not meet the inclusion criteria related to interventions aimed at improving employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on cognitive impairment due to traumatic brain injury (TBI) and not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not directly address employment interventions.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

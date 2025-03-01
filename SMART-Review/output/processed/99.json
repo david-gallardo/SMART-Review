@@ -1,0 +1,33 @@
+{
+    "ArticleID": 99,
+    "Authors": "Lesage, Francois-Xavier; Dutheil, Frederic; Godderis, Lode; Divies, Aymeric; Choron, Guillaume",
+    "Article Title": "Incidence of ill-health related job loss and related social and occupational factors. The unfit for the job study: a one-year follow-up study of 51,132 workers",
+    "Abstract": "Objective: The analysis of ill-health related job loss may be a relevant indicator for the prioritization of actions in the workplace or in the field of public health, as well as a target for health promotion. The aim of this study was to analyze the medical causes, the incidence, and the characteristics of employees medically unfit to do their job.Methods: This one-year prospective study included all workers followed by occupational physicians in an occupational health service in the south of France. The incidence of unfitness for work have been grouped according to the main medical causes and analyzed. We performed a multivariate analysis in order to adjust the observed risk of job loss based on the age groups, sex, occupation and the activity sectors.Results: A total of 17 occupational physicians followed up 51,132 workers. The all-cause incidence of being unfit to return to one's job was 7.8%o (n = 398). The two main causes of being unfit for one's job were musculoskeletal disorders (47.2%, n = 188) and mental ill-health (38.4%, n = 153). Being over 50 years old (Odds ratio (OR) 2.63, confidence interval 95% CI [2.13-3.25]) and being a woman (OR 1.52, 95% CI [1.21-1.91]) were associated with the all-cause unfitness, independent of occupation and activity sector.Conclusions: Identification of occupational and demographic determinants independently associated with ill-health related job loss may provide significant and cost-effective arguments for health promotion and job loss prevention.",
+    "DOI": "10.7717/peerj.5073",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the incidence of ill-health related job loss and related social and occupational factors.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the incidence of ill-health related job loss and its medical causes.",
+            "study_design": "Prospective observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

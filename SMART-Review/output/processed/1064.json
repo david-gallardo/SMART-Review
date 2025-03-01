@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1064,
+    "Authors": "Rapisarda, Filippo; Guay, Stephane; Ouellet-Morin, Isabelle; Bond, Suzie; Geoffrion, Steve",
+    "Article Title": "Longitudinal assessment of psychological distress and its determinants in a sample of firefighters based in Montreal, Canada",
+    "Abstract": "Introduction Firefighters face elevated risks of common mental health issues, with distress rates estimated at around 30%, surpassing those of many other occupational groups. While exposure to potentially traumatic events (PTEs) is a well-recognized risk factor, existing research acknowledges the need for a broader perspective encompassing multidimensional factors within the realm of occupational stress. Furthermore, this body of evidence heavily relies on cross-sectional studies. This study adopts an intensive longitudinal approach to assess psychological distress and its determinants among firefighters.Methods Participants were recruited from 67 fire stations in Montreal, Canada, meeting specific criteria: full-time employment, smartphone ownership, and recent exposure to at least one PTE, or first responder status. Subjects underwent a telephone interview and were directed to use an app to report depressive, post-traumatic, and generalized anxiety symptoms every 2 weeks, along with work-related stressors, social support, and coping styles. Analyses involved 274 participants, distinguishing between those exceeding clinical thresholds in at least one distress measure (the distressed subgroup) and those deemed resilient. The duration and onset of distress were computed for the distressed group, and linear mixed models were employed to evaluate determinants for each psychological distress variable.Results Clinical psychological distress was observed in 20.7% of participants, marked by depressive, post-traumatic, and anxiety symptoms, often within the first 4-week reference period. Contextual factors (operational climate, social support, solitude) and individual factors (coping style, solitude and lifetime traumatic events in private life) exhibited more significant impacts on psychological distress than professional pressures within the firefighters' work environment.Discussion This study reports lower rates of psychological distress than previous research, possibly attributable to sample differences. It highlights that reported symptoms often represent a combined and transient layer of distress rather than diagnosable mental disorders. Additionally, determinants analysis underscores the importance of interpersonal relationships and coping mechanisms for mental health prevention interventions within this worker group. The findings carry implications for the development of prevention and support programs for firefighters and similar emergency workers.",
+    "DOI": "10.3389/fpsyg.2024.1303063",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies.",
+            "study_design": "Longitudinal observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment interventions for people with mental health disorders, but rather on firefighters' psychological distress.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

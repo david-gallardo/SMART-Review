@@ -1,0 +1,33 @@
+{
+    "ArticleID": 843,
+    "Authors": "Pfeil, Sabrina; Holtz, Katrin; Kopf, Kathrin-Andrea; Hegerl, Ulrich; Rummel-Kluge, Christine",
+    "Article Title": "Minor depression in older, long-term unemployed people seeking vocational support",
+    "Abstract": "Background: Prevalence rates of minor and major depression vary from 0.7 to 6.8 (minor) and 3.8 to 10.9 (major) for the general population. Twenty-two percent of older, long-term unemployed people suffer from major depression. However, the prevalence rate of minor depression (depression on a subthreshold level with less than 5, but more than 1 depression symptom) in this population is unknown. The first aim of this study is to identify that prevalence rate, because we already know that minor depression increases the risk of developing a major depression and this in turn reduces the chances of reemployment what increases social and individual costs at the same time. The second aim is to find out whether there are symptoms that distinguish the different groups no depression, minor depression and major depression in this population. In contrast to the general population, the most frequent symptoms within major and minor depression in older, long-term unemployed people are unknown so far.Methods: A total of 234 long-term unemployed people (response rate 59%) were included in a study within a project of the Department of Psychiatry and Psychotherapy at the University of Leipzig and an unemployment agency. Based on the results of the Patient Health Questionnaire, the participants were classified as non depressive, minor depressive or major depressive. Descriptive statistics and chi-square tests were performed to identify whether there are symptoms stated by the participants that are more frequent than others, and if the classified groups differ in this regard.Results: Fifty percent had no depression, 15.6% had a minor depression and 34.4% were suffering from major depression. Difficulty with concentration is the symptom that differentiated the last two groups the most. Fatigue, depressed mood and anhedonia were the symptoms that distinguished participants with minor depression the most from participants with no depression. Main limitations are: The sample was determined by programme conditions, e.g. not all potentially available people participated. The sample may therefore not be representative for the general long-term unemployed. Due to limited resources the PHQ 9 was used instead of a clinical interview to assess minor and major depression.Conclusions: Results indicate that minor depression in older, long-term unemployed persons is significant, as, almost 16% of the participants were affected in the study. Especially when fatigue is present for a period of more than 2 weeks, people should be informed about the option to consult a primary care physician or professionals from the unemployment agency in order to prevent the possible onset of major depression.",
+    "DOI": "10.1186/s12888-017-1404-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on identifying the prevalence rates of minor and major depression among older long-term unemployed people.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a control group, which is a requirement for inclusion in the systematic review.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 121,
+    "Authors": "Majuri, Minna; Wallius, Mari -Anne",
+    "Article Title": "Promoting mental health through collaboration between workplaces and occupational health services - Preliminary findings from a survey and workshop in Finland",
+    "Abstract": "Disability due to mental health problems places a significant burden on both society and the individual. Occu-pational health professionals play a key role in promoting mental health in collaboration with workplaces. Our study focused on the joint preventive mental health practices of workplaces and occupational health services (OHS). We used a multiple method approach. We gathered data in parallel from September to October 2021 through an online survey and a workshop of 102 participants. The survey was sent to 25 workplaces and their OHS (N = 25), and assessed employee perceptions of collaboration in mental health practices. We set no exclusion criteria and included all responses. We used Fisher's Exact Test in the statistical analysis. We studied 140 comments on the means of the mental health support obtained in the workshop, using content analysis. The survey response rate was 78 % (N = 39). The OHS providers (N = 15) claimed that mental health support was being provided through collaboration, and 74 % (N = 24) of the workplaces agreed. Content analysis streamlined collaboration methods into six upper categories: by (1) Planning measures together, (2) Strengthening em-ployees' resources, (3) Discussing work ability, (4) Providing supervisors/managers with support, (5) Discussing and collaborating, and (6) Clarifying responsibilities and roles in the support of mental health. We found 55 different practices for streamlining collaboration between workplaces and OHS. We conclude that the practices to promote mental health through collaboration between workplaces and OHS require joint planning.",
+    "DOI": "10.1016/j.pmedr.2023.102534",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multiple method approach with a control group (workplaces and OHS providers), and the study includes a control group (N = 25 workplaces and their OHS). The timeframe is within the specified range (2005-2025), and the intervention (job search services, adult training, wage subsidies, supported employment) is not directly addressed but the study focuses on collaboration between workplaces and occupational health services, which can be considered as a form of supported employment.",
+            "study_design": "Multiple method approach with control group (workplaces and OHS providers)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group and does not directly address employment outcomes. It focuses on collaboration methods between workplaces and occupational health services without providing specific intervention effects or labor outcomes.",
+            "study_design": "Survey and content analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on employment interventions for people with mental health disorders.",
+            "study_design": "Survey and workshop",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey and workshop",
+            "logprobs": null
+        }
+    }
+}

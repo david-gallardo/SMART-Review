@@ -1,0 +1,33 @@
+{
+    "ArticleID": 904,
+    "Authors": "Drake, Robert E.; Bond, Gary R.; Mascayano, Franco",
+    "Article Title": "Modification of the Individual Placement and Support Model of Supported Employment",
+    "Abstract": "Individual placement and support (IPS) is a robust evidence-based model of supported employment for people with mental health conditions that has been implemented in high-income countries. The model is now being extended to new populations and settings, often with modifications. Current evidence indicates that minor modifications may increase fit, major alterations of core principles gener-ally reduce effectiveness, and augmentations have mixed success. The authors recommend that those who imple-ment IPS adhere to its core principles whenever possible, use standardized methods to document and assess modifica-tions, and follow basic scientific procedures to develop, measure, and evaluate modifications before recommending policy changes.",
+    "DOI": "10.1176/appi.ps.20220484",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It provides recommendations for the implementation and modification of IPS but does not present empirical evidence from rigorous evaluations.",
+            "study_design": "Recommendations",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, does not include a control group, and does not focus on job search services, adult training, wage subsidies, or supported employment intervents.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

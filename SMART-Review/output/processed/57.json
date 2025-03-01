@@ -1,0 +1,33 @@
+{
+    "ArticleID": 57,
+    "Authors": "Smith, Thomas E.; Bury, Debra; Hendrick, Delia; Morse, Gary; Drake, Robert E.",
+    "Article Title": "Barriers to Client Engagement and Strategies to Improve Participation in Mental Health and Supported Employment Services",
+    "Abstract": "Objective: A few clients in every mental health center present challenging behaviors, have difficulty engaging in services, and create stress within the treatment team. The authors provided consultations on clients with these characteristics over 4 years in the Social Security Administration's Supported Employment Demonstration (SED).Methods: Four experienced community mental health leaders provided consultations on 105 of nearly 2,000 clients receiving team-based behavioral health and employment services in the SED. Using document analysis, consultants coded their notes and identified themes that described barriers to client engagement and strategies teams used to overcome them.Results: Clients who were difficult to engage experienced complex and interacting behavioral health, medical, and social conditions, which made it hard for therapists to develop therapeutic relationships and help clients find employment. Faced with engagement barriers, staff were often discouraged and felt hopeless about achieving success. To address these barriers, consultants and teams developed several strategies: using supervisors and teammates for support, providing persistent outreach, pursuing referrals and consultations to help with complex conditions, and developing realistic goals.Conclusions: Supervisors, team leaders, and consultants in community mental health settings should help staff develop realistic strategies to manage the small number of clients whose behaviors present the greatest challenges. Effective strategies involve providing team-based outreach and support, fostering staff morale, obtaining specialist consultations regarding complex conditions, and calibrating realistic goals.",
+    "DOI": "10.1176/appi.ps.202200023",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on barriers to client engagement and strategies for improving participation in mental health services.",
+            "study_design": "Quasi-experimental with consultations",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on employment interventions but rather on client engagement in mental health services.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Qualitative study using document analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 740,
+    "Authors": "Kehyayan, Vahe; Hirdes, John P.; Perlman, Christopher Michael",
+    "Article Title": "Education and Employment Needs and Receipt of Services in Community and Inpatient Mental Health Settings",
+    "Abstract": "The interRAI Education and Employment Clinical Assessment Protocol (EdEmp CAP) identifies three groups of individuals in community and inpatient mental health settings: those who are at risk of losing their employment or disrupting their education; those who require support in employment or educational participation; or those for whom interventions related to education and employment are not triggered. The EdEmp CAP was effective in identifying subpopulations who were at risk, but who did not receive any vocational rehabilitation or counseling. The EdEmp CAP can be used in clinical practice to identify individuals who might benefit from specific interventions in these areas.",
+    "DOI": "10.1007/s10597-014-9694-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: vocational rehabilitation or counseling, which is not directly addressing employment.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on identifying subpopulations at risk of losing their employment but does not evaluate the effectiveness of any interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on identifying individuals at risk of losing employment or disrupting education, not on interventions or outcomes related to employment.",
+            "study_design": "Clinical assessment protocol",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

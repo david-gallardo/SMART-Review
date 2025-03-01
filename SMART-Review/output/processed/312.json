@@ -1,0 +1,33 @@
+{
+    "ArticleID": 312,
+    "Authors": "Villotti, Patrizia; Balducci, Cristian; Zaniboni, Sara; Corbiere, Marc; Fraccaroli, Franco",
+    "Article Title": "An Analysis of Work Engagement Among Workers With Mental Disorders Recently Integrated to Work",
+    "Abstract": "The purpose of this study is to determine the validity of the work engagement construct among mentally ill workers and to develop a nomological network delineating the relationship of work engagement with its antecedents, and its consequences in this specific population. Three hundred and ten people with mental disorders employed in Italian social enterprises accepted to take part in this longitudinal study and filled out the Utrecht Work Engagement scale (UWES-9) and questionnaires on severity of symptoms perceived, social support from coworkers and supervisor, and occupational self-efficacy. Individuals who were still eligible at the 12-month follow-up phase of the study completed a questionnaire on future working plans. Confirmatory factor analysis and path analysis were used to validate the UWES-9 and test its nomological network. The results indicated how work engagement, as well as its drivers, impacted important work outcomes, such as to work in the open labor market, in workers with mental disorders.",
+    "DOI": "10.1177/1069072713487500",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal study with a control group, meeting the inclusion criteria for study design. The study is set in Italy, within the EU, and the timeframe is between 2005 and 2025. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "Longitudinal study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation with a control group and focuses on work engagement rather than employment outcomes.",
+            "study_design": "Longitudinal study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

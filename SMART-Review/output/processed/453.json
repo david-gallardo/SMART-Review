@@ -1,0 +1,33 @@
+{
+    "ArticleID": 453,
+    "Authors": "Pedersen, Pernille; Sogaard, Hans Jorgen; Labriola, Merete; Nohr, Ellen A.; Jensen, Chris",
+    "Article Title": "Effectiveness of psychoeducation in reducing sickness absence and improving mental health in individuals at risk of having a mental disorder: a randomised controlled trial",
+    "Abstract": "Background: The aim of this study was to evaluate the effect of psychoeducation on return to work as an adjunct to standard case management in individuals on sick leave at risk of having a mental disorder. The participants could have different diagnoses but were all at risk of having a mental disorder.Methods: Between 2012 and 2014, 430 participants on sick leave were randomly allocated to either an intervention or control group. The psychoeducation consisted of 2-h sessions once a week for 6 weeks. The sessions focused on stress and work life and was based on problem-solving techniques and coping strategies. The main outcome, the relative risk (RR) of a full return to work based on register data from the job centres, was determined during the first 3 and 6 months after participation in the psychoeducation programme. At baseline and at 3 and 6 months after the intervention, the participants received a questionnaire on psychological symptoms, mental health-related quality of life, and locus of control.Results: During the first 6 months after inclusion, the two groups had almost the same RR of a full return to work (RR:0.97, 95 % CI: 0.78; 1.21), but during the first 3 months, the individuals in the intervention group had a significantly higher risk of not having fully returned to work (RR:0.68, 95 % CI:0.47; 0.98). The individuals in the intervention group who had participated in at least four of the six psychoeducational sessions returned to work considerably slower at both time points than did the control group. The intervention did not decrease the level of psychological symptoms or improve mental health-related quality of life; however, individuals in the intervention group improved their scores on internal locus of control at both 3 and 6 months.Conclusion: Offering psychoeducation to individuals on sick leave at risk of having a mental disorder had no influence on the chance of a full return to work during the first 6 months; however, it did result in a higher relative risk of not returning to work after 3 months. Therefore, we do not recommend offering psychoeducation in this form to facilitate return to work.",
+    "DOI": "10.1186/s12889-015-2087-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on reducing sickness absence and improving mental health in individuals at risk of having a mental disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychoeducation for individuals on sick leave at risk of having a mental disorder, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is psychoeducation, which does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

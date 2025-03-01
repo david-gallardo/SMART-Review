@@ -1,0 +1,33 @@
+{
+    "ArticleID": 856,
+    "Authors": "Fortin, Guillaume; Lecomte, Tania; Corbiere, Marc",
+    "Article Title": "Does personality influence job acquisition and tenure in people with severe mental illness enrolled in supported employment programs?",
+    "Abstract": "Background: When employment difficulties in people with severe mental illness (SMI) occur, it could be partly linked to issues not specific to SMI, such as personality traits or problems. Despite the fact that personality has a marked influence on almost every aspect of work behavior, it has scarcely been investigated in the context of employment for people with SMI.Aims: We aimed to evaluate if personality was more predictive than clinical variables of different competitive work outcomes, namely acquisition of competitive employment, delay to acquisition and job tenure.Method: A sample of 82 people with a SMI enrolled in supported employment programs (SEP) was recruited and asked to complete various questionnaires and interviews. Statistical analyses included logistic regressions and survival analyses (Cox regressions).Results: Prior employment, personality problems and negative symptoms are significantly related to acquisition of a competitive employment and to delay to acquisition whereas the conscientiousness personality trait was predictive of job tenure.Conclusion: Our results point out the relevance of personality traits and problems as predictors of work outcomes in people with SMI registered in SEP. Future studies should recruit larger samples and also investigate these links with other factors related to work outcomes.",
+    "DOI": "10.1080/09638237.2016.1276534",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU countries, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is supported employment programs, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and is based on observational data (questionnaires and interviews) without random assignment.",
+            "study_design": "Observational with questionnaires and interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on personality traits and their influence on job acquisition and tenure in people with severe mental illness (SMI) enrolled in supported employment programs (SEP). While the study does not directly address employment interventions, it is relevant to the overall objective of identifying what works in active employment policies for people with mental health disorders. However, the study design is not specified in the provided abstract, which is necessary to determine if it meets the inclusion criteria. Therefore, the study cannot be definitively included or excluded based on the available information.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

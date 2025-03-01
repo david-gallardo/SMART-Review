@@ -1,0 +1,33 @@
+{
+    "ArticleID": 365,
+    "Authors": "Johnsen, Tone Langjordet; Indahl, Aage; Eriksen, Hege Randi; Ihlebaek, Camilla; Tveito, Torill Helene",
+    "Article Title": "Work and Mental Complaints: Are Response Outcome Expectancies More Important Than Work Conditions and Number of Subjective Health Complaints?",
+    "Abstract": "Purpose Investigate the relative effect of response outcome expectancies, work conditions, and number of subjective health complaints (SHC) on anxiety and depression in Norwegian employees. Learned response outcome expectancies are important contributors to health. Individual differences in the expectancy to cope with workplace and general life demands may be important for how work conditions influence health. Method A survey was conducted among 1746 municipal employees (mean age 44.1, SD = 11.5, 81.5 % female), as part of a randomized controlled trial. This cross-sectional study used baseline data. Multiple logistic regression analysis was performed. Outcome variables were anxiety and depression; response outcome expectancies, work conditions, and number of SHC were independent variables. Results A high number of SHC was a significant factor in explaining anxiety (OR 1.26), depression (OR 1.22) and comorbid anxiety and depression (OR 1.31). A high degree of no and/or negative response outcome expectancies was a significant factor in explaining depression (OR 1.19) and comorbid anxiety and depression (OR 1.28). The variance accounted for in the full models was 14 % for anxiety, 23 % for depression, and 41 % for comorbid anxiety and depression. Conclusion A high number of SHC, and a high degree of no and/or negative response outcome expectancies were associated with anxiety and depression. The strongest association was found for number of SHC. However, previous studies indicate that it may not be possible to prevent the occurrence of SHC. We suggest that workplace interventions targeting anxiety and depression could focus on influencing and altering employees' response outcome expectancies.",
+    "DOI": "10.1007/s10926-016-9648-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation (RCT) and does not directly address employment. It focuses on anxiety and depression in Norwegian employees without specifying an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey within a randomized controlled trial, but primarily cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, but rather on anxiety and depression in relation to work conditions and subjective health complaints.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

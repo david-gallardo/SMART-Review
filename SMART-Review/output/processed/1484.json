@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1484,
+    "Authors": "Schutt, Russell K.; Xi, Haiyi; Mueser, Kim T.; Killam, Matthew A.; Delman, Jonathan; Eack, Shaun M.; Mesholam-Gately, Raquelle; Pratt, Sarah, I; Sandoval, Luis; Santos, Meghan M.; Golden, Laura R.; Keshavan, Matcheri S.",
+    "Article Title": "Cognitive Enhancement Therapy vs social skills training in schizophrenia: a cluster randomized comparative effectiveness evaluation",
+    "Abstract": "Background: Schizophrenia and related disorders are highly disabling and create substantial burdens for families, communities, and health care systems. Although pharmacological treatments can often lessen the psychotic symptoms that are a hallmark of schizophrenia, they do not lessen the social and cognitive deficits that create the greatest impediments to community engagement and functional recovery. This study builds on prior research on psychosocial rehabilitation by comparing the effectiveness of two treatments demonstrated as efficacious in improving social and community functioning, Cognitive Enhancement Therapy (CET) and a version of Social Skills Training (HOPES/SST).Methods: The study uses a randomized cluster design in which a pair of clinicians at community- and hospital-based mental service centers deliver either CET or HOPES to at least one group of 6-8 eligible clients for 12 months. Clinicians are trained and then supervised weekly, with ongoing process measurement of treatment fidelity, attendance, satisfaction, and retention, and use of other services. Measures administered at baseline and at 6 and 12 months while in treatment, and then at 18 and 24 months after treatment include social adjustment, quality of life, social skills, positive and negative symptoms, and neuro- and social cognition. We hypothesize that CET will be associated with greater improvements than SST in both the primary outcome of community functioning and the secondary outcomes of neuro- and social cognition and social skills. Secondarily, we hypothesize that more cognitive impairment at baseline and younger age will predict more benefit from CET compared to HOPES.Discussion: Resource shortages endemic in mental health services and exacerbated by the pandemic highlight the importance of identifying the most effective approach to improving social and community functioning. We aim to improve understanding of the impact of two efficacious psychosocial treatments and to improve clinicians'ability to refer to both treatments the individuals who are most likely to benefit from them. We expect the result to be programmatic improvements that improve the magnitude and durability of gains in community functioning.",
+    "DOI": "10.1186/s12888-022-04149-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on social and community functioning.",
+            "study_design": "Cluster randomized comparative effectiveness evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on improving social and community functioning for individuals with schizophrenia through cognitive enhancement therapy and social skills training.",
+            "study_design": "Cluster randomized comparative effectiveness evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizoppheria and related disorders, which is not directly related to employment policies for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "cluster randomized comparative effectiveness evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        }
+    }
+}

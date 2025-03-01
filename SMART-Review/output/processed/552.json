@@ -1,0 +1,33 @@
+{
+    "ArticleID": 552,
+    "Authors": "Newcomb, R. D.; Steffen, M. W.; Breeher, L. E.; Sturchio, G. M.; Murad, M. H.; Wang, Z.; Molella, R. G.",
+    "Article Title": "Screening for depression in the occupational health setting",
+    "Abstract": "Background The cost of workplace absenteeism and presenteeism due to depression in the USA is substantial.Aims To assess the frequency of depression and its impact at the point of care in an occupational health (OH) practice.Methods Patients presenting to an OH practice completed a standardized depression screening tool and were compared to an unscreened group in the same clinic. Respondents with a nine-item Patient Health Questionnaire (PHQ-9) score >15 and untreated for depression were referred for further evaluation per usual practice. A comparison group of unscreened patients were selected from the same clinic from 1 year prior and records were reviewed for evidence of prior depression, treatment and outcomes. After 1 year, frequency of depression, PHQ-9 scoring for screened patients, days absent from work, days on restricted duties and permanent restrictions were recorded for both groups.Results Two hundred and five patients were screened for depression. Screening was associated with increased frequency of a diagnosis of current depression (30 versus 4%; P < 0.05). Screening was associated with similar rates of absenteeism but lower number of days on restricted duties (97 versus 159 days; P < 0.001). After adjusting for age, sex, history of and treatment for depression, screening was associated with lower odds of being on work restrictions [odds ratio (OR) 0.55; 95% confidence interval (CI) 0.38-0.78] or permanent restrictions (OR 0.35; 95% CI 0.23-0.52).Conclusions Depression was common in this OH practice. Screening for depression, with appropriate recognition and referral, may reduce time for employed patients on restricted duties and permanent restrictions.",
+    "DOI": "10.1093/occmed/kqw043",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a comparison of screened patients to unscreened patients, which lacks a control group.",
+            "study_design": "Comparison",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group. It compares screened patients to an unscreened historical cohort without randomization.",
+            "study_design": "Quasi-experimental (historical cohort)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

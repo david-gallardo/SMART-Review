@@ -1,0 +1,33 @@
+{
+    "ArticleID": 491,
+    "Authors": "Brimblecombe, Nicola; Stevens, Madeleine; Gowen, Sara; Skyer, Robin; Moriarty, Jo",
+    "Article Title": "Understanding the unmet support needs of young and young adult carers and their families",
+    "Abstract": "Support for children and young people who provide unpaid care is important to help prevent negative impacts of caregiving on their education, employment, mental health, and social relationships. We aimed to address an evidence gap about what services and support are needed from young carers' perspectives. We carried out focus groups or in-depth interviews with 133 carers aged 9-25 in England. Expressed unmet need for services and support could be grouped in three categories: support that would reduce or remove young people's need to provide care, help improve the lives of the people they care for, mitigate against impacts of providing care on their mental health, wellbeing, education, social participation and leisure activities, and, whilst they are still providing care, assist them in their caring role. Action is needed to address these currently unmet needs and implement young carers' and their families' rights to support.",
+    "DOI": "10.1371/journal.pone.0310766",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. It is a qualitative study with focus groups or in-depth interviews, which does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders. It focuses on the needs of young carers and their families regarding support services.",
+            "study_design": "Qualitative research (focus groups/interviews)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the unmet support needs of young carers and their families, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders as the primary focus; it focuses on young carers and their families.",
+            "study_design": "Qualitative study (focus groups and in-depth interviews)",
+            "logprobs": null
+        }
+    }
+}

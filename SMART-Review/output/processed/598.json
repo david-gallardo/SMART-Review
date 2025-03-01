@@ -1,0 +1,33 @@
+{
+    "ArticleID": 598,
+    "Authors": "Kortrijk, Hans E.; Mulder, Niels L.; Kamperman, Astrid M.; van Weeghel, Jaap",
+    "Article Title": "Employment Rates in Flexible Assertive Community Treatment Teams in The Netherlands: An Observational Study",
+    "Abstract": "We determined the proportions of clients treated in Flexible Assertive Community Treatment teams who were unemployed and gained employment and who were employed and lost employment. Secondly, we explored the demographical and clinical factors associated with employment. Data were collected during routine outcome monitoring. We calculated differences in employment rates over a year and explored differences in demographic characteristics at baseline between patient groups. Logistic regression analysis was used to estimate the role of clinical predictor variables on employment status. Over time, 10% remained employed, 5% lost their employment, 3% gained employment and 82% remained unemployed. Clients who found employment were younger, more often male, and had significantly fewer psychosocial problems and a higher subjective quality of life during follow-up than those who remained unemployed. Problems with motivation for treatment at baseline were related to losing employment or remaining unemployed. Better implementation of vocational services is very important for increasing the number of clients gaining employment.",
+    "DOI": "10.1007/s10597-018-0233-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is observational, but it includes a control group (clients who remained unemployed) and presents measures of employment outcomes.",
+            "study_design": "Observational study with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group. It is an observational study.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is an observational study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an observational study without a control group.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

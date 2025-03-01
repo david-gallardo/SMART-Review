@@ -1,0 +1,33 @@
+{
+    "ArticleID": 570,
+    "Authors": "Montemagni, Cristiana; Frieri, Tiziana; Villari, Vincenzo; Rocca, Paola",
+    "Article Title": "ASSOCIATIONS BETWEEN FUNCTIONAL MILESTONES AND PSYCHIATRIC ADMISSIONS IN AN URBAN AREA: UTILITY OF A CLUSTER-ANALYTICAL APPROACH",
+    "Abstract": "Background: The purpose of the study was to identify homogenous subgroups, based upon achievement of two functional milestones (marriage and employment) and Global Assessment of Functioning (GAF) score in a sample of 848 acute patients admitted to the Psychiatric Emergency Service (PES) of the Citta della Salute e della Scienza di Torino, during a 24-months period.Subjects and methods: A two-step cluster-analysis, using GAF total score and the achievements in the two milestones as input data was performed. In order to examine whether the identified subgroups differed in external variables that were not included in the clustering process, and consequently to validate the found functional profiles, chi-square tests for categorical variables and analyses of variance (ANOVA) for continuous variables were performed.Results: Five clusters were found. Employed patients (Clusters 4 and 5) had more years of education, less illness chronicity (shorter duration of illness and lower proportion of previous voluntary hospitalizations), lower use of mental health resources in the last year yet higher treatment adherence, larger network size, and higher ordinary discharge. Married inpatients (Clusters 3 and 5) had lower frequencies of substance abuse.Conclusions: The remarkably high rate of unemployment in this inpatients' sample, and the evidence of associations between unemployment and poorer functioning, argue for further research and development of evidence-based supported employment programs, that put forth diligent effort in helping people obtain work quickly and sustain; they may also help to reduce health care service use among that clientele.",
+    "DOI": "10.24869/psyd.2018.207",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a cluster-analysis without a control group.",
+            "study_design": "Cluster analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not directly address employment interventions. The focus is on identifying subgroups based on functional milestones and psychiatric admissions without evaluating specific employment policies or interventions.",
+            "study_design": "Cluster-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on functional milests and psychiatric admissions.",
+            "study_design": "Cluster-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and does not evaluate an intervention.",
+            "study_design": "Cluster analysis",
+            "logprobs": null
+        }
+    }
+}

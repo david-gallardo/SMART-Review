@@ -1,0 +1,33 @@
+{
+    "ArticleID": 873,
+    "Authors": "Williamson, Alicia K.; Riendeau, Rachel P.; Stolzmann, Kelly; Silverman, Allie F.; Kim, Bo; Miller, Christopher J.; Connolly, Samantha L.; Pitcock, Jeffery; Bauer, Mark S.",
+    "Article Title": "An Exploratory Analysis of Self-Reported Protective Factors against Self-Harm in an Enrolled Veteran General Mental Health Population",
+    "Abstract": "Introduction: The purpose of this study is to characterize self-reported protective factors against suicide or self-harm within free-response comments from a harm-risk screening. Materials and Methods: Veterans enrolled in Department of Veterans Affairs mental health care were administered a self-harm and suicide screening as part of the baseline assessment in an ongoing implementation trial. Veterans indicated if they had thoughts of harming themselves and if so, what kept them from acting on them. Responses were coded based on established Centers for Disease Control protective factor categories. Descriptive analyses of demographic factors (such as age, gender, and race), clinical factors, and quality of life measures were conducted across groups depending on levels of self-harm risk. Results: Of 593 Veterans, 57 (10%) screened positive for active thoughts of self-harm or suicide. Those with thoughts of self-harm had lower quality of life scores and higher rates of depression diagnoses. Of those individuals, 41 (72%) reported protective factors including Personal Resources (17%), Community Resources or Relationships (68%), and Other including pets and hobbies (15%). Those with stated protective factors had higher rates of employment and lower rates of PTSD diagnoses. Conclusion: This is one of the first open-response studies of harm-risk protective factors, allowing for a patient-centered approach that prioritizes the individual's voice and values. New protective factors emerged through the open-response format, indicating important factors that kept Veterans safe from self-harm or suicide such as pets and hobbies. Increasing focus on strengths and positive aspects of Veterans' lives that serve as protective factors may ultimately improve mental health treatment and prevention of suicide and self-harm.",
+    "DOI": "10.1093/milmed/usz111",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not directly address employment outcomes. The intervention is not specified in terms of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Exploratory analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Implementation trial",
+            "logprobs": null
+        }
+    }
+}

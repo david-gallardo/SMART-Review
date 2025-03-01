@@ -1,0 +1,33 @@
+{
+    "ArticleID": 736,
+    "Authors": "Guehne, Uta; Weinmann, Stefan; Arnold, Katrin; Becker, Thomas; Riedel-Heller, Steffi G.",
+    "Article Title": "S3 guideline on psychosocial therapies in severe mental illness: evidence and recommendations",
+    "Abstract": "The burden of severe and persistent mental illness is high. Beside somatic treatment and psychotherapeutic interventions, treatment options for patients with severe mental illness also include psychosocial interventions. This paper summarizes the results of a number of systematic literature searches on psychosocial interventions for people with severe mental illness. Based on this evidence appraisal, recommendations for the treatment of people with severe mental illness were formulated and published in the evidence-based guideline series of the German Society for Psychiatry, Psychotherapy and Neurology (DGPPN) as an evidence-based consensus guideline (S3 guideline). Recommendations were strongly based on study results, but used consensus processes to consider external validity and transferability of the recommended practices to the German mental healthcare system. A distinction is made between system-level interventions (multidisciplinary team-based psychiatric community care, case management, vocational rehabilitation and participation in work life and residential care interventions) and single psychosocial interventions (psychoeducation, social skills training, arts therapies, occupational therapy and exercise therapy). There is good evidence for the efficacy of the majority of psychosocial interventions in the target group. The best available evidence exists for multidisciplinary team-based psychiatric community care, family psychoeducation, social skills training and supported employment. The present guideline offers an important opportunity to further improve health services for people with severe mental illness in Germany. Moreover, the guideline highlights areas for further research.",
+    "DOI": "10.1007/s00406-014-0558-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on psychosocial therapies in severe mental illness, which does not meet the inclusion criteria for intervention.",
+            "study_design": "Systematic literature search and evidence appraisal",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychosocial therapies in severe mental illness and does not specifically address employment policies. It lacks measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosocial interventions for severe mental illness, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of psychosocial interventions including supported employment, which is an eligible intervention. It focuses on people with severe mental illness and includes outcomes related to vocational rehabilitation and participation in work life.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

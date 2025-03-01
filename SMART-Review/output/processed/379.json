@@ -1,0 +1,33 @@
+{
+    "ArticleID": 379,
+    "Authors": "Goto, Taichi; Saligan, Leorey N.; Juneau, Paul; Gonsalves, Stephen G.; Rio, Carielle Joy; Graves, Letitia Y.; Von Ah, Diane",
+    "Article Title": "Characterization of cancer survivors clustered by subjective and objective cognitive function scores",
+    "Abstract": "BackgroundCancer-related cognitive impairment (CRCI) is a prevalent condition that significantly impacts the quality of life of individuals who receive cancer treatment. Clinical management of CRCI presents challenges due to the absence of a standardized assessment. This study identified clinically relevant phenotypic clusters of CRCI based on subjective and objective cognitive function scores.MethodsIn this cross-sectional study, participants were clustered using the VARCLUS (TM) based on subjective cognitive impairment assessed through the PROMIS (R) version 1.0 short-form subscales of cognitive abilities and cognitive concerns and the CANTAB Cambridge Cognition (R) scores, which included measures of visuospatial working memory capacity, visual episodic memory, new learning, working memory, executive function, and sustained attention. Each cluster's characteristics were described using demographics, physical and psychosocial factors (physical function, affect, optimism, and social support), and psychoneurological symptoms (anxiety, depression, fatigue, neuropathic pain, and sleep disturbance).ResultsWe obtained five clusters from a total of 414 participants, where 99% were female, and 93% were self-reported white. Clusters 4 and 5 showed the highest PROMIS (R) cognitive abilities and the lowest measures of cognitive concern, while Clusters 1 and 2 showed the lowest cognitive abilities and the highest cognitive concerns. Clusters 4 and 5 had higher education, income, employment, and higher scores in physical function, positive affect, optimism, and social support. Additionally, individuals in these clusters were less prone to experience severe cancer-related psychoneurological symptoms.ConclusionOur clustering approach, combining subjective and objective cognitive function information, shows promise in identifying phenotypes that hold clinical relevance for categorizing patient presentation of CRCI and facilitating individualized management strategies.",
+    "DOI": "10.1002/cam4.7255",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on cancer survivors' cognitive function scores rather than mental health disorders and employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on cancer-related cognitive impairment and its clusters.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on cancer-related cognitive impairment (CRCI) in cancer survivors, which is not directly related to employment or labor outcomes for people with mental health disorders. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders or employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

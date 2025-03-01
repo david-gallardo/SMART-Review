@@ -1,0 +1,33 @@
+{
+    "ArticleID": 717,
+    "Authors": "McGurk, Susan R.; Drake, Robert E.; Xie, Haiyi; Riley, Jarnee; Milfort, Roline; Hale, Thomas W.; Frey, William",
+    "Article Title": "Cognitive Predictors of Work Among Social Security Disability Insurance Beneficiaries With Psychiatric Disorders Enrolled in IPS Supported Employment",
+    "Abstract": "Background: Impaired cognitive functioning is a significant predictor of work dysfunction in schizophrenia. Less is known, however about relationships of cognition and work in people with less severe disorders with relatively normal cognitive functioning. Methods: This secondary analysis evaluated cognitive predictors of work in Social Security Disability Insurance (SSDI) beneficiaries with a recent work history who were randomized to receive mental health services, supported employment, and freedom from work disincentives over a 2-year study period in the Mental Health Treatment Study. Of the 1045 participants randomized to the treatment package, 945 (90.4%) received a cognitive assessment at study entry. Competitive work activity was evaluated using a computer-assisted timeline follow-back calendar at baseline and quarterly for 24 months. Results: Mood disorders were the most common psychiatric diagnoses (64.9%), followed by schizophrenia or schizoaffective disorder (35.1%). Tobit regression analyses predicting the average number of hours worked per week, controlling for demographic characteristics, diagnosis, and work history indicated that the cognitive composite score (P < .01) and verbal learning subscale scores (P < .001) were associated with fewer hours of weekly work over the study period. Conclusions: Cognitive functioning predicted work over 2 years in SSDI beneficiaries with mood or schizophrenia-spectrum disorders who were receiving supported employment and mental health interventions, despite a relative absence of cognitive impairment in the study participants. The findings suggest cognitive functioning contributes to competitive work outcomes in persons with psychiatric disorders who have relatively unimpaired cognitive abilities, even under optimal conditions of treatment and vocational support.",
+    "DOI": "10.1093/schbul/sbx115",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in the EU, within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as hours worked per week, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions. It focuses on cognitive predictors of work among SSDI beneficiaries with psychiatric disorders.",
+            "study_design": "Secondary analysis of a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on SSDI beneficiaries with psychiatric disorders, which does not align with the specified population of people with mental health disorders in the inclusion criteria. Additionally, the study's geographic scope and intervention type do not meet the specified criteria.",
+            "study_design": "secondary analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that evaluates supported employment for people with mental health disorders in the US within the specified timeframe and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

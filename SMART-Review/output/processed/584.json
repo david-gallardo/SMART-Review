@@ -1,0 +1,33 @@
+{
+    "ArticleID": 584,
+    "Authors": "Modini, Matthew; Tan, Leona; Brinchmann, Beate; Wang, Min-Jung; Killackey, Eoin; Glozier, Nicholas; Mykletun, Arnstein; Harvey, Samuel B.",
+    "Article Title": "Supported employment for people with severe mental illness: systematic review and meta-analysis of the international evidence",
+    "Abstract": "BackgroundIndividual placement and support (IPS) is a vocational rehabilitation programme that was developed in the USA to improve employment outcomes for people with severe mental illness. Its ability to be generalised to other countries and its effectiveness in varying economic conditions remains to be ascertained.AimsTo investigate whether IPS is effective across international settings and in different economic conditions.MethodA systematic review and meta-analysis of randomised controlled trials comparing IPS with traditional vocational services was undertaken; 17 studies, as well as 2 follow-up studies, were included. Meta-regressions were carried out to examine whether IPS effectiveness varied according to geographic location, unemployment rates or gross domestic product (GDP) growth.ResultsThe overall pooled risk ratio for competitive employment using IPS compared with traditional vocational rehabilitation was 2.40 (95% CI 1.99-2.90). Meta-regressions indicated that neither geographic area nor unemployment rates affected the overall effectiveness of IPS. Even when a country's GDP growth was less than 2% IPS was significantly more effective than traditional vocational training, and its benefits remained evident over 2 years.ConclusionsIndividual placement and support is an effective intervention across a variety of settings and economic conditions and is more than twice as likely to lead to competitive employment when compared with traditional vocational rehabilitation.",
+    "DOI": "10.1192/bjp.bp.115.165092",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis of RCTs, which meets the inclusion criteria. The study includes EU countries, Europe, US, Canada, and Australia, and focuses on people with mental disorders or documented mental health problems. The outcomes presented are employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Systematic review and meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (systematic review and meta-analysis), geographic scope (international settings including EU countries), timeframe (2005-2025), intervention (supported employment), population (people with severe mental illness), and outcomes (employment rates).",
+            "study_design": "Systematic review and meta-analysis of randomised controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: systematic review and meta-analysis of RCTs, EU countries, Europe, US, Canada, Australia, 2005-2025, supported employment intervention, population with mental disorders, includes employment outcomes.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        }
+    }
+}

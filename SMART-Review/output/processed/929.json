@@ -1,0 +1,33 @@
+{
+    "ArticleID": 929,
+    "Authors": "Martin-Carrasco, M.; Evans-Lacko, S.; Dom, G.; Christodoulou, N. G.; Samochowiec, J.; Gonzalez-Fraile, E.; Bienkowski, P.; Gomez-Beneyto, M.; Dos Santos, M. J. H.; Wasserman, D.",
+    "Article Title": "EPA guidance on mental health and economic crises in Europe",
+    "Abstract": "This European Psychiatric Association (EPA) guidance paper is a result of the Working Group on Mental Health Consequences of Economic Crises of the EPA Council of National Psychiatric Associations. Its purpose is to identify the impact on mental health in Europe of the economic downturn and the measures that may be taken to respond to it. We performed a review of the existing literature that yields 350 articles on which our conclusions and recommendations are based. Evidence-based tables and recommendations were developed through an expert consensus process. Literature dealing with the consequences of economic turmoil on the health and health behaviours of the population is heterogeneous, and the results are not completely unequivocal. However, there is a broad consensus about the deleterious consequences of economic crises on mental health, particularly on psychological well-being, depression, anxiety disorders, insomnia, alcohol abuse, and suicidal behaviour. Unemployment, indebtedness, precarious working conditions, inequalities, lack of social connectedness, and housing instability emerge as main risk factors. Men at working age could be particularly at risk, together with previous low SES or stigmatized populations. Generalized austerity measures and poor developed welfare systems trend to increase the harmful effects of economic crises on mental health. Although many articles suggest limitations of existing research and provide suggestions for future research, there is relatively little discussion of policy approaches to address the negative impact of economic crises on mental health. The few studies that addressed policy questions suggested that the development of social protection programs such as active labour programs, social support systems, protection for housing instability, and better access to mental health care, particularly at primary care level, is strongly needed.",
+    "DOI": "10.1007/s00406-016-0681-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of existing literature, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control groups. It is a guidance paper based on an expert consensus process rather than a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Guidance paper",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a guidance paper by the European Psychiatric Association (EPA) and does not focus on interventions or outcomes related to employment or labor results for people with mental health disorders. It discusses the impact of economic crises on mental health broadly, without specific interventions or outcomes related to employment.",
+            "study_design": "Guidance paper",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on specific employment interventions and lacks a rigorous evaluation or control group.",
+            "study_design": "Guidance paper",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 645,
+    "Authors": "Schindler, Andreas; Warkentin, H. F.; Bierbrodt, J.; Koenig, H.; Konnopka, A.; Pepic, A.; Peth, J.; Lambert, M.; Gallinat, J.; Karow, A.; Koenig, H. -H.; Haerter, M.; Schulz, H.; Rohenkohl, A.; Krog, K.; Biedermann, S. V.; Schaefer, I.",
+    "Article Title": "Dialectical behavior therapy (DBT) in an assertive community treatment structure (ACT): testing integrated care borderline (ICB) in a randomized controlled trial (RECOVER)",
+    "Abstract": "Background Though Dialectical Behavior Therapy (DBT) and other treatment models for individuals with Borderline Personality Disorder (BPD) have shown to be efficient in inpatient and outpatient settings, there is a general shortage of these treatments. In Germany, most resources are spent on inpatient treatments and unspecific crisis interventions, while it is difficult to implement the necessary team structures in an outpatient setting. This study is testing an alternative approach focussing on outpatient treatment: Integrated Care Borderline (ICB) provides DBT for persons with severe BPD within the structures of an Assertive Community Treatment (ACT). ICB is team-based, integrating psychiatric and social support as well as crisis interventions into a DBT-strategy. Methods ICB was compared to TAU in a prospective, randomized controlled trial. This study is part of RECOVER, a comprehensive stepped care approach in Germany, which enrolled a total of 891 participants. 146 persons were diagnosed with BPD as main diagnosis. Of these, 100 were allocated to the highest level of severe mental illness (SMI) and randomly assigned to either ICB (n = 50) or TAU (n = 50). Data were collected at baseline and 12 months later. The main outcomes were psychosocial functioning (GAF), severity of BPD (BSL-23) and other mental symptoms (BSI, PHQ-9, GAD-7, self-harm), employment status (VILI), as well as hospital days and associated costs. Results Data show a significant increase of psychosocial functioning and a significant decrease of BPD and other psychiatric symptoms in both groups (r = .28 - .64), without any significant differences between the groups. The proportion of self-harming persons decreased in both groups without statistical significance. Patients were significantly more likely to be employed after a year of treatment in ICB (p = .001), but not in the TAU group (p = .454). Analyses showed a significant difference between the groups (p = .032). Moreover, psychiatric hospital days were significantly reduced in ICB (-89%, p < .001, r = .61), but not in TAU (-41%, p = .276, r = .15), resulting in a significant difference between the groups (p = .016) and in lower annual hospital costs in ICB (5,546 vs. 10,726, -48%, p = .011) compared to TAU. Conclusion Our results replicate earlier studies, showing that DBT can be efficient in outpatient settings. Furthermore, they indicate additional effects on employment and hospital days. The ICB-approach seems to offer a viable framework for multiprofessional outpatient DBT-teams. Future research will have to test whether the additional effects are brought about by the additional features of ICB compared to standard outpatient DBT.",
+    "DOI": "10.1186/s40479-024-00261-4",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RECOVER), which meets the inclusion criteria. The study also includes a control group (TAU) and presents measures of employment and labor results.",
+            "study_design": "Randomized Controlled Trial (RECOVER)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on Dialectical Behavior Therapy (DBT) for Borderline Personality Disorder and does not directly address employment policies. The outcomes include psychosocial functioning, psychiatric symptoms, self-harm, hospital days, and costs but do not meet the inclusion criteria related to active employment policies.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study's intervention does not directly address employment, which is a key inclusion criterion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

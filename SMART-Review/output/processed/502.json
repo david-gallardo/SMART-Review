@@ -1,0 +1,33 @@
+{
+    "ArticleID": 502,
+    "Authors": "van Dongen, Johanna M.; van Berkel, Jantien; Boot, Cecile R. L.; Bosmans, Judith E.; Proper, Karin I.; Bongers, Paulien M.; van der Beek, Allard J.; van Tulder, Maurits W.; van Wier, Marieke F.",
+    "Article Title": "Long-Term Cost-Effectiveness and Return-on-Investment of a Mindfulness-Based Worksite Intervention Results of a Randomized Controlled Trial",
+    "Abstract": "Objectives: The aim of this study was to conduct a cost-effectiveness and return-on-investment analysis comparing a mindfulness-based worksite intervention to usual practice. Methods: Two hundred fifty-seven governmental research institute employees were randomized to the intervention or control group. Intervention group participants received an eight-week mindfulness training, e-coaching, and supporting elements. Outcomes included work engagement, general vitality, job satisfaction, work ability, and costs. Cost-effectiveness analyses were conducted from the societal and employer's perspective, and a return-on-investment analysis from the employer's perspective. Results: After 12 months, a significant but not clinically relevant adverse effect on work engagement was found (-0.19; 95% confidence interval: -0.38 to -0.01). There were no significant differences in job satisfaction, general vitality, work ability, and total costs. Probabilities of cost-effectiveness were low (<= 0.25) and the intervention did not have a positive financial return to the employer. Conclusion: The intervention was neither cost-saving nor cost-effective. Poor e-coaching compliance might partly explain this result.",
+    "DOI": "10.1097/JOM.0000000000000736",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2025",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on a mindfulness-based intervention, which is not one of the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

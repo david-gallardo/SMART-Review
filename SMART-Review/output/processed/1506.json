@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1506,
+    "Authors": "Sanchez, Jennifer; Sahker, Ethan; Arndt, Stephan",
+    "Article Title": "The Assessment of Recovery Capital (ARC) predicts substance abuse treatment completion",
+    "Abstract": "Recovery from addiction requires various personal and environmental resources. The purposes of this study were to determine if the Assessment of Recovery Capital (ARC) scores measured at admission could predict substance abuse treatment (SAT) completion and to identify personal and environmental factors associated with ARC scores. Participants (N = 2265) comprised clients entering a Midwestern SAT facility (August 2015 - June 2017). Logistic regression was used to predict SAT completion using ARC scores. Nonparametric group comparisons were used for personal and environmental covariates. ARC scores significantly predicted successful SAT completion (OR = 1.05, 95% CI = 1.04, 1.05, Wald z = 12.9, p < 0.001). Employment had a positive relationship with ARC scores (Kruskal-Wallis chi(2) = 215.96, df = 8, p < 0.001). ARC scores varied according to primary substance (Kruskal-Wallis chi(2) = 101.10, df = 6, p < 0.001); alcohol and marijuana showed the highest scores and heroin the lowest. ARC scores decreased as number of problem substances increased (Kruskal-Wallis chi(2) = 70.57, df = 2, p < 0.001, r(s) = -0.163, p < 0.001). Living arrangement was also significant (Kruskal-Wallis chi(2) = 146.36, df = 8, p < 0.001); clients who were homeless had the lowest ARC scores. A number of personal and environmental covariates were associated with the ARC scores and potentially with the outcome. After adjustment, the ARC remained a strong predictor of SAT completion. The ARC should be used in SAT facilities to guide treatment decisions and to create individualized treatment plans for clients.",
+    "DOI": "10.1016/j.addbeh.2019.106189",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a logistic regression analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes related to people with mental health disorders. It focuses on predicting substance abuse treatment completion using the Assessment of Recovery Capital (ARC) scores.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on substance abuse treatment completion and recovery capital, not employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

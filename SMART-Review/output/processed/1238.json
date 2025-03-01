@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1238,
+    "Authors": "Shiratsuchi, Daijo; Motohiro, Atsushi; Okuyama, Kenta; Abe, Takafumi",
+    "Article Title": "Relationship between occupational stress and presenteeism status among workers in small and medium-sized enterprises",
+    "Abstract": "This study aimed to identify characteristics of workers experiencing health problems without a decline in labor productivity to address presenteeism. A cross-sectional analysis was conducted on 554 workers in Japan, with a median age of 43 years. Participants reported any health problems in the past month, along with job stressors, stress responses, social support, and job and life satisfaction using the Brief Job Stress Questionnaire. They were categorized into three groups: no symptoms, pre-presenteeism (health problems without work impact), and presenteeism (health problems with work impact). Results showed that 30.1% were in prepresenteeism and 52.0% in presenteeism. Stress responses and social support were linked to both pre-presenteeism and presenteeism, while job stressors and job and life satisfaction were only associated with presenteeism. These findings offer insights for preventing presenteeism.",
+    "DOI": "10.1080/19338244.2024.2359409",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and population (does not reference mental health).",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes directly related to people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in the specified geographic scope (Japan) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        }
+    }
+}

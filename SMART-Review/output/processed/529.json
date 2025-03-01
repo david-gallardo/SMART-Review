@@ -1,0 +1,33 @@
+{
+    "ArticleID": 529,
+    "Authors": "Kaneva, Maria; Gerry, Christopher J.",
+    "Article Title": "Labour market status and depression in Russia: A longitudinal study, 2011-2017",
+    "Abstract": "Aims: This is the first longitudinal study to examine the relationship between depression and the labour market in Russia. Using data from 2011 to 2017, we identify the impact that not being in employment has on mental distress, and we explore the mechanism underlying the observed association. Methods: Using data from the Russia Longitudinal Monitoring Survey - Higher School of Economics, we employ random-effects regression models to estimate the impact of employment conditions on the likelihood of reporting mental distress in Russia. This method allows us to distinguish between the selection effect associated with mental distress and direct causation. Results: Controlling for a range of socio-economic and demographic characteristics, we find that unemployment and labour market inactivity are strong predictors of the likelihood of reporting depression and serious nervous breakdown. However, we find that rather than negative labour market events giving rise to mental distress, the selection effect actually dominates, and the direction of causality therefore operates in reverse. Conclusions: Knowledge of the underlying mechanism that links unfavourable labour market outcomes with mental distress is crucial for designing policies that can address this link. We argue that our findings provide grounds for the initiation of anti-stigma campaigns among employers, policymakers, health practitioners and politicians as well as the general population. Eradication of the perception that mental disorders are somehow different to 'real' illnesses will not only prevent Russians from self-selection into unemployment but may also transform outdated approaches to mental health care in Russia.",
+    "DOI": "10.1177/14034948211026784",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and does not have a control group.",
+            "study_design": "Lack of rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. It is a longitudinal study but does not fit into meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not meet the inclusion criteria regarding the population, as it does not specifically reference people with mental health disorders. Additionally, the study's geographic scope is outside the specified regions (EU, Europe, US, Canada, Australia).",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Russia is not included).",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

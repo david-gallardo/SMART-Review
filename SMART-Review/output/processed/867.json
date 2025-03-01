@@ -1,0 +1,33 @@
+{
+    "ArticleID": 867,
+    "Authors": "Christensen, Thomas Nordahl; Kruse, Marie; Hellstrom, Lone; Eplov, Lene Falgaard",
+    "Article Title": "Cost-utility and cost-effectiveness of individual placement support and cognitive remediation in people with severe mental illness: Results from a randomized clinical trial",
+    "Abstract": "Background: Administrators and policymakers are increasingly interested in individual placement and support (IPS) as a way of helping people with severe mental illness (SMI) obtain employment or education. It is thus important to investigate the cost-effectiveness to secure that resources are being used properly.Methods: In a randomized clinical trial, 720 people diagnosed with SMI were allocated into three groups; (a) IPS, (b) IPS supplemented with cognitive remediation a social skills training (IPSE), and (c) Service as usual (SAU). Health care costs, municipal social care costs, and labor market service costs were extracted from nationwide registers and combined with data on use of IPS services. Cost-utility and cost-effectiveness analyses were conducted with two primary outcomes: quality-adjusted life years (QALY) and hours in employment. Incremental cost-effectiveness ratios (ICER) were computed for both QALY, using participant's responses to the EQ-5D questionnaire, and for hours in employment.Results: Both IPS and IPSE were less costly, and more effective than SAU. Overall, there was a statistically significant cost difference of euro9,543 when comparing IPS with SAU and euro7,288 when comparing IPSE with SAU. ICER's did generally not render statistically significant results. However, there was a tendency toward the IPS and IPSE interventions being dominant, that is, cheaper with greater effect in health-related quality of life and hours in employment or education compared to usual care.Conclusion: Individual placement support with and without a supplement of cognitive remediation tends to be cost saving and more effective compared to SAU.",
+    "DOI": "10.1192/j.eurpsy.2020.111",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized clinical trial, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention (IPS) is one of the specified interventions (job search services, adult training, wage subsidies, supported employment). The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (individual placement support and cognitive remediation), population (people with severe mental illness), and outcomes (employment or labor outcomes).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, focuses on supported employment for people with severe mental illness, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

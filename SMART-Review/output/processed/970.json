@@ -1,0 +1,33 @@
+{
+    "ArticleID": 970,
+    "Authors": "Rupp, Agnes; Freed, Michael C.; Juliano-Bult, Denise",
+    "Article Title": "Insurance Markets, Labor Markets, and the Mental Health Services Delivery System",
+    "Abstract": "Introduction: The authors are health scientist administrators at the National Institute of Mental Health (NIMH). The mission of NIMH is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. As part of its portfolio, NIMH supports research on mental health economics, and mental health services research.Method: In this perspective article, the authors comment on two papers presented at the NIMH-sponsored Mental Health Services Research Conference in 2018 and subsequently published in the September 2019 issue of the Journal of Mental Health Policy and Economics. Two important areas are highlighted in this review: (i) the impact of insurance and labor markets on the delivery of high-quality mental health services, and (ii) the need for advancements in method development and design in future studies.Discussion: The complexity of health insurance markets created some unintended consequence of the mental health insurance parity legislation. Mental health provider shortages in local labor markets are a barrier to successful implementation and sustainment of innovative and evidence-based mental health service-delivery models for people with serious mental illness.Implications for Research: Data-capture techniques that seamlessly integrate insurance claims with clinical outcomes (e.g., from electronic health records) will better equip health economists and other end-users with rigorous research findings to inform public health policy and practice recommendations. Despite early signals of success, larger sample sizes and more rigorous research designs are needed to refine predictive models of functional outcomes of evidence-based service-delivery models (e.g., coordinated specialty care model including supported education, and supported employment) for people with first-episode psychosis.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a perspective article, lacks a rigorous evaluation, and does not have a control group.",
+            "study_design": "Perspective article",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a perspective article rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Perspective article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on interventions directly related to employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Perspective article",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not present measures of employment or labor results.",
+            "study_design": "Perspective Article",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1040,
+    "Authors": "Benedict, Ralph H. B.; Rodgers, Jonathan D.; Emmert, Natalie; Kininger, Rachel; Weinstock-Guttman, Bianca",
+    "Article Title": "Negative work events and accommodations in employed multiple sclerosis patients",
+    "Abstract": "Work disability is common in multiple sclerosis (MS) and cognitive disorder discriminates disabled from employed patients. Our goal was to develop and validate an online vocational status monitoring tool measuring negative work events and use of accommodations. We enrolled 52 employed patients completing an online survey and a clinical examination including tests of motor function, cognitive abilities, and depression. The survey recorded a wide range of reported work problems. Regression models predicting negative work events, and use of accommodations, retained measures of ambulation, cognition, and depression. These data provide preliminary support for the validity of online vocational monitoring in MS.",
+    "DOI": "10.1177/1352458513494492",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment are not mentioned.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and interventions directly targeting people with mental health disorders. It focuses on multiple sclerosis patients and the development of an online vocational status monitoring tool.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on multiple sclses (MS) and not specifically on people with mental health disorders. The intervention is not directly related to employment policies but rather to work accommodations for MS patients.",
+            "study_design": "Clinical examination and survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate an employment intervention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

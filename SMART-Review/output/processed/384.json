@@ -1,0 +1,33 @@
+{
+    "ArticleID": 384,
+    "Authors": "Ennals, Priscilla; Fossey, Ellie M.; Harvey, Carol A.; Killackey, Eoin",
+    "Article Title": "Postsecondary education: Kindling opportunities for people with mental illness",
+    "Abstract": "Education is recognized in many sectors of society as essential for empowerment and better lives, and postsecondary education is increasingly a prerequisite for many occupations. Given its onset in late adolescence and early adulthood, mental illness frequently disrupts secondary or tertiary education, and resulting lower educational attainment contributes to reduced lifetime employment and earning potential. Yet, supporting people with mental illnesses to pursue postsecondary education offers pathways to vocational qualifications and more diverse opportunities for employment and career advancement. While substantial efforts have been made to develop evidence-based interventions to improve employment outcomes for people with mental ill health, less is known about the best ways to enable people with mental illness to successfully return to study and to pursue their educational goals. This paper briefly discusses supported education, an approach designed to provide pathways and supports for reengagement in education; it highlights the potential of modeling educational support on Individual Placement and Support principles used in supported employment programs; and calls for greater efforts in research and practice to enable youth or adults with mental illness to reengage in education so as to improve their educational outcomes and career prospects.",
+    "DOI": "10.1111/appy.12091",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported education, does not directly address employment.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is an opinion paper discussing supported education for people with mental illness.",
+            "study_design": "Opinion Paper",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on postsecondary education rather than employment interventions.",
+            "study_design": "Not specified in the abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (focuses on postsecondary education rather than job search services, adult training, wage subsidies, or supported employment).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

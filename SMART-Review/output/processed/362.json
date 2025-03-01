@@ -1,0 +1,33 @@
+{
+    "ArticleID": 362,
+    "Authors": "Kraiss, Jannis T.; ten Klooster, Peter M.; Frye, Emily; Kupka, Ralph W.; Bohlmeijer, Ernst T.",
+    "Article Title": "Exploring factors associated with personal recovery in bipolar disorder",
+    "Abstract": "Background Personal recovery is increasingly recognized as important outcome for people with bipolar disorder (BD), but research addressing associated factors of personal recovery in this group remains scarce. This study aimed to explore the association of sociodemographic variables, social participation, psychopathology, and positive emotion regulation with personal recovery in BD.Methods Baseline data from a randomized controlled trial and survey data were combined (N = 209) and split into a training (n = 149) and test sample (n = 60). Block-wise regression analyses and model training were used to determine the most relevant predictors. The final parsimonious model was cross-validated in the test sample.Results In the final parsimonious model, satisfaction with social roles (beta = .442, p < .001), anxiety symptoms (beta = -.328, p < .001), manic symptoms (beta = .276, p < .001), and emotion-focused positive rumination (beta = .258, p < .001) were independently associated with personal recovery. The model explained 57.3% variance in personal recovery (adjusted R-2 = .561) and performed well in predicting personal recovery in the independent test sample (adjusted R-2 = .491).Conclusions Our findings suggest that especially social participation, anxiety and positive rumination might be relevant treatment targets when aiming to improve personal recovery.Practitioner pointsPersonal recovery is considered an increasingly important outcome for people with chronic mental health conditions, including bipolar disorder.We found that anxiety and manic symptoms as well as positive rumination and social participation were independently associated with personal recovery in bipolar disorder.Therefore, these outcomes might be relevant treatment targets when aiming to improve personal recovery in bipolar disorder.Possible interventions to improve these outcomes are discussed, including supported employment and vocational rehabilitation for social participation and exercising with savoring strategies to increase positive rumination.",
+    "DOI": "10.1111/papt.12339",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather explores factors associated with personal recovery in bipolar disorder.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on personal recovery in bipolar disorder and explores factors associated with it.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        }
+    }
+}

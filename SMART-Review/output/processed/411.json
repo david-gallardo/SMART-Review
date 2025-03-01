@@ -1,0 +1,33 @@
+{
+    "ArticleID": 411,
+    "Authors": "Villotti, Patrizia; Zaniboni, Sara; Corbiere, Marc; Guay, Stephane; Fraccaroli, Franco",
+    "Article Title": "Reducing Perceived Stigma: Work Integration of People With Severe Mental Disorders in Italian Social Enterprise",
+    "Abstract": "Objective: People with mental illnesses face stigma that hinders their full integration into society. Work is a major determinant of social inclusion, however, people with mental disorders have fewer opportunities to work. Emerging evidence suggests that social enterprises help disadvantaged people with their work integration process. The purpose of this study is to enhance our understanding about how perceptions of stigma can be decreased for people with mental disorders throughout their work experience in a social enterprise. Method: Using a longitudinal study design, 310 individuals with mental disorders employed in Italian social enterprises completed a battery of questionnaires on individual (e.g., severity of symptoms; occupational self-efficacy) and environmental (e.g., social support; organizational constraints) variables. Of the 223 individuals potentially eligible at the 12-month follow up, 139 completed a battery of questionnaires on social and working skills, perceived work productivity and perceived stigma. Path analyses were used to test a model delineating how people with mental disorders working in social enterprises improve social and work outcomes (i.e., motivation, skills and productivity), and reduce the perception of being stigmatized. Results: Working in a social enterprise enhances working social skills, which leads to a perception of higher productivity and, consequently, the perception of being discriminated against and stigmatized is reduced. Conclusions and Implications for Practice: Social enterprise provides a context in which people with mental disorders reach a sense of work-related and social competence. This sense of competence helps them to reduce perceived stigma, which is a crucial step toward social inclusion.",
+    "DOI": "10.1037/prj0000299",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and social enterprises, which address employment outcomes. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Longitudinal study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a rigorous evaluation with a control group and focuses on perceived stigma rather than direct employment outcomes.",
+            "study_design": "Longitudinal study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on employment interventions directly.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 41,
+    "Authors": "Noel, Valerie A.; Oulvey, Eugene; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Barriers to Employment for Transition-age Youth with Developmental and Psychiatric Disabilities",
+    "Abstract": "Youth with developmental and psychiatric disabilities encounter significant vocational challenges, even when they receive supported employment services. We examined the barriers to employment for 280 transition-age youth with disabilities enrolled in supported employment in eight community rehabilitation centers. Employment team members identified each youth's top three barriers to employment using a 21-item checklist. Lack of work experience, transportation problems, and program engagement issues represented common barriers for both youth with developmental disabilities (53, 36, and 25%) and youth with psychiatric disabilities (20, 33, and 26%). Additional common barriers among youth with developmental disabilities included cognitive problems (32%) and lack of social skills (23%) and among youth with psychiatric disabilities included poor control of psychiatric symptoms (23%). Despite receiving evidence-based employment services, youth with disabilities encounter many barriers to employment. Awareness of typical barriers for transition-age youth, including those specific to different disability groups, may help employment programs anticipate challenges and develop strategies that avoid these barriers and their effects on employment opportunities.",
+    "DOI": "10.1007/s10488-016-0773-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental with control group) and its population is not specifically defined as people with mental health disorders. The outcomes focus on barriers to employment rather than direct employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on barriers to employment for youth with developmental and psychiatric disabilities, not on the effectiveness of interventions like job search services, adult training, wage subsidies, or supported employment. The study also does not meet the specified population criteria as it does not exclusively focus on people with mental health disorders but includes developmental disabilities as well. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Not specified in the provided abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for comparison.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

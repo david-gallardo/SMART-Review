@@ -1,0 +1,33 @@
+{
+    "ArticleID": 487,
+    "Authors": "Sanchez, Jennifer",
+    "Article Title": "Employment predictors and outcomes of US state-federal vocational rehabilitation consumers with affective disorders: A CHAID analysis",
+    "Abstract": "Background: This study examined the demographic and rehabilitation service variables affecting employment outcomes of people with affective disorders receiving services from U.S. state-federal vocational rehabilitation (VR) agencies.Methods: An ex post facto design, using data mining as a statistical analysis strategy, was used to analyze the Rehabilitation Services Administration Case Service Report (RSA-911) for the fiscal year 2011. The sample included 44,960 customers with affective disorders who were closed either as successfully employed (Status 26) or not employed (Status 28) by their VR agency. The dependent variable is employment outcome. The predictor variables include a set of personal characteristic variables and rehabilitation service variables.Results: The chi-squared automatic interaction detector (CHAID) data mining analysis results indicated that job placement services, on-the-job supports, and job search assistance services were significant predictors of successful employment outcomes for individuals with affective disorders.Limitations: The study used data from the RSA-911 database. Causality cannot be inferred due to the use of archival data.Conclusions: Employment should be viewed as a viable treatment outcome for individuals with affective disorders. Rehabilitation professionals should advocate for their clients to receive VR services, including job placement services, on-the-job supports, and job search assistance services in order to maximize their employment and mental health outcomes.",
+    "DOI": "10.1016/j.jad.2018.06.044",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is ex post facto, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "ex post facto",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (ex post facto), geographic scope (US), timeframe (2011 within 2005-2025), intervention (job search assistance services, job placement services, on-the-job supports), population (people with affective disorders), and outcomes (employment outcome).",
+            "study_design": "Ex post facto",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on U.S. state-federal vocational rehabilitation consumers with affective disorders, which does not align with the specified population of people with mental health disorders in the EU or the specified interventions.",
+            "study_design": "Ex post facto design with data mining (CHAID analysis)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Ex post facto design using data mining",
+            "logprobs": null
+        }
+    }
+}

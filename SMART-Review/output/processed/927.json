@@ -1,0 +1,33 @@
+{
+    "ArticleID": 927,
+    "Authors": "Kaltenbach, Elisa; Schauer, Maggie; Hermenau, Katharin; Elbert, Thomas; Schalinski, Inga",
+    "Article Title": "Course of Mental Health in Refugees-A One Year Panel Survey",
+    "Abstract": "Background: Cross-sectional studies indicate that a substantial proportion of refugees have psychiatric disorders. However, longitudinal studies on the course of psychiatric symptoms and on influencing factors are scarce. The current study investigates the development of symptoms in an untreated refugee sample in Germany and seeks to identify potential predictors.Methods: Over the course of 1 year, 57 refugees participated in monthly assisted self-reports on the phone assessing emotional distress. At the same time, semi-annual, semi-structured clinical interviews focusing on posttraumatic stress disorder (PTSD) and depression were conducted. The overall dropout rate for the year was 23% for the assisted self-reports and 33% for the clinical interviews.Results: Symptoms did not systematically change over the course of the year. On the individual level, a reliable change in PTSD symptoms was observed in 13% who showed improvement and 24% who showed worsening symptoms. Figures for depression symptoms were 24 and 16% respectively. A higher number of traumatic experiences was related to a greater intensity of PTSD symptoms. In addition, postmigrational stressors were associated with a worsening of PTSD symptoms over the course of the year. Emotional distress was associated with current negative life events, unemployment, and frequent visits to physicians.Conclusions: There is on average no improvement or worsening of symptoms over the period of 1 year. However, individual courses vary, and thus show the importance of risk factors. Accordingly, the identification of risk factors such as trauma load and postmigrational stressors can be useful to determine the need of further monitoring and to provide appropriate interventions when necessary.",
+    "DOI": "10.3389/fpsyt.2018.00352",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the development of symptoms in refugees, which is outside the scope of the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the course of mental health symptoms in refugees over one year.",
+            "study_design": "Longitudinal study with self-reports and clinical interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Longitudinal study with semi-structured interviews and assisted self-reports",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

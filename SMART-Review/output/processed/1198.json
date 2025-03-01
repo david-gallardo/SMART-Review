@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1198,
+    "Authors": "Costa, Mark; Baker, Michaella; Davidson, Larry; Giard, Julienne; Guillorn, Linda; Ibanez, Angels Gonzalez; Weitz, Dawn; O'Connell, Maria",
+    "Article Title": "Provider perspectives on employment for people with serious mental illness",
+    "Abstract": "Background: Persons with serious mental illnesses (SMI) can lead productive lives, and the majority want to work. Mental health providers can play an important role in helping their clients gain and maintain employment.Aims: The Provider Survey was developed to shed additional light on providers' views toward employment and recovery, and the utilization of Individual Placement and Support (IPS) supported employment (SE) services for people with SMI.Methods: A total of 1,306 providers of the State of Connecticut participated in the survey. Four main questions were addressed in the survey: what do providers do, what do they view as most important regarding employment, what are their views when it comes to what promotes recovery and what barriers do providers face in attempting to refer their clients to IPS services.Results: Referring clients to additional supports was rated as the most important aspect of what providers do; encouragement was rated as the most important component to enable clients in gaining and maintaining employment; agency, belonging and medical care were rated as most important in promoting recovery; and expectations that clients would be discriminated against at work was the most important barrier to referring clients for SE. Also, employment and finances were seen as the least important factors in promoting the recovery of people with SMI.Conclusion: This survey suggests that one reason that more clients may not be referred to IPS programs is that clinicians do not view employment or financial self-sufficiency as important factors in recovery, further compounding the historical view that these persons are unable to, and uninterested in, working. Such findings call for a provider education and training campaign to highlight the fact that most persons with SMI - like most persons in general - do want to work and, with supports, most are capable of doing so.",
+    "DOI": "10.1177/0020764017725769",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a survey with a control group (providers of the State of Connecticut), the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is 2005-2025, the intervention is supported employment (SE) services for people with SMI, and the population is people with mental health problems.",
+            "study_design": "Survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey without a control group, and it does not present measures of employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey without a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

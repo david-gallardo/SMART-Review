@@ -1,0 +1,33 @@
+{
+    "ArticleID": 228,
+    "Authors": "Waghorn, Geoff; Hielscher, Emily; Atyeo, James; Saha, Sukanta",
+    "Article Title": "The impact of psychotic disorders and co-morbid substance abuse on vocational rehabilitation: results from an Australian national survey of psychosis",
+    "Abstract": "Introduction: It is unclear from prior research whether or not substance abuse co-morbid with psychosis is an added barrier to success in vocational rehabilitation. The aim of this study was to examine the relationships among three types of co-morbid substance abuse or dependence, by type of employment assistance received (disability employment services, mainstream unemployment services, other government programmes, and own resources), and by type of employment attained (competitive and non-competitive).Method: Data were drawn from the Australian National Survey of High Impact Psychosis (N=1825). The survey was conducted in seven Australian catchment areas March to December 2010. Descriptive statistics and logistic regression methods were used.Results: There were no added effects of lifetime substance abuse or dependence on any employment. However, there were some minor substance-specific effects. Past year cannabis use was negatively associated, while alcohol use was positively associated with being employed. All categories of lifetime substance abuse or dependence were associated with reduced utilisation of intensive forms of employment assistance.Conclusion: At a population level, lifetime substance abuse or dependence had no added impact on current employment status. Those with psychosis co-morbid with lifetime substance abuse or dependence could benefit from greater utilisation of evidence-based supported employment.",
+    "DOI": "10.1177/0308022616631547",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is logistic regression, which is a type of quasi-experimental study with a control group. The study is based on data from the Australian National Survey of High Impact Psychosis, which meets the geographic scope criteria. The study examines the relationships among co-morbid substance abuse and dependence and employment outcomes, which meets the outcome criteria.",
+            "study_design": "logistic regression",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design and does not include a control group. It is based on descriptive statistics and logistic regression methods without random assignment.",
+            "study_design": "Descriptive survey with logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, conducted in Australia within the specified timeframe (2010), focuses on people with mental disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

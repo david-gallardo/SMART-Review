@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1067,
+    "Authors": "Reini, Kaarina; Nyqvist, Fredrica",
+    "Article Title": "Sense of mastery differences between working-age Swedish- and Finnish-speaking Finns: a population-based study",
+    "Abstract": "Aim: To examine the probability of a high sense of mastery in a population-representative sample of working-age people and to study the differences in mastery between Finnish-speaking and Swedish-speaking Finns in particular. Methods: The data originates from the Western Finland Mental Health Surveys (2008-2014). Associations between sense of mastery and language groups were analyzed with logistic regressions. Results: Swedish-speaking Finns have a higher sense of mastery and the association is mediated by social support. Moreover, a difference in a high sense of mastery is found between Swedish- and Finnish-speaking married women that are outside the labor market. Conclusions: Our findings imply that Finnish-speaking women that are outside the labor market, e.g. on maternity leave or taking care of the household, should be recognized in health and social care services as a group that can benefit from additional support.",
+    "DOI": "10.1177/1403494817696183",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. It is a population-based study without a control group.",
+            "study_design": "population-based study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It examines differences in the sense of mastery between Swedish- and Finnish-speaking Finns, which is outside the scope of identifying what works in active employment policies for individuals with mental health issues.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

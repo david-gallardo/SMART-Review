@@ -1,0 +1,33 @@
+{
+    "ArticleID": 325,
+    "Authors": "Yang, Jie; Chu, Yoosun; Salmon, Mary Anne",
+    "Article Title": "Predicting Perceived Isolation Among Midlife and Older LGBT Adults: The Role of Welcoming Aging Service Providers",
+    "Abstract": "Background and Objectives: Older lesbian, gay, bisexual, and transgender (LGBT) adults are more likely to live alone and less likely to have children compared with their heterosexual counterparts. The lack of immediate family system can render older LGBT adults particularly vulnerable to social isolation and its consequences. The current study utilizes social exclusion theory, which asserts that not only material resources but also engagement with and inclusion into the society are necessary for marginalized people to be integrated into the mainstream. The study examines whether aging service providers (e.g., senior centers, adult day care, transportation, employment services) who are perceived by older LGBT adults as welcoming to LGBT people may reduce this population's perceived isolation.Research Design and Methods: Data were collected through a needs assessment survey designed for the aging LGBT community in North Carolina. Adults aged 45 and over who self-identified as LGBT were recruited at several formal and informal groups. The survey yielded 222 valid responses. The outcome variable was perceived isolation. Key independent variables included having experienced welcoming aging service providers and living alone.Results: After controlling for potential confounders and demographics, logistic regression results showed that having experienced welcoming aging service providers was a protective factor against perceived isolation and it also buffered the negative impact of living alone.Discussion and Implications: The findings provided preliminary evidence for a new direction of intervention research-targeting LGBT cultural competence training for medical and social service providers.",
+    "DOI": "10.1093/geront/gnx092",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on perceived isolation among midlife and older LGBT adults.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the LGBT aging population and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "needs assessment survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes or interventions directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey with logistic regression analysis",
+            "logprobs": null
+        }
+    }
+}

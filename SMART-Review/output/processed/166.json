@@ -1,0 +1,33 @@
+{
+    "ArticleID": 166,
+    "Authors": "Milton, Alyssa; Parsons, Nicholas; Morant, Nicola; Gilbert, Eleanor; Johnson, Sonia; Fisher, Adrian; Singh, Swaran; Cunliffe, Di; Marwaha, Steven",
+    "Article Title": "The clinical profile of employees with mental health problems working in social firms in the UK",
+    "Abstract": "Background: UK social firms are under-researched but are a potentially important vocational option for people with mental health problems.Aims: To describe the clinical profile, satisfaction levels and experiences of social firms employees with mental health problems.Method: Clinical, work and service use characteristics were collected from social firms' employees with mental health problems in England and Wales. Workplace experience and satisfaction were explored qualitatively.Results: Predominantly, social firms' employees (N=80) report that they have a diagnosis of depression (56%) and anxiety (41%). People with schizophrenia (20%) or bipolar disorder (5%) were a minority. Respondents had low symptom and disability levels, high quality of life and job satisfaction and experienced reductions in secondary mental health service use over time. High-workplace satisfaction was related to flexibility, manager and colleague support and workplace accommodations.Conclusions: The clinical profile, quality of life and job satisfaction level of employees with mental health problems suggest social firms could be a useful addition to UK vocational services for some people. Current employees mainly have common mental disorders, and social firms will need to shift their focus if they are to form a substantial pathway for the vocational recovery of people currently using community mental health teams.",
+    "DOI": "10.3109/09638237.2015.1057324",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a qualitative analysis of clinical profiles, satisfaction levels, and experiences of social firms employees with mental health problems, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention (social firms) and population (people with mental health problems) are relevant. The outcomes presented include employment or labor outcomes such as job satisfaction and workplace accommodations.",
+            "study_design": "Qualitative analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and does not include a control group or rigorous evaluation. It also lacks measures of employment or labor outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions but rather on the clinical profile and job satisfaction of employees with mental health problems working in social firms. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Clinical study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

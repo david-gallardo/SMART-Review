@@ -1,0 +1,33 @@
+{
+    "ArticleID": 935,
+    "Authors": "Naeher, Anatol-Fiete; Rummel-Kluge, Christine; Hegerl, Ulrich",
+    "Article Title": "Associations of Suicide Rates With Socioeconomic Status and Social Isolation: Findings From Longitudinal Register and Census Data",
+    "Abstract": "Suicide represents a major challenge to public mental health. In order to provide empirical evidence for prevention strategies, we hypothesized current levels of low socioeconomic status (SES) and high social isolation (SI) to be linked to increased suicide rates in N = 390 administrative districts since SES and SI are associated with mental illness. Effects of SES on suicide rates were further expected to be especially pronounced in districts with individuals showing high SI levels as SI reduces the reception of social support and moderates the impact of low SES on poor mental health. We linked German Microcensus data to register data on all 149,033 German suicides between 1997 and 2010 and estimated Prentice and Sheppard's model for aggregate data to test the hypotheses, accounting for spatial effect correlations. The findings reveal increases in district suicide rates by 1.20% (p < 0.035) for 1% increases of district unemployment, suicide rate decreases of -0.39% (p < 0.028) for 1% increases in incomes, increases of 1.65% (p < 0.033) in suicides for 1% increases in one-person-households and increases in suicide rates of 0.54% (p < 0.036) for 1% decreases in single persons' incomes as well as suicide rate increases of 3.52% (p < 0.000) for 1% increases in CASMIN scores of individuals who moved throughout the year preceding suicide. The results represent appropriate starting points for the development of suicide prevention strategies. For the definition of more precise measures, future work should focus on the causal mechanisms resulting in suicidality incorporating individual level data.",
+    "DOI": "10.3389/fpsyt.2019.00898",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on suicide rates and their associations with socioeconomic status and social isolation.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and lacks interventions related to job search services, adult training, wage subsidies, or supported employment. It focuses on socioeconomic status and social isolation in relation to suicide rates.",
+            "study_design": "Cross-sectional analysis using register data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on suicide rates and their association with socioeconomic status and social isolation, which is not directly related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal register and census data study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal register and census data analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 953,
+    "Authors": "Therrien, Dominique; Corbiere, Marc; Collette, Karine",
+    "Article Title": "Workers with severe mental illness coping with clinical symptoms: Self-directed learning of work-health balance strategies",
+    "Abstract": "Introduction Most workers with a severe mental illness (SMI) experience brief job retention, usually under 6 months. Managing their clinical symptoms to maintain employment is a constant challenge. However, little is known about the personal initiatives these workers undertake to learn to manage their clinical symptoms at work. The study presented here documented, from an emic perspective, the self-directed learning of work-health balance strategies applied in the workplace.Methods The study was conducted with five adults with SMI employed in the competitive labour market and six support persons. Between March 2017 and May 2018, a dataset was constructed based on 21 semi-structured interviews, eight observation sessions, and photographs taken of 15 objects used by the workers to manage their clinical symptoms. The analysis was guided by Mendez's retrospective and current temporal analysis of social processes.Results The workers experienced four different self-directed learning patterns (preparation, post-crisis, active self-directed learning, and identity transformation) and used five types of strategies to facilitate work-health balance: preparation for work, reassurance, validation, assertiveness, and work-rest transitions.Conclusion These workers with SMI, all of whom had job retention of 2 years or more in competitive employment, learned and applied work-health balance strategies. Self-directed learning was enhanced by customised pharmacological treatment, mindfulness activities, active listening by support persons and psychotherapy specific to the mental illness.",
+    "DOI": "10.1111/1440-1630.12662",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a qualitative study with semi-structured interviews, observation sessions, and photographs, which meets the inclusion criteria for quasi-experimental studies with a control group.",
+            "study_design": "Quasi-experimental study with semi-structured interviews, observation sessions, and photographs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not include a control group. It also focuses on self-directed learning strategies rather than interventions directly addressing employment.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the self-directed learning of work-health balance strategies by workers with severe mental illness.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

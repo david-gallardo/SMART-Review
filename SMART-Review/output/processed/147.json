@@ -1,0 +1,33 @@
+{
+    "ArticleID": 147,
+    "Authors": "Dolce, Joni N.; Waynor, William R.",
+    "Article Title": "Effect of Psychiatric Symptoms on Employment Outcomes for Individuals Receiving Supported Employment Services A Preliminary Study",
+    "Abstract": "Psychiatric symptoms are often cited by community-based providers as barriers to employment for individuals with mental health conditions. The current study assessed whether psychiatric symptoms and hospitalization in the past year predicted employment outcomes for participants receiving supported employment (SE) services. A total of 105 participants enrolled in SE services were assessed on their level of psychiatric symptoms, hospitalization in the past year, and employment outcomes. Simultaneous logistic regression was used. Eighty-two participants met for the 6-month follow up. Findings indicate that higher overall scores on the 6-month Brief Symptom Inventory (BSI) are predictive of an employment outcome, and suggest that psychiatric symptoms were not a barrier to employment. Participants with higher overall scores on the BSI, thus suggesting greater symptoms, were more likely to gain employment than individuals with lower BSI scores.",
+    "DOI": "10.3928/02793695-20171027-02",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria. The study also includes employment outcomes and references mental health, meeting the population and outcomes criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It is described as a preliminary study using logistic regression for analysis without a randomized controlled trial (RCT) design.",
+            "study_design": "Preliminary Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on job search services, adult training, wage subsidies, or supported employment intervents, which are specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

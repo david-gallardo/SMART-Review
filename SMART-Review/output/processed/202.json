@@ -1,0 +1,33 @@
+{
+    "ArticleID": 202,
+    "Authors": "Pompili, Maurizio; Innamorati, Marco; Di Vittorio, Cristina; Baratta, Stefano; Masotti, Vittoria; Badaracco, Annalisa; Wong, Paul; Lester, David; Yip, Paul; Girardi, Paolo; Amore, Mario",
+    "Article Title": "Unemployment as a Risk Factor for Completed Suicide: A Psychological Autopsy Study",
+    "Abstract": "This study adopts a psychological autopsy method to compare (1) unemployed suicides, (2) other suicides who were either employed or not in the labor force, and (3) psychiatric outpatients without any prior suicidal behavior. A total of 245 consecutive suicides from Province of Parma (Italy) with recorded employment status were included in the analysis. The control group included 41 psychiatric outpatients aged 18 to 64 years, who had not engaged in any previous suicidal act, and who were unemployed. The unemployed suicides had a risk 17 times higher to have had financial problems in the last 12 months (95% confidence interval [CI]: 2.0/149.5; p<0.01) than other suicides. Unemployed suicides (compared to living unemployed controls) were 10 times more likely to have had poor social support (95% CI: 1.7/56.1; p<0.01), 16 times more likely to have had any stressful life events in the past 12 months (95% CI: 2.5/103.9; p<0.01), and 22 times more likely to have a diagnosis of borderline personality disorder (95% CI: 2.4/203.2; p<0.01). New suicide prevention strategies for those who are facing job loss need to focus on social support and personality disorders, as well as hopelessness and despair.",
+    "DOI": "10.1080/13811118.2013.803449",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment outcomes for people with mental health disorders. The study examines the risk factors for completed suicide, including unemployment, financial problems, poor social support, stressful life events, and borderline personality disorder.",
+            "study_design": "Psychological autopsy study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. It is a psychological autopsy study which does not involve interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Psychological Autopsy Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on unemployment as a risk factor for suicide. It also lacks a control group and does not measure employment outcomes.",
+            "study_design": "Psychological autopsy study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Psychological autopsy study",
+            "logprobs": null
+        }
+    }
+}

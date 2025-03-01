@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1076,
+    "Authors": "Zhang, T. T.; Buckman, J. E. J.; Suh, J. W.; Stott, J.; Singh, S.; Jena, R.; Naqvi, S. A.; Pilling, S.; Cape, J.; Saunders, R.",
+    "Article Title": "Identifying trajectories of change in sleep disturbance during psychological treatment for depression",
+    "Abstract": "Background: Sleep disturbance may impact response to psychological treatment for depression. Understanding how sleep disturbance changes during the course of psychological treatment, and identifying the risk factors for sleep disturbance response may inform clinical decision-making. Method: This analysis included 18,915 patients receiving high-intensity psychological therapy for depression from one of eight London-based Improving Access to Psychological Therapies (IAPT) services between 2011 and 2020. Distinct trajectories of change in sleep disturbance were identified using growth mixture modelling. The study also investigated associations between identified trajectory classes, pre-treatment patient characteristics, and eventual treatment outcomes from combined PHQ-9 and GAD-7 metrics used by the services. Results: Six distinct trajectories of sleep disturbance were identified: two demonstrated improvement, while one showed initial deterioration and the other three groups displayed only limited change in sleep disturbance, each with varying baseline sleep disturbance. Associations with trajectory class membership were found based on: gender, ethnicity, employment status, psychotropic medication use, long-term health condition status, severity of depressive symptoms, and functional impairment. Groups that showed improvement in sleep had the best eventual outcomes from depression treatment, followed by groups that consistently slept well. Limitation: Single item on sleep disturbance used, no data on treatment adherence. Conclusions: These findings reveal heterogeneity in the course of sleep disturbance during psychological treatment for depression. Closer monitoring of changes in sleep disturbance during treatment might inform treatment planning. This includes decisions about when to incorporate sleep management interventions, and whether to change or augment therapy with interventions to reduce sleep disturbance.",
+    "DOI": "10.1016/j.jad.2024.08.027",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study investigates sleep disturbance during psychological treatment for depression.",
+            "study_design": "Analytical study (growth mixture modelling) with no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on sleep disturbance during psychological treatment for depression. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional analysis using growth mixture modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on sleep disturbance in the context of psychological treatment for depression, not employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

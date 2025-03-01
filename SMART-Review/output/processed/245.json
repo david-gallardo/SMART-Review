@@ -1,0 +1,33 @@
+{
+    "ArticleID": 245,
+    "Authors": "Courtois, R.; Couvreur, M.; Gehanno, J. F.; Rollin, L.",
+    "Article Title": "Analysis of the profile of employees declared unfit for the job : How do societal or extra-professional factors contribute, and what are the consequences for employment?",
+    "Abstract": "Introduction. - Professional career can be modified by health problems. Professional impairment, certified by an occupational health physician, can be followed by a redeployment or occupational disintegration.Objectives. - To describe the profiles of workers declared unfit for their workplace and the profiles of those who have no remaining work capacity (RWC).Methods. - The workers followed by an inter-enterprise occupational health service composed of 20 occupational physicians. The characteristics of workers declared unfit for work were extracted from the medical files: age, gender, activity sector (Naf), socioprofessional category (PCS), pathology leading to professional impairment (CIM10), status of obligation to employ disabled workers (BOETH). Factors associated with unfitness to work due to no remaining work capacity (RWC) were identified by logistic regression models.Results. - In 2019, 82678 workers in France were followed by the SPSTI and 554 (0.67%), of whom 162 had no RWC, were declared unfit to work by an occupational health physician. Professional impairment rates were highest for women and workers > 55 years old. Psychological (29%) and rheumatic (50%) pathologies were the most frequent causes of professional impairment. BOETH status was identified among 63%. Age > 45 and psychological pathology were significantly associated with absent RWC, whereas gender, activity sector and PCS were not.Discussion. - No comprehensive public administration records of professional impairment exist in France. While past studies have described the profiles of workers who were unfit for their workplace, none have characterized those without RWC, who are high risk of precarity.Conclusions. - Psychological pathologies generate the most professional impairment in persons without RWC. Prevention of these pathologies is essential. While rheumatic disease is the first cause of professional impairment, the proportion of workers with these diseases who have no remaining work capacity is relatively low; this may be due to the efforts made to facilitate their return to work. (c) 2023 Elsevier Masson SAS. All rights reserved.",
+    "DOI": "10.1016/j.respe.2023.102089",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental studies with a control group. It is a descriptive study.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes that measure employment or labor results.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workers declared unfit for work due to health problems, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not include employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

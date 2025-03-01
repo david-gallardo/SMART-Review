@@ -1,0 +1,33 @@
+{
+    "ArticleID": 917,
+    "Authors": "Nicholas, David B.; Mitchell, Wendy; Dudley, Carolyn; Clarke, Margaret; Zulla, Rosslynn",
+    "Article Title": "An Ecosystem Approach to Employment and Autism Spectrum Disorder",
+    "Abstract": "Relatively little is yet known about employment readiness and elements that promote access to, and the retention of, employment for adults with autism spectrum disorder (ASD). This paper posits elements within the ecosystem of employment and ASD. The ecosystem approach locates employment among persons with ASD as inextricably linked with broader community resources, family support, workplace capacity building (e.g., employer, co-workers) and policy. Application of the approach is offered through process evaluation data yielded from an ecosystem-informed job readiness program entitled, 'EmploymentWorks Canada'. Findings illustrate job readiness in the context of the broader ecosystem that envelopes salient components in the aim of community engagement and quality of life. Recommendations are offered for community-based applications and for program and research development.",
+    "DOI": "10.1007/s10803-017-3351-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned. The intervention is 'EmploymentWorks Canada' which is not directly addressing employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not specify a control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The timeframe also falls outside the 2005-2025 range.",
+            "study_design": "Process evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with autism spectrum disorder (ASD) and not specifically on people with mental health disorders in general. The intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Process Evaluation",
+            "logprobs": null
+        }
+    }
+}

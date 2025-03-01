@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1285,
+    "Authors": "Rosen, Marc I.; Ablondi, Karen; Black, Anne C.; Mueller, Lisa; Serowik, Kristin L.; Martino, Steve; Mobo, Ben Hur; Rosenheck, Robert A.",
+    "Article Title": "Work Outcomes After Benefits Counseling Among Veterans Applying for Service Connection for a Psychiatric Condition",
+    "Abstract": "Objective: This study's objective was to determine the efficacy of benefits counseling in a clinical trial. There has been concern that disability payments for psychiatric disorders reduce incentives for employment and rehabilitation. Benefits counseling, with education about opportunities to work and the financial implications of work on receipt of disability benefits, may counter these disincentives. Methods: This single-blind, six-month randomized clinical trial enrolled 84 veterans who had applied for service-connected compensation for a psychiatric condition. Veterans were randomly assigned to either four sessions of benefits counseling or of a control condition involving orientation to the U.S Department of Veterans Affairs health care system and services. Days of paid work and work-related activities were assessed at follow-up visits by using a time-line follow-back calendar. Results: Veterans assigned to benefits counseling worked for pay for significantly more days than did veterans in the control group (effect size=.69, p<.05), reflecting an average of three more days of paid employment during the 28 days preceding the six-month follow-up. Benefits counseling was associated with increased use of mental health services, but this correlation did not mediate the effect of benefits counseling on working. Conclusions: Barriers to employment associated with disability payments are remediable with basic counseling. More research is needed to understand the active ingredient of this counseling and to strengthen the intervention.",
+    "DOI": "10.1176/appi.ps.201300478",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized clinical trial (RCT) with a control group.",
+            "study_design": "Randomized Clinical Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a single-blind clinical trial without a control group that meets the inclusion criteria for this review.",
+            "study_design": "Single-blind randomized clinical trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with psychiatric conditions and does not specifically target people with mental health disorders in general. The intervention is benefits counseling, not job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe. It focuses on people with mental health disorders and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

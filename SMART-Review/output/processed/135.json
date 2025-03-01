@@ -1,0 +1,33 @@
+{
+    "ArticleID": 135,
+    "Authors": "Kabir, Humayun; Maple, Myfanwy; Usher, Kim",
+    "Article Title": "The impact of COVID-19 on Bangladeshi readymade garment (RMG) workers",
+    "Abstract": "This paper describes the potential impact of the coronavirus disease 2019 (COVID-19) pandemic on the readymade garment (RMG) workers of Bangladesh. It articulates the RMG workers' existing vulnerability during the COVID-19 pandemic based on currently available evidence and personal conversations/communications with RMG workers. COVID-19 has already impacted RMG workers' health (both physical and mental health status) and wellbeing, and resulted in loss of employment. We argue that the COVID-19 pandemic will have long-lasting effects on the garment workers, especially related to their health issues, financial hardship and inability to pay for essentials such as food, and future employment opportunities. The stakeholders (such as the international retailers/brands, Bangladesh Garment Manufacturers and Exporters Association, Government of Bangladesh) responsible for the global supply chain RMG factories should reconsider the health and overall wellbeing needs of the RMG workers during the ongoing COVID-19 pandemic.",
+    "DOI": "10.1093/pubmed/fdaa126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the impact of COVID-19 on readymade garment workers' health and wellbeing, rather than employment outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation or control group and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Descriptive paper without rigorous evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the impact of COVID-19 on RMG workers in Bangladesh, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group as required by the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Bangladesh).",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

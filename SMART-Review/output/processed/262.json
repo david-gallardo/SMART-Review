@@ -1,0 +1,33 @@
+{
+    "ArticleID": 262,
+    "Authors": "Metcalfe, Justin D.; Reese, Sandra L.; Drake, Robert E.",
+    "Article Title": "Evaluation of Individual Placement and Support at Three Community Mental Health Centers in California",
+    "Abstract": "Individual Placement and Support (IPS) has been shown to effectively help people with serious mental illness obtain competitive employment, and IPS programs have been established in over 40 U.S. states and at least 20 other countries. As this expansion continues, the field needs data describing IPS implementation, clients, fidelity, and outcomes in real-world, non-research settings, specifically regarding racial and ethnic disparities and young adults. The goal of this study was to observe the initial three years of IPS implementation, measuring fidelity, client characteristics, and employment outcomes in three mental health agencies in one California county. In 2018, officials in one California county contracted with the IPS Center to provide training and measure IPS program fidelity at three mental health agencies in a large urban area. The goal was to establish and maintain IPS programs with good fidelity and effectiveness. After an initial year of preparation, three mental health programs recruited unemployed clients with interest in employment and implemented IPS. An IPS trainer provided initial training, ongoing consultation, and measured program fidelity. The program clinicians documented client characteristics, IPS service use, and quarterly employment throughout 13 quarters. The project followed 351 mental health clients as they participated in three new supported employment programs over a three-year period. The average client age was 36 years, including 107 (31%) young adults (ages 18-25) and 244 older adults (ages 26+); 177 (50%) identified their gender as female, 173 as male, and 1 as other or declined to answer; 119 (36%) identified as Hispanic, 116 (35%) as non-Hispanic White, 42 (13%) as non-Hispanic Asian, 35 (11%) as non-Hispanic Black, and 20 (6%) as other non-Hispanic. Most clients (78%) had diagnoses of non-psychotic conditions such as anxiety or depression, and 22% had diagnoses of schizophrenia, schizoaffective, or other psychotic disorder. During the project, 312 (87%) engaged in supported employment services, 206 (58%) attained competitive employment, and 177 (50%) found their first job within nine months of enrolling. Hispanics (64%), Asians (57%), and non-Hispanic Blacks (77%) achieved higher employment rates than non-Hispanic Whites (49%). Young adults (73%) achieved higher employment rates than older adults (51%). Engaging in new IPS supported employment programs over several months led to high rates of competitive employment across all groups in real-world, non-research settings, typically within nine months. Hispanics, Asians, and non-Hispanic Blacks achieved higher rates of competitive employment than non-Hispanic Whites, and young adults achieved higher rates than older adults. Further research may explain these differences.",
+    "DOI": "10.1007/s10488-023-01326-2",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is supported employment, which is one of the included interventions.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (US), timeframe (2018-2021), intervention (supported employment), population (people with mental health disorders), and outcomes (employment rates).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

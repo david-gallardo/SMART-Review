@@ -1,0 +1,33 @@
+{
+    "ArticleID": 880,
+    "Authors": "Mervis, Joshua E.; Fiszdon, Joanna M.; Lysaker, Paul H.; Nienow, Tasha M.; Mathews, Laura; Wardwell, Patricia; Petrik, Tammy; Thime, Warren; Choi, Jimmy",
+    "Article Title": "Effects of the Indianapolis Vocational Intervention Program (IVIP) on defeatist beliefs, work motivation, and work outcomes in serious mental illness",
+    "Abstract": "Defeatist beliefs and amotivation are prominent obstacles in vocational rehabilitation for people with serious mental illnesses (SMI). The CBT-based Indianapolis Vocational Intervention Program (IVIP) was specifically designed to reduce defeatist beliefs related to work functioning. In the current study, we examined the impact of IVIP on defeatist beliefs and motivation for work, hypothesizing that IVIP would be associated with a reduction in defeatist beliefs and greater motivation for work. We also examined the effects of IVIP on these variables as well as work outcomes during a 12-month follow-up. Participants with SMI (n = 64) enrolled in a four-month work therapy program were randomized to IVIP or a support therapy group (SG). Assessments were conducted at baseline, post-treatment (4 months), and follow-up (1 year). Compared to those in SG condition, individuals randomized to IVIP condition reported greater reductions in defeatist beliefs and greater motivation for work at follow-up, along with greater supported employment retention rates. Specifically treating and targeting negative expectations for work therapy improves outcomes, even once active supports of the IVIP program and work therapy are withdrawn. (C) 2016 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2016.10.036",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized controlled trial (RCT) that meets the inclusion criteria for geographic scope and timeframe. The intervention focuses on supported employment, which aligns with the specified interventions. The population includes individuals with serious mental illnesses, meeting the population criterion. Employment outcomes such as work retention rates are reported.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on serious mental illness (SMI) rather than people with documented mental health problems. The study also does not specify the intervention as job search services, adult training, wage subsidies, or supported employment, which are required interventions in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment for people with serious mental illnesses, and includes employment outcomes such as job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

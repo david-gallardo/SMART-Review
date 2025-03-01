@@ -1,0 +1,33 @@
+{
+    "ArticleID": 382,
+    "Authors": "Fleury, Marie-Josee; Grenier, Guy; Bamvita, Jean-Marie",
+    "Article Title": "Severity of Needs Among Individuals With Severe Mental Disorders Changes After a Five-Year Follow-Up",
+    "Abstract": "This study aims to assess (1) changes in severity of needs among 204 individuals with severe mental disorders (SMD) at 5-year follow-up and (2) predictors of the overall change in severity of needs. Severity of needs in 26 areas was compared at three different times. A repeated mixed design ANOVA model was used to assess predictors of the overall change in severity. Over the 5-year period, the severity of needs decreased significantly in five areas and increased significantly in only one. Predictors of overall change in severity of needs were related mostly to clinical and healthcare service variables (e.g., schizophrenia, without substance abuse disorder, efficient social functioning, high amount and adequacy of help, and continuity of care). To better respond to needs, healthcare services should focus on more disadvantaged individuals with SMD and dual diagnosis, especially those who require basic education and help in securing food.",
+    "DOI": "10.1097/NMD.0000000000000441",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Repeated mixed design ANOVA model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on changes in severity of needs among individuals with severe mental disorders.",
+            "study_design": "Cross-sectional follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with severe mental disorders (SMD) and does not specifically address employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Repeated mixed design ANOVA",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes related to employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

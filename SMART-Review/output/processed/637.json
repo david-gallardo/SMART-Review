@@ -1,0 +1,33 @@
+{
+    "ArticleID": 637,
+    "Authors": "Weber, A.; Weber, U.",
+    "Article Title": "Employed with a hearing impairment in Saxony, Saxony-Anhalt, and Thuringia. Regional results of the GINKO study",
+    "Abstract": "Hearing impairments and hearing loss cause deficits in communication ability and represent relevant participation restrictions according to the International Classification of Functioning, Disability and Health (ICF). In order to counteract these participation restrictions, particularly in the workplace, several acts have been passed in Germany including SGB IX and UN-BRK.The implementation of these laws in the federal states Saxony, Saxony-Anhalt, and Thuringia is presented from the perspective of hearing-impaired employees.In the GINKO study, conducted in cooperation with self-help organizations, a standardized written questionnaire with items about the workplace was administered to employed persons with hearing impairments. The questionnaire was also available online with sign language. Overall, 3189 severely disabled hearing-impaired working persons responded to the GINKO survey, of whom n = 260 (8.3 %) were from Saxony, n = 53 (1.7 %) from Saxony-Anhalt, and n = 62 (1.9 %) from Thuringia.The majority of participants reported that they did not (yet) have an accessible workplace and that assistive services were not available to all hearing-impaired employees. This was true overall and in the three individual states. There are still considerable deficits in the implementation of legally required possibilities. No statistically significant differences exist between the three federal states in terms of utilization of legally required assistive services in the workplace or the accessibility of the workplace to hearing-impaired employees.Causes for this might be found in insufficient information regarding legal possibilities available to hearing-impaired employees. Therefore, information about state-wide self-help organizations is important to encourage participation in working life in accordance with ICF after successful medical treatment.",
+    "DOI": "10.1007/s00106-016-0174-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a cross-sectional survey without a comparison group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on hearing impairments and the implementation of laws related to workplace accessibility in Germany.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. Additionally, the study's geographic scope is limited to Germany, which is not within the specified EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Standardized written questionnaire with items about the workplace",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders and the geographic scope is outside the specified regions.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

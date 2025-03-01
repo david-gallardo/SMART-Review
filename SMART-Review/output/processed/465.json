@@ -1,0 +1,33 @@
+{
+    "ArticleID": 465,
+    "Authors": "Boini, Stephanie; Kolopp, Martin; Grzebyk, Michel; Hedelin, Guy; Chouaniere, Dominique",
+    "Article Title": "Is the effect of work-related psychosocial exposure on depressive and anxiety disorders short-term, lagged or cumulative?",
+    "Abstract": "Purpose To determine the short-term, lagged, and cumulative effects of psychosocial factors (PSF) on the incidence of depression and anxiety.Method Major depressive disorders (MDD) and generalized anxiety disorders (GAD) were diagnosed in 2006 and 2010 using the Mini International Neuropsychiatric Interview among 5684 workers from the French SIP cohort. The outcome considered here was diagnosis of MDD and/or GAD (MDD/GAD) in 2010. The frequency of 17 PSF, covering labour intensity and working time, emotional demand, autonomy, social relationships, conflict of values, and job insecurity, was self-reported in 2006 and 2010. For each PSF, four groups (A-D) were considered: exposed neither in 2006 nor in 2010 (A as the reference), exposed in 2010 but not in 2006 (B as a short-term association), exposed in 2006 but not in 2010 (C as a lagged association), exposed in both 2006 and 2010 (D as a cumulative association).Results In men, short-term and cumulative-and to a lesser extent lagged-associations of four labour-intensity factors with MDD/GAD occurrence were observed (high volume of work, pressure at work, high complexity, and long working hours). In women, the short-term and cumulative associations of five PSF were observed, mostly emotional demand factors, lack of reward and work-family imbalance. Job insecurity had strong, short-term, cumulative and lagged associations in both men and women.Conclusion According to PSF and gender, the results suggest that the relationships between PSF exposure and MDD/GAD were mostly short-term and cumulative rather than lagged.",
+    "DOI": "10.1007/s00420-019-01466-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (France), within the specified timeframe (2005-2025), and focuses on people with mental health disorders, presenting measures of employment outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the effects of psychosocial factors on the incidence of depression and anxiety.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes but rather on the psychological impact of work-related psychosocial factors on mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

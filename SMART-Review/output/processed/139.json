@@ -1,0 +1,33 @@
+{
+    "ArticleID": 139,
+    "Authors": "Johnson-Kwochka, Annalee; Bond, Gary R.; Becker, Deborah R.; Drake, Robert E.; Greene, Mary Ann",
+    "Article Title": "Prevalence and Quality of Individual Placement and Support (IPS) Supported Employment in the United States",
+    "Abstract": "The individual placement and support (IPS) model of supported employment for people with serious mental illness is an evidence-based practice. Factors including a national learning community promoting IPS and enforcement of the Supreme Court's Olmstead decision have spurred the growth of IPS nationwide. In this study we first evaluated the national prevalence and quality of IPS programs. We then evaluated the impact of learning community membership and Olmstead settlements on IPS program penetration and quality across the United States. We interviewed representatives from 48 state behavioral health agencies and 51 state vocational rehabilitation agencies. Survey questions examined the number of IPS programs in each state, the presence of an Olmstead settlement mandating employment services for people with serious mental illness, and the presence of three indicators of quality in IPS programs: collaboration between state behavioral health and vocational rehabilitation agencies, regular, independent fidelity monitoring, and technical assistance and training for IPS programs. Respondents from 38 (75%) states, including 19 states in the IPS Learning Community and 19 outside the learning community, reported a total of 523 IPS programs nationwide (M = 14, SD = 16). The state IPS program penetration rate (number of IPS programs per 1,000,000 people) ranged from 0.05 to 16.62 (M = 3.61, SD = 3.62) among states with IPS. The penetration rate was similar for learning community and non-learning community states with IPS, but learning community states were much more likely than non-learning community states with IPS to report the presence of each of three quality indicators. Eleven states reported Olmstead or other settlements that positively impacted employment services for people with serious mental illness, but among the 38 states with IPS programs, Olmstead states did not differ from non-Olmstead states in IPS program penetration or on the quality indicators. Nationally, most states provide IPS programs, but the within-state penetration rate and quality of implementation vary widely. While learning community and non-learning community states with IPS do not differ in the prevalence of IPS programs, learning community states are much more likely to report key quality indicators, which may enhance these states' potential for sustaining and expanding IPS. Olmstead settlements have not yet shown a direct impact on the penetration and quality of IPS, but as the Department of Justice continues to enforce the Supreme Court's Olmstead decision, their significance may increase.",
+    "DOI": "10.1007/s10488-016-0787-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria. The study also includes employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly evaluate employment outcomes. It focuses on the prevalence and quality of IPS programs in the United States.",
+            "study_design": "Survey-based evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

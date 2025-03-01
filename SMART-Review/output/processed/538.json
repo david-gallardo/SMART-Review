@@ -1,0 +1,33 @@
+{
+    "ArticleID": 538,
+    "Authors": "Brinchmann, B.; Widding-Havneraas, T.; Modini, M.; Rinaldi, M.; Moe, C. F.; McDaid, D.; Park, A-L.; Killackey, E.; Harvey, S. B.; Mykletun, A.",
+    "Article Title": "A meta-regression of the impact of policy on the efficacy of individual placement and support",
+    "Abstract": "Objective Individual placement and support (IPS) has shown consistently better outcomes on competitive employment for patients with severe mental illness than traditional vocational rehabilitation. The evidence for efficacy originates from few countries, and generalization to different countries has been questioned. This has delayed implementation of IPS and led to requests for country-specific RCTs. This meta-analysis examines if evidence for IPS efficacy can be generalized between rather different countries. Methods A systematic search was conducted according to PRISMA guidelines to identify RCTs. Overall efficacy was established by meta-analysis. The generalizability of IPS efficacy between countries was analysed by random-effects meta-regression, employing country- and date-specific contextual data obtained from the OECD and the World Bank. Results The systematic review identified 27 RCTs. Employment rates are more than doubled in IPS compared with standard vocational rehabilitation (RR 2.07 95% CI 1.82-2.35). The efficacy of IPS was marginally moderated by strong legal protection against dismissals. It was not moderated by regulation of temporary employment, generosity of disability benefits, type of integration policies, GDP, unemployment rate or employment rate for those with low education. Conclusions The evidence for efficacy of IPS is very strong. The efficacy of IPS can be generalized between countries.",
+    "DOI": "10.1111/acps.13129",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review of RCTs, which meets the inclusion criteria. The study also includes a control group and presents measures of employment outcomes.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria on study design (meta-analysis), geographic scope (EU and other developed countries), timeframe (2005-2025), intervention (supported employment), population (people with severe mental illness), and outcomes (employment rates).",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review and meta-analysis of RCTs, which meets the inclusion criteria for study design. It focuses on adult training and supported employment interventions for people with mental health disorders, which are among the intervent\u00e9ment types specified in the inclusion criteria. The study is conducted in EU countries and the US, fitting the geographic scope. The study's timeframe is 2005-2025, aligning with the specified timeframe. The study's outcomes include employment rates, job duration, job quality, workplace integration, and job retention, which are the outcomes specified in the inclusion criteria. The study does not fall under the exclusion criteria as it does not focus on labor regulation policies, social security policies, or lacks a control group.",
+            "study_design": "Systematic review and meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis of RCTs, the geographic scope includes multiple countries within the specified regions, the timeframe is relevant, the intervention is supported employment, the population is people with severe mental illness, and the outcomes include employment rates.",
+            "study_design": "meta-analysis of RCTs",
+            "logprobs": null
+        }
+    }
+}

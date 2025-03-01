@@ -1,0 +1,33 @@
+{
+    "ArticleID": 941,
+    "Authors": "Hillier-Brown, Frances; Thomson, Katie; Mcgowan, Victoria; Cairns, Joanne; Eikemo, Terje A.; Gil-Gonzale, Diana; Bambra, Clare",
+    "Article Title": "The effects of social protection policies on health inequalities: Evidence from systematic reviews",
+    "Abstract": "Background: The welfare state distributes financial resources to its citizens - protecting them in times of adversity. Variations in how such social protection policies are administered have been attributed to important differences in population health. The aim of this systematic review of reviews is to update and appraise the evidence base of the effects of social protection policies on health inequalities. Methods/design: Systematic review methodology was used. Nine databases were searched from 2007 to 2017 for reviews of social policy interventions in high-income countries. Quality was assessed using the Assessment of Multiple Systematic Reviews 2 tool. Results: Six systematic reviews were included in our review, reporting 50 unique primary studies. Two reviews explored income maintenance and poverty relief policies and found some, low quality, evidence that increased unemployment benefit generosity may improve population mental health. Four reviews explored active labour-market policies and found some, low-quality evidence, that return to work initiatives may lead to short-term health improvements, but that in the longer term, they can lead to declines in mental health. The more rigorously conducted reviews found no significant health effects of any of social protection policy under investigation. No reviews of family policies were located. Conclusions: The systematic review evidence base of the effects of social protection policy interventions remains sparse, of low quality, of limited generalizability (as the evidence base is concentrated in the Anglo-Saxon welfare state type), and relatively inconclusive. There is a clear need for evaluations in more diverse welfare state settings and particularly of family policies.",
+    "DOI": "10.1177/1403494819848276",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review of reviews, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Systematic review of reviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the effects of social protection policies on health inequalities rather than employment.",
+            "study_design": "Systematic review of reviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on social protection policies in general and not specifically on employment policies for people with mental health disorders.",
+            "study_design": "Systematic review of reviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment; it focuses on social protection policies.",
+            "study_design": "Systematic review of reviews",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 573,
+    "Authors": "Galanek, Joseph D.",
+    "Article Title": "Correctional Officers and the Incarcerated Mentally Ill: Responses to Psychiatric Illness in Prison",
+    "Abstract": "Based on ethnographic fieldwork in a U.S. men's prison, I investigate how this social and cultural context structures relations between correctional officers and inmates with severe mental illness. Utilizing interpretivist perspectives, I explore how these relations are structured by trust, respect, and meanings associated with mental illness. Officers' discretionary responses to mentally ill inmates included observations to ensure psychiatric stability and flexibility in rule enforcement and were embedded within their role to ensure staff and inmate safety. Officers identified housing, employment, and social support as important for inmates' psychiatric stability as medications. Inmates identified officers' observation and responsiveness to help seeking as assisting in institutional functioning. These findings demonstrate that this prison's structures and values enable officers' discretion with mentally ill inmates, rather than solely fostering custodial responses to these inmates' behaviors. These officers' responses to inmates with mental illness concurrently support custodial control and the prison's order.",
+    "DOI": "10.1111/maq.12137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned in the article.",
+            "study_design": "Ethnographic fieldwork",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the social and cultural context of relations between correctional officers and inmates with severe mental illness in a U.S. prison.",
+            "study_design": "Qualitative research (ethnographic fieldwork)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on correctional officers' responses to inmates with mental illness in a prison setting, not on employment policies for people with mental health disorders in the general population.",
+            "study_design": "Ethnographic fieldwork",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Ethnographic fieldwork",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1322,
+    "Authors": "Crombag, Neeltje; Bollen, Bieke; Vancoppenolle, Eline; Vandendriessche, Thomas; Versmissen, Dagmar; Paisi, Martha; Shawe, Jill; Garthus-Niegel, Susan; Bogaerts, Annick",
+    "Article Title": "Intervention strategies to prevent mental health problems and improve resilience in employed parents from conception until the child is 5 years of age: a scoping review",
+    "Abstract": "AimTo understand the extent and type of evidence in relation to the effectiveness of intervention strategies targeting working pregnant women, and their partners, for the prevention of mental health problems (depression, anxiety) and improving resilience, from conception until the child is 5 years of age.MethodsA scoping review was conducted searching Pubmed (including Medline), Embase, Web of Science Core Collection and Scopus. Inclusion criteria were based on population (employed parents), context (from -9 months to 5 years postpartum) and concept (mental health problems, resilience and prevention/ preventative interventions).ResultsOf the 17,699 papers screened, 3 full text papers were included. Studies focused on intervention strategies for working parents which showed a relationship with a reduction in mental health problems (depression and/or anxiety). The intervention strategies extracted from the literature referred to 'social support'. Social support provided by both the social and the work environment correlated with prenatal stress and depressive symptoms in the postpartum period, and supports a healthy work-family balance.ConclusionSocial support seems to have a positive association with the reduction of mental health problems. However, there are still important gaps in the literature such as a lack of RCT designs to test effectiveness of interventions and systematic reviews. Findings from this study may provide a roadmap for future research to close these gaps in knowledge.",
+    "DOI": "10.1186/s12884-024-07043-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: social support does not directly address employment.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article is a scoping review and does not meet the inclusion criteria for study design (RCTs, systematic reviews of controlled trials, etc.), geographic scope (EU countries, Europe, US, Canada, Australia), timeframe (2005-2025), intervention (job search services, adult training, wage subsidies, supported employment), or population (people with mental disorders or documented mental health problems).",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on intervention strategies for working parents to prevent mental health problems and improve resilience from conception until the child is 5 years of age, which does not align with the specified inclusion criteria focusing on employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is employed parents, not specifically people with mental disorders. The outcomes do not focus on employment or labor results.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 721,
+    "Authors": "Smith, Matthew J.; Smith, Justin D.; Blajeski, Shannon; Ross, Brittany; Jordan, Neil; Bell, Morris D.; McGurk, Susan R.; Mueser, Kim T.; Burke-Miller, Jane K.; Oulvey, Eugene A.; Fleming, Michael F.; Nelson, Karley; Brown, Adrienne; Prestipino, John; Pashka, Nicole J.; Razzano, Lisa A.",
+    "Article Title": "An RCT of Virtual Reality Job Interview Training for Individuals With Serious Mental Illness in IPS Supported Employment",
+    "Abstract": "Objective: Virtual Reality Job Interview Training (VR-JIT) is a computerized interview simulator with efficacy at enhancing interview skills and employment outcomes. A randomized controlled trial assessed VR-JIT effectiveness for participants in individual placement and support (IPS), in which approxi-mately 55% of individuals with serious mental illness obtain employment. Methods: Ninety participants with serious mental illness were randomly assigned to IPS+VR-JIT (N=54) or IPS as usual (N=36), completing pretest-posttest assessments and an employment evaluation at 9 months. Intent-to-treat chi-square analysis, multivariable logistic regression, Cox proportional hazards models, and mixed-effects linear regressions were conducted. Fifty-one percent were IPS nonresponders (i.e., no employment within the first 90 days of IPS). Results: IPS+VR-JIT participants did not have significantly higher employment rates, compared with IPS-as-usual participants (43% versus 28%). IPS nonresponders (N=46) in the IPS+VR-JIT group had greater odds of obtaining employment (odds ratio [OR]=5.82, p=0.014) and shorter time to em-ployment (hazard ratio=2.70, p=0.044) compared with IPS nonresponders in the IPS-as-usual group. Intent-to-treat mixed-effects linear analyses indicated that IPS+VR-JIT, compared with IPS as usual, significantly improved inter-view skills (p=0.006), interview confidence (p=0.013), and interview anxiety (p=0.019). Conclusions: VR-JIT's potential benefits (increased employ-ment in a shorter time) appeared to be specific to IPS non -responders, whereas employment outcomes for recent IPS enrollees were not affected. VR-JIT could be a valuable re-source for employment specialists to support IPS non -responders, because 47% of participants engaged in mock interview training with their specialist. Future research should focus on evaluating the effectiveness and implementation of VR-JIT among IPS nonresponders.",
+    "DOI": "10.1176/appi.ps.202100516",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted within the EU, Europe, US, Canada, or Australia, and the timeframe is between 2005-2025. The intervention is job search services (VR-JIT) and adult training, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU country), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on supported employment for individuals with serious mental illness, conducted in the US within the specified timeframe and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

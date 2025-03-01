@@ -1,0 +1,33 @@
+{
+    "ArticleID": 35,
+    "Authors": "Brown, Molly; Mihelicova, Martina; Collins, Kelly; Ponce, Allison",
+    "Article Title": "Predictors of Employment Outcomes in a Comprehensive Service Program for Individuals Experiencing Chronic Homelessness",
+    "Abstract": "This study examined predictors of employment service referral employment outcomes among individuals experiencing chronic homelessness participating in a comprehensive service program emphasizing housing placement and economic independence. The sample included all participants enrolled in the program. Participants self-determined whether to be referred for employment services. Outcomes included (a) whether participants were referred for employment services offered by the program (N = 275); and (b) whether employment was attained among the subsample of participants referred for employment services (N = 135). Logistic regression analyses for the 2 outcomes were conducted. Predictors included demographics and health indicators collected via self-report during program intake. Participants who were younger and racial/ethnic minorities were more likely to seek referrals than those who were older and White/European American. Individuals who were unemployed due to disability were less likely to seek referrals than those who were unemployed but seeking employment. Participants with better reported health and who were unemployed but seeking employment were more likely to attain employment than those with poor health or were unemployed for another reason (e.g., retired, disabled). Findings from this study have implications for employment services implemented in the context of homeless service programs. Future developments in employment services for people who are chronically homeless should include an array of employment services varying in intensity based on need. Other issues to be addressed to facilitate employment and its impact include addressing stigma and increasing earning potential.Public Policy Relevance StatementAmong individuals experiencing chronic homelessness participating in a comprehensive service program emphasizing housing placement and economic independence, half requested referrals to supported employment services offered within the program. Over one third of those referred to employment services secured pan-time or full-time employment. This study suggests that some individuals experiencing chronic homelessness may benefit from supported employment services, and it highlights the need for further intervention development to enhance employment interest and outcomes among subsets of the chronically homeless population.",
+    "DOI": "10.1037/ort0000358",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, which meets the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Logistic regression analysis with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies for people with mental health disorders. It focuses on predictors of employment outcomes in individuals experiencing chronic homelessness.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals experiencing chronic homelessness and does not specifically target people with mental health disorders as per the inclusion criteria.",
+            "study_design": "The study is a descriptive study examining predictors of employment service referral outcomes among individuals experiencing chronic homelessness.",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify that the population has mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

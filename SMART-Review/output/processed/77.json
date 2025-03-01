@@ -1,0 +1,33 @@
+{
+    "ArticleID": 77,
+    "Authors": "Andreassen, Tone A.; Breit, Eric; Saltkjel, Therese",
+    "Article Title": "Research approaches to networked employment services: A systematic review",
+    "Abstract": "Research on networked services aimed at the (re)employment of groups marginalised from the labour market has gained momentum in different scholarly traditions (e.g., public administration, healthcare and social policy), but the topic remains somewhat fragmented. In this paper, we systematise and synthesise this research with the aim of outlining distinct research approaches, facilitating increased cross-disciplinary understandings and promoting interdisciplinary research. Based on a systematic review of the literature (1990-2018, n = 273), we highlight four dominant research approaches: rehabilitation, disability, welfare and governance. We show that these research approaches involve distinct conceptualisations of labour market inclusion, networked services and the target groups. Nevertheless, the research approaches also apply similar terms and concepts (e.g., partnership, collaboration) but with different (more or less implicit) connotations, which lead to fragmentation. We do not suggest that there be a unified use of concepts across traditions; however, we argue for the necessity of increased awareness of the similarities and differences between these research traditions in order to increase understanding of the networked employment services available to marginalised groups.",
+    "DOI": "10.1111/spol.12597",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group and the timeframe (1990-2018) is outside the specified inclusion timeframe of 2005-2025.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but it does not meet the inclusion criteria for geographic scope (1990-2018 timeframe) and intervention type (it focuses on networked services rather than specific employment interventions like job search services, adult training, wage subsidies, or supported employment).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic review, not a meta-analysis or RCT, and does not focus on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study (1990-2018) does not meet the inclusion criteria (2005-2025).",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

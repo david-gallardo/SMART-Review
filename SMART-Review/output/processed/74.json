@@ -1,0 +1,33 @@
+{
+    "ArticleID": 74,
+    "Authors": "Perkins, Rachel; Patel, Rash; Willett, Amelia; Chisholm, Laura; Rinaldi, Miles",
+    "Article Title": "Individual placement and support: cross-sectional study of equality of access and outcome for Black, Asian and minority ethnic communities",
+    "Abstract": "Aims and method To explore whether people from Black, Asian and minority ethnic (BAME) communities experience equality of access and outcome in individual placement and support (IPS) employment services. Cross-sectional data were analysed of all people with severe mental health problems who accessed two mature high-fidelity IPS services in London in 2019 (n = 779 people).Results There were no significant differences between the proportions of people who gained employment. The data strongly suggest that people from BAME communities are not differentially disadvantaged in relation to either access to or outcomes of IPS employment services.Clinical implications The challenge for mental health professionals is not to decide who can and who cannot work but, how to support people on their case-loads to access IPS and move forward with life beyond their illness.",
+    "DOI": "10.1192/bjb.2021.9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of requiring a rigorous evaluation or control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a cross-sectional analysis of an employment intervention (IPS) for people with severe mental health problems, includes employment outcomes, and is conducted in the UK within the specified timeframe.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

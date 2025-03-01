@@ -1,0 +1,33 @@
+{
+    "ArticleID": 845,
+    "Authors": "Kuronen, Jarmo; Winell, Klas; Kopra, Juho; Rasanen, Kimmo",
+    "Article Title": "Quality improvement activity in occupational healthcare associated with reduced need for disability retirement: A Bayesian mixed effects modelling study in Finland",
+    "Abstract": "Objectives There is evidence that occupational healthcare (OHC) may improve employees' work ability. This research was designed to study whether common quality improvement (QI) activities in the OHC quality network (OQN) - a voluntary collaborative forum - can reduce the need for disability pensions.Methods The study population comprised employees under the care of 19 OHC units in Finland affiliated with the OQN. The association of 12 QI activities with new disability pensions during the years 2011-2017 was analyzed by Bayesian mixed effects modelling.Results Patients of OHC units affiliated with the OQN have fewer full permanent disability pensions [odds ratio (OR) 0.77, 95% credible interval (CI) 0.60-0.98] and full provisional disability pensions (OR 0.68, 95% CI 0.53-0.87) than patients of unaffiliated units. Of the studied QI activities, the measurements of intervening in excessive use of alcohol had the strongest association with the incidence of all disability pensions (OR 0.53, 95% CI 0.41-0.68). Participation in the focus of work measurements and quality facilitator training was also associated with the reduced incidence of disability pensions (OR 0.84, 95% CI 0.71-0.98, and OR 0.92, 95 CI 0.84-0.99, respectively).Conclusions Affiliation with a quality network seemed to improve outcomes by reducing full disability pensions or replacing them by partial disability pensions. Some QI activities in the OQN were associated with a reduction of disability pensions.",
+    "DOI": "10.5271/sjweh.3901",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a Bayesian mixed effects modelling study, which meets the inclusion criteria. The study is set in Finland, which is within the EU, Europe, US, Canada, or Australia. The study focuses on people with mental disorders or documented mental health problems, and it presents measures of employment or labor results.",
+            "study_design": "Bayesian mixed effects modelling study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on occupational healthcare and reducing the need for disability retirement rather than directly addressing employment outcomes. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Bayesian mixed effects modelling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not explicitly defined as people with mental health disorders.",
+            "study_design": "Bayesian mixed effects modelling study",
+            "logprobs": null
+        }
+    }
+}

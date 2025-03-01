@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1456,
+    "Authors": "Lysen, Thom S.; Wolters, Frank J.; Luik, Annemarie, I; Ikram, M. Kamran; Tiemeier, Henning; Ikram, M. Arfan",
+    "Article Title": "Subjective Sleep Quality is not Associated with Incident Dementia: The Rotterdam Study",
+    "Abstract": "Background: Poor sleep is related to higher dementia risk, but this association is more equivocal for subjective sleep quality specifically. This study investigates the link between subjective sleep quality and dementia risk in the general population.Objective: To study the role of subjective sleep quality in the risk of dementia in the general population.Methods: In the prospective population-based Rotterdam Study, 4,835 persons (mean age 72 years, 58% women) underwent a home interview (2002-2006) that included the validated Pittsburgh Sleep Quality Index (PSQI) to assess sleep quality. Participants were followed until 2015 for incident dementia, through in-person screening and continuous monitoring of medical records. We used Cox regression models to associate sleep quality with dementia risk, adjusting for age, sex, education, smoking, employment, coffee consumption, alcohol consumption, activities of daily living, cardiovascular risk factors, anxiety, depressive symptoms, cognition, and snoring.Results: During 41,385 person-years (8.5 years mean), 420 participants developed dementia, of whom 320 Alzheimer's disease (AD). Poorer subjective sleep quality was not associated with the risk of all-cause dementia (hazard ratio [HR] per SD increase in PSQI score: 0.91, 95% CI 0.82-1.02) or AD (HR 0.92, 95% CI 0.81-1.05). Similarly, individual components of the PSQI were also not associated with dementia. Several sensitivity analyses, i.e., excluding last years of the follow-up time duration or restricting to those with best MMSE scores at baseline, did not reveal subgroups with increased risks.Conclusion: In this study, we found no association of poor subjective sleep quality with higher risk of dementia.",
+    "DOI": "10.3233/JAD-180055",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the association between subjective sleep quality and dementia risk in the general population.",
+            "study_design": "Observational study (prospective cohort study)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it focuses on the association between subjective sleep quality and dementia risk rather than employment outcomes. It lacks any intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on subjective sleep quality and its association with dementia risk, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Prospective population-based study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not defined as people with mental disorders and the intervention does not directly address employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

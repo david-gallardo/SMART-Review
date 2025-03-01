@@ -1,0 +1,33 @@
+{
+    "ArticleID": 190,
+    "Authors": "Sumanen, Hilla; Pietilainen, Olli; Lahelma, Eero; Rahkonen, Ossi",
+    "Article Title": "Short sickness absence and subsequent sickness absence due to mental disorders - a follow-up study among municipal employees",
+    "Abstract": "Background: Mental disorders are common diagnostic causes for longer sickness absence and disability retirement in OECD-countries. Short sickness absence spells are also common, and neither trivial for health and work ability. We studied how prior short sickness absence spells and days are associated with subsequent longer sickness absence due to mental disorders in two age-groups of municipal employees during a 2-, 5- and 9-year follow-up.Methods: The analyses covered 20-34 and 35-49-year-old employees of the City of Helsinki in 2004. Those with prior >= 14 day sickness absence in 2002, 2003 or 2004 were excluded. Women and men were pooled together. Short, 1-13-day sickness absence spells and days were calculated per the actual time of employment during 2004. Logistic regression analysis was used to calculate odds ratios (OR) and their 95% confidence intervals (CI) for the subsequent long (>= 14 days) sickness absence due to mental disorders during three follow-ups.Results: The risk for long sickness absence due to mental disorders increased with increasing amount of short sickness absence spells and days. 3 or more short sickness absence spells and 8-14 sickness absence days from short spells in 2004 were strongly associated with subsequent long sickness absence in all three follow-ups. The associations were strongest for the 2-year follow-up; the younger employees tended to have higher risks than the older ones.Conclusions: Three spells or 8 days of short sickness absence per year constitutes a high risk for subsequent long sickness absence due to mental disorders and preventive measures should be considered.",
+    "DOI": "10.1186/s12889-016-3951-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression analysis with a control group, meeting the inclusion criteria for study design. The study is set in the EU country of Finland, within the specified timeframe of 2005-2025. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "Logistic regression analysis with a control group",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on the relationship between short sickness absence and subsequent longer sickness absence due to mental disorders among municipal employees.",
+            "study_design": "Observational study with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not directly address employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Follow-up study",
+            "logprobs": null
+        }
+    }
+}

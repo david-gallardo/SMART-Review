@@ -1,0 +1,33 @@
+{
+    "ArticleID": 94,
+    "Authors": "Yao, Rui; Wu, Weipeng",
+    "Article Title": "Mental Disorders Associated with COVID-19 Related Unemployment",
+    "Abstract": "In response to the COVID-19 pandemic, restrictions on economic activities have resulted in a sharp rise of unemployment. The purpose of this research is to explore mental disorders associated with COVID-19 related unemployment using a large, nationally representative dataset, the 2020 COVID-19 Household Pulse Survey. ANOVA with post hoc tests (Tukey HSD) are utilized to reveal the mean difference of mental disorders between various employment status, as well as between reasons of unemployment. Binary logit model is used to investigate the potential effect of different reasons of unemployment on mental disorders. Individuals who were not working during the pandemic due to involuntary reasons had higher probabilities of mental disorders than those who were working and those who voluntarily separated from work. Among respondents who were not working due to COVID-19 related reasons, respondents whose employer went out of business were the most likely to experience mental disorders. Household job uncertainty in the next four weeks positively contributed to mental disorders. Government should consider measures to contain the spread of virous while keeping as many people employed as possible. Government should also consider providing adequate financial and counseling assistance to individuals who are in the greatest need for such support.",
+    "DOI": "10.1007/s11482-021-09950-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "ANOVA with post hoc tests (Tukey HSD) and binary logit model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not include controlled trials or quasi-experimental studies with a control group. It is an observational study using a dataset to explore the association between unemployment and mental disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or policies aimed at employment but rather on the association between unemployment and mental disorders during the COVID-19 pandemic. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 51,
+    "Authors": "Corbiere, Marc; Villotti, Patrizia; Lecomte, Tania; Bond, Gary R.; Lesage, Alain; Goldner, Elliot M.",
+    "Article Title": "Work Accommodations and Natural Supports for Maintaining Employment",
+    "Abstract": "Objective: Job tenure for people with severe mental disorders, even for those enrolled in supported employment programs, is typically brief. Few studies to date have investigated the relationship between accommodations and natural supports available in the workplace, and job tenure for this population. The main objectives of this study were to develop and to validate a new measure to describe work accommodations and natural supports available in the workplace and to determine which of them are significantly related to job tenure for participants enrolled in supported employment services. Methods: In total, 124 people with a severe mental disorder enrolled in supported employment programs and who obtained only one competitive employment at the 9-month follow-up answered the Work Accommodation and Natural Support Scale (WANSS). They also provided information regarding their disclosure (or non-) of mental disorders in the workplace and the length of their job tenure. Results: Confirmatory factor analysis conducted on the WANSS showed 40 items distributed on 6 dimensions (e.g., Schedule flexibility). Correlation results showed that disclosure was significantly related to the number of work accommodations and natural supports available in the workplace. Survival analyses indicated that one WANSS dimension was more salient in predicting job tenure: Supervisor and coworker supports. Conclusion and Implication for Practice: The WANSS is a valid and useful tool to assess work accommodations and natural supports available in the workplace that employment specialists could use in their practice.",
+    "DOI": "10.1037/prj0000033",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and the intervention (Work Accommodations and Natural Supports) is directly related to employment. The population is people with severe mental disorders, and the outcomes include employment and labor results (job tenure).",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and is focused on developing and validating a new measure rather than evaluating the effectiveness of interventions.",
+            "study_design": "Development and validation of a new measure",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with severe mental disorders, and includes job tenure as an outcome.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

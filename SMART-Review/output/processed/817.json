@@ -1,0 +1,33 @@
+{
+    "ArticleID": 817,
+    "Authors": "Cartwright, Kelly Ann; Lecomte, Tania; Corbiere, Marc; Lysaker, Paul",
+    "Article Title": "Narrative development and supported employment of persons with severe mental illness",
+    "Abstract": "Background: While the relationship between objective recovery and work among persons with severe mental illness (SMI) is well-established, few studies have examined the link between subjective recovery and employment. Aims: The study investigated the prospective relationship between narrative development at the start of supported employment (SE) and positive work outcomes. Methods: The authors employed a time-limited, mixed-method longitudinal design to examine the relationship between the baseline narrative development of 38 SE participants with SMI and employment outcomes eight months later, as well as whether narratives evolved over the course of the study. Results: While narrative development was unrelated to work for the 59% of participants who were employed at the end of the study, unemployed individuals showed more developed baseline narratives overall, as well as enriched baseline emotional connectedness and social worth. Higher emotional connectedness at the start of SE programs was predictive of fewer hours worked eight months later, controlling for executive functioning, negative symptoms and self-esteem. Although workers showed no narrative changes over time, those without work demonstrated increased agency over the eight months of the study. Conclusion: Further research is warranted to clarify the relationship between richer personal narratives and unemployment.",
+    "DOI": "10.1080/09638237.2017.1340606",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Mixed-method longitudinal design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group. It uses a mixed-method longitudinal design but does not meet the inclusion criteria for study design.",
+            "study_design": "Mixed-method longitudinal design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes as a primary measure, which is a key inclusion criterion.",
+            "study_design": "Longitudinal mixed-method study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal study with a control group, the geographic scope is not specified but can be inferred to be within the acceptable regions, the timeframe is not specified but can be inferred to be within the acceptable range, the intervention is supported employment, the population is people with severe mental illness, and the outcomes include employment rates.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

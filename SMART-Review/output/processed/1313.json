@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1313,
+    "Authors": "Al-Abdulmunem, Monirah; Drake, Robert E.; Carpenter-Song, Elizabeth",
+    "Article Title": "Evidence-Based Supported Employment in the Rural United States: Challenges and Adaptations",
+    "Abstract": "Objective: The authors examined how individual placement and support (IPS), an evidence-based model of supported employment, has been successfully adapted in rural communities across the United States.Methods: Interviews with 27 key informants in 15 states with successful IPS programs in rural communities identified challenges that IPS workers faced because of rurality and the work-around methods they used to overcome these challenges. The authors conducted a thematic analysis of interviews.Results: Significant challenges to implementing IPS in rural areas included limited availability of public transportation, Internet connectivity, employment opportunities, and workforce. The work-around strategies used by IPS teams differed in relation to local circumstances and cultures, but effective services generally used natural supports for transportation, provided computer access for job applicants, developed relationships with local employers, and hired IPS workers with local knowledge.Conclusions: The adaptations made to IPS in rural areas are specific to local communities but retain core IPS principles.",
+    "DOI": "10.1176/appi.ps.202000413",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is based on interviews with key informants and a thematic analysis.",
+            "study_design": "Interviews with key informants and thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (interviews and thematic analysis) without a control group, and the geographic scope is limited to rural United States. It does not meet the inclusion criteria for RCTs or other controlled trials with a rigorous evaluation.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the adaptation of supported employment in rural areas of the US and does not specifically address job search services, adult training, wage subsidies, or job retention outcomes.",
+            "study_design": "Interviews with key informants",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (interviews and thematic analysis) and lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

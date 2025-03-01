@@ -1,0 +1,33 @@
+{
+    "ArticleID": 70,
+    "Authors": "Eklund, Andreas; Karlsson, Ida; Bergstroem, Gunnar; Lisa, Holmlund; Elisabeth, Bjoerk Braemberg",
+    "Article Title": "The effectiveness of a problem-solving intervention with workplace involvement on self-reported sick leave, psychological symptoms and work ability: a cluster randomised clinical trial",
+    "Abstract": "BackgroundProblem-solving interventions with workplace involvement (PSI-WPI) have been shown to reduce sick leave and increase return to work in an occupational health services context. However, many employees struggle with reduced work functioning, anxiety-, and depressive symptoms up to 12 months after a sick leave episode, and it is unclear if the intervention affects outcomes other than sick leave. The aim of this study is to investigate if a PSI-WPI added to care as usual (CAU) is superior to CAU with respect to self-reported sick leave, psychological symptoms, work ability, work performance, and health after RTW when provided in primary care.MethodsEmployed individuals aged 18-59 years on sick leave (2 to 12 weeks) diagnosed by a physician at a primary care center with mild to moderate depression, anxiety, or adjustment disorder were enrolled in a two-armed cluster-randomised trial evaluating the effectiveness of a PSI-WPI. Multiple outcomes were recorded at baseline, six months, 12 months, and every fourth week during the study period. Outcomes were categorised into psychological symptoms, health, work ability, work performance, and self-reported sick leave. Data were analysed using MANOVA, GEE (Generalized Estimating Equations), and cox regression.ResultsOne hundred ninety-nine individuals responded to the invitation to participate; one participant withdrew, one was excluded as the employment ended, nine did not answer the baseline survey, and three were removed from the analysis due to missing data. The analysis included 81 subjects who received the intervention and 104 subjects who received the control. Baseline characteristics were similar across both groups. No differences between the groups were found among either variables except one. There was a significant difference between the groups in self-rated health (EQ5D) in favour of the CAU group from baseline to six-month follow-up, with a mean difference of -8.44 (-14.84, -2.04).ConclusionsA problem-solving intervention with workplace involvement added to CAU did not result in statistically significant reductions in outcomes. Further research is needed to understand why problem-solving interventions appear to have an effect on sick leave in an occupational health services context and not in a primary care context.Trial registrationNCT3346395, registration date 2017-11-17.",
+    "DOI": "10.1186/s12889-024-20564-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomised clinical trial, which meets the inclusion criteria. The study is within the specified timeframe (2017-2025), and the intervention (PSI-WPI) is one of the specified interventions (workplace involvement). The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Cluster Randomised Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes focus on sick leave, psychological symptoms, work ability, and self-reported health rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster-randomised clinical trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

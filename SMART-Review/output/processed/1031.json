@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1031,
+    "Authors": "Hines, Stella E.; Chin, Katherine H.; Glick, Danielle R.; Wickwire, Emerson M.",
+    "Article Title": "Trends in Moral Injury, Distress, and Resilience Factors among Healthcare Workers at the Beginning of the COVID-19 Pandemic",
+    "Abstract": "The coronavirus severe acute respiratory syndrome (COVID-19) pandemic has placed increased stress on healthcare workers (HCWs). While anxiety and post-traumatic stress have been evaluated in HCWs during previous pandemics, moral injury, a construct historically evaluated in military populations, has not. We hypothesized that the experience of moral injury and psychiatric distress among HCWs would increase over time during the pandemic and vary with resiliency factors. From a convenience sample, we performed an email-based, longitudinal survey of HCWs at a tertiary care hospital between March and July 2020. Surveys measured occupational and resilience factors and psychiatric distress and moral injury, assessed by the Impact of Events Scale-Revised and the Moral Injury Events Scale, respectively. Responses were assessed at baseline, 1-month, and 3-month time points. Moral injury remained stable over three months, while distress declined. A supportive workplace environment was related to lower moral injury whereas a stressful, less supportive environment was associated with increased moral injury. Distress was not affected by any baseline occupational or resiliency factors, though poor sleep at baseline predicted more distress. Overall, our data suggest that attention to improving workplace support and lowering workplace stress may protect HCWs from adverse emotional outcomes.",
+    "DOI": "10.3390/ijerph18020488",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a convenience sample and lacks a control group.",
+            "study_design": "Convenience sample",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on moral injury, distress, and resilience factors among healthcare workers during the COVID-19 pandemic.",
+            "study_design": "Survey-based longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on healthcare workers (HCWs) and not specifically on people with mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 136,
+    "Authors": "Bond, Gary R.; Al-Abdulmunem, Monirah; Ressler, Daniel R.; Drake, Robert E.; Davis, Lori L.; Meyer, Thomas; Gade, Daniel M.; Frueh, B. Christopher; Dickman, Ross B.",
+    "Article Title": "Evaluation of an Employment Intervention for Veterans Transitioning From the Military A Randomized Controlled Trial",
+    "Abstract": "Military personnel face numerous challenges transitioning from military jobs to meaningful civilian employment. The Independence Project compared an innovative employment program (National Career Coach Program) with standard employment services (Local Community Resources) in a randomized controlled trial. Study participants were transitioning veterans with self-reported service-connected disabilities seeking permanent employment. The primary outcomes were paid employment and disability ratings over 1 year. Secondary outcomes included health and well-being. At 1-year follow-up, National Career Coach Program participants were significantly more likely to work, had significantly greater earnings, and reported significantly greater improvements in physical and mental health compared with participants assigned to Local Community Resources. Both groups increased in disability ratings over 12 months, with no difference between groups. Multifaceted supports delivered by the National Career Coach Program increased employment, earnings, mental health, and physical health over 1 year. These significant differences appeared even though control group participants achieved considerable employment success.",
+    "DOI": "10.1097/NMD.0000000000001472",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US, within the specified timeframe of 2005-2025. The intervention is job search services (National Career Coach Program) and adult training, which addresses employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment rates, job duration, job quality, workplace integration, and job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health or have an undefined population. The intervention focuses on veterans transitioning from military jobs rather than people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans, not specifically on people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe. It focuses on employment services for veterans with service-connected disabilities, including mental health issues, and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

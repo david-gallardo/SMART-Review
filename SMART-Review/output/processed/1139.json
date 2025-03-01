@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1139,
+    "Authors": "Finne, Joakim; Holt, Karin",
+    "Article Title": "Mental health professionals' expectations and efforts to include employment for people with moderate to severe mental illness in treatment settings",
+    "Abstract": "BackgroundResearch suggests that employment is an important factor for recovery and improved quality of life for people with mental illnesses. Mental health professionals often serve as gatekeepers for employment interventions, yet little is known about their expectations about employment for people with mental illness in Norway. The purpose of this study is to examine mental health professionals' expectations and efforts to include employment for people with moderate to severe mental illness in treatment settings.MethodsTwo hundred seven mental health professionals were recruited from municipal mental health services, specialized clinics, social media, and professionals' networks across Norway. Participants completed a survey package comprising demographic questions, current practices and a revised version of the self-reported measure Expectations for the Employability of People with Serious Mental Illness (EESMI), a validated measure consisting of three subscales.ResultsResults suggested overall favorable expectations of employment for people with moderate to severe mental illness. Analyses revealed that patients participating more frequently in collaborative meetings predicted more favorable expectations about employment among mental health professionals compared to less frequent meetings. In addition, findings suggest that psychiatrist hold more negative expectations about employment in comparison to the other educational groups. Lastly, more than half of mental health professionals reported that they have integrated discussions about employment, and routines to address work-oriented activity in consultations with patients, however, there are substantial variations in routines for addressing work or work-oriented activity as a topic in consultations with patients.ConclusionsThese results suggest that efforts are being made to integrate employment in treatment settings for people with mental illness in Norway; however, more work is needed to remove barriers and facilitate evidence-based approaches.",
+    "DOI": "10.1186/s12888-023-04568-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a survey of mental health professionals, which meets the inclusion criteria. The study includes a control group (patients participating in collaborative meetings) and presents measures of employment outcomes (expectations for the employability of people with serious mental illness).",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (no control group) and its focus is on mental health professionals' expectations and efforts rather than interventions that directly address employment outcomes for people with mental disorders.",
+            "study_design": "Survey-based study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or outcomes related to employment for people with mental health disorders, but rather on the expectations of mental health professionals regarding employment.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention and lacks a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

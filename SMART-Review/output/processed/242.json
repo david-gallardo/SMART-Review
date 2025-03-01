@@ -1,0 +1,33 @@
+{
+    "ArticleID": 242,
+    "Authors": "Stentzel, Ulrike; van den Berg, Neeltje; Schulze, Lara N.; Schwaneberg, Thea; Radicke, Franziska; Langosch, Jens M.; Freyberger, Harald J.; Hoffmann, Wolfgang; Grabe, Hans-Joergen",
+    "Article Title": "Predictors of medication adherence among patients with severe psychiatric disorders: findings from the baseline assessment of a randomized controlled trial (Tecla)",
+    "Abstract": "Background: Schizophrenia and bipolar disorder are characterized by a high disease burden. Antipsychotic medication is an essential part of the treatment. However, non-adherence is a major problem. Our aim was to examine potential determinants of non-adherence for patients with severe mental disorders.Methods: Baseline data of the study Post stationary telemedical care of patients with severe psychiatric disorders (Tecla) were used. Medication adherence was assessed with the Medication Adherence Report Scale German version (MARS-D). A logistic regression was calculated with age, sex, education, employment status, level of global functioning, social support and intake of typical and atypical antipsychotics as predictors.Results: N = 127 participants were included in the analysis (n = 73 men, mean age 42 years). The mean MARS-D Score was 23.4 (SD 2.5). The most common reason for non-adherence was forgetting to take the medicine. Significant positive determinants for adherence were older age (OR 1.02, 95% CI 1.011-1.024, p < 0.0001), being employed (OR 2.46, 95% CI 1.893-3.206, p < 0.0001), higher level of global functioning (overall measure of how patients are doing) (OR 1.02, 95% CI 1.012-1.028, p < 0.0001), having social support (OR 1.02, 95% CI 1.013-1.026, p < 0.0001), and intake of typical antipsychotics (OR 2.389, 95% CI 1.796-3.178, p < 0.0001). A negative determinant was (female) sex (OR 0.73, 95% CI 0.625-0.859, p = 0.0001).Conclusions: Especially employment, functioning and social support could be promising targets to facilitate adherence in patients with schizophrenia or bipolar disorder.",
+    "DOI": "10.1186/s12888-018-1737-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a logistic regression, which lacks a rigorous evaluation and does not meet the inclusion criteria for systematic reviews or controlled trials.",
+            "study_design": "logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on predictors of medication adherence rather than employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on medication adherence in patients with severe psychiatric disorders, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment for people with mental health disorders. Additionally, the study's population is not explicitly defined as people with mental health problems, and the outcomes are not directly related to employment or labor results.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

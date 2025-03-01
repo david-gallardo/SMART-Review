@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1174,
+    "Authors": "Dennerlein, Jack T.; Eyllon, Mara; Garverich, Suzanne; Weinstein, Daniel; Manjourides, Justin; Vallas, Steven P.; Lincoln, Alisa K.",
+    "Article Title": "Associations Between Work-Related Factors and Psychological Distress Among Construction Workers",
+    "Abstract": "Objective: Identify work-related factors associated with the mental health and well-being of construction workers. Methods: We completed eight key informant interviews, six worker focus groups, and a survey, informed by the interviews and focus groups, of 259 construction workers on five construction sites. Negative binomial regressions examined associations between psychological distress and work-related factors including safety climate, work-to-family conflict, psychological demands, social support, harassment, and job security. Results: Three themes emerged from the interviews and focus groups, job demands and structure, social support and workplace relations, and job precarity. From the survey higher psychological demands, higher work-to-family conflict, lower supervisor support, higher discrimination, and higher likelihood of losing a job were associated with higher psychological distress. When combined into a single model job demands and work-to-family conflict remained significant. Conclusions: Work-related factors were associated with high levels of distress.",
+    "DOI": "10.1097/JOM.0000000000002311",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a qualitative study with key informant interviews, worker focus groups, and a survey.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental with control group) and its outcomes do not include employment or labor results. The focus is on identifying work-related factors associated with mental health among construction workers.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on construction workers, not specifically on people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey with qualitative methods",
+            "logprobs": null
+        }
+    }
+}

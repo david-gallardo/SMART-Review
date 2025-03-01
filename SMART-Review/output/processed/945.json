@@ -1,0 +1,33 @@
+{
+    "ArticleID": 945,
+    "Authors": "Roux, Anne M.; Rast, Jessica E.; Anderson, Kristy A.; Garfield, Tamara; Shattuck, Paul T.",
+    "Article Title": "Vocational Rehabilitation Service Utilization and Employment Outcomes Among Secondary Students on the Autism Spectrum",
+    "Abstract": "U.S. policy interventions encourage earlier provision of Vocational Rehabilitation (VR) services to support students and youth with disabilities such as autism spectrum disorder (ASD) during the transition from school to work. We analyzed Rehabilitation Services Administration (RSA-911) data using multivariable logistic regression to determine the association of VR services receipt with employment outcomes for students ages 16-21, same-age non-student youth and young adults with ASD. Students with autism received job-related services (job search, job placement, and on-the-job supports) at rates significantly below comparison groups, even though odds of successful employment at VR exit were significantly higher if they received these services. Findings suggest that rates of employment among students with autism might be improved with intentional delivery of job-related services.",
+    "DOI": "10.1007/s10803-020-04533-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariable logistic regression analysis, which meets the inclusion criteria. The study is set in the US, within the specified timeframe of 2005-2025. The intervention is job-related services, which is one of the specified interventions. The population is people with autism, which meets the population criterion. The outcomes are employment outcomes, which meets the outcome criterion.",
+            "study_design": "Multivariable logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders and the intervention does not directly address employment. The study focuses on students with autism spectrum disorder (ASD) and their utilization of vocational rehabilitation services.",
+            "study_design": "Cross-sectional analysis using multivariable logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on students with autism, which is a specific mental health condition, and not on adults with mental health disorders in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the US, was published within the specified timeframe, includes job search services as an intervention, targets people with mental health disorders (autism spectrum disorder), and measures employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

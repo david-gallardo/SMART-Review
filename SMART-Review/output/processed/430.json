@@ -1,0 +1,33 @@
+{
+    "ArticleID": 430,
+    "Authors": "Wagner, S L; Koehn, C; White, M I; Harder, H G; Schultz, I Z; Williams-Whitt, K; Warje, O; Dionne, C E; Koehoorn, M; Pasca, R; Hsu, V; McGuire, L; Schulz, W; Kube, D; Wright, M D",
+    "Article Title": "Mental Health Interventions in the Workplace and Work Outcomes: A Best-Evidence Synthesis of Systematic Reviews.",
+    "Abstract": "BACKGROUND: Mental health issues in the workplace are a growing concern among organizations and policymakers, but it remains unclear what interventions are effective in preventing mental health problems and their associated organizational consequences. This synthesis reports on workplace mental health interventions that impact absenteeism, productivity and financial outcomes.OBJECTIVE: To determine the level of evidence supporting mental health interventions as valuable to work outcomes.METHODS: Databases were searched for systematic reviews between 2000 and 2012: Medline, EMBASE, the Cochrane Database of Systematic Reviews, DARE, CINAHL, PsycINFO and TRIP. Grey literature searches included health-evidence.ca, Rehab+, National Rehabilitation Information Center (NARIC), and Institute for Work and Health. The assessment of articles for inclusion criteria and methodological quality was conducted independently by two or more researchers, with differences resolved through consensus.RESULTS: The search resulted in 3363 titles, of which 3248 were excluded following title/abstract review, with 115 articles retrieved for full-text review. 14 articles finally met the inclusion criteria and are summarized in this synthesis.CONCLUSION: There is moderate evidence for the effectiveness of workplace mental health interventions on improved workplace outcomes. Certain types of programs, such as those incorporating both mental and physical health interventions, multicomponent mental health and/or psychosocial interventions, and exposure in vivo containing interventions for particular anxiety disorders had a greater level of research evidence to support their effectiveness.",
+    "DOI": "10.15171/ijoem.2016.607",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a best-evidence synthesis of systematic reviews rather than a meta-analysis, RCT, cluster RCT, quasi-experimental study with a control group, or any other intervention-focused controlled trial. The timeframe does not meet the criteria as it ends in 2012 (before 2005).",
+            "study_design": "Best-evidence synthesis of systematic reviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace mental health interventions and their impact on absenteeism, productivity, and financial outcomes, not directly on employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Best-evidence synthesis of systematic reviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the article's search is from 2000-2012, which does not fully fall within the required range of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

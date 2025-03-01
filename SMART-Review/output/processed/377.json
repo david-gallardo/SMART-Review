@@ -1,0 +1,33 @@
+{
+    "ArticleID": 377,
+    "Authors": "Caruana, E.; Cotton, S. M.; Farhall, J.; Parrish, E. M.; Chanen, A.; Davey, C. G.; Killackey, E.; Allott, K.",
+    "Article Title": "A Comparison of Vocational Engagement Among Young People with Psychosis, Depression and Borderline Personality Pathology",
+    "Abstract": "Poor vocational engagement is well documented among young people experiencing first-episode psychosis (FEP). The aim of the present study was to establish and compare rates of vocational engagement across young people with first-episode psychosis, depression, and borderline personality pathology. A file audit was used to collect vocational data of young people aged 15-25 entering tertiary mental health treatment in 2011. Rates of vocational engagement were similar across groups, indicating that like those with FEP, young people with depression and borderline personality pathology experience impaired vocational engagement and are in need of targeted vocational interventions. Post hoc analysis indicated that that the depression group had significantly more people who were partially vocationally engaged compared with the psychosis group, suggesting that vocational interventions might need to be targeted differently across different diagnostic groups. Future research should explore risk factors for vocational disengagement across diagnostic groups in order to inform intervention development.",
+    "DOI": "10.1007/s10597-017-0197-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a file audit, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "file audit",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a file audit without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "File Audit",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational engagement among young people with psychosis, depression, and borderline personality pathology, which does not directly address employment interventions or outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "File audit study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "File audit",
+            "logprobs": null
+        }
+    }
+}

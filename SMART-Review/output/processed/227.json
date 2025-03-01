@@ -1,0 +1,33 @@
+{
+    "ArticleID": 227,
+    "Authors": "Slesnick, Natasha; Zhang, Jing; Yilmazer, Tansel",
+    "Article Title": "Employment and Other Income Sources Among Homeless Youth",
+    "Abstract": "Homeless youth report high rates of unemployment. While homeless serving agencies usually offer employment services, most homeless youth are disengaged from homeless service agencies, and a limited number of studies have examined employment and other income sources among service disconnected youth. Our study examined income sources and change in income among service disconnected youth, all of whom received Strengths-Based Outreach and Advocacy (SBOA, N = 79). Findings revealed that over time employment and legal income from non-survival behaviors increased (e.g., governmental assistance and receiving income from friends and relatives), while income from survival behaviors decreased (e.g., prostitution, stealing, selling possessions, selling blood or plasma). Although unemployment among these youth remained high (62%), income from survival behaviors reduced most drastically. Findings also suggest that employment is linked to housing stability and mental health, as is substance use and income, which suggests that mental health, housing, and substance use treatment services are important components in income stabilization for homeless youth.",
+    "DOI": "10.1007/s10935-018-0511-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment among people with mental health disorders. It focuses on income sources and change in income among service-disconnected youth, including homeless youth.",
+            "study_design": "Quasi-experimental (Strengths-Based Outreach and Advocacy program)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless youth, not specifically on people with mental health disorders, and does not meet the population criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as people with mental disorders or documented mental health problems.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

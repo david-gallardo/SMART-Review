@@ -1,0 +1,33 @@
+{
+    "ArticleID": 217,
+    "Authors": "Cherry, Nicola; Adisesh, Anil; Burstyn, Igor; Durand-Moreau, Quentin; Galarneau, Jean-Michel; Labreche, France; Ruzycki, Shannon; Zadunayski, Tanis",
+    "Article Title": "Work Characteristics, Workplace Support, and Mental Ill-Health in a Canadian Cohort of Healthcare Workers During the COVID-19 Pandemic",
+    "Abstract": "ObjectiveThe aim of the study was to identify determinants of mental health in healthcare workers (HCW) during the COVID-19 pandemic.MethodsA cohort of Canadian HCW completed four questionnaires giving details of work with patients, ratings of workplace supports, a mental health questionnaire, and substance use. Principal components were extracted from 23 rating scales. Risk factors were examined by Poisson regression.ResultsA total of 4854 (97.8%) of 4964 participants completed ratings and mental health questionnaires. Healthcare workers working with patients with COVID-19 had high anxiety and depression scores. One of three extracted components, 'poor support,' was related to work with infected patients and to anxiety, depression, and substance use. Availability of online support was associated with feelings of better support and less mental ill-health.ConclusionsWork with infected patients and perceived poor workplace support were related to anxiety and depression during the pandemic.",
+    "DOI": "10.1097/JOM.0000000000003074",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks measures of employment or labor outcomes.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on healthcare workers during the COVID-19 pandemic and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

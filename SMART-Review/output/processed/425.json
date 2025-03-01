@@ -1,0 +1,33 @@
+{
+    "ArticleID": 425,
+    "Authors": "Russinova, Zlatka; Bloch, Philippe; Wewiorski, Nancy; Shappell, Heather; Rogers, E. Sally",
+    "Article Title": "Predictors of Sustained Employment Among Individuals With Serious Mental Illness: Findings From a 5-Year Naturalistic Longitudinal Study",
+    "Abstract": "Despite decades of research, understanding of the employment trajectories of individuals with serious mental illnesses remains elusive. We conducted a 5-year prospective, longitudinal study using a geographically broad sample of individuals who met established criteria for sustained competitive employment (N = 529). We collected data on an annual basis with a specifically designed survey instrument. Despite stable employment at study entry, more than half of the participants experienced work interruptions during the 5-year follow-up period. Predictors of sustained employment included the absence of a trauma diagnosis, Social Security disability income, psychiatric hospitalizations, and difficulties with daily functioning. The presence of a higher quality of life, workplace supports, and a flexible job were also predictive. Results dispel the myth that people with serious mental illnesses cannot be employed for prolonged periods. Interruptions in work trajectories, however, suggest that longer-term supports may increase individuals' capacity to maintain stable employment.",
+    "DOI": "10.1097/NMD.0000000000000876",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a naturalistic longitudinal study with a control group, meeting the inclusion criteria for study design. The study's geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005 and 2025. The intervention is supported employment, which is one of the included interventions. The population is individuals with serious mental illnesses, and the outcomes include employment rates and job duration.",
+            "study_design": "naturalistic longitudinal study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a naturalistic longitudinal study without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Naturalistic Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a longitudinal study with a control group, meeting the inclusion criteria for study design. It focuses on adults with mental health problems and examines employment outcomes, specifically job duration and interruptions, which are relevant to the research objective.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

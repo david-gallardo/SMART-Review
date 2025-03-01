@@ -1,0 +1,33 @@
+{
+    "ArticleID": 808,
+    "Authors": "Albertie, Ariel; Bourey, Christine; Stephenson, Rob; Bautista-Arredondo, Sergio",
+    "Article Title": "Connectivity, prison environment and mental health among first-time male inmates in Mexico City",
+    "Abstract": "Research from high-income countries suggests that prison populations are affected disproportionately by mental illness. However, little research has examined mental health among prisoners in low- and middle-income countries or associations between mental health and contextual factors surrounding the prison experience among susceptible first-time inmates in these settings. The current study examines associations between connectivity, prison environment and mental health (major depression and substance use) among novice male inmates (n=593) in three Mexico City prisons. Severe depression (46.2%), any substance use (53.8%) and heavy substance use (45.7%) were prevalent. Among key co-variates, recent visitors were protective for severe depression, conjugal visits for any substance use and prison employment for heavy substance use. Physical attacks were associated with increased prevalence of depression, sentence time served with both any and heavy substance use and overcrowding with any substance use. These findings suggest the need for routine health assessments to improve identification and treatment programmes to minimise mental health burden. Addressing demographic risk factors as well as contextual determinants, by decreasing physical violence and overcrowding and supporting outside connections for prisoners, may help improve inmate mental health.",
+    "DOI": "10.1080/17441692.2015.1091023",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on mental health and prison environment among first-time male inmates in Mexico City.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on inmates in Mexico City and thus falls outside the specified geographic scope (EU countries, Europe, US, Canada, Australia). Additionally, the intervention and population do not align with those specified for this review.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-time male inmates in Mexico City prisons and examines the association between connectivity, prison environment, and mental health. It does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (Mexico) and does not address employment interventions directly related to the labor market.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

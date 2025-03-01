@@ -1,0 +1,33 @@
+{
+    "ArticleID": 586,
+    "Authors": "Rise, Marit B.; Skagseth, Martin; Klevanger, Nina E.; Aasdahl, Lene; Borchgrevink, Petter; Jensen, Chris; Tenggren, Hanne; Halsteinli, Vidar; Jacobsen, Trym N.; Loland, Svein B.; Johnsen, Roar; Fimland, Marius S.",
+    "Article Title": "Design of a study evaluating the effects, health economics, and stakeholder perspectives of a multi-component occupational rehabilitation program with an added workplace intervention - a study protocol",
+    "Abstract": "(B)ackground: Recent research has suggested that interventions at the workplace might be the most potent ingredient in return to work interventions, but few studies have investigated the different effects of workplace interventions as part of occupational rehabilitation programs. The comprehensive design described in this article includes effect (on return to work and health outcomes), and health economic evaluations of a workplace intervention added to a multicomponent rehabilitation program. Qualitative and mixed method studies will investigate sick-listed persons', rehabilitation therapists' and employers' perspectives on the usability and outcomes of the rehabilitation program and the workplace intervention. The program and intervention are provided to patients with musculoskeletal, psychological or general and unspecified diagnoses. The program is multi-component and includes Acceptance and Commitment Therapy, physical exercise, patient education and creating a plan for increased work participation.Methods: Persons who are employed, aged from 18 to 60 years, with a current sick leave status of 50% or more and a diagnosis within the musculoskeletal, psychological or general and unspecified chapters of International Classification of Primary Care-2 (ICPC-2) will be recruited to a researcher-blinded parallel-group randomized controlled trial. All participants take part in an in-patient occupational rehabilitation program, while the intervention group also takes part in an intervention at the workplace. The effect and economic evaluation will investigate the effect of the added workplace intervention. The primary outcome measures will be time until full sustainable return to work and total number of sickness absence days in the 12 months after inclusion. Health economic evaluations will investigate the cost-effectiveness and cost-utility. Qualitative studies will investigate rehabilitation therapists' experiences with working towards return to work within an ACT-approach and stakeholders' experiences with the workplace intervention. A mixed methods study will combine quantitative and qualitative findings on the participants' expectations and motivation for return to work.Discussion: The outline of this comprehensive study could represent an important addition to the standard designs of return to work evaluation. The mixed methods design, with qualitative approaches as well as a rigorous randomized controlled trial, might prove useful to shed light on contextual factors.",
+    "DOI": "10.1186/s12889-018-5130-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is a parallel-group randomized controlled trial.",
+            "study_design": "parallel-group randomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial but does not directly address employment outcomes for people with mental health disorders. The population includes patients with musculoskeletal, psychological, and unspecified diagnoses, which may include mental health issues, but the specific focus on mental health disorders is not clear from the abstract alone.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on employment outcomes, includes people with psychological diagnoses, and is conducted in Europe within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

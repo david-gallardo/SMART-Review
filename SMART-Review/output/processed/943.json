@@ -1,0 +1,33 @@
+{
+    "ArticleID": 943,
+    "Authors": "Maria Llorente, Jose; Olivan-Blazquez, Barbara; Zuniga-Anton, Maria; Masluk, Barbara; Andres, Eva; Garcia-Campayo, Javier; Magallon-Botaya, Rosa",
+    "Article Title": "Variability of the Prevalence of Depression in Function of Sociodemographic and Environmental Factors: Ecoogical Model",
+    "Abstract": "Major depression etiopathogenesis is related to a wide variety of genetics, demographic and psychosocial factors, as well as to environmental factors. The objective of this study is to analyze sociodemographic and environmental variables that are related to the prevalence of depression through correlation analysis and to develop a regression model that explains the behavior of this disease from an ecological perspective. This is an ecological, retrospective, cross-sectional study. The target population was 1,148,430 individuals over the age of 16 who were registered in Aragon (Spain) during 2010, with electronic medical records in the community's primary health care centers. The spatial unit was the Basic Health Area (BHA). The dependent variable was the diagnosis of Depression and the ecological independent variables were: Demographic variables (gender and age), population distribution, typology of the entity, population structure by sex and age, by nationality, by education, by work, by salary, by marital status, structure of the household by number of members, and state of the buildings. The results show moderate and positive correlations with higher rates of depression in areas having a higher femininity index, higher population density, areas with a higher unemployment rate and higher average salary. The results of the linear regression show that aging +75 and rural entities act as protective factors for depression, while urban areas and deficient buildings act as risk factors. In conclusion, the ecological methodology may be a useful tool which, together with the statistical epidemiological analysis, can help in the political decision making process.",
+    "DOI": "10.3389/fpsyg.2018.02182",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment outcomes for people with mental health disorders. The study analyzes sociodemographic and environmental variables related to the prevalence of depression, but it does not address employment or labor outcomes.",
+            "study_design": "Ecological, retrospective, cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is ecological and retrospective cross-sectional, lacking a rigorous evaluation or control group. It does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Ecological, retrospective, cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Ecological, retrospective, cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Ecological, retrospective, cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

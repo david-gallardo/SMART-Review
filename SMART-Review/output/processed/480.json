@@ -1,0 +1,33 @@
+{
+    "ArticleID": 480,
+    "Authors": "de Pierrefeu, I.; Charbonneau, C.",
+    "Article Title": "Two hybrid vocational services for people with a severe mental illness in France and Quebec",
+    "Abstract": "Many different types of vocational programs (services) exist to help people with severe mental disorders (e.g., schizophrenia) integrate the regular labor market: sheltered workshops, social enterprises, and supported employment programs to name a few. Each type of vocational services has its specificities: on one hand, some of them are following the train and place approach. For example, sheltered workshops offer to people with a severe mental illness a training during a long period of, with a small proportion obtaining competitive employment. On the other hand, other programs adopt the place and train philosophy, such as supported employment programs, in which employment specialists help people obtain a competitive job as fast as possible with no requested training. This article presents two original vocational services, the Messidor's sheltered workshops in France and the Acces-Cible SMT supported employment program in Quebec, following an hybrid approach including both philosophies place and train and train and place. More particularly, they are both aiming at competitive employment on the regular labor market for people with a severe mental illness, with a different length of training. Messidor consists of a sheltered workplace for people with a severe mental illness in France, using this time of transition in the workshops as a tool to obtain a competitive job. Thanks to three key factors, Messidor succeeds in placing many of their workers in the French regular labor market: (1) Workers with severe mental disorders work on tasks and workplaces similar to those in regular labor market; (2) Messidor's managers have small teams (5-7 persons) that offer a nearby and personalized management to workers; (3) Each worker is followed by a Messidor's employment counsellor, to build together a working plan and put in place work strategies to obtain a competitive job. This double management seems to be a key ingredient of this support as it promotes some success in getting a job as well as in developing some recovery effects. Acces-Cible SMT located in Montreal (Quebec, Canada) is also an interesting hybrid program since people with severe mental disorders can be supported by a counsellor, with a short period of training (a 28-week program with 6 steps) before integrating the regular labor market. The philosophy of Acces-Cible SMT is to consider their clients as normal persons more than as patients, and its objective is mainly to restore confidence and self-esteem of the person by putting emphasis on their professional skills. Meetings in groups, practicums in the workplace, and the utilization of job search strategies are essential ingredients of Acces-Cible SMT, which are also efficient tools to develop a better empowerment of the person. Indeed, the common ingredients/elements of these two vocational services, Messidor and Acces-Cible SMT, seem to be the development of empowerment for people with severe mental disorders. The scientific literature supports that empowerment is one of the key factors of recovery for people with a mental illness, a recovery process that can be illustrated by their work integration in the regular labor market as a final goal. (C) L'Encephale, Paris, 2014.",
+    "DOI": "10.1016/j.encep.2014.04.003",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, the geographic scope is within the EU, Europe, US, Canada, and Australia, the timeframe is between 2005-2025, the intervention is job search services and supported employment, the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. The article presents an overview of vocational services without providing results from controlled trials or meta-analyses.",
+            "study_design": "Overview of vocational services",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 992,
+    "Authors": "Lallukka, Tea; Mittendorfer-Rutz, Ellenor; Ervasti, Jenni; Alexanderson, Kristina; Virtanen, Marianna",
+    "Article Title": "Unemployment Trajectories and the Early Risk of Disability Pension among Young People with and without Autism Spectrum Disorder: A Nationwide Study in Sweden",
+    "Abstract": "Depression and anxiety are associated with unemployment and disability pension, while autism spectrum disorder (ASD) is less studied. We aimed to first identify unemployment trajectories among young adults with and without ASD, and then to examine their social determinants. Finally, we used the trajectories as determinants for subsequent disability pension. We used a population-based cohort, including 814 people who were 19-35 years old, not on disability pension, and who had their ASD diagnosis between 2001 and 2009. A matched reference population included 22,013 people with no record of mental disorders. Unemployment follow-up was the inclusion year and four years after. Disability pension follow-up started after the unemployment follow-up and continued through 2013. We identified three distinctive trajectories of unemployment during the follow-up: (1) low, then sharply increasing (9%,) (2) low (reference, 67%), and (3) high then slowly decreasing (24%). People with ASD had higher odds of belonging belong to the trajectory groups 1 (OR 2.53, 95% CI 2.02-3.18) and 3 (OR 3.60, 95% CI 3.08-4.19). However, the mean number of unemployment days was relatively low in all groups. A disability pension was a rare event in the cohort, although memberships to groups 1 and 3 were associated with the risk of a future disability pension. More knowledge is needed about factors facilitating participation in paid employment among people with ASD.",
+    "DOI": "10.3390/ijerph17072486",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a population-based cohort study with a control group, meeting the inclusion criteria for study design. The study is set in Sweden, within the EU, and within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration and job retention, meeting the inclusion criteria for outcomes.",
+            "study_design": "Population-based cohort study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The intervention focuses on autism spectrum disorder rather than specific employment policies, and while it examines unemployment trajectories, it does not directly address labor outcomes such as job retention or quality.",
+            "study_design": "Cohort study without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 823,
+    "Authors": "Luciano, Alison; Meara, Ellen",
+    "Article Title": "Employment Status of People With Mental Illness: National Survey Data From 2009 and 2010",
+    "Abstract": "Objective: The aim of this study was to describe employment according to mental illness severity in the United States during 2009 and 2010.Methods: The sample included all working-age participants (ages 18-64) from the 2009 and 2010 National Survey on Drug Use and Health (N=77,326). Two well-established scales of mental health distinguished participants with none, mild, moderate, and serious mental illness. Analyses compared employment rate and income by mental illness severity. Employment status was estimated with logistic regression models that controlled for demographic characteristics and substance use disorders. In secondary analyses the relationship between mental illness and employment was assessed for variation by age and education status.Results: Employment rates decreased with increasing mental illness severity (no mental illness, 75.9% employment; mild, 68.8%; moderate, 62.7%; and serious, 54.5%, p<.001). Over a third of people with serious mental illness, 38.5%, had incomes <$10,000 (compared with 23.1% of people with no mental illness, p<.001). The gap in adjusted employment rates comparing persons with serious versus no mental illness was 1% among people 18-25 years old versus 21% among people 50-64 (p<.001).Conclusions: More severe mental illness was associated with lower employment rates in 2009 and 2010. People with serious mental illness are less likely than people with no, mild, or moderate mental illness to be employed after age 49.",
+    "DOI": "10.1176/appi.ps.201300335",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis using logistic regression models, which meets the inclusion criteria. The study is based on national survey data from 2009 and 2010, which falls within the specified timeframe. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment rates and job retention.",
+            "study_design": "Secondary analysis using logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not have a control group. It is based on cross-sectional survey data from the National Survey on Drug Use and Health.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather describes employment status in relation to mental illness severity.",
+            "study_design": "National Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an intervention and lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

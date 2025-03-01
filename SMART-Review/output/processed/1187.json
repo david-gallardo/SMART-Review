@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1187,
+    "Authors": "Perepezko, Kate; Hinkle, Jared T.; Shepard, Melissa D.; Fischer, Nicole; Broen, Martinus P. G.; Leentjens, Albert F. G.; Gallo, Joseph J.; Pontone, Gregory M.",
+    "Article Title": "Social role functioning in Parkinson's disease: A mixed-methods systematic review",
+    "Abstract": "Objectives Parkinson's disease (PD) is a progressive neurodegenerative disease that often impedes activities of daily living (ADL) and social functioning. Impairment in these areas can alter social roles by interfering with employment status, household management, friendships, and other relationships. Understanding how PD affects social functioning can help clinicians choose management strategies that mitigate these changes. Methods We conducted a mixed-methods systematic review of existing literature on social roles and social functioning in PD. A tailored search strategy in five databases identified 51 full-text reports that fulfilled the inclusion criteria and passed the quality appraisal. We aggregated and analyzed the results from these studies and then created a narrative summary. Results Our review demonstrates how PD causes many people to withdraw from their accustomed social roles and experience deficits in corresponding activities. We describe how PD symptoms (eg, tremor, facial masking, and neuropsychiatric symptoms) interfere with relationships (eg, couple, friends, and family) and precipitate earlier departure from the workforce. Additionally, several studies demonstrated that conventional PD therapy has little positive effect on social role functioning. Conclusions Our report presents critical insight into how PD affects social functioning and gives direction to future studies and interventions (eg, couple counseling and recreational activities).",
+    "DOI": "10.1002/gps.5137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mixed-methods systematic review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Mixed-methods systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders. It focuses on Parkinson's disease and social role functioning.",
+            "study_design": "Mixed-methods systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Parkinson's disease (PD), which is not specified in the inclusion criteria as a population with mental health disorders. The inclusion criteria require the study to focus on people with mental health disorders, and PD is a neurodegenerative disease, not a mental health disorder.",
+            "study_design": "mixed-methods systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not include any of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

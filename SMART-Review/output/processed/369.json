@@ -1,0 +1,33 @@
+{
+    "ArticleID": 369,
+    "Authors": "Dewa, Carolyn S.",
+    "Article Title": "Employment Benefit Receipt Among Ontario Public Disability Benefit Recipients with a Disability Related to a Mental Disorder",
+    "Abstract": "Using administrative data from the public long-term disability support program in Ontario, Canada, this paper examines the factors related to receipt of a paid employment benefit. These analyses include only ODSP beneficiaries who were primary beneficiaries, who had active files in March 2011 and who were < 65 years of age and had a disability-related primary diagnosis (n = 253,492). About 9 % of primary beneficiaries received the employment benefit. Logistic regression results suggest that compared to those who have a disability related to a physical disorder, those who have a psychotic disorder (OR 1.125), a mood disorder (OR 1.139) or a developmental disability (OR 1.618) are significantly more likely to receive the benefit while those who have a substance use disorder were significantly less likely (OR 0.540). These results indicate that a proportion of people who receives public disability benefits are employed. In addition, all things being equal, people with mental disorders are more likely to use this type of program than people with physical disorders.",
+    "DOI": "10.1007/s10597-015-9942-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is Ontario, Canada, which falls within the EU, Europe, US, Canada, or Australia. The timeframe is 2011, which falls within the 2005-2025 range. The intervention is the public disability support program, which directly addresses employment. The population references mental health disorders, meeting the inclusion criteria for population. The outcomes present measures of employment and labor results.",
+            "study_design": "Logistic regression analysis with a control group",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It examines factors related to receipt of a paid employment benefit among disability beneficiaries in Ontario, Canada.",
+            "study_design": "Cross-sectional analysis using administrative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions but rather on the receipt of public disability benefits.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

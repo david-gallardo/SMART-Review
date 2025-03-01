@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1158,
+    "Authors": "Keefe, Kristen; Styron, Thomas; O'Connell, Maria; Mattias, Kate; Davidson, Larry; Costa, Mark",
+    "Article Title": "Understanding family perspectives on supported employment",
+    "Abstract": "Background: One integral way by which individuals in recovery pursue meaning and productivity in their lives is via employment. Unfortunately, the vast majority of individuals with serious mental illness (SMI) who express the desire to work remain unemployed. Families have the potential to play an important role in the domain of supported employment (SE), though may not have the knowledge or skills to do so. Aims: This quantitative study aimed to better understand the perspectives of family members on the role of employment in recovery and the barriers faced by their loved ones in pursuing work. Method: Participants included 86 family members of individuals with SMI who were affiliated with their state NAMI Chapter and agreed to take part in an online survey. Wilcoxon signed-rank tests were used to determine meaningful differences between the highest and lowest ranked statements for each main research question. Results: Family members recognize that employment is important to recovery and offers individuals with SMI a valued social role. Relative to other factors, financial independence and being employed in a competitive job were viewed as less important to recovery. The most salient barriers to employment included stable housing, need for transportation, concerns about losing benefits, low self-esteem, and medication side effects. Conclusions: While family members can appreciate the importance of SE and their loved ones' desire to work, they still tend to rank other factors as more integral to recovery. This underscores the need for additional education about the potential for employment to facilitate these other factors in recovery.",
+    "DOI": "10.1177/0020764019882970",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is quantitative and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (supported employment) or outcomes (employment or labor results).",
+            "study_design": "Quantitative survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders but rather on family perspectives on supported employment.",
+            "study_design": "Quantitative survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Quantitative survey",
+            "logprobs": null
+        }
+    }
+}

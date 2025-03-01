@@ -1,0 +1,33 @@
+{
+    "ArticleID": 897,
+    "Authors": "Winsper, Catherine; Crawford-Docherty, Anne; Weich, Scott; Fenton, Sarah-Jane; Singh, Swaran P.",
+    "Article Title": "How do recovery-oriented interventions contribute to personal mental health recovery? A systematic review and logic model",
+    "Abstract": "The emergent recovery paradigm prioritises adaption to serious mental illness and a move towards personally meaningful goals. In this review, we combine a theory driven logic model approach with systematic review techniques to forward understanding of how recovery-oriented interventions can help service users in their personal recovery journey. We identified 309 studies meeting our inclusion criteria. Our logic model mapped out intervention typologies and their recovery outcomes, the mechanisms of action underpinning these links, and the contextual moderators of these mechanisms and outcomes. Interventions were associated with recovery outcomes (functional, existential and social) directly and through a sequence of processes, which were underpinned by four common mechanisms: 1) providing information and skills; 2) promoting a working alliance; 3) role modelling recovery; and 4) increasing choice. Moderators of these mechanisms were observed at the service user (e.g., motivation), mental health service (e.g., professional attitudes) and wider environmental (e.g., unemployment rates) level. Recovery-oriented interventions share common critical mechanisms, which can help propel service users towards recovery especially when delivered within pro-recovery and non-stigmatising contexts. Future studies should further examine ways to reduce (or remove) barriers preventing individuals with mental health problems from experiencing the same citizenship entitlements as everyone else.",
+    "DOI": "10.1016/j.cpr.2020.101815",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but it does not focus on employment outcomes. It examines recovery-oriented interventions and their contribution to personal mental health recovery rather than addressing the effectiveness of active employment policies.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on recovery-oriented interventions for mental health recovery, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not present measures of employment or labor results.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

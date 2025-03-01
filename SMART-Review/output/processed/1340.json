@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1340,
+    "Authors": "Le, Thanh P.; Green, Michael F.; Wynn, Jonathan K.; Iglesias, Julio E.; Franco, Richard L.; Kopelowicz, Alex; Kern, Robert S.",
+    "Article Title": "Effort-based decision-making as a determinant of supported employment outcomes in psychotic disorders",
+    "Abstract": "Schizophrenia is associated with a heavy economic burden in the United States that is partly due to the high rates of chronic unemployment. Individual Placement and Support (IPS) is an evidenced -based type of supported employment that can improve job obtainment and work outcomes in psychotic disorders. Outcomes vary widely and a persistent challenge for IPS is low levels of engagement in the initial job search phase. Past studies have focused on interview -based motivation deficits as a key determinant of poor treatment engagement and work outcomes in schizophrenia. New validated performance -based measures of motivation, including effort -based decision -making (EBDM) tasks, may explain supported employment outcomes and provide insights into individual differences in IPS outcomes. This study investigated the degree to which IPS engagement (i.e., number of sessions attended during the first four months of service delivery) was related to baseline interview -based motivation deficits and performance on three EBDM tasks - two tasks of physical effort and one of cognitive effort (i.e., Balloon Task, Effort Expenditure for Rewards Task, Deck Choice Effort Task) - in a sample (N = 47) of people with a psychotic disorder. Results indicated that the level of EBDM performance, specifically on the Balloon Task, predicted IPS engagement, accounting for an additional 17 % of the variance above and beyond interview -based motivation deficits (total R2 = 24 %). Overall, these findings suggest that addressing motivational deficits in effort -based decision -making may be beneficial to IPS engagement, which in turn may improve the trajectory of work outcomes.",
+    "DOI": "10.1016/j.schres.2023.11.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is supported employment, which is one of the interventions listed in the inclusion criteria. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks rigorous evaluation. It focuses on predictors (motivation deficits) rather than interventions that directly address employment.",
+            "study_design": "Observational with performance-based measures but no randomized controlled trial or quasi-experimental design with a control group.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focuses on adult training as an intervention, is published within the timeframe, and is conducted in the US. It also addresses the population of interest (people with mental health problems) and includes employment outcomes as one of the outcomes measured.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 30,
+    "Authors": "McGrath, M.; Acarturk, C.; Roberts, B.; Ilkkursun, Z.; Sondorp, E.; Sijbrandij, M.; Cuijpers, P.; Ventevogel, P.; McKee, M.; Fuhr, D. C.",
+    "Article Title": "Somatic distress among Syrian refugees in Istanbul, Turkey: A cross-sectional study",
+    "Abstract": NaN,
+    "DOI": "10.1016/j.jpsychores.2020.109993",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Turkey).",
+            "study_design": null,
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

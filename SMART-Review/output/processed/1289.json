@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1289,
+    "Authors": "Lee, Kyunghee",
+    "Article Title": "Social support and self-esteem on the association between stressful life events and mental health outcomes among college students",
+    "Abstract": "The purpose of this research is to determine whether social support (informal and formal) and self-esteem can moderate the associations between life stress and mental health among college students. The research questions for the study are as follows: i) Does life stress affect mental health among college students? ii) Do social support (informal and formal) and self-esteem predict this association? iii) What are the characteristics of students predicting life stress, social support and self-esteem? Using a survey design (n = 184), respondents were asked about stressful life events, formal and informal social support, self-esteem, depression, anxiety, and baseline characteristics (age, sexual orientation, post graduate status, family size, income, employment status, participation in activities at school, and previous mental health diagnoses). Regression analysis found that students who experienced more stressful life events reported higher depression and anxiety. Informal social support and self-esteem significantly enhanced positive mental health. However, formal social support was not found to impact students' mental health. Younger students tend to have lower self-esteem and higher mental health problems. Students who worked part-time and participated in extra curriculum activities used more forma social services. Students who had previous mental health diagnoses had higher mental health problems.",
+    "DOI": "10.1080/00981389.2020.1772443",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey design, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Survey design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is college students rather than people with mental disorders.",
+            "study_design": "Survey design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on college students without a specific focus on people with mental health disorders. The intervention is not directly related to employment policies.",
+            "study_design": "Survey design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and the population is college students rather than people with mental disorders.",
+            "study_design": "Survey design with regression analysis",
+            "logprobs": null
+        }
+    }
+}

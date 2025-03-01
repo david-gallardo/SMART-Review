@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1361,
+    "Authors": "Wykes, Til; Bowie, Christopher R.; Cella, Matteo",
+    "Article Title": "Thinking About the Future of Cognitive Remediation Therapy Revisited: What Is Left to Solve Before Patients Have Access?",
+    "Abstract": "In our previous paper on the Future of Cognitive Remediation published more than 10 years ago, we envisaged an imminent and wide implementation of cognitive remediation therapies into mental health services. This optimism was misplaced. Despite evidence of the benefits, costs, and savings of this intervention, access is still sparse. The therapy has made its way into some treatment guidance, but these documents weight the same evidence very differently, causing confusion, and do not consider barriers to implementation. This paper revisits our previous agenda and describes how some challenges were overcome but some remain. The scientific community, with its commitment to Open Science, has produced promising sets of empirical data to explore the mechanisms of treatment action. This same community needs to understand the specific and nonspecific effects of cognitive remediation if we are to provide a formulation-based approach that can be widely implemented. In the last 10 years we have learned that cognitive remediation is not brain training but is a holistic therapy that involves an active therapist providing motivation support, and who helps to mitigate the impact of cognitive difficulties through metacognition to develop awareness of cognitive approaches to problems. We conclude that, of course, more research is needed but, in addition and perhaps more importantly at this stage, we need more public and health professionals' understanding of the benefits of this therapy to inform and include this approach as part of treatment regimens.",
+    "DOI": "10.1093/schbul/sbae075",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a narrative review, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria (lacks rigorous evaluation or control group). The article is a review of cognitive remediation therapy and its implementation challenges but does not present new empirical data from controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on cognitive remediation therapy, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (cognitive remediation therapy).",
+            "study_design": "N/A",
+            "logprobs": null
+        }
+    }
+}

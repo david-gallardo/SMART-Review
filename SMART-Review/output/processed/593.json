@@ -1,0 +1,33 @@
+{
+    "ArticleID": 593,
+    "Authors": "Morgan, Amy J.; Rossetto, Alyssia",
+    "Article Title": "Reasons for not providing initial support to a colleague, friend, or family member experiencing a mental health problem or crisis",
+    "Abstract": "Aim To investigate reasons for not helping a person experiencing a mental health problem, and explore factors associated with not offering help. Methods Data were collected as part of a randomized controlled trial evaluating Mental Health First Aid (MHFA) in the workplace conducted with 608 Australian adults. Participants were asked if a colleague, friend, or family member had any mental health problem in the last 12 months, whether they had tried to help them, and reasons for not helping. These reasons were content analysed and predictors of not helping were explored with logistic regression. Results A minority of participants did not offer help, with reasons for not helping (n = 107) related to the recipient already being helped, characteristics of the recipient such as perceived illness type, the type of relationship between helper and recipient, distance or time barriers, and a lack of skills or knowledge. Conclusions Some reasons for not helping cannot be modified but others could be used to inform the curricula of MHFA or other gatekeeper training.",
+    "DOI": "10.1111/eip.13199",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a randomized controlled trial (RCT), but it does not evaluate employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not include a control group and focuses on reasons for not helping rather than interventions to improve employment outcomes.",
+            "study_design": "Survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

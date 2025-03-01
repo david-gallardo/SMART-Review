@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1371,
+    "Authors": "Baekgaard, Martin; Nielsen, Soren Albeck; Rosholm, Michael; Svarer, Michael",
+    "Article Title": "Long- term employment and health effects of active labor market programs",
+    "Abstract": "Active labor market programs (ALMPs) are widely used to speed up return to work among the unemployed. We examine their long- run effects on employment- and health- related outcomes for different target groups, arguing that ALMPs are associated with heterogeneous effects for different target groups and may even detrimentally influence the mental health for the most disadvantaged groups. To this end, we use evidence from randomized controlled trials conducted in Denmark in 2005-2008, in which treatment groups were exposed to intensified active labor market policies in the form of more frequent compulsory meetings with case workers and/or early activation and estimate effects over a period of 10 y. In line with expectations, we find that while ALMPs have the potential to increase labor market participation among resourceful clients even 10 after the original intervention, they have long- run negative effects on the mental health for the most disadvantaged groups among the unemployed. The negative effects are entirely driven by clients who already prior to the trial had mental health issues. These findings suggest that the effects of ALMPs are lasting, but at the same time greatly depend on how they fit with the resources of clients.",
+    "DOI": "10.1073/pnas.2411439121",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2025",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a control group and focuses on ALMPs rather than specific interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployed individuals without specific mention of mental health disorders or documented mental health problems.",
+            "study_design": "Randomized controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe (2005-2008) and geographic scope (Denmark, which is in Europe). It focuses on active labor market programs, including job search services and early activation, targeting people with mental health issues. The outcomes include employment rates and mental health effects.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

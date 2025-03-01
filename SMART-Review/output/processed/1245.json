@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1245,
+    "Authors": "Chiaramonte, Danielle; Simmons, Cortney; Hamdan, Noora; Ayeni, Oyesola Oluwafunmilayo; Lopez-Zeron, Gabriela; Farero, Adam; Sprecher, Mackenzie; Sullivan, Cris M.",
+    "Article Title": "The impact of COVID-19 on the safety, housing stability, and mental health of unstably housed domestic violence survivors",
+    "Abstract": "Using data from an ongoing longitudinal study, we examined the impact of the COVID-19 stay-at-home orders on a racially diverse population of unstably housed domestic violence (DV) survivors over time. Specifically, we examined survivors' safety, housing stability, and mental health before, during, and after the onset of COVID-19, and how demographic, social, and familial factors attenuated or exacerbated the effect of the stay-at-home orders. Approximately 300 participants were initially interviewed after they sought services from a DV agency, and then again, every 6 months over 2 years. COVID-19 stay-at-home orders occurred midway through the completion of this multi-year study. Longitudinal mixed effects models were estimated to examine the impact of COVID-19 on the safety, housing stability, and mental health of survivors over time. We also examined models with several time-varying (e.g., employment, income, social support, and number of children) and time-invariant (baseline outcome scores, racial/ethnic identity, education, and disability status) control variables. Results revealed that safety, housing stability and mental health were improving for study participants before the onset of the COVID-19 pandemic but plateaued after the stay-at-home orders were issued. Experiences of abuse, housing instability, and mental health symptomatology did not worsen as a result of the COVID-19 stay-at-home orders. Notably, social support and housing services emerged as important predictors of outcomes, such that participants who received housing-related services and greater social support reported less abuse, less housing instability, and lower mental health distress. COVID-19 temporarily disrupted the positive trajectory unstably housed DV survivors were experiencing in regard to safety, housing stability and mental health. These findings provide critical insight into the importance of service access during and after global catastrophes. Additional resources and support may be helpful in assisting survivors to return to their pre-pandemic recovery and growth trajectories.",
+    "DOI": "10.1002/jcop.22765",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of COVID-19 on the safety, housing stability, and mental health of unstably housed domestic violence survivors.",
+            "study_design": "Longitudinal mixed effects models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is unstably housed domestic violence survivors rather than people with mental health disorders.",
+            "study_design": "Longitudinal mixed effects models with time-varying and time-invariant control variables",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

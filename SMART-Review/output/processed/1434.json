@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1434,
+    "Authors": "de Vente, Wieke; Kamphuis, Jan Henk; Blonk, Roland W. B.; Emmelkamp, Paul M. G.",
+    "Article Title": "Recovery of Work-Related Stress: Complaint Reduction and Work-Resumption are Relatively Independent Processes",
+    "Abstract": "Purpose The process of recovery from work-related stress, consisting of complaint reduction and work-resumption, is not yet fully understood. The aim of this study was to investigate predictors of complaint reduction and work-resumption, as well as testing complaint reduction as a mediator in the association between predictors and work-resumption. Methods Seventy-one patients on sickness-leave because of work-related stress complaints were followed over a period of 13 months. Predictors comprised personal (demographics, coping, cognitions), work-related (job-characteristics, social support), and illness-related (complaint duration, absence duration) variables. Dependent variables were distress complaints, burnout complaints, and work-resumption. Results Complaints reduced considerably over time to borderline clinical levels and work-resumption increased to 68 % at 13 months. Predictors of stronger reduction of distress complaints were male gender, less working hours, less decision authority, more co-worker support, and shorter absence duration. Predictors of stronger reduction of burnout complaints were male gender, lower age, high education, less avoidant coping, less decision authority, more job security, and more co-worker support. Predictors of work-resumption were lower age and stronger reduction of burnout complaints. No indication for a mediating role of burnout complaints between the predictor age and work-resumption was found. Conclusions Complaint reduction and work-resumption are relatively independent processes. Symptom reduction is influenced by individual and work-related characteristics, which holds promise for a multidisciplinary treatment approach for work-related stress.",
+    "DOI": "10.1007/s10926-015-9573-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the specified timeframe. The intervention is job search services, adult training, wage subsidies, and supported employment, which are all relevant to active employment policies for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks a control group.",
+            "study_design": "Cross-sectional follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on the recovery process from work-related stress, which does not align with the specified inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

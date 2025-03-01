@@ -1,0 +1,33 @@
+{
+    "ArticleID": 857,
+    "Authors": "McGinty, Emma E.; Kennedy-Hendricks, Alene; Linden, Sarah; Choksy, Seema; Stone, Elizabeth; Daumit, Gail L.",
+    "Article Title": "An innovative model to coordinate healthcare and social services for people with serious mental illness: A mixed-methods case study of Maryland's Medicaid health home program",
+    "Abstract": "Objective: We conducted a case study examining implementation of Maryland's Medicaid health home program, a unique model for integration of behavioral, somatic, and social services for people with serious mental illness (SMI) in the psychiatric rehabilitation program setting.Method: We conducted interviews and surveys with health home leaders (N = 72) and front-line staff (N = 627) representing 46 of the 48 total health home programs active during the November 2015-December 2016 study period. We measured the structural and service characteristics of the 46 health home programs and leaders' and staff members' perceptions of program implementation.Results: Health home program structure varied across sites: for example, 15% of programs had co-located primary care providers and 76% had onsite supported employment providers. Most leaders and staff viewed the health home program as having strong organizational fit with psychiatric rehabilitation programs' organizational structures and missions, but noted implementation challenges around health IT, population health management, and coordination with external providers.Conclusion: Maryland's psychiatric rehabilitation-based health home is a promising model for integration of behavioral, somatic, and social services for people with SMI but may be strengthened by additional policy and implementation supports, including incentives for external providers to engage in care coordination with health home providers.",
+    "DOI": "10.1016/j.genhosppsych.2017.12.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case study, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mixed-methods case study without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Mixed-methods case study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Mixed-methods case study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 882,
+    "Authors": "Symonds, Jennifer; Dietrich, Julia; Chow, Angela; Salmela-Aro, Katariina",
+    "Article Title": "Mental Health Improves After Transition From Comprehensive School to Vocational Education or Employment in England: A National Cohort Study",
+    "Abstract": "Underpinned by stage-environment fit and job demands-resources theories, this study examined how adolescents' anxiety, depressive symptoms, and positive functioning developed as they transferred from comprehensive school to further education, employment or training, or became NEET (not in education, employment, or training), at age 16 years, in the longitudinal English national cohort study Next Steps (N = 13,342). Controlling for childhood achievement, socioeconomic status, ethnicity, and gender, we found that NEET adolescents had the largest losses in mental health. This pattern was similar to adolescents staying on at school who had increased anxiety and depression, and decreased positive functioning, after transition. In comparison, adolescents transferring to full-time work, apprenticeships, or vocational college experienced gains in mental health.",
+    "DOI": "10.1037/a0040118",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a national cohort study with a control group, meeting the inclusion criteria for study design. The study's geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is vocational education or employment, which is relevant to active employment policies for people with mental health disorders. The population is adolescents with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "National Cohort Study with Control Group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a national cohort study without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

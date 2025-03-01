@@ -1,0 +1,33 @@
+{
+    "ArticleID": 118,
+    "Authors": "Sung, Connie; Muller, Veronica; Jones, Jana E.; Chan, Fong",
+    "Article Title": "Vocational rehabilitation service patterns and employment outcomes of people with epilepsy",
+    "Abstract": "This study aimed to examine the association between vocational rehabilitation (VR) services and employment outcomes of people with epilepsy (PWE), after controlling for demographic covariates. Data was retrieved from the Rehabilitation Services Administration Case Service Report (RSA-911) database for fiscal year (FY) 2011. Multivariate logistic regression was used to predict employment outcomes of PWE. Of the 2030 previously unemployed PWE who received services, 884 (43.5%) achieved successful competitive employment. Results indicate that higher education level and cost of VR services consumed were positively related to successful employment. In contrast, having co-occurring anxiety/depression, receiving cash benefits, or increasing time spent in the VR system was negatively associated with employment. Eight specific VR services (e.g., education, vocational training, and job search and placement assistance) were also found to be significant predictors of employment. Services provided by state VR agencies were proven to be beneficial in improving employment outcomes. PWE should be encouraged to pursue VR services to increase the chances of attaining employment. Health care providers should also become familiar with the array of VR services. Published by Elsevier B.V.",
+    "DOI": "10.1016/j.eplepsyres.2014.06.016",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariate logistic regression analysis, which meets the inclusion criteria. The study is set in the US and covers the timeframe of 2011, which is within the specified range. The intervention is vocational rehabilitation services, which is one of the included interventions. The population is people with epilepsy, who have documented mental health problems, meeting the population criteria. The outcomes include employment outcomes such as employment rates and job duration.",
+            "study_design": "Multivariate logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on people with epilepsy rather than people with mental disorders. Additionally, the intervention (vocational rehabilitation services) is not specifically one of the targeted interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Cross-sectional analysis using multivariate logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on people with epilepsy, not specifically on people with mental health disorders in general. The intervention is VR services, not job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify that it is an RCT, meta-analysis, systematic review of controlled trials, or quasi-experimental study. The population includes people with epilepsy but does not explicitly mention mental health disorders.",
+            "study_design": "Observational study using multivariate logistic regression",
+            "logprobs": null
+        }
+    }
+}

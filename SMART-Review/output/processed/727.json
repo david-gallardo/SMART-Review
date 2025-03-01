@@ -1,0 +1,33 @@
+{
+    "ArticleID": 727,
+    "Authors": "Boemmel, Nadja; Coban, Mustafa; Kasrin, Zein; Schiele, Maximilian; Wenzig, Claudia; Wolff, Joachim; Zabel, Cordula",
+    "Article Title": "From welfare to work: The health and material well-being effects of long-term employment subsidies in Germany",
+    "Abstract": "This paper analyses effects of subsidised, predominantly non-standard, employment within the German labour market programme 'participation in the labour market' for long-term welfare recipients on their health satisfaction, health-based quality of life, satisfaction with standard of living and households' actual ownership of important goods (e.g., car or new clothes) or the lack thereof due to financial reasons. We differentiated subgroups by health, age and working hours. Data for participants and non-participants (but entitled to welfare benefits) stem from the first two waves (2020/2021) of the panel survey 'Quality of Life and Social Participation'. To identify causal effects, we employed matching methods based on administrative and survey data. Our findings show that 1 and 2 years after programme start, participation had significant positive effects on all indicators of health and standard of living. Thus, for the programme's focus group, subsidised employment, even if non-standard, can contribute to improving health and material well-being.",
+    "DOI": "10.1111/ijsw.12653",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based in Germany, within the EU, and within the specified timeframe. The intervention is subsidized employment, which is one of the included interventions. The population is people with mental health problems, as indicated by the study's focus on health satisfaction and health-based quality of life. The outcomes include employment and labor outcomes such as health satisfaction and health-based quality of life.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental disorders. It focuses on long-term welfare recipients and their health satisfaction and standard of living.",
+            "study_design": "Quasi-experimental (matching methods)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the effects of employment subsidies on health and material well-being, not directly on employment outcomes like job retention or job quality.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

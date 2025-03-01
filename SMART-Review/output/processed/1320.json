@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1320,
+    "Authors": "West, Michael; Targett, Pamela; Wehman, Paul; Cifu, Gabriella; Davis, Jacob",
+    "Article Title": "Separation from supported employment: a retrospective chart review study",
+    "Abstract": "Purpose: The objective of this study was to examine job separations from supported employment (SE). The aim was to identify the types and nature of separations and precipitating events leading to the separation. Methods: A retrospective chart review methodology was utilized. The study was conducted in a metropolitan area in the Southeast United States by a university-based SE program. Participants were 47 SE clients who had been placed into and separated from 67 jobs. Using a coding form, information regarding the type of separation and issues that preceded the separation were recorded. Data were aggregated using descriptive statistics. Results: The largest number of separations was due to termination, followed by resignation and mutual consent of the employer and employee. The mean number of issues leading to the separation was 2.2, ranging from one to five. Only eight positive issues were found (compared to 116 negative and 20 neutral), the most prevalent being entry into an educational or training program. Common negative issues included poor work performance, attendance and punctuality problems, conflicts with the supervisor, and social and behavioral issues. Conclusions: The findings of this study illustrate the need to address job retention issues during the job development process, finding the most appropriate person-job fit and workplace culture for each client. The findings also support the need for vigilant and regular communication between the SE program and employers to intervene quickly when problems arise.",
+    "DOI": "10.3109/09638288.2014.955133",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective chart review methodology, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "retrospective chart review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a retrospective chart review and does not include a control group. It also does not directly address employment interventions but rather focuses on job separations from supported employment.",
+            "study_design": "Retrospective chart review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective chart review without a control group.",
+            "study_design": "Retrospective chart review",
+            "logprobs": null
+        }
+    }
+}

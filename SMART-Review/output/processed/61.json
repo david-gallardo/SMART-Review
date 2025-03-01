@@ -1,0 +1,33 @@
+{
+    "ArticleID": 61,
+    "Authors": "Haslett, William R.; McHugo, Gregory J.; Bond, Gary R.; Drake, Robert E.",
+    "Article Title": "Use of Software for Tablet Computers to Promote Engagement With Supported Employment: Results From an RCT",
+    "Abstract": "Objective: Information technology is opening up new ways to engage people who may benefit from psychiatric services. This study examined an intervention to promote engagement in supported employment for use with a tablet computer. Methods: In a randomized controlled trial, 45 clients at an urban community mental health agency received a software application for use with a computer tablet and a brochure to promote engagement with supported employment services (N=22) or only the brochure (N=23). Engagement was defined as requesting and attending an in-person meeting with an employment specialist within 30 days postintervention. Results: Engagement was reported for 11 (50%) participants who received the tablet-based application and one participant (4%) who received only the brochure (odds ratio=22.95, 95% confidence interval=2.51-193.38). Conclusions: Mobile computer based engagement interventions can promote initial contact between clients and employment specialists.",
+    "DOI": "10.1176/appi.ps.201300275",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it focuses on software for tablet computers to promote engagement with supported employment, which is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on promoting engagement in supported employment services rather than measuring employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is an RCT, focuses on adult training as an intervention, and is conducted in the US. It also includes outcomes related to employment engagement.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe (2005-2025), in a relevant geographic scope (US), and focuses on supported employment for people with mental health disorders, with employment outcomes measured.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

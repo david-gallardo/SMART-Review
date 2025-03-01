@@ -1,0 +1,33 @@
+{
+    "ArticleID": 269,
+    "Authors": "Villotti, Patrizia; Corbiere, Marc; Dewa, Carolyn S.; Fraccaroli, Franco; Sultan-Taieb, Helene; Zaniboni, Sara; Lecomte, Tania",
+    "Article Title": "A serial mediation model of workplace social support on work productivity: the role of self-stigma and job tenure self-efficacy in people with severe mental disorders",
+    "Abstract": "Purpose: Compared to groups with other disabilities, people with a severe mental illness face the greatest stigma and barriers to employment opportunities. This study contributes to the understanding of the relationship between workplace social support and work productivity in people with severe mental illness working in Social Enterprises by taking into account the mediating role of self-stigma and job tenure self-efficacy. Method: A total of 170 individuals with a severe mental disorder employed in a Social Enterprise filled out questionnaires assessing personal and work-related variables at Phase-1 (baseline) and Phase-2 (6-month follow-up). Process modeling was used to test for serial mediation. Results: In the Social Enterprise workplace, social support yields better perceptions of work productivity through lower levels of internalized stigma and higher confidence in facing job-related problems. When testing serial multiple mediations, the specific indirect effect of high workplace social support on work productivity through both low internalized stigma and high job tenure self-efficacy was significant with a point estimate of 1.01 (95% CI = 0.42, 2.28). Conclusions: Continued work in this area can provide guidance for organizations in the open labor market addressing the challenges posed by the work integration of people with severe mental illness.",
+    "DOI": "10.1080/09638288.2017.1377294",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration and job quality, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the relationship between workplace social support, self-stigma, and job tenure self-efficacy in people with severe mental disorders.",
+            "study_design": "Cross-sectional study with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group and does not use a rigorous evaluation method.",
+            "study_design": "Quasi-experimental without control group",
+            "logprobs": null
+        }
+    }
+}

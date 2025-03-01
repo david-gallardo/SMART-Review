@@ -1,0 +1,33 @@
+{
+    "ArticleID": 746,
+    "Authors": "Ferrante, Gianluigi; Fasanelli, Francesca; Gigantesco, Antonella; Ferracin, Elisa; Contoli, Benedetta; Costa, Giuseppe; Gargiulo, Lidia; Marra, Michele; Masocco, Maria; Minardi, Valentina; Violani, Cristiano; Zengarini, Nicolas; d'Errico, Angelo; Ricceri, Fulvio",
+    "Article Title": "Is the association between precarious employment and mental health mediated by economic difficulties in males? Results from two Italian studies",
+    "Abstract": "Background: Flexible employment is increasing across Europe and recent studies show an association with poor mental health. The goal of the current study is to examine this association in the Italian population to assess the possible mediating role of financial strain.Methods: Data were obtained by two Italian cross-sectional studies (PASSI and HIS) aimed at monitoring the general population health status, health behaviours and determinants. Mental health status was assessed using alternatively two validated questionnaires (the PHQ-2 and the MCS-12 score) and Poisson regression models were performed to assess if precarious work was associated with poor mental health. A formal mediation analysis was conducted to evaluate if the association between precarious work and mental health was mediated by financial strain.Results: The analyses were performed on 31,948 subjects in PASSI and on 21,894 subjects in HIS. A nearly two-fold risk of depression and poor mental health was found among precarious workers, compared to workers with a permanent contract, which was strongly mediated by financial strain.Conclusions: Even with the limitations of a cross-sectional design, this research supports that precarious employment contributes through financial strain to reduce the mental health related quality of life and to increase mental disorders such as symptoms of depression or dysthymia. This suggests that when stability in work cannot be guaranteed, it would be appropriate to intervene on the wages of precarious jobs and to provide social safety nets for ensuring adequate income.",
+    "DOI": "10.1186/s12889-019-7243-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional study with a control group, meeting the inclusion criteria for study design. The study is conducted in the EU, within the specified timeframe. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cross-sectional study with Poisson regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is based on cross-sectional studies. It does not meet the inclusion criteria for having a control group.",
+            "study_design": "Cross-sectional studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the association between precarious employment and mental health in general.",
+            "study_design": "Cross-sectional studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. It also lacks a control group and has an undefined population in terms of mental health disorders.",
+            "study_design": "Cross-sectional studies",
+            "logprobs": null
+        }
+    }
+}

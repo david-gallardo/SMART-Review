@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1275,
+    "Authors": "Ellison, Marsha L.; Klodnick, Vanessa V.; Bond, Gary R.; Krzos, Izabela M.; Kaiser, Susan M.; Fagan, Marc A.; Davis, Maryann",
+    "Article Title": "Adapting Supported Employment for Emerging Adults with Serious Mental Health Conditions",
+    "Abstract": "Effective services are needed to assist young people with serious mental health conditions to successfully transition to employment or education, especially among those with intensive adolescent mental health service utilization. To meet these needs, the Individual Placement and Support (IPS) model of supported employment was adapted and its feasibility was tested in a psychiatric treatment program for early-emerging adults. Participants were 17-20 years old (mean age = 18.5 years). Most were African American, under the custody of the state, with a primary mood disorder diagnosis. Adaptations to IPS included adding the following: near age peer mentors, a supported education component, and a career development focus. This open trial feasibility study tracked the model's development, recruitment, and retention and tracked vocational and educational outcomes for 12 months. Model refinement resulted in the development of a separate educational specialist position, greater integration of the peer mentor with the vocational team, and further specification of the role of peer mentor. There was an 80% retention rate in the feasibility evaluation. Of the 35 participants, 49% started a job and/or enrolled in an education program over the 12-month period.",
+    "DOI": "10.1007/s11414-014-9445-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in the EU, within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design as it is an open trial feasibility study without a control group.",
+            "study_design": "Feasibility Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on early-emerging adults with serious mental health conditions, which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "open trial feasibility study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a feasibility trial of supported employment for people with mental health disorders, includes employment outcomes, and is conducted in the US within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

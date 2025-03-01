@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1063,
+    "Authors": "Singh, Ankur; Aitken, Zoe; Baker, Emma; Bentley, Rebecca",
+    "Article Title": "Do financial hardship and social support mediate the effect of unaffordable housing on mental health?",
+    "Abstract": "Purpose Unaffordable housing has a negative impact on mental health; however, little is known about the causal pathways through which it transmits this effect. We examine the role of financial hardship and social support as mediators of this relationship. Methods We identified households where housing costs changed from affordable to unaffordable across two waves of the Household, Income and Labour Dynamics in Australia (HILDA) Survey (2014-2015). The sequential causal mediation analysis was used to decompose the total effect of unaffordable housing on mental health into the portion attributable to financial hardship and social support [natural indirect effect (NIE)] and the portion not occurring through measured pathways [natural direct effect (NDE)]. Mental health was measured using the Mental Health Inventory (MHI) and Kessler psychological distress (KPD) scale. Baseline covariates included age, sex, household income, financial hardship, social support, marital status and employment status. Bootstrapping with 1000 replications was used to calculate 95% confidence intervals (CIs). Multiple imputations using chained equations were applied to account for missing data. Results Unaffordable housing led to a change in mean mental health score on the MHI scale (- 1.3, 95% CI: - 2.1, - 0.6) and KPDS scale (0.9, 95% CI: 0.4, 1.4). Financial hardship accounted for 54% of the total effect on MHI scale and 53% on KPD scale. Collectively, financial hardship and social support explained 68% of the total effect on MHI scale and 67% on KPD scale, respectively. Conclusions In conclusion, the negative mental health effect of unaffordable housing is largely mediated through increased financial hardship.",
+    "DOI": "10.1007/s00127-019-01773-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, but rather focuses on the relationship between unaffordable housing and mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using sequential causal mediation analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Natural indirect and direct effect analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

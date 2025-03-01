@@ -1,0 +1,33 @@
+{
+    "ArticleID": 692,
+    "Authors": "Kreski, Noah T.; Keyes, Katherine M.; Parks, Michael J.; Patrick, Megan E.",
+    "Article Title": "Depressive and anxious symptoms among young adults in the COVID-19 pandemic: Results from monitoring the future",
+    "Abstract": "Purpose The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic is associated with worsening mental health among young adults, but further research is necessary to quantify the associations with depression and anxiety. Methods Using Monitoring the Future data (N = 1244 young adults, modal age: 19, Fall 2020 supplement), we examined internalizing symptoms (Patient Health Questionnaire-8 and Generalized Anxiety Disorder Scale-7 separately), dividing the sample into those without clinically significant scores, significant scores but minimal pandemic-attributed symptoms, and significant scores with substantial pandemic-attributed symptoms. Logistic regression analyses linked demographic factors, pandemic-related experiences, and coping methods to symptom groups. Results Internalizing symptoms were highly prevalent, with many occurring among a majority at least several days over the past 2 weeks. Major changes in education, employment, and resource availability predicted elevated symptom risk (e.g., lacking a place to sleep or money for rent, gas, or food led to 4.43 [95% confidence interval: 2.59-7.55] times the risk of high depressive symptoms significantly attributed to the pandemic). High internalizing symptoms were linked to underutilization of healthy coping behaviors, substance use overutilization, and dietary changes. High depressive and anxious symptoms attributed to the pandemic were marked by high levels of taking breaks from the news/social media and contacting healthcare providers. Conclusions The pandemic's associations with young adults' depressive and anxious symptoms warrants urgent attention through improved mental health treatment infrastructure and stronger structural support.",
+    "DOI": "10.1002/da.23273",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on internalizing symptoms, demographic factors, pandemic-related experiences, and coping methods.",
+            "study_design": "Observational study (logistic regression analysis) with no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of the COVID-19 pandemic on mental health symptoms among young adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

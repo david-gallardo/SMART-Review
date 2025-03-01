@@ -1,0 +1,33 @@
+{
+    "ArticleID": 357,
+    "Authors": "Porru, Fabio; Schuring, Merel; Hoogendijk, Witte J. G.; Burdorf, Alex; Robroek, Suzan J. W.",
+    "Article Title": "Impact of mental disorders during education on work participation: a register-based longitudinal study on young adults with 10 years follow-up",
+    "Abstract": "BackgroundMental disorders are a leading cause of disability and a major threat to work participation in young adults. This register-based longitudinal study aims to investigate the influence of mental disorders on entering and exiting paid employment among young graduates and to explore differences across socioeconomic groups. MethodsRegister information on sociodemographics (age, sex, migration background) and employment status of 2 346 393 young adults who graduated from secondary vocational (n=1 004 395) and higher vocational education or university (n=1 341 998) in the period 2010-2019 was provided by Statistics Netherlands. This information was enriched with register information on the prescription of nervous system medication for mental disorders in the year before graduation as a proxy for having a mental disorder. Cox proportional hazards regression models were used to estimate the influence of mental disorders on (A) entering paid employment among all graduates and (B) exiting from paid employment among graduates who had entered paid employment. ResultsIndividuals with mental disorders were less likely to enter (HR 0.69-0.70) and more likely to exit paid employment (HR 1.41-1.42). Individuals using antipsychotics were the least likely to enter (HR 0.44) and the most likely to exit paid employment (HR 1.82-1.91), followed by those using hypnotics and sedatives. The association between mental disorders and work participation was found across socioeconomic subgroups (ie, educational level, sex and migration background). DiscussionYoung adults with mental disorders are less likely to enter and maintain paid employment. These results ask for prevention of mental disorders and for a more inclusive labour market.",
+    "DOI": "10.1136/jech-2022-219487",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a register-based longitudinal study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2010-2019), and the intervention (having a mental disorder) and population (young adults with mental disorders) meet the inclusion criteria.",
+            "study_design": "Register-based longitudinal study with Cox proportional hazards regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is register-based longitudinal research without a control group, which does not meet the inclusion criteria of having rigorous evaluation or a control group.",
+            "study_design": "Register-based longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a register-based longitudinal study, which does not meet the inclusion criteria of being a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group. The study focuses on the influence of mental disorders on work participation among young adults, which is not directly related to the interventions listed in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Register-based longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

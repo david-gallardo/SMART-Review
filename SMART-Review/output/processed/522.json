@@ -1,0 +1,33 @@
+{
+    "ArticleID": 522,
+    "Authors": "McGurk, Susan R.; Xie, Haiyi; Bond, Gary R.; Mueser, Kim T.",
+    "Article Title": "Impact of cognitive remediation on the prediction of employment outcomes in severe mental illness",
+    "Abstract": "Objective: Cognitive functioning is a potent predictor of work in people with a severe mental illness, including those receiving vocational services. Cognitive remediation has been shown to improve cognitive functioning and work outcomes in people receiving vocational services. However, it is unknown whether it reduces the strength of cognitive functioning as a predictor of work outcomes compared to people receiving vocational services alone. Method: Data were pooled from five randomized controlled trials evaluating the effects of adding cognitive remediation to vocational rehabilitation vs. vocational services alone. A battery of baseline cognitive functioning measures was examined to identify predictors of competitive work outcomes over the following two years. Study condition (i.e., receipt of cognitive remediation) was included in the analyses to evaluate whether cognitive functioning was a weaker predictor of work outcomes in people receiving cognitive remediation compared to those receiving vocational services alone. Results: Cognitive functioning was a stronger predictor of wages earned and weeks worked in participants receiving vocational services alone than those who also received cognitive remediation. Cognitive functioning did not predict job acquisition in either study condition. Conclusion: Cognitive remediation may improve employment outcomes in people receiving vocational services in part by reducing the adverse effects of impaired cognitive functioning on work performance.",
+    "DOI": "10.1016/j.schres.2022.01.011",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention of cognitive remediation alone.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on the impact of cognitive remediation on cognitive functioning and work outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation and its impact on employment outcomes in people with severe mental illness, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's population is not explicitly defined as people with mental health disorders or documented mental health problems.",
+            "study_design": "Randomized controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating job search services (vocational rehabilitation) and includes employment outcomes such as wages earned and weeks worked.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

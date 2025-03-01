@@ -1,0 +1,33 @@
+{
+    "ArticleID": 281,
+    "Authors": "Dimoff, Jennifer K.; Kelloway, E. Kevin",
+    "Article Title": "With a Little Help From My Boss: The Impact of Workplace Mental Health Training on Leader Behaviors and Employee Resource Utilization",
+    "Abstract": "Mental health problems are among the costliest issues facing organizations in the developed world. In response to the mounting burdens surrounding poor employee mental health, many organizations have introduced mental health promotion programs and resources (e.g., employee assistance programs). Despite the rise in available options, very few employees use these resources to their full potential. Using a wait-list control design with random assignment, we evaluate the impact of a leader-focused mental health training on employees' (N = 82; 51.25% response rate) resource use and leaders' (N = 37; 56.92% response rate) communication about mental health and mental health resources. Based on other-report data from employees, leaders who received training shared more information about mental health and mental health resources, were more supportive of employees' mental health issues, and actively encouraged employees to use available resources. Employees whose leaders attended the training also reported increased willingness to seek out and use available resources. For leaders who attend training and complete three waves of data collection, results suggest that a 3-hr mental health training may lead to significant behavioral change up to 3 months posttraining.",
+    "DOI": "10.1037/ocp0000126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental with wait-list control design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

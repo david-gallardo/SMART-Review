@@ -1,0 +1,33 @@
+{
+    "ArticleID": 252,
+    "Authors": "Turgoose, David; Busuttil, Walter; Ashwick, Rachel; Booth, Katie; Murphy, Dominic",
+    "Article Title": "Describing the feasibility of using case management in a specialist forensic substance misuse intervention for UK veterans: a case study",
+    "Abstract": "Veterans with mental health problems are a high-risk group for substance misuse difficulties and are over-represented in forensic settings. Yet, there are few substance misuse services available for this population. Evidence suggests that case management can provide effective interventions for veterans with substance misuse problems. However, there is little research to show its effectiveness in the UK. The present study reported on the implementation and preliminary outcomes of the Veterans Forensic Substance Misuses Service (VFSMS), piloted within a prison setting, to demonstrate the feasibility of the service. The VFSMS operated in four stages: Assessing needs, developing case management plans, providing bespoke support and developing discharge plans. Case studies were used to demonstrate this process, with measures of alcohol use and recovery showing outcomes for each case. Findings from three case studies suggested that case management was a feasible approach, with a range of interventions being used, including substance misuse and mental health services, plus housing and employment services. Outcome measures suggested that alcohol and substance misuse recovery improved following the VFSMS intervention. While the scope of the findings is limited, they suggested that case management is a feasible substance misuse intervention, with preliminary findings showing improvements in substance misuse outcomes.",
+    "DOI": "10.1080/14789949.2018.1508485",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case study, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the intervention (case management) is not one of the specified interventions for active employment policies.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance misuse interventions for veterans with mental health problems, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not present measures of employment or labor results.",
+            "study_design": "Case Study",
+            "logprobs": null
+        }
+    }
+}

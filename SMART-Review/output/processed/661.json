@@ -1,0 +1,33 @@
+{
+    "ArticleID": 661,
+    "Authors": "Zolnierczyk-Zreda, Dorota; Holas, Pawel",
+    "Article Title": "PSYCHOSOCIAL WORKING CONDITIONS AND MAJOR DEPRESSION OR DEPRESSIVE DISORDERS: REVIEW OF STUDIES",
+    "Abstract": "In the paper the review of studies on the relationship between clinically and subjectively diagnosed depression and psychosocial working conditions has been conducted. Most of these studies include mobbing and stress at work. A large part of them also points to organizational injustice and restructuring, and single studies - long working hours, and work-life imbalance as potential causes of both depression and depressive disorders among working people. The results of these studies confirm that in particular mobbing and stress at work are associated with an increased risk of mental health problems. The greater the exposure to these factors is, the higher the risk of depression is. It has also been shown in many studies that these associations are stronger amongst women. The results of these studies clearly show the need to make every possible effort to change such working environments, and preferably - to prevent their deterioration in the short term.",
+    "DOI": "10.13075/mp.5893.00703",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a control group and does not directly address employment.",
+            "study_design": "Review of studies",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a review of studies rather than an original research design meeting the inclusion criteria. It does not present new data from controlled trials, RCTs, quasi-experimental studies with control groups, or meta-analyses/systematic reviews thereof. The population and outcomes focus on psychosocial working conditions and their association with depression, but it does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Review of Studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between depression and working conditions, not directly on employment outcomes or interventions.",
+            "study_design": "Review of studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1499,
+    "Authors": "Larsen, Finn Breinholt; Lasgaard, Mathias; Willert, Morten Vejs; Sorensen, Jes Bak",
+    "Article Title": "Estimating the causal effects of work-related and non-work-related stressors on perceived stress level: A fixed effects approach using population-based panel data",
+    "Abstract": "ObjectivesProlonged or excessive stress can have a negative impact on health and well-being, and stress therefore constitutes a major public health issue. A central question is what are the main sources of stress in contemporary societies? This study examines the effects of work-related and non-work-related stressors and perceived social support on perceived stress within a causal framework.MethodsPanel data were drawn from two waves (2013 and 2017) of the population-based health survey How are you? conducted in the Central Denmark Region. The analytical sample comprised 9,194 subjects who had responded to both surveys. Work-related and non-work-related stressors included major life events, chronic stressors, daily hassles and lack of social support. Perceived stress was measured with the 10-item Perceived Stress Scale (PSS). Data were analysed using fixed effects regression in a fully balanced design.ResultsThe largest effects on PSS were seen in own disease, work situation and lack of social support. Other stressors affecting the perceived stress level were financial circumstances, relationship with partner, relationship with family and friends, and disease among close relatives. Most variables had a symmetrical effect on PSS.ConclusionsThe results point to the need for comprehensive policies to promote mental health that span life domains and include both the individual and the group as well as organizational and societal levels. The study indicates that there are multiple potential entry points for stress prevention and stress management. However, it also shows that disease, work situation and social support weigh heavily in the overall picture. This points to the healthcare system and workplace as key institutional venues for action.",
+    "DOI": "10.1371/journal.pone.0290410",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on perceived stress level and its relationship with work-related and non-work-related stressors.",
+            "study_design": "Fixed effects regression in a fully balanced design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the effects of stressors on perceived stress level. It lacks an intervention related to active employment policies.",
+            "study_design": "Fixed effects regression analysis using panel data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Fixed effects regression in a fully balanced design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

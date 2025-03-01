@@ -1,0 +1,33 @@
+{
+    "ArticleID": 877,
+    "Authors": "Chen, June L.; Sung, Connie; Pi, Sukyeong",
+    "Article Title": "Vocational Rehabilitation Service Patterns and Outcomes for Individuals with Autism of Different Ages",
+    "Abstract": "Young adults with autism spectrum disorders (ASD) often experience employment difficulties. Using Rehabilitation Service Administration data (RSA-911), this study investigated the service patterns and factors related to the employment outcomes of individuals with ASD in different age groups. Hierarchical logistic regression analyses were conducted to examine the effects of demographic and vocational rehabilitation (VR) service variables on employment outcomes in each age group. The results show that transition youth made up the largest portion of VR service users among the ASD population, yet they have the worst employment outcomes across all age groups. Factors that are significantly associated with increased odds for employment in each age group were identified. Implications from systemic, practical, and research perspectives are also provided.",
+    "DOI": "10.1007/s10803-015-2465-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Hierarchical logistic regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on individuals with autism spectrum disorder.",
+            "study_design": "Hierarchical logistic regression analysis using RSA-911 data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with autism spectrum disorders (ASD), not specifically on people with mental health disorders in general. The intervention is not clearly defined as job search services, adult training, wage subsidies, or supported employment, which are the interventions of interest.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify the geographic scope within the inclusion criteria.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

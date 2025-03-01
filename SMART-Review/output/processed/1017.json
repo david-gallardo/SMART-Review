@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1017,
+    "Authors": "Arias-de la Torre, Jorge; Fernandez-Villa, Tania; Jose Molina, Antonio; Amezcua-Prieto, Carmen; Mateos, Ramona; Cancela, Jose Maria; Delgado-Rodriguez, Miguel; Ortiz-Moncada, Rocio; Alguacil, Juan; Redondo, Susana; Gomez-Acebo, Ines; Morales-Suarez-Varela, Maria; Blazquez Abellan, Gemma; Jimenez Mejias, Eladio; Felix Valero, Luis; Ayan, Carlos; Vilorio-Marques, Laura; Olmedo-Requena, Rocio; Martin, Vicente",
+    "Article Title": "Psychological Distress, Family Support and Employment Status in First-Year University Students in Spain",
+    "Abstract": "Mental disorders are consistently and closely related to psychological distress. At the start of the university period, the relationship between a student's psychological distress, family support, and employment status is not well-known. The aims of this study were: To determine the prevalence of psychological distress in first-year university students and to analyze its relationship with family support and the student's employment status. Data from 4166 first-year university students from nine universities across Spain were considered. The prevalence of psychological distress was obtained using the GHQ-12, a valid and reliable screening tool to detect poor mental health. To analyze the relationship between psychological distress, family support, and employment status, logistic regression models were fitted. Regarding the prevalence found, 46.9% of men and 54.2% of women had psychological distress. In both genders, psychological distress levels increased as family support decreased. Among women, psychological distress was associated with their employment status. The prevalence of psychological distress among first-year university students in Spain is high. In addition, family support, and employment status for women, could be factors to take into account when developing psychological distress prevention strategies at the beginning of the university period.",
+    "DOI": "10.3390/ijerph16071209",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). Additionally, the intervention and population do not align with the defined criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-year university students and their psychological distress, family support, and employment status, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not evaluate any specific interventions aimed at improving employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

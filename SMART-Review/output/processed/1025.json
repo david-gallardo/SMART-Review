@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1025,
+    "Authors": "Trudell, John Paul; Burnet, Maddison L.; Ziegler, Bianca R.; Luginaah, Isaac",
+    "Article Title": "The impact of food insecurity on mental health in Africa: A systematic review",
+    "Abstract": "In 2018, 676.1 million people in Africa (52.5% of the population) were moderately or severely food insecure. This exceptionally high prevalence continues to increase as Africa experiences conflict, climate change, and economic declines. When Sustainable Development Goal 2.1 set out to end hunger and ensure access to sufficient food, particularly for vulnerable populations, by 2030, food insecurity emerged as a global priority. Food insecurity has been hypothesized to negatively impact mental health, a stigmatized area of health in Africa for which care is often inaccessible. This systematic review examines existing literature on the relationship between food insecurity and mental health in Africa, where progress remains to be made on both fronts. A systematic search of seven databases (EMBASE, Web of Science, CINAHL, PsychINFO ProQuest, Medline Ovid, Scopus, and Nursing and Allied Health) was conducted. Results were limited to studies examining food insecurity and mental health, written in English and published between January 2000 and May 2020. After title, abstract, full-text review, and quality appraisal using tools from the National Heart, Lung, and Blood Institute, 64 studies remained. Findings were summarized using a narrative synthesis approach. Studies unanimously highlighted that food insecurity is associated with poor mental health. This relationship was dose-responsive and independent of the measured mental health outcome. Two highly represented groups in the literature were women around pregnancy and people affected by HIV/AIDS. Factors which mediated the relationship included age, sex, social interactions, physical health, seasonality, and rural residence. The findings suggest that the relationship is likely amplified in specific populations such as women and seniors, and interventions which target livelihood as opposed to income may be more effective. Further research is needed which compares food insecurity's effect on mental health between at-risk populations, in order to guide resource allocation and context-specific policy making.",
+    "DOI": "10.1016/j.socscimed.2021.113953",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria for intervention as it focuses on food insecurity, which is not directly related to employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the relationship between food insecurity and mental health in Africa.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Systematic review",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

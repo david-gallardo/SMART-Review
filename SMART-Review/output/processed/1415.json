@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1415,
+    "Authors": "Cabezas-Rodriguez, Andrea; Utzet, Mireia; Bacigalupe, Amaia",
+    "Article Title": "Which are the intermediate determinants of gender inequalities in mental health?: A scoping review",
+    "Abstract": "Background:Gender segmentation in the labour market and women's greater burden of domestic work and caregiving increase their risk of developing mental health problems, especially in vulnerable social groups.Aims:The objectives of this study were to identify and describe the role of working and labour conditions, domestic work and caregiving and social support in gender inequalities in mental health, as well as to assess whether studies have taken an intersectional approach, describing its role in gender inequalities in mental health.Methods:We carried out a systematic review of scientific articles published between 2010 and 2019 in PubMed, Scopus, WoS and PsycInfo, in Spanish and English, conducted in the European Economic Area in populations aged between 25 and 65 years. Studies were excluded if they were qualitative, focused on sexual identity or factors based on biological differences, or considered use of medical services, medicalisation or suicide as the outcome variable.Results:A total of 30 articles were included, of which only four concerned studies in which intersectional analysis had been performed. The mental health of men was seen to be more influenced by employment conditions and that of women by working conditions, the double presence and civil status. Further, depending on the size of the household (women) and unemployment (men), people in lower social classes had poorer mental health outcomes.Conclusions:The results may be useful for designing policies focused on reducing gender inequalities in mental health. Additionally, they show the need for taking an intersectional perspective.",
+    "DOI": "10.1177/00207640211015708",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group. The intervention and population criteria are also not met as it focuses on gender inequalities in mental health rather than employment policies for people with mental disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on gender inequalities in mental health and does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not focus on people with mental health disorders as the primary population.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

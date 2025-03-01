@@ -1,0 +1,33 @@
+{
+    "ArticleID": 726,
+    "Authors": "Reme, Silje Endresen; Monstad, Karin; Fyhn, Tonje; Sveinsdottir, Vigdis; Lovvik, Camilla; Lie, Stein Atle; Overland, Simon",
+    "Article Title": "A randomized controlled multicenter trial of individual placement and support for patients with moderate-to-severe mental illness",
+    "Abstract": "Objectives The aim of this study was to evaluate the effectiveness of individual placement and support (IPS) for people struggling with work participation due to moderate-to-severe mental illness. The study was conducted in Norway, a setting characterized by a comprehensive welfare system and strong employment protection legislation.Methods A randomized controlled multicenter trial including 410 participants was conducted. The intervention group received IPS according to the IPS manual. The control group received high-quality usual care. The main outcome was competitive employment at 12- and 18-months follow-up, based on objective registry data. Changes in mental health and health-related quality of life were secondary outcomes.Results At 12-months follow-up, 36.6% of participants in the IPS group and 27.1% of participants in the control group were in competitive employment, while the difference was slightly higher (37.4% versus 27.1%) at 18-months follow-up. Furthermore, IPS yielded positive effects on all the secondary outcomes compared to the control group (all P<0.05).Conclusions The IPS model of supported employment was superior to high-quality usual care on both vocational and non-vocational outcomes for people with moderate-to-severe mental illness, even in a policy context characterized by high job security and a comprehensive welfare system.",
+    "DOI": "10.5271/sjweh.3753",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled multicenter trial with a control group.",
+            "study_design": "Randomized Controlled Multicenter Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU country - Norway), timeframe (2005-2025), intervention (supported employment), population (people with moderate-to-severe mental illness), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group, focuses on adult training as an intervention, and is conducted in the EU (Norway). It also covers the timeframe and population specified in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not in EU, Europe, US, Canada, Australia)",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

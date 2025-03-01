@@ -1,0 +1,33 @@
+{
+    "ArticleID": 185,
+    "Authors": "Rothermund, Eva; Guendel, Harald; Rottler, Edit; Hoelzer, Michael; Mayer, Dorothea; Rieger, Monika; Kilian, Reinhold",
+    "Article Title": "Effectiveness of psychotherapeutic consultation in the workplace: a controlled observational trial",
+    "Abstract": "Background: This study compares the effectiveness of psychotherapeutic consultation in the workplace (PSIW) with psychotherapeutic outpatient care (PSOC) in Germany.Methods: Work ability (WAI), quality of life (SF-12), clinical symptoms (PHQ) and work-related stress (MBI, IS) were assessed in 367 patients seeking mental health care via two routes (PSIW n = 174; PSOC n = 193) before consultation and 12 weeks later. Changes in outcome variables were assessed using covariance analysis with repeated measures (ANCOVA) with sociodemographic variables (propensity score method), therapy dose, setting and symptom severity as covariates.Results: The PSIW and PSOC groups included 122 and 66 men respectively. There were 102 first-time users of mental healthcare in the PSIW group and 83 in the PSOC group. There were group differences in outcome variables at baseline (p < 0.05); PSIW patients were less impaired overall. There were no group difference in sociodemographic variables, number of sessions within the offer or symptom severity. There was no main effect of group on outcome variables and no group*time interaction. Work-related stress indicators did not change during the intervention, but work ability improved in both groups (F = 10.149, p = 0.002; baseline M = 27.2, SD = 8.85); follow-up M = 28.6, SD = 9.02), as did perceived mental health (SF-12 MCS), depression (PHQ-9) and anxiety (PHQ-7). Effect sizes were between eta(2) = 0.028 and eta(2) = 0.040.Conclusions: Psychotherapeutic consultation is similarly effective in improving patients' functional and clinical status whether delivered in the workplace or in an outpatient clinic. Offering mental health services in the workplace makes it easier to reach patients at an earlier stage in their illness and thus enables provision of early and effective mental health care.",
+    "DOI": "10.1186/s12889-016-3567-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a controlled observational trial with a control group, meeting the inclusion criteria for study design. The study is set in Germany, within the EU, and the timeframe is between 2005-2025. The intervention is psychotherapeutic consultation in the workplace, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as work ability and perceived mental health.",
+            "study_design": "Controlled observational trial with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on psychotherapeutic consultation in the workplace and outpatient care, assessing work ability, quality of life, clinical symptoms, and work-related stress.",
+            "study_design": "Controlled observational trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not focus on interventions directly related to employment.",
+            "study_design": "controlled observational trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

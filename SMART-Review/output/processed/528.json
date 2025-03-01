@@ -1,0 +1,33 @@
+{
+    "ArticleID": 528,
+    "Authors": "D'Orta, Isabella; Weber, Kerstin; Herrmann, Francois R.; Giannakopoulos, Panteleimon",
+    "Article Title": "Women in acute forensic psychiatric care: comparison of clinical, sociodemographic, and detention-related characteristics in pretrial detention, sentence execution, and court-ordered treatment",
+    "Abstract": "Compared to men inmates, women display decreased prevalence of severe mental disorder but increased occurrence of substance use disorders (SUD) and higher rates of previous contacts with mental health services. The group of women in detention is highly heterogeneous according to the status of incarceration (pre-trial detention (PTD), sentence execution (SE) and court ordered treatments (COT)). Studies focusing on the comparison of sociodemographic patterns, detention-related and clinical variables between these groups are still lacking. We explored these parameters in 136 women admitted for acute psychiatric care in the sole Geneva forensic unit during a nine year period (2014-2023). Sociodemographic and detention-related data included age, nationality, marital status, presence of children, education attainment, most frequently speaking language, social support, employment before conviction and type of offenses. Clinical variables included the main ICD-10 diagnosis, presence of concomitant SUD, type of personality disorders, presence of suicidal thoughts and attempts at admission, as well as number and mean duration of stays. PTD and SE women had at least 9 years of formal education in 38.9% and 30.3% of cases. Most women in PTD (77.7%), SE (56.6%) and COT (56.2%) groups were Swiss or European citizens. The level of French knowledge was excellent in most of the cases. 43.8% of COT women had at least one child and this percentage is even higher for PTD and SE cases. The employment rate before conviction was also quite high, mainly for PTD and SE (61.1% and 60.6%) and, in a lesser degree, for COT (43.8%) women. Significant social support was present in the vast majority of women without any significant group difference. The distribution of type of offenses did not differ between the three types of detention with a predominance of physical violence, and drug trafficking. The number of stays during the period of reference was significantly higher in COT compared to both SE and PTD women. History of previous inpatient care was also significantly more frequent in COT that SE and PTD women. Adjustment and affective disorders were more often found in SE and PTD cases, these diagnoses were absent in the COT group. In contrast, a main diagnosis of psychotic disorders was found in 62.5% of COT cases compared to only 21.2% in SE and 24.1% in PTD cases. The number of stays, history of inpatient care and diagnosis of psychosis were independent predictors of COT status. In conclusion, the present data reveal the good social integration and emotional support of women needing acute psychiatric care in prison independently of the type of detention. Clinically, women in PTD and SE display more often emotional distress whereas those in COT suffer from acute psychotic symptoms with previous history of psychiatric care and multiple inpatient stays.",
+    "DOI": "10.1186/s12888-024-05546-0",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes. It focuses on comparing clinical, sociodemographic, and detention-related characteristics of women in acute forensic psychiatric care across different types of incarceration.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on women in acute forensic psychiatric care and does not meet the intervention criteria specified in the inclusion criteria, which requires studies on job search services, adult training, wage subsidies, or supported employment intervents for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

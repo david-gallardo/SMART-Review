@@ -1,0 +1,33 @@
+{
+    "ArticleID": 677,
+    "Authors": "Smith, Anna B.; Cook, Paul F.",
+    "Article Title": "Comorbid mental health disorders in persons living with HIV: Adherence to antiretroviral therapy",
+    "Abstract": "This is a secondary data analysis exploring adherence to antiretroviral therapy (ART) in persons living with HIV (PLWH) with a comorbid mental health disorder. Logistic regression analyses indicated that PLWH who had reliable housing were over six times more adherent than those with unreliable housing. Descriptive odds ratio analyses showed directional relationships for ART adherence with coping, employment, and social support. These results indicate areas for future investigation in PLWH and comorbid mental health disorders, and the potential to find ways to foster certain emotional or living conditions that promote ART adherence.",
+    "DOI": "10.1016/j.apnu.2019.04.008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on adherence to antiretroviral therapy in persons living with HIV and comorbid mental health disorders.",
+            "study_design": "Descriptive odds ratio analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly involve job search services, adult training, wage subsidies, or supported employment. It focuses on adherence to antiretroviral therapy in persons living with HIV who have comorbid mental health disorders.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adherence to ART in PLWH with comorbs mental health disorders, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        }
+    }
+}

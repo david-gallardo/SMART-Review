@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1257,
+    "Authors": "Hoggatt, Katherine J.; Harris, Alexander H. S.; Washington, Donna L.; Williams, Emily C.",
+    "Article Title": "Prevalence of substance use and substance-related disorders among US Veterans Health Administration patients",
+    "Abstract": "Background: Substance use and related disorders are common among US Veterans, but the population burden of has never been directly assessed among Veterans Health Administration (VA) patients. We surveyed VA patients to measure substance use and related disorders in the largest US integrated healthcare system. Methods: We surveyed N = 6000 outpatients from 30 geographically-representative VA healthcare systems. We assessed substance use (lifetime, past 12-month, daily in past 3 months) and past 12-month disorders following DSM-5 criteria and estimated the association with Veteran characteristics (age, gender, race/ethnicity, socioeconomic status, VA utilization). Results: Alcohol was the most commonly-reported substance (24% used past 12 months, 11% daily in past 3 months, 10% met criteria for alcohol use disorder), followed by cannabis (42% lifetime use, 12% use in past 12 months, 5% daily use in past 3 months, 3% met criteria for cannabis use disorder). Overall, 5% met criteria for non-alcohol drug use disorder (13% for substance use disorder (SUD)). SUD prevalence was highest for young Veterans and those who were unemployed or otherwise not employed for wages. Past 12-month cannabis use was common, even among older adults (65-74 years: 10%; 75 and older: 2%). Conclusions: Prevalence data are important inputs into decisions around population health monitoring, treatment capacity, and quality measurement strategies. Substance use and SUD are more prevalent than previously reported, and VA may need to screen for non-alcohol drugs to identify patients who need care. More tailored assessment may be needed for cannabis use, high-prevalence subgroups, and older adults.",
+    "DOI": "10.1016/j.drugalcdep.2021.108791",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on substance use and related disorders among US Veterans Health Administration patients.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the prevalence of substance use and related disorders among US Veterans Health Administration patients.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use and substance-related disorders among Veterans, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders. The study design is a survey, which is not one of the specified study designs for inclusion.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 863,
+    "Authors": "Radeloff, Daniel; Papsdorf, Rainer; Uhlig, Kirsten; Vasilache, Andreas; Putnam, Karen; von Klitzing, Kai",
+    "Article Title": "Trends in suicide rates during the COVID-19 pandemic restrictions in a major German city",
+    "Abstract": "AimsIt remains unclear whether the coronavirus disease 2019 (COVID-19) pandemic is having an impact on suicide rates (SR). Economic insecurity and mental disorders are risk factors for suicide, which may increase during the pandemic.MethodsData on suicide events in a major city in Germany, and the corresponding life years (LY) were provided by the local authorities. For the year 2020, periods without restrictions on freedom of movement and social contact were compared with periods of moderate and severe COVID-19 restrictions. To avoid distortions due to seasonal fluctuations and linear time trends, suicide risk during the COVID-19 pandemic was compared with data from 2010 to 2019 using an interrupted time series analysis.ResultsA total of 643 suicides were registered and 6 032 690 LY were spent between 2010 and 2020. Of these, 53 suicides and 450 429 LY accounted for the year 2020.In 2020, SR (suicides per 100 000 LY) were lower in periods with severe COVID-19 restrictions (SR = 7.2, chi(2) = 4.033, p = 0.045) compared with periods without restrictions (SR = 16.8). A comparison with previous years showed that this difference was caused by unusually high SR before the imposition of restrictions, while SR during the pandemic were within the trend corridor of previous years (expected suicides = 32.3, observed suicides = 35; IRR = 1.084, p = 0.682).ConclusionsSR during COVID-19 pandemic are in line with the trend in previous years. Careful monitoring of SR in the further course of the COVID-19 crisis is urgently needed. The findings have regional reference and should not be over-generalised.",
+    "DOI": "10.1017/S2045796021000019",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on suicide rates during the COVID-19 pandemic restrictions.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on suicide rates during the COVID-19 pandemic in Germany.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is outside the specified inclusion criteria.",
+            "study_design": "Observational study",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        }
+    }
+}

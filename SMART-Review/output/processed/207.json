@@ -1,0 +1,33 @@
+{
+    "ArticleID": 207,
+    "Authors": "Watson, Caroline; Tatnell, Ruth",
+    "Article Title": "Resilience and non-suicidal self-injury in LGBTQIA plus people: Targets for prevention and intervention",
+    "Abstract": "Identifying as LGBTQIA+ is associated with greater risk of non-suicidal self-injury (NSSI); understanding why may aid in decreasing NSSI and associated risks in this vulnerable population. We examined discrimination, psychological distress, 'outness', resilience, and NSSI in 330 young adults (18-30) from the Australian LGBTQIA+ community. Individuals reporting NSSI reported more depression, anxiety and stress, and less resilience than those who had not engaged in NSSI. Perceived discrimination was not associated with NSSI engagement, however people identifying as queer reported more discrimination than other LGBTQIA+ participants. Additionally, not being 'out' in the workplace was associated with NSSI. Building resilience and social support within and for the LGBTQIA+ community may be beneficial in addressing LGBTQIA+ mental health and NSSI.",
+    "DOI": "10.1007/s12144-019-00573-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on mental health and NSSI in the LGBTQIA+ community.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention focuses on resilience building rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on non-suicidal self-injury (NSSI) in the LGBTQIA+ community and does not meet the specified inclusion criteria regarding interventions for employment or labor outcomes in people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

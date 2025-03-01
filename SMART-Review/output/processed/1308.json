@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1308,
+    "Authors": "Stromholm, Tonje; Pape, Kristine; Ose, Solveig Osborg; Krokstad, Steinar; Bjorngaard, Johan Hakon",
+    "Article Title": "Psychosocial Working Conditions and Sickness Absence in a General Population A Cohort Study of 21,834 Workers in Norway (The HUNT Study)",
+    "Abstract": "Objective: To examine the associations between psychosocial working conditions and sickness absence. Methods: Data for 21,834 employed adults from the Nord-Trondelag Health Study (HUNT) were linked to the sickness benefit register and sickness absence during 1 year after survey participation was analyzed with logistic regression. Results: A one unit change on a 0 to 3 self-reported job demand scale was associated with a fully adjusted 24% and 25% increased odds of sickness absence in men and women, respectively. A one unit change on a 0 to 3 scale for self-reported support at work was associated with a fully adjusted 13% and 17% reduced odds of sickness absence in men and women, respectively. Conclusions: The results of this study indicate that demands, and to some extent support, at work might influence sickness absence-also when adjusting for a detailed categorization of occupations.",
+    "DOI": "10.1097/JOM.0000000000000362",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It examines the associations between psychosocial working conditions and sickness absence in a general population.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosocial working conditions and sickness absence, not directly on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the geographic scope is outside the specified regions (Norway).",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 539,
+    "Authors": "Gayed, Aimee; Bryan, Bridget T.; Petrie, Katherine; Deady, Mark; Milner, Allison; LaMontagne, Anthony D.; Calvo, Rafael A.; Mackinnon, Andrew; Christensen, Helen; Mykletun, Arnstein; Glozier, Nicholas; Harvey, Samuel B.",
+    "Article Title": "A protocol for the HeadCoach trial: the development and evaluation of an online mental health training program for workplace managers",
+    "Abstract": "Background: Within high income countries, mental health is now the leading cause of long term sickness absence in the workplace. Managers are in a position to make changes and decisions that have a positive effect on the wellbeing of staff, the recovery of employees with mental ill health, and potentially prevent future mental health problems. However, managers report addressing workplace mental health issues as challenging. The aim of the HeadCoach trial is to evaluate the effectiveness of a newly developed online training intervention to determine whether it is able to build managers' confidence to better support individuals within their teams who are experiencing mental ill health, and the confidence to promote manager behaviour likely to result in a more mentally healthy workplace.Methods/Design: We will conduct a cluster randomised control trial (RCT) to evaluate the effect of HeadCoach, an online training intervention for managers with a focus on the mental health of their employees, compared to a waitlist control. The target sample is 168 managers, and their direct employees. Managers and employees will be assessed at baseline and at 4-month follow up. Managers will have an additional, intermediate assessment 6-weeks post-baseline. The primary outcome is change from baseline in managers' self-reported confidence when dealing with mental health issues within their team and promoting a mentally healthy workplace. The difference between the intervention and waitlist control groups will be assessed using linear mixed effects repeated measures (MMRM) analysis of variance (ANOVA). Secondary managerial outcomes include mental health literacy, attitudes towards mental health issues in the workplace and managerial behaviour in dealing with mental health matters with their staff. Employee outcomes will be perceived level of manager support, engagement, psychological distress, and rates of sickness absence and presenteeism.Discussion: To our knowledge this will be the first RCT of a purely online training intervention developed specifically for managers that promotes confidence to both support staff experiencing mental ill health and create a mentally healthy work environment. If successful, this intervention has the potential to provide an effective and efficient method of training managers in workplace mental health and to enhance employee wellbeing.",
+    "DOI": "10.1186/s12888-018-1603-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster randomised control trial (RCT), but it does not meet the inclusion criteria for intervention as it focuses on training managers, not job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cluster Randomised Control Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster randomised control trial (RCT) but the primary outcome focuses on managers' confidence and attitudes towards mental health issues rather than employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. The intervention aims to improve managerial behavior in dealing with mental health matters within their teams, which does not directly address the objective of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on managerial training for mental health in the workplace, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Cluster randomised control trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

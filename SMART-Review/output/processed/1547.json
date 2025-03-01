@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1547,
+    "Authors": "Grimmond, Tessa; King, Tania; LaMontagne, Anthony D.; Oostermeijer, Sanne; Harrap, Benjamin; Newberry-Dupe, Jackson; Reavley, Nicola",
+    "Article Title": "Workplace-related determinants of mental health in food and bar workers in Western, high-income countries: A systematic review",
+    "Abstract": "Background: This review synthesizes evidence from etiologic and intervention studies of workplace-related determinants of mental health in workers in food and bar workers in the hospitality industry in Western high-income countries. Methods: Peer-reviewed literature published between January 2000 and August 2023 was gathered from five bibliographic databases. Any study design was eligible. Study quality was assessed using the Joanna Briggs Institute tools for appraisal. Results: A narrative analysis was conducted for 26 included studies (total n = 15,069 participants) across Australia (3), Ireland (1), Norway (1), Spain (2), the United States (17) and the United Kingdom (2). Individual and task-related factors such as high emotional job demands and low job control were associated with high burnout and depression. Uncivil and hostile interpersonal interactions with customers, management, and colleagues were found to contribute to poor mental health outcomes, including depression, anxiety, and burnout. Conclusion: Findings from included studies highlight the impact of workplace culture, including management practices and workplace social support, on mental health. Organization-level interventions may therefore be most effective for addressing individual, interpersonal, and organizational determinants of mental health in food and bar occupations, particularly when implemented as part of broader organizational efforts to support health and wellbeing. Industry-wide policy changes may also be necessary to address structural concerns, including job and financial insecurity, job strain and access to benefits, such as secure sick leave and minimum contract hours.",
+    "DOI": "10.1002/ajim.23620",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study includes data from EU countries (Australia, Ireland, Norway, Spain, and the United Kingdom), within the specified timeframe (2005-2023). The intervention is related to workplace culture and management practices, which is relevant to employment policies for people with mental health disorders. The population is people with mental health problems, and the outcomes include employment or labor outcomes such as burnout, depression, and anxiety.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on workplace-related determinants of mental health in food and bar workers.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the hospitality industry in Western high-income countries and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

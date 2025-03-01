@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1338,
+    "Authors": "Gentry, Tony; Kriner, Richard; Sima, Adam; McDonough, Jennifer; Wehman, Paul",
+    "Article Title": "Reducing the Need for Personal Supports Among Workers with Autism Using an iPod Touch as an Assistive Technology: Delayed Randomized Control Trial",
+    "Abstract": "Personal digital assistants (PDAs) are versatile task organizers that hold promise as assistive technologies for people with cognitive-behavioral challenges. This delayed randomized controlled trial compared two groups of adult workers with autism spectrum disorder (ASD) to determine whether the use of an Apple iPod Touch PDA as a vocational support improves work performance and reduces personal support needs on the job. Baseline data were collected on 50 adults with ASD who were beginning a vocational placement supported by a job coach. Participants were randomized to receive training in the use of a PDA as a vocational aid upon starting their job or after working 12 weeks without PDA support. Workers who received PDA training at the beginning of their job placement required significantly less hours of job coaching support (p = 0.013) during their first 12 weeks on the job than those who had not yet received the intervention. Functional performance between the two groups was not significantly different. The significant difference in hours of job coaching support persisted during the subsequent 12 weeks, in which both groups used a PDA (p = 0.017).",
+    "DOI": "10.1007/s10803-014-2221-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The article discusses job coaching support and vocational aid, which does not directly address employment.",
+            "study_design": "Delayed Randomized Control Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental disorders; instead, it focuses on workers with autism spectrum disorder and the use of an iPod Touch as a vocational support tool.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on adult workers with autism spectrum disorder (ASD) and not specifically on people with mental health disorders. Additionally, the intervention described is not directly related to employment but rather to job performance and personal support needs.",
+            "study_design": "Delayed randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on job coaching support for adults with ASD, which falls under mental health disorders. It includes employment outcomes such as job performance and support needs.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

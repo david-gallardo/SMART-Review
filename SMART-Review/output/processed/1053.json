@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1053,
+    "Authors": "Bhalla, Ish P.; Stefanovics, Elina A.; Rosenheck, Robert A.",
+    "Article Title": "Social determinants of mental health care systems: intensive community based Care in the Veterans Health Administration",
+    "Abstract": "Background: Since deinstitutionalization in the 1950s-1970s, public mental health care has changed its focus from asylums to general hospitals, outpatient clinics and specialized community-based programs addressing both clinical and social determinants of mental health. Analysis of the place of community-based programs within a comprehensive health system such as the Veterans Health Administration (VHA) may illuminate the role of social forces in shaping contemporary public mental health systems.Methods: National VHA administrative data were used to compare veterans who exclusively received outpatient clinic care to those receiving four types of specialized community-based services, addressing: 1) functional disabilities from severe mental illness (SMI), 2) justice system involvement, 3) homelessness, and 4) vocational rehabilitation. Bivariate comparisons and multinomial logistic regression analyses compared groups on demographics, diagnoses, service use, and psychiatric prescription fills.Results: An hierarchical classification of 1,386,487 Veterans who received specialty mental health services from VHA in Fiscal Year 2012, showed 1,134,977 (81.8%) were seen exclusively in outpatient clinics; 27,931 (2.0%) received intensive SMI-related services; 42,985 (3.1%) criminal justice services; 160,273 (11.6%) specialized homelessness services; and 20,921 (1.5%) vocational services. Compared to those seen only in clinics, veterans in the four community treatment groups were more likely to be black, diagnosed with HIV and hepatitis, had more numerous substance use diagnoses and made far more extensive use of mental health outpatient and inpatient care.Conclusions: Almost one-fifth of VHA mental health patients receive community-based services prominently addressing major social determinants of health and multimorbid substance use disorders.",
+    "DOI": "10.1186/s12889-020-09402-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a descriptive study using national VHA administrative data.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on community-based care for veterans with mental health issues and their social determinants.",
+            "study_design": "Descriptive analysis using national VHA administrative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational study using administrative data",
+            "logprobs": null
+        }
+    }
+}

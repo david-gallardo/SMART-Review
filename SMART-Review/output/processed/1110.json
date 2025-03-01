@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1110,
+    "Authors": "Vinogradov, Sophia; Chafee, Matthew V.; Lee, Erik; Morishita, Hirofumi",
+    "Article Title": "Psychosis spectrum illnesses as disorders of prefrontal critical period plasticity",
+    "Abstract": "Emerging research on neuroplasticity processes in psychosis spectrum illnesses-from the synaptic to the macrocircuit levels-fill key gaps in our models of pathophysiology and open up important treatment considerations. In this selective narrative review, we focus on three themes, emphasizing alterations in spike-timing dependent and Hebbian plasticity that occur during adolescence, the critical period for prefrontal system development: (1) Experience-dependent dysplasticity in psychosis emerges from activity decorrelation within neuronal ensembles. (2) Plasticity processes operate bidirectionally: deleterious environmental and experiential inputs shape microcircuits. (3) Dysregulated plasticity processes interact across levels of scale and time and include compensatory mechanisms that have pathogenic importance. We present evidence that-given the centrality of progressive dysplastic changes, especially in prefrontal cortex-pharmacologic or neuromodulatory interventions will need to be supplemented by corrective learning experiences for the brain if we are to help people living with these illnesses to fully thrive.",
+    "DOI": "10.1038/s41386-022-01451-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a narrative review, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Narrative Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a selective narrative review and lacks a rigorous evaluation or control group. It does not directly address employment interventions or outcomes.",
+            "study_design": "Selective narrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on neuroplasticity in psychosis spectrum illnesses and does not meet the specified inclusion criteria for interventions related to employment policies for people with mental health disorders.",
+            "study_design": "Selective narrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        }
+    }
+}

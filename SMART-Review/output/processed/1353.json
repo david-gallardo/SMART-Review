@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1353,
+    "Authors": "de Vries, Gabe; Hees, Hiske L.; Koeter, Maarten W. J.; Lagerveld, Suzanne E.; Schene, Aart H.",
+    "Article Title": "Perceived Impeding Factors for Return-to-Work after Long-Term Sickness Absence Due to Major Depressive Disorder: A Concept Mapping Approach",
+    "Abstract": "Objective: The purpose of the present study was to explore various stakeholder perspectives regarding factors that impede return-to-work (RTW) after long-term sickness absence related to major depressive disorder (MDD).Methods: Concept mapping was used to explore employees', supervisors' and occupational physicians' perspectives on these impeding factors.Results: Nine perceived themes, grouped in three meta-clusters were found that might impede RTW: Person, (personality / coping problems, symptoms of depression and comorbid (health) problems, employee feels misunderstood, and resuming work too soon), Work (troublesome work situation, too little support at work, and too little guidance at work) and Healthcare (insufficient mental healthcare and insufficient care from occupational physician). All stakeholders regarded personality/coping problems and symptoms of depression as the most important impeding theme. In addition, supervisors emphasized the importance of mental healthcare underestimating the importance of the work environment, while occupational physicians stressed the importance of the lack of safety and support in the work environment.Conclusions: In addition to the reduction of symptoms, more attention is needed on coping with depressive symptoms and personality problems in the work environment support in the work environment and for RTW in mental healthcare, to prevent long term sickness absence.",
+    "DOI": "10.1371/journal.pone.0085038",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a concept mapping approach, which is not a rigorous evaluation or a control group.",
+            "study_design": "Concept mapping approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on perceived impeding factors for return-to-work related to major depressive disorder using a concept mapping approach.",
+            "study_design": "Concept mapping",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Concept mapping",
+            "logprobs": null
+        }
+    }
+}

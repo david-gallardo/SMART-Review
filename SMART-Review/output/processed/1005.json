@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1005,
+    "Authors": "Leitao, Sara; Mc Carthy, Vera J. C.; Greiner, Birgit A.",
+    "Article Title": "Health and safety practitioners' health and wellbeing - The link with safety climate and job demand-control-support",
+    "Abstract": "Background/Aims: Health and Safety Practitioners (HSPs), as frontline professionals advocating for health and safety (HS) working conditions, have crucial roles for the wellbeing of employees. However, research studying HSPs psychosocial working conditions - i.e. job demands, control and support (JDCS) -, safety climate (SC) and their impact on HSPs health and wellbeing is scarce. This novel study aims to examine the link of JDCS and SC with HSPs' health, wellbeing and efficacy.Methods: A web-survey was completed by 879 HSPs, members of the Institution of Occupational Safety and Health (IOSH) in Ireland and the UK. Multiple linear regression analysis was used to determine the association between JDCS, SC and general health (GHQ12), mental wellbeing (WEMWBS) and efficacy.Results: After adjusting for age, gender and years of experience, job demands were significantly associated with HSPs health (beta = 0.40; p = 0.00) and mental wellbeing (beta= -0.29; p = 0.00). Positive significant independent associations were also found between job control, support, SC and HSPs health, mental-wellbeing as well as efficacy. In a final model, all psychosocial working conditions and SC were significantly associated with health and mental-wellbeing of HSPs.Conclusion: This study showed that psychosocial working conditions and SC can affect HSPs health and wellbeing - associations rarely previously recorded. The link of safety climate with HSPs efficacy, with contribution of job control and support, reveals possible further impacts of SC on safety performance. The findings highlight the importance of HSPs working conditions while reflecting on the wider impact on OHS in organisations, its workforce and stakeholders.",
+    "DOI": "10.1016/j.aap.2018.06.017",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a web-survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "web-survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the psychosocial working conditions and safety climate of Health and Safety Practitioners.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "web-survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. The population is Health and Safety Practitioners (HSPs), not individuals with mental health problems.",
+            "study_design": "Cross-sectional survey with multiple linear regression analysis",
+            "logprobs": null
+        }
+    }
+}

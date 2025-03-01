@@ -1,0 +1,33 @@
+{
+    "ArticleID": 600,
+    "Authors": "Engdahl, Patrik; Svedberg, Petra; Lexen, Annika; Tj\u00f6rnstrand, Carina; Strid, Catharina; Bejerholm, Ulrika",
+    "Article Title": "Co-design Process of a Digital Return-to-Work Solution for People With Common Mental Disorders: Stakeholder Perception Study",
+    "Abstract": "Background: Service users and other stakeholders have had few opportunities to influence the design of their mental health and return-to-work services. Likewise, digital solutions often fail to align with stakeholders' needs and preferences, negatively impacting their utility. mWorks is a co-design initiative to create a digital return-to-work solution for persons with common mental disorders that is acceptable and engaging for those receiving and delivering the intervention.Objective: This study aimed to describe stakeholder perceptions and the involvement of a design process during the prototype development of mWorks.Methods: A co-design approach was used during the iterative development of mWorks. Overall, 86 stakeholders were recruited using a combination of purposeful and convenience sampling. Five stakeholder groups represented service users with experience of sick leave and common mental disorders (n=25), return-to-work professionals (n=19), employers (n=1), digital design and system developers (n=4), and members of the public (n=37). Multiple data sources were gathered using 7 iterations, from March 2018 to November 2020. The rich material was organized and analyzed using content analysis to generate themes and categories that represented this study's findings.Results: The themes revealed the importance of mWorks in empowering service users with a personal digital support solution that engages them back in work. The categories highlighted that mWorks needs to be a self-management tool that enables service users to self-manage as a supplement to traditional return-to-work services. It was also important that content features helped to reshape a positive self-narrative, with a focus on service users' strengths and resources to break the downward spiral of ill health during sick leave. Additional crucial features included helping service users mobilize their own strategies to cope with thoughts and feelings and formulate goals and a plan for their work return. Once testing of the alpha and beta prototypes began, user engagement became the main focus for greater usability. It is critical to facilitate the comprehension and purpose of mWorks, offer clear guidance, and enhance motivational and goal-setting strategies.Conclusions: Stakeholders' experience-based knowledge asserted that mWorks needs to empower service users by providing them with a personal support tool. To enhance return-to-work prospects, users must be engaged in a meaningful manner while focusing on their strengths and resources.",
+    "DOI": "10.2196/39422",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a stakeholder perception study, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Stakeholder perception study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is a stakeholder perception study using co-design approach.",
+            "study_design": "Stakeholder Perception Study Using Co-Design Approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly addressing employment or labor outcomes, which is a key inclusion criterion.",
+            "study_design": "Co-design process study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Co-design approach with qualitative analysis",
+            "logprobs": null
+        }
+    }
+}

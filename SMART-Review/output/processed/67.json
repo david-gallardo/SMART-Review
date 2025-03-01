@@ -1,0 +1,33 @@
+{
+    "ArticleID": 67,
+    "Authors": "Gaddy, Sarah; Gallardo, Ressa; McCluskey, Shelley; Moore, Leanna; Peuser, Alex; Rotert, Rachel; Stypulkoski, Corinne; LaGasse, A. Blythe",
+    "Article Title": "COVID-19 and Music Therapists' Employment, Service Delivery, Perceived Stress, and Hope: A Descriptive Study",
+    "Abstract": "In early 2020, the COVID-19 pandemic was declared, which impacted music therapists in terms of employment, service delivery, and mental health. However, the extent of changes within the profession was unknown. The purpose of this study was to determine the impact of the pandemic on the employment, service delivery, stress, and hope of music therapy professionals in the United States. Music therapists (N = 1,196) responded to a 51-item survey including questions related to employment and service delivery. The study also included the Adult Hope Scale and the Perceived Stress Scale-10 (PSS-10). Results indicated that many music therapists experienced changes in their positions, including a decrease in client contact hours and an increase in using alternative services, such as telehealth. Changes in service hours and delivery were higher for individuals who worked in private practice than for other settings. Primary respondent concerns included being a carrier of COVID-19, being isolated from loved ones, and income loss. Compared with prior general population samples from the United States, respondents reported higher levels of hope, with a majority of respondents also reporting a high level of hope for the profession. Respondents also indicated a moderate level of perceived stress on the PSS-10. Open response comments provided additional insights into the situational stressors and feelings of hope at this time in the pandemic. The results of this study indicate that music therapists adapted to service delivery changes and continued to provide services to clients, despite the many difficulties faced during the pandemic.",
+    "DOI": "10.1093/mtp/miaa018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and only includes employment outcomes for music therapists, not people with mental health disorders.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is descriptive (survey) and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention, population, or outcomes.",
+            "study_design": "Descriptive Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on music therapists' employment and service delivery during the COVID-19 pandemic, which is not directly related to active employment policies for people with mental health disorders. The study also does not include a control group or intervention, and it is not a systematic review or meta-analysis.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is descriptive and lacks a control group.",
+            "study_design": "Descriptive Study",
+            "logprobs": null
+        }
+    }
+}

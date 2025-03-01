@@ -1,0 +1,33 @@
+{
+    "ArticleID": 531,
+    "Authors": "Framke, Elisabeth; Sorensen, Ole Henning; Pedersen, Jacob; Rugulies, Reiner",
+    "Article Title": "Effect of a participatory organizational-level occupational health intervention on job satisfaction, exhaustion and sleep disturbances: results of a cluster randomized controlled trial",
+    "Abstract": "Background: We examined whether the implementation of a participatory organizational-level intervention aiming to improve the working environment with a focus on the core task at work, increased job satisfaction and reduced exhaustion and sleep disturbances among pre-school employees.Methods: The study sample consisted of 41 intervention group pre-schools with 423 employees and 30 control group pre-schools with 241 employees. The intervention lasted 25 months and consisted of seminars, workshops, and workplace specific intervention activities that were developed by focusing on the core task at work. We analyzed within-group changes in the three outcome variables from baseline to follow-up with t-tests for paired samples, separately for intervention and control group. Between-group differences in changes in the three outcome variables were analyzed using a mixed model with a repeated statement to account for the clustering effect of workplaces.Results: Within-group analyses showed that exhaustion decreased statistically significantly in both the intervention and the control group. There were no statistically significantly changes in job satisfaction and sleep disturbances. Between-group analyses showed that there was no statistically significant difference between the two groups for changes in any of the outcome variables, neither in the unadjusted or in the adjusted analyses.Conclusions: We found no evidence that participating in an organizational-level occupational health intervention aiming to improve the working environment with a focus on the core task at work has an effect on pre-school employees' job satisfaction, exhaustion and sleep disturbances.",
+    "DOI": "10.1186/s12889-016-3871-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster randomized controlled trial, but it lacks a control group for the intervention.",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on improving the working environment and addressing job satisfaction, exhaustion, and sleep disturbances.",
+            "study_design": "Cluster randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on pre-school employees, which is not specified in the inclusion criteria. Additionally, the intervention described is not directly related to employment but rather to job satisfaction, exhaustion, and sleep disturbances.",
+            "study_design": "Cluster randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The outcomes do not include measures of employment or labor results.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        }
+    }
+}

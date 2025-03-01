@@ -1,0 +1,33 @@
+{
+    "ArticleID": 383,
+    "Authors": "Muschalla, Beate",
+    "Article Title": "Work-Anxiety Rather Than Cognitive Performance Contributes to Workability Decisions in Patients With Mental Disorders",
+    "Abstract": "Background: Mental workability decisions must be based on information on person's symptom load, cognitive performance, and workplace conditions. This investigation explores in which way these factors contribute to workability in persons with common mental disorders (CMDs). Methods: One thousand five hundred seventy CMD-patients underwent multimodal medical diagnostic. Participants filled in questionnaires on work-phobic-anxiety and general mental symptom load. They were also investigated concerning their cognitive performance. Sick leave duration, workplace problems, and subjective workability were assessed. Physicians' decision on the persons' workability (fit or unfit for work) was given 5 weeks later. Results: Negative workability perception, long previous sick leave duration, and high work phobic anxiety explained unfitness for work, whereas general symptom load and general cognitive performance did not. Conclusion: Work-directed diagnostics and interventions must address work-phobic anxiety and subjective workability perception.",
+    "DOI": "10.1097/JOM.0000000000001432",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes or interventions related to active employment policies for people with mental health disorders. It focuses on workability decisions and the factors contributing to them.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work-anxiety and general mental symptom load in relation to workability decisions, not directly on employment outcomes or interventions.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

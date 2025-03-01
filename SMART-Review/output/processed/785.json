@@ -1,0 +1,33 @@
+{
+    "ArticleID": 785,
+    "Authors": "Niedhammer, Isabelle; Coindre, Kylian; Memmi, Sarah; Bertrais, Sandrine; Chastang, Jean-Francois",
+    "Article Title": "Working conditions and depression in the French national working population: Results from the SUMER study",
+    "Abstract": "Objectives: The objectives were to explore the associations between various types of occupational exposures and depression in the French national working population, most of the studies in the literature focussing on a limited number of exposures and on symptom scales.Methods: The study was based on a nationally representative sample of 25 977 employees, 14 682 men and 11 295 women. Depression was measured using the PHQ-9 instrument and algorithm. Occupational exposures included factors related to both the psychosocial and physical work environment. Weighted logistic regression analyses were performed to study the associations between exposures and outcome with adjustment for covariates among men and women separately.Results: The prevalence of depression was higher for women than for men (5.70% versus 3.78%). The final models showed that low decision latitude, low reward, bullying, work-family and ethical conflicts for both genders, and high psychological demands, low social support, and long working hours among women were risk factors for depression. No occupational exposure of physical, biomechanical, chemical and biological nature was associated with depression. Sensitivity analyses confirmed the robustness of the results.Conclusions: Significant associations were found between psychosocial work exposures and depression, and there were some differences in these associations between genders. This study is one of the first to provide a comprehensive overview of occupational exposures in association with depression. More prevention towards the psychosocial work environment is needed to improve mental health of working populations.",
+    "DOI": "10.1016/j.jpsychires.2020.01.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a nationally representative sample with weighted logistic regression analyses, and it includes employment or labor outcomes such as depression rates and risk factors.",
+            "study_design": "Weighted logistic regression analyses with a nationally representative sample",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It is a cross-sectional study examining the association between occupational exposures and depression in the French working population.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

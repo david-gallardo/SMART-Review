@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1311,
+    "Authors": "Junaid, Sana; Mutschler, Christina; McShane, Kelly",
+    "Article Title": "The Impact of COVID-19 on Clubhouse Employment Programs",
+    "Abstract": "The Clubhouse model of psychosocial rehabilitation provides several employment opportunities to individuals who experience mental health concerns, including transitional, supported, and independent employment. The COVID-19 pandemic resulted in Clubhouses having to adapt existing programs to online formats. Employment programs were further impacted, as many workplaces in the community closed or reduced capacity. The present study aimed to examine the rates of involvement in transitional, supported, and independent employment across six Clubhouses in Canada throughout the pandemic. 462 members completed surveys at five time points pertaining to participation in Clubhouse employment programs. The data was analyzed using Cochran's Q tests to determine differences in employment rates across time points. The results demonstrated an overall decrease in transitional and supported employment rates throughout the pandemic. Conversely, rates of independent employment were unchanged. It is evident that Clubhouse employment programs assist members in obtaining employment. The results suggest Clubhouses may benefit from exploring novel employment opportunities to support their members, such as remote work.",
+    "DOI": "10.1007/s10597-022-01036-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Canada, within the specified timeframe of 2005-2025, and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically addressing employment policies) and population (documenting mental health problems). The outcomes focus on participation rates rather than employment or labor results.",
+            "study_design": "Cross-sectional survey with repeated measures",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria. It also does not include a control group, which is a requirement for the study design.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group (pre- and post-pandemic comparison), focuses on supported employment in Canada within the specified timeframe, and includes employment rates as an outcome.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

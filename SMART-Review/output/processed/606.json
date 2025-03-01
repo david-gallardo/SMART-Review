@@ -1,0 +1,33 @@
+{
+    "ArticleID": 606,
+    "Authors": "Sauter, Cornelia; Kowalski, Jens T.; Stein, Michael; Roettger, Stefan; Danker-Hopfe, Heidi",
+    "Article Title": "Effects of a Workplace-Based Sleep Health Program on Sleep in Members of the German Armed Forces",
+    "Abstract": "Study Objectives: To develop and evaluate a brief manual-based sleep health program within the workplace health promotion of the German Armed Forces.Methods: The sleep health program comprised four weekly group sessions. Sixty-three members (48 males) were randomly allocated to either a treatment group or a waiting control group matching for age, sex, and baseline Pittsburgh Sleep Quality Index (PSQI). The control group had to wait before participating in the sleep health program until the treatment group finished the intervention. Sleep was assessed by ambulatory polysomnography (PSG) as well as with evening and morning protocols at baseline (t0), directly after the treatment group participated in the sleep health program (t1), and after the control group finished participation (t2). The PSQI, the Insomnia Severity Index (ISI), and the Epworth Sleepiness Scale (ESS) were applied at the same three time points, and during a 3-month follow-up evaluation (t3).Results: Fifty-seven out of the 63 randomized individuals (42 males, mean age = 40.6 years; complete PSG data: n = 36; complete questionnaire data: n = 39) participated in the sleep health program. Objective wake after sleep onset, sleep efficiency, latency to persistent sleep, self-reported sleep latency, restfulness, PSQI, and ISI scores improved with medium or large effects in both groups. ESS scores decreased with moderate effects in the treatment group only.Conclusions: The sleep health program had a positive and stable effect on objective and self-reported sleep parameters, and it is suitable as a preventive measure in members of the German Armed Forces.",
+    "DOI": "10.5664/jcsm.7666",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, but rather focuses on sleep health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on sleep health within the workplace. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental with a waiting list control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

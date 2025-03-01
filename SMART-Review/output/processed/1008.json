@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1008,
+    "Authors": "Reibis, Rona; Salzwedel, Annett; Falk, Johannes; Voller, Heinz",
+    "Article Title": "Return to Work after Acute Myocardial Infarction",
+    "Abstract": "Vocational reintegration provides a key goal for patients after myocardial infarction both from social as well as from individual perspective. Return to work rate is determined by medical parameters such as left ventricular function, residual ischemia and rhythm stability, as well as by occupational requirement profile such as the blue or white collar work, night shifts and the way capacity. Psycho-social factors including depression, self-assessment of their own situation and pre-existing cognitive impairment to a large extent determine the reintegration. Optimally, re-employment should be performed immediately after cardiac rehabilitation in patient after uncomplicated myocardial infarction. After a long hospitalization phase a stepwise inclusion is recommended. In failed reintegration particularly in younger workers retraining should be considered.",
+    "DOI": "10.1055/s-0042-124425",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders. It focuses on vocational reintegration after myocardial infarction.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

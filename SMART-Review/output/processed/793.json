@@ -1,0 +1,33 @@
+{
+    "ArticleID": 793,
+    "Authors": "Vergunst, Francis; Tremblay, Richard E.; Vitaro, Frank; Nagin, Daniel; Park, Jungwee; Algan, Yann; Beasley, Elizabeth; Cote, Sylvana M.",
+    "Article Title": "Behaviors in kindergarten are associated with trajectories of long-term welfare receipt: A 30-year population-based study",
+    "Abstract": "This study examines the link between behavior in kindergarten and adult-life welfare receipt. Teacher-rated behavioral assessments were obtained for inattention, hyperactivity, aggression-opposition, anxiety, and prosociality when children (n=2960) were aged 5-6 years and linked to their tax return records from age 18-35 years. We used group-based based trajectory modeling to identify distinct trajectories of welfare receipt and multinomial logistic regression models to examine the association between behaviors and trajectory group membership. The child's sex, IQ, and family background were adjusted for. Four trajectories of welfare receipt were identified: low (n = 2,390, 80.7%), declining (n = 260, 8.8%), rising (n = 150, 5.2%), and chronic (n = 160, 5.4%). Relative to the low trajectory, inattention and aggression-opposition at age 6 years were associated with increased risk of following a declining, rising, and chronic trajectory of welfare receipt, independent of hyperactivity and anxiety. Prosocial behaviors were independently associated with a lower risk of following a chronic trajectory. This study shows that kindergarten children exhibiting high inattention and aggression-opposition and low prosocial behaviors may be at increased risk of long-term welfare receipt in adulthood. The implications for early screening, monitoring, and prevention are discussed.",
+    "DOI": "10.1017/S095457942100047X",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines the link between kindergarten behavior and adult-life welfare receipt.",
+            "study_design": "Population-based study with group-based trajectory modeling and multinomial logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the association between kindergarten behaviors and long-term welfare receipt.",
+            "study_design": "Observational study using group-based trajectory modeling and multinomial logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on welfare receipt and not employment outcomes. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "unknown",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not focus on people with mental health disorders.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

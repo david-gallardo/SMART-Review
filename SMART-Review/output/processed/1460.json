@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1460,
+    "Authors": "Norman, Christina C.; McDonald, Kate; Schneider, Amanda E.; Malinovsky, Igor; Goldmann, Emily; Blauschild, Michael K.; Driver, Cynthia",
+    "Article Title": "The New York City Mental Health Needs Assessment Study (MHNAS): Objectives, design, and methods",
+    "Abstract": "ObjectivesThis paper describes the objectives, design, and methods of the Mental Health Needs Assessment Study (MHNAS). The objective of the MHNAS was to assess the needs of individuals transitioning to the community following psychiatric hospitalization and again 3-5months later to inform community service planning. Needs were defined broadly to include domains like housing, employment, treatment, and social support.MethodsThe MHNAS used a 2-stage clustered sampling approach where the primary sampling units were hospitals and secondary sampling units were patients. The study included an in-person patient interview, an assessment of need from a key hospital worker, and a follow-up telephone interview 3-5months after discharge.ResultsOne thousand one hundred twenty-nine patients from 8 randomly selected hospitals participated. The overall response rate was 54.3% with a cooperation rate of 71.8%. The sample was similar to the overall population of psychiatric patients with respect to several key demographics.ConclusionThe MHNAS demonstrates the feasibility of conducting a needs assessment with a random sample of psychiatric inpatients in a large urban setting. Results from this study may improve community service planning to better meet individuals' needs, with the ultimate goal of reducing rehospitalization and promoting recovery.",
+    "DOI": "10.1002/mpr.1606",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly related to employment for people with mental health disorders. It focuses on assessing needs following psychiatric hospitalization and improving community service planning.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and does not evaluate an employment intervention.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

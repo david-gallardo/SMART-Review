@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1305,
+    "Authors": "Fioritti, Angelo; D'Alema, Marco; Barone, Raffaele; Bruschetta, Simone",
+    "Article Title": "Social Enterprises, Vocational Rehabilitation, Supported Employment Working on Work in Italy",
+    "Abstract": "Since Basaglia's pioneering work in the 1960s, programs geared to employment have been considered hallmarks of good practice in Italian community psychiatry. These programs mostly include train and place'' schemes: sheltered workshops, training placements and temporary grants with public/private employers, and social enterprises (cooperatives). Law 68/1982 on disability and work demanded a quota of workplaces'' to be reserved for citizens with disability by public and private employers, but application to the psychiatric field proved problematic. Despite large investments, outcomes in terms of competitive employment have decreased over the decades, and now, less than 10% of all attenders of these programs attain the open labor market. More recently, some place and support'' programs have been tried with promising results. Individual Placement and Support is practiced in one third of mental health centers in the Emilia-Romagna Region and in pilot programs in three more regions. It is difficult to forecast how the rapid changes brought by the current financial crisis will impact on Italy, but very likely, supported employment programs will find more space in Italian mental health services.",
+    "DOI": "10.1097/NMD.0000000000000150",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design lacks a rigorous evaluation or no control group. The article does not specify the study design, and it appears to be a narrative review rather than a systematic review or a study with a control group.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The article is an abstract discussing programs and policies without presenting empirical data from controlled trials or meta-analyses.",
+            "study_design": "Abstract",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which are required inclusion criteria. The study is also not published within the specified timeframe of 2005-2025.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and lacks a rigorous evaluation or control group.",
+            "study_design": "Not Specified",
+            "logprobs": null
+        }
+    }
+}

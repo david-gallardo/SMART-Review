@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1367,
+    "Authors": "Moncho, Joaquin; Pereyra-Zamora, Pamela; Tamayo-Fonseca, Nayara; Giron, Manuel; Gomez-Beneyto, Manuel; Nolasco, Andreu",
+    "Article Title": "Is recession bad for your mental health? The answer could be complex: evidence from the 2008 crisis in Spain",
+    "Abstract": "Background: We explored the impact of 2008 recession on the prevalence of mental health problems in Spain.Methods: Repeated cross-sectional survey design. Datasets from 2006 and 2011 were used, and temporal change was examined. The study was conducted on the economically active population (16-64 years old). The two surveys included 29,478 and 21,007 people, obtaining a 96 and 89.6% response rate, respectively. Multiple logistic regression models were adjusted to identify poor mental health risk factors. A standardisation analysis was performed to estimate the prevalence of people at risk of poor mental health (GHQ+).Results: The prevalence of GHQ+ following the crisis increased in men and decreased in women. Two logistic regression analyses identified GHQ+ risk factors. From 2006 to 2011, unemployment rose and income fell for both men and women, and there was a decline in the prevalence of somatic illness and limitations, factors associated with a higher prevalence of GHQ+. After controlling for age, the change in employment and income among men prompted an increase in the prevalence of GHQ+, while the change in somatic illness and limitations tended to mitigate this effect. After the recession, unemployed men showed a better level of somatic health. The same effects were not detected in women.Conclusions: The economic recession exerted a complex effect on mental health problems in men. The reduction of prevalence in women was not associated with changes in socioeconomic factors related to the economic crisis nor with changes in somatic health.",
+    "DOI": "10.1186/s12874-018-0538-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a repeated cross-sectional survey design, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Repeated cross-sectional survey design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCTs, quasi-experimental studies with control groups) and its intervention does not directly address employment policies. The focus is on the impact of economic recession on mental health without addressing interventions aimed at improving employment for people with mental disorders.",
+            "study_design": "Repeated cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of economic recession on mental health in Spain and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Repeated cross-sectional survey design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Repeated cross-sectional survey design",
+            "logprobs": null
+        }
+    }
+}

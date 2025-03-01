@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1427,
+    "Authors": "Bartelink, Vicky H. M.; Ya, Kyaw Zay; Guldbrandsson, Karin; Bremberg, Sven",
+    "Article Title": "Unemployment among young people and mental health: A systematic review",
+    "Abstract": "Aim: The aim of this systematic review is to obtain a better understanding of the association between unemployment among young people and mental health. Methods: After screening the title and abstract of 794 articles drawn from four electronic databases, 52 articles remained for full-text reading. Of these, 20 studies met the inclusion criteria and were assessed on methodological quality. All steps were performed independently by two reviewers. Finally, a total of 17 articles were included in the systematic review. Results: Analysis of cross-sectional studies (N = 5) showed an association between unemployment among young people and mental health. An effect of unemployment on mental health was found when considering cohort studies (N = 12) that did not control for confounders (7/7). When controlling for confounders except mental health at baseline, this effect decreased in most studies leading to mixed results, although the majority (6/8) still found an effect. However, when taking mental health at baseline into account as one of the confounders, only a minority of studies (3/8) found a significant effect of unemployment on mental health. Conclusions: This systematic review showed an association between unemployment among young people and mental health. However, whether there is a causal relationship is less clear. More evidence from, for example, natural experiments and longitudinal studies that control for confounding variables, especially mental health at baseline, is required to better understand the association and potential causation between unemployment among young people and mental health.",
+    "DOI": "10.1177/1403494819852847",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders. It focuses on the association between unemployment among young people and mental health without addressing specific employment policies or interventions.",
+            "study_design": "Systematic review of cross-sectional and cohort studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment among young people and its association with mental health, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

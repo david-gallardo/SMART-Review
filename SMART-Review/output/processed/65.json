@@ -1,0 +1,33 @@
+{
+    "ArticleID": 65,
+    "Authors": "Morgenstern, Jon; Levak, Svetlana; Madden, Sean P.; Moon, Khatiya C.; Muench, Frederick; Koroly, Lindsy; Bancroft, Courtney; Grella, Megan; Romano, Robert J.; Katechia, Manavi; Sapra, Manish",
+    "Article Title": "Improving Access and Quality of Behavioral Health Services for Health Care Employees",
+    "Abstract": "Objective: To describe key features and the initial implementation of an employer-sponsored program designed to increase access to quality mental health treatment for employees of a large health care system. Methods: Retrospective data were collected on employer's efforts to develop a programmatic solution to address barriers to accessing quality mental health treatment among its employees and on initial program implementation. Results: Data from the initial cohort (N = 1049) of program participants support the use of low threshold digital tools to enhance access to care, the importance of care navigation and a robust curated provider network in matching employees to appropriate care options, and the value of providing online, evidence-based psychotherapy to facilitate high rates of treatment engagement. Conclusions: Findings can help inform employers about approaches to improve access to quality mental health treatment for their employees.",
+    "DOI": "10.1097/JOM.0000000000003109",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is retrospective data collection, which lacks a control group.",
+            "study_design": "Retrospective data collection",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on improving access to mental health treatment for employees of a healthcare system.",
+            "study_design": "Retrospective data collection",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on health care employees' access to mental health services, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Retrospective data collection",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Retrospective data collection",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 895,
+    "Authors": "Malm, Esther K.; Henrich, Christopher C.",
+    "Article Title": "Longitudinal Relationships Between Parent Factors, Children's Bullying, and Victimization Behaviors",
+    "Abstract": "Longitudinal data from NICHD Study of Early Child Care and Youth Development tested direct, indirect and reciprocal effects of maternal depressive symptoms, stress/support factors on child bullying and peer victimization through mother-child relationship quality at grades 3, 5, 6. Data from 828 mother-child dyads indicated small significant effects of some hypothesized pathways, including a small direct effect of maternal depressive symptoms at grade 3 on peer victimization at grade 5, but not on bullying behaviors. Mother-child relationship quality at grade 5 negatively predicted bullying at grade 6, but not peer victimization. There were small effects of bullying behaviors at grade 5 on decreased mother-child relationship quality at grade 6. Maternal employment at grade 3 predicted decreased bullying behaviors at grade 6 through mother-child relationship quality at grade 5. Findings are relevant for parent inclusive research and approaches to anti-bully intervention strategies and prevention policies.",
+    "DOI": "10.1007/s10578-019-00882-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on the relationships between parent factors, children's bullying, and victimization behaviors.",
+            "study_design": "Longitudinal study with a control group (mother-child dyads)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the longitudinal relationships between parental factors and children's bullying and victimization behaviors.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on children's bullying and victimization behaviors, not employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders. It also does not measure employment outcomes.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

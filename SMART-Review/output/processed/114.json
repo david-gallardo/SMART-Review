@@ -1,0 +1,33 @@
+{
+    "ArticleID": 114,
+    "Authors": "Mellifont, Damian; Smith-Merry, Jennifer; Scanlan, Justin Newton",
+    "Article Title": "Disabling accommodation barriers: A study exploring how to better accommodate government employees with anxiety disorders",
+    "Abstract": "BACKGROUND: Accommodating mental health in the workplace is challenging. Despite policy efforts to encourage the availability of mental health accommodations in the workplace, employees experiencing mental illness are missing out on accommodations that they need.OBJECTIVE: To inform vocational rehabilitation professionals and managers in the public service of best practice accommodations for government employees with anxiety disorders.METHODS: Thematic analysis was applied to data collected from the online Accommodating Government Employees with Anxiety Disorders Survey undertaken by 71 Australian public service employees diagnosed with at least one anxiety disorder.RESULTS: Our research results include theme and sub-theme representations of accommodations received, accommodations reported as missing, accommodations that study participants felt they couldn't request, along with rejected accommodations.CONCLUSION: From the study participants' accounts, three key findings supporting desirable vocational outcomes become apparent. First, that the availability of 'standard' flexible work arrangements, along with personalised accommodations, can assist persons with anxiety disorders (where needed) to reach and retain government positions. Second, the chief barriers reported to making accommodation requests revolve around fears of being stigmatised and penalised. Finally, there is a need for managerial decision-makers to remain open-minded, particularly when assessing requests for accommodations that may break from government norms.",
+    "DOI": "10.3233/WOR-162423",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is thematic analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (thematic analysis) and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention type as it focuses on accommodations rather than direct employment services, training, wage subsidies, or supported employment.",
+            "study_design": "Qualitative research (Thematic Analysis)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on accommodations for government employees with anxiety disorders, not specifically on employment outcomes for people with mental health disorders in general.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Qualitative thematic analysis",
+            "logprobs": null
+        }
+    }
+}

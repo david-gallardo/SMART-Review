@@ -1,0 +1,33 @@
+{
+    "ArticleID": 998,
+    "Authors": "LePage, James P.; Lewis, Avery A.; Crawford, April M.; Washington, Edward L.; Parish-Johnson, Julie A.; Cipher, Daisha J.; Bradshaw, Ledjona D.",
+    "Article Title": "Vocational Rehabilitation for Veterans With Felony Histories and Mental Illness: 12-Month Outcomes",
+    "Abstract": "Lack of employment is an important barrier to successful reintegration encountered by those released from prison with mental illnesses and/or substance use disorders. This study compares 3 different vocational reintegration modalities for a veteran population: (a) basic services; (b) self-study using the About Face Vocational Manual; and (c) the About Face Vocational Program, a standardized group program focused on the About Face Vocational Manual. One-hundred eleven veterans with a history of at least one felony conviction and a mental illness and/or substance use disorder were recruited from a large urban Veterans Affairs (VA) medical center. Veterans were assigned to 1 of the 3 conditions and followed for 12 months. At the end of the 1-year follow-up period, veterans in the group condition had superior competitive and stable employment rates, as well as faster times to employment compared with both the basic and self-study conditions. The self-study condition was generally indistinguishable from the basic services condition. Overall, new employment during the last 6 months of the follow-up period was relatively low. The findings support the use of standardized group vocational reintegration programs such as the About Face Vocational Program. Limitations and implications are discussed.",
+    "DOI": "10.1037/ser0000114",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lack of rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on veterans with felony histories and substance use disorders rather than people with mental health disorders. The population is outside the specified scope.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with felony histories and mental illness or substance use disorders, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the study's intervention is not directly related to employment but rather to vocational rehabilitation, which is not one of the interventions listed in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in one of the specified geographic locations (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

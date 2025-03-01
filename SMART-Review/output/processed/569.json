@@ -1,0 +1,33 @@
+{
+    "ArticleID": 569,
+    "Authors": "Richmond, Melissa K.; Pampel, Fred C.; Wood, Randi C.; Nunes, Ana P.",
+    "Article Title": "The Impact of Employee Assistance Services on Workplace Outcomes: Results of a Prospective, Quasi-Experimental Study",
+    "Abstract": "Employee Assistance Programs (EAPs) are widely used to help employees experiencing personal or work-related difficulties that impact work productivity. However, rigorous research on the effectiveness of programs to improve work-related outcomes is lacking. The current study represents a major advance in EAP research by using a prospective, quasi-experimental design with a large and diverse employee base. Using propensity scores calculated from demographic, social, work-related, and psychological variables collected on baseline surveys, we matched 156 employees receiving EAP to 188 non-EAP employees. Follow-up surveys were collected from 2 to 12 months post-baseline (M = 6.0). At follow-up, EAP employees had significantly greater reductions in absenteeism (b = -.596, p = .001) and presenteeism (b = -.217, p = .038), but not workplace distress (b = -.079, p = .448), than did non-EAP employees. Tests of moderation of baseline alcohol use, depression, anxiety, and productivity indicate that for the most part, the program works equally well for all groups. However, EAP did more to reduce absenteeism for those who began with lower severity of depression and anxiety at baseline. Results provide the scientific rigor needed to demonstrate EAP impact on improved work outcomes. In the first study of its kind, findings confirm the value of EAPs to help employees address personal and work-related concerns that are affecting job performance.",
+    "DOI": "10.1037/ocp0000018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective, quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study also includes employment or labor outcomes such as absenteeism and presenteeism, meeting the inclusion criteria for outcomes.",
+            "study_design": "Prospective, quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on Employee Assistance Programs (EAPs) which do not directly address employment. The study does not specifically target job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not an RCT, systematic review, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "Prospective, quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

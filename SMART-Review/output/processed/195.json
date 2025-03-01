@@ -1,0 +1,33 @@
+{
+    "ArticleID": 195,
+    "Authors": "Richmond, Melissa K.; Pampel, Fred C.; Wood, Randi C.; Nunes, Ana P.",
+    "Article Title": "Impact of Employee Assistance Services on Depression, Anxiety, and Risky Alcohol Use A Quasi-Experimental Study",
+    "Abstract": "Objective: To test the impact of Employee Assistance Programs (EAPs) on reducing employee depression, anxiety, and risky alcohol use, and whether improvements in clinical symptoms lead to improved work outcomes. Methods: The study used a prospective, quasi-experimental design with propensity score matching. Participants (n = 344) came from 20 areas of state government. EAP (n = 156) and non-EAP (n = 188) employees were matched on baseline demographic, psychosocial, and work-related characteristics that differentiate EAP from non-EAP users. Follow-up surveys were collected 2 to 12 months later (M = 6.0). Results: EAP significantly reduced symptoms of depression and anxiety, but not at-risk alcohol use. EAP reductions in depression and anxiety mediated EAP-based reductions in absenteeism and presenteeism. Conclusions: EAPs provide easy-to-access work-based services that are effective at improving employee mental health.",
+    "DOI": "10.1097/JOM.0000000000000744",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is quasi-experimental with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with propensity score matching",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention (Employee Assistance Programs) is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Employee Assistance Programs (EAPs) and their impact on mental health and work outcomes, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

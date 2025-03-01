@@ -1,0 +1,33 @@
+{
+    "ArticleID": 812,
+    "Authors": "Han, Kyu-Man; Lee, Sang Min; Hong, Minha; Kim, Seok-Joo; Sohn, Sunju; Choi, Yun-Kyeung; Hyun, Jinhee; Kim, Heeguk; Lee, Jong-Sun; Lee, So Hee; Lee, Yu-Ri; Paik, Jong-Woo",
+    "Article Title": "COVID-19 Pandemic-Related Job Loss Impacts on Mental Health in South Korea",
+    "Abstract": "Objective The economic hardship brought by the coronavirus disease-2019 (COVID-2019) pandemic has caused mental health problems among people of different socioeconomic status (SES). As social support helps to buffer these problems, we investigated the association between job loss related to COVID-19 and depression, anxiety, and suicidal thoughts; the differences in the effects according to SES; and the mediating effects of social support. Methods The effects of COVID-19-related job loss on depression, anxiety, and suicidal thoughts among 1,364 people were investigated through semi-structured and self-administered questionnaires: Patient Health Questionnaire-9, General Anxiety Disorder-7, and the Functional Social Support Questionnaire. Logistic regression and subgroup analyses were performed to assess the association between job loss and mental health status, and the moderating effects of income and educational levels. Moreover, the mediating effects of perceived social support on the association between job loss and depression, anxiety, and suicidal thoughts were analyzed. Results COVID-19-related job loss increased the risk of depression and suicidal thoughts. Adults with lower income and education level were at higher risk of depression, anxiety, and suicidal thoughts; perceived social support level had significant mediating effects on the association between job loss and depression/anxiety; and income level had significant moderating effects on this mediating pathway.Conclusion COVID-19-related job loss were likely to be significantly associated with negative mental health outcomes, especially among individuals with low income and education levels. As social support had buffering effects on such outcomes, related government policies in cooperation with the governance of communities and stakeholders must be prepared. Psychiatry Investig",
+    "DOI": "10.30773/pi.2022.0361",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental studies with a control group. It is a cross-sectional study with logistic regression analysis.",
+            "study_design": "Cross-sectional study with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of job loss on mental health. It lacks interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 163,
+    "Authors": "Finnes, Anna; Enebrink, Pia; Sampaio, Filipa; Sorjonen, Kimmo; Dahl, JoAnne; Ghaderi, Ata; Nager, Anna; Feldman, Inna",
+    "Article Title": "Cost-Effectiveness of Acceptance and Commitment Therapy and a Workplace Intervention for Employees on Sickness Absence due to Mental Disorders",
+    "Abstract": "Objective: The aim of this study was to evaluate cost-effectiveness of Acceptance and Commitment Therapy (ACT) and workplace dialogue intervention (WDI), both as stand-alone interventions and in combination, compared with treatment as usual (TAU), for employees on sickness absence with mental disorders. Methods: Employees (n = 352, 78.4% females) on sickness absence were randomized to one of four groups. Cost-utility analyses were conducted from a health care perspective and a limited societal perspective. Results: All groups reported significant improvements in health-related quality-of-life (HRQoL) and there were no significant differences in HRQoL or costs between groups. The probability of costeffectiveness for ACTthornWDI was 50% compared with ACT, indicating that both treatment alternatives could be considered equally favorable for decision- makers. TAU and WDI were rejected due to less economic efficiency. Conclusion: Adding WDI to ACT cannot be recommended on the basis of our study results.",
+    "DOI": "10.1097/JOM.0000000000001156",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on employees on sickness absence due to mental disorders rather than people seeking employment. It does not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the cost-effectiveness of interventions for employees on sickness absence with mental disorders, not specifically on employment outcomes.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group (TAU), focuses on employees with mental disorders in Europe, was published within the specified timeframe, and includes employment outcomes related to sickness absence.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

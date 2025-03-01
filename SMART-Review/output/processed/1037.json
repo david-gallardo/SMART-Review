@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1037,
+    "Authors": "Penn, Anthony; Kuperberg, Aura",
+    "Article Title": "Psychosocial Support in Adolescents and Young Adults With Cancer",
+    "Abstract": "Various forms of psychosocial support have been suggested in working with adolescents and young adults (AYAs) as they attempt to cope with cancer, including peer-based interventions, individual psychoeducational counseling, and skill-based interventions. More recently, modern electronic applications created technology-based ways to deliver information and support and have grown in popularity to satisfy AYA needs for information and support. Such support should be offered routinely rather than in a response to a crisis. This article focuses on psychosocial interventions for AYAs aged 15 to 39 years with cancer at diagnosis, during treatment, and shortly after.",
+    "DOI": "10.1097/PPO.0000000000000339",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment not mentioned.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on psychosocial support for adolescents and young adults with cancer.",
+            "study_design": "Review of interventions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1378,
+    "Authors": "Saade, Sabine; Parent-Lamarche, Annick; Bazarbachi, Zeina; Ezzeddine, Ruba; Ariss, Raya",
+    "Article Title": "Depressive symptoms in helping professions: a systematic review of prevalence rates and work-related risk factors",
+    "Abstract": "Objective The aim of this study is twofold. Our first aim is to provide an overview of the prevalence rate of depression in a wide array of helping professions. Our second aim is to identify work organization conditions that seem to be associated with this depression risk. Methods Four databases were searched (CINAHL, PsycInfo, PubMed, and Web of Science) yielding 87,626 records in total. We were interested in identifying depression prevalence rates and work-related variables that have been found to contribute to depression in helping professions. Results In total, this systematic review included 17,437 workers in more than 29 countries. Depression prevalence rate varied between 2.5% and 91.30%. The two most frequently reported professions were nurses and doctors with 73.83% and 30.84% of studies including nurses and doctors in their sample. Work factors contributing to depression included: skill utilization, decision authority, psychological demands, physical demands, number of hours worked, work schedule (irregular or regular), work schedule (daytime or night time), social support from coworkers, social support from supervisor and the family, job insecurity, recognition, job promotion, and bullying. Conclusion The results of this study highlight alarmingly high rates of depression in helping professions and should serve as a reminder to pay close attention to the mental health of those workers. Investing in employees' mental health by preventing and reducing depression risk could prove to be a valuable investment from an employer's point of view, as it is likely to increase productivity and reduce absenteeism among a host of other positive outcomes.",
+    "DOI": "10.1007/s00420-021-01783-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It focuses on the prevalence of depressive symptoms and work-related risk factors in helping professions.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on depression prevalence in helping professions, not on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference people with mental health disorders seeking employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

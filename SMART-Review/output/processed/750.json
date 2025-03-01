@@ -1,0 +1,33 @@
+{
+    "ArticleID": 750,
+    "Authors": "Bergdolt, Juliane; Hubert, Stella; Schreiter, Julia; Jenderny, Sarah; Beblo, Thomas; Driessen, Martin; Steinhart, Ingmar; Dehn, Lorenz B.",
+    "Article Title": "Predictors of return to work in people with major depression: Results from a supported employment program in Germany",
+    "Abstract": "Background: Depression is a common mental disorder and is associated with work disability. For the implementation of evidence-based interventions, such as Individual Placement and Support (IPS) for people with depression in Germany, the aim of this study was to investigate client variables that predict return to work. Methods: The sample consisted of 129 participants, initially treated in a psychiatric hospital due to major depression, who participated in IPS as part of a German clinical trial. Baseline demographic (age, sex, education, sickness absence days, employment status), psychiatric (symptom severity, comorbidity, general physical and mental health, disability), and neuropsychological (self-rated deficits, test performance) variables were included. Return to work within one year was predicted using separate and overall binary logistic regression analyses. Results: A total of 70 participants (56 %) returned to work within the one-year follow-up period. >100 days of sick leave in the year prior to study entry (vs. <100 days) and higher self-rated cognitive deficits were significantly associated with reduced odds of return to work within one year of IPS. Limitations: The sample consisted of participants with a relatively good work history who were assigned to IPS by the treatment team, thus, the generalizability of the results is limited. Conclusions: People with depression who participate in IPS interventions might benefit from specifically targeting perceived cognitive deficits. Factors associated with prolonged sick leave due to depression and their role in return to work with IPS need further investigation.",
+    "DOI": "10.1016/j.jad.2024.07.084",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Germany, within the EU, and within the specified timeframe. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, specifically major depression, and the study presents measures of employment outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not have a control group and is based on a clinical trial without random assignment.",
+            "study_design": "Quasi-experimental (clinical trial without RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Clinical trial",
+            "logprobs": null
+        }
+    }
+}

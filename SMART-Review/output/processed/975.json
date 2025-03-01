@@ -1,0 +1,33 @@
+{
+    "ArticleID": 975,
+    "Authors": "Himle, Joseph A; LeBeau, Richard T; Weaver, Addie; Brydon, Daphne M; Bybee, Deborah; Kilbourne, Amy M; Rose, Raphael D; Tucker, Katherine M; Kim, Richard; Perez, Marcelina; Smith, Fonda N; Sinco, Brandy R; Levine, Scott; Hamameh, Nicole; Golenberg, Zipora; McKiver, Monique; Wierzbicki, Paul T; Hasratian, Anni M; Craske, Michelle G",
+    "Article Title": "Study protocol: A multisite trial of Work-Related Cognitive behavioral therapy for unemployed persons with social anxiety.",
+    "Abstract": "This paper provides a methodological description of a multi-site, randomized controlled trial (RCT) of a cognitive-behavioral intervention for enhancing employment success among unemployed persons whose employment efforts have been undermined by social anxiety disorder (SAD). SAD is a common and impairing condition, with negative impacts on occupational functioning. In response to these documented employment-related impairments, in a previous project, we produced and tested an eight-session work-related group cognitive-behavioral therapy provided alongside vocational services as usual (WCBT+VSAU). WCBT is delivered by vocational service professionals and is designed in a context and style that overcomes accessibility and stigma-related obstacles with special focus on employment-related targets. Our previous project found that WCBT+VSAU significantly improved social anxiety, depression, and a range of employment-related outcomes compared to a control group of socially anxious job-seekers who received vocational services as usual without WCBT (VSAU-alone). Participants in this study were all homeless, primarily African American job-seekers with high levels of psychiatric comorbidity and limited education and employment histories. The present, two-region study addresses whether WCBT+VSAU enhances job placement, job retention and mental health outcomes in a larger sample assessed over an extended follow-up period. In addition, this trial evaluates whether the effects of WCBT+VSAU generalize to a new population of urban-based, racially diverse job-seekers with vocational and educational histories that differ from our original sample. This study also investigates the system-effects of WCBT+VSAU in a new site that will be informative for broad implementation of WCBT+VSAU. Finally, this project involves a refined, technology-assisted form of WCBT+VSAU designed to be delivered more easily by vocational services professionals.",
+    "DOI": "10.1016/j.conctc.2019.100464",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the EU (Europe) and within the specified timeframe (2005-2025). The intervention is job search services and adult training, which are related to employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (not specified but likely within EU countries given the context of vocational services and homelessness), timeframe (current year is post-2005, so it fits the timeframe), intervention (job search services specifically targeting employment success), population (people with social anxiety disorder, a mental health condition), and outcomes (employment-related outcomes such as job placement and retention).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on the US (within geographic scope), was published within the timeframe, targets job search services and supported employment for people with mental health disorders, and includes employment outcomes such as job placement and retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 914,
+    "Authors": "Mak, Monika; Tyburski, Ernest; Starkowska, Anna; Karabanowicz, Ewa; Samochowiec, Agnieszka; Samochowiec, Jerzy",
+    "Article Title": "The efficacy of computer-based cognitive training for executive dysfunction in schizophrenia",
+    "Abstract": "The purpose of this study was to assess the effect of computer-based cognitive training on executive dysfunction in patients with schizophrenia. Sixty-five patients with schizophrenia were randomly assigned to a training group (n = 33) or a non-training group (n = 32), and compared in terms of executive performance to a healthy control group (n = 33). Executive function was assessed using the Trail Making Test, the Stroop Color and Word Test, and the Wisconsin Card Sorting Test (computer version). Cognitive training was performed using RehaCom software over a course of 16 individual sessions. Primary outcomes were training (performance at three different timepoints) and neuropsychological components (flexibility and cognitive inhibition, high executive processing, and processing speed). In both clinical groups, all aspects of executive function were found to be deficient. In the patient training group, the use of computer-based training alongside pharmacological treatment was more effective in terms of cognitive improvement than pharmacological treatment alone. However, there was no significant effect of cognitive training on processing speed. Cognitive training in schizophrenia patients was effective at improving several aspects of executive function, but did not improve processing speed.",
+    "DOI": "10.1016/j.psychres.2019.06.041",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention (computer-based cognitive training) is not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia, which is not specified as a mental health disorder in the inclusion criteria. The intervention is cognitive training, not directly related to employment policies.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the intervention is cognitive training rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

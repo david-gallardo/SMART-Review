@@ -1,0 +1,33 @@
+{
+    "ArticleID": 794,
+    "Authors": "Smith, Matthew J.; Smith, Justin D.; Fleming, Michael F.; Jordan, Neil; Brown, C. Hendricks; Humm, Laura; Olsen, Dale; Bell, Morris D.",
+    "Article Title": "Mechanism of Action for Obtaining Job Offers With Virtual Reality Job Interview Training",
+    "Abstract": "Objective: Four randomized controlled trials revealed that virtual-reality job interview training (VR-JIT) improved interviewing skills and the odds of obtaining a job offer among trainees with severe mental illness or autism spectrum disorder. This study assessed whether postintervention interviewing skills mediated the relationship between completion of virtual interviews and receiving job offers by six-month follow-up.Methods: VR-JIT trainees (N=79) completed pre-and post-test mock interviews and a brief survey approximately six months later to assess whether they received a job offer.Results: As hypothesized, analyses indicated that the number of completed virtual interviews predicted greater post-test interviewing skills ( beta=.20, 95% posterior credible interval [PCI]=.08-.33), which in turn predicted trainees' obtaining a job offer (beta=.28, 95% PCI=.01-.53).Conclusions: VR-JITmay provide amechanismof action that helps trainees with various psychiatric diagnoses obtain job offers in the community. Future research can evaluate the community-based effectiveness of this novel intervention.",
+    "DOI": "10.1176/appi.ps.201600217",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group (trainees without VR-JIT), and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration and job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes as it focuses on obtaining job offers rather than measures of employment rates, job duration, job quality, workplace integration, or job retention. It also lacks a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on virtual reality job interview training, which is not one of the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Randomized controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT, focuses on people with mental health disorders, includes employment outcomes (job offers), and was conducted in the relevant timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1253,
+    "Authors": "Reid, Kathryn J.; Weng, Jia; Ramos, Alberto R.; Zee, Phyllis C.; Daviglus, Martha; Mossavar-Rahmani, Yasmin; Sotres-Alvarez, Daniela; Gallo, Linda C.; Chirinos, Diana A.; Patel, Sanjay R.",
+    "Article Title": "Impact of shift work schedules on actigraphy-based measures of sleep in Hispanic workers: results from the Hispanic Community Health Study/Study of Latinos ancillary Sueno study",
+    "Abstract": "Study Objectives: To describe sleep characteristics of shift workers compared with day workers from the Hispanic Community Health Study/ Study of Latinos (HCHS/SOL) Sueno ancillary study and test the hypothesis that shift work is associated with shorter sleep duration, worse sleep quality, greater sleep variability, and other sleep/health-related factors.Methods: Employed adults (N = 1253, mean age 46.3 years, 36.3% male) from the Sueno study were included. Measures of sleep duration, timing, regularity, and continuity were calculated from 7 days of wrist-activity monitoring. Participants provided information on demographics, employment, work schedule (day, afternoon, night, split, irregular, and rotating), sleepiness, depressive symptoms, medications, caffeine, and alcohol use. Survey linear regression adjusting for age, sex, background, site, number of jobs, and work hours was used.Results: In age and sex-adjusted models, all shift work schedules were associated with delayed sleep timing. Night and irregular schedules were associated with shorter sleep duration, greater napping, and greater variability of sleep. Afternoon and rotating shifts were associated with lower sleep regularity. In fully adjusted models, night and irregular schedules remained associated with shorter sleep duration, later sleep midpoint, and greater variability in sleep measures compared with day schedules. Split schedules were associated with, less time in bed, less sleep fragmentation, and less wake during the sleep period than day schedules.Conclusions: Work schedule significantly affects sleep-wake with substantial differences between day work and other types of schedule. Detailed assessment of work schedule type not just night shift should be considered as an important covariate when examining the association between sleep and health outcomes.",
+    "DOI": "10.1093/sleep/zsy131",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of shift work schedules on sleep characteristics.",
+            "study_design": "Survey linear regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the impact of shift work schedules on sleep characteristics in Hispanic workers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not measure employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

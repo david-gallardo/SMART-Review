@@ -1,0 +1,33 @@
+{
+    "ArticleID": 132,
+    "Authors": "Mousteri, Victoria; Daly, Michael; Delaney, Liam; Tynelius, Per; Rasmussen, Finn",
+    "Article Title": "Adolescent mental health and unemployment over the lifespan: Population evidence from Sweden",
+    "Abstract": "Rationale: Symptoms of mental health problems have been shown to predict adverse labour market outcomes including unemployment, but no studies have used sibling models to examine the relationship between clinically diagnosed psychiatric conditions in adolescence and subsequent unemployment.Objective: This study used extensive Swedish registry data to investigate the link between psychiatric conditions diagnosed during military conscription and unemployment over two decades. Further, we identified whether this relation was amplified during an economic downturn and tested whether it was affected by adjustment for unobserved family characteristics using sibling fixed-effects models.Method: Psychiatric conditions were diagnosed by psychologists and psychiatrists at military conscription in sample of 929,191 Swedish men (mean age = 18.4 years) between 1969 and 1989. The average number of days unemployed per year was observed from 1992 to 2012, using the records of the Swedish Public Employment Services.Results: After adjustment for physical health and childhood socioeconomic status those diagnosed with any psychiatric condition experienced approximately an additional 10 days per year unemployment compared to others. Alcohol (16 days unemployment) and other substance use disorders (17 days) were the strongest predictors of exposure to future unemployment, followed by personality disorders (10 days), neurotic and adjustment conditions (nine days), and depressive disorders (six days). Family background factors accounted for approximately half of the observed relationship between mental health conditions and unemployment. Psychiatric conditions interacted with macroeconomic conditions such that those with pre-existing alcohol-related, and neurotic and adjustment disorders were disproportionately more likely to become unemployed following the 1990s crisis in Sweden.Conclusions: Adolescent mental health conditions forecast an elevated risk of unemployment, which endures over the life course and is amplified in times of economic uncertainty. Investment in youth mental health services and alcohol and substance use prevention programs may yield economic benefits by reducing unemployment.",
+    "DOI": "10.1016/j.socscimed.2018.12.030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on Swedish registry data, which is within the EU, Europe, US, Canada, or Australia. The study timeframe is between 1969 and 1989, and 1992 and 2012, meeting the inclusion criteria for timeframe. The intervention is related to mental health conditions, which is within the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on adolescents and young adults (18.4 years old at military conscription), which is outside the target population of people with mental disorders or documented mental health problems as specified in the inclusion criteria.",
+            "study_design": "Observational study using sibling fixed-effects models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and mental health in Sweden, not on employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "Population-based cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention targeting employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

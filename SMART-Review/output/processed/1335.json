@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1335,
+    "Authors": "Bell, Morris D.; Laws, Holly; Pittman, Brian; Johannesen, Jason K.",
+    "Article Title": "Comparison of focused cognitive training and portable brain-games on functional outcomes for vocational rehabilitation participants",
+    "Abstract": "Cognitive remediation performed in a cognitive laboratory was compared with a sham control using portable brain games to study effects on vocational, neurocognitive, and functional outcomes for participants with psychotic disorders in vocational rehabilitation (VR). Seventy-seven participants (61% schizophrenia, 39% other psychosis) in transitional (45.5%) or supported employment (54.5%) were randomly assigned to 6 months of portable cognitive-games (CG) or cognitive remediation (CR) plus a weekly goal-setting group, and evaluated during training, post-training and at 12 months. Overall rates of employment did not differ significantly at 12-month follow-up; however, VR + CG attained employment more rapidly during training. A significant time by condition interaction favored VR + CR on Quality of Life Total Score and Instrumental Functioning over 12 months. Neurocognitive outcomes favored VR + CR, particularly on attention. Training hours related significantly to neurocognitive improvement regardless of condition. No differences were found in training adherence despite portability for VR + CG. Results indicate that VR + CR had significantly greater effect than VR + CG on neurocognition and community functioning, but not on employment outcome. Job attainment rates during the training period revealed a potential advantage for portable training raising new questions concerning how cognitive remediation can be most effectively integrated with VR.",
+    "DOI": "10.1038/s41598-018-20094-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention of 'portable brain-games' (CG).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Quasi-experimental (randomized controlled trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment for people with psychotic disorders, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

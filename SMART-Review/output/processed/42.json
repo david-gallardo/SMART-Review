@@ -1,0 +1,33 @@
+{
+    "ArticleID": 42,
+    "Authors": "Chang, Lucy; Douglas, Nadine; Scanlan, Justin Newton; Still, Megan",
+    "Article Title": "Implementation of the enhanced intersectoral links approach to support increased employment outcomes for consumers of a large metropolitan mental health service",
+    "Abstract": "Introduction: The purpose of this article is to describe the outcomes of the enhanced intersectoral links (EIL) approach to supporting employment outcomes for individuals accessing a large mental health service.Method: Based on individual placement and support (IPS) principles, features of EIL included: strong service-level relationships between mental health and local disability employment services; monthly joint meetings to share information; resources to assist mental health clinicians in supporting consumers to access employment services; and provision of training. Programme fidelity was evaluated against IPS principles. Outcome measures included: time from referral to commencement; time to first employment placement; employment placement rate; and duration of employment.Results: Seventy-nine consumers were referred to the programme. At the close of data collection, 60 participants remained in the programme and 38 of these (63%) had gained at least one employment placement. Average duration of employment was 10.9 weeks. As expected, the EIL programme demonstrated 'fair' fidelity against IPS principles. The average time from referral to commencement was 47 days and from commencement to first placement was 81 days.Conclusion: This project demonstrated how EIL can be implemented in a large mental health service. Further development is required to avoid delays in consumers' commencement with employment services and support better job tenure.",
+    "DOI": "10.1177/0308022616638673",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for having a controlled trial or quasi-experimental study with a control group.",
+            "study_design": "Program evaluation without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on job search services, adult training, wage subsidies, or supported employment intervents, which are specified in the inclusion criteria. Additionally, the study'senvironment' is not clearly defined as being within the specified geographic scope.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of an intervention (enhanced intersectoral links approach) aimed at improving employment outcomes for people with mental health disorders. It includes relevant outcomes such as employment placement rate and duration of employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

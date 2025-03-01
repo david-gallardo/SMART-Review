@@ -1,0 +1,33 @@
+{
+    "ArticleID": 784,
+    "Authors": "Bernhard-Oettel, Claudia; Canivet, Catarina; Aronsson, Gunnar; Stengard, Johanna; Ostergren, P-O",
+    "Article Title": "The role of social embeddedness for remaining in non-desired workplaces and mental health consequences: Results from Scania Public Health Cohort",
+    "Abstract": "Aims: The aim of the study was to investigate the role of social embeddedness on and off the job in relation to remaining in non-desired workplaces (NDWs) and the development of mental health. Method: The study used questionnaire data from the Scania Public Health cohort (N=2410) that were collected in 2000 (T1), 2005 (T2) and 2010 (T3). Logistic regression models were calculated to probe how NDWs and social embeddedness factors measured at baseline (T1) related to NDWs five years later (T2), and to investigate how NDWs and social embeddedness factors at T2 related to poor mental health at T3. Synergy indices were calculated in both analyses to test for additive v. interactive effects between NDWs and social embeddedness factors on the outcomes. Results: NDWs at baseline and low social embeddedness on and off the job was associated with NDWs at T2. For those in a desired workplace, low support from co-workers as well as low workplace affinity increased the risk to be in an NDW at T2. NDWs and low social embeddedness also associated with impaired mental health (T3). For those in an NDW, low support from co-workers as well as low workplace affinity increased the risk of poor mental health at T3. Conclusions: This study underlines the importance of social embeddedness for NDWs and the development of poor mental health over time. Particularly low social support from co-workers and low workplace affinity seem to be risk factors for future experience of an NDW and impaired mental health.",
+    "DOI": "10.1177/1403494818804090",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression analysis with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Logistic regression analysis with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on the role of social embeddedness in relation to remaining in non-desired workplaces and its impact on mental health.",
+            "study_design": "Cross-sectional cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the role of social embeddedness in remaining in non-desired workplaces and its mental health consequences.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

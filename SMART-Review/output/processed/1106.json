@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1106,
+    "Authors": "On, Zhi Xiang; Cotton, Susan; Farhall, John; Killackey, Eoin; Allott, Kelly",
+    "Article Title": "Relationship between duration of untreated psychosis and neurocognition and social cognition in first-episode psychosis",
+    "Abstract": "Cognitive impairment is common in first-episode psychosis (FEP); however, the relationship between duration of untreated psychosis (DUP) and neurocognition remains controversial, and no studies have examined the relationship between DUP and social cognition. This study involved secondary data analysis of baseline data from a randomised controlled trial of supported employment; 122 out 146 young people with FEP met inclusion criteria for this study. Results showed that DUP was not associated with neurocognitive or social cognitive performance. Results do not provide support for the neurotoxicity hypothesis of psychosis. (C) 2016 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2016.06.018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on the relationship between duration of untreated psychosis and neurocognition and social cognition in first-episode psychosis.",
+            "study_design": "Secondary data analysis of baseline data from a randomised controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is limited to first-episode psychosis (FEP) without specifying mental disorders. It also lacks a control group.",
+            "study_design": "Secondary data analysis of a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on neurocognition and social cognition in first-episode psychosis, not employment outcomes.",
+            "study_design": "Secondary data analysis of a randomised controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

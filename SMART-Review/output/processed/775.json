@@ -1,0 +1,33 @@
+{
+    "ArticleID": 775,
+    "Authors": "Ryu, Soomin; Fan, Lu",
+    "Article Title": "The Relationship Between Financial Worries and Psychological Distress Among US Adults",
+    "Abstract": "This study examines the association between financial worries and psychological distress among US adults and tests its moderating effects by gender, marital status, employment status, education, and income levels. Data were derived from the cross-sectional 2018 National Health Interview Survey (NHIS) of the adult population. The hierarchical regression analysis revealed that higher financial worries were significantly associated with higher psychological distress. Additionally, the association between financial worries and psychological distress was more pronounced among the unmarried, the unemployed, lower-income households, and renters than their counterparts. The findings suggest that accessible financial counseling programs and public health intervention programs are needed to mitigate financial worries and its negative influences on overall psychological health, with greater attention devoted to vulnerable populations.",
+    "DOI": "10.1007/s10834-022-09820-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines the association between financial worries and psychological distress among US adults.",
+            "study_design": "Hierarchical regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the relationship between financial worries and psychological distress among US adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

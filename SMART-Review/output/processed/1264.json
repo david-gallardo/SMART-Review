@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1264,
+    "Authors": "Metcalfe, Justin D.; Drake, Robert E.",
+    "Article Title": "Participation in Individual Placement and Support in the Supported Employment Demonstration",
+    "Abstract": "Individual placement and support (IPS) was the primary intervention in the United States Social Security Administration's supported employment demonstration (SED), a large randomized trial that sought to increase employment and reduce disability among those whose first application for disability benefits was denied. Researchers developed a measure of participation in IPS services to quantify participation among enrollees assigned to receive IPS. The IPS participation measure, which IPS teams completed monthly for individual clients, recorded clients assigned to IPS as being either out of contact with their IPS treatment teams or, if in contact, according to their employment status (employed or not employed) and receipt of IPS job search services (participating or not participating). The measure also recorded types of IPS activities and reasons for non-participation. IPS teams completed the IPS participation measure at a rate of approximately 95% each month. Between 27 and 35% of enrollees assigned to a treatment condition participated in IPS services each month during the first 24 months of measurement. The most common activities were applying for jobs and attending job interviews. Most of those out of contact were not responding to outreach efforts (58-72%). Those in contact but not participating despite being unemployed were typically either uninterested in employment (20-44%) or difficult to reach (10-16%). As IPS expands to serve new populations, it will be important to document and understand the links between individual characteristics, variance in participation patterns, and employment outcomes. Subsequent analyses of SED data will investigate these relationships among enrollees.",
+    "DOI": "10.1007/s10488-021-01180-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment), population (mental health related as part of disability benefits denial), and outcomes (employment).",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it is not a controlled trial with a control group. It is also not within the specified geographic scope and timeframe.",
+            "study_design": "Randomized trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in the US within the specified timeframe, focusing on supported employment for people with mental health disorders and reporting employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

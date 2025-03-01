@@ -1,0 +1,33 @@
+{
+    "ArticleID": 860,
+    "Authors": "Lehmann, J. A. M.; Schwarz, E.; Azad, Z. Rahmani; Gritzka, S.; Seifried-Dubon, T.; Diebig, M.; Gast, M.; Kilian, R.; Nater, U.; Jarczok, M.; Kessemeier, F.; Braun, S.; Balint, E.; Rothermund, E.; Junne, F.; Angerer, P.; Guendel, H.",
+    "Article Title": "Effectiveness and cost effectiveness of a stress management training for leaders of small and medium sized enterprises - study protocol for a randomized controlled-trial",
+    "Abstract": "Background: Leaders in small and medium-sized enterprises (SMEs) are exposed to increased stress as a result of a range of challenges. Moreover, they rarely have the opportunity to participate in stress management trainings. Therefore, KMU-GO (ger: Kleine and mittlere Unternehmen - Gesundheitsoffensive; en: small and medium-sized enterprises - health campaign) aims at conducting and evaluating such a stress management training. The focus of evaluation does not only lie on the effects on leaders participating but also on their employees.Methods: The study is planned as a 2 x 3 mixed design with two groups (intervention and waiting control group) as a between factor and point in time (at baseline, 6 and 12 months later) as a within factor. We aim at collecting data from N = 200 leaders. Based on the results of a preceding assessment, an already successfully implemented stress management training was adapted to SME needs and now serves as the framework of this intervention. The stress management training comprises one and a half days and is followed by two booster sessions (each 180 min) about 3 and 6 months after the training. The main focus of this intervention lies on specifying leaders stress reactivity while at the same time investigating its effects on employees' mental health. Further dependent variables are leaders' depression and anxiety scores, effort-reward imbalance, sick days and psychophysiological measures of heart rate variability, hair cortisol, and salivary alpha-amylase. Cost-effectiveness analyses will be conducted from a societal and employers' point of view.Discussion: Stress management is a highly relevant issue for leaders in SMEs. By providing an adequate occupational stress management training, we expect to improve leaders' and also employees' mental health, thereby preventing economic losses for SMEs and the national economy. However, collecting data from employees about the success of a stress management training of their leader is a highly sensitive topic. It requires a carefully planned proceeding ensuring for example a high degree of transparency, anonymity, and providing team incentives.",
+    "DOI": "10.1186/s12889-021-10398-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it focuses on stress management training for leaders of small and medium-sized enterprises, rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on stress management training for leaders of SMEs and its effects on mental health and employee well-being.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on leaders in small and medium-sized enterprises (SMEs) and does not specifically target people with mental health disorders. The intervention is also not directly related to employment outcomes but rather to stress management.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

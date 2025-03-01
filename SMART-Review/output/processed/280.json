@@ -1,0 +1,33 @@
+{
+    "ArticleID": 280,
+    "Authors": "Arends, Iris; van der Klink, Jac J. L.; van Rhenen, Willem; de Boer, Michiel R.; Bueltmann, Ute",
+    "Article Title": "Prevention of recurrent sickness absence in workers with common mental disorders: results of a cluster-randomised controlled trial",
+    "Abstract": "Objectives Workers with common mental disorders (CMDs) frequently experience recurrent sickness absence but interventions to prevent this are lacking. The goal of this study was to evaluate the effectiveness of the Stimulating Healthy participation And Relapse Prevention at work intervention in preventing recurrent sickness absence in workers who returned to work after sickness absence due to CMDs.Methods We performed a cluster-randomised controlled trial with 3 months, 6 months and 12months follow-up. Treatment providers were randomised to either a 2-day training in the Stimulating Healthy participation And Relapse Prevention at work intervention, that is, a problem-solving intervention, or usual care. Primary outcome measures were the incidence of recurrent sickness absence and time to recurrent sickness absence. Secondary outcome measures were mental health complaints, work functioning and coping behaviour.Results 80 participants were randomised in the intervention group and 78 in the control group. The adjusted OR for the incidence of recurrent sickness absence was 0.40 (95% CI 0.20 to 0.81) and the adjusted HR for time to recurrent sickness absence was 0.53 (95% CI 0.33 to 0.86) for the intervention group compared with care as usual.Conclusions This study demonstrates the 12-month effectiveness of a problem-solving intervention for reducing recurrent sickness absence in workers with CMDs and emphasises the importance of continuous attention in the post return to work phase for workers who have been on sickness absence due to CMDs.",
+    "DOI": "10.1136/oemed-2013-101412",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a cluster-randomised controlled trial with a control group.",
+            "study_design": "Cluster Randomised Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (cluster-randomised controlled trial), geographic scope (EU countries), timeframe (2005-2025), intervention (job search services indirectly addressed through problem-solving intervention), population (people with mental disorders), and outcomes (employment or labor outcomes such as recurrent sickness absence).",
+            "study_design": "Cluster-RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cluster-randomised controlled trial, which meets the inclusion criteria for study design. However, the study focuses on preventing recurrent sickness absence in workers with common mental disorders (CMDs), not specifically on employment or labor outcomes. The intervention is not directly related to job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. Additionally, the study's population is not explicitly defined as people with mental health disorders or documented mental health problems, which is a requirement for inclusion.",
+            "study_design": "Cluster-randomised controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in Europe within the specified timeframe, focuses on job retention for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

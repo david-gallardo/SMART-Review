@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1004,
+    "Authors": "Yusuf, Korede Kafayat; Madu, Ednah; Kutchava, Salome; Liu, Sun Kei",
+    "Article Title": "The Coronavirus (COVID-19) Pandemic and Mental Health of African Immigrants in the United States",
+    "Abstract": "The impact of the COVID-19 pandemic on immigrants in the United States is understudied. We investigated the effect of the pandemic on the mental health of African immigrants in the United States and if subjective religiosity was a protective factor. We analyzed primary data collected using an online survey (n = 260). The study's outcome variable was incident mental health disorder associated with the pandemic, and the primary independent variable was religiosity. Chi-squared and Mann-Whitney U tests were used to compare the distribution of variables by incident mental health disorders. Logistic regression models were used to quantify the association between predictors and the outcome. There were 39 (15.0%) new cases of mental health disorders related to the pandemic. The median scores in the three domains of religiosity of those who developed a mental health disorder and those who did not were not significantly different. Significant predictors of this outcome included having a strong religious support network and loss of household employment income. African immigrants experienced an increased rate of mental health disorders during the pandemic. Implementing community-based strategies to provide social support during a disaster may be essential in promoting mental health in the African immigrant community.",
+    "DOI": "10.3390/ijerph191610095",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather investigates the impact of the COVID-19 pandemic on the mental health of African immigrants in the United States.",
+            "study_design": "Cross-sectional study with online survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on mental health disorders rather than interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on African immigrants in the US and the impact of COVID-1s pandemic on their mental health, not on people with mental health disorders in general. The study does not meet the specified population criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

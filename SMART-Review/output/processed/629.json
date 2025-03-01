@@ -1,0 +1,33 @@
+{
+    "ArticleID": 629,
+    "Authors": "Ogden, Lydia P.",
+    "Article Title": "Enhancing Wellbeing for Older Adults With Serious Mental Illnesses: Co-Producing a Positive Psychology Course With Certified Older Adult Peer Specialists",
+    "Abstract": "Compared to peers in the general population, persons aging with serious mental illnesses (SMIs) face physical health disparities, increased isolation, and decreased subjective experiences of quality of life and wellbeing. To date, limited intervention research focuses on addressing specific needs of persons aging with SMIs and no interventions targeted for that population are informed by the theory and science of positive psychology. With the aim of co-producing a positive-psychology-based program to enhance wellbeing for older adults with SMIs, the author held a series of focus groups and individual interviews with six certified older adult peer specialists. Analysis of the data developed in-depth insights into helpful processes, values, and priorities of individuals aging with SMIs, as well as the creation of a wellbeing-enhancing course curriculum.",
+    "DOI": "10.1177/1049732321992047",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include employment or labor outcomes.",
+            "study_design": "Qualitative research - Focus groups and individual interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on older adults with serious mental illnesses, not specifically on people with mental health disorders in general.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Qualitative study (focus groups and individual interviews)",
+            "logprobs": null
+        }
+    }
+}

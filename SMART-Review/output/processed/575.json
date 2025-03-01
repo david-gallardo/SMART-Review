@@ -1,0 +1,33 @@
+{
+    "ArticleID": 575,
+    "Authors": "Jones-Webb, Rhonda; Karriker-Jaffe, Katherine J.; Zemore, Sarah E.; Mulia, Nina",
+    "Article Title": "Effects of Economic Disruptions on Alcohol Use and Problems: Why Do African Americans Fare Worse?",
+    "Abstract": "Objective: This study tested a model of the effects of recession-related job loss on alcohol use disorder (AUD) and examined why African Americans who lost their jobs during the 2008-2009 recession were at increased risk for AUD relative to Whites. We hypothesized that (a) job loss would be positively associated with psychological distress (i.e., higher levels of depressive symptoms) and increased drunkenness, and (b) low levels of family social support and experiences of racial stigma would exacerbate the effects of job loss on distress, especially among African Americans and Hispanics. Method: Data were drawn from the 2010 U.S. National Alcohol Survey (NAS), a cross-sectional survey of the U.S. general population. Using data from the 2010 NAS (telephone survey of 1,111 African American, 964 Hispanic, and 3,133 White adults), we conducted simultaneous path modeling in Mplus to test mediation and moderation hypotheses. Our key outcome was AUD as measured by the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Results: Recession-related job loss was significantly associated with AUD through its effects on increased drunkenness, and the associations were positive for Whites, stronger for African Americans than Whites, and nonexistent for Hispanics. Job loss was associated with distress in the overall sample, and distress was positively associated with drunkenness among African Americans only, suggesting that distress is another pathway by which job loss affects AUD among African Americans. Higher levels of family social support mitigated the effects of job loss on psychological distress, and this relationship did not differ by race/ethnicity. Conclusions: During economic downturns, increased stress and heavy drinking are important pathways through which recession-related job loss can lead to greater AUD among African Americans relative to Whites.",
+    "DOI": "10.15288/jsad.2016.77.261",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the effects of economic disruptions on alcohol use among African Americans. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey using path modeling in Mplus",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on alcohol use disorder (AUD) and its association with job loss. The study also does not include interventions aimed at employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

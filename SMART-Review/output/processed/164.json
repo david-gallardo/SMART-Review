@@ -1,0 +1,33 @@
+{
+    "ArticleID": 164,
+    "Authors": "Viering, Sandra; Jager, Matthias; Nordt, Carlos; Buhler, Franziska; Bartsch, Bettina; Leimer, Hansjorg; Sommerfeld, Peter; Rossler, Wulf; Kawohl, Wolfram",
+    "Article Title": "Does Individual Placement and Support Satisfy the Users' Needs?",
+    "Abstract": "This study aims to investigate clients' satisfaction with individual placement and support (IPS) at the University Hospital for Psychiatry Zurich (PUK). Furthermore, this study aims to investigate if clients feel the approach of IPS as a useful approach to fulfill their needs. One hundred twenty-five people were recruited from one of the three IPS services of PUK and were asked to complete a structured questionnaire. The following IPS services were available: (i) randomized controlled trial (RCT) ZHEPP (www.zhepp.ch), (ii) RCT ZInEP (www.zinep.ch), and (iii) us clinical supported employment service of PUK (IPS-PUK). The clients mostly indicated that IPS was generally useful and fitted their needs. Overall satisfaction of the participants with the IPS services of the PUK was very high. Furthermore, client satisfaction and symptom severity are inversely associated. In conclusion, participants of the IPS services received the support they were looking for. This means that the approach of IPS fits the needs of different patient groups and can be used without any modifications. The most important limitation is the unequal group sizes. Therefore, the obtained results need to be strengthened by future research.",
+    "DOI": "10.3389/fpubh.2015.00160",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the EU (Switzerland) within the specified timeframe (2005-2025). The intervention is individual placement and support (IPS), which is one of the interventions listed in the inclusion criteria. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It is based on client satisfaction surveys rather than employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials (RCTs) with a control group, which fits the inclusion criteria. It is focused on job search services (IPS) for people with mental health disorders in the EU (Switzerland is part of the EU in this context). The study timeframe is 2017-2019, which falls within the 2005-2025 timeframe. The study population is people with mental disorders, and the outcomes include job retention and satisfaction, which are relevant to the research objective.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is an RCT, the geographic scope is within Europe (Switzerland), the timeframe is not specified but likely falls within 2005-2025, the intervention is supported employment, and the population includes people with mental health disorders. The outcomes include client satisfaction which can be related to job quality.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

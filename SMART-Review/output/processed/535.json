@@ -1,0 +1,33 @@
+{
+    "ArticleID": 535,
+    "Authors": "Zieringer, Robert C.; Zapf, Dieter",
+    "Article Title": "The Effects of an Employee Assistance Program on Productivity at Work, Workability, Absenteeism, and Smartphone Measures of Heart Rate and Heart Rate Variability",
+    "Abstract": "Employee Assistance Programs (EAPs) have been shown to effectively reduce absenteeism, workplace injury rates, and health-related productivity impairments. However, established measures for determining its impact on employee-level productivity have rarely been used, nor have studies employed biological measures of well-being. Drawing on the allostatic load theory, we examine the effects of an EAP on biological measures (heart rate, heart rate variability), established measures of health-related productivity (Workability Index, Health and Work Performance Questionnaire, Workplace Limitations Questionnaire), and absenteeism 4 weeks and 6 months after clients started to receive counseling. We conducted a quasi-experimental study comparing an EAP (n = 73) with a matched control group (n = 134) using propensity score matching. We found that an EAP improves health-related productivity 4 weeks and 6 months after enrolling in counseling, above and beyond changes in the control group. Biological measures changed in the hypothesized directions, but differences between the groups did not reach significance. Absenteeism did not change in the EAP group 6 months after enrolling in counseling. In an exploratory analysis, we found that individuals requiring many sessions in the first 4 weeks showed worse productivity outcomes, demonstrating a negative dose-response relationship. Our study provides an example of how to include biological measures in EAP research. It adds to the scientific evidence of the usefulness of EAP services in restoring employee-level productivity. We calculate that the marginal productivity improvements per employee using the EAP are as much as $15,600 per annum.",
+    "DOI": "10.1037/ocp0000380",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and the intervention (Employee Assistance Program) is directly related to employment. The population references mental health problems, and the outcomes include measures of employment and labor results.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental health disorders. The intervention focuses on Employee Assistance Programs (EAPs) rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Employee Assistance Programs (EAPs) and not on active employment policies for people with mental health disorders. The study also lacks a control group and does not measure employment or labor outcomes directly.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is an Employee Assistance Program (EAP), which does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

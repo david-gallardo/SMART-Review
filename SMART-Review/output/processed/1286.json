@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1286,
+    "Authors": "Johanson, Suzanne; Oestergaard, Lisa Gregersen; Bejerholm, Ulrika; Nygren, Carita; van Tulder, Maurits; Zingmark, Magnus",
+    "Article Title": "Cost-effectiveness of occupational therapy return-to-work interventions for people with mental health disorders: A systematic review",
+    "Abstract": "BackgroundReturn-to-work (RTW) resources for persons with mental health disorders are limited and costs are typically shared by several stakeholders in society. Occupational therapists (OT) provide RTW interventions for this target group, however, increased knowledge of health, and employment effects, as well as costs are needed to better inform decision makers in their prioritisations.Aims/objectivesTo identify and summarise evidence of cost-effectiveness of RTW interventions for persons with mental health disorders which OTs provide.Materials and methodsA systematic search was applied and resulted in 358 articles. After screening, nine articles met inclusion criteria and were reviewed. Quality assessment was conducted using the economic evaluation tool by Joanna Briggs Institute.ResultsSupported employment, Individual Placement and Support was cost-effective in several contexts while three studies showed larger effects and higher costs. An OT intervention added to treatment for major depression was indicated to be cost-beneficial and an advanced supported employment was cost-saving. The methodological quality varied considerably between studies.Conclusions and significanceThe results of the included studies are promising, however, to further strengthen the economic perspective in OT RTW interventions, the need for conducting more and methodologically robust economic evaluations is crucial in future studies.",
+    "DOI": "10.1080/11038128.2023.2200576",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention (Occupational Therapy return-to-work interventions) and population (people with mental health disorders) meet the inclusion criteria. The outcomes (employment or labor outcomes) are also presented in the study.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but does not meet the inclusion criteria for intervention (it focuses on cost-effectiveness rather than employment outcomes).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review which meets the inclusion criteria of study design, intervention, and population. It focuses on the cost-effectiveness of RTW intervent\u00e9ments provided by OTs for people with mental health disorders, aligning with the specified interventions of interest.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, focuses on the EU (and other included countries), was published within the specified timeframe, examines supported employment interventions, targets people with mental health disorders, and includes employment outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1137,
+    "Authors": "Oshima, Iwao; Sono, Tamaki; Bond, Gary R.; Nishio, Masaaki; Ito, Junichiro",
+    "Article Title": "A Randomized Controlled Trial of Individual Placement and Support in Japan",
+    "Abstract": "Objective: The individual placement and support (IPS) model of supported employment has been implemented throughout North America and Europe, with multiple randomized controlled trials documenting its effectiveness, but it has not been widely implemented in Asia. To date, no rigorous evaluations of IPS have been conducted in Japan. We sought to evaluate whether IPS could be implemented in Japan and produce superior competitive employment outcomes compared with conventional vocational services. Method: We employed a randomized controlled trial with a 6-month followup; 18 participants were randomly assigned to PPS and 19 to conventional vocational services. We assessed competitive employment rates, hours and weeks worked, and wages earned. Results: Over the 6-month follow-up period, IPS participants were more likely than those in usual care to work competitively (44.4% for IPS vs. 10.5% for controls, p = .022), work more hours (mean of 168 hr for IFS vs. 41 hr for controls, p = .002), and work more weeks (mean of 6.4 weeks for IPS vs. 1.8 weeks for controls, p = .003). Conclusions and Implications for Practice: IPS can be implemented in Japan and yield better competitive employment outcomes than conventional vocational services. Adoption of the IPS model might have a dramatic impact on the mental health service system in Japan where psychiatric hospitals play a central role in mental health care.",
+    "DOI": "10.1037/prj0000085",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial with a control group.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (Japan - part of Asia but relevant for Europe and the EU context), timeframe (2005-2025), intervention (supported employment), population (mental health service users), and outcomes (employment rates, job duration).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it is not a controlled trial with a control group, which is required by the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Japan).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1381,
+    "Authors": "Van den Broeck, Anja; Vander Elst, Tinne; Baillien, Elfi; Sercu, Maarten; Schouteden, Martijn; De Witte, Hans; Godderis, Lode",
+    "Article Title": "Job Demands, Job Resources, Burnout, Work Engagement, and Their Relationships: An Analysis Across Sectors",
+    "Abstract": "Objective: The aim of this study was to gain insight in the importance of job demands and resources and the validity of the Job Demands Resources Model across sectors. Methods: We used one-way analyses of variance to examine mean differences, and multi-group Structural Equation Modeling analyses to test the strength of the relationships among job demands, resources, burnout, and work engagement across the health care, industry, service, and public sector. Results: The four sectors differed in the experience of job demands, resources, burnout, and work engagement, but they did not vary in how (strongly) job demands and resources associated with burnout and work engagement. Conclusion: More attention is needed to decrease burnout and increase work engagement, particularly in industry, service, and the public sector. The Job Demands-Resources model may be helpful in this regard, as it is valid across sectors.",
+    "DOI": "10.1097/JOM.0000000000000964",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is one-way analyses of variance, which lacks a rigorous evaluation and does not meet the inclusion criteria for study design.",
+            "study_design": "one-way analyses of variance",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on job demands, resources, burnout, and work engagement across different sectors.",
+            "study_design": "Cross-sectional analysis using Structural Equation Modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Multi-group Structural Equation Modeling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions for employment policies and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

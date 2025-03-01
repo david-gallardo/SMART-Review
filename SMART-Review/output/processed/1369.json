@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1369,
+    "Authors": "Locke, Jill; Osuna, Anthony; Myrvold, Raine J.; Closson, Jennifer Schoffer",
+    "Article Title": "Supporting Autistic College Students: Examining the Mentoring, Organization and Social Support for Autism Inclusion on Campus (MOSSAIC) Program",
+    "Abstract": "Recent trends suggest that autistic young adults are increasingly accessing postsecondary education than in years past. However, these students often face unique challenges that negatively impact their college experience resulting in high dropout. The Mentoring, Organization and Social Support for Autism Inclusion on Campus (MOSSAIC) Program is a peer-mentorship college transition program intended to support autistic students with executive functioning, social, and self-advocacy skills. This study investigated the experiences of 13 autistic mentees and 12 non-autistic mentors enrolled in the MOSSAIC program. Program feedback was collected using semi-structured interviews in order to understand student experiences, highlight benefits, and identify areas of improvement. Participants reported a general positive experience and improved skills in the domains of socialization, executive functioning, academic performance, and professional development. The most common suggestion for the program was the inclusion of autistic peer mentors. Mentees noted difficulty relating with non-autistic peers and feeling burdened with the need to educate their mentor on how to support autistic adults. These data provide valuable insight into how colleges can better improve support for autistic college students to ensure postsecondary success. Future peer mentorship programs should consider recruiting neurodiverse mentors from diverse backgrounds to improve congruence between mentor and mentee identities.",
+    "DOI": "10.1007/s10803-023-05969-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a qualitative study investigating the experiences of participants in the MOSSAIC program without employment outcomes.",
+            "study_design": "Qualitative study with semi-structured interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on autistic college students, not specifically on people with mental health disorders. The intervention is also not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes or interventions directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Qualitative study with semi-structured interviews",
+            "logprobs": null
+        }
+    }
+}

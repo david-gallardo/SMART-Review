@@ -1,0 +1,33 @@
+{
+    "ArticleID": 261,
+    "Authors": "Bond, Gary R.; Al-Abdulmunem, Monirah; Ressler, Daniel R.; Gade, Daniel M.; Drake, Robert E.",
+    "Article Title": "A Randomized Controlled Trial of an Employment Program for Veterans Transitioning from the Military: Two-Year Outcomes",
+    "Abstract": "Background Military personnel face numerous challenges transitioning from military jobs to meaningful civilian employment. Many veterans seek help finding employment, but few veteran employment programs have been rigorously studied. Transitioning veterans generally have access to Local Community Resources (LCR), which include the Veterans Health Administration vocational rehabilitation services, the state-federal Vocational Rehabilitation program, and the Department of Labor's American Job Centers. By contrast, the innovative National Career Coach Program (NCCP) offers intensive career coaching and financial incentives for working. Methods This study used a randomized controlled design to compare the NCCP and LCR approaches for 208 transitioning service members (recent or pending transition). Researchers conducted interviews by telephone every four months for two years. Outcomes included earnings, months worked, and standardized self-report measures of health and well-being. Findings At two-year follow-up, significantly more NCCP participants had worked in paid employment than LCR participants (95% vs. 83%). NCCP participants averaged $2568 in monthly earnings compared to $1865 for LCR participants, thus averaging $16,872 more total income per participant over the two-year period. Employment outcomes significantly improved between Year 1 and Year 2. NCCP participants also reported significantly greater improvements in both physical and mental health compared to LCR participants. Average monthly earnings correlated with changes in health outcomes. Conclusions Veterans receiving multi-faceted employment services early in the transition from the military showed sustained benefit over a two-year period with increased earnings over time and improved mental and physical outcomes. Positive employment outcomes may have contributed to improved health outcomes.",
+    "DOI": "10.1007/s10488-022-01208-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders and the intervention does not directly address employment for people with mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans, not specifically on people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe. It focuses on job search services and supported employment for veterans with potential mental health issues, and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

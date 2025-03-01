@@ -1,0 +1,33 @@
+{
+    "ArticleID": 762,
+    "Authors": "Tuebbicke, Stefan; Schiele, Maximilian",
+    "Article Title": "On the effects of active labour market policies among individuals reporting to have severe mental health problems",
+    "Abstract": "On the one hand, unemployment is known to have detrimental effects on individuals' mental health. On the other hand, poor mental health reduces re-employment chances quite drastically, creating a vicious cycle. Active labour market policies (ALMPs) such as training programs or wage subsidies have been shown to ameliorate negative effects on mental health and improve labour market integration on average for the general unemployed population. In the context of individuals with severe mental health issues, however, it is unclear whether these interventions can be expected to deliver similar positive effects. In fact, one may argue that they have the potential to worsen employment prospects of individuals by adding additional stress to their pre-existing mental health problems. Hence, this paper estimates the long-term causal effects of ALMPs on the labour market integration of individuals with self-reported severe mental health issues and compares estimates to individuals without such issues using unique combined survey and administrative data. Effects are estimated using the innovative double machine learning method and show that ALMPs do not only improve labour market integration of unemployed individuals with severe mental health issues, but they do so more effectively than for other unemployed individuals.",
+    "DOI": "10.1111/spol.12968",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is active labour market policies, which includes job search services, adult training, wage subsidies, and supported employment. The population is individuals with mental health disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (systematic review), geographic scope (EU countries), timeframe (2005-2025), intervention (active labour market policies), population (individuals with severe mental health issues), and outcomes (labour market integration).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on EU countries, and covers the timeframe of 2005-2025. It examines interventions like job search services and wage subsidies, which are relevant to the inclusion criteria. The study population includes individuals with mental health problems, and it assesses employment outcomes.",
+            "study_design": "Systematic review of controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the EU, was published within the specified timeframe, examines wage subsidies as an intervention, targets people with severe mental health issues, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

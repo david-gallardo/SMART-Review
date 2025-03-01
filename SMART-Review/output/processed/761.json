@@ -1,0 +1,33 @@
+{
+    "ArticleID": 761,
+    "Authors": "Richter, Dirk; Hertig, Res; Hoffmann, Holger",
+    "Article Title": "Psychiatric Rehabilitation - From the Linear Continuum Approach Towards Supported Inclusion",
+    "Abstract": "Background: For many decades, psychiatric rehabilitation in the German-speaking countries is following a conventional linear continuum approach.Methods: Recent developments in important fields related to psychiatric rehabilitation (UN Convention on the Rights of People with Disabilities, theory of rehabilitation, empirical research) are reviewed.Results: Common to all developments in the reviewed fields are the principles of choice, autonomy and social inclusion. These principles contradict the conventional linear continuum approach.Conclusions: The linear continuum approach of psychiatric rehabilitation should be replaced by the supported inclusion-approach.",
+    "DOI": "10.1055/s-0042-105859",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of recent developments in psychiatric rehabilitation, but it lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not present outcomes related to employment or labor results.",
+            "study_design": "Review article",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 861,
+    "Authors": "Monteith, Scott; Glenn, Tasha; Geddes, John; Whybrow, Peter C.; Bauer, Michael",
+    "Article Title": "Commercial Use of Emotion Artificial Intelligence (AI): Implications for Psychiatry",
+    "Abstract": "Purpose of Review Emotion artificial intelligence (AI) is technology for emotion detection and recognition. Emotion AI is expanding rapidly in commercial and government settings outside of medicine, and will increasingly become a routine part of daily life. The goal of this narrative review is to increase awareness both of the widespread use of emotion AI, and of the concerns with commercial use of emotion AI in relation to people with mental illness. Recent Findings This paper discusses emotion AI fundamentals, a general overview of commercial emotion AI outside of medicine, and examples of the use of emotion AI in employee hiring and workplace monitoring. The successful re-integration of patients with mental illness into society must recognize the increasing commercial use of emotion AI. There are concerns that commercial use of emotion AI will increase stigma and discrimination, and have negative consequences in daily life for people with mental illness. Commercial emotion AI algorithm predictions about mental illness should not be treated as medical fact.",
+    "DOI": "10.1007/s11920-022-01330-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study discusses the commercial use of emotion AI in relation to people with mental illness, but it does not address employment outcomes.",
+            "study_design": "Narrative Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a narrative review and lacks rigorous evaluation or control group. It does not directly address employment interventions for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Narrative Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        }
+    }
+}

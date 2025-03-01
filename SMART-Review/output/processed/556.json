@@ -1,0 +1,33 @@
+{
+    "ArticleID": 556,
+    "Authors": "Carstens, Carol; Massatti, Richard",
+    "Article Title": "Predictors of Labor Force Status in a Random Sample of Consumers with Serious Mental Illness",
+    "Abstract": "Employment among persons with severe mental illness has been challenging. Supported employment programs have had some success; however, much remains to be understood about client motivations for employment. A labor force participation study was mailed to persons receiving services in a Midwestern state's publicly funded behavioral health system, and a random sample of participants resulted in 964 valid surveys. Analysis showed significant differences between Medicaid coverage program and labor force status, with some programs likely to have higher percentages of employed persons. A multinomial logistic regression model explored the odds of employment and unemployment to not being in the labor force. Perception of incentives to employment greatly increased the odds, while age and perception of barriers to employment decreased the odds for both groups when compared to those not in the labor force. Findings have implications for the design of employment programs and coverage benefits.",
+    "DOI": "10.1007/s11414-018-9597-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multinomial logistic regression model, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it is conducted in the US. The study's timeframe is within the specified range of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems. The study presents measures of employment outcomes.",
+            "study_design": "Multinomial logistic regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group. It is also outside the specified geographic scope and timeframe.",
+            "study_design": "Cross-sectional survey with multinomial logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

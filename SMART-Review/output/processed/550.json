@@ -1,0 +1,33 @@
+{
+    "ArticleID": 550,
+    "Authors": "Bond, Gary R.; Johnson-Kwochka, Annalee V.; Pogue, Jacqueline A.; Langfitt Reese, Sandra; Becker, Deborah R.; Drake, Robert E.",
+    "Article Title": "A Tale of Four States: Factors Influencing the Statewide Adoption of IPS",
+    "Abstract": "Evidence-based supported employment has become a core community mental health service in much of the U.S. Although a national learning community has facilitated progress in about half of the states, other states have tried to implement evidence-based supported employment on their own. Many studies have examined site-level factors influencing implementation of supported employment, but few have focused on the role of state agency policies and actions. This study examined four states that have not joined the learning community, comparing two that have implemented with success (adopting states) and two that have faced challenges (non-adopting states). This comparative case study approach compared barriers, facilitators, and strategies in two states adopting IPS to two states that did not. The authors examined quantitative data from public records and conducted content analysis of qualitative and quantitative data from key informant interviews. The two non-adopting states lacked model clarity, funding, focus on people with serious mental illness, and collaboration between state mental health and vocational rehabilitation agencies. The two successful states experienced similar barriers but overcame them following lawsuit settlements that required implementation of evidence-based supported employment. Key strategies for successful implementation were funding, fidelity monitoring, technical assistance, and collaboration between state mental health and vocational rehabilitation agencies. With legal settlements serving as the catalyst, states facing challenges to implementing evidence-based supported employment can achieve success using standard implementation strategies to fund and ensure the quality of services.",
+    "DOI": "10.1007/s10488-020-01087-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a comparative case study approach, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Comparative case study approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a comparative case study examining factors influencing the adoption of IPS in four states without a randomized controlled trial or quasi-experimental design with a control group.",
+            "study_design": "Comparative case study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on state agency policies and actions in the implementation of supported employment, which is not directly related to the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Comparative case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a comparative case study with a control group, focuses on supported employment in the US, and includes outcomes related to job quality and workplace integration.",
+            "study_design": "Comparative Case Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 676,
+    "Authors": "Stack, Steven",
+    "Article Title": "Contributing factors to suicide: Political, social, cultural and economic",
+    "Abstract": "This review summarizes recent research in four environmental areas affecting risk of deaths by suicide. Politically, the weight of the evidence suggests that laws increasing social welfare expenditures and other policies assisting persons with low incomes (e.g., minimum wage) tend to lower suicide rates. Other legal changes such as those restricting firearms and alcohol availability can also prevent suicides. The social institutions of marriage, as well as parenting, continue to serve as protective factors against suicide, although the degree of protection is often gendered. Religiousness tends to be inversely associated with suicide deaths at the individual level of analysis, but the mediators need exploration to determine what accounts for the association: social support, better mental health, better physical health, less divorce, or other covariates. Cultural definitions of the traditional male role (e.g., breadwinner culture) continue to help explain the high male to female suicide ratio. New work on the culture of suicide shows promise. The degree of approval of suicide is sometimes the single most important factor in predicting suicide. At the individual level of analysis, two of the strongest predictors of suicide are economic ones: unemployment and low socio-economic status. Attention is drawn to enhancing the minimum wage as a policy known to lower state suicide rates. Limitations of research include model misspecification, conflicting results especially when ecological data are employed, and a need for more research exploring moderators of established patterns such as that between religiousness and suicide.",
+    "DOI": "10.1016/j.ypmed.2021.106498",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a review, but it lacks a control group and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on contributing factors to suicide across various environmental areas including political, social, cultural, and economic aspects.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on factors affecting suicide rates, not employment outcomes for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

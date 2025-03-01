@@ -1,0 +1,33 @@
+{
+    "ArticleID": 731,
+    "Authors": "Snyder, Susan M.; Morse, Siobhan A.; Bride, Brian E.",
+    "Article Title": "Exploring Differences in Baseline Characteristics among Adults Entering Integrated Residential Treatment for Co-occurring Disorders in 2013 and 2017",
+    "Abstract": "Little is known about patients' addiction severity, substance use, or mental health symptoms upon entering integrated treatment. This is the first study to compare baseline characteristics among cohorts of patients with co-occurring disorders entering a private integrated residential treatment program in 2013 and 2017; a period when severe and persistent mental illness diagnoses, mental health service use, and overdose deaths increased. Our sample includes 3400 patients entering private, integrated residential treatment during 2013 (n = 1535) and 2017 (n = 1865). Trained staff completed admission interviews of all participants that included the Addiction Severity Index (ASI), a semi-structured interview to evaluate the past 30-day functioning of the following domains: medical, employment, alcohol, drug, legal, family or social support systems, and psychiatric. We used a p-value of 0.05 to assess significance. With the exception of the drug composite score, the 2017 cohort scored higher than the 2013 cohort on all other composite scores. Compared to the 2013 cohort, the 2017 cohort reported more days using alcohol, cocaine, amphetamines, and engaging in polysubstance use. Conversely, the 2017 cohort reported fewer days using other prescription opioids and sedatives than the 2013 cohort. After controlling for age, the 2017 cohort reported more days of marijuana use than the 2013 cohort. The 2017 cohort reported higher rates of the following symptoms: depression, anxiety, hallucinations, and suicidal ideation. Findings underscore differences among integrated treatment patient cohorts for baseline addiction severity, substance use, or mental health symptoms.",
+    "DOI": "10.1080/19371918.2021.1986449",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it only compares baseline characteristics within cohorts of patients entering integrated treatment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes measuring employment or labor results.",
+            "study_design": "Cross-sectional comparison of baseline characteristics between two cohorts entering integrated residential treatment in different years.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

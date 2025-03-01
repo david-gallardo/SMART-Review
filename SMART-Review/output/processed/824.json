@@ -1,0 +1,33 @@
+{
+    "ArticleID": 824,
+    "Authors": "Kohl, Fiona; Schroeder, Ute B.; Stegmann, Ralf; Wegewitz, Uta; Hander, Nicole; Hansmann, Marieke; Angerer, Peter; Erim, Yesim; Hondong, Sinja; Kroeger, Christoph; Mulfinger, Nadine; Waldman, Tamara; Herrmann, Kristin; Weber, Jeannette",
+    "Article Title": "Implementation of psychotherapeutic consultation at work (PT-A): expectations, announcement, anduse. Results of the friaa-study",
+    "Abstract": "IntroductionPsychotherapeutic consultation at work (PT-A) offers easily accessible, short-term support for employees experiencing psychological stress. The aim of the study was to evaluate aspects of the implementation regarding announcement, access, and use of the PT-A. MethodsThe study was conducted as part of a randomized controlled trial (RCT) called Early Intervention in the Workplace. Forty-six company actors answered a questionnaire about how the companies announced the PT-A to their employees, the barriers in the announcement of the PT-A, and the beneficial factors of using the PT-A. The access routes of the 550 participating employees were used from the baseline data of the RCT. Seven company actors were qualitatively interviewed about their expectations of the PT-A and 22 participants of the RCT were interviewed about their experiences accessing and using the PT-A. ResultsThe company actors hoped that the PT-A would have an impact on all levels of prevention. Most companies announced the PT-A centrally (e.g., flyers and intranet) as well as through individual recommendations (e.g., through the company's social counselling and occupational health professionals). Employees appreciated the opportunity to participate anonymously in the central announcement. Advantages of the supportive access were seen in the accessibility of employees without treatment experience, employees with high levels of suffering, and employees who have not yet recognized their own need for treatment. DiscussionThe results suggest that it is useful to announce the PT-A centrally to all employees but also to recommend it personally to affected employees. By using both methods, different PT-A target groups can be reached and the advantages of anonymous participation are retained.",
+    "DOI": "10.1007/s00103-024-03909-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group. The study also meets the geographic scope, timeframe, and intervention criteria. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the implementation and evaluation of psychotherapeutic consultation at work (PT-A) regarding announcement, access, and use.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

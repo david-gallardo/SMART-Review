@@ -1,0 +1,33 @@
+{
+    "ArticleID": 997,
+    "Authors": "Wirth, Tanja; Mette, Janika; Prill, Jerrit; Harth, Volker; Nienhaus, Albert",
+    "Article Title": "Working conditions, mental health and coping of staff in social work with refugees and homeless individuals: A scoping review",
+    "Abstract": "The refugee and homeless population has been increasing worldwide in recent years. Staff in social work provide practical help to these populations, but often struggle with high job demands. This scoping review aims to systematically map the job demands, resources, mental health problems, coping strategies and needs of staff in social work with refugees and homeless individuals. Relevant studies were identified by searching seven electronic databases from their inception until the end of May 2018, as well as Google Scholar and reference lists of included articles. The methodological quality of the included studies was assessed using the Mixed Methods Appraisal Tool. A thematic analysis was conducted. Twenty-five studies were included in the review. Fourteen studies followed a quantitative approach, six a qualitative approach and five a mixed-method approach. Most studies were conducted in the homeless sector (56%), in North America (52%) and published after the year 2009 (68%). Common job demands included the bureaucratic system, high caseloads, clients' suffering and little experience of success. Maintaining professional boundaries counted both as a job demand and a coping strategy. Deriving meaning from work and support from the team were identified as important job resources. The prevalence of mental health problems among staff was high, but difficult to compare due to the use of different instruments in studies. Staff expressed a need for ongoing training, external counselling and supervision. Further studies should examine the effectiveness of workplace health interventions.",
+    "DOI": "10.1111/hsc.12730",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on job demands, mental health, and coping strategies of social work staff, not directly on employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

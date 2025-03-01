@@ -1,0 +1,33 @@
+{
+    "ArticleID": 826,
+    "Authors": "Perrins, Sara P.; Varanasi, Usha; Seto, Edmund; Bratman, Gregory N.",
+    "Article Title": "Nature at work: The effects of day-to-day nature contact on workers' stress and psychological well-being",
+    "Abstract": "Objectives: Chronic stress and burnout are key health issues for office workers that may contribute to a myriad of poor health outcomes. The presence of natural elements may improve psychological well-being in workers but the number of existing studies is relatively low, and more longitudinal research is specifically needed to assess how characteristics of workers' day-to-day environments may impact mental health outcomes like affect, depression and stress. This report outlines a multi-study investigation of workers at Amazon, a multinational e-commerce company based in Seattle, Washington, USA, and the mental health benefits associated with exposure to nature.Methods: In Study 1, participants (n = 153) responded to a cross-sectional survey that assessed the association of self-reported visitation to an indoor company greenspace with psychological well-being including symptoms of depression, anxiety, positive and negative affect, and stress. In Study 2, a subset of participants from Study 1 (n = 33) completed multiple surveys in a 2-week period that assessed the association of the naturalness of their current environments with their state levels of psychological well-being.Results: We found contact with more natural outdoor environments was significantly associated with reduced state anxiety, after adjusting for activity type, location, and participants' trait levels of nature relatedness.Conclusions: Findings demonstrate that nature contact in everyday life is significantly associated with decreased levels of state anxiety. More research is needed to investigate the role of nature contact as a potential intervention in the workplace for improved mental health.",
+    "DOI": "10.1016/j.ufug.2021.127404",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between nature contact and psychological well-being.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks interventions related to job search services, adult training, wage subsidies, or supported employment. It focuses on the effects of nature contact on stress and psychological well-being in office workers.",
+            "study_design": "Cross-sectional survey with a subset longitudinal component",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey and longitudinal study",
+            "logprobs": null
+        }
+    }
+}

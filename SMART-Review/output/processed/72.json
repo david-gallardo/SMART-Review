@@ -1,0 +1,33 @@
+{
+    "ArticleID": 72,
+    "Authors": "LePage, James P.; Walters, Scott T.; Cipher, Daisha J.; Crawford, April M.; Washington, Edward L.",
+    "Article Title": "Employment Outcomes of a Distance Learning System for Formerly Incarcerated Veterans With Mental Illness",
+    "Abstract": "Objective: People with previous incarceration and a mental disorder, a substance use disorder, or both are less likely to obtain employment than are those without these characteristics. Distance learning and education (DLE) systems are increasingly being integrated into clinical care and provide a pathway to disseminate vocational services. DLE systems can help reach people with barriers to accessing services, including people without transportation, experiencing homelessness, living in rural areas, or who are homebound. This study evaluated the effectiveness of one DLE system, the COMPASS program, in assisting formerly incarcerated veterans with a mental or substance use disorder to obtain employment. Methods: The authors used a randomized controlled trial to compare employment outcomes of 39 U.S. veterans receiving the COMPASS intervention with those of 43 veterans receiving a paper self-study vocational manual. All participants had previous legal convictions and had a mental disorder, a substance use disorder, or both. The COMPASS system provided vocational services through asynchronous (online practice assignments, reading, and videos) and synchronous (video and telephone practice interviews and live chats) methods. No in-person vocational services were provided in the COMPASS intervention. Results: At 6 months, participants assigned to receive the COMPASS intervention were more likely to have found employment, defined as 1 day of competitive employment, compared with those assigned to receive the self- study manual (64% vs. 35%, respectively)-and to have found employment faster. Conclusions: This study's findings provide evidence for the effectiveness of the COMPASS system in providing employment services and suggest that these services may benefit other vulnerable populations.",
+    "DOI": "10.1176/appi.ps.20230408",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (job search services), population (people with mental disorders), and outcomes (employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on formerly incarcerated veterans with mental or substance use disorders, which does not align with the specified population of people with mental health disorders. Additionally, the intervention described is not directly related to job search services, adult training, wage subsidies, or supported employment as per the inclusion criteria.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: RCT study design, conducted in the US, published within the timeframe, intervention is job search services, population has mental health disorders, and outcomes include employment rates.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

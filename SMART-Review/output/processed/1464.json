@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1464,
+    "Authors": "Akinola, Olayemi A.; Horsman, Euchay Ngozi; Dunkley, Lisa",
+    "Article Title": "Correlates of vocational outcomes of youth with co-occurring mental illness and substance use disorders: Evidence from a vocational rehabilitation program",
+    "Abstract": "Youth with co-occurring mental illness and substance use disorders are at higher risk for vocational rehabilitation exclusion. This study aimed to (a) explore the personal factors associated with vocational outcomes of youth with co-occurring mental illness and substance use disorders and (b) highlight services that have shown the greatest promise for this population in the state-federal rehabilitation program in the United States. Our analytic sample was extracted from the Rehabilitation Services Administration's Case Service Report data set for 2013, 2014, and 2015 fiscal years. Multiple regression analyses results identified personal factors such as gender, race/ethnicity, level of education, and severity of disability as predictors of the achievement of competitive employment, hours worked, and income. The receipt of vocational rehabilitation services such as job search support, job placement assistance, vocational training, and on-the-job support are significantly associated with the achievement of competitive employment, higher work hours, and income. These finding have implications for vocational rehabilitation practice as they highlight who is at higher risk for poor outcomes, effective services, and additional factors to consider when working with youth with co-occurring mental illness and substance use disorders.",
+    "DOI": "10.1017/jrc.2021.9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCT), or quasi-experimental study with a control group. It is a cross-sectional study using multiple regression analyses.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on youth with co-occurring mental illness and substance use disorders, which is outside the specified population of people with mental disorders or documented mental health problems. Additionally, while it discusses vocational rehabilitation services, these do not specifically address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Descriptive study using multiple regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youth with co-occurring mental illness and substance use disorders, which is not the specified population of people with mental disorders or documented mental health problems in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on the US, was published within the specified timeframe (2013-2015), examines job search services and adult training as interventions, targets people with mental health disorders, and includes employment outcomes such as competitive employment, hours worked, and income.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

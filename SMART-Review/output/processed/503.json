@@ -1,0 +1,33 @@
+{
+    "ArticleID": 503,
+    "Authors": "van Rijn, Rogier M.; Carlier, Bouwine E.; Schuring, Merel; Burdorf, Alex",
+    "Article Title": "Work as treatment? The effectiveness of re-employment programmes for unemployed persons with severe mental health problems on health and quality of life: a systematic review and meta-analysis",
+    "Abstract": "Given the importance of unemployment in health inequalities, re-employment of unemployed persons into paid employment may be a powerful intervention to increase population health. It is suggested that integrated programmes of vocational reintegration with health promotion may improve the likelihood of entering paid employment of long-term unemployed persons with severe mental health problems. However, the current evidence regarding whether entering paid employment of this population will contribute to a reduction in health problems remains unambiguous. This systematic review and meta-analysis aimed to assess the effects of re-employment programmes with regard to health and quality of life. Three electronic databases were searched (up to March 2015). Two reviewers independently selected articles and assessed the risk of bias on prespecified criteria. Measures of effects were pooled and random effect meta-analysis of randomised controlled trials was conducted, where possible. Sixteen studies were included. Nine studies described functioning as an outcome measure. Five studies with six comparisons provided enough information to calculate a pooled effect size of -0.01 (95% CI -0.13 to 0.11). Fifteen studies presented mental health as an outcome measure of which six with comparable psychiatric symptoms resulted in a pooled effect size of 0.20 (95% CI -0.23 to 0.62). Thirteen studies described quality of life as an outcome measure. Seven of these studies, describing eight comparisons, provided enough information to calculate a pooled effect size of 0.28 (95% CI 0.04 to 0.52). Re-employment programmes have a modest positive effect on the quality of life. No evidence was found for any effect of these re-employment programmes on functioning and mental health.",
+    "DOI": "10.1136/oemed-2015-103121",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention (re-employment programmes) and population (people with mental disorders) meet the inclusion criteria. The study presents measures of employment or labor outcomes (health and quality of life).",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe does not meet the criteria (published before 2005).",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. However, the study focuses on unemployed persons with severe mental health problems, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the study's timeframe extends beyond the specified 2005-2025 range. The intervention and outcomes are relevant, but the population and timeframe criteria are not met.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review and meta-analysis of RCTs, focuses on people with severe mental health problems, includes employment outcomes (job duration, job quality), and was published within the specified timeframe.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        }
+    }
+}

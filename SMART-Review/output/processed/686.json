@@ -1,0 +1,33 @@
+{
+    "ArticleID": 686,
+    "Authors": "Schniedermann, Ina; Dehn, Lorenz B.; Micheel, Sabrina; Beblo, Thomas; Driessen, Martin",
+    "Article Title": "Evaluation of a supported education and employment program for adolescents and young adults with mental health problems: A study protocol of the StAB project",
+    "Abstract": "The majority of mental illnesses begins in childhood, adolescence and young adulthood before the age of 25. The transition from adolescence to adulthood is a particularly vulnerable time for adolescents with mental illness, affecting psychosocial functioning and participation in work life. Therefore, they need-in contrast to classic standard vocational interventions-a long-term, holistic and individually oriented vocational rehabilitation program. With the innovative model project Start in education and employment (StAB), adolescents and young adults with mental illnesses are to be supported with regard to their vocational perspectives and participation by a new type of individualized, holistic, long-term job coaching. It follows the Individual Placement and Support (IPS) concept, as a manualized form of the Supported Employment Approach and is based on the first place-then train principle. In order to evaluate the effectiveness and feasibility of the StAB program, a double-centre prospective single arm evaluation study in a mixed-methods design will be conducted. The focus is on quantitative research analysing pre-post-effects of the StAB intervention in a two-year observational study. Young people between 15 and 25 years with a psychiatric diagnosis who are currently in receipt of means-tested benefits or are entitled to them will be recruited. The study will take place in two major cities in the north-western part of Germany, Bielefeld and Dortmund. We expect to contribute to gain more empirical data about the implementation of Supported Employment and Education to severely mentally ill adolescents and young adults in German settings. Moreover, these results may also provide the scientific foundation for future measures focusing the improvement of vocational rehabilitation for young people with mental illness.",
+    "DOI": "10.1371/journal.pone.0271803",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective single-arm evaluation study with a control group (quantitative research analysing pre-post-effects), the intervention is supported education and employment, the population is people with mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Prospective single-arm evaluation study with a control group (quantitative research analysing pre-post-effects)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a control group and does not meet the inclusion criteria for intervention (it focuses on adolescents rather than adults) and population (adolescents and young adults with mental health problems, but not specifically documented mental health issues).",
+            "study_design": "Prospective single arm evaluation study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adolescents and young adults with mental illness, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the study design is a single arm evaluation study, which lacks a control group, and the intervention is not directly related to employment but rather to education and vocational rehabilitation.",
+            "study_design": "single arm evaluation study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a single-arm evaluation study without a control group.",
+            "study_design": "Single arm evaluation study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 286,
+    "Authors": "Whitworth, Adam; Baxter, Susan; Cullingworth, Jane; Clowes, Mark",
+    "Article Title": "Individual Placement and Support (IPS) beyond severe mental health: An overview review and meta-analysis of evidence around vocational outcomes",
+    "Abstract": "Objective: To provide an overview review of international evidence of vocational outcomes in Individual Placement and Support (IPS) interventions for populations other than severe mental health. Methods: An overview of reviews published in English since 2000 reporting vocational outcomes (job entry, work sustainment, earnings, work hours, time to job entry) against counterfactuals of IPS interventions for population groups other than severe mental health. The overview review maximises data from individual studies and includes additional recent primary studies. DerSimonian-Laird random effects meta-analysis was performed. Results: Thirteen eligible studies were identified from five reviews and five more recent individual studies were also identified. IPS studies covered a range of groups with a concentration towards mental health. For the primary vocational outcome of job entry all IPS studies showed superior job entry rates compared to control groups with an overall weighted odds ratio of 1.78 [1.42,2.22]. Substantial heterogeneity was identified by study size and the overall weighted odds ratio of 1.32 [1.2,1.46] estimated from the large and medium sized studies seems a more plausible estimate of the likely effects of scaled-up IPS interventions in groups beyond severe mental health. Secondary vocational outcomes including job sustainment, total earnings, average weekly hours worked and time to job entry were typically superior in IPS services than control groups. Conclusions: IPS services are consistently more effective in supporting diverse population groups into sustained employment compared to business-as-usual employment services. The evidence is limited by unclear terminology, small sample sizes, incomplete intervention fidelity, intervention contamination and inconsistent measurement.",
+    "DOI": "10.1016/j.pmedr.2024.102786",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The intervention is Individual Placement and Support (IPS), which is one of the included interventions. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job entry, job sustainment, total earnings, average weekly hours worked, and time to job entry.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (meta-analysis), geographic scope (international but includes EU countries), timeframe (2000-2025), intervention (Individual Placement and Support, a form of job search services), population (people with mental health disorders), and outcomes (employment rates).",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Individual Placement and Support (IPS) interventions for populations other than severe mental health, which does not align with the specified inclusion criteria that require interventions to be directed at people with mental disorders or documented mental health problems. Additionally, the study's geographic scope and intervention type do not meet the specified criteria.",
+            "study_design": "Overview review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: systematic review of controlled trials, EU countries included in the study, published within the timeframe, intervention is supported employment, population includes people with mental health disorders, and outcomes include employment rates.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

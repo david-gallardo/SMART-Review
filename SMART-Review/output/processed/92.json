@@ -1,0 +1,33 @@
+{
+    "ArticleID": 92,
+    "Authors": "Olney, Sue; Devine, Alexandra; Karanikolas, Pan; Dimov, Stefanie; Malbon, Jennifer; Katsikis, Georgia",
+    "Article Title": "Disability and work in a health and economic crisis: Mitigating the risk of long-term labour market exclusion for Australians with disability through policy coordination",
+    "Abstract": "Labour markets around the world are experiencing extraordinary disruption during the COVID-19 pandemic. The gap in the employment rate between Australians with and without disability is likely to widen, given the entrenched disadvantage of people with disability in the job market. For many, it will compound existing health and economic vulnerabilities. This scenario is troubling from both a human rights and an economic perspective. In this paper, we examine the interface of two policy instruments intended to improve the prospects of people with disability finding and keeping employment in Australia - Disability Employment Services and the National Disability Insurance Scheme - in the lead up to and in the early stages of the COVID-19 pandemic. Findings from three studies conducted between 2018 and 2020 reveal these instruments are not mutually reinforcing. With a 10-year National Disability Employment Strategy (NDES) in development under federal government oversight, we argue that more concerted and targeted effort from these services and broader public policies and programs is needed to ensure Australians with disability are not sidelined in the labour market in the wake of the pandemic.",
+    "DOI": "10.1111/1467-8500.12500",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Other",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and its population is not specifically defined as people with mental health disorders. The intervention focuses on disability employment services and the National Disability Insurance Scheme, which do not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Descriptive analysis of policy instruments without rigorous evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly related to employment, such as job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it meets the inclusion criteria for study design.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

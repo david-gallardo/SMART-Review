@@ -1,0 +1,33 @@
+{
+    "ArticleID": 787,
+    "Authors": "Viering, Sandra; Jaeger, Matthias; Kawohl, Wolfram",
+    "Article Title": "Which Factors Influence the Success of Supported Employment?",
+    "Abstract": "Objectives: Main goal of this review is to identify predictive factors for the outcome of Individual Placement and Support (IPS) with a focus on Supported Employment (SE) and of pre-vocational training (PVT) of individuals with mental illness.Method: A systematic search of PsychInfo, PubMed, PsychIndex and PsyArticles was conducted. Studies were included if they compared both approaches, SE and PVT, contained predictors to optimize SE or PVT, investigated the effectiveness of SE or examined what constitutes adequate job coaching.Results: 45 articles have been included. 27 articles referred to predictors that influence the outcome of SE or PVT, 9 showed a direct comparison between both approaches, 5 investigated job coaching and 4 examined the effectiveness of SE. In summary motivation, work experience and high fidelity of IPS criteria seem to be the most important predictors for a successful job reintegration using SE.Discussion: Overall, SE is more effective than PVT. The success of SE can be enhanced by keeping the predictors in mind. However, future research should focus more specifically on predictors.",
+    "DOI": "10.1055/s-0034-1387695",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on EU countries, Europe, US, Canada, and Australia, and it includes employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but it does not meet the inclusion criteria for intervention (it focuses on predictors of success rather than interventions like job search services, adult training, wage subsidies, or supported employment) and population (it refers to individuals with mental illness generally without specifying documented mental health problems).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review that meets the inclusion criteria for study design, intervention, population, and outcomes. It focuses on Supported Employment (SE), which is one of the interventions of interest. The study is relevant to the geographic scope and timeframe specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review that includes controlled trials and focuses on supported employment for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

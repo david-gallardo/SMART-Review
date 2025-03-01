@@ -1,0 +1,33 @@
+{
+    "ArticleID": 418,
+    "Authors": "Saraceno, B.; Gater, R.; Rahman, A.; Saeed, K.; Eaton, J.; Ivbijaro, G.; Kidd, M.; Dowrick, C.; Servili, C.; Funk, M. K.; Underhill, C.",
+    "Article Title": "Reorganization of mental health services: from institutional to community-based models of care",
+    "Abstract": "Mental health services in the Eastern Mediterranean Region are predominantly centralized and institutionalized, relying on scarce specialist manpower. This creates a major treatment gap for patients with common and disabling mental disorders and places an unnecessary burden on the individual, their family and society. Six steps for reorganization of mental health services in the Region can be outlined: (1) integrate delivery of interventions for priority mental disorders into primary health care and existing priority programmes; (2) systematically strengthen the capacity of non-specialized health personnel for providing mental health care; (3) scale up community-based services (community outreach teams for defined catchment, supported residential facilities, supported employment and family support); (4) establish mental health services in general hospitals for outpatient and acute inpatient care; (5) progressively reduce the number of long-stay beds in mental hospitals through restricting new admissions; and (6) provide transitional/bridge funding over a period of time to scale up community-based services and downsize mental institutions in parallel.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive article outlining steps for reorganization of mental health services, but it lacks a rigorous evaluation and does not present measures of employment or labor results.",
+            "study_design": "Descriptive article",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies) and does not directly address employment outcomes. It focuses on reorganizing mental health services in the Eastern Mediterranean Region.",
+            "study_design": "Descriptive analysis of service reorganization",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Reorganization of mental health services",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Eastern Mediterranean Region).",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 58,
+    "Authors": "van de Poll, Marijke Keus; Nybergh, Lotta; Lornudd, Caroline; Hagberg, Jan; Bodin, Lennart; Kwak, Lydia; Jensen, Irene; Lohela-Karlsson, Malin; Torgen, Margareta; Bergstrom, Gunnar",
+    "Article Title": "Preventing sickness absence among employees with common mental disorders or stress-related symptoms at work: a cluster randomised controlled trial of a problem-solving-based intervention conducted by the Occupational Health Services",
+    "Abstract": "Objectives Common mental disorders (CMDs) are among the main causes of sickness absence and can lead to suffering and high costs for individuals, employers and the society. The occupational health service (OHS) can offer work-directed interventions to support employers and employees. The aim of this study was to evaluate the effect on sickness absence and health of a work-directed intervention given by the OHS to employees with CMDs or stress-related symptoms. Methods Randomisation was conducted at the OHS consultant level and each consultant was allocated into either giving a brief problem-solving intervention (PSI) or care as usual (CAU). The study group consisted of 100 employees with stress symptoms or CMDs. PSI was highly structured and used a participatory approach, involving both the employee and the employee's manager. CAU was also work-directed but not based on the same theoretical concepts as PSI. Outcomes were assessed at baseline, at 6 and at 12 months. Primary outcome was registered sickness absence during the 1-year follow-up period. Among the secondary outcomes were self-registered sickness absence, return to work (RTW) and mental health. Results A statistical interaction for group x time was found on the primary outcome (p=0.033) and PSI had almost 15 days less sickness absence during follow-up compared with CAU. Concerning the secondary outcomes, PSI showed an earlier partial RTW and the mental health improved in both groups without significant group differences. Conclusion PSI was effective in reducing sickness absence which was the primary outcome in this study.",
+    "DOI": "10.1136/oemed-2019-106353",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a cluster randomized controlled trial (RCT) with a control group.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on preventing sickness absence rather than directly addressing employment. It does not meet the inclusion criteria for interventions that specifically target active employment policies.",
+            "study_design": "Cluster randomised controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a cluster RCT with a control group, focuses on EU countries (Germany), and addresses job search services as an intervention for people with mental health disorders. It also covers the timeframe of 2005-2025 and includes employment outcomes such as sickness absence.",
+            "study_design": "Cluster randomised controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The article is an RCT conducted within the specified timeframe (2005-2025), in Europe, and focuses on people with mental health disorders. It evaluates a job-related intervention and includes employment outcomes such as sickness absence and return to work.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

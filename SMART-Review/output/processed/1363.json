@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1363,
+    "Authors": "McGrath, Michael; Duncan, Fiona; Dotsikas, Kate; Baskin, Cleo; Crosby, Liam; Gnani, Shamini; Hunter, Rachael Maree; Kaner, Eileen; Kirkbride, James Bowes; Lafortune, Louise; Lee, Caroline; Oliver, Emily; Osborn, David P.; Walters, Kate R.; Dykxhoorn, Jennifer",
+    "Article Title": "Effectiveness of community interventions for protecting and promoting the mental health of working-age adults experiencing financial uncertainty: a systematic review",
+    "Abstract": "Background The COVID-19 pandemic has created a period of global economic uncertainty. Financial strain, personal debt, recent job loss and housing insecurity are important risk factors for the mental health of working-age adults. Community interventions have the potential to attenuate the mental health impact of these stressors. We examined the effectiveness of community interventions for protecting and promoting the mental health of working-age adults in high-income countries during periods of financial insecurity. Methods Eight electronic databases were systematically screened for experimental and observational studies published since 2000 measuring the effectiveness of community interventions on mental health outcomes. We included any non-clinical intervention that aimed to address the financial, employment, food or housing insecurity of participants. A review protocol was registered on the PROSPERO database (CRD42019156364) and results are reported in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Results From 2326 studies screened, 15 met our inclusion criteria. Five categories of community intervention were identified: advice services colocated in healthcare settings; link worker social prescribing; telephone debt advice; food insecurity interventions; and active labour market programmes. In general, the evidence for effective and cost-effective community interventions delivered to individuals experiencing financial insecurity was lacking. From the small number of studies without a high risk of bias, there was some evidence that financial insecurity and associated mental health problems were amenable to change and differences by subpopulations were observed. Conclusion There is a need for well-controlled studies and trials to better understand effective ingredients and to identify those interventions warranting wider implementation.",
+    "DOI": "10.1136/jech-2020-215574",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on community interventions for protecting and promoting mental health of working-age adults experiencing financial uncertainty.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on community interventions for working-age adults experiencing financial insecurity, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify that the population has mental disorders or documented mental health problems.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

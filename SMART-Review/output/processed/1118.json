@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1118,
+    "Authors": "Niedhammer, Isabelle; Lesuffleur, Thomas; Coutrot, Thomas; Chastang, Jean-Francois",
+    "Article Title": "Contribution of working conditions to occupational inequalities in depressive symptoms: results from the national French SUMER survey",
+    "Abstract": "Social inequalities in mental health have been observed, but explanations are still lacking. The objectives were to evaluate the contribution of a large set of psychosocial work factors and other occupational exposures to social inequalities in mental health in a national representative sample of employees.The sample from the cross-sectional national French survey SUMER 2010 included 46,962 employees: 26,883 men and 20,079 women. Anxiety and depression symptoms were measured using the Hospital Anxiety and Depression scale. Occupation was used as a marker of social position. Psychosocial work factors included various variables related to the classical job strain model, psychological demands, decision latitude, social support, and other understudied variables related to reward, job insecurity, job promotion, esteem, working time/hours, and workplace violence. Other occupational exposures of chemical, biological, physical, and biomechanical nature were also studied. Weighted age-adjusted linear regression analyses were performed.Occupational gradients were found in the exposure to most psychosocial work factors and other occupational exposures. Occupational inequalities were observed for depressive symptoms, but not for anxiety symptoms. The factors related to decision latitude (and its sub-dimensions, skill discretion, and decision authority), social support, and reward (and its sub-dimensions, job promotion, job insecurity, and esteem) contributed to explain occupational inequalities in depressive symptoms. Decision latitude played a major role in the explanation. Workplace violence variables contributed among men only. Other exposures of physical and biomechanical nature also displayed significant contributions.Comprehensive prevention policies at the workplace may help to reduce social inequalities in mental health in the working population.",
+    "DOI": "10.1007/s00420-016-1142-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional national survey with a control group (46,962 employees), and it meets the geographic scope (France), timeframe (2010), and intervention (psychosocial work factors) criteria. The population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Cross-sectional national survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCTs, quasi-experimental studies, etc.) and does not directly address employment outcomes. It focuses on occupational inequalities in depressive symptoms using psychosocial work factors.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of work conditions on mental health symptoms in a general population.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

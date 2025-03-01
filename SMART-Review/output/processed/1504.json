@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1504,
+    "Authors": "Khare, Chitra; Mueser, Kim T.; McGurk, Susan R.",
+    "Article Title": "The relationship between cognitive functioning, age and employment in people with severe mental illnesses in an urban area in India: A longitudinal study",
+    "Abstract": "Although there is substantial evidence of the association between cognitive impairment and work in people with severe mental illnesses (SMI) in developed countries, less is known about this relationship in developing countries such as India. Studies showing higher rates of employment in people with SMI in developing countries than developed ones raise the question of whether cognitive functioning is related to work status and characteristics of work (e.g., wages earned). We conducted a one-year follow-up study to investigate the relationship between employment and cognitive functioning, assessed with the Montreal Cognitive Assessment (MoCA), in 150 participants with SMI (92% schizophrenia) living in an urban area and receiving psychiatric outpatient treatment at a public hospital in India. The MoCA had good internal reliability and test-retest reliability over the one-year period. Better cognitive functioning was associated with younger age, shorter duration of illness, higher education, and male gender. Both younger and older participants with higher cognitive functioning at baseline were more likely to be employed at baseline and one year later. Work status at baseline and one year follow-up was consistently related to executive functions among younger participants, and to attention among older participants, suggesting changes over the course of illness in the importance of specific cognitive domains for achieving satisfactory work performance. The findings suggest that cognitive functioning is associated with employment in people with SMI in India. Attention to impaired cognitive functioning may be critical to improving employment outcomes in this population.",
+    "DOI": "10.1016/j.scog.2022.100255",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a longitudinal study without a control group.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (India is not included).",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

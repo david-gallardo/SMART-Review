@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1043,
+    "Authors": "Van Laarhoven, Toni; Carreon, Adam; Bonneau, Wendy; Lagerhausen, Ashli",
+    "Article Title": "Comparing Mobile Technologies for Teaching Vocational Skills to Individuals with Autism Spectrum Disorders and/or Intellectual Disabilities Using Universally-Designed Prompting Systems",
+    "Abstract": "The purpose of this study was to compare mobile technologies with universally-designed prompting systems to improve the independent vocational performance of four adolescents with ASD and/or ID in school-based employment settings. Specific aims were to (1) compare the effectiveness of universally-designed prompting systems presented on iPads and HP Slates that involved participant-selection and participant-fading of available on-screen media prompts; (2) compare the usability of different mobile devices; and (3) determine if built-in decision prompts could improve problem-solving behavior during task completion. Results indicated that both devices resulted in immediate and substantial increases in independent responding for three of the four participants. All participants performed better with their preferred device and all self-faded reliance on instructional prompts as skill acquisition increased.",
+    "DOI": "10.1007/s10803-018-3512-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study aims to improve independent vocational performance of adolescents with ASD and/or ID in school-based employment settings.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on individuals with Autism Spectrum Disorders and/or Intellectual Disabilities rather than people with mental disorders. Additionally, the intervention is about improving independent vocational performance using mobile technologies and universally-designed prompting systems, which does not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with Autism Spectrum Disorders and/s/or Intellectual Disabilities, not specifically on people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders specifically.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

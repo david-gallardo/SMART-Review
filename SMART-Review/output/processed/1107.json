@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1107,
+    "Authors": "Kern, Robert S.; Zarate, Roberto; Glynn, Shirley M.; Turner, Luana R.; Smith, Kellie M.; Mitchell, Sharon S.; Sugar, Catherine A.; Bell, Morris D.; Liberman, Robert P.; Kopelowicz, Alex; Green, Michael F.",
+    "Article Title": "Improving Work Outcome in Supported Employment for Serious Mental Illness: Results From 2 Independent Studies of Errorless Learning",
+    "Abstract": "Background: Heterogeneity in work outcomes is common among individuals with serious mental illness (SMI). Objective: In 2 studies, we sought to examine the efficacy of adding errorless learning, a behavioral training intervention, to evidence-based supported employment to improve SMI work outcomes. Work behavior problems were targeted for intervention. We also explored associations between early work behavior and job tenure. Methods: For both studies (VA: n = 71; community mental health center: n = 91), randomization occurred at the time of job obtainment with participants randomized (1:1) to either errorless learning plus ongoing supported employment or ongoing supported employment alone and then followed for 12 months. Dependent variables included job tenure, work behavior, and hours worked and wages earned per week. For the primary intent-to-treat analyses, data were combined across studies. Results: Findings revealed that participants in the errorless learning plus supported employment group stayed on their jobs significantly longer than those in the supported employment alone group (32.8 vs 25.6 wk). In addition, differential treatment effects favoring errorless learning were found on targeted work behavior problems (50.5% vs 27.4% improvement from baseline to follow-up assessment). There were no other differential treatment effects. For the prediction analyses involving work behavior, social skills explained an additional 18.3% of the variance in job tenure beyond levels of cognition, symptom severity, and past work history. Conclusions: These data support errorless learning as an adjunctive intervention to enhance supported employment outcomes and implicate the relevance of workplace social difficulties as a key impediment to prolonged job tenure.",
+    "DOI": "10.1093/schbul/sbx100",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and the intervention (errorless learning plus supported employment) and population (people with mental disorders) meet the inclusion criteria. The outcomes (job tenure, work behavior, hours worked, and wages earned per week) also meet the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment with errorless learning), population (serious mental illness), and outcomes (job tenure, work behavior).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on the EU and includes job search services as an intervention, and discusses employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on supported employment for people with mental health disorders, and includes relevant outcomes such as job tenure.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

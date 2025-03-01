@@ -1,0 +1,33 @@
+{
+    "ArticleID": 447,
+    "Authors": "Bond, Gary R.; Swanson, Sarah J.; Becker, Deborah R.; Al-Abdulmunem, Monirah; Ressler, Daniel R.; Marbacher, Jessica",
+    "Article Title": "Individual Placement and Support for Young Adults: One-Year Outcomes",
+    "Abstract": "Objective: Many young adults who are unemployed and not in school need support achieving employment goals. Individual Placement and Support (IPS) is an evidence-based employment practice for adults with serious mental illness, but its applicability to young adults with mental health conditions has not been well-researched. The present study prospectively assessed IPS effectiveness in a national sample of young adults enrolled in routine practice settings in the U.S. public mental health system. Method: Nine community agencies in five states participated in a 1-year follow-up study of young adults (aged 16-24) enrolled in IPS services. The study examined three outcomes: retention in services, employment, and education. State fidelity reviewers examined IPS fidelity using a new fidelity scale, the IPS-Y. Results: In a sample of 111 participants, the mean age was 19.2, 72 (64.9%) had never worked, and 76 (68.5%) had a diagnosis of depressive and/or anxiety disorder. Participants averaged 8 months of enrollment before terminating from IPS services. During follow-up, 51 (45.9%) participants obtained a competitive job (N = 50) or paid internship (N = 1); 14 (12.6%) achieved a new education outcome. Conclusions and Implications for Practice: IPS has promising outcomes for helping young adults with mental health conditions achieve positive employment outcomes, but its effectiveness in helping young adults achieve education goals has not been demonstrated. IPS should be offered to young adults with employment goals. Targeted funding for supported education and training for IPS specialists in delivering educational supports may be necessary to ensure optimal education outcomes in IPS.",
+    "DOI": "10.1037/prj0000580",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe, and focuses on employment outcomes for young adults with mental health conditions.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it is a prospective assessment without a control group.",
+            "study_design": "Prospective assessment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young adults with mental health conditions, not specifically on people with mental disorders or documented mental health problems as per the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on the US, published within the timeframe, involves supported employment as an intervention, targets people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 238,
+    "Authors": "Litchfield, I.; Hinckley, P.",
+    "Article Title": "Factors influencing improved attendance in the UK fire service",
+    "Abstract": "Background Sickness absence rates in the UK continue to exceed those in much of the developed world, with an annual cost to employers of 29 pound billion. Rates of sickness absence in the public sector are higher than those in the private sector, with the exception of the fire service where they are consistently lower.Aims To understand the influences that increase attendance among operational firefighters.Methods A series of semi-structured interviews undertaken with operational staff to explore their attitudes to sickness absence.Results Review and analysis of participant responses identified a number of key themes, namely employee well-being, including physical fitness and mental health; employee engagement with the fire service as manifested by culture, experience, nature of the job and leadership; organizational factors including the staffing model and relationship with occupational health services and policy, which describes both refinements to and implementation of targeted policies.Conclusions Previously observed factors such as improved fitness and the distinct firefighter culture play a role, yet other factors emerged that could explain the differences. These include the greater work-life balance offered by their shift patterns, the terms and conditions of employment and perhaps most importantly the evolution of precisely targeted policies that understand the unique nature of the operational fire service.",
+    "DOI": "10.1093/occmed/kqw156",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Lacking a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews) and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention, population, or outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the fire service in the UK, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Semi-structured interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Qualitative study using semi-structured interviews",
+            "logprobs": null
+        }
+    }
+}

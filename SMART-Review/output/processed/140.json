@@ -1,0 +1,33 @@
+{
+    "ArticleID": 140,
+    "Authors": "Poremski, Daniel; Whitley, Rob; Latimer, Eric",
+    "Article Title": "Building Trust With People Receiving Supported Employment and Housing First Services",
+    "Abstract": "Objectives: The developing literature on supported employment for people who have a mental illness and recent history of homelessness has yet to explore the relationship between clients and their employment specialists. The objective of the present article is to explore and understand the way in which service users experience supported employment services and how these experiences differ from those receiving usual services. Method: Semistructured qualitative interviews were conducted with 27 people from a randomized controlled trial of supported employment, 14 receiving supported employment, and 13 receiving usual services. Thematic content analysis was used to generate themes and compare experiences between the 2 groups. Results: Trust emerged as an important facilitator to development of a collaborative relationship. It developed with time and featured in the narratives of participants who found jobs. Lack of trust and communication was associated with greater difficulty finding work. People receiving usual services rarely had repeated contact with service providers and therefore did not develop working alliances to the same extent as people receiving supported employment. Conclusions and Implications: Without the support of an employment specialist, participants receiving usual services relied more on internal motivation to search for employment opportunities. Programs assisting people to reach their employment goals must be sensitive to homelessness-specific experiences that may make establishing trust difficult. Vocational services should be designed to allow clients to deal exclusively with 1 service provider to permit the development of a working alliance.",
+    "DOI": "10.1037/prj0000137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semistructured interviews) and lacks a control group, which does not meet the inclusion criteria.",
+            "study_design": "Qualitative (semistructured interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semistructured interviews and thematic content analysis) without a rigorous evaluation or control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between service users and their employment specialists, which is not directly related to the interventions being assessed for employment outcomes.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        }
+    }
+}

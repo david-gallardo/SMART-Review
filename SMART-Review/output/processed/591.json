@@ -1,0 +1,33 @@
+{
+    "ArticleID": 591,
+    "Authors": "Schymainski, David; Solvie, Julia; Linden, Michael; Rose, Matthias",
+    "Article Title": "Spectrum, rate and unmet needs of sociomedical interventions in outpatient psychotherapy",
+    "Abstract": "Objective Psychological disorders often take a long-term course, resulting in impairment in daily life and work. Treatment must therefore target not only symptoms of illness but also capacity limitations and context restrictions, as outlined in the International Classification of Functioning, Disability and Health (ICF). This includes sociomedical and interdisciplinary interventions like coordination with other specialists, contact to employers and employment agencies, social support agencies, debt counselling, self-help and leisure groups. There are no data on the spectrum, rate and unmet needs of sociomedical interventions in outpatient psychotherapy. Method Following a semistructured interview schedule, 131 psychotherapists in private practice were asked to report on unselected patients. The interviewer assessed to what degree 38 predefined sociomedical interventions were applied so far or should be considered in the future. Result Reports for 322 patients were gathered. All sociomedical interventions were applied, depending on the sick leave status and course of illness. Cognitive behaviour therapists used more sociomedical interventions than psychodynamic therapists. Conclusion The data show that sociomedical interventions are a frequent part of psychotherapy. They are used preferably in patients with participation restrictions. Psychotherapeutic concepts and education should include sociomedical aspects.",
+    "DOI": "10.1002/cpp.2649",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a semistructured interview schedule, which lacks a control group.",
+            "study_design": "Semistructured interview schedule",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on sociomedical interventions in outpatient psychotherapy.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "semistructured interview",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

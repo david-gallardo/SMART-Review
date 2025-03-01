@@ -1,0 +1,33 @@
+{
+    "ArticleID": 890,
+    "Authors": "Berkowitz, Seth A.; Basu, Sanjay",
+    "Article Title": "Unmet Social Needs And Worse Mental Health After Expiration Of COVID-19 Federal Pandemic Unemployment Compensation",
+    "Abstract": "Federal Pandemic Unemployment Compensation (FPUC) provided unemployment insurance beneficiaries an extra $600 a week during the unprecedented economic downturn during the coronavirus disease 2019 (COVID-19) pandemic, but it initially expired in July 2020. We applied difference-in-differences models to nationally representative data from the Census Bureau's Household Pulse Survey to examine changes in unmet health-related social needs and mental health among unemployment insurance beneficiaries before and after initial expiration of FPUC. The initial expiration was associated with a 10.79-percentage-point increase in risk for self-reported missed housing payments. Further, risk for food insufficiency, depressive symptoms, and anxiety symptoms also increased among households that reported receiving unemployment insurance benefits, relative to the period when FPUC was in effect. As further unemployment insurance reform is debated, policy makers should recognize the potential health impact of unemployment insurance.",
+    "DOI": "10.1377/hlthaff.2020.01990",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a difference-in-differences model.",
+            "study_design": "Difference-in-differences model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on the impact of unemployment insurance on social needs and mental health.",
+            "study_design": "Difference-in-differences analysis using nationally representative data from the Census Bureau's Household Pulse Survey.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of unemployment insurance compensation on unmet social needs and mental health, not directly on employment outcomes or interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specifically people with mental disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1409,
+    "Authors": "Yager, Joel",
+    "Article Title": "Psychosocial Exoskeletons Normal Development, Psychopathological and Sociopathological Phenomena, and Therapeutic Applications",
+    "Abstract": "In medical therapeutics, exoskeleton refers to external protections, supports, and appliances. By analogy, psychosocial exoskeletons can be envisioned as assistive psychological and social structures that brace and extend individuals' coping abilities. This article considers the utility of defining psychosocial exoskeletons as a framework to encompass psychological and social devices that enhance coping, and therapeutic psychosocial exoskeletons as devices assisting psychiatric treatment. Clinical observations were augmented via selective narrative review using PubMed and PsychInfo.A range of psychological and social devices were identified that constitute psychosocial exoskeletons. In extremes, psychosocial exoskeletons may prescribe comprehensive lifestyles including dress, rites, taboos, and acceptable relationships. These devices may enhance normal or psychopathological development.Therapeutic psychosocial exoskeletons consist of intentionally prescribed psychotherapeutic and sociotherapeutic interventions assembled to address patient-centered problems. Elements may include counseling and psychotherapies, peer-based recovery programs, institutional programs, and social interventions involving financial assistance, supported employment, pets, and other practical resources.",
+    "DOI": "10.1097/NMD.0000000000001565",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a selective narrative review, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Selective narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It is a narrative review.",
+            "study_design": "Narrative Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders. It discusses psychosocial exoskeletons and therapeutic interventions but does not evaluate specific employment-related outcomes.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        }
+    }
+}

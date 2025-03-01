@@ -1,0 +1,33 @@
+{
+    "ArticleID": 464,
+    "Authors": "DeTore, Nicole R.; Hintz, Kathryn; Khare, Chitra; Mueser, Kim T.",
+    "Article Title": "Disclosure of mental illness to prospective employers: Clinical, psychosocial, and work correlates in persons receiving supported employment",
+    "Abstract": "Deciding whether to disclose ones psychiatric disorder to a prospective employer is a complex decision for people with severe mental illness seeking to return to work, with potential advantages and disadvantages. The present study examined the rates, patterns, and correlates of disclosure in 51 participants (74.5% schizophrenia or schizoaffective disorder) receiving high fidelity Individual Placement Support (IPS) who obtained competitive work over a two-year study period. Most participants (64.7%) disclosed their psychiatric disorder in their first job, and there was a tendency for those with multiple jobs who did not disclose initially to shift to disclosure in subsequent jobs. Participants who disclosed for their first job had worse baseline cognitive scores on the Positive and Negative Syndrome Scale (PANSS), lower self-esteem, and poorer psychosocial functioning than those who did not disclose. However, participants who disclosed to their first employer were more likely to obtain jobs that matched their interests, and worked significantly longer than those who did not disclose (32.55 vs. 12.50 weeks, respectively). The findings suggest that individuals receiving supported employment who disclose their mental illness to prospective employers may have better work outcomes.",
+    "DOI": "10.1016/j.psychres.2019.01.017",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment through active policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the decision to disclose mental illness and its correlates rather than evaluating specific employment interventions.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the decision-making process of disclosing mental illness to employers.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment in the US, within the specified timeframe, and includes relevant outcomes such as job duration.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

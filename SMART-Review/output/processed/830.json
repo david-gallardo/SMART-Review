@@ -1,0 +1,33 @@
+{
+    "ArticleID": 830,
+    "Authors": "Vonneilich, Nico; Becher, Heiko; Bohn, Barbara; Brandes, Berit; Castell, Stefanie; Deckert, Andreas; Dragano, Nico; Franzke, Claus-Werner; Fuehrer, Amand; Gastell, Sylvia; Greiser, Halina; Keil, Thomas; Klett-Tammen, Carolina; Koch-Gallenkamp, Lena; Krist, Lilian; Leitzmann, Michael; Meinke-Franze, Claudia; Mikolajczyk, Rafael; Velasquez, Ilais Moreno; Obi, Nadia; Peters, Annette; Pischon, Tobias; Reuter, Marvin; Schikowski, Tamara; Schmidt, Boerge; Schulze, Matthias; Sergeev, Dmitry; Stang, Andreas; Voelzke, Henry; Wiessner, Christian; Zeeb, Hajo; Luedecke, Daniel; von dem Knesebeck, Olaf",
+    "Article Title": "Associations of Migration, Socioeconomic Position and Social Relations With Depressive Symptoms - Analyses of the German National Cohort Baseline Data",
+    "Abstract": "Objectives: We analyze whether the prevalence of depressive symptoms differs among various migrant and non-migrant populations in Germany and to what extent these differences can be attributed to socioeconomic position (SEP) and social relations.Methods: The German National Cohort health study (NAKO) is a prospective multicenter cohort study (N = 204,878). Migration background (assessed based on citizenship and country of birth of both participant and parents) was used as independent variable, age, sex, Social Network Index, the availability of emotional support, SEP (relative income position and educational status) and employment status were introduced as covariates and depressive symptoms (PHQ-9) as dependent variable in logistic regression models.Results: Increased odds ratios of depressive symptoms were found in all migrant subgroups compared to non-migrants and varied regarding regions of origins. Elevated odds ratios decreased when SEP and social relations were included. Attenuations varied across migrant subgroups.Conclusion: The gap in depressive symptoms can partly be attributed to SEP and social relations, with variations between migrant subgroups. The integration paradox is likely to contribute to the explanation of the results. Future studies need to consider heterogeneity among migrant subgroups whenever possible.",
+    "DOI": "10.3389/ijph.2023.1606097",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the prevalence of depressive symptoms and their association with migration, socioeconomic position, and social relations.",
+            "study_design": "Prospective multicenter cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on the association between migration background, socioeconomic position, social relations, and depressive symptoms. It lacks any intervention that directly addresses job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on depressive symptoms in migrant populations in Germany and does not meet the specified inclusion criteria for employment or labor outcomes.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

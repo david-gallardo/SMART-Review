@@ -1,0 +1,33 @@
+{
+    "ArticleID": 666,
+    "Authors": "Berre, Stine",
+    "Article Title": "Exploring Disability Disadvantage in Hiring: A Factorial Survey among Norwegian Employers",
+    "Abstract": "The role of disability in producing disadvantage in employers' hiring assessments was explored in a factorial survey, where a random sample of Norwegian employers (n = 1341) evaluated fictional job-seeker profiles. The results revealed that including an impairment description in a job-seeker profile significantly decreased the likelihood that employers would want to hire a candidate. The degree of disadvantage varied with the type of impairment. Being eligible for a wage subsidy scheme improved employers' assessments of candidates while including information about other types of support measures did not. Furthermore, when an impairment description was introduced into a job-seeker profile, other crucial characteristics of the job seeker lost some or all of their impact on employers' assessment scores. These findings are interpreted as disability becoming a 'master status' when employers make hiring assessments.",
+    "DOI": "10.1177/09500170231175776",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Factorial survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group. It is a factorial survey without randomized controlled trials or quasi-experimental studies.",
+            "study_design": "Factorial Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on employers' hiring assessments in Norway and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Factorial survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in one of the specified geographic locations (Norway is not included).",
+            "study_design": "Factorial survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 183,
+    "Authors": "Bruhn, Maja; Laugesen, Henriette; Kromann-Larsen, Matilde; Trevino, Cathrine Selnes; Eplov, Lene; Hjorthoj, Carsten; Carlsson, Jessica",
+    "Article Title": "The effect of an integrated care intervention of multidisciplinary mental health treatment and employment services for trauma-affected refugees: study protocol for a randomised controlled trial",
+    "Abstract": "Background: The complexity of past trauma and ongoing post-migration stressors challenges the existing mental health treatment for trauma-affected refugees. Therefore, interventions are needed to accommodate these complex challenges in mental health treatment. This study examines the effect of an add-on integrated care intervention compared to treatment as usual (TAU) for trauma-affected refugees in a randomised controlled trial (RCT).Methods: The study is carried out at a Danish outpatient clinic and will include 197 treatment-seeking refugees with post-traumatic stress disorder (PTSD) who are unemployed and affiliated with municipal employment services. Mental health TAU comprises 10 sessions with a medical doctor (pharmacological treatment and psychoeducation) and 16-20 sessions with a psychologist (manual-based cognitive behavioural therapy) for a period of 8 to 12 months. The add-on intervention strengthens coordination between mental health treatment and employment interventions with three cross-sectoral collaborative meetings during the mental health treatment. The integrated care intervention draws attention to the bidirectional impact of mental health problems and post-migration stressors and focuses on cross-sectoral shared plans. The primary outcome is functioning, measured by WHODAS 2.0, the interviewer-administered 12-item version, with secondary outcomes measuring quality of life, mental health symptoms, and post-migration stressors.Discussion: The RCT is novel in intervention design for trauma-affected refugees and will bring forward new perspectives and knowledge of integrated care interventions for trauma-affected refugees. The integrated care intervention is expected to reduce post-migration stressors that negatively affect the treatment of trauma-related mental health problems, thereby improving preconditions for enhanced treatment outcomes. The intervention builds on existing practices in the Danish healthcare and employment sectors, which ensures high scalability and sustainability for future practices.",
+    "DOI": "10.1186/s13063-022-06774-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but the population does not reference mental health or has an undefined population.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions of job search services, adult training, wage subsidies, or supported employment. It focuses on an integrated care intervention for trauma-affected refugees with post-traumatic stress disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe (2005-2025), in Europe (Denmark), and focuses on an employment intervention for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

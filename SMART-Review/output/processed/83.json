@@ -1,0 +1,33 @@
+{
+    "ArticleID": 83,
+    "Authors": "Ahn, Haksoon; Xu, Yanfeng; Williams, Kimberly A.; Parks-Bourn, Kimberly; Williams, Syreeta; Conway, Denise",
+    "Article Title": "Family team decision meeting and child welfare service disparities: The influence of race and poverty",
+    "Abstract": "Family Team Decision Meeting (FTDM) aims to engage families whose children are involved in the child welfare system. This study seeks to understand differences in participants' satisfaction with FTDM and further examine disparities in offering child welfare services to families who participate in FTDM. Logistic regression results indicated that participants' race and education and a family's level of engagement significantly predicted satisfaction with FTDM outcomes. FTDM participants' age and satisfaction with the facilitators' skills as well as a family's level of engagement were significantly associated with their satisfaction with FTDM facilitators. Regarding disparities in offering social services, logistic regression results indicated that White family members were more likely to be offered financial services than family members of color. Age of the family member was a significant predictor of being offered employment services, with family members who were older in age being less likely to be offered employment services. Furthermore, family members who have completed a higher level of education were more likely to be offered mental or physical health services. Families who were below the poverty line were more likely to be less satisfied with the facilitator overall and were less likely to be offered financial services, employment services, mental or physical health services, education and social support services, and any types of services; however, these findings did not reach statistical significance. The results of this study can inform both policy and practice to improve FTDM implementation and ultimately reduce disparities in social services among FTDM participants in child welfare.",
+    "DOI": "10.1016/j.childyouth.2022.106705",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on child welfare services and family satisfaction.",
+            "study_design": "Logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on disparities in family team decision meetings and child welfare services.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment policies for people with mental health disorders, but rather on child welfare services and family engagement in the child welfare system.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

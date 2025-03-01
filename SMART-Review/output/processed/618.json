@@ -1,0 +1,33 @@
+{
+    "ArticleID": 618,
+    "Authors": "Alegria, Margarita; Alvarez, Kiara; Cheng, Michelle; Falgas-Bague, Irene",
+    "Article Title": "Recent Advances on Social Determinants of Mental Health: Looking Fast Forward",
+    "Abstract": "The fields of psychiatry and mental health are increasingly recognizing the importance of social determinants of health (SDOH) and their impact on mental health outcomes. In this overview, the authors discuss the recent research, from the past 5 years, on advances made in SDOH work. SDOH frameworks and theories have expanded to include more social conditions, from traumas associated with immigration to psychosocial and community strengths, that impact mental health and well-being. Research has consistently shown the pervasive deleterious impacts of inequitable social conditions (e.g., food insecurity, housing instability) on minoritized populations' physical and mental health. Social systems of oppression (e.g., racism, minoritization) have also been shown to confer higher risk for psychiatric and mental disorders. The COVI D-19 pandemic illuminated the inequitable impact of the social determinants of health outcomes. More efforts have been made in recent years to intervene on the social determinants through interventions at the individual, community, and policy levels, which have shown promise in improving mental health outcomes in marginalized populations. However, major gaps remain. Attention should be paid to developing guiding frameworks that incorporate equity and antiracism when designing SDOH interventions and improving methodological approaches for evaluating these interventions. In addition, structural-level and policy-level SDOH efforts are critical for making long-lasting and impactful advances toward mental health equity.",
+    "DOI": "10.1176/appi.ajp.20230371",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not present measures of employment or labor results, and it lacks a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders. It discusses social determinants of health and their impact on mental health outcomes without addressing interventions related to employment.",
+            "study_design": "Overview/Review (not a meta-analysis, systematic review, RCT, or quasi-experimental study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Overview",
+            "logprobs": null
+        }
+    }
+}

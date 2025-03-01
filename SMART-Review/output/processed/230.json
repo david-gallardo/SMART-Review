@@ -1,0 +1,33 @@
+{
+    "ArticleID": 230,
+    "Authors": "van Oosten, Ard J.; van Mens, Kasper; Blonk, Roland W. B.; Burdorf, Alex; Tiemens, Bea",
+    "Article Title": "The relationship between having a job and the outcome of brief therapy in patients with common mental disorders",
+    "Abstract": "BackgroundPrevious studies have shown that being employed is associated not only with patients' health but also with the outcome of their treatment for severe mental illness. This study examined what influence employment had on improvements in mental health and functioning among patients with common mental disorders who received brief treatment and how patients' diagnosis, environmental and individual factors moderated the association between being employed and treatment outcome.MethodsThe study used naturalistic data from a cohort of patients in a large mental health franchise in the Netherlands. The data were obtained from electronic registration systems, intake questionnaires and Routine Outcome Monitoring (ROM). The International Classification of Functioning, Disability and Health (ICF) framework was used to identify potential subgroups of patients. Logistic regression models were used to analyze the relationship between employment status and treatment outcome and to determine how the relationship differed among ICF subgroups of patients.ResultsA strong relationship was found between employment status and the outcome of brief therapy for patients with common mental disorders. After potential confounding variables had been controlled, patients who were employed were 54% more likely to recover compared to unemployed patients. Two significant interactions were identified. Among patients who were 60 years of age or younger, being employed was positively related to recovery, but this relationship disappeared in patients older than 60 years. Second, among patients in all living situations there was a positive effect of being employed on recovery, but this effect did not occur among children (18+) who were living with a single parent.ConclusionsBeing employed was positively associated with treatment outcome among both people with a severe mental illness and those with a common mental disorder (CMD). The main strength of this study was its use of a large dataset from a nationwide franchised company. Attention to work is important not only for people with a severe mental illness, but also for people with a CMD. This means that in addition to re-integration methods that focus on people with a severe mental illness, more interventions are needed for people with a CMD.",
+    "DOI": "10.1186/s12888-023-05418-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression analysis with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Netherlands), within the specified timeframe (2005-2025), and focuses on people with mental health disorders, meeting the inclusion criteria for population. The study also presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
+            "study_design": "Logistic regression analysis with control group",
+            "logprobs": "0.5"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not have a control group. It also falls outside the specified geographic scope as it is conducted in the Netherlands.",
+            "study_design": "Naturalistic data from electronic registration systems and intake questionnaires",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between employment and treatment outcome in patients with common mental disorders, not specifically on active employment policies for people with mental health disorders.",
+            "study_design": "Naturalistic study using logistic regression models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention and lacks a control group.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

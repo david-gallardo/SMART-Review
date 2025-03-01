@@ -1,0 +1,33 @@
+{
+    "ArticleID": 120,
+    "Authors": "Ventriglio, Antonio; Latorre, Mariateresa; Calabretta, Maria Angela; Cuomo, Alessandro; Di Gioia, Ilaria; Ducci, Giuseppe; Ghio, Lucio; Mallozzi, Antonietta; Politi, Pierluigi; Suma, Domenico; Tarricone, Ilaria; Gravinese, Giuseppe Valentini; Vita, Antonio; Bellomo, Antonello",
+    "Article Title": "Employment and Social Security/Insurance among patients affected by mental disorders in Italy: A descriptive multi-center study",
+    "Abstract": "Introduction: Many mental disorders especially chronic serious ones such as schizophrenia-spectrum disorders, are disabling syndromes and impact on patients' social and cognitive functioning, including work activity. Thus, affected patients may show a particular socio-economic vulnerability and need specific social security as well as rehabilitation interventions, including pensions or job-placements. In Italy, the Working Group named 'Employment and Social Security/Insurance in Mental Health (ESSIMH)' was founded in 2020 in order to collect research evidence on mental illness, employment, social security, and rehabilitation. Methods: A descriptive, observational and multi-center study has been conducted in eleven Departments of Mental Health in Italy (Foggia, Brindisi, Putignano, Rome, Bologna, Siena, Pavia, Mantova, Genova, Brescia, and Torino) and involved 737 patients affected by major mental illness and classified in five diagnostic categories: psychoses, mood disorders, personality disorders, anxiety disorders, and others. The data collection was performed in 2020 among patients aged 18 to 70 years old. Results: The rate of employment in our sample was 35.8% (n = 264). Occupational disability in our sample was recognized in 58.0% of patients with a mean percentage of severity 51.7 +/- 43.1; patients with psychoses (73%) reported higher disability followed by personality (60%) and mood disorders (47.3%) ones. In a logistic multivariate modeling, factors significantly associated with diagnosis were (a) higher level of occupational disability in psychoses; (b) higher number of job- placement programs among psychoses patients; (c) lower level of employment in psychoses; (d) more psychotherapy in personality disorder patients; and (e) more years of MHC program in psychoses patients; factors associated with sex were: (a) higher number of drive licenses among males; (b) more physical activity among males; and (c) higher number of job-placement programs among males. Conclusion: patients affected by psychoses were more likely to be unemployed, reported higher occupational disability as well as received more incentives and rehabilitation interventions. These findings confirmed that schizophrenia-spectrum disorders are disabling and patients need psychosocial support and interventions in the framework of a recovery-oriented treatment.",
+    "DOI": "10.1177/00207640231174358",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a descriptive, observational and multi-center study with a control group, meeting the inclusion criteria for study design. The study is conducted in EU countries (Italy), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Descriptive, observational and multi-center study with logistic multivariate modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is descriptive and observational without a control group, and it does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Descriptive, observational, multi-center study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather focuses on social security and rehabilitation.",
+            "study_design": "Descriptive, observational and multi-center study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is descriptive and observational without a control group.",
+            "study_design": "Descriptive, observational multi-center study",
+            "logprobs": null
+        }
+    }
+}

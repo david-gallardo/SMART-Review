@@ -1,0 +1,33 @@
+{
+    "ArticleID": 530,
+    "Authors": "Milfort, Roline; Bond, Gary R.; McGurk, Susan R.; Drake, Robert E.",
+    "Article Title": "Barriers to Employment Among Social Security Disability Insurance Beneficiaries in the Mental Health Treatment Study",
+    "Abstract": "Objective: This study examined barriers to employment among Social Security Disability Insurance (SSDI) beneficiaries who received comprehensive vocational and mental health services but were not successful in returning to work.Methods: This study examined barriers to employment among 430 SSDI beneficiaries with mental disorders who received evidence-based vocational and mental health services for two years but worked less than one month or not at all. Comprehensive care teams, which included employment specialists, made consensus judgments for each participant, identifying the top three barriers to employment from a checklist of 14 common barriers.Results: Teams most frequently identified three barriers to employment: poorly controlled symptoms of mental illness (55%), nonengagement in supported employment (44%), and poorly controlled general medical problems (33%). Other factors were identified much less frequently.Conclusions: Some SSDI beneficiaries, despite having access to comprehensive services, continued to experience psychiatric impairments, difficulty engaging in vocational services, and general medical problems that limited their success in employment.",
+    "DOI": "10.1176/appi.ps.201400502",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a case series with no control group.",
+            "study_design": "Case series",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and focuses on barriers rather than interventions to improve employment outcomes.",
+            "study_design": "Descriptive analysis without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on SSDI beneficiaries with mental disorders who were not successful in returning to work, which does not align with the specified inclusion criteria of identifying what works in active employment policies for people with mental health disorders. The study also does not include a control group or intervention that directly addresses employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Instead, it focuses on barriers to employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

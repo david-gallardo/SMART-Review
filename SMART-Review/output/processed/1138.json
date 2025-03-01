@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1138,
+    "Authors": "Eguchi, Hisashi; Wada, Koji; Higuchi, Yoshiyuki; Smith, Derek R.",
+    "Article Title": "Psychosocial factors and colleagues' perceptions of return-to-work opportunities for workers with a psychiatric disorder: a Japanese population-based study",
+    "Abstract": "Background: This study examined associations between psychosocial factors and the perception that adequate employment opportunities might not be provided for people with limited work capacity due to psychiatric disorders.Methods: We conducted an online, cross-sectional survey of 3,710 employed individuals aged 20 to 69 years in Japan. Our survey included the Brief Job Stress Questionnaire and investigated participants' perception of opportunities in their workplace for individuals with a psychiatric disorder returning to work (colleagues' negative perception) and psychosocial factors (job demand, job control, and workplace social support). Multiple logistic regression analysis was used to evaluate potential associations between psychosocial factors and colleagues' negative perception.Results: Colleagues' negative perception was associated with low workplace social support (middle tertile: Odds Ratio [OR]: 1.26, 95% Confidence Interval [CI]: 1.12-1.40; low tertile: OR 1.45, 95% CI: 1.32-1.58; p for trend < 0.01); low levels of job control (middle tertile: OR 1.22, 95% CI: 1.06-1.38; low tertile: OR 1.64, 95% CI: 1.46-1.81; p for trend < 0.01); and no previous experience working with a person with a psychiatric disorder (OR 1.74, 95% CI: 1.60-1.88).Conclusions: Psychosocial factors may affect colleagues' perceptions of individuals with a psychiatric disorder returning to work in Japan. Greater consideration of psychosocial factors in the workplace may be necessary to facilitate people with a psychiatric disorder successfully returning to work in Japan, as elsewhere.",
+    "DOI": "10.1186/s12199-017-0630-y",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional survey with multiple logistic regression analysis, meeting the inclusion criteria for study design. The study is based on a Japanese population, within the specified timeframe, and investigates the association between psychosocial factors and colleagues' perceptions of return-to-work opportunities for workers with a psychiatric disorder, meeting the inclusion criteria for intervention and population.",
+            "study_design": "Cross-sectional survey with multiple logistic regression analysis",
+            "logprobs": "OR 1.26, 95% CI: 1.12-1.40; OR 1.45, 95% CI: 1.32-1.58; OR 1.22, 95% CI: 1.06-1.38; OR 1.64, 95% CI: 1.46-1.81; OR 1.74, 95% CI: 1.60-1.88"
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a cross-sectional survey and not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Japan).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

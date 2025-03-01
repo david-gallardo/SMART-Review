@@ -1,0 +1,33 @@
+{
+    "ArticleID": 180,
+    "Authors": "Froud, Robert; Grant, Mary; Burton, Kim; Foss, Jonathan; Ellard, David R.; Seers, Kate; Smith, Deb; Barillec, Mariana; Patel, Shilpa; Haywood, Kirstie; Underwood, Martin",
+    "Article Title": "Development and feasibility of an intervention featuring individual supported work placements to aid return to work for unemployed people living with chronic pain",
+    "Abstract": "BackgroundWorking in good jobs is associated with good health. High unemployment rates are reported in those disabled with musculoskeletal pain. Supported employment interventions work well for helping people with mental health difficulties to gain and retain employment. With adaptation, these may be useful for people with chronic pain. We aimed to develop and explore the feasibility of delivering such an adapted intervention.MethodsWe developed an intervention and recruited unemployed people with chronic pain from NHS pain clinics and employment services. We trained case managers to assess participants and match them to six-week work placements in the Midlands and provide ongoing support to them and their managers. Participants attended a two-day work preparation session prior to placement. Outcome measures included quality of life at baseline, six-weeks, 14-weeks, and six-months, and return to work at 14-weeks and six-months. We held focus groups or interviews with stakeholders to examine acceptability and experiences of the intervention.ResultsWe developed an intervention consisting of work preparation sessions, work experience placements, and individualised employment support. We enrolled 31 people; 27 attended work preparation sessions, and 15 attended placements. Four of our participants started jobs during the study period. We are aware of two others starting jobs shortly after cessation of follow-up. We experienced challenges to recruitment in one area where we had many and diverse placement opportunities and good recruitment in another area where we had a smaller range of placement opportunities. All stakeholders found the intervention acceptable, and it was valued by those given a placement. While there was some disappointment among those not placed, this group still valued the work preparation sessions.ConclusionsThe developed intervention was acceptable to participants and partners. Trialling the developed intervention could be feasible with attention to three main processes. To ensure advanced availability of a sufficiently wide range of work placements in each area, multiple partners would be needed. Multiple recruitment sites and focus on employment services will yield better recruitment rates than reliance on NHS pain clinics. Maintaining an adequate follow-up response rate will likely require additional approaches with more than the usual effort.",
+    "DOI": "10.1186/s40814-020-00581-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group (NHS pain clinics and employment services), the geographic scope is within the EU, Europe, US, Canada, or Australia, the intervention is job search services (individualised employment support) and supported employment, the population is people with chronic pain, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on individuals living with chronic pain.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is people with chronic pain, not mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

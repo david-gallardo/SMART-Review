@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1356,
+    "Authors": "de Groot, Samira; Veldman, Karin; Amick, Benjamin C., III; Oldehinkel, Tineke A. J.; Arends, Iris; Bultmann, Ute",
+    "Article Title": "Does the timing and duration of mental health problems during childhood and adolescence matter for labour market participation of young adults?",
+    "Abstract": "Background Little is known about the timing and duration of mental health problems (MHPs) on young adults' labour market participation (LMP). This life-course study aims to examine whether and how the timing and duration of MHPs between childhood and young adulthood are associated with LMP in young adulthood.Methods Logistic regression analyses were performed with data from the Tracking Adolescents' Individual Lives Survey (TRAILS), a Dutch prospective cohort study with 15-year follow-up (N=874). Internalising and externalising problems were measured by the Youth/ Adult Self-Report at ages 11, 13, 16, 19 and 22. Labour market participation (having a paid job yes/no) was assessed at age 26.Results Internalising problems at all ages and externalising problems at age 13, 19 and 22 were associated with an increased risk of not having a paid job (internalising problems ORs ranging from 2.24, 95% CI 1.02 to 4.90 at age 11 to OR 6.58, CI 3.14 to 13.80 at age 22; externalising problems ORs from 2.84, CI 1.11 to 7.27 at age 13 to OR 6.36, CI 2.30 to 17.56 at age 22). Especially a long duration of internalising problems increased the risk of not having a paid job in young adulthood.Conclusion The duration of MHPs during childhood and adolescence is strongly associated with not having paid work in young adulthood. This emphasises the necessity of applying a life-course perspective when investigating the effect of MHPs on LMP. Early monitoring, mental healthcare and the (early) provision of employment support may improve young adult's participation in the labour market.",
+    "DOI": "10.1136/jech-2020-215994",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is logistic regression analyses, which meets the inclusion criteria. The study is a quasi-experimental study with a control group (having a paid job yes/no) and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "Logistic regression analyses",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include employment outcomes. It assesses the association between mental health problems in childhood and adolescence with labor market participation but does not provide intervention effects or employ robust methodologies to evaluate these.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders. It also does not include job search services, adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria.",
+            "study_design": "Life-course study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a prospective cohort study.",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        }
+    }
+}

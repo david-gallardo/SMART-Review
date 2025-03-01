@@ -1,0 +1,33 @@
+{
+    "ArticleID": 898,
+    "Authors": "de Winter, Lars; Couwenbergh, Christianne; van Weeghel, Jaap; Bergmans, Cris; Bond, Gary R.",
+    "Article Title": "Fidelity and IPS: does quality of implementation predict vocational outcomes over time for organizations treating persons with severe mental illness in the Netherlands?",
+    "Abstract": "Purpose Individual placement and support (IPS) is an evidence-based supported employment intervention. Quality of IPS implementation is assessed using a validated fidelity scale. Previous studies found a positive association between fidelity and employment outcomes at a single time-point. This study examines the longitudinal associations between IPS fidelity scores and employment outcomes. Methods We examined fidelity and employment outcome data for 27 IPS programs in the Netherlands providing IPS. These programs received at least one fidelity assessment and reported quarterly employment outcomes for at least one year to a central registry between 2014 and 2019. We first examined changes over time for fidelity and employment outcome. Then we analyzed the longitudinal associations between the quarterly employment outcomes and the IPS fidelity assessments on multiple time-points using a mixed-model analysis for the 17 programs with at least two fidelity assessments. Results Both IPS fidelity and employment outcomes improved over time, with the largest improvement in employment outcomes achieved after 18 months of implementation. We found a significant positive longitudinal association between IPS-fidelity and employment. Conclusions Improvement of fidelity is associated with improvement of employment outcomes over time. Future research should be focused on the improvement of specific elements of IPS implementation and their influence on employment outcomes.",
+    "DOI": "10.1007/s00127-020-01890-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (Netherlands, EU country), timeframe (2014-2019 within the specified range), intervention (supported employment - IPS), population (persons with severe mental illness), and outcomes (employment outcomes).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the fidelity of the IPS intervention and its impact on employment outcomes over time in the Netherlands. It does not directly address job search services, adult training, wage subsidies, or supported employment as interventions, which are specified in the inclusion criteria. Additionally, the study'seligibility criteria's focus on 'organizations treating persons with severe mental illness' does not clearly align with the inclusion criteria's focus on 'people with mental disorders or documented mental health problems.'",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment in the Netherlands (EU country), was published within the specified timeframe (2014-2019), targets people with severe mental illness, and measures employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 699,
+    "Authors": "Corbiere, Marc; Lecomte, Tania; Reinharz, Daniel; Kirsh, Bonnie; Goering, Paula; Menear, Matthew; Berbiche, Djamal; Genest, Karine; Goldner, Elliot M.",
+    "Article Title": "Predictors of Acquisition of Competitive Employment for People Enrolled in Supported Employment Programs",
+    "Abstract": "This study aims at assessing the relative contribution of employment specialist competencies working in supported employment (SE) programs and client variables in determining the likelihood of obtaining competitive employment. A total of 489 persons with a severe mental illness and 97 employment specialists working in 24 SE programs across three Canadian provinces were included in the study. Overall, 43% of the sample obtained competitive work. Both client variables and employment specialist competencies, while controlling for the quality of SE programs implementation, predicted job acquisition. Multilevel analyses further indicated that younger client age, shorter duration of unemployment, and client use of job search strategies, as well as the working alliance perceived by the employment specialist, were the strongest predictors of competitive employment for people with severe mental illness, with 51% of variance explained. For people with severe mental illness seeking employment, active job search behaviors, relational abilities, and employment specialist competencies are central contributors to acquisition of competitive employment.",
+    "DOI": "10.1097/NMD.0000000000000612",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in Canada, within the specified timeframe of 2005-2025, and focuses on people with mental health disorders, meeting the inclusion criteria for population. The study also presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on predictors of competitive employment in people with severe mental illness enrolled in supported employment programs.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials with a focus on employment outcomes for people with mental health disorders, meeting the inclusion criteria.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, conducted in Canada (within geographic scope), published within the timeframe, focuses on supported employment intervention, targets people with mental disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 751,
+    "Authors": "Pelizza, Lorenzo; Ficarelli, Maria Lorena; Vignali, Elisabetta; Artoni, Simona; Franzini, Maria Cristina; Montanaro, Serenella; Andreoli, Maria Vittoria; Marangoni, Sara; Ciampa, Elizabeth; Erlicher, Diana; Troisi, Elisa; Pupo, Simona; Fioritti, Angelo",
+    "Article Title": "Implementation of Individual Placement and Support in Italy: The Reggio Emilia Experience",
+    "Abstract": "Individual placement and support (IPS) is an evidence-based intervention helping people with mental illness to obtain competitive jobs. In the last decade, European mental health leaders were interested on its implementation. Aim of the study was to assess the IPS feasibility in Italian patients with moderate-to-severe mental illness. To date, no evaluation of IPS has been conducted exclusively in Italy. Participants (n = 95) were clients of community mental health centers of the Reggio Emilia Department of Mental Health. In addition to drop-out rates, we calculated job acquisition, job duration, and total hours per week worked. A crude competitive employment rate of 41.1% and a crude drop-out rate of 30.5% were found over 42-month follow-up period. Using a Kaplan-Meyer survival analysis, the cumulative employment rate increased up to 44% at 12 months and 61% both at 24 and 42 months. This study documents the feasibility of an implementation strategy for introducing the IPS model in the public mental health care system in Italy.",
+    "DOI": "10.1007/s10597-020-00603-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Italy), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group (IPS implementation strategy), falls within the specified geographic scope and timeframe, targets people with mental health disorders, and reports employment outcomes.",
+            "study_design": "Quasi-experimental with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not a systematic review or meta-analysis, and it does not include a control group, which are required inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of supported employment (IPS) for people with mental illness in Italy, includes relevant outcomes such as job acquisition and duration, and falls within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

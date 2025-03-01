@@ -1,0 +1,33 @@
+{
+    "ArticleID": 56,
+    "Authors": "Volker, Danielle; Zijlstra-Vlasveld, Moniek C.; Anema, Johannes R.; Beekman, Aartjan T. F.; Brouwers, Evelien P. M.; Emons, Wilco H. M.; van Lomwel, A. Gijsbert C.; van der Feltz-Cornelis, Christina M.",
+    "Article Title": "Effectiveness of a Blended Web-Based Intervention on Return to Work for Sick-Listed Employees With Common Mental Disorders: Results of a Cluster Randomized Controlled Trial",
+    "Abstract": "Background: Common mental disorders are strongly associated with long-term sickness absence, which has negative consequences for the individual employee's quality of life and leads to substantial costs for society. It is important to focus on return to work (RTW) during treatment of sick-listed employees with common mental disorders. Factors such as self-efficacy and the intention to resume work despite having symptoms are important in the RTW process. We developed E-health module embedded in Collaborative Occupational health care (ECO) as a blended Web-based intervention with 2 parts: an eHealth module (Return@Work) for the employee aimed at changing cognitions of the employee regarding RTW and a decision aid via email supporting the occupational physician with advice regarding treatment and referral options based on monitoring the employee's progress during treatment.Objective: This study evaluated the effect of a blended eHealth intervention (ECO) versus care as usual on time to RTW of sick-listed employees with common mental disorders.Methods: The study was a 2-armed cluster randomized controlled trial. Employees sick-listed between 4 and 26 weeks with common mental disorder symptoms were recruited by their occupational health service or employer. The employees were followed up to 12 months. The primary outcome measures were time to first RTW (partial or full) and time to full RTW. Secondary outcomes were response and remission of the common mental disorder symptoms (self-assessed).Results: A total of 220 employees were included: 131 participants were randomized to the ECO intervention and 89 to care as usual (CAU). The duration until first RTW differed significantly between the groups. The median duration was 77.0 (IQR 29.0-152.3) days in the CAU group and 50.0 (IQR 20.8-99.0) days in the ECO group (hazard ratio [HR] 1.390, 95% CI 1.034-1.870, P=.03). No significant difference was found for duration until full RTW. Treatment response of common mental disorder symptoms did not differ significantly between the groups, but at 9 months after baseline significantly more participants in the ECO group achieved remission than in the CAU group (OR 2.228, 95% CI 1.115-4.453, P=.02).Conclusions: The results of this study showed that in a group of sick-listed employees with common mental disorders, applying the blended eHealth ECO intervention led to faster first RTW and more remission of common mental disorder symptoms than CAU.",
+    "DOI": "10.2196/jmir.4097",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized controlled trial, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention (ECO) directly addresses employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (cluster randomized controlled trial), geographic scope (EU countries), timeframe (2005-2025), intervention (blended web-based intervention), population (sick-listed employees with common mental disorders), and outcomes (return to work).",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets all inclusion criteria: it is a cluster RCT with a control group, focuses on EU countries, and addresses interventions for people with mental health disorders aimed at improving employment outcomes.",
+            "study_design": "Cluster Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

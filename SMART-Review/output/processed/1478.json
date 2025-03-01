@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1478,
+    "Authors": "Reavley, Nicola J.; Morgan, Amy J.; Fischer, Julie-Anne; Kitchener, Betty; Bovopoulos, Nataly; Jorm, Anthony F.",
+    "Article Title": "Effectiveness of eLearning and blended modes of delivery of Mental Health First Aid training in the workplace: randomised controlled trial",
+    "Abstract": "Background: The aim of the WorkplaceAid study was to compare the effects of eLearning or blended (eLearning plus face-to-face course delivery) Mental Health First Aid (MHFA) courses on public servants' knowledge, stigmatising attitudes, confidence in providing support and intentions to provide support to a person with depression or post-traumatic stress disorder (PTSD).Methods: A randomized controlled trial was carried out with 608 Australian public servants. Participants were randomly assigned to complete an eLearning MHFA course, a blended MHFA course or Red Cross eLearning Provide First Aid (PFA) (the control). The effects of the interventions were evaluated using online questionnaires pre-and post-training. The questionnaires centred around vignettes describing a person meeting the criteria for depression or PTSD. Primary outcomes were mental health first aid knowledge and desire for social distance. Secondary outcomes were recognition of mental health problems, beliefs about treatment, helping intentions and confidence and personal stigma. Feedback on the usefulness of the courses was also collected.Results: Both the eLearning MHFA and blended MHFA courses had positive effects compared to PFA eLearning on mental health first aid knowledge, desire for social distance, beliefs about professional treatments, intentions and confidence in helping a person and personal stigma towards a person with depression or PTSD. There were very small non-significant differences between the eLearning MHFA and blended MHFA courses on these outcome measures. However, users were more likely to highly rate the blended MHFA course in terms of usefulness, amount learned and intentions to recommend the course to others.Conclusions: The blended MHFA course was only minimally more effective than eLearning MHFA in improving knowledge and attitudes. However, course satisfaction ratings were higher from participants in the blended MHFA course, potentially leading to greater benefits in the future. Longer-term follow-up is needed to explore this.",
+    "DOI": "10.1186/s12888-018-1888-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in Australia, which falls within the specified geographic scope. The intervention is job search services (Mental Health First Aid training), and the population is people with mental disorders or documented mental health problems. The study presents measures of employment or labor results (knowledge, stigmatising attitudes, confidence in providing support, intentions to provide support, recognition of mental health problems, beliefs about treatment, helping intentions, and confidence).",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on mental health first aid training rather than interventions aimed at improving employment for people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

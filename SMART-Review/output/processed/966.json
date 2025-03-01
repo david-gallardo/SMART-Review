@@ -1,0 +1,33 @@
+{
+    "ArticleID": 966,
+    "Authors": "Park, A-La; Rinaldi, Miles; Brinchmann, Beate; Killackey, Eoin; Aars, Nils Abel P.; Mykletun, Arnstein; McDaid, David",
+    "Article Title": "Economic analyses of supported employment programmes for people with mental health conditions: A systematic review",
+    "Abstract": "Background Employment is intrinsic to recovery from mental health conditions, helping people live independently. Systematic reviews indicate supported employment (SE) focused on competitive employment, including individual placement and support (IPS), is effective in helping people with mental health conditions into work. Evidence is limited on cost-effectiveness. We comprehensively reviewed evidence on the economic case for SE/IPS programmes. Methods We searched PubMed/MEDLINE, EMBASE, PsycINFO, CINAHL, IBSS, Business Source Complete, and EconLit for economic and return on investment analyses of SE/IPS programmes for mental health conditions. Traditional vocational rehabilitation, sheltered work, and return to work initiatives after sickness absence of less than 1 year were excluded. Studies were independently screened by two reviewers. We assessed quality using the Consolidate Health Economic Evaluation Reporting Standards checklist. The protocol was preregistered with PROSPERO-CRD42020184359. Results From 40,015 references, 28 studies examined the economic case for IPS, four IPS augmented by another intervention, and 24 other forms of SE. Studies were very heterogenous, quality was variable. Of 41 studies with quality scores over 50%, 10 reported cost per quality-adjusted life year gained, (8 favourable to SE/IPS), 14 net monetary benefits (12 positive), 5 return on investment (4 positive), and 20 cost per employment outcome (14 favorable, 5 inconclusive, 1 negative). Totally, 24 of these 41 studies had monetary benefits that more than outweighed the additional costs of SE/IPS programmes. Conclusions There is a strong economic case for the implementation of SE/IPS programmes. The economic case is conservative as evidence on long-term impacts of programmes is limited.",
+    "DOI": "10.1192/j.eurpsy.2022.2309",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on the economic case for supported employment (SE) programmes for people with mental health conditions, and it includes studies with a control group. The study's timeframe is within the specified range (2005-2025), and the intervention is supported employment. The population is people with mental health conditions, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (systematic review), geographic scope (EU countries and Europe), timeframe (2005-2025), intervention (supported employment), population (people with mental health conditions), and outcomes (employment or labor outcomes).",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review focusing on supported employment programs for people with mental health conditions, includes relevant outcomes such as employment rates and job quality, and was conducted within the specified geographic scope.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

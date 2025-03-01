@@ -1,0 +1,33 @@
+{
+    "ArticleID": 32,
+    "Authors": "Tarshis, Sarah; Alaggia, Ramona; Logie, Carmen H.",
+    "Article Title": "Intersectional and Trauma-Informed Approaches to Employment Services: Insights From Intimate Partner Violence (IPV) Service Providers",
+    "Abstract": "This article presents qualitative findings from a constructivist grounded theory study that examines intimate partner violence and employment-seeking from the perspectives of 10 service providers. Three distinct themes emerge through analysis: (a) understanding the intersecting barriers to employment faced by survivors, (b) integrated approaches to employment services, and (c) barriers to providing employment services. Findings have important theoretical implications on the intersectional nature of employment-seeking and provide insight into IPV service responses.",
+    "DOI": "10.1177/1077801220988344",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (grounded theory study) and lacks a control group, which does not meet the inclusion criteria.",
+            "study_design": "Qualitative (grounded theory study)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (constructivist grounded theory) without a control group and does not meet the inclusion criteria for rigorous evaluation. The intervention focuses on intimate partner violence service responses rather than direct employment services, and it does not address people with mental health disorders or document their outcomes.",
+            "study_design": "Qualitative",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on intimate partner violence and its impact on employment-seeking.",
+            "study_design": "qualitative constructivist grounded theory study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a control group.",
+            "study_design": "Constructivist grounded theory",
+            "logprobs": null
+        }
+    }
+}

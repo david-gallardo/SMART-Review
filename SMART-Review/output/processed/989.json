@@ -1,0 +1,33 @@
+{
+    "ArticleID": 989,
+    "Authors": "Marko, Dritana; Linder, Stephen H.; Tullar, Jessica M.; Reynolds, Thomas F.; Estes, Larissa J.",
+    "Article Title": "Predictors of Serious Psychological Distress in an Urban Population",
+    "Abstract": "While there are state and national estimates of serious psychological distress (SPD), these are not useful for targeting local mental health interventions or for addressing the needs of sub-populations at increased risk for SPD. This cross-sectional study uses data from the population-based 2010 Health of Houston Survey (n = 5,116) to examine (1) the prevalence of SPD and its determinants in Houston area and (2) predictors of the utilization of mental health services among people with SPD. The prevalence of SPD among the Houston area adult population was 7 %, more than twice the national average. Correlates of SPD included: being female, under 65, lacking emotional support, smoking, having poor health status and financial distress. The odds of utilizing health services by those with SPD were affected by financial distress, insurance, employment and perceived need for services, among other factors. Interventions should be tailored to mitigate risk factors for SPD and to improve access to mental health services in the SPD sub-population.",
+    "DOI": "10.1007/s10597-014-9790-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on serious psychological distress, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

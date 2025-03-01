@@ -1,0 +1,33 @@
+{
+    "ArticleID": 757,
+    "Authors": "Onwuameze, Obiora E.; Dhat, Sanket; Chakrabarty, Arindam; Kulys, Ruta; Bennett, Jeffrey; Lee, Karen; Soltys, Stephen",
+    "Article Title": "The impact of a psychosocial program on clinical outcomes for severe psychiatric disorders",
+    "Abstract": "BACKGROUND: This retrospective study evaluated the impact of a psychosocial program on individuals with severe and chronic psychiatric disorders. This study also examined potential modifiable predictors of hospitalization.METHODS: The sample was comprised of 94 individuals with severe and chronic mental illness who were followed in the Community Support Network (CSN), a psychosocial program. Data from initial assessment at admission to the CSN were compared with the last assessment after admission, during data abstraction. Data were analyzed using analysis of variance for hospitalization, accommodation (housing), and employment, and the logistic regression procedure was used to analyze the relationship among potential modifiable clinical independent variables and hospitalization.RESULTS: Admission to CSN significantly reduced hospitalization rates. Presence of psychotic symptoms increased the likelihood of hospitalization, and the use of support groups, antidepressants, and mood stabilizers decreased the risk for hospitalization.CONCLUSIONS: Our findings suggest that CSN reduced hospitalization rates as well as increased employment, and the switch from the Assertive Community Treatment program to the Community Support Team program in 2007 did not change this effect. The overall significant reduction in psychiatric symptoms could explain these positive findings.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective study without a control group.",
+            "study_design": "retrospective study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is retrospective and lacks a control group. It does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on severe psychiatric disorders and does not specifically target employment outcomes, which is a key inclusion criterion.",
+            "study_design": "retrospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is retrospective and lacks a control group.",
+            "study_design": "Retrospective Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 297,
+    "Authors": "Raymaker, Dora M.; Sharer, Mirah; Maslak, Joelle; Powers, Laurie E.; McDonald, Katherine E.; Kapp, Steven K.; Moura, Ian; Wallington, Anna Furra; Nicolaidis, Christina",
+    "Article Title": "[I] don't wanna just be like a cog in the machine: Narratives of autism and skilled employment",
+    "Abstract": "Autistic people experience disparities in employment which may be exacerbated for individuals in skilled employment. Little is known about the experiences of autistic people in skilled employment or how they define success. We used a community-based participatory research approach to conduct a thematic analysis with an inductive approach at a semantic level through a critical realist paradigm. We interviewed 45 autistic people with skilled training, 11 supervisors, and 8 key informants. We purposively sampled to maximize variation. We addressed trustworthiness through multiple coders and peer debriefing. Common themes included high stakes of disclosure, unconventional pathways to careers, disconnects with service and support systems, mental health challenges from trauma/burnout, autistic advantages in the workplace, and complex dimensions of discrimination. Participants defined success as opportunities for growth, work/life balance, financial independence, sense of community, and feeling valued, accepted, and like their work had meaning. Strategies to facilitate success suggested a multi-faceted and wholistic approach including attention to the role of supervisors. Our findings suggest a highly customizable, systems-focused, multifaceted approach to autism employment intervention could be useful in improving skilled employment outcomes. We recommend further work particularly in the areas of disclosure and destigmatizing disability in the workplace. Lay abstract Autistic people are less likely to be employed than the general population. Autistic people with skilled training (e.g. training for jobs in acting, plumbing, science, or social work) might be even less likely to get a good job in their field. Little is known about the experiences of autistic people in skilled employment or what employment success means to them. We interviewed 45 autistic people with skilled training in a wide range of fields, 11 job supervisors, and 8 topic experts. We asked them about their experiences, what they felt helped them to be successful at work, and what employment success means to them. Participants talked about the high stakes of disclosure, taking unconventional pathways to careers, disconnects with service and support systems, mental health challenges from trauma and burnout, the autistic advantages in the workplace, and complex dimensions of discrimination. Participants said success meant opportunities for growth, good work/life balance, financial independence, sense of community, and feeling valued, accepted, and like their work had meaning. Things that helped them be successful included flexible, accepting workplaces, supportive and respectful supervisors, and direct communication. What we learned suggests that an individualized, wholistic approach to autism employment intervention that considers both employers and employees and employee mental health could be useful. We also recommend more research into disclosure and destigmatizing disability at work.",
+    "DOI": "10.1177/13623613221080813",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a qualitative research approach (thematic analysis) with a community-based participatory research approach, which meets the inclusion criteria. The study includes a control group of 11 supervisors and 8 key informants, and the population is people with mental health problems (autistic people). The outcomes include employment or labor outcomes such as job duration, job quality, workplace integration, and job retention.",
+            "study_design": "Qualitative research approach (thematic analysis) with a community-based participatory research approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes related to employment rates, job duration, job quality, workplace integration, or job retention. It focuses on qualitative narratives and experiences of autistic people in skilled employment.",
+            "study_design": "Qualitative thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

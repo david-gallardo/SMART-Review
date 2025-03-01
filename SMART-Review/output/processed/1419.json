@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1419,
+    "Authors": "Stevenson, Brian J.; Calixte, Rachelle M.; Peckham, Andrew D.; Degeis, Michael; Teravainen, Taina S.; Chamberlin, Elizabeth S.; Mueller, Lisa",
+    "Article Title": "Preventing Job Loss and Functional Decline: Description and Demonstration of the Veterans Health Administration Supported Employment: Engage and Keep (SEEK) Program",
+    "Abstract": "The high incidence of untreated mental health concerns among veterans can harm other areas of life, including employment. Loss of employment can lead to other adverse outcomes, such as financial instability, functional decline, and increased risk for suicide. Current Veterans Health Administration (VHA) vocational services are limited in that they primarily serve veterans who are unemployed and already enrolled in VHA. There is a need to prevent job loss among veterans who are struggling with mental health and vocational concerns and are not accessing VHA services, thus decreasing the risk of suicide and more costly interventions. Consistent with the existing national VHA initiatives on increasing access to health care and preventing suicide, a novel work-based intervention, Supported Employment: Engage and Keep (SEEK), was created. Building on the supported employment framework, SEEK assertively outreaches to already employed veterans by collaborating with workplaces that employ veterans. SEEK providers build rapport with employers and veterans and become a trusted VHA resource. SEEK engages veterans, facilitates enrollment in needed health care, and provides needed job maintenance support. This article outlines the SEEK model and provides a case demonstration and analysis of the course of SEEK care provided to a veteran at risk of losing their job. Clinical recommendations for implementing SEEK and future directions for evaluating this model are discussed. Impact Statement A sizeable percentage of veterans do not utilize VHA services due to a lack of information and uncertainty about the benefits of using services. The Supported Employment: Engage and Keep (SEEK) program creates partnerships with employers in order to connect with employed veterans, learn about their needs, and provide direct services designed to address their health care and vocational needs, resulting in reduced suicide risk and facilitation of health and wellness.",
+    "DOI": "10.1037/ser0000809",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a case demonstration and analysis of the course of SEEK care provided to a veteran at risk of losing their job, which meets the inclusion criteria for quasi-experimental studies with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. The article describes a program model and provides a case demonstration but does not present results from controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Program description and case demonstration",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the geographic scope criteria and lacks a control group or RCT design.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Case demonstration",
+            "logprobs": null
+        }
+    }
+}

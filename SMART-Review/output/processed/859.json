@@ -1,0 +1,33 @@
+{
+    "ArticleID": 859,
+    "Authors": "Hocking, Debbie C.",
+    "Article Title": "Tho' Much is Taken, Much Abides: Asylum Seekers' Subjective Wellbeing",
+    "Abstract": "The influence of psychosocial factors on the subjective wellbeing of asylum-seekers residing in host Western countries has scarcely been explored qualitatively. Qualitative data derived from a mixed methods prospective study investigated the subjective wellbeing of 56 community-dwelling asylum-seekers and refugees at baseline and an average of 15.7months later. Positive and negative experiences over time were explored in relation to self-perceived emotional health. Nineteen positive and 15 negative categories of experience emerged. Distinct psychosocial and protective factors were salient regarding the valence of experiences over time, with positive experiences comprising employment, improved financial circumstances, and social support or connectivity. Negative experiences included news of adversity from one's homeland, un(der)employment, poor health, and factors relating to the refugee determination process. Positive and negative experiences were contemporaneous, indicating that employment and social support may ameliorate the detrimental impact of traversing the protracted process of refugee status determination for asylum-seekers in particular.",
+    "DOI": "10.1007/s10903-017-0664-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, lacks a control group, and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment) or population (people with mental disorders or documented mental health problems).",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (employment services) or population (people with mental disorders). The outcomes focus on subjective wellbeing rather than employment or labor results.",
+            "study_design": "Qualitative mixed methods prospective study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on asylum seekers, not people with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "mixed methods prospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not have a control group.",
+            "study_design": "Mixed methods prospective study",
+            "logprobs": null
+        }
+    }
+}

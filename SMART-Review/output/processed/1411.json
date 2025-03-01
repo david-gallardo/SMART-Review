@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1411,
+    "Authors": "Kaltiainen, Janne; Hakanen, Jari J.",
+    "Article Title": "Why increase in telework may have affected employee well-being during the COVID-19 pandemic? The role of work and non-work life domains",
+    "Abstract": "Given that millions of employees switched to mandatory telework during COVID-19, and as teleworking practices are likely to continue, it is essential to understand the potential impact of mandatory and non-flexible teleworking practices on employee well-being. Drawing on Conservation of Resources theory, we find support for resource gains as increase in job control mediates the link between increases in teleworking and improvements in well-being (increases in work engagement and decreases in burnout and job boredom). Conversely, the findings indicate resource losses as loss of social support and higher work-non-work interference explain the deterioration in well-being for those whose teleworking increased since the COVID-19 outbreak. By coupling role depletion and role enrichment theories, we find that employees who had children living at home experienced greater work-non-work interference due to increased teleworking. However, having children also buffered the negative impact of work-non-work interference on well-being. The findings are based on a Finnish population sample collected three months before and after the COVID-19 outbreak in March 2020 (N = 996 of matched respondents) and latent change score analyses of within-person changes. Our results provide new insights regarding the potential impact of teleworking on employee well-being in a context where teleworking is not flexible and self-selected by the employees. Notably, our results draw bridges (rather than burn them) between role depletion and enrichment frameworks as having children may simultaneously be a burden and a gift.",
+    "DOI": "10.1007/s12144-023-04250-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly aimed at improving employment outcomes for people with mental health disorders. It focuses on the impact of telework on employee well-being during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey using latent change score analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it involve interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

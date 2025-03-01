@@ -1,0 +1,33 @@
+{
+    "ArticleID": 579,
+    "Authors": "Frederick, Donald E.; VanderWeele, Tyler J.",
+    "Article Title": "Supported employment: Meta-analysis and review of randomized controlled trials of individual placement and support",
+    "Abstract": "Supported employment is a treatment whereby those with severe mental illness (or other disabilities) receive aid searching for competitive employment and mental health (or other) treatments concurrently. The most popular implementation of supported employment is individual placement and support (IPS). We conducted meta-analytic analyses of the randomized controlled trials of IPS. We found that subjects in IPS, compared to usual treatment conditions, had better vocational outcomes (obtained any competitive employment: RR = 1.63, 95%CI = [1.46, 1.82]; job tenure: d = 0.55, 95%CI = [0.33, 0.79]; job length: d = 0.46, 95%CI = [0.35, 0.57]; income: d = 0.48, 95%CI = [0.36, 0.59]) Non-vocational outcomes estimates, while favoring IPS, included the null (quality of life: d = 0.30, 95%Cl = [-0.07, 0.67]; global functioning: d = 0.09, 95%CI = [-0.09, 0.27]; mental health: d = 0.03, 95%CI = [-0.15, 0.21]). Analysis of the expected proportion of studies with a true effect on non-vocational outcomes with d>0.2 showed some reason to expect a possible improvement for quality of life for at least some settings (Prop = 0.57, 95%CI = [0.30, 0.84]).",
+    "DOI": "10.1371/journal.pone.0212208",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a meta-analysis of randomized controlled trials of individual placement and support (IPS), which meets the inclusion criteria.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (meta-analysis), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes).",
+            "study_design": "Meta-analyses of randomized controlled trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a meta-analysis of randomized controlled trials focusing on supported employment for people with severe mental illness, which includes relevant interventions and outcomes.",
+            "study_design": "Meta-analysis of RCTs",
+            "logprobs": null
+        }
+    }
+}

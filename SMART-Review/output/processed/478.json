@@ -1,0 +1,33 @@
+{
+    "ArticleID": 478,
+    "Authors": "Marrone, Joseph; Swarbrick, Margaret A.",
+    "Article Title": "Long-Term Unemployment: A Social Determinant Underaddressed Within Community Behavioral Health Programs",
+    "Abstract": "Employment has the potential to contribute to positive health outcomes for people with serious mental illnesses; however, its flipside, long-term unemployment, is a social determinant that has not been consistently recognized for its negative effects. Therefore, in this column, the authors examined how the widely accepted notion that unemployment is extremely deleterious to health is largely overlooked. Clinical risk factors related to long-term unemployment are identified as well as the inadequate response to them within mental health systems of care. Practical individual- and systems-level strategies to rectify this oversight are outlined.",
+    "DOI": "10.1176/appi.ps.201900522",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It lacks rigorous evaluation and does not meet the inclusion criteria for intervention (specifically addressing employment policies) or population (referencing mental health).",
+            "study_design": "Review/Column",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the negative health outcomes of long-term unemployment in people with serious mental illnesses, not on employment interventions or outcomes.",
+            "study_design": "Column",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not present measures of employment or labor results.",
+            "study_design": "N/A",
+            "logprobs": null
+        }
+    }
+}

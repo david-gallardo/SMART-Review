@@ -1,0 +1,33 @@
+{
+    "ArticleID": 540,
+    "Authors": "Overland, Simon; Grasdal, Astrid Louise; Reme, Silje Endresen",
+    "Article Title": "Long-term effects on income and sickness benefits after work-focused cognitive-behavioural therapy and individual job support: a pragmatic, multicentre, randomised controlled trial",
+    "Abstract": "Background There is moderate quality evidence that integrating work-directed interventions and components from psychological therapies reduces sickness absence in the medium term. We aimed to extend this evidence by examining objectively ascertained income and work participation status up to 4years after an intervention to improve outcomes among people who struggle with work from common mental disorder.Methods The intervention combined components from cognitive behavioural therapy with principles from supported employment, and compared its efficacy with usual care. Outcomes were derived from registry data with no attrition, in a pragmatic multisite randomised controlled trial (N=1193).Results The intervention group had higher income, higher work participation and more months without receiving benefits over the 10-month to 46-month long-term follow-up period after end of treatment, but differences were not statistically significant. For the group on long-term benefits at inclusion, effect sizes were larger and statistically significant.Conclusion There were no statistically significant differences between the two groups in the primary outcome in the total population. In a secondary analysis for the subgroup most at risk of permanent work exclusion, long-term outcomes were favourable in the intervention group compared with usual care. The results support integrated work and health services for people on the severe end of work participation challenges.Trial registration numberNCT01146730.",
+    "DOI": "10.1136/oemed-2018-105137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: study design (RCT), geographic scope (EU, Europe, US, Canada, Australia), timeframe (2005-2025), intervention (job search services, adult training, wage subsidies, supported employment), population (people with mental disorders or documented mental health problems), and outcomes (employment or labor outcomes)",
+            "study_design": "Randomised Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes focus on income and sickness benefits rather than employment or labor results.",
+            "study_design": "Randomised controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in Europe within the specified timeframe, focusing on supported employment for people with mental health disorders and reporting employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1151,
+    "Authors": "Lyman, D. Russell; Kurtz, Matthew M.; Farkas, Marianne; George, Preethy; Dougherty, Richard H.; Daniels, Allen S.; Ghose, Sushmita Shoma; Delphin-Rittmon, Miriam E.",
+    "Article Title": "Skill Building: Assessing the Evidence",
+    "Abstract": "Objective: Skill building for adults involves multiple approaches to address the complex problems related to serious mental illness. Individuals with schizophrenia are often the research focus. The authors outline key skill-building approaches and describe their evidence base. Methods: Authors searched meta-analyses, research reviews, and individual studies from 1995 through March 2013. Databases surveyed were PubMed, PsycINFO, Applied Social Sciences Index and Abstracts, Sociological Abstracts, Social Services Abstracts, Published International Literature on Traumatic Stress, ERIC, and CINAHL. Authors chose from three levels of evidence (high, moderate, and low) on the basis of benchmarks for the number of studies and quality of their methodology. They also described the evidence of service effectiveness. Results: Over 100 randomized controlled trials and numerous quasi-experimental studies support rating the level of evidence as high. Outcomes indicate strong effectiveness for social skills training, social cognitive training, and cognitive remediation, especially if these interventions are delivered through integrated approaches, such as Integrated Psychological Therapy. Results are somewhat mixed for life skills training (when studied alone) and cognitive-behavioral approaches. The complexities of schizophrenia and other serious mental illnesses call for individually tailored, multimodal skill-building approaches in combination with other treatments. Conclusions: Skill building should be a foundation for rehabilitation services covered by comprehensive benefit plans that attend to the need for service packages with multiple components delivered in various combinations. Further research should demonstrate more conclusively the long-term effectiveness of skill building in real-life situations, alone and in various treatment combinations. Studies of diverse subpopulations are also needed.",
+    "DOI": "10.1176/appi.ps.201300251",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study timeframe is before 2005 (1995-2013), which does not meet the inclusion criterion of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design includes meta-analyses and research reviews from 1995 through March 2013, which does not meet the timeframe criterion of 2005-2025. Additionally, while it focuses on adults with mental health issues, particularly those with schizophrenia, its scope is broader than just employment policies.",
+            "study_design": "Meta-analyses and research reviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on skill building for adults with schizopsphrenia, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Research Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        }
+    }
+}

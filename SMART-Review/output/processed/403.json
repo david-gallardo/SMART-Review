@@ -1,0 +1,33 @@
+{
+    "ArticleID": 403,
+    "Authors": "Salonen, Laura; Solovieva, Svetlana; Kauhanen, Antti; Hartikainen, Elli; Viikari-Juntura, Eira; Leinonen, Taina",
+    "Article Title": "Does previous sickness absence affect work participation after vocational labour market training? A difference-in-differences propensity score matching approach",
+    "Abstract": "Background: Reduced work ability is relatively common among job seekers and it can hinder future labour market attachment. A commonly used measure to increase employability is the use of active labour market programmes. While vocational labour market training (LMT) has been shown to be an effective way to increase work participation among job seekers, there is still uncertainty about how LMT works in different population groups, for example, among persons with a work disability history. Methods: We used nationally representative Finnish register data on 16 062 LMT participants in 2008-2015 aged 25-59 with a history of sickness absence (SA) and propensity score matched participants without such history. For matching, we used information on sociodemographic and work-related factors. We used difference-in-differences analysis to investigate the differential changes in work participation before and after LMT between those with and those without SA history. Results: Having a history of SA was associated with a lower gain in work participation after LMT, but the magnitude varied by sex, employment history and follow-up time. In women, having a history of SA contributed to 3.9-6.2 percentage points smaller increase in work participation 1-3 years after LMT, depending on the employment history. In men, the corresponding numbers were 2.0-4.3 percentage points. The results were more pronounced if the SA was due to mental disorders. Conclusions: The results indicate that work disability, especially due to mental disorders, can hamper work participation after LMT and should be considered when planning employment-enhancing measures for job seekers.",
+    "DOI": "10.1093/eurpub/ckad154",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a difference-in-differences propensity score matching approach, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it is conducted in Finland, a EU country. The study timeframe is within the specified range of 2005-2025. The intervention is vocational labour market training, which is one of the active employment policies mentioned in the inclusion criteria. The population is people with a history of sickness absence, which is a mental health disorder. The study presents measures of employment or labor results, specifically work participation.",
+            "study_design": "Difference-in-differences propensity score matching approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions of interest (job search services, adult training, wage subsidies, supported employment) and its population is not specifically defined as people with mental health disorders.",
+            "study_design": "Difference-in-differences propensity score matching approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational labour market training (LMT) as a general intervention, not directly addressing the specified interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Difference-in-differences propensity score matching approach",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Finland is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

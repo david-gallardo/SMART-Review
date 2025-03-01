@@ -1,0 +1,33 @@
+{
+    "ArticleID": 186,
+    "Authors": "Chow, Clifton M.; Cichocki, Benjamin; Croft, Bevin",
+    "Article Title": "The Impact of Job Accommodations on Employment Outcomes Among Individuals With Psychiatric Disabilities",
+    "Abstract": "Objective: This study aimed to fill a gap in the literature on effectiveness of employment accommodations by comparing employment outcomes for individuals with psychiatric disabilities who received or did not receive accommodations, with models informed by a conceptual approach blending static labor supply theory, Sen's capability approach, and the International Classification of Functioning. Methods: Data for the study came from-a longitudinal, four-year eight-state multisite demonstration project funded by the U.S. Department of Health and Human Services' Substance Abuse and Mental Health Services Administration. All participants had been recruited from clinical populations receiving outpatient psychiatric services. The effects of job accommodations on hours worked were assessed with generalized linear modeling (N=1,538). The effects of job accommodations on duration of employment were assessed with a parametric duration model analysis (N=1,040) that incorporated multiple spells of employment among individuals over the study period. Results: Controlling for covariates suggested by the conceptual model, analyses showed that individuals who reported job accommodations on average worked 7.68 more hours per month and those who reported receiving accommodations worked 31% longer, with each job accommodation reported decreasing the risk of job termination by nearly 13%. Conclusions: Results demonstrate that job accommodations show potential to improve employment outcomes for individuals with psychiatric disabilities receiving supported employment services, indicating that job accommodations should be stressed in policy and continuing education efforts for program staff and clients.",
+    "DOI": "10.1176/appi.ps.201300267",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and the intervention (job accommodations) and population (individuals with psychiatric disabilities) meet the inclusion criteria. The outcomes (hours worked, duration of employment, and job termination risk) also meet the inclusion criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (job accommodations), population (individuals with psychiatric disabilities), and outcomes (employment hours, job duration).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a longitudinal study with a control group, focuses on job search services (a form of intervention), is conducted in the US (within the specified geographic scope), and includes outcomes related to employment rates and job retention.",
+            "study_design": "Longitudinal study with a control group",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a longitudinal demonstration project with a control group, focuses on job accommodations (a form of supported employment), includes employment outcomes such as hours worked and duration of employment, and is conducted in the US within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

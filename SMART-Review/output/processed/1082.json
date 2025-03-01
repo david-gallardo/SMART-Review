@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1082,
+    "Authors": "Overmeyer, Rebecca; Berghaeuser, Julia; Dieterich, Raoul; Wolff, Max; Goschke, Thomas; Endrass, Tanja",
+    "Article Title": "The Error-Related Negativity Predicts Self-Control Failures in Daily Life",
+    "Abstract": "Adaptive behavior critically depends on performance monitoring (PM), the ability to monitor action outcomes and the need to adapt behavior. PM-related brain activity has been linked to guiding decisions about whether action adaptation is warranted. The present study examined whether PM-related brain activity in a flanker task, as measured by electroencephalography (EEG), was associated with adaptive behavior in daily life. Specifically, we were interested in the employment of self-control, operationalized as self-control failures (SCFs), and measured using ecological momentary assessment. Analyses were conducted using an adaptive elastic net regression to predict SCFs from EEG in a sample of 131 participants. The model was fit using within-subject averaged response-locked EEG activity at each electrode and time point within an epoch surrounding the response. We found that higher amplitudes of the error-related negativity (ERN) were related to fewer SCFs. This suggests that lower error-related activity may relate to lower recruitment of interventive self-control in daily life. Altered cognitive control processes, like PM, have been proposed as underlying mechanisms for various mental disorders. Understanding how alterations in PM relate to regulatory control might therefore aid in delineating how these alterations contribute to different psychopathologies.",
+    "DOI": "10.3389/fnhum.2020.614979",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes. The study examines the relationship between performance monitoring and self-control failures in daily life, but it does not investigate the impact of employment policies on people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on brain activity related to self-control failures in daily life.",
+            "study_design": "Observational with ecological momentary assessment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between PM-related brain activity and self-control failures in daily life, which does not directly address employment or labor outcomes in people with mental health disorders. The intervention is not specified and does not align with the inclusion criteria for active employment policies.",
+            "study_design": "Ecological momentary assessment study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

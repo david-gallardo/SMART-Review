@@ -1,0 +1,33 @@
+{
+    "ArticleID": 548,
+    "Authors": "Helgesson, Magnus; Gustafsson, Klas; Leineweber, Constanze",
+    "Article Title": "Psychosocial and organisational work factors as predictors of sickness absence among professionally active adults with common mental disorders",
+    "Abstract": "BackgroundThe incidence of sickness absence (SA) due to common mental disorders (CMDs) has increased in recent decades. It is hence important to elucidate how individuals with CMDs can maintain work. The aim was to analyse the relationship between psychosocial and organisational workplace factors and a spell of > 14 days of SA among persons with CMDs.MethodsIncluded were respondents of the Swedish Work Environment Survey (SWES) 1993-2013, diagnosed with a CMD up to five years before the interview in the SWES (n = 3,795). Relative Risk (RR) regression models with 95% Confidence Intervals (CIs) analysed associations between psychosocial-, and organisational workplace factors and a subsequent spell of SA > 14 days.ResultsLow control over work (RR:1.16; CI:1.01-1.35), job strain (RR:1.25; CI:1.04-1.49), no flexible working hours (RR:1.25; CI:1.08-1.45) or no possibility to work from home (RR:1.37; CI:1.13-1.66) were significantly related to an increased risk of SA. Persons diagnosed with depression experiencing job strain had the highest increased risk of SA (RR:1.55; CI: 1.07-2.25).ConclusionsA sustainable work-life among working individuals with CMDs can be provided by reducing job strain, and if possible, by increasing flexibility regarding workplace and working hours. This may prevent spells of SA, and hereby increase productivity.",
+    "DOI": "10.1186/s12888-023-05020-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a regression analysis with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (1993-2013) and focuses on employment outcomes for people with mental health disorders, meeting the inclusion criteria for population and intervention.",
+            "study_design": "Relative Risk regression models with 95% Confidence Intervals (CIs)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on psychosocial and organizational work factors as predictors of sickness absence among individuals with common mental disorders.",
+            "study_design": "Cross-sectional analysis using a longitudinal dataset (SWES 1993-2013)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes but rather on sickness absence, which is not one of the specified outcomes in the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

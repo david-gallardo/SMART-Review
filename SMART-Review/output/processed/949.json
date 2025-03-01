@@ -1,0 +1,33 @@
+{
+    "ArticleID": 949,
+    "Authors": "Martini, Alberto; Rettore, Enrico; Barbetta, Gian Paolo; Sandrolini, Fabio",
+    "Article Title": "When Non-Compliance Carries the Day: Evaluating the Effectiveness of an Employment Program for the Severely Mentally Ill",
+    "Abstract": "Background: Mental disease is increasing worldwide and people who suffer from it show lower employment rates and lower earnings. Various approaches have been tried to increase the employment rate of people with mental disease. In the US, empirical studies show that individual placement and support(IPS)-a rapid transition to the job market, with some external assistance-is effective in increasing the employment rate of the mentally ill. Europe lacks such evidence. Purpose: The study assesses the impact of an IPS-like program undertaken in Italy on the employment rate of people with severe mental illness. Methods: The analysis is based on a RCT that tests whether offering people with severe mental illness the support of a job coach increases their chances of being employed. Moreover, using a battery of tests-one of which is made available by the RCT itself-we show that the large non-compliance with the protocol showed by the RCT is ignorable. This motivates estimating the impact of carrying out a traineeship during the experimental period on employment using non-experimental methods. Results and Conclusions: The study finds that the availability of a coach boosts the patients' chances of finding a traineeship during the experimental period; moreover, undertaking a traineeship almost doubles the likelihood of being at work one year later. JEL CODES: J78, J48, J38",
+    "DOI": "10.1177/0193841X211049685",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a RCT, which meets the inclusion criteria. The study is conducted in Italy, which falls within the EU, Europe, US, Canada, or Australia. The study focuses on people with severe mental illness, which meets the population criterion. The study presents measures of employment outcomes, such as the likelihood of finding a traineeship and being at work one year later.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU country - Italy), timeframe (2005-2025), intervention (job search services), population (people with severe mental illness), and outcomes (employment rate).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in Italy (EU country) within the specified timeframe, focusing on supported employment for people with severe mental illness and reporting employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

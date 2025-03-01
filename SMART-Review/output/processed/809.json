@@ -1,0 +1,33 @@
+{
+    "ArticleID": 809,
+    "Authors": "Khare, Chitra; Mueser, Kim T.; Fulford, Daniel; Watve, Vidyadhar G.; Karandikar, Neeraj J.; Khare, Sailee; Karandikar, Dipti N.; McGurk, Susan R.",
+    "Article Title": "Employment functioning in people with severe mental illnesses living in urban vs. rural areas in India",
+    "Abstract": "Purpose Research on employment in people with severe mental illnesses (SMI) in developing countries is sparse and largely limited to employment rates. We conducted a comprehensive study of work, interest in work, and perceived benefits and barriers to work in people with SMI in India. Methods Semi-structured interviews were conducted with 550 individuals with SMI receiving private psychiatric outpatient services in two districts in western India, one urban (Pune) and the other rural (Ahmednagar). Results More than half of the participants were employed, with significantly more men working (79.4%) than women (35.9%). Higher rates of work were found in rural areas (77.8%), where most work was in family agricultural businesses, than in urban areas (48.9%), where most work was for independent employers. Participants in rural areas worked fewer hours and earned less money, and reported fewer benefits and fewer problems related to work than urban participants. Over 45% of participants working for independent employers found jobs with help from families and extended social networks. Most unemployed participants wanted to work, and desired a variety of supports, including assistance with job finding and illness management. Conclusions Gender-specific social role expectations and families play an important role in work in people with SMI in India. Despite higher rates of work in this sample than most studies from developed countries, a significant subgroup was unemployed but wanted to work. Persons with SMI in developing countries may benefit from the adaptation of validated vocational rehabilitation approaches in developed countries to their cultural context.",
+    "DOI": "10.1007/s00127-020-01901-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group. The study is a qualitative study with semi-structured interviews, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative study with semi-structured interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (India is not in EU, Europe, US, Canada, or Australia). Additionally, the intervention and population do not align with the defined criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (India).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

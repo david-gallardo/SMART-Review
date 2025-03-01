@@ -1,0 +1,33 @@
+{
+    "ArticleID": 942,
+    "Authors": "Schlachter, Svenja; Adam, Sophia Helen; Baxendale, Maximilian; Gantner, Melanie; Gralla, Maria; Junne, Florian; Martus, Peter; Mehler, Miriam; Nischk, Daniel; Pumptow, Marina; Erschens, Rebecca; Guendel, Harald; Ruesch, Nicolas; von Wietersheim, Joern",
+    "Article Title": "Effectiveness of a three-component intervention supporting unemployed individuals with mental health issues in their job search and mental health recovery (3for1): study protocol of a non-randomized controlled study",
+    "Abstract": "BackgroundThere is a vicious cycle between unemployment and mental health issues. Unemployed individuals with mental health issues require individualized support at multiple levels in order to promote their mental health, and obtain and retain employment. The 3for1-intervention program aims to provide such support with three components (short-term psychotherapy, job coaching based on the Individual Placement and Support approach, and peer support). This study protocol outlines how the effectiveness of this three-component intervention program in terms of re-employment, mental health, and psychosocial outcomes will be evaluated.MethodsThe 3for1-intervention program will be evaluated with a non-randomized controlled trial design in a multi-center study. 500 eligible participants aged between 18 and 60 years from six job centers in Southern Germany will be allocated to a control group or an intervention group. Allocation is time-based, with the control group being recruited first, followed by recruitment of the intervention group. The control group will receive treatment as usual, whereas the intervention group will receive treatment as usual as well as access to the three intervention components over a period of 12 months. Assessment will be conducted at baseline (t0), and 12 (t1) and 18 (t3) months later. The primary outcome will be the proportion of participants who are in employment subject to social insurance contributions at t1. Differences between control and intervention group will be tested with logistic regression analysis, controlling for relevant covariates. Analyses of secondary outcomes will relate to group differences regarding re-employment, health and well-being, social integration, help-seeking, and self-stigma at t1 and t2, applying logistic regression analysis or analysis of covariance. Additionally, usage of health services will be measured to evaluate the intervention program's cost effectiveness.DiscussionThe 3for1-intervention aims to improve employability and mental health outcomes of a vulnerable population with high need for assistance. Improvements for this population would benefit the German welfare state as well. This study could provide valuable insights into the feasibility, implementation, and sustainability of this individualized, multi-level support program within German job centers.Trial registrationThis trial is registered with the German Clinical Trials Register: DRKS00029002 (registered on 11 May 2022).",
+    "DOI": "10.1186/s12889-024-20323-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a non-randomized controlled trial, which meets the inclusion criteria. The study is conducted in EU countries (Germany), within the specified timeframe (2005-2025), and focuses on people with mental health disorders, with outcomes related to employment.",
+            "study_design": "non-randomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a non-randomized controlled trial.",
+            "study_design": "Non-randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a non-randomized controlled study (study design), focuses on EU countries (geographic scope), and covers the timeframe of 2005-2025. It examines interventions like job search services and adult training (intervention), targets the population with mental health issues (population), and measures employment outcomes (outcomes).",
+            "study_design": "non-randomized controlled study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a non-randomized controlled trial, which does not meet the criteria for inclusion as it lacks randomization.",
+            "study_design": "Non-randomized controlled trial",
+            "logprobs": null
+        }
+    }
+}

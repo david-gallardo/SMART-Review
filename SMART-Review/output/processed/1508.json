@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1508,
+    "Authors": "McGee, Robin E.; Thompson, Nancy J.",
+    "Article Title": "Unemployment and Depression Among Emerging Adults in 12 States, Behavioral Risk Factor Surveillance System, 2010",
+    "Abstract": "IntroductionThe high rate of unemployment among emerging adults (aged 18 to 25 years) is a public health concern. The risk of depression is higher among the unemployed than among the employed, but little is known about the relationship between unemployment and mental health among emerging adults. This secondary data analysis assessed the relationship between unemployment and depression among emerging adults.MethodsData from the 2010 Behavioral Risk Factor Surveillance System (BRFSS) were analyzed. Responses to the Patient Health Questionnaire-8 provided data about the prevalence of depression. Bivariate relationships were assessed using.2 tests, and multivariable adjusted odds ratios were calculated with logistic regressions. Sociodemographic variables were sex, race/ethnicity, marital status, and education. In addition, logistic regression models adjusted for health insurance status, disability, smoking, and body mass index. The analyses were completed using SAS 9.3 survey procedures to account for the complex sampling design.ResultsAlmost 12% of emerging adults were depressed (PHQ- 8 >= 10) and about 23% were unemployed. Significantly more unemployed than employed emerging adults were classified with depression. In the final model, the odds of depression were about 3 times higher for unemployed than employed emerging adults.ConclusionThe relationship between unemployment and depression is significant among emerging adults. With high rates of unemployment for this age group, this population may benefit from employment-and mental-health-focused interventions.",
+    "DOI": "10.5888/pcd12.140451",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a secondary data analysis, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, its timeframe is outside of the specified period (2005-2025).",
+            "study_design": "Secondary data analysis using BRFSS",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployment and depression among emerging adults, not specifically on people with mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group for evaluating the effectiveness of such interventions.",
+            "study_design": "Secondary data analysis",
+            "logprobs": null
+        }
+    }
+}

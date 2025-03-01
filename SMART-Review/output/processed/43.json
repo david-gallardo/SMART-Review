@@ -1,0 +1,33 @@
+{
+    "ArticleID": 43,
+    "Authors": "Morris, Adrienne; Waghorn, Geoffrey; Robson, Emma; Moore, Lyndell; Edwards, Emma",
+    "Article Title": "Implementation of Evidence-Based Supported Employment in Regional Australia",
+    "Abstract": "Objective: To implement the Individual Placement and Support (IPS) approach at 4 locations in regional New South Wales, Australia. Outcomes attained were compared with a national non-IPS program and with international trials of IFS within and outside the United States. Methods: Four IFS programs were established through formal partnerships between mental health services and disability employment services. Ninety-five mental health service clients commenced employment assistance and were tracked for a minimum of 12 months. Results: Two sites achieved good fidelity to IPS principles, and 2 sites achieved fair fidelity. IPS clients had 3.5 times greater odds of attaining 13 weeks' employment than those receiving assistance in the national network of disability employment services. Conclusions and Implications for Practice: Implementing IPS is challenging in the Australian service delivery context. Factors other than program fidelity appear to contribute to excellent employment outcomes. Further research is needed to identify these factors.",
+    "DOI": "10.1037/prj0000051",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: study design (quasi-experimental), geographic scope (Australia), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes)",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (Australia), timeframe (2005-2025), intervention (supported employment), population (mental health service clients), and outcomes (employment rates).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is conducted outside the specified geographic scope (outside EU, Europe, US, Canada, or Australia).",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is quasi-experimental with a control group, the geographic scope is Australia, the timeframe is within 2005-2025, the intervention is supported employment, the population has mental health disorders, and the outcomes include employment rates.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

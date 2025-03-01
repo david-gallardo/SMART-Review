@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1143,
+    "Authors": "Williams, Philip Lee; Lloyd, Chris; Waghorn, Geoffrey; Machingura, Tawanda",
+    "Article Title": "Implementing evidence-based practices in supported employment on the Gold Coast for people with severe mental illness",
+    "Abstract": "Aim: The aim of this project was to evaluate program outcomes following the implementation of an evidence-based approach to supported employment on the Gold Coast, Queensland, Australia.Method: A prospective observational design was used to evaluate employment outcomes and fidelity to the evidence-based principles and practices of a specialised form of supported employment. The cohort was defined as all those (n=114) that entered the program at each of three sites within a 21-month period. Each participant was followed up for a minimum of six months. All three sites implemented the employment program by establishing a partnership between a non-government organisation and the Gold Coast community mental health service.Results: The primary outcome variable was the proportion commencing competitive employment during the follow-up period from among those that commenced receiving assistance (the denominator). This ranged from 12% at Site C to 33.3% at Site A, and 37% at Site B. Fidelity to evidence-based principles was fair at Sites A and C and good at Site B. These results were below expectations based on international-controlled trials. The variation in site effectiveness appeared related to both fidelity to evidence-based principles and to other factors at each site, which could not be clearly identified.Conclusions: Delivering an effective supported employment program using an inter-agency partnership method is challenging. There are several roles in which occupational therapists can be involved that facilitate improving both the implementation and the effectiveness of supported employment for people with severe mental illness in Australia.",
+    "DOI": "10.1111/1440-1630.12202",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective observational design, which meets the inclusion criteria. The study is conducted in Australia, within the specified timeframe (2005-2025), and focuses on people with mental health disorders. The intervention is supported employment, which is one of the included interventions. The outcomes measured are employment outcomes, which meet the inclusion criteria.",
+            "study_design": "Prospective observational design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is observational rather than randomized controlled trial (RCT) or quasi-experimental with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Prospective observational design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is conducted in Australia, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Prospective observational design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a prospective observational design with a control group, conducted in Australia within the specified timeframe, focusing on supported employment for people with severe mental illness, and includes employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

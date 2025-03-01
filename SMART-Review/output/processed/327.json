@@ -1,0 +1,33 @@
+{
+    "ArticleID": 327,
+    "Authors": "Niedhammer, Isabelle; Malard, Lucile; Chastang, Jean-Francois",
+    "Article Title": "Occupational factors and subsequent major depressive and generalized anxiety disorders in the prospective French national SIP study",
+    "Abstract": "Background: The literature has been extensive on the associations between psychosocial work factors and mental health. Nevertheless, the studies using prospective design, various concepts and more than one measurement point in time for these factors and diagnostic interview to assess mental disorders remain seldom in the literature. This study is an attempt to fill the gap in this topic.Methods: The study was based on a national representative sample of 4717 workers of the French working population (SIP survey), interviewed in 2006 and reinterviewed again in 2010 and free of mental disorders at baseline. Psychosocial work factors, measured in both 2006 and 2010, included: psychological demands, decision latitude, social support, reward, emotional demands, role conflict, ethical conflict, tensions with the public, job insecurity and work-life imbalance. Other occupational factors related to working time/hours and physical work environment were also studied. Major depressive (MDD) and generalized anxiety disorders (GAD) were measured using a standardised diagnostic interview (MINI). Covariates were age, occupation, marital status, having a child under 3 y, social support outside work and stressful life events. Multivariate analyses were performed using weighted logistic regression models.Results: Using models taking all occupational factors into account simultaneously, low reward and job insecurity predicted MDD. Psychological demands, low reward, emotional demands and job insecurity were predictive of GAD. The more frequent the exposure to job insecurity, the higher the risk of MDD and GAD, and the more frequent the exposure to psychological demands and low reward, the higher the risk of GAD. No effect was observed for repeated exposure to occupational factors.Conclusions: Classical and emergent psychosocial work factors were predictive factors of depression and anxiety with dose-response associations in terms of frequency of exposure. More attention may be needed on emergent psychosocial work factors and frequent exposure to these factors.",
+    "DOI": "10.1186/s12889-015-1559-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on a national representative sample of workers in France, conducted between 2006 and 2010, and includes a control group for mental disorders at baseline.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional with longitudinal follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on interventions directly addressing employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

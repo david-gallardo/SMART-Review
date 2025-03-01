@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1171,
+    "Authors": "Erschens, Rebecca; Loda, Teresa; Stuber, Felicitas; Herrmann-Werner, Anne; Nikendei, Christoph; Gashi, Kaltrina; Zipfel, Stephan; Junne, Florian",
+    "Article Title": "Coping Styles Among High School Graduates Aiming to Study Medicine in Dealing With Depressive and Anxious Symptoms",
+    "Abstract": "Background: Psychological distress, its associated stressors and resilience factors, and the implications derived for the education and training of medical students and physicians have long been the subject of international studies. The study presented here investigated affective symptoms in association with coping styles in the earliest phase of University medical education: high school graduates aiming to study medicine.Materials and Methods: We conducted a self-report survey at a medical school in Germany among high school graduates who indicated being interested in studying medicine at the university's on-campus recruitment day. The questionnaire included validated instruments for the self-assessment of symptoms of depression (i.e., Patient Health Questionnaire; PHQ-9) and anxiety (i.e., Generalized Anxiety Disorder 7 (GAD-7), and participants were also asked to rate functional and dysfunctional behavior-based coping styles for symptoms of depression and anxiety. Additional variables addressed were gender, motivation, interest in studying medicine, and parental employment in medicine.Results: Of 400 high school graduates, 346 (87%) completed the survey. More than 40 (12.5%) and nearly 30 (8.4%) reported relevant symptoms of depression (PHQ-9 sum score >= 10) and anxiety (GAD-7 sum score >= 10), respectively. Among the graduates, young women had higher values for symptoms of depression than young men, and one's interested exclusively in studying human medicine tended to have marginally higher levels of symptoms of depression than ones who were also interested in other subjects. Relevant functional coping styles included seeking social support, relaxing, engaging in sports, listening to or making music, and reading books, whereas relevant dysfunctional coping styles included consuming alcohol, abusing drugs, restrictive eating, watching TV, surfing the Internet, and withdrawing and ruminating.Conclusion: The results clarify the burden and associated resilience factors of premedical high school graduates at the earliest phase of their University education. As such, they reveal ways to address educational and supportive services and support the need for further investigation into factors of success in studying human medicine.",
+    "DOI": "10.3389/fpsyt.2021.735371",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on coping styles among high school graduates aiming to study medicine in dealing with depressive and anxious symptoms.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is high school graduates aiming to study medicine, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on high school graduates aiming to study medicine and does not specifically address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Self-report survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies, and it does not include employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 276,
+    "Authors": "Pompili, Maurizio; Innamorati, Marco; Sampogna, Gaia; Albert, Umberto; Carmassi, Claudia; Carra, Giuseppe; Cirulli, Francesca; Erbuto, Denise; Luciano, Mario; Nanni, Maria Giulia; Sani, Gabriele; Tortorella, Alfonso; Vigan, Caterina; Volpe, Umberto; Fiorillo, Andrea",
+    "Article Title": "The impact of Covid-19 on unemployment across Italy: Consequences for those affected by psychiatric conditions",
+    "Abstract": "Background: Severe psychological and psychosocial consequences of the COVID-19 pandemic are expected, especially for people already vulnerable to biological or psychosocial stressors, including those with mental health problems. The study aimed to investigate factors associated with the loss of jobs and unemployment during the COVID-19 pandemic. In particular, we investigated whether mental illness was associated with a higher risk of losing one's job because of the COVID-19 pandemic. Methods: Nineteen thousand four hundred ninety-six adults living in Italy were administered an online protocol including a sociodemographic checklist and questionnaires investigating suicide ideation and risk, mental health status and general distress (stress, anxiety, and depression), resilience, and perceived support. Results: One thousand two hundred seventy-four reported having lost their job because of the COVID-19 pandemic, and 5.4% of the sample reported a mental illness (mostly a depressive disorder). Unemployment was independently associated with mental illness, poor mental health, and depression. Mental illness was associated with the risk of losing one's job because of the COVID-19 pandemic, but not at the multivariate analyses. Those who lost their job because of the COVID-19 pandemic (compared to others) reported worse mental health and depression. Limitations: The presence of mental illness was self-reported by respondents and the administered measures were self-reported questionnaires affected by social desirability and other response bias. Conclusions: The COVID-19 pandemic and social isolation measures and lockdown used to contain its spread among the Italian population were associated with occupational insecurity, especially among the more vulnerable social categories.",
+    "DOI": "10.1016/j.jad.2021.09.035",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional survey with a control group, meeting the inclusion criteria for study design. The study is set in Italy, within the EU, and within the specified timeframe. The intervention is related to employment, and the population includes people with mental health problems. The outcomes include employment or labor outcomes.",
+            "study_design": "Cross-sectional survey with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include a control group. Additionally, the intervention is not specifically related to employment policies but rather focuses on the impact of the pandemic on unemployment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions but rather on the impact of the COVID-19 pandemic on unemployment and mental health. It lacks a direct intervention on employment for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an active employment policy intervention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

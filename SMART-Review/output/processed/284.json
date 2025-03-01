@@ -1,0 +1,33 @@
+{
+    "ArticleID": 284,
+    "Authors": "Cook, Judith A.; Swarbrick, Margaret; Boss, Katherine A.; Steigman, Pamela J.; Nemec, Patricia; Jonikas, Jessica A.; Brice, George H.; Aranda, Frances",
+    "Article Title": "The Importance of Employment to Workers With Preexisting Behavioral Health Disorders During the COVID-19 Pandemic",
+    "Abstract": "Impact and Implications Study findings point to the important role work plays in the lives of employees with preexisting behavioral health conditions during the pandemic, with implications for designing services and supports. This includes the need for mental health peer and professional support, including evidence-based supported employment services, vocationally oriented peer support, health and wellness education, and infection precaution assurance. Also needed is help balancing work, family, and caregiving to reduce employee stress and enhance job satisfaction.Objective: Little is known about the employment experiences of people with preexisting behavioral health conditions during the coronavirus disease of 2019 (COVID-19) pandemic, despite the recognized importance of work for this group. Method: Two hundred and seventy two adults with behavioral health conditions, recruited through statewide mental health networks in NJ and NY, completed an online survey in April-May 2020. Multivariable analysis examined the effects of sleep and dietary changes, COVID-19 exposure, anxiety (Generalized Anxiety Disorder-2), and depressive symptoms (Patient Health Questionnaire-2) on employment status and job changes. Respondents' open-ended descriptions of pandemic-related changes in employment were analyzed using the constant comparative method. Results: Two-thirds (65%) were employed, only 4% became unemployed, and 29% reported changes in their jobs as a result of the pandemic. In logistic regression analysis controlling for age, race, education and gender, workers were more likely than nonworkers to report altered eating and sleeping habits, but not greater anxiety or depression. However, those whose jobs changed were more likely to report COVID-19 exposure, altered sleep patterns, clinically significant anxiety symptoms, and both anxiety and depressive symptoms compared to those whose jobs had not changed. Qualitative analysis revealed work's positive impact (pride in job performance, using new skills, feeling safer working from home) and its negative effects (lifestyle disruption, worry about job security, isolation from coworkers). Conclusions and Implications for Practice: This is the first study to suggest the important role that work played for people with preexisting behavioral health disorders during the pandemic, with both positive and negative influences, and important implications for services and supports.",
+    "DOI": "10.1037/prj0000499",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is within the specified timeframe (2005-2025), and the intervention is supported employment services, which is one of the included interventions. The population is people with mental health disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group. It is a survey-based study without random assignment and does not meet the inclusion criteria for study design.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a survey-based study.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

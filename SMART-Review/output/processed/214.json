@@ -1,0 +1,33 @@
+{
+    "ArticleID": 214,
+    "Authors": "Metcalfe, Justin D.; Drake, Robert E.; Bond, Gary R.",
+    "Article Title": "Predicting Employment in the Mental Health Treatment Study: Do Client Factors Matter?",
+    "Abstract": "For people with psychiatric disabilities, demographic characteristics and measures of clinical status are often used to allocate scarce employment services. This study examined a battery of potential client predictors of competitive employment, testing the hypothesis that evidence-based supported employment would mitigate the negative effects of poor work history, uncontrolled symptoms, substance abuse, and other client factors. In a secondary analysis of 2055 unemployed Social Security Disability Insurance beneficiaries with schizophrenia or affective disorders, we examined 20 baseline client factors as predictors of competitive employment. The analysis used logistic regression to identify significant client predictors and then examined interactions between significant predictors and receipt of evidence-based supported employment. Work history was a strong predictor of employment, and other client measures (fewer years on disability rolls, Hispanic ethnicity, and fewer physical health problems) were modestly predictive. Evidence-based supported employment mitigated negative client factors, including poor work history. Participants with a poor work history benefitted from supported employment even more than those with a recent work experience. Evidence-based supported employment helps people with serious mental illness, especially those with poor job histories, to obtain competitive employment. Factors commonly considered barriers to employment, such as diagnosis, substance use, hospitalization history, and misconceptions about disability benefits, often have little or no impact on competitive employment outcomes.",
+    "DOI": "10.1007/s10488-016-0774-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of 2055 unemployed Social Security Disability Insurance beneficiaries with schizophrenia or affective disorders, using logistic regression to identify significant client predictors and interactions between predictors and receipt of evidence-based supported employment.",
+            "study_design": "Secondary analysis, logistic regression",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a secondary analysis of controlled trial data (RCT) and focuses on people with mental disorders. It examines the impact of supported employment on competitive employment outcomes, which aligns with the inclusion criteria.",
+            "study_design": "Quasi-experimental (secondary analysis of RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment. The study also does not include a control group, which is required by the inclusion criteria.",
+            "study_design": "secondary analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a secondary analysis of a controlled trial (RCT) focusing on supported employment for people with mental health disorders, includes relevant outcomes such as competitive employment, and is within the specified geographic scope and timeframe.",
+            "study_design": "Secondary analysis of RCT",
+            "logprobs": null
+        }
+    }
+}

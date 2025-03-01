@@ -1,0 +1,33 @@
+{
+    "ArticleID": 272,
+    "Authors": "Arends, Iris; van der Klink, Jac J. L.; van Rhenen, Willem; de Boer, Michiel R.; Bultmann, Ute",
+    "Article Title": "Predictors of recurrent sickness absence among workers having returned to work after sickness absence due to common mental disorders",
+    "Abstract": "Objective The aim of this study was to investigate whether sociodemographic, disease-related, personal, and work-related factors - measured at baseline - are predictors of recurrent sickness absence (SA) at 6 and 12 months follow-up among workers who returned to work after SA due to common mental disorders (CMD).Methods Based on a cluster-randomized controlled trial, this prospective study comprised 158 participants, aged 18-63 years, with partial or full return to work (RTW) and an occupational physician-diagnosed CMD. Data on predictors were collected with questionnaires and administrative data. Outcome was the incidence of recurrent SA (ie, decreased work for >= 30% of contract hours due to all-cause SA regardless of partial or full RTW) at 6 and 12 months follow-up. Longitudinal logistic regression analysis with backward elimination was used.Results We found that company size >100 [odds ratio (OR) 2.59,95% confidence interval (95% CI) 1.40-4.80] and conflicts with the supervisor (OR 2.21, 95% CI 1.21-4.04) were predictive of recurrent SA. Having >= 1 chronic diseases decreased the risk of recurrent SA (OR 0.54, 95% CI 0.30-0.96).Conclusions Two work- and one disease-related factor predicted the incidence of recurrent SA among workers with CMD. Healthcare providers can use these findings to detect and help workers who have returned to work and are at higher risk for recurrent SA. Furthermore, future interventions to prevent recurrent SA could focus on supervisor conflicts.",
+    "DOI": "10.5271/sjweh.3384",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster-randomized controlled trial, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is supported employment for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Cluster-randomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is based on a cluster-randomized controlled trial but the intervention does not directly address employment. The primary focus is on predictors of recurrent sickness absence rather than interventions to improve employment outcomes for people with mental health disorders.",
+            "study_design": "Cluster-RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on recurrent sickness absence (SA) rather than employment or labor outcomes. It also does not include adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Cluster-randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cluster-randomized controlled trial",
+            "logprobs": null
+        }
+    }
+}

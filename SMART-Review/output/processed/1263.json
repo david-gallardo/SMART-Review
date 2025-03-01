@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1263,
+    "Authors": "Yi, Jee-Seon; Im, Eun-Ok",
+    "Article Title": "The Influence of Workplace Violence, Psychosocial Working Conditions on Depressive Symptoms Among Female Workers in South Korea",
+    "Abstract": "Workers' depression is an important issue, with the prevalence higher in women than in men. This study aimed to identify the effects of workplace violence exposure and psychosocial working conditions on depressive symptoms in female workers in South Korea. This study included 15 605 female wageworkers who participated in the fifth Korean Working Conditions Survey. Logistic regression analyses were implemented to identify the factors that affected their depression. The female workers reported increased frequency of symptoms of depression when there was humiliating behavior from co-workers (adjusted odds ratio [aOR] = 1.999) or physical violence from clients (aOR = 1.609). In psychosocial working environments, they reported a greater frequency of depressive symptoms with high quantitative demands (aOR = 1.498), high emotional demands (aOR = 1.085), lower colleague's support (aOR = 1.566), or lack of support from supervisors at the workplace (aOR = 1.707). An emphasis should be put on preventing humiliating behaviors from co-workers as well as violence from clients in the workplace.",
+    "DOI": "10.1177/10105395241237812",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is logistic regression analyses, which lacks a rigorous evaluation and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "logistic regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and interventions directly related to active employment for people with mental health disorders. It focuses on the effects of workplace violence and psychosocial working conditions on depressive symptoms among female workers in South Korea.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on depressive symptoms in female workers in South Korea and does not meet the specified inclusion criteria regarding interventions, population, and outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Korea).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

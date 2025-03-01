@@ -1,0 +1,33 @@
+{
+    "ArticleID": 153,
+    "Authors": "Davis, Maryann; Koroloff, Nancy; Mizrahi, Raphael; Morrison, Emily",
+    "Article Title": "Collaboration Between Mental Health and Vocational Rehabilitation Programs for Transition-Age Youth Vocational Outcomes",
+    "Abstract": "Transition-age youth (TAY) with serious mental health conditions (SMHC) face many challenges as they establish adult employment. Mental health (MH) programs and vocational rehabilitation (VR) programs each provide key supports toward this goal, but collaboration is required. Objective: The present study's objective was to assess the extent of collaboration between VR programs and MH programs that serve this age group and to identify interorganizational factors associated with collaboration levels. Method: Participants were 100 key informants from VR, and child mental health (CMH), transition-age youth MH (TAYMH), and adult mental health (AMH) programs in communities that received federal funding to improve services for TAY with or at risk of SMHC. Participants completed web surveys that queried four interorganizational factors and employed a modified social network analysis methodology to assess collaboration levels. Results: The interorganizational factor, depth of knowledge, had a strong and consistent association with collaboration levels. There was little difference in MH-VR collaboration levels between MH programs serving different age groups. However, VR programs and CMH programs had both lower depth of knowledge of each other and lower collaboration levels, compared to TAY and AMH programs. Conclusions and Implications for Practice: Collaboration between VR and MH programs is instrumental to making sure that TAY with SMHC receive appropriate career development and employment services. Increasing the depth of knowledge that programs have about each other may enhance collaboration and appears particularly needed between VR and CMH programs.",
+    "DOI": "10.1037/prj0000539",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is vocational rehabilitation programs and mental health programs, which addresses employment outcomes. The population is transition-age youth with serious mental health conditions, and the study presents measures of employment or labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on collaboration between mental health and vocational rehabilitation programs for transition-age youth with serious mental health conditions.",
+            "study_design": "Survey-based analysis using web surveys and social network analysis methodology",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on collaboration between MH and VR programs for TAY with SMHC, which does not directly address employment interventions or outcomes for people with mental health disorders. The study design is not specified as an RCT, systematic review, or meta-analysis, which is required by the inclusion criteria.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

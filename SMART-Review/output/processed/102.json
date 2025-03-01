@@ -1,0 +1,33 @@
+{
+    "ArticleID": 102,
+    "Authors": "Halonen, Jaana I.; Solovieva, Svetlana; Virta, Lauri J.; Laaksonen, Mikko; Martimo, Kari-Pekka; Hiljanen, Ismo; Lallukka, Tea; Autti-Ramo, Ilona; Viikari-Juntura, Eira",
+    "Article Title": "Sustained return to work and work participation after a new legislation obligating employers to notify prolonged sickness absence",
+    "Abstract": "Aims: Return to work (RTW) after prolonged sickness absence benefits both the individual and society. However, the effectiveness of legislation aiming to improve RTW remains uncertain. We examined whether sustained RTW and work participation were different before and after a legislative change enacted in 2012 (i.e. an intervention) that obligated employers to give notice of prolonged sickness absence to occupational health services. Methods: Two random samples (2010 and 2013) of the Finnish working aged population (70%, similar to 2.6 million each) were drawn. Using survival analysis, we assessed sustained RTW (>= 28 consecutive working days) during a two-month follow-up after a sickness absence minimum of 30 calendar days in the pre- and post-intervention period. We also identified pathways for RTW with cluster analysis and calculated relative gain in work participation in the total sample and by several population subgroups. Results: In the total sample, sustained RTW was 4% higher and the mean time to sustained RTW was 0.42 days shorter in the post-than in the pre-intervention period. The estimates were larger among women than men and among those with mental disorders compared with other diagnoses. Changes in the pathways for sustained RTW indicated a 4.9% relative gain in work participation in the total sample. The gain was larger among those who lived in areas of low unemployment rate (20.6%) or worked in the public sector (11.9%). Conclusions: From 2010 to 2013, RTW and work participation increased among the employees with prolonged sickness absence, suggesting that the legislative change enhanced RTW. The change in work participation varied by population subgroup.",
+    "DOI": "10.1177/1403494817732445",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and the intervention (legislative change) directly addresses employment. The population references mental health, and the outcomes present measures of employment and labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services, wage subsidies, supported employment, or adult training. It focuses on legislation requiring employers to notify prolonged sickness absence.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group, focuses on the EU (Finland), and covers the timeframe of 2010-2013. The intervention is job search services (legislative change obligating employers to notify prolonged sickness absence), and the population is people with mental disorders. The outcomes include employment rates and job retention, which are relevant to the study's objective.",
+            "study_design": "Systematic review of controlled trials (RCTs)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment services such as job search services, adult training, wage subsidies, or supported employment. The study focuses on legislation obligating employers to notify prolonged sickness absence.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 211,
+    "Authors": "Carlsson, Lars; Lytsy, Per; Anderzen, Ingrid; Hallqvist, Johan; Wallman, Thorne; Gustavsson, Catharina",
+    "Article Title": "Motivation for return to work and actual return to work among people on long-term sick leave due to pain syndrome or mental health conditions",
+    "Abstract": "Purpose: The purpose of this study was to investigate associations between motivation for return to work and actual return to work, or increased employability among people on long-term sick leave.Materials and methods: Data by responses to questionnaires was collected from 227 people on long-term sick leave (mean = 7.9 years) due to pain syndrome or mild to moderate mental health conditions who had participated in a vocational rehabilitation intervention. The participants' motivation for return to work was measured at baseline. At 12-month follow-up, change in the type of reimbursement between baseline and at present was assessed and used to categorise outcomes as: decreased work and employability, unchanged, increased employability, and increased work. Associations between baseline motivation and return to work outcome were analysed using logistic and multinomial regression models.Results: Motivation for return to work at baseline was associated with return to work or increased employability at 12-month follow-up in the logistic regression model adjusting for potential confounders (OR 2.44, 95% CI 1.25-4.78).Conclusions: The results suggest that motivation for return to work at baseline was associated with actual chances of return to work or increased employability in people on long-term sick leave due to pain syndrome or mild to moderate mental health conditions.",
+    "DOI": "10.1080/09638288.2018.1490462",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its intervention does not directly address employment. The focus is on motivation for return to work rather than specific employment policies or interventions.",
+            "study_design": "Cross-sectional with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it appears to be a descriptive study rather than a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

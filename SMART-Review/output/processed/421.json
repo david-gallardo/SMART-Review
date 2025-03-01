@@ -1,0 +1,33 @@
+{
+    "ArticleID": 421,
+    "Authors": "Kukla, Marina; Strasburger, Amy M.; Salyers, Michelle P.; Rollins, Angela L.; Lysaker, Paul H.",
+    "Article Title": "A Pilot Test of Group Based Cognitive Behavioral Therapy to Augment Vocational Services for Persons With Serious Mental Illness: Feasibility and Competitive Work Outcomes",
+    "Abstract": "Persons with serious mental illness (SMI) struggle with work functioning even with the assistance of vocational services. The current study sought to address this problem by examining a cognitive-behavioral therapy to augment vocational services. Fifty-two adults with SMI receiving vocational services participated in a pre-post feasibility trial of the Cognitive Behavior Therapy for Work Success (CBTw) intervention. CBTw is a 12-week manualized intervention that addresses cognitive and behavioral factors that impact work functioning. Competitive work outcomes were assessed in the 12 weeks preceding baseline and after the intervention. The results demonstrate strong session attendance and a low attrition rate. There were also significant improvements in work outcomes. Specifically, among participants unemployed at baseline, 50.0% attained work during follow-up. These findings provide preliminary evidence that CBTw may be a feasible intervention to augment vocational services; further controlled research should examine its benefit to work outcomes in people with SMI.",
+    "DOI": "10.1097/NMD.0000000000000796",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a pre-post feasibility trial with a control group, meeting the inclusion criteria for study design. The study is conducted in the US, within the specified timeframe of 2005-2025, and addresses employment outcomes for people with mental health disorders.",
+            "study_design": "pre-post feasibility trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it is a pre-post feasibility trial without a control group.",
+            "study_design": "Pre-post feasibility trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive-bedependent therapy for work success, which is not one of the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Feasibility trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pre-post feasibility trial without a control group.",
+            "study_design": "Pre-post feasibility trial",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 177,
+    "Authors": "Holm, Minna; Taipale, Heidi; Tanskanen, Antti; Tiihonen, Jari; Mitterdorfer-Rutz, Ellenor",
+    "Article Title": "Employment among people with schizophrenia or bipolar disorder: A population-based study using nationwide registers",
+    "Abstract": "Objective To assess the employment rate and the related background factors among people with schizophrenia or bipolar disorder.Methods We identified all people in Sweden aged 18-64 years diagnosed with schizophrenia or bipolar disorder in nationwide registers in the years 2006-2013. The identified individuals were grouped by main activity or source of income. The association between background factors and employment was analyzed with generalized estimating equations (GEE).Results Three years before the first psychosis or bipolar disorder diagnosis, 24% of the individuals with schizophrenia and 45% of the individuals with bipolar disorder were employed. However, the employment rate dropped around the time of the first diagnosis. Five years later, 10% of the individuals with schizophrenia and 34% of the individuals with bipolar disorder were employed. The most important factors associated with employment after diagnosis were a high level of education, older age at the first registered diagnosis, no substance use disorder, and a low number of previous hospitalizations. Marriage or cohabiting, higher level of education, and higher age at the first diagnosis were associated with an increased employment rate especially among people with schizophrenia, and substance use was associated with a lower employment rate, especially among people with bipolar disorder. Men with bipolar disorder had a higher employment rate than women.Conclusion The employment rate is low among people with schizophrenia and higher among people with bipolar disorder. The association of background characteristics with employment was mostly in the same direction both in schizophrenia and in bipolar disorder.",
+    "DOI": "10.1111/acps.13254",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a population-based study using nationwide registers, which meets the inclusion criteria. The study includes people with schizophrenia or bipolar disorder, which meets the population criterion. The study analyzes the association between background factors and employment, which meets the outcome criterion.",
+            "study_design": "Population-based study using nationwide registers",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a rigorous evaluation or control group. It is a population-based study using nationwide registers and analyzes associations without randomization.",
+            "study_design": "Population-based study with nationwide registers",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather assesses employment rates among individuals with mental health disorders.",
+            "study_design": "Population-based study using nationwide registers",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention targeting job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Population-based study using nationwide registers",
+            "logprobs": null
+        }
+    }
+}

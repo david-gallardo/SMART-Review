@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1459,
+    "Authors": "Wehman, Paul; Schall, Carol; McDonough, Jennifer; Sima, Adam; Brooke, Alissa; Ham, Whitney; Whittenburg, Holly; Brooke, Valerie; Avellone, Lauren; Riehle, Erin",
+    "Article Title": "Competitive Employment for Transition-Aged Youth with Significant Impact from Autism: A Multi-site Randomized Clinical Trial",
+    "Abstract": "This study reports the results of a multi-site, parallel block randomized clinical trial to expand the previous findings regarding the implementation of Project SEARCH plus ASD Supports (PS + ASD) on employment outcomes upon graduation from high school. Participants were 156 individuals with significant impact from ASD between the ages of 18-21. There was a significant difference between treatment and control groups with 73.4% of the treatment group acquiring competitive employment at or above minimum wage by 1-year after graduation compared to 17% of the control group for whom data was provided. At 1-year, employed treatment group participants worked an average of 21.2 h per week (SD = 9) for a mean hourly wage of $9.61 per hour (SD = $1.55).",
+    "DOI": "10.1007/s10803-019-03940-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes)",
+            "study_design": "Randomized Clinical Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not specifically reference mental health disorders and the intervention focuses on autism spectrum disorder (ASD) rather than mental health.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youth with ASD, not specifically on adults with mental health disorders, and does not meet the intervention criteria.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe and geographic scope, focusing on individuals with ASD (a mental health disorder), and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

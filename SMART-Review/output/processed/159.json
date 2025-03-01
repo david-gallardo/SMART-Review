@@ -1,0 +1,33 @@
+{
+    "ArticleID": 159,
+    "Authors": "Kukla, Marina; McGuire, Alan B.; Salyers, Michelle P.",
+    "Article Title": "Rural and Urban Supported Employment Programs in the Veterans Health Administration: Comparison of Barriers and Facilitators to Vocational Achievement for Veterans Experiencing Mental Illnesses",
+    "Abstract": "Objective: The purpose of this mixed-methods study was to compare urban and rural supported employment programs on barriers and facilitators with employment for veterans experiencing mental illnesses. Method: A national sample of 114 supported employment staff, supervisors, and upper level managers employed by the Veteran's Health Administration were recruited. Participants completed an online survey of work barriers and facilitators, including open-ended questions regarding additional factors that impact the work success of veterans. Survey responses were compared between participants from rural (n = 28) and urban (n = 86) programs using independent groups t tests. Open-ended questions were analyzed using content analysis. Results: Supported employment personnel from rural programs perceived significantly more barriers to work success compared with urban personnel, particularly in the areas of access to services and a range of job-related factors, including job match and interpersonal relationships at the work site. In contrast, participants from urban programs reported greater facilitators in the domain of mental health services. Qualitative findings add depth to the quantitative findings and highlight challenges in rural supported employment programs impacting job development and job fit. Both urban and rural programs experienced unique barriers related to geography and transportation. Conclusions and Implications for Practice: Findings from this nationwide mixed-methods survey provide a comprehensive picture of the obstacles to employment success for veterans living with mental illnesses and receiving supported employment services in rural areas. Suggestions for changes in policy related to services and resource allocation are presented to address these unique barriers, particularly in rural areas.",
+    "DOI": "10.1037/prj0000184",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed-methods study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 2005 and 2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration.",
+            "study_design": "Mixed-methods study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is mixed-methods (survey and content analysis) without a control group, and it does not directly address employment outcomes for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Mixed-Methods Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment interventions, which are required by the inclusion criteria.",
+            "study_design": "mixed-methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a mixed-methods quasi-experimental study with a control group (urban vs. rural programs), focuses on supported employment for veterans with mental illnesses, includes employment outcomes, and is conducted in the US within the specified timeframe.",
+            "study_design": "Mixed-methods quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

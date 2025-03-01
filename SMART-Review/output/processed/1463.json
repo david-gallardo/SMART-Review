@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1463,
+    "Authors": "Jorgensen, Jeanette Therming; Andersen, John Sahl; Tjonneland, Anne; Andersen, Zorana Jovanovic",
+    "Article Title": "Determinants of frequent attendance in Danish general practice: a cohort-based cross-sectional study",
+    "Abstract": "Background: Previous studies addressing determinants of frequent attendance have mainly focused on socio-demographic, psychosocial and medical factors, and few had data on lifestyle and gender-specific factors. This study aims to describe determinants of general practice frequent attendance in Danish adult population, by examining lifestyle, socio-demographic, medical and gender-specific factors.Method: For 54,849 participants of the Danish Diet, Cancer and Health cohort (50-65 year old) we obtained data on visits to general practitioner (GP) from the Danish National Health Service Register at cohort baseline (1993-97), when information on medical conditions and lifestyle, socio-demographic and gender-specific factors was collected by questionnaire. Logistic regression was used to identify determinants of frequent attendance, defined as top 10 % GP users at the year of recruitment into the cohort (baseline) in the period between 1993 and 1997.Results: Frequent attenders accounted for 40 % of all face-to-face GP consultations with a mean 12 visits/year. Women were more likely to be frequent attenders, in crude (Odds ratio: 1.95; 95 % Confidence Interval: 1.85-2.06) and fully adjusted (1.26; 1.09-1.47) model. In a fully adjusted model, strongest determinants of frequent attendance were pre-existing medical conditions, with hypertension (2.58; 2.42-2.75), diabetes (2.24; 1.94-2.59), and mental illness (2.29; 2.09-2.52) more than doubling the odds of being FA. High education (0.63; 0.57-0.69, > 4 years higher education vs. no vocational training) and employment (0.61; 0.57-0.65) were inversely associated with frequent attendance. Finally, obesity (1.54; 1.14-2.08), smoking (1.21; 1.12-1.30, current vs. never), physical activity (0.84; 0.80-89), alcohol consumption (0.83; 0.78-0.87 above vs. below recommended level), and hormone therapy in women (1.52; 1.42-1.63) were all significant determinants of frequent attendance.Conclusions: In addition to pre-existing medical conditions, gender, socio-demographic and gender-specific factors, lifestyle (obesity, smoking, exercise and alcohol use) is also an independent determinant of frequent attendance at general practitioner.",
+    "DOI": "10.1186/s12875-016-0412-4",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks a rigorous evaluation or control group.",
+            "study_design": "Cohort-based cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria for study design, intervention, population, and outcomes.",
+            "study_design": "Cohort-based cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

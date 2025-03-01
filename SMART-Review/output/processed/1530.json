@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1530,
+    "Authors": "Bright, David; Langerveld, Anna; DeVuyst-Miller, Susan; Saadeh, Claire; Choker, Ashley; Lehigh, Elisabeth; Wheeler, Stephanie; Zayzafoon, Ahed; Sohn, Minji",
+    "Article Title": "Identification of a sex-stratified genetic algorithm for opioid addiction risk",
+    "Abstract": "The opioid epidemic has had a devastating impact on our country, with wide-ranging effects on healthcare, corrections, employment, and social systems. Programs have been put in place for monitoring prescriptions, initiating and expanding medications for opioid use disorder, and harm reduction (i.e., naloxone distribution, needle exchanges). However, opportunities for personalization of opioid therapy based on addiction risk have been limited. The goal of the present study was to develop an objective risk assessment algorithm based on genetic markers that are correlated with opioid use disorder (OUD). A total of 180 single-nucleotide polymorphisms (SNPs) were tested in patients with and without OUD. SNPs selected for testing were associated with opioid metabolism and drug reward pathways based on previous studies. Of the 394 patients recruited, 200 had OUD and 194 served as controls without OUD but with prior opioid exposure. Logistic regression analyses stratified by sex identified ten unique SNPs in females and nine unique SNPs in males that were significantly associated with OUD. A Genetics Opioid Risk Score (GenORs) was calculated by counting the number of OUD risk-associated SNPs/genotypes for each patient. To evaluate the discrimination of the GenORs, a receiver operating characteristic (ROC) curve for each sex was generated and determined to be sensitive and specific. This represents the first published example of a sex-based genetic risk score with potential to predict OUD, and the first OUD algorithm to include opioid-associated pharmacokinetic genes.",
+    "DOI": "10.1038/s41397-021-00212-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study is about identifying a genetic algorithm for opioid addiction risk.",
+            "study_design": "Case-control study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on genetic markers for predicting opioid addiction risk.",
+            "study_design": "Genetic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on genetic markers for opioid addiction risk, not employment policies for people with mental health disorders.",
+            "study_design": "Genetic study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

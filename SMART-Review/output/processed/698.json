@@ -1,0 +1,33 @@
+{
+    "ArticleID": 698,
+    "Authors": "Smith, Diane L.; Atmatzidis, Katie; Capogreco, Marisa; Lloyd-Randolfi, Dominic; Seman, Victoria",
+    "Article Title": "Evidence-Based Interventions for Increasing Work Participation for Persons With Various Disabilities: A Systematic Review",
+    "Abstract": "Title I of the Americans With Disabilities Act prohibits discrimination in employment; however, 26 years later, employment rates for persons with disabilities hover at 34%. This systematic review investigates the effectiveness of evidence-based interventions to increase employment for people with various disabilities. Forty-six articles met the inclusion criteria for evidence-based interventions. The majority of studies assessed interventions for persons with mental health disabilities. Strong evidence was found for ongoing support and work-related social skills training prior to and during competitive employment for persons with mental health disabilities. Moderate evidence supported simulation and use of assistive technology, especially apps for cueing and peer support to increase work participation for persons with intellectual disabilities, neurological/cognitive disabilities, and autism spectrum disorder. Many of the strategies to increase work participation were appropriate for occupational therapy intervention. Suggestions were made for research, specifically looking at more rigorous evaluation of strategies in the long term.",
+    "DOI": "10.1177/1539449216681276",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The geographic scope is within the EU, Europe, US, Canada, and Australia. The timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which are relevant to people with mental health disorders. The population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on various disabilities and not specifically mental health disorders. It also lacks a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on interventions for various disabilities, not specifically mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review that includes interventions relevant to mental health disorders and focuses on employment outcomes.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

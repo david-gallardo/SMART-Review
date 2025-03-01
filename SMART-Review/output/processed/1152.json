@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1152,
+    "Authors": "Watson, Emma",
+    "Article Title": "The mechanisms underpinning peer support: a literature review",
+    "Abstract": "Background: The employment of Peer Support Workers, who themselves have experience of significant emotional distress, can promote recovery at an individual and organisational level. While research examining the benefits of peer support within mental health services continues to grow, an understanding of how, and through what processes, these benefits are reached remains under-developed. Aims: To review the published research literature relating to the process of peer support and its underpinning mechanisms to better understand how and why it works. Method: A scoping review of published literature identified studies relating to peer support mechanisms, processes and relationships. Studies were summarised and findings analysed. Results: Five mechanisms were found to underpin peer support relationships (lived experience, love labour, the liminal position of the peer worker, strengths-focussed social and practical support, and the helper role). Conclusions: The identified mechanisms can underpin both the success and difficulties associated with peer support relationships. Further research should review a broader range of literature and clarify how these mechanisms contribute to peer support in different contexts.",
+    "DOI": "10.1080/09638237.2017.1417559",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the criteria for meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group. Additionally, the intervention does not directly address employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

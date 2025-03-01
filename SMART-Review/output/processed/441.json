@@ -1,0 +1,33 @@
+{
+    "ArticleID": 441,
+    "Authors": "Straiton, Melanie; Hollander, Anna-Clara; Hynek, Kamila Angelika; Liefbroer, Aart C.; Hauge, Lars Johan",
+    "Article Title": "The relationship between motherhood and use of mental health care services among married migrant and non-migrant women: a national register study",
+    "Abstract": "Background Giving birth to one's first child is a life changing event. Beyond the post-partum period, little is known about the association between becoming a mother and mental disorder among migrant women. This study investigates outpatient mental health (OPMH) service use, a proxy for mental disorder, among married migrant and non-migrant women who become mothers and those who do not. Methods Using Norwegian register data, we followed 90,195 married women, aged 18-40 years, with no children at baseline between 2008-2013 to see if becoming a mother was associated with OPMH service use. Data were analysed using discrete time analyses. Results We found an interaction between motherhood and migrant category. Married non-migrant mothers, both in the perinatal period and beyond, had lower odds of OPMH use than married non-mothers. There was no association between motherhood and OPMH service use for migrants. However, there was no significant interaction between motherhood and migrant category when we excluded women who had been in Norway less than five years. Among women aged 25-40 years, a stable labour market attachment was associated with lower odds of OPMH use for non-migrants but not migrants, regardless of motherhood status. Conclusions The perinatal period is not associated with increased odds of OPMH use and appears to be associated with lower odds for married non-migrant women. Selection effects and barriers to care may explain the lack of difference in OPMH service use that we found across motherhood status and labour market attachment for married migrant women. Married migrant women in general have a lower level of OPMH use than married non-migrants. Married migrant women with less than five years in Norway and those with no/weak labour market attachment may experience the greatest barriers to care. Further research to bridge the gap between need for, and use of, mental health care among migrant women is required.",
+    "DOI": "10.1186/s12888-022-03848-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the use of mental health care services among married migrant and non-migrant women.",
+            "study_design": "National register study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It investigates the relationship between motherhood and use of mental health care services among married migrant and non-migrant women.",
+            "study_design": "National register study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on outpatient mental health service use as a proxy for mental disorder, not directly on employment or labor outcomes. Additionally, the study population does not clearly reference mental health or the intervention is not directly related to employment.",
+            "study_design": "National register study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

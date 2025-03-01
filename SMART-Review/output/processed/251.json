@@ -1,0 +1,33 @@
+{
+    "ArticleID": 251,
+    "Authors": "Nurmela, Kirsti; Mattila, Aino; Heikkinen, Virpi; Uitti, Jukka; Ylinen, Aarne; Virtanen, Pekka",
+    "Article Title": "Identification of Depression and Screening for Work Disabilities among Long-Term Unemployed People",
+    "Abstract": "The study explores whether clinical screening targeted at work disabilities among long-term unemployed people reveals eligible individuals for a disability pension and the importance of depression in granting the disability pensions. A total of 364 participants of the screening project were considered as eligible to apply for disability pension. Among them, 188 were diagnosed as clinically depressed. They were classified into those with earlier depression diagnosis (n = 85), those whose depression had not been diagnosed earlier (n = 103), and those without diagnosed depression (n = 176). The association of this Depression identification pattern' with being granted a disability pension was explored by logistic regression analyses. Compared to those with earlier diagnosis, those whose depression had not been diagnosed earlier were granted disability pension more commonly (72% vs. 54% OR 2.2, p = 0.012). Corresponding figures of the undepressed were 73%, OR 2.3, p = 0.002. The adjustments did not affect the results. Clinical examination of the long-term unemployed people in terms of work disability seems to be worthwhile. In particular, the examination reveals new depression diagnoses, which contribute more to the award of disability pension than depression diagnosed earlier by regular health care. Novel ways to detect depression among the unemployed should be implemented in the health and employment services.",
+    "DOI": "10.3390/ijerph15050909",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the identification and screening of depression among long-term unemployed individuals in relation to disability pensions, without addressing any specific employment policies or interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on disability pensions and not directly on employment outcomes. It also lacks a control group and does not include job search services, adult training, or wage subsidies as interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

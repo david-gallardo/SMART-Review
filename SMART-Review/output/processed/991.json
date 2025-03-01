@@ -1,0 +1,33 @@
+{
+    "ArticleID": 991,
+    "Authors": "Espeloeer, Julia; Proft, Julia; Kemmer, Phyllis; Falter-Wagner, Christine M.; Vogeley, Kai",
+    "Article Title": "What is specific about employment status, workplace experiences and requirements in individuals with autism in Germany?",
+    "Abstract": "The challenge of sustainably integrating highly educated individuals with ASD without intellectual disabilities in the first labor market is repeatedly described in literature. In a retrospective study, a group of 197 clinically late-diagnosed adults with ASD without intellectual disabilities was compared to a closely matched group of 501 individuals who did not meet the criteria for the diagnosis of ASD within a utilization population of the Cologne Autism Outpatient Clinic. Results indicated that the pronounced demand for reduction of social and interpersonal requirements at the workplace (including planned or limited contact with colleagues and customers) as well as the experience of difficulties following unexpected changes in the daily routine were specific for ASD. In addition, individuals with ASD reported greater difficulties in finding a suitable job and being able to live on their wages, taking age and educational qualification into account. Supported employment measures were provided significantly more frequently to individuals in the ASD group. In conclusion, impairments in social skills emerged as one of the main obstacles of workplace performance for individuals with ASD emphasizing the necessity to develop and apply ASD-specific support services.",
+    "DOI": "10.1002/aur.2958",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a retrospective comparison of two groups, one with ASD and one without, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is supported employment measures, which is one of the included interventions. The population is individuals with ASD, and the outcomes include employment and labor outcomes.",
+            "study_design": "Retrospective comparison",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective comparison rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. The intervention and population criteria are not met as the focus is on individuals with autism (ASD) without intellectual disabilities in Germany, which does not specifically address employment policies for people with mental health disorders.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes but rather on workplace experiences and requirements for individuals with ASD. It also lacks a control group and does not include interventions like job search services, adult training, or wage subsidies.",
+            "study_design": "retrospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        }
+    }
+}

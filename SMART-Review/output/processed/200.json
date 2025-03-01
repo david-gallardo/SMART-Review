@@ -1,0 +1,33 @@
+{
+    "ArticleID": 200,
+    "Authors": "Hepner, Kimberly A.; Paddock, Susan M.; Watkins, Katherine E.; Solomon, Jacob; Blonigen, Daniel M.; Pincus, Harold Alan",
+    "Article Title": "Veterans' Perceptions of Behavioral Health Care in the Veterans Health Administration: A National Survey",
+    "Abstract": "Objective: This study provided national estimates of perceptions of behavioral health care services among patients of the Veterans Health Administration (YHA) with a diagnosis of bipolar I disorder, major depression, posttraumatic stress disorder, schizophrenia, or substance use disorder. Methods: A stratified random sample of 6,190 patients completed telephone interviews from November 2008 through August 2009. Patients (N=5,185) who reported receiving VHA behavioral health care in the prior 12 months were asked about their need for housing and employment services, timeliness and recovery orientation of their care, satisfaction with care, and perceived improvement. Results: Half of patients reported always receiving routine appointments as soon as requested, and 42% were highly satisfied with their YHA mental health care. Approximately 74% of patients reported being helped by the treatment they received, yet only 32% reported that their symptoms had improved. After controlling for covariates, the analyses showed that patients with a substance use disorder reported lower satisfaction with care and perceived their treatment to be less helpful compared with patients without a substance use disorder. Conclusions: Although matched sample comparison data were not available, the results showed that overall patient perceptions of VHA mental health care were favorable, but there was significant room for improvement across all areas of assessment. A majority reported being helped by treatment, but few reported symptom improvement. Variations in perceptions among patients with different disorders suggest the potential importance of psychiatric diagnosis, particularly substance use disorder, in assessing patient perceptions of care.",
+    "DOI": "10.1176/appi.ps.201200385",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study aims to assess perceptions of behavioral health care services among patients with various mental health conditions, but it does not investigate employment or labor outcomes.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population is veterans with behavioral health issues rather than people with mental disorders in general. It also lacks a control group for rigorous evaluation.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on perceptions of behavioral health care among veterans with mental health disorders, not specifically on employment outcomes or interventions related to employment.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

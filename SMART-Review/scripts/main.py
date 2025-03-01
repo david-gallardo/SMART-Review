@@ -31,6 +31,40 @@ def extract_json_block(text):
                 break
     return text[start:end]
 
+def read_criteria(script_dir):
+    """
+    Read inclusion criteria, exclusion criteria, and research question from text files
+    in the utilities folder. Returns a tuple: (inclusion_text, exclusion_text, research_question_text)
+    """
+    utilities_dir = os.path.join(script_dir, "utilities")
+    
+    inclusion_file = os.path.join(utilities_dir, "inclusion_criteria.txt")
+    exclusion_file = os.path.join(utilities_dir, "exclusion_criteria.txt")
+    research_question_file = os.path.join(utilities_dir, "research_question.txt")
+    
+    try:
+        with open(inclusion_file, "r", encoding="utf-8") as f:
+            inclusion_text = f.read().strip()
+    except Exception as e:
+        print(f"Error reading {inclusion_file}: {e}")
+        inclusion_text = ""
+    
+    try:
+        with open(exclusion_file, "r", encoding="utf-8") as f:
+            exclusion_text = f.read().strip()
+    except Exception as e:
+        print(f"Error reading {exclusion_file}: {e}")
+        exclusion_text = ""
+        
+    try:
+        with open(research_question_file, "r", encoding="utf-8") as f:
+            research_question_text = f.read().strip()
+    except Exception as e:
+        print(f"Error reading {research_question_file}: {e}")
+        research_question_text = ""
+    
+    return inclusion_text, exclusion_text, research_question_text
+
 def consult_model(model_name, article_text):
     """
     Send a request to LMStudio to evaluate an article based on inclusion/exclusion criteria.
@@ -48,25 +82,18 @@ def consult_model(model_name, article_text):
     """
     url = "http://127.0.0.1:1234/v1/chat/completions"
     
-    # Construct the prompt with inclusion and exclusion criteria
+    # Get the directory of the current script (assumed to be in scripts/)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Read the inclusion and exclusion criteria and the research question from the utilities folder
+    inclusion_text, exclusion_text, research_question_text = read_criteria(script_dir)
+    
+    # Construct the prompt using the criteria from the files
     prompt = (
         "You are a research assistant specialized in systematic reviews.\n\n"
-        "We want to screen an article to see if it meets the following inclusion and exclusion criteria. "
-        "The overall objective is to identify what works in active employment policies for people with mental health disorders.\n\n"
-        "Inclusion criteria:\n"
-        "• Study design: meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.\n"
-        "• Geographic scope: EU countries, Europe, US, Canada, Australia.\n"
-        "• Timeframe: 2005-2025.\n"
-        "• Intervention: job search services, adult training, wage subsidies, supported employment.\n"
-        "• Population: people with mental disorders or documented mental health problems.\n"
-        "• Outcomes: must include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.\n\n"
-        "Exclusion criteria:\n"
-        "• Study design: lacks a rigorous evaluation or no control group.\n"
-        "• Geographic scope: outside the EU, Europe, US, Canada, or Australia.\n"
-        "• Timeframe: published before 2005 or after 2025.\n"
-        "• Intervention: labor regulation policies, social security policies, or does not directly address employment.\n"
-        "• Population: does not reference mental health or has an undefined population.\n"
-        "• Outcomes: does not present measures of employment or labor results.\n\n"
+        "Research Question:\n" + research_question_text + "\n\n"
+        "We want to screen an article to see if it meets the following inclusion and exclusion criteria.\n\n"
+        "Inclusion criteria:\n" + inclusion_text + "\n\n"
+        "Exclusion criteria:\n" + exclusion_text + "\n\n"
         "Task:\n"
         "Please read the following article and determine if it meets the inclusion criteria or should be excluded. "
         "Then provide a structured JSON with these fields:\n"

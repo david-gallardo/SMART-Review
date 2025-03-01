@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1235,
+    "Authors": "Silverman, Michael E.; Burgos, Laudy; Rodriguez, Zoe I.; Afzal, Omara; Kalishman, Alyssa; Callipari, Francesco; Pena, Yvon; Gabay, Ruth; Loudon, Holly",
+    "Article Title": "Postpartum mood among universally screened high and low socioeconomic status patients during COVID-19 social restrictions in New York City",
+    "Abstract": "The mental health effects of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and the Coronavirus Disease 2019 (COVID-19) pandemic on postpartum women are of increasing concern among mental health practitioners. To date, only a handful of studies have explored the emotional impact of the pandemic surrounding pregnancy and none have investigated the consequence of pandemic-related social restrictions on the postpartum mood of those living among different socioeconomic status (SES). All postpartum patients appearing to the Mount Sinai Health System for their postpartum appointment between January 2, 2020 and June 30, 2020, corresponding to before and during pandemic imposed social restrictions, were screened for mood symptomatology using the Edinburgh Postnatal Depression Scale (EPDS). Each patient's socioeconomic status (high/low) was determined by their location of clinical service. A total of 516 postpartum patients were screened. While no differences in EPDS scores were observed by SES prior to social restrictions (U=7956.0, z=-1.05, p=.293), a significant change in mood symptomatology was observed following COVID-19 restrictions (U=4895.0, z=-3.48, p<.001), with patients living in lower SES reporting significantly less depression symptomatology (U=9209.0, z=-4.56, p<.001). There was no change in symptomatology among patients of higher SES (U=4045.5, z=-1.06, p=.288). Postpartum depression, the most common complication of childbearing, is a prevalent, cross-cultural disorder with significant morbidity. The observed differences in postpartum mood between patients of different SES in the context of temporarily imposed COVID-19-related social restrictions present a unique opportunity to better understand the specific health and social support needs of postpartum patients living in urban economic poverty. Given that maternal mental illness has negative long-term developmental implications for the offspring and that poor mental health reinforces the poverty cycle, future health policy specifically directed towards supporting postpartum women living in low SES by ameliorating some of the early maternal burdens associated with balancing employment-family-childcare demands may assist in interrupting this cycle while simultaneously improving the long-term outcomes of their offspring.",
+    "DOI": "10.1038/s41598-020-79564-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on postpartum mood among patients with mental health problems, rather than people with mental health disorders in the context of active employment policies.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on postpartum mood among patients screened for socioeconomic status during the COVID-19 pandemic. It lacks interventions related to active employment policies.",
+            "study_design": "Cross-sectional study with screening of EPDS scores before and during social restrictions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Screening study",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

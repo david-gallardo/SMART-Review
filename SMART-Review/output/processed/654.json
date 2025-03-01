@@ -1,0 +1,33 @@
+{
+    "ArticleID": 654,
+    "Authors": "Smith, Matthew J.; Smith, Justin D.; Fleming, Michael F.; Jordan, Neil; Oulvey, Eugene A.; Bell, Morris D.; Mueser, Kim T.; McGurk, Susan R.; Spencer, E-Shawn; Mailey, Kimberly; Razzano, Lisa A.",
+    "Article Title": "Enhancing individual placement and support (IPS) - Supported employment: A Type 1 hybrid design randomized controlled trial to evaluate virtual reality job interview training among adults with severe mental illness",
+    "Abstract": "Individual Placement and Support (IPS) is the evidence-based model of supported employment that increases employment rates in adults with severe mental illness (SMI). Although IPS is largely successful, over 80% of adults with SMI remain unemployed. An enhancement to high fidelity IPS could be an evidence-based job interview training component. To meet this training need, our group recently completed a series of randomized controlled efficacy trials funded by the National Institute of Mental Health to develop and test virtual reality job interview training (VR-JIT) in a lab setting. The results demonstrated that the intervention was efficacious at helping trainees improve their job interview skills and receive job offers within six months of completing VR-JIT compared to non-trainees. The overarching goal of this study is to evaluate the effectiveness of VR-JIT as an enhancement to IPS when delivered in a large community-based mental health service provider via a randomized controlled trial and initial process evaluation. Our aims are to: evaluate whether IPS services-as-usual in combination with VR-JIT, compared to IPS services-as-usual alone, enhances IPS outcomes for adults with SMI; evaluate mechanisms of employment outcomes and psychological distress; and conduct a multilevel, multidisciplinary, and mixed-method process evaluation of VR-JIT adoption and implementation to assess the acceptability, scalability, generalizability, and affordability of VR-JIT.",
+    "DOI": "10.1016/j.cct.2018.12.008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the EU (Europe) and within the specified timeframe (2005-2025). The intervention is supported employment, which is one of the included interventions. The population is adults with severe mental illness (SMI), and the outcomes include employment rates and job retention.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. However, the study focuses on job interview training (VR-JIT) as an enhancement to IPS, which is not one of the interventions specified in the inclusion criteria. The intervention is more specific to job interview training rather than the broader interventions listed (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Type 1 hybrid design randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating supported employment with a control group, focuses on people with severe mental illness, and includes employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 886,
+    "Authors": "Khare, Chitra; McGurk, Susan R.; Fulford, Daniel; Watve, Vidyadhar G.; Karandikar, Neeraj J.; Khare, Sailee; Karandikar, Dipti N.; Mueser, Kim T.",
+    "Article Title": "A longitudinal analysis of employment in people with severe mental illnesses in India",
+    "Abstract": "Purpose: Little is known about the longitudinal trajectories of employment in people with severe mental illnesses (SMI) in developing countries, including India. We examined stability and change in work status, interest in work, problems and benefits related to work among employed participants, and barriers and desired job supports among unemployed participants.Methods: We conducted a one-year follow-up with 550 participants with SMI receiving psychiatric outpatient treatment in two hospitals in two districts in India. A total of 459 (83.5%) participants completed follow-up interviews.Results: Rates of employment were stable across the one-year period, with over 60% employed at baseline and follow-up assessment. More than 80% who worked at both assessments were working in the same job for an average duration of 10 years. Among participants who were unemployed at baseline, 16.9% started working at follow-up, an outcome associated with interest in work and efforts to find work at baseline. Interest in work of those unemployed at both assessments was lower at follow-up than baseline, but over 60% of participants wanted to work across both assessments, and endorsed desired supports for their job search.Conclusions: There is considerable stability of work in people with SMI in India. Working in the same job for the long term may have contributed to consistent work. Most unemployed participants who wanted to work at baseline were not working at follow-up, and expressed a desire for help with job search, suggesting the need for vocational services to help people with SMI in developing countries obtain employment. (C) 2021 Published by Elsevier B.V.",
+    "DOI": "10.1016/j.schres.2021.01.004",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it was published before 2021 (outside the 2021-2025 timeframe) and does not directly address employment for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not within the specified geographic scope (EU countries, Europe, US, Canada, Australia) and does not focus on the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "longitudinal analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (India).",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

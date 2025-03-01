@@ -1,0 +1,33 @@
+{
+    "ArticleID": 838,
+    "Authors": "Kokkinen, Lauri; Muntaner, Carles; Kouvonen, Anne; Koskinen, Aki; Varje, Pekka; Vaananen, Ari",
+    "Article Title": "Welfare state retrenchment and increasing mental health inequality by educational credentials in Finland: a multicohort study",
+    "Abstract": "Objectives: Epidemiological studies have shown an association between educational credentials and mental disorders, but have not offered any explanation for the varying strength of this association in different historical contexts. In this study, we investigate the education-specific trends in hospitalisation due to psychiatric disorders in Finnish working-age men and women between 1976 and 2010, and offer a welfare state explanation for the secular trends found.Setting: Population-based setting with a 25% random sample of the population aged 30-65 years in 7 independent consecutive cohorts (1976-1980, 1981-1985, 1986-1990, 1991-1995, 1996-2000, 2001-2005, 2006-2010).Participants: Participants were randomly selected from the Statistics Finland population database (n=2 865 746). These data were linked to diagnosis-specific records on hospitalisations, drawn from the National Hospital Discharge Registry using personal identification numbers. Employment rates by educational credentials were drawn from the Statistics Finland employment database.Primary and secondary outcome measures: Hospitalisation and employment.Results: We found an increasing trend in psychiatric hospitalisation rates among the population with only an elementary school education, and a decreasing trend in those with higher educational credentials. The employment rate of the population with only an elementary school education decreased more than that of those with higher educational credentials.Conclusions: We propose that restricted employment opportunities are the main mechanism behind the increased educational inequality in hospitalisation for psychiatric disorders, while several secondary mechanisms (lack of outpatient healthcare services, welfare cuts, decreased alcohol duty) further accelerated the diverging long-term trends. All of these inequality-increasing mechanisms were activated by welfare state retrenchment, which included the liberalisation of financial markets and labour markets, severe austerity measures and narrowing down of public sector employment commitment.",
+    "DOI": "10.1136/bmjopen-2014-007297",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multicohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Multicohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies) and does not have a control group. It also focuses on welfare state retrenchment and its effects on mental health inequality rather than interventions aimed at improving employment for people with mental disorders.",
+            "study_design": "Multicohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on hospitalisation rates due to psychiatric disorders in Finland and does not directly address employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Multicohort study",
+            "logprobs": null
+        }
+    }
+}

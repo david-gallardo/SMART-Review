@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1273,
+    "Authors": "Humensky, Jennifer L.; Turner, Luana R.; Dixon, Lisa B.; Drake, Robert E.; Becker, Deborah R.; Subotnik, Kenneth L.; Ventura, Joseph; Nuechterlein, Keith H.",
+    "Article Title": "Personnel time required for supported employment and education services for individuals in arecent-onsetpsychosis treatment program",
+    "Abstract": "Aim Individual Placement and Support (IPS) improves vocational outcomes in first-episode psychosis patients, but policy makers need information on costs (and personnel time required) to conduct effective IPS. Methods Using chart records of 42 clients in a first-episode psychosis study, we examined service time for specific activities over 18 months. Results The IPS specialist averaged 92 (SD = 62) minutes per client per week: 39% of time was spent in direct client contact, 9% in meetings without the client, 14% in meetings with the treatment team, 14% in supervision and 24% on travel time. Time required was significantly higher when participants were seeking work/school placements, decreased over duration of enrolment and was similar for those using work vs school support. Conclusions IPS service time covers numerous activities, is reduced when not seeking work/school placements and required less time over enrolment duration. Financing structures should support the full range of IPS services.",
+    "DOI": "10.1111/eip.12971",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on employment outcomes for individuals with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Descriptive analysis of service time without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

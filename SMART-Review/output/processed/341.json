@@ -1,0 +1,33 @@
+{
+    "ArticleID": 341,
+    "Authors": "Skagseth, Martin; Fimland, Marius S.; Rise, Marit B.; Johnsen, Roar; Borchgrevink, Petter C.; Aasdahl, Lene",
+    "Article Title": "Effectiveness of adding a workplace intervention to an inpatient multimodal occupational rehabilitation program: A randomized clinical trial",
+    "Abstract": "Objectives This study aimed to evaluate the effectiveness of a workplace intervention (WI) added to an inpatient multimodal occupational rehabilitation program (I-MORE) on sickness absence.Methods In this researcher-blinded randomized controlled trial with parallel groups, individuals on sick leave due to musculoskeletal, unspecified- or common mental health disorders were randomized to I-MORE (N=87) or I-MORE+WI (N=88). 1-MORE lasted 2+1 weeks (with one week at home in between) and consisted of acceptance and commitment therapy, physical exercise, and work-related problem solving. The additional WI consisted of a preparatory part, a workplace meeting involving the sick-listed worker, the employer, and the primary rehabilitation therapist at the rehabilitation center, and follow-up work related to the meeting. The primary outcomes were number of sickness absence days and time until sustainable return to work (RTW) during 12 months of follow-up, measured by registry data.Results The median number of sickness absence days during the 12-month follow-up for 1-MORE was 115 days [interquartile range (1QR) 53-183] versus 130 days (IQR 81-212) for I-MORE+WI. The difference between groups was not statistically significant (P=0.084). The hazard ratio for sustainable RTW was 0.74 (95% confidence interval 0.48-1.16; P=0.192) in favor of I-MORE.Conclusions This study provided no evidence in favor ofl-MORE+WI compared to only 1-MORE for long-term sickness absent individuals with musculoskeletal-, common mental- or unspecified disorders.",
+    "DOI": "10.5271/sjweh.3873",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized clinical trial with a control group. The intervention is a workplace intervention added to an inpatient multimodal occupational rehabilitation program, which addresses employment. The population is individuals on sick leave due to mental health disorders, and the outcomes include measures of employment and labor results.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on individuals on sick leave due to musculoskeletal, unspecified- or common mental health disorders and evaluates a workplace intervention aimed at reducing sickness absence rather than promoting employment.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion. Additionally, the intervention described is not directly related to employment but rather to reducing sickness absence, which does not meet the specified intervention criteria.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

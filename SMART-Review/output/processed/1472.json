@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1472,
+    "Authors": "Perreault, Michel; Toure, El Hadj; Perreault, Nicole; Caron, Jean",
+    "Article Title": "Employment Status and Mental Health: Mediating Roles of Social Support and Coping Strategies",
+    "Abstract": "Although it has been established that unemployment and underemployment increase distress and depression, the psychological mechanisms involved are not very clear. This study examines the roles of social support and coping strategies as mediators of the association between employment status and mental health, as well as gender and age differences as moderators. Residents from the epidemiological catchment area of south-west Montreal responded to a randomized household survey for adults in 2009. A follow-up was conducted based on participants' employment status 2 and 4 years later. ANOVAs tests were computed with SPSS to evaluate group differences, and structural equation modeling was performed with AMOS to test mediation effects. At baseline, among participants between 18 and 64 years old (n = 2325), 14.3 % were unemployed/not studying, 14.4 % worked part-time, and 56.5 % worked full-time. Employment status was found to significantly affect depression among those under 45 years old (chi-square = 23.4, p < 0.001). Results showed a negative association of full-time employment with depression, which was fully mediated by social support, less coping with drugs/medication, and less distress. A negative association with full-time employment was also noted with distress, which was partially mediated by increased social support, coping with alcohol, and less coping with drugs/medication. The total indirect effect suggests that full-time employees generally have more resources and do not tend to use avoidance strategies like coping with drugs/medication, resulting in less distress (beta = -0.05; p < 0.01) and depression (beta = -0.028; p < 0.01). Results suggest that optimal impact on mental health could be attained when increasing employment, namely full-time employment, in communities.",
+    "DOI": "10.1007/s11126-016-9460-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized household survey with a follow-up, and it includes a control group (employment status 2 and 4 years later). The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Randomized household survey with a follow-up, ANOVAs tests, and structural equation modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies for people with mental health disorders. It focuses on the mediating roles of social support and coping strategies in the relationship between employment status and mental health.",
+            "study_design": "Cross-sectional survey with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the psychological mechanisms behind employment status and mental health. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

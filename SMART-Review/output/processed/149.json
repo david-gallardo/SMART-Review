@@ -1,0 +1,33 @@
+{
+    "ArticleID": 149,
+    "Authors": "van de Ven, Hardy A.; Hesselink, John Klein; Bultmann, Ute; de Boer, Michiel R.; de Looze, Michiel P.; van der Klink, Jac J. L.; Brouwer, Sandra",
+    "Article Title": "Individual and work-related predictors of work outcomes related to sustainable employment among male shift and day workers",
+    "Abstract": "Objectives The aim of this study was to examine which individual and work-related characteristics predict work outcomes related to sustainable employment among male shift and day workers.Methods Between 1 September 2005 and 31 December 2009, data on individual and work-related characteristics of N=5640 employees of Tata Steel in the Netherlands were retrieved from the Occupational Health Service and company registers. Work outcomes related to sustainable employment were (i) temporarily being placed in less strenuous work, (ii) sickness absence >= 6 weeks, and (iii) leaving the organization. Cox proportional hazard analyses were performed for all outcome measures.Results Similar predictors were found for shift and day workers although some differences were observed. For shift workers, high blood pressure and cardiovascular disease were important predictors for sickness absence. For day workers, insomnia was an important predictor of sickness absence >= 6 weeks.Conclusions Similar predictors in magnitude and direction were found for work outcomes related to sustainable employment among shift and day workers. Interventions aimed at enhancing sustainable employability should focus on individual and work-related characteristics.",
+    "DOI": "10.5271/sjweh.3392",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is within the specified timeframe (2005-2009), and the intervention addresses employment outcomes. The population is defined as employees with Tata Steel, and the outcomes measure employment-related results.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on predictors of work outcomes related to sustainable employment among male shift and day workers.",
+            "study_design": "Cox proportional hazard analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on individual and work-related predictors of work outcomes, not directly on employment interventions or outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

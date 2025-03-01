@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1284,
+    "Authors": "Krisher, Lyndsay; Boeldt, Debra L.; Sigmon, Chloe A. Nicksic; Rimel, Sarah E.; Newman, Lee S.",
+    "Article Title": "Pragmatic Approach to the Assessment and Use of Digital Mental Health Interventions for Health Workers",
+    "Abstract": "Symptoms of poor mental health among working people, especially health workers, are on the rise in the United States, contributing to a burgeoning market of thousands of mental health technology products, few of which have undergone rigorous evaluation. Most research on these products focuses on deploying digital mental health interventions as ancillary support in clinical practice and community settings. Little is known of the effectiveness of these tools when employers offer them.We describe the landscape of digital mental health interventions, providing an overview of mental health conditions that are addressed with technology-based solutions in the workplace and the products and services available. We argue for employers to apply a methodical approach to evaluating and selecting technologies for their organizations, and we review relevant frameworks for evaluation.Considering the rapidly evolving landscape of digital mental health interventions, we offer evidence-informed recommendations to organizations and decision-makers seeking to support workplace mental health and well-being, and we advocate the development of products that help organizations assess how they can mitigate workplace conditions that may contribute to poorer mental health.",
+    "DOI": "10.2105/AJPH.2023.307505",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a review of digital mental health interventions for health workers, and the population is not limited to people with mental disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on digital mental health interventions for health workers in the United States. It lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Descriptive review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on digital mental health interventions for health workers in the US and does not specifically address employment outcomes for people with mental health disorders in the general population.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specifically people with mental disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

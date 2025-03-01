@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1006,
+    "Authors": "Charles, Ashleigh; Thompson, Dean; Nixdorf, Rebecca; Ryan, Grace; Shamba, Donat; Kalha, Jasmine; Moran, Galia; Hiltensperger, Ramona; Mahlke, Candelaria; Puschner, Bernd; Repper, Julie; Slade, Mike; Mpango, Richard",
+    "Article Title": "Typology of modifications to peer support work for adults with mental health problems: systematic review",
+    "Abstract": "Background Peer support work roles are being implemented internationally, and increasingly in lower-resource settings. However, there is no framework to inform what types of modifications are needed to address local contextual and cultural aspects. Aims To conduct a systematic review identifying a typology of modifications to peer support work for adults with mental health problems. Method We systematically reviewed the peer support literature following PRISMA guidelines for systematic reviews (registered on PROSPERO (International Prospective Register of Systematic Reviews) on 24 July 2018: CRD42018094832). All study designs were eligible and studies were selected according to the stated eligibility criteria and analysed with standardised critical appraisal tools. A narrative synthesis was conducted to identify types of, and rationales for modifications. Results A total of 15 300 unique studies were identified, from which 39 studies were included with only one from a low-resource setting. Six types of modifications were identified: role expectations; initial training; type of contact; role extension; workplace support for peer support workers; and recruitment. Five rationales for modifications were identified: to provide best possible peer support; to best meet service user needs; to meet organisational needs, to maximise role clarity; and to address socioeconomic issues. Conclusions Peer support work is modified in both pre-planned and unplanned ways when implemented. Considering each identified modification as a candidate change will lead to a more systematic consideration of whether and how to modify peer support in different settings. Future evaluative research of modifiable versus non-modifiable components of peer support work is needed to understand the modifications needed for implementation among different mental health systems and cultural settings.",
+    "DOI": "10.1192/bjp.2019.264",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is from the EU, Europe, US, Canada, or Australia, and it includes employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a systematic review of peer support literature rather than controlled trials, RCTs, or quasi-experimental studies with a control group. Additionally, the intervention and population do not specifically address job search services, adult training, wage subsidies, supported employment for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic review, not a meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 307,
+    "Authors": "Letellier, Marie-Claude; Duchaine, Caroline S.; Aube, Karine; Talbot, Denis; Mantha-Belisle, Marie-Michele; Sultan-Taieb, Helene; St-Hilaire, France; Biron, Caroline; Vezina, Michel; Brisson, Chantal",
+    "Article Title": "Evaluation of the Quebec Healthy Enterprise Standard: Effect on Adverse Psychosocial Work Factors and Psychological Distress",
+    "Abstract": "Adverse psychosocial work factors are recognized as a significant source of psychological distress, resulting in a considerable socioeconomic burden. The impact of occupational health standards that aim to reduce these adverse work factors, such as the Quebec Healthy Enterprise Standard (QHES), is of great interest for public health. The aim of this study was to evaluate, for the first time, the effect of QHES interventions targeting adverse psychosocial work factors on the prevalence of these factors and of psychological distress among ten Quebec organizations. These outcomes were assessed by questionnaire using validated instruments before (T1, n = 2849) and 2-3 years following (T2, n = 2560) QHES implementation. Beneficial effects of interventions were observed for two adverse psychosocial work factors: low rewards (ratio of prevalence ratios (PRs) = 0.77, 95% CI = 0.66-0.91) and low social support at work (ratio of PRs = 0.89, 95% CI = 0.77-1.03). Moreover, beneficial effects of interventions were also observed on the prevalence of high psychological distress (ratio of PRs = 0.86, 95% CI = 0.75-0.998). Psychosocial interventions implemented in the context of this standard improved the psychosocial work environment and had beneficial effects on workers' mental health.",
+    "DOI": "10.3390/ijerph15030426",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Quebec, Canada), within the specified timeframe (2005-2025), and focuses on the intervention of job search services (QHES) and its impact on employment outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the effect of QHES interventions on adverse psychosocial work factors and psychological distress.",
+            "study_design": "Quasi-experimental with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes but rather on psychosocial work factors and psychological distress.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

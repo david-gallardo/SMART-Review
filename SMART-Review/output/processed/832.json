@@ -1,0 +1,33 @@
+{
+    "ArticleID": 832,
+    "Authors": "Hagen, C.; Banfer, S.; Werkstetter, L.; Hebebrand, J.; Reissner, V.",
+    "Article Title": "Use of Mental Health Service Among Young Adults on Unemployment Benefit Before and after Receiving Counseling at a Psychiatric Liaison Department",
+    "Abstract": "Objective To determine mental health service utilization before and after consultation of a psychiatric liaison service (Support 25) among youths aged 16-24 years suffering from mental disorders and receiving unemployment benefits.Methods Longitudinal registration of mental health service use over a 9-month period (N = 148); measurement of possible moderators with questionnaires and rating scales.Results Mental health service utilization increased from initially 22 % to 40 % and 47.5 % 3 and 6 months after receiving individual treatment recommendation. Low-threshold psychosocial counseling was frequented more often than specific psychiatric or psychotherapeutic treatment. Subjects who contacted mental health services showed a trend towards a lower level of psychosocial functioning than subjects who did not seek treatment. Stigma-related factors did not hinder mental health service use.Conclusions Despite a high degree of psychiatric morbidity, the surveyed sample of unemployed youths had problems to successfully enter mental health services. Although a substantial increase in service use was observed after receiving psychoeducational information at a psychiatric liaison service, the use of low-threshold counseling predominated. This finding suggests that the mental health system should adapt better to the specific needs of young unemployed, for example, by expanding low-threshold psychiatric pre-treatment offers at vocational centers.",
+    "DOI": "10.1055/s-0042-116320",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal registration of mental health service use over a 9-month period, which meets the inclusion criteria. The study includes a control group (subjects who did not seek treatment) and presents measures of employment or labor results (mental health service utilization).",
+            "study_design": "Longitudinal registration with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It focuses on mental health service utilization rather than employment outcomes.",
+            "study_design": "Longitudinal registration of mental health service use",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal registration",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 119,
+    "Authors": "Lammerts, Lieke; Vermeulen, Sylvia J.; Schaafsma, Frederieke G.; van Mechelen, Willem; Anema, Johannes R.",
+    "Article Title": "Return to work of workers without a permanent employment contract, sick-listed due to a common mental disorder: design of a randomised controlled trial",
+    "Abstract": "Background: Workers without a permanent employment contract represent a vulnerable group within the working population. Mental disorders are a major cause of sickness absence within this group. Common mental disorders are stress-related, depressive and anxiety disorders. To date, little attention has been paid to effective return to work interventions for this type of sick-listed workers. Therefore, a participatory supportive return to work program has been developed. It combines elements of a participatory return to work program, integrated care and direct placement in a competitive job. The objective of this paper is to describe the design of a randomised controlled trial to evaluate the cost-effectiveness of this program compared to care as usual.Methods/Design: The cost-effectiveness of the participatory supportive return to work program will be examined in a randomised controlled trial with a follow-up of twelve months. The program strongly involves the sick-listed worker in the identification of obstacles for return to work and possible solutions, resulting in a consensus based action plan. This plan will be used as a starting point for the search of suitable competitive employment with support of a rehabilitation agency. During this process the insurance physician of the sick-listed worker contacts other caregivers to promote integrated care. Workers eligible to participate in this study have no permanent employment contract, have applied for a sickness benefit at the Dutch Social Security Agency and are sick-listed between two and fourteen weeks due to mental health problems. The primary outcome measure is the duration until first sustainable return to work in a competitive job. Outcomes are measured at baseline and after three, six, nine and twelve months.Discussion: If the participatory supportive return to work program proves to be cost-effective, the social security system, the sick-listed worker and society as a whole will benefit. A cost-effective return to work program will lead to a reduction of costs related to sickness absence. For the sick-listed worker a cost-effective program results in earlier sustainable return to work, which can be associated with both social and health benefits.",
+    "DOI": "10.1186/1471-2458-14-594",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the EU (Dutch Social Security Agency), within the specified timeframe (2005-2025), and focuses on people with mental health problems, with outcomes related to employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomised controlled trial (RCT), but the intervention does not directly address employment. The primary outcome measure is the duration until first sustainable return to work in a competitive job, which aligns with the inclusion criteria for outcomes. However, the population includes workers without a permanent employment contract who are sick-listed due to mental health problems, and the intervention focuses on return to work rather than active employment policies such as job search services or wage subsidies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on people with mental disorders in the EU (Netherlands) within the specified timeframe and evaluates a job search service intervention with employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

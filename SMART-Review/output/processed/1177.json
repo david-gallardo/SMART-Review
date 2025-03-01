@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1177,
+    "Authors": "Trani, Jean-Francois; Moodley, Jacqueline; Anand, Paul; Graham, Lauren; Maw, May Thu Thu",
+    "Article Title": "Stigma of persons with disabilities in South Africa: Uncovering pathways from discrimination to depression and low self-esteem",
+    "Abstract": "Despite the fact that universal inclusion is a basic principle of the Sustainable Development Goals, the inclusion of persons with disabilities in humanitarian interventions and development policies remains elusive. Persons with disabilities face high risks of poverty, poor nutrition, limited inclusion in labor markets and poor mental health as a result. Stigma is likely to play a negative role in this regard and yet, no study has investigated the impact of stigma on depression and self-esteem of persons with disabilities. To address this gap in the literature, we conducted in June 2017 a random sample disability case control household study in Soweto, a township in Johannesburg, South Africa. Using propensity score analysis and structural equation modeling, we investigated the relationship between disability, stigma, depression and self-esteem controlling for socioeconomic covariates. Our main empirical results showed that stigma significantly mediates the association between disability and higher depression on the one hand and between disability and lower self-esteem on the other. This mediating effect exists even after controlling for age, gender, marital status, education, employment and wealth. We also found strong direct associations between disability and depressive mood, somatic indicators and negative feelings such as unhappiness and low self-esteem. Unemployment aggravates depression and low self-esteem while low education worsens self-esteem only. In addition, depression exacerbates low self-esteem. Both unemployment and low education are more common among persons with disabilities aggravating the disability, depression, poor self-esteem nexus. Similarly, persons with disabilities who are more likely to be depressed are also at higher risk of low self-esteem. These results point to a vicious reinforcing circle of exclusion from society, despair and self-deprecation, which could prove difficult to break. Substantial psycho-social support and anti-stigma policies anchored in local cultural values, engaging persons with disabilities and their communities, are required to break this vicious circle.",
+    "DOI": "10.1016/j.socscimed.2020.113449",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of stigma on depression and low self-esteem in people with disabilities.",
+            "study_design": "Case-control household study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of stigma on depression and self-esteem among persons with disabilities in South Africa. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey using propensity score analysis and structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "Random sample disability case control household study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Africa) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

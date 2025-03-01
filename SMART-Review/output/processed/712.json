@@ -1,0 +1,33 @@
+{
+    "ArticleID": 712,
+    "Authors": "Salimi, Nahal; Gere, Bryan; Shahab, Amin",
+    "Article Title": "State-Federal Vocational Rehabilitation Services, Demographic Characteristics and Employment Outcomes for Native Americans with Mental Illnesses",
+    "Abstract": "There were 9.7 million Native Americans (American Indian, Alaska Native-AI/AN- these acronyms will be used interchangeably with Native Americans throughout the paper) in 2019 comprising 2.9% of the U.S. population. Native American populations have disproportionately higher rates of mental illnesses compared to other racial groups in the U.S. Mental health is a significant public health concern for this population, impacting different areas of their lives including employment. Additionally, Native Americans continue to experience significant disparities in access to Vocational Rehabilitation (VR) services and have poor employment outcomes. However, little is known about the relationships among demographic factors, vocational rehabilitation services, and employment outcomes of Native Americans with mental illness. Consequently, the current study examined how demographic factors and VR services are related to successful employment outcomes for Native American VR clients with mental illnesses using data from the Rehabilitation Services Administration (RSA) program year (2019) Case Service Report (9-11). Both descriptive analysis and data mining approaches were used to answer the research questions. Chi-square Automatic Interaction Detector (CHAID) analysis was used to determine which of the VR services could best predict the successful employment outcome of Native Americans with mental illness. The findings of the data mining approach revealed that among all the vocational rehabilitation services, job placement assistance was the strongest predictor of successful employment among Native American clients with mental illnesses. The second most important service predicting successful employment for those who received job placement assistance was shown to be maintenance. Implications for rehabilitation counselors and future research are discussed.",
+    "DOI": "10.1007/s10597-023-01191-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a data mining approach using Chi-square Automatic Interaction Detector (CHAID) analysis, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it focuses on Native Americans in the US. The timeframe is within the specified range of 2005-2025. The intervention is vocational rehabilitation services, which includes job placement assistance and maintenance. The population is Native Americans with mental illnesses, and the outcomes include employment outcomes such as successful employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on Native Americans in the U.S., which is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Descriptive analysis and data mining approaches using Chi-square Automatic Interaction Detector (CHAID) analysis.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Descriptive analysis and data mining approaches",
+            "logprobs": null
+        }
+    }
+}

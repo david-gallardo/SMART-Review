@@ -1,0 +1,33 @@
+{
+    "ArticleID": 493,
+    "Authors": "Grard, Adeline; Nicaise, Pablo; Smith, Pierre; Lorant, Vincent",
+    "Article Title": "Use of generic social services and social integration of patients with a severe mental illness in Belgium: Individual and services network determinants",
+    "Abstract": "Background:Patients with severe mental illnesses (SMI) have low levels of social integration, which could be improved if they used social services. To our knowledge, however, the extent to which they use generic social services remains unknown.Aims:We assessed the extent to which patients with SMI use generic social services and the factors that may drive that usage.Method:In 2014, we carried out a multi-setting clustered survey of patients with severe mental disorders (n = 1,019, participation rate = 71%) and of services (n = 517, participation rate = 53%) in 19 networks of services, covering most of Belgium. On the one hand, we asked patients, amongst other, about their health condition, their social integration in the community, and their use of social services of different types. On the other hand, we asked each service to report on its relationships with other services in the services networks.Results:On average, patients' use of generic social services within the previous 6 months was low (6%-16%), with the exception of administrative services. There were few differences in usage according to the severity of patients' symptoms, but some differences according to gender and age were observed. Social integration was improved when generic social services were more central in the networks.Conclusions:We suggest that generic social services should be more central in mental health services networks.",
+    "DOI": "10.1177/00207640211017947",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a clustered survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Clustered survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on the use of generic social services and their impact on social integration for patients with severe mental illnesses in Belgium.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on patients with severe mental illness (SMI) in Belgium and does not specifically address employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Multi-setting clustered survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

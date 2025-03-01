@@ -1,0 +1,33 @@
+{
+    "ArticleID": 955,
+    "Authors": "Chatterji, Sangeeta; McDougal, Lotus; Johns, Nicole; Ghule, Mohan; Rao, Namratha; Raj, Anita",
+    "Article Title": "COVID-19-Related Financial Hardship, Job Loss, and Mental Health Symptoms: Findings from a Cross-Sectional Study in a Rural Agrarian Community in India",
+    "Abstract": "Several countries, including India, imposed mandatory social distancing, quarantine, and lockdowns to stop the spread of the SARS-CoV-2 virus. Although these measures were effective in curbing the spread of the virus, prolonged social distancing, quarantine, and the resultant economic disruption led to an increase in financial stress and mental health concerns. Prior studies established a link between the first lockdown and an increase in mental health issues. However, few studies investigated the association between post-lockdown financial hardship, job loss, and mental health. In this study, we examined the association between COVID-19-related financial hardship, job loss, and mental health symptoms approximately nine months after the end of the first nationwide lockdown in India. Job loss was associated with higher reporting of mental health symptoms among men (aIRR = 1.16) while financial hardship was associated with poor mental health symptoms among women (aIRR = 1.29). Conversely, social support and government aid were associated with better mental health symptoms among women. Our findings highlight the need for financial assistance and job creation programs to aid families in the recovery process. There is also an urgent need for improving the availability and affordability of mental health services in rural areas.",
+    "DOI": "10.3390/ijerph18168647",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a cross-sectional study which does not meet the inclusion criteria for intervention studies.",
+            "study_design": "Cross-Sectional Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment interventions for people with mental health disorders, but rather on the impact of COVID-19-related financial hardship and job loss on mental health symptoms in a rural agrarian community in India.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the EU, Europe, US, Canada, Australia.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

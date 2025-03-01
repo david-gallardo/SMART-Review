@@ -1,0 +1,33 @@
+{
+    "ArticleID": 181,
+    "Authors": "Humensky, Jennifer L.; Nossel, Ilana; Bello, Iruma; Dixon, Lisa B.",
+    "Article Title": "Supported Education and Employment Services for Young People with Early Psychosis in OnTrackNY",
+    "Abstract": "Background: Psychosis onset commonly occurs at ages 16-30 when individuals are typically developing their education, employment and career trajectories. Coordinated specialty care (CSC) programs provide access to team-based early invention services for psychosis, including supported education and employment (SEE) services.Aims of Study: We examine factors associated with the use of SEE services and whether use of SEE services (for supported education, supported employment, or both) is associated with education and employment participation within New York's CSC program. OnTrackNY.Methods: Participants (n=779) enrolled in OnTrackNY from October 2013-September 2017. Assessments were collected by clinical staff at admission, quarterly, and at discharge. Logistic regression models were specified to identify factors associated with the probability of use of SEE specialist services during the first year of program participation, using generalized estimating equations with an autoregressive covariance structure to account for within-subject correlations over time. Logistic models were also used to predict whether use of SEE services in the prior quarter predict the probability of work and school participation in the subsequent quarter, respectively; these were analyzed cross-sectionally for each time period. Models controlled for other factors associated with work/school outcomes for young people with early psychosis.Results: Participants who were younger, and who had lower rates of work/school participation had greater odds of SEE service use. Use of SEE services for education support in the first quarter among clients under age 23 is significantly associated with school enrollment in the second quarter and this continued through the first year. Use of SEE services for employment support in the first quarter is significantly associated with employment in the second quarter, but significant associations for employment were not found at later periods of participation. Use of SEE services for both education and employment support was inconsistently associated with subsequent school enrollment or employment in the subsequent quarter. Results were upheld when limiting the sample to those not receiving other SEE services.Discussion: Rates of school and work participation increased over the duration of OnTrackNY participation. Clients with lower work/ school participation were more likely to use SEE services. Supported education services are associated with greater school participation during the first year for clients under age 23. However, this association is only significant in the first quarter for supported employment services, and is inconsistent when examining those who used both simultaneously. It is possible that we may find significant associations for employment as the program continues. It is also possible that clients may end supported employment services after obtaining employment, while those in school may require ongoing services (e.g. to renew educational accommodations). Additionally, it is possible that OnTrackNY's supported education model, designed to adhere to Individual Placenment and Support (IPS) principles, may be helping clients stay in school. However, as this is an observational study with no control condition, we cannot say that OnTrackNY, or SEE services participation, caused the observed outcomes.",
+    "DOI": NaN,
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression model with a control group, the timeframe is within the specified range, the intervention is supported employment, and the population references mental health.",
+            "study_design": "Logistic regression with generalized estimating equations",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Observational study without a control condition",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

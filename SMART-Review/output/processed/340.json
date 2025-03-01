@@ -1,0 +1,33 @@
+{
+    "ArticleID": 340,
+    "Authors": "Hellstroem, Lone; Madsen, Trine; Nordentoft, Merete; Eplov, Lene Falgaard",
+    "Article Title": "Trajectories of symptoms of anxiety and depression among people on sick leave with mood or anxiety disorders: Secondary analysis from a randomized controlled trial",
+    "Abstract": "Background: Depression and anxiety are heterogenous disorders often combined into one entity in studies. Few studies have compared trajectories of depression and anxiety among clinically ill. We aimed to identify specific trajectories of depression, and anxiety and predictors of trajectory membership. Methods: Latent growth mixture modelling was carried out on data from the IPS-MA trial (n = 261), a supported employment intervention for people with mood or anxiety, to identify trajectories of depression and anxiety. Logistic regression was used to estimate predictors for trajectory membership. Associations between trajectory class and remission of comorbid depression or anxiety and return to work were also tested. Results: We identified three trajectories of depression and anxiety symptoms respectively; moderate-decreasing (60%), moderate-stable (26%), and low-stable (14%) depression and mild-decreasing (59%), moderatedecreasing (33%), and moderate-stable (8%) anxiety. The depression model showed low precision in class separation (entropy 0.66), hence, predictors of class membership were not estimated. For anxiety, lower age and higher levels of depressive symptoms were associated with a less desirable trajectory. Remission of comorbid depressive symptoms after two years differed significantly between classes (p < 0.000). Fewer had returned to work in the two moderate classes compared to the mild-decreasing anxiety class. Limitations: Depression model not reliable. Only 80% of participants from original study included. Not able to distinguish between anxiety disorders. Conclusion: Trajectories of anxiety confirm that, even after two years, a rather large proportion in the moderatestable class had symptoms of moderate anxiety, moderate comorbid depressive symptoms, and less probability of having returned to work. Trial registration: ClinicalTrials.govNCT01721824.",
+    "DOI": "10.1016/j.jpsychires.2021.02.040",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the population with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not have a control group and the intervention is not directly addressing employment. It focuses on trajectories of symptoms rather than interventions leading to employment outcomes.",
+            "study_design": "Secondary analysis from a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it does not include a control group, which is a requirement for inclusion. Additionally, the study focuses on anxiety and depression symptoms without directly addressing employment outcomes.",
+            "study_design": "Secondary analysis from a randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for people with mood or anxiety disorders and includes outcomes related to return to work.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

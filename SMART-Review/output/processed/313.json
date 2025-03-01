@@ -1,0 +1,33 @@
+{
+    "ArticleID": 313,
+    "Authors": "Aitken, Zoe; Simpson, Julie Anne; Bentley, Rebecca; Milner, Allison; LaMontagne, Anthony Daniel; Kavanagh, Anne Marie",
+    "Article Title": "Does the effect of disability acquisition on mental health differ by employment characteristics? A longitudinal fixed-effects analysis",
+    "Abstract": "Purpose Longitudinal studies have suggested a causal relationship between disability acquisition and mental health, but there is substantial heterogeneity in the magnitude of the effect. Previous studies have provided evidence that socioeconomic characteristics can buffer the effect but have not examined the role of employment characteristics. Methods We used data from 17 annual waves of the Household, Income and Labour Dynamics in Australia Survey to compare the mental health of working age individuals before and after disability acquisition, using the Mental Health Inventory, a subscale of the SF-36 health questionnaire. Linear fixed-effects regression models were used to estimate the effect of disability acquisition on mental health. We tested for effect modification by two characteristics of people's employment prior to disability acquisition: occupational skill level and contract type. Multiple imputation using chained equations was used to handle missing data. Results Disability acquisition was associated with a substantial decline in mental health score (estimated mean difference: - 4.3, 95% CI - 5.0, - 3.5). There was evidence of effect modification by occupational skill level, with the largest effects seen for those in low-skilled jobs (- 6.1, 95% CI - 7.6, - 4.5), but not for contract type. Conclusions The findings highlight the need for social and health policies that focus on increasing employment rates, improving the sustainability of employment, and providing employment services and education and training opportunities for people who acquire a disability, particularly for people in low-skilled occupations, to reduce the mental health inequalities experienced by people with disabilities.",
+    "DOI": "10.1007/s00127-019-01783-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal fixed-effects analysis with a control group, meeting the inclusion criteria for study design. The geographic scope is Australia, which is within the specified countries. The timeframe is 2005-2025, and the intervention is related to employment characteristics. The population is people with mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Longitudinal fixed-effects analysis with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies and interventions for people with mental health disorders. It focuses on the effect of disability acquisition on mental health rather than evaluating specific active employment policies.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions for employment but rather on the impact of disability acquisition on mental health. It also lacks a control group and does not directly address employment outcomes.",
+            "study_design": "Longitudinal fixed-effects analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}
