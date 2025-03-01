@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1975,
+    "Authors": "Sohn, Minsung; Choi, Mankyu; Jung, Minsoo",
+    "Article Title": "Working conditions, psychosocial environmental factors, and depressive symptoms among wage workers in South Korea",
+    "Abstract": "Background: In South Korea, the number of workers suffering from mental illnesses, such as depression, has rapidly increased. There is growing concern about depressive symptoms being associated with both working conditions and psychosocial environmental factors.Objectives: To investigate potential psychosocial environmental moderators in the relationship between working conditions and occupational depressive symptoms among wage workers.Methods: Data were obtained from the wage worker respondents (n = 4,095) of the Korean National Health and Nutrition Examination Survey of 2009. First, chi-square tests confirmed the differences in working conditions and psychosocial characteristics between depressive and non-depressive groups. Second, multivariate logistic regression analysis was performed to examine the moderating effects of the psychosocial environmental factors between working conditions and depressive symptoms.Results: After adjusting for potential covariates, the likelihood of depressive symptomatology was high among respondents who had dangerous jobs and flexible work hours compared to those who had standard jobs and fixed daytime work hours (OR = 1.66 and 1.59, respectively). Regarding psychosocial factors, respondents with high job demands, low job control, and low social support were more likely to have depressive symptoms (OR = 1.26, 1.58 and 1.61, respectively).Conclusions: There is a need to develop non-occupational intervention programs, which provide workers with training about workplace depression and improve social support, and the programs should provide time for employees to have active communication. Additionally, companies should provide employees with support to access mental healthcare thereby decreasing the occurrence of workplace depression.",
+    "DOI": "10.1080/10773525.2016.1200212",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariate logistic regression analysis, which meets the inclusion criteria. The study is set in South Korea, which is within the EU, Europe, US, Canada, or Australia. The study timeframe is 2009, which is within the specified timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration, job quality, and job retention.",
+            "study_design": "Multivariate logistic regression analysis",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (South Korea is not in EU countries, Europe, US, Canada, or Australia). Additionally, the intervention and population do not align with the specified criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it is a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (South Korea) and does not directly address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

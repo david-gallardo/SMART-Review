@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1979,
+    "Authors": "Hoffmann, Holger; Richter, Dirk",
+    "Article Title": "Supported Employment in Switzerland-Are We on Track?",
+    "Abstract": "Objectives: Supported employment (SE) was introduced to Switzerland in 2002. Since then, an increasing number of SE programs have been launched across Switzerland. This article reviews the state of SE in Switzerland. Method: Several Individual Placement and Support (IPS-SE) studies have been conducted in Switzerland. We reviewed the implementation. results, and possible future developments related to all Swiss IPS-SE studies. Findings: Studies have demonstrated that IPS-SE programs can be successfully implemented with excellent results in Switzerland, but most vocational rehabilitation programs do not provide SE. Conclusions and Implications for Practice: While SE is becoming the first choice for vocational rehabilitation in Switzerland, development and potential improvements are underway.",
+    "DOI": "10.1037/prj0000400",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not mention a control group in the study design.",
+            "study_design": "Implementation review of IPS-SE studies",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation or control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Review of implemented programs without randomized controlled trials or quasi-experimental studies with a control group.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not within the specified geographic scope and does not focus on the interventions listed in the inclusion criteria.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside of inclusion criteria (Switzerland is not explicitly mentioned as an EU country)",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

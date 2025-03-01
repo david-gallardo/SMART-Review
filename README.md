@@ -6,12 +6,6 @@
   <a href="https://github.com/david-gallardo/SMART-Review">
     <img src="https://img.shields.io/github/stars/david-gallardo/SMART-Review?style=social" alt="GitHub stars">
   </a>
-  <a href="https://github.com/david-gallardo/SMART-Review/actions">
-    <img src="https://github.com/david-gallardo/SMART-Review/workflows/CI/badge.svg" alt="CI Status">
-  </a>
-  <a href="https://pypi.org/project/smart-review/">
-    <img src="https://img.shields.io/pypi/v/smart-review" alt="PyPI Version">
-  </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue" alt="Python Versions">
   </a>
