@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2298,
+    "Authors": "Tang, Mei; Montgomery, Meredith L. T.; Collins, Brittany; Jenkins, Kalesha",
+    "Article Title": "Integrating Career and Mental Health Counseling: Necessity and Strategies",
+    "Abstract": "Individuals seeking counseling might not recognize the interconnectedness of health, mental health, work, and life concerns. Counselors, however, need to be mindful that a person's wellness is interwoven with their work, life roles, and health. Research supports the interrelationship of career development and mental health as well as the effectiveness of an integrated approach to mental health and career counseling. An integrated approach from an ecological counseling perspective is proposed for conceptualizing client issues and intervention strategies.",
+    "DOI": "10.1002/joec.12155",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation or a control group. It is an integrative review focusing on counseling strategies rather than employment outcomes.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on the interrelationship of career development and mental health and proposes an integrated approach to counseling. It does not specifically address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on specific employment interventions such as job search services, adult training, wage subsidies, or supported employment. It also lacks a rigorous evaluation or control group.",
+            "study_design": "Conceptual paper",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2304,
+    "Authors": "van Zon, Sander K. R.; Ots, Patricia; Robroek, Suzan J. W.; Burdorf, Alex; Oude Hengel, Karen M.; Brouwer, Sandra",
+    "Article Title": "Do chronic diseases moderate the association between psychosocial working conditions and work exit? Longitudinal results from 55 950 Dutch workers",
+    "Abstract": "Background This study aims to examine whether the presence of chronic diseases or multimorbidity moderates the associations between psychosocial working conditions and work exit through unemployment, work disability or early retirement. Methods Data from Lifelines (n=55 950), a prospective population-based cohort study, were enriched with monthly information on employment status from Statistics Netherlands. Working conditions were measured with the Copenhagen Psychosocial Questionnaire. Work exit was defined as unemployment, work disability and early retirement. Participants were classified as having no chronic disease, one chronic disease or multimorbidity. Cause-specific Cox proportional hazard regression models, adjusted for age, gender, education and partnership status, were used to analyse associations between working conditions and work exit. Interaction terms were used to examine moderation by chronic disease status. Results Higher social support decreased the risk for unemployment, work disability and early retirement. Higher meaning of work decreased the risk of unemployment, and more possibilities for development decreased the risk for work disability. Chronic disease status did generally not moderate associations between working conditions and work exit. Only among workers without a chronic disease, more possibilities for development was associated with a lower risk for unemployment (HR: 0.89; 95% CI: 0.85 to 0.94). Conclusion While efforts to retain workers with chronic diseases in the labour market should continue, favourable psychosocial working conditions are important for all workers.",
+    "DOI": "10.1136/jech-2021-218432",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and interventions directly targeting people with mental health disorders. It focuses on the impact of chronic diseases on work exit through unemployment, work disability, or early retirement.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

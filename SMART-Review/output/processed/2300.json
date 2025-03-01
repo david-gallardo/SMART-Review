@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2300,
+    "Authors": "Wooden, Mark; Watson, Nicole; Butterworth, Peter",
+    "Article Title": "Data Resource Profile: Household, Income and Labour Dynamics in Australia (HILDA) Survey",
+    "Abstract": NaN,
+    "DOI": "10.1093/ije/dyae043",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified in the abstract and lacks rigorous evaluation or control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design, intervention, population, or outcomes related to employment policies for people with mental health disorders.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

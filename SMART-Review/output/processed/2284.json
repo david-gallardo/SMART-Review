@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2284,
+    "Authors": "Falkum, Erik; Klungsoyr, Ole; Lystad, June Ullevoldsaeter; Bull, Helen Christine; Evensen, Stig; Martinsen, Egil W.; Friis, Svein; Ueland, Torill",
+    "Article Title": "Vocational rehabilitation for adults with psychotic disorders in a Scandinavian welfare society",
+    "Abstract": "Background: This study examined the outcomes of a vocational rehabilitation program (The Job Management Program, JUMP) for persons with psychotic disorders based on close collaboration between health and welfare services.Methods: Participants (N = 148) with broad schizophrenia spectrum disorders (age 18-65) were recruited from six counties in Norway. Three counties were randomized to vocational rehabilitation augmented with cognitive behaviour therapy (CBT), while the remaining three counties were randomized to vocational rehabilitation augmented with cognitive remediation (CR). This paper compares the vocational activity of the total group of JUMP participants with a treatment as usual group (N = 341), and further examines differences between the two JUMP interventions. Employment status (working/not working) was registered at the time of inclusion and at the end of the intervention period.Results: The total number of JUMP participants in any kind of vocational activity increased from 17 to 77% during the intervention. Of these, 8% had competitive employment, 36% had work placements in ordinary workplaces with social security benefits as their income, and 33% had sheltered work. The total number of working participants in the TAU group increased from 15.5 to 18.2%. The JUMP group showed significant improvements of positive (t = -2. 33, p = 0.02) and general (t = -2.75, p = 0.007) symptoms of psychosis. Significant differences between the CBT and CR interventions were not demonstrated.Conclusions: The study supports existing evidence that the majority of persons with broad schizophrenia spectrum disorders can cope with some kind of work, given that internal and external barriers are reduced. Those who wish to work should be offered vocational rehabilitation.",
+    "DOI": "10.1186/s12888-016-1183-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT) with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025) and addresses employment outcomes for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Norway), timeframe (2005-2025), intervention (vocational rehabilitation), population (people with psychotic disorders, a type of mental disorder), and outcomes (employment status).",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with psychotic disorders and does not specifically target people with mental health disorders in general. The intervention is not clearly described as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group (TAU), focuses on employment outcomes for people with mental health disorders in Norway (EU country), and was published within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2289,
+    "Authors": "Shields, M.; Dimov, S.; Kavanagh, A.; Milner, A.; Spittal, M. J.; King, T. L.",
+    "Article Title": "How do employment conditions and psychosocial workplace exposures impact the mental health of young workers? A systematic review",
+    "Abstract": "Purpose To assess the quality of the research about how employment conditions and psychosocial workplace exposures impact the mental health of young workers, and to summarize the available evidence. Methods We undertook a systematic search of three databases using a tiered search strategy. Studies were included if they: (a) assessed employment conditions such as working hours, precarious employment, contract type, insecurity, and flexible work, or psychosocial workplace exposures such as violence, harassment and bullying, social support, job demand and control, effort-reward imbalance, and organizational justice; (b) included a validated mental health measure; and (c) presented results specific to young people aged <= 30 years or were stratified by age group to provide an estimate for young people aged <= 30 years. The quality of included studies was assessed using the Risk of Bias in Non-randomized Studies of Exposures (ROBINS-E) tool. Results Nine studies were included in the review. Four were related to employment conditions, capturing contract type and working hours. Five studies captured concepts relevant to psychosocial workplace exposures including workplace sexual harassment, psychosocial job quality, work stressors, and job control. The quality of the included studies was generally low, with six of the nine at serious risk of bias. Three studies at moderate risk of bias were included in the qualitative synthesis, and results of these showed contemporaneous exposure to sexual harassment and poor psychosocial job quality was associated with poorer mental health outcomes among young workers. Longitudinal evidence showed that exposure to low job control was associated with incident depression diagnosis among young workers. Conclusions The findings of this review illustrate that even better studies are at moderate risk of bias. Addressing issues related to confounding, selection of participants, measurement of exposures and outcomes, and missing data will improve the quality of future research in this area and lead to a clearer understanding of how employment conditions and psychosocial workplace exposures impact the mental health of young people. Generating high-quality evidence is particularly critical given the disproportionate impact of COVID-19 on young people's employment. In preparing for a post-pandemic world where poor-quality employment conditions and exposure to psychosocial workplace exposures may become more prevalent, rigorous research must exist to inform policy to protect the mental health of young workers.",
+    "DOI": "10.1007/s00127-021-02077-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study includes a control group and presents results specific to young people aged <= 30 years, meeting the population and outcome criteria.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes for people with mental disorders. It focuses on the impact of employment conditions and psychosocial workplace exposures on the mental health of young workers.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders and does not measure employment outcomes.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

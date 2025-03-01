@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2286,
+    "Authors": "Hill, Terrence D.; Leppard, Tom R.; Miller, Michael V.; Davis, Andrew P.; Zapata, Veronica R.",
+    "Article Title": "Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity",
+    "Abstract": "Although recent studies have linked pandemic unemployment with poorer mental health, the mechanisms underlying this association remain understudied. In this paper, we develop a mediation model to explain why pandemic job separation might undermine mental health. Using national data from the 2021 Crime, Health, and Politics Survey (n = 1,258), we test the indirect effects of pandemic job separation on psychological distress through several mechanisms. Mediation analyses reveal compound indirect effects of pandemic job separation on psychological distress through the primary pathway of financial strain and the secondary pathways of social support, self-esteem, mastery, religious struggles, and sleep disturbance. Absent the indirect effect of pandemic job separation through financial strain, we would have failed to observe any simple indirect effects through the other proposed mechanisms. Formal moderated mediation analyses also indicate that our observed indirect effects are invariant to subgroup differences in current employment status, education, and household income. In short, our indirect effects are observed for those respondents who were able to regain employment, those with college degrees, and those with the most financial resources. Our results suggest that the temporary expansion of public assistance has been insufficient to offset widespread unemployment and financial hardship during a global pandemic.",
+    "DOI": "10.1177/23294965231183420",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mediation analysis using national data from the 2021 Crime, Health, and Politics Survey, which does not meet the inclusion criteria of a systematic review, meta-analysis, or RCT with a control group.",
+            "study_design": "Mediation analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the indirect effects of pandemic job separation on psychological distress.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the impact of job separation on psychological distress during a pandemic.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

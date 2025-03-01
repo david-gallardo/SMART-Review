@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2274,
+    "Authors": "McLennan, Vanette; Dorsett, Pat; Bloom, Julia; Goossen, Tania; Porter, Frances",
+    "Article Title": "Back2Work: a new model of early vocational rehabilitation for people with spinal cord injury",
+    "Abstract": "Objective. The aim of this article is to describe the development of a novel evidence-based model of early intervention vocational rehabilitation (EIVR) for people with spinal cord injury (SCI).Methods. An extensive literature review and background study guided the collaboration of experienced practitioners and researchers in developing and evaluating the innovative Back2Work model of EIVR for people with SCI in Queensland, Australia. The program is undergoing longitudinal mixed-methods evaluation to the end of 2023.Results. The model is central to the successful implementation of the EIVR program, delivered by rehabilitation counsellors in the Queensland Spinal Injuries Unit. Back2Work includes a strong focus on maintaining and nurturing the pre-injury occupational bond between injured workers and employers, and aims to create a positive expectation for return to work (RTW) and increase the rate and timeliness of RTW after SCI.Conclusions. The Back2Work program has become an integrated component of the multidisciplinary rehabilitation team, with positive early results in RTW outcomes and additional benefits in participants' sense of well-being and hope.",
+    "DOI": "10.1071/AH21069",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a background study and literature review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Background study and literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on people with spinal cord injury rather than mental health disorders. Additionally, the intervention is specific to vocational rehabilitation for SCI and does not address employment policies or directly target job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on spinal cord injury (SCI) rather than mental health disorders.",
+            "study_design": "Longitudinal mixed-methods evaluation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is people with spinal cord injury, not mental health disorders.",
+            "study_design": "Mixed-methods evaluation",
+            "logprobs": null
+        }
+    }
+}

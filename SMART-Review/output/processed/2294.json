@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2294,
+    "Authors": "Parbst, Matthew; Wheaton, Blair",
+    "Article Title": "The Effect of Welfare State Policy Spending on the Equalization of Socioeconomic Status Disparities in Mental Health",
+    "Abstract": "This article examines whether and how the relationship between socioeconomic status (SES) and depression is modified by welfare state spending using the 2006, 2012, and 2014 survey rounds of the European Social Survey (ESS) merged with macroeconomic data from the World Bank, Eurostat, and SOCX database (N = 87,466). Welfare state spending effort divided between social investment and social protection spending modifies the classic inverse relationship between SES and depression. Distinguishing policy areas in both social investment and social protection spending demonstrates that policy programs devoted to education, early childhood education and care, active labor market policies, old age care, and incapacity account for differences in the effect of SES across countries. Our analysis finds that social investment policies better explain cross-national differences in the effect of SES on depression, implying policies focused earlier in the life course matter more for understanding social disparities in the mental health of populations.",
+    "DOI": "10.1177/00221465231166334",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the relationship between socioeconomic status and depression modified by welfare state spending. It lacks specific interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis using survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between socioeconomic status and depression, not employment or labor outcomes in people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group as per the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

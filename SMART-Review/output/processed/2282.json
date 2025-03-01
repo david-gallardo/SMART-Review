@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2282,
+    "Authors": "Antonio Cordoba-Dona, Juan; Escolar-Pujolar, Antonio; San Sebastian, Miguel; Gustafsson, Per E.",
+    "Article Title": "How are the employed and unemployed affected by the economic crisis in Spain? Educational inequalities, life conditions and mental health in a context of high unemployment",
+    "Abstract": "Background: Despite an increasing number of studies on the factors mediating the impact of the economic recession on mental health, research beyond the individual employment status is scarce. Our objectives were to investigate in which ways the mental health of employed and unemployed populations is differently affected by the current economic recession along the educational scale and to examine whether financial strain and social support explain these effects of the crisis.Methods: A repeated cross-sectional study, using two waves of the Andalusian Health Survey in 2007 (pre-crisis) and 2011-2012 (crisis). A population aged between 19 and 64 years was selected. The dependent variable was the Mental Component Summary of the SF-12 questionnaire. We performed Poisson regression models stratified by working status, with period, educational level, financial strain and social support as independent variables. We examined interactions between period and educational level. Age, sex, main earner, cohabitation and partner's working status were considered as covariates.Results: The study included 3210 individuals (1185 women) in 2007 and 3633 individuals (1486 women) in 2011-2012. In working individuals the prevalence of poor mental health increased for secondary and complete primary studies groups during crisis compared to the pre-crisis period, while it decreased significantly in the university study group (PR = 0.76, 95 % CI: 0.58-0.99). However, in unemployed individuals prevalence ratios for poor mental health increased significantly only in the secondary studies group (PR = 1.73, 95 % CI: 1.06-2.83). Financial strain and social support yielded consistent associations with mental health in all subgroups. Only financial strain could partly explain the crisis effect on mental health among the unemployed.Conclusions: Our study supports the finding that current economic recession is associated with poorer mental health differentially according to labour market status and educational level. Those with secondary studies may be at risk in times of economic recession. In connection with this, emerging educational inequalities in mental health among the employed population were observed. Our research also suggests a partial mediating role of financial strain for the effects of crisis on poor mental health among the unemployed. Good social support appears to buffer poor mental health in all subgroups but not specifically during crisis period.",
+    "DOI": "10.1186/s12889-016-2934-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a repeated cross-sectional study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025) and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Repeated Cross-Sectional Study with Poisson Regression Models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to employment policies and does not include any of the specified interventions (job search services, adult training, wage subsidies, supported employment). It focuses on the impact of economic recession on mental health among employed and unemployed individuals.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders, nor does it include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

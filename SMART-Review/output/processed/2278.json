@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2278,
+    "Authors": "Tirgil, Abdullah; Aygun, Aysun Hiziroglu",
+    "Article Title": "Mental Health Determinants in Turkey: Investigating an Extensive List of Variables",
+    "Abstract": "This study examines the determinants of mental health in Turkey over a broad perspective including sociodemographic factors, health/lifestyle choices, home/neighborhood environment, social interactions, and workplace environment in Turkey. We implement a linear regression model to analyze the factors associated with mental well-being among adults. For this purpose, we utilize individual-level data obtained from the Turkey Health Surveys implemented by the Turkish Statistical Institute (TurkStat) between 2008-2012. Our results suggest men to report a higher mental health score than women despite controlling for a broad set of observable characteristics. Exposure to noise, violence, and crime at home or in the neighborhood are significantly related to lower mental health scores, especially for women. In contrast, employment is only associated with higher mental health scores for men. Importantly, household income does not appear to be as crucial as non-financial variables such as good health and having someone to trust in case of a severe problem. In addition, rude behavior and discrimination at workplace negatively affect mental well-being for both women and men. We suggest promoting non-financial variables such as trust in others, good health, and a peaceful environment at home, at work, and in the neighborhood in people's lives.",
+    "DOI": "10.12658/M0618",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention, but rather examines the determinants of mental health in Turkey.",
+            "study_design": "Linear regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not focus on interventions directly related to employment. The geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). Additionally, the timeframe for this article falls before 2005.",
+            "study_design": "Cross-sectional study using linear regression model",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and is conducted in Turkey which is outside the specified geographic scope.",
+            "study_design": "Linear regression model",
+            "logprobs": null
+        }
+    }
+}

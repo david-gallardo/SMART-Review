@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2288,
+    "Authors": "Mawn, Lauren; Oliver, Emily J.; Akhter, Nasima; Bambra, Clare L.; Torgerson, Carole; Bridle, Chris; Stain, Helen J.",
+    "Article Title": "Are we failing young people not in employment, education or training (NEETs)? A systematic review and meta-analysis of re-engagement interventions",
+    "Abstract": "Background: Youth comprise 40% of the world's unemployed, a status associated with adverse wellbeing and social, health, and economic costs. This systematic review and meta-analysis review synthesises the literature on the effectiveness of interventions targeting young people not in employment, education, or training (NEET).Methods: Randomised and quasi-randomised trials with a concurrent or counterfactual control group and baseline equivalence are included. Cochrane collaboration tools are used to assess quality, and a narrative synthesis was undertaken. The primary outcome is employment; secondary outcomes were health, earnings, welfare receipt, and education.Results: Eighteen trials are included (9 experimental and 9 quasi-experimental), sample sizes range from 32 to 54,923. Interventions include social skills, vocational, or educational classroom-based training, counselling or one-to-one support, internships, placements, on-the-job or occupational training, financial incentives, case management, and individual support. Meta-analysis of three high-quality trials demonstrates a 4% (CI 0.0-0.7) difference between intervention and control groups on employment. Evidence for other outcomes lacks consistency; however, more intensive programmes increase employment and wages over the longer term.Conclusions: There is some evidence that intensive multi-component interventions effectively decrease unemployment amongst NEETs. The quality of current evidence is limited, leaving policy makers under-served when designing and implementing new programmes, and a vulnerable population neglected.",
+    "DOI": "10.1186/s13643-016-0394-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a systematic review and meta-analysis of controlled trials with a control group.",
+            "study_design": "Systematic review and meta-analysis of controlled trials with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on NEETs (not in employment, education, or training) rather than people with mental health disorders. It does not meet the inclusion criteria for population.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on NEETs, not specifically on people with mental health disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not specifically reference mental health disorders.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

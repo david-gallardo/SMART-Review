@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2281,
+    "Authors": "Danielson, Elizabeth C.; Saturday, Mystie; Leonard, Sarah; Levit, Alexandra; Graham, Andrea K.; Marquez, Melissa; Alperin, Keith; Shankman, Stewart A.; Griffith, James W.",
+    "Article Title": "Efficacy of a Mobile App-Based Behavioral Intervention (DRIVEN) to Help Individuals With Unemployment-Related Emotional Distress Return to Work: Protocol for a Randomized Controlled Trial",
+    "Abstract": "Background: Employment plays an important role in the maintenance of mental and physical health. Losing a job createsemotional distress, which can, in turn, interfere with effective job seeking. Thus, a program for job seekers that provides supportfor both the logistics of job seeking as well as emotional distress may help people find employment and improve emotionalwell-being. Objective: This study aims to test the efficacy of the 6-week intervention for job seekers in a randomized controlled trial. Methods: This is a parallel-assignment randomized control trial comparing a 6-week return-to-work intervention versus jobseeking as usual for a stratified sample of job seekers (n=150). The intervention will be delivered through a mobile phone appand scheduled video counseling sessions with a job coach. Assessments will be taken weekly during the intervention as well as8 and 16 weeks later. The intervention and control group procedures will be administered remotely, allowing the study to takeplace in several regions of the United States. Eligible participants will be adults aged 18 to 65 years, currently unemployed, andactively searching for work. Participants will be recruited from 7 major metropolitan areas in the United States using onlineadvertisements on Craigslist. The primary outcome measure is the Job Search Behavior Scale, which has 2 subscales, preparatoryjob search behavior and active job search behavior. Employment status will also be assessed throughout the trial. A mixed-modelregression analysis will be used to compare job searching behavior in the intervention group versus the control group. Atime-to-event analysis (ie, survival analysis) will be used to compare employment status in the 2 experimental groups. Secondaryoutcomes will also be evaluated, including job search self-efficacy and mental health-related outcomes such as anxiety anddepression. Results: This study started on August 7, 2023, and as of June 2024, we have enrolled 140 participants. Enrollment began inAugust 2023 and will conclude by October 2024. Half of the participants (75/150, 50%) will be assigned to the intervention armwhile the other half (75/150, 50%) will be assigned to the control arm, job seeking as usual. Conclusions: The findings from this study will determine the efficacy of a mobile app-based intervention that uses both jobtraining and psychological techniques on job seeking and employment outcomes. This first trial of Distress Return-to-WorkIntervention (DRIVEN) will provide important information about blended support techniques for unemployed individuals, determine the usefulness of mobile apps to address large-scale mental health outcomes, and improve our understanding of therelationship between depression and unemployment status. Trial Registration: ClinicalTrials.gov NCT06026280; https://clinicaltrials.gov/study/NCT06026280 International Registered Report Identifier (IRRID): DERR1-10.2196/62715",
+    "DOI": "10.2196/62715",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in the US, which falls within the specified geographic scope. The intervention is a mobile app-based behavioral intervention, which addresses employment outcomes. The population is adults aged 18 to 65 years, currently unemployed, and actively searching for work, which meets the population criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group for employment outcomes and does not directly address the population of interest (people with mental health disorders). It focuses on unemployed individuals experiencing emotional distress rather than those with documented mental health problems. The primary outcome is job search behavior, not employment or labor outcomes.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

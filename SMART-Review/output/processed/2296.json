@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2296,
+    "Authors": "Bailey, Shawna; Stoner, Carrie; Cruise, Kelly; DiDiodato, Giulio",
+    "Article Title": "Protocol for a cluster randomized study to compare the effectiveness of a self-report distress tool and a mental health referral service to usual case management on program completion among vulnerable youth enrolled in a vocational training program",
+    "Abstract": "Objectives 1) To compare the effect of the self-report distress tool (DT) and rapid mental health referral process (MH) on vocational training program attendance. 2) To compare the effect of the DT and MH on vocational training program completion. 3) To compare the effect of the DT an MH on post-vocational training program employment.Objectives 1) To compare the effect of the self-report distress tool (DT) and rapid mental health referral process (MH) on vocational training program attendance. 2) To compare the effect of the DT and MH on vocational training program completion. 3) To compare the effect of the DT an MH on post-vocational training program employment.Objectives 1) To compare the effect of the self-report distress tool (DT) and rapid mental health referral process (MH) on vocational training program attendance. 2) To compare the effect of the DT and MH on vocational training program completion. 3) To compare the effect of the DT an MH on post-vocational training program employment.Design Pragmatic, multi-centre, 2x2 factorial, cluster randomized, superiority study with 4 parallel groups and primary endpoints of vocational program attendance and completion at 12 weeks and post-program employment at 24 months. Cluster randomization of each training cohort will be performed with a 1:1:1:1 allocation ratio using a site stratified, permuted-block group schema. Final sample size is expected to be 400 participants (100 per group).Participants Students enrolled in Community Builder's Trades & Diversity Training Program in either the city of Barrie or Sudbury (in Ontario, Canada) will be eligible for enrollment if they have an active Ontario Health Insurance Plan number and Canadian Social Insurance Number and provide written informed consent prior to Training program commencement.Outcomes The primary outcome includes: 1) Difference in proportion of absence-free program days from date of randomization, where absence-free days are defined as being present in class or work setting for >= 8 hours from Monday to Thursday during the 12-week program duration.Outcomes The primary outcome includes: 1) Difference in proportion of absence-free program days from date of randomization, where absence-free days are defined as being present in class or work setting for >= 8 hours from Monday to Thursday during the 12-week program duration.Trial registration ClinicalTrials.gov NCT05626374 (November 23, 2022).",
+    "DOI": "10.1371/journal.pone.0294806",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pragmatic, multi-centre, 2x2 factorial, cluster randomized, superiority study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "pragmatic, multi-centre, 2x2 factorial, cluster randomized, superiority study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on vulnerable youth and does not specifically target people with mental disorders. Additionally, the geographic scope is outside of the specified regions (Canada).",
+            "study_design": "Cluster randomized, superiority study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it does not focus on employment or labor outcomes directly. It is also not a controlled trial with a control group, which is a requirement for inclusion.",
+            "study_design": "cluster randomized study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

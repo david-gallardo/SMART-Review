@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2301,
+    "Authors": "LaMontagne, Anthony D.; Keegel, Tessa; Shann, Clare; D'Souza, Rennie",
+    "Article Title": "An integrated approach to workplace mental health: an Australian feasibility study",
+    "Abstract": "We developed and implemented an integrated workplace mental health promotion intervention combining job stress reduction with a workplace mental health literacy program. The intervention was evaluated using an uncontrolled design, with organizationorganisation-wide census employee surveys of working conditions and mental health literacy pre-intervention, followed by a 1-year action planning and intervention period, then a post-intervention survey. All employees were invited to be surveyed, and all respondents were included in analysis, independent of participation in intervention activities or employment status (44% response rate at baseline, 37% at final). No significant changes were observed in the targeted psychosocial working conditions - job control, job demands, and social support at work. In contrast, significant improvements in some aspects of mental health literacy were observed, particularly in helping behaviours. Acknowledging the limitations of this being an uncontrolled pilot study, our results suggest that it is feasible to integrate job stress and mental health literacy intervention, as well as evidence of sustained improvements in mental health literacy and the need for more intensive and sustained efforts to improve psychosocial working conditions.",
+    "DOI": "10.1080/14623730.2014.931070",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an uncontrolled design, which does not meet the inclusion criteria for study design.",
+            "study_design": "uncontrolled design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design as it uses an uncontrolled pilot study design without a control group.",
+            "study_design": "Uncontrolled pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is uncontrolled and lacks a control group, which does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "uncontrolled design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Lacks a control group and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Uncontrolled pilot study",
+            "logprobs": null
+        }
+    }
+}

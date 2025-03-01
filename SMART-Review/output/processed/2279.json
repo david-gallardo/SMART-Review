@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2279,
+    "Authors": "Rotheram-Borus, Mary Jane; Tomlinson, Mark; Mayekiso, Andile; Bantjes, Jason; Harris, Danielle M.; Stewart, Jacqueline; Weiss, Robert E.",
+    "Article Title": "Gender-specific HIV and substance abuse prevention strategies for South African men: study protocol for a randomized controlled trial",
+    "Abstract": "Background: Young men in South Africa face concurrent epidemics of HIV, drug and alcohol abuse, and unemployment. Standard HIV prevention programs, located in healthcare settings and/or using counseling models, fail to engage men. Soccer and vocational training are examined as contexts to deliver male-specific, HIV prevention programs.Methods: Young men (n = 1200) are randomly assigned by neighborhood to one of three conditions: 1) soccer league (n = 400; eight neighborhoods); 2) soccer league plus vocational training (n = 400; eight neighborhoods); or 3) a control condition (n = 400; eight neighborhoods). Soccer practices and games occur three times per week and vocational training is delivered by Silulo Ulutho Technologies and Zenzele Training and Development. At baseline, 6 months, 12 months, and 24 months, the relative efficacy of these strategies to increase the number of significant outcomes (NSO) among 15 outcomes which occur (1) or not (0) are summed and compared using binomial logistic regressions. The summary primary outcome reflects recent HIV testing, substance abuse, employment, sexual risk, violence, arrests, and mental health status.Discussion: The failure of men to utilize HIV prevention programs highlights the need for gender-specific intervention strategies. However, men in groups can provoke and encourage greater risk-taking among themselves. The current protocol evaluates a male-specific strategy to influence men's risk for HIV, as well as to improve their ability to contribute to family income and daily routines. Both interventions are expected to significantly benefit men compared with the control condition.",
+    "DOI": "10.1186/s13063-018-2804-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is not focused on people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on HIV and substance abuse prevention strategies for South African men rather than employment policies for people with mental health disorders. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

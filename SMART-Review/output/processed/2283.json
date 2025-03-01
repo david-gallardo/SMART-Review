@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2283,
+    "Authors": "Lovvik, Camilla; Overland, Simon; Hysing, Mari; Broadbent, Elizabeth; Reme, Silje E.",
+    "Article Title": "Association Between Illness Perceptions and Return-to-Work Expectations in Workers with Common Mental Health Symptoms",
+    "Abstract": "Purpose Mental health symptoms (MHSs) may affect people's work capacity and lead to sickness absence and disability. Expectations and perceptions of illness have been shown to influence return to work (RTW) across health conditions, but we know little about illness perceptions and RTW-expectations in MHSs. The aim of this study was to investigate the association between illness perceptions and RTW-expectations in a group struggling with work participation due to MHSs. Methods Cross-sectional associations between illness perceptions and return to work expectations at baseline were analyzed for 1,193 participants who reported that MHSs affected their work participation. The study was part of a randomized controlled trial evaluating the effect of job focused Cognitive Behavioral Therapy (CBT) combined with supported employment (IPS). Participants were from a working age population with diverse job status. Results There was a strong and salient relationship between illness perceptions and RTW-expectations. When adjusting for demographic and clinical variables, the components consequences, personal control, identity and illness concern remained significantly associated with uncertain and negative RTW-expectations. Less illness understanding remained significantly associated with uncertain RTW-expectations, while timeline and emotional representations remained significantly associated with negative RTW-expectations. In the fully adjusted model only the consequences component (believing that illness has more severe consequences) remained significantly associated with RTW-expectations. Openly asked, participants reported work, personal relationships and stress as main causes of their illness. Conclusions In people with MHSs who struggle with work participation, perceptions and beliefs about their problems are strongly associated with their expectations to return to work.",
+    "DOI": "10.1007/s10926-013-9439-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis, which does not meet the inclusion criteria of requiring a rigorous evaluation or a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT evaluating the effect of supported employment and includes relevant outcomes related to job status.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}
