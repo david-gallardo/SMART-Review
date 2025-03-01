@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1593,
+    "Authors": "Orme, Stephen; Zarkin, Gary A.; Dunlap, Laura J.; Luckey, Jackson; Toegel, Forrest; Novak, Matthew D.; Holtyn, August F.; Silverman, Kenneth",
+    "Article Title": "Cost and cost-effectiveness of abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder",
+    "Abstract": "Background: Alcohol use disorder, unemployment, and risk of homelessness are linked and often co-occurring, but most interventions do not address both alcohol use disorder and unemployment. The Abstinence- Contingent Wage Supplement (ACWS) model of the Therapeutic Workplace offers participants stipends or wage supplements contingent on both their abstaining from alcohol and engaging with an employment specialist or working in a community job. Wearable biosensors continuously tracked alcohol use. Methods and data: The study randomized participants to Usual Care (UC) (n = 57) and ACWS (n = 62). We used micro-costing methods to identify the resources and costs of the 6-month ACWS intervention. The study team tracked the cost of incentives for wearing biosensors, stipends, and wage supplements. We used 6-month cost and effectiveness data to calculate incremental cost-effectiveness ratios and cost-effectiveness acceptability curves. Results: Over the 6-month study period, average intervention costs per participant were $7282, with contingent stipends and wage supplements accounting for 50 % of intervention costs. We also reported average per participant costs for healthcare (UC: $17,785; ACWS: $26,734), justice system (UC: $131; ACWS: $153), and public welfare (UC: $1107; ACWS: $1275). The incremental cost-effectiveness ratios (ICERs) at 6 months were $80,911 for an additional participant abstinent, $3894 for an additional drinking free day, $22,756 for an additional participant employed, and $1514 for an additional day worked. Conclusions: The ACWS intervention for adults with an alcohol use disorder and experiencing homelessness increased costs and improved alcohol use and employment outcomes compared with Usual Care. For policy- makers seeking a solution to alcohol use and unemployment with populations experiencing homelessness, ACWS may be a cost-effective solution.",
+    "DOI": "10.1016/j.josat.2024.209569",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group (Usual Care) and presents measures of employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on adults experiencing homelessness and alcohol use disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with alcohol use disorder and homelessness, not specifically on people with mental health disorders. The intervention is not directly related to employment policies but rather to alcohol use and unemployment.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes employment outcomes and focuses on people with alcohol use disorder (a mental health problem). It was conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,6 +1,6 @@
 # SMART Review
 
-**SMART Review** stands for **Systematic Manuscript Analysis and Review Tool**. It is an AI-driven project designed to automate and streamline the screening and evaluation process of research manuscripts for systematic reviews. The tool leverages local large language models (LLMs) via the LMStudio API to assess articles against predefined inclusion and exclusion criteria.
+**SMART Review** stands for **Systematic Manuscript Analysis and Review Tool**. It is an AI-driven project designed to automate and streamline the screening and evaluation process of research manuscripts for systematic reviews. The tool leverages local large language models (LLMs) via the LMStudio API to assess articles against predefined inclusion and exclusion criteria. **The research question and screening criteria are externalized in text files (inclusion_criteria.txt, exclusion_criteria.txt, research_question.txt) located in the scripts/utilities folder.**
 
 ## Features
 
@@ -29,7 +29,7 @@ SMART-Review/
 │ └── README.md # Overview of output files and formats 
 ├── scripts/ 
 │ ├── analysis/ # Scripts for data analysis and processing 
-│ ├── utilities/ # Utility functions and helper modules 
+│ ├── utilities/ # inclusion_criteria.txt, exclusion_criteria.txt &research_question.txt 
 │ └── main.py # Main script to run the project 
 ├── README.md # This file 
 ├── LICENSE # License file
@@ -66,6 +66,9 @@ python scripts/main.py
 
 3. **Review the output**
 Processed results will be saved in the output/processed directory.
+
+4. **Update Criteria (Optional):**
+You can update the research question and screening criteria by editing the text files in the scripts/utilities folder.
 
 ## Contributing
 
