@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1843,
+    "Authors": "Davis, Lori L.; Kyriakides, Tassos C.; Suris, Alina M.; Ottomanelli, Lisa A.; Mueller, Lisa; Parker, Pamela E.; Resnick, Sandra G.; Toscano, Richard; Scrymgeour, Alexandra A.; Drake, Robert E.",
+    "Article Title": "Effect of Evidence-Based Supported Employment vs Transitional Work on Achieving Steady Work Among Veterans With Posttraumatic Stress Disorder A Randomized Clinical Trial",
+    "Abstract": "IMPORTANCE Posttraumatic stress disorder (PTSD) often interferes with a person's ability to obtain or sustain employment, which leads to premature exit from the labor force and reduced income.OBJECTIVE To determine whether individual placement and support (IPS)-supported employment is more effective than stepwise vocational rehabilitation involving transitional work assignments at helping veterans with PTSD attain steady, competitive employment.DESIGN, SETTING, AND PARTICIPANTS The Veterans Individual Placement and Support Toward Advancing Recovery (VIP-STAR) study was a prospective, multisite, randomized clinical trial that included 541 unemployed veterans with PTSD at 12 Veterans Affairs medical centers. Data were collected from December 23, 2013, to May 3, 2017. Intent-to-treat analysis was performed.INTERVENTIONS Individual placement and support is a supported employment intervention that rapidly engages people with disabilities in community job development to obtain work based on their individual job preferences. Transitional work is a stepwise vocational rehabilitation intervention that assigns people temporarily to noncompetitive jobs as preparation for competitive employment in the community.MAIN OUTCOMES AND MEASURES A priori hypotheses were that, compared with those in transitional work, more participants in the IPS group would become steady workers (primary) and earn more income from competitive jobs (secondary) over 18 months. Steady worker was defined as holding a competitive job for at least 50% of the 18-month follow-up period.RESULTS A total of 541 participants (n = 271 IPS; n = 270 transitional work) were randomized. Mean (SD) age was 42.2 (11) years; 99 (18.3%) were women, 274 (50.6%) were white, 225 (41.6%) were African American, and 90 (16.6%) were of Hispanic, Spanish, or Latino ethnicity. More participants in the IPS group achieved steady employment than in the transitional work group (105 [38.7%] vs 63 [23.3%]; odds ratio, 2.14; 95% CI, 1.46-3.14). A higher proportion of IPS participants attained any competitive job (186 [68.6%] vs 154 [57.0%]; P = .005) and had higher cumulative earnings from competitive jobs (median [interquartile range] $7290 [$23 174] in IPS vs $1886 [$17 167] in transitional work; P = .004). CONCLUSIONS AND RELEVANCE This multisite trial demonstrated significantly greater effectiveness of IPS-supported employment over stepwise transitional work vocational rehabilitation for veterans living with chronic PTSD. The results provide supporting evidence for increasing access to IPS for veterans living with PTSD.",
+    "DOI": "10.1001/jamapsychiatry.2017.4472",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized clinical trial, which meets the inclusion criteria. The study is set in the US and includes a control group. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders (PTSD), and the outcomes include employment and labor outcomes.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (US), timeframe (2013-2017), intervention (supported employment), population (people with PTSD), and outcomes (steady employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets all inclusion criteria: it is a randomized clinical trial, focuses on adults with mental health disorders (PTSD in this case), and examines employment outcomes.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        }
+    }
+}

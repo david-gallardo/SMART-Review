@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1971,
+    "Authors": "Leijten, Fenna R. M.; de Wind, Astrid; van den Heuvel, Swenne G.; Ybema, Jan Fekke; van der Beek, Allard J.; Robroek, Suzan J. W.; Burdorf, Alex",
+    "Article Title": "The influence of chronic health problems and work-related factors on loss of paid employment among older workers",
+    "Abstract": "Background With an ageing society and increasing retirement ages, it is important to understand how employability can be promoted in older workers with health problems. The current study aimed to determine whether (1) different chronic health problems predict transitions from paid employment to disability benefits, unemployment and early retirement, and (2) how work-related factors modify these associations.Methods Self-report questionnaire data was used from the Dutch longitudinal Study on Transitions in Employment, Ability and Motivation with 3 years of follow-up (2010-2013), among employees aged 45-64 years (N=8149). The influence of baseline chronic health problems and work-related factors on transitions from paid employment to disability benefits, unemployment and early retirement during follow-up was estimated in a competing risks proportional hazards model. Relative excess risk of transitions due to the interaction between chronic health problems and work-related factors was assessed.Results Severe headache, diabetes mellitus and musculoskeletal, respiratory, digestive and psychological health problems predicted an increased risk of disability benefits (HR range 1.78-2.79). Circulatory (HR=1.35) and psychological health problems (HR=2.58) predicted unemployment, and musculoskeletal (HR=1.23) and psychological health problems (HR=1.57) predicted early retirement. Work-related factors did not modify the influence of health problems on unemployment or early retirement. Psychosocial work-related factors, especially autonomy, modified the influence of health problems on disability benefits. Specifically, among workers with health problems, higher autonomy, higher support and lower psychological job demands reduced the risk of disability benefits by 82%, 49%, and 11%, respectively.Conclusions All health problems affected disability benefits to a similar extent, but psychological health problems especially predicted unemployment and early retirement. For older workers with health problems, promoting an optimal work environment has the potential to contribute to sustainable employment.",
+    "DOI": "10.1136/jech-2015-205719",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a competing risks proportional hazards model, which is a type of quasi-experimental study with a control group. The study meets the geographic scope criteria as it is conducted in the EU. The study timeframe is within the specified range of 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and work-related factors. The population is people with mental disorders or documented mental health problems. The study presents measures of employment or labor results.",
+            "study_design": "Competing Risks Proportional Hazards Model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at promoting employment for people with mental health disorders. It focuses on the influence of chronic health problems and work-related factors on transitions from paid employment to disability benefits, unemployment, or early retirement.",
+            "study_design": "Cross-sectional study using a longitudinal follow-up design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on older workers with health problems, not specifically on people with mental health disorders. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

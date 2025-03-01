@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1963,
+    "Authors": "Tarchi, Livio; del Monaco, Francesco; Falcone, Diletta; Ballerini, Andrea; Ricca, Valdo; D'anna, Giulio",
+    "Article Title": "Does occupational status predict symptomatic remission in outpatients with schizophrenia treated with long-acting antipsychotics? A 6-month follow-up study",
+    "Abstract": "BACKGROUND: Long-acting injectable antipsychotics (LAIs) are a valuable resource in the treatment of schizophrenia. Their use in the optimization of clinically stable patients may be of clinical interest in a recovery-oriented approach, but a multi-dimensional intervention is necessary for an appropriate clinical management.METHODS: To evaluate predictors of symptomatic remission after six months (T1) of LAI treatment in 59 clinically stable outpatients with schizophrenia switched from oral antipsychotics at baseline (T0), the present study assessed socio-demographic data, clinical history, psychopathology (Positive and Negative Syndrome Scale for general symp-toms, Montgomery-Asberg Depression Rating Scale and Young Mania Rating Scale for affective symptoms), and patient -reported experience of treatment (Subjective Well-Being under Neuroleptics Short Form). The mediation and moderation effects of the occupational status were evaluated through pathway analysis. RESULTS: Employment had a significant effect on remission at T1, even when accounting for the remission status at T0. A causal mediation model estimated through bootstrapping seemed to confirm mediation by the occupational status. In clinically stable patients with schizophrenia, employment predicts symptomatic remission, irrespective of baseline psychopathology.CONCLUSIONS: This reinforces the importance of multidimensional assessment and intervention to optimize treatment.",
+    "DOI": "10.23736/S2724-6612.21.02293-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the effect of occupational status on symptomatic remission in outpatients with schizophrenia treated with long-acting antipsychotics.",
+            "study_design": "Cross-sectional follow-up study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia and LAI treatment, which does not align with the specified interventions for employment policies in the given inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

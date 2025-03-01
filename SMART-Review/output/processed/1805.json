@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1805,
+    "Authors": "Schuler, Michael; Gerlich, Christian; Leven, Lorenz; Renz, Silvan; Pamperin, Ina; Vorsatz, Nadine; Vogel, Heiner",
+    "Article Title": "The Blaufeuer measure for employees with mental stress and simultaneous workplace problems-Is the target group being reached?",
+    "Abstract": "BackgroundEmployees with mental burden and simultaneous workplace problems have an increased risk of chronification and disability pension. To support this group of people, the German Pension Insurance (Deutsche Rentenversicherung Bund) developed the Systemic Integration Management for People with Mental Impairments (SEMpsych) project as part of the rehapro federal program. The Blaufeuer counselling service was implemented in three model regions (Berlin, Cologne, and Nuremberg). The measure usually comprises up to 12 counselling sessions in 12 months. This article describes the characteristics of the participants and examines whether they belong to the intended target group. MethodDuring September 2020 and June 2022, the participants completed a questionnaire between the first and second counselling sessions. Socio-demographic-, clinical- and work-related variables were assessed. The data were analysed using descriptive statistics and 95% confidence intervals. ResultsData from n = 482 participants (66.4% female; MAge = 45.2 years (+/- 10.2 years); 64.1% working full-time; 49.8% currently on sick leave) were included. The participants have high psychological impairments (e.g. PHQ-9: M = 14.6 (+/- 5.4)) and low subjective work ability (e.g. WAS: M = 3.2 (+/- 2.6)). Most participants report overload at work and problems with superiors. DiscussionParticipants exhibit mental burden values that correspond to those of patients at the beginning of outpatient psychotherapy or the first contact in an inpatient psychiatric clinic. Blaufeuer addresses a highly stressed group of people who have not yet received adequate treatment. Further studies on process and outcome evaluation will follow.",
+    "DOI": "10.1007/s00103-024-03907-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a descriptive analysis of questionnaire data from participants, which meets the inclusion criteria for a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and does not directly address employment outcomes. It focuses on describing the characteristics of participants in relation to their mental health status and work-related issues, but it does not evaluate interventions that lead to employment or labor outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions directly related to employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        }
+    }
+}

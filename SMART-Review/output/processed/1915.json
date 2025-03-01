@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1915,
+    "Authors": "Juvani, Anne; Oksanen, Tuula; Salo, Paula; Virtanen, Marianna; Kivimaki, Mika; Pentti, Jaana; Vahtera, Jussi",
+    "Article Title": "Effort-reward imbalance as a risk factor for disability pension: the Finnish Public Sector Study",
+    "Abstract": "Objectives Job strain has previously been shown to predict disability pension, but it is unknown whether effort-reward imbalance (ERE), another major stress model, is also associated with disability pension.Methods We examined ERI as a risk factor for diagnosis-specific disability pension in a cohort of 51 874 public-sector employees in Finland. To control for reporting bias, work unit-level scores of EM (based on the survey responses of 35 260 employees in 2000-2002) were constructed and linked to all eligible employees. A sub-cohort of the respondents was analyzed also with individual-level EM. Disability pension data were derived from national pension registers with no loss to follow-up. The outcomes were all-cause disability pension and disability pension due to depression, musculoskeletal diseases, and ischemic heart diseases (IHD). Multivariate Cox proportional hazard models (adjusted for sociodemographic factors, baseline health, and work-related characteristics) were used for analyses.Results During a mean 8.9 years of follow-up, 4542 participants were granted disability pension. An increased risk for disability pension due to depression was detected for both high work unit- and individual-level EM [hazard ratio (HR) 1.63, 95% confidence interval (95% CI) 1.31-2.04 and HR 1.90, 95% CI 1.51-2.40, respectively]. High individual-level EM increased the risk of disability pension due to musculoskeletal diseases (HR 1.32, 95% CI 1.13-1.53), but no association was observed for work unit-level EM (HR 1.02, 95% CI 0.88-1.19). ERI was not associated with disability pension due to IHD.Conclusion The present study showed a consistent association between high ERI and an increased risk of disability pension due to depression.",
+    "DOI": "10.5271/sjweh.3402",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort study with a control group, meeting the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025), and it addresses employment outcomes for people with mental health disorders.",
+            "study_design": "Cohort study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address interventions related to employment policies for people with mental health disorders. It focuses on the association between effort-reward imbalance and disability pension in a Finnish cohort.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on disability pension due to mental health disorders, which is not one of the specified interventions in the inclusion criteria.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

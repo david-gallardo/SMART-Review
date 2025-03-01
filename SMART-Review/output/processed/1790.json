@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1790,
+    "Authors": "Rocca, P.; Montemagni, C.; Mingrone, C.; Crivelli, B.; Sigaudo, M.; Bogetto, F.",
+    "Article Title": "A cluster-analytical approach toward real-world outcome in outpatients with stable schizophrenia",
+    "Abstract": "Background: This study aims to empirically identify profiles of functioning, and the correlates of those profiles in a sample of patients with stable schizophrenia in a real-world setting. The second aim was to assess factors associated with best profile membership.Methods: Three hundred and twenty-three outpatients were enrolled in a cross-sectional study. A two-step cluster analysis was used to define groups of patients by using baseline values for the Heinrichs-Carpenter Quality of Life Scale (QLS) total score. Logistic regression was used to construct models of class membership.Results: Our study identified three distinct clusters: 50.4% of patients were classified in the moderate cluster, 27.9% in the poor cluster, 21.7% in the good cluster. Membership in the good cluster versus the poor cluster was characterized by less severe negative (OR = .832) and depressive symptoms (OR = .848), being employed (OR = 2.414), having a long-term relationship (OR = .256), and treatment with second-generation antipsychotics (SGAs) (OR = 3.831). Nagelkerke R-2 for this model was .777.Conclusions: Understanding which factors are associated with better outcomes may direct specific and additional therapeutic interventions, such as treatment with SGAs and supported employment, in order to enhance benefits for patients, as well as to improve the delivery of care in the community. (C) 2015 Elsevier Masson SAS. All rights reserved.",
+    "DOI": "10.1016/j.eurpsy.2015.11.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (specifically supported employment) or outcomes (employment rates).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and is not a systematic review, meta-analysis, RCT, or quasi-experimental study.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1782,
+    "Authors": "Kteily-Hawa, R.; Khalifa, D. S.; Abuelaish, I",
+    "Article Title": "Resilience among a large sample of adult Palestinians in the Gaza Strip: examining contextual sociodemographic factors and emotional response through a social-ecological lens",
+    "Abstract": "Objectives: Palestinians in the Gaza Strip continue to cope with persistent violations of their social, economic, political, and civil rights. This study sought to measure resilience among adult Palestinians and its relation to contextual factors (sociodemographic variables) and emotional response using a socialecological framework.Study design: Community-based, cross-sectional.Methods: Involving 1068 households in the Gaza Strip, individuals (aged >= 18 years) completed (a) a questionnaire on demographics and social construct, (b) 25-item Connor-Davidson Resilience Scale (Cronbach alpha = .91), and (c) Positive and Negative Affect Schedule (PANAS) (Cronbach alpha = .89). Bivariate analysis, Pearson correlations, and step-wise multiple regression were conducted.Results: Gazans scored significantly lower resilience compared to the normative mean in the general population (mean score = 75.9 vs. 80.4). Bivariate analysis revealed that being employed and highly educated were associated with higher resilience scores. Likewise, participants showed statistically lower positive affects (PA) (mean = 33.49, standard deviation [SD] = 7.5: 95% confidence interval [CI] 2.39 -1.23, P < 0.00) and higher negative affects (NA) (mean = 22.3, SD = 7.0; 95% CI 3.68-4.73, P < 0.001) compared to normative means. Resilience scores were positively correlated with PA (r = .40, P < 0.001), with much weaker negative correlation with NA (r = -.10, P < 0.001). Only PA and NA were significant predictors of resilience (r(2) = 16%); PA recorded a positive and higher beta value (beta = .38, P < 0.001) than NA (beta = -.089, P = 0.017).Conclusions: Sumud, the Palestinian notion of resilience, is an interactive process that depends on individual assets and contextual resources. Given the political turmoil and high levels of poverty, the employment opportunities must be addressed for this highly educated population to preserve resilience. Providing accessible mental health and social support services is critical. Crown Copyright (C) 2020 Published by Elsevier Ltd on behalf of The Royal Society for Public Health. All rights reserved.",
+    "DOI": "10.1016/j.puhe.2019.12.004",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is community-based and cross-sectional, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Community-based, cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on resilience among Palestinians in the Gaza Strip without directly addressing people with mental health disorders or employment outcomes.",
+            "study_design": "Community-based, cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

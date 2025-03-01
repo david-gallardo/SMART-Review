@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1744,
+    "Authors": "Unger, Stefanie; Tisch, Anita; Tophoven, Silke",
+    "Article Title": "Age and gender differences in the impact of labour-market transitions on subjective health in Germany",
+    "Abstract": "Aims: Applying a gender-and age group-sensitive approach, we investigated the effect of labour-market transitions (job loss and re-employment) on subjective physical and mental health. Methods: A combination of the difference-in-differences approach and propensity score matching controls for selectivity and initial health differences. This allowed us to analyse the causal effect of job loss and re-employment on subjective health. We made use of data from the German Panel Study Labour Market and Social Security and combined survey information with administrative records of the Federal Employment Agency for employed and unemployed men and women 31-60 years of age (n = 2213). We controlled for labour-market experiences before the time period under study and for labour-market transitions between the interviews. Subjective health was assessed using the SF-12 health questionnaire, enabling us to differentiate between subjective mental and physical health functioning. Results: We found that physical health was affected mainly in older persons between 45 and 60 years old. Controlling for covariates using propensity score matching, mental health was affected only when living-wage jobs (i.e. jobs that provide sufficient income to achieve a defined minimum standard of living above the social benefit level) are gained or lost. Younger women showed a significant improvement in mental health after re-employment. In contrast, job loss affected only older individuals' mental health, with a particularly negative effect observed for men. Conclusions: Our results not only showed that women and men are affected differently by job loss and re-employment, but also that age is an important factor. Older men were affected most severely by job loss, whereas re-employment was found to improve mental health only in women aged 31-44 years. It is therefore important to address the health problems of different socio-demographic groups separately, and to apply active labour-market policies with regard to unemployed men and women with health impairments. Based on our results, we suggest the promotion of employment with income levels above the maximum welfare benefit award.",
+    "DOI": "10.1177/1403494817738430",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a combination of the difference-in-differences approach and propensity score matching controls, indicating a rigorous evaluation. The study includes a control group and presents measures of employment outcomes.",
+            "study_design": "RCT (including cluster RCT) and quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the impact of labor-market transitions on subjective health without addressing specific employment policies.",
+            "study_design": "Propensity score matching and difference-in-differences approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes but rather on subjective health outcomes following labor-market transitions. It also does not directly address interventions aimed at employment.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address any of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

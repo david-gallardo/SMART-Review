@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1899,
+    "Authors": "Charlson, Mary; Wells, Martin; Devine, Carol M.; Watts, Jerome; Ramos, Rosio; Hollenberg, James; Winston, Ginger; Phillips, Erica; Wethington, Elaine",
+    "Article Title": "Interval life events are an important determinant of heterogeneity in outcomes in a randomised trial: a novel, simple method of assessment",
+    "Abstract": "Objective Although life events are clearly important to health, most of the scientific focus has been on baseline life events that occur prior to a study. Life events that occur after enrolment, that is, interval life events, have had almost no attention. The aim of this analysis of data was to develop a method for measuring interval life events that could be used in clinical trials and other longitudinal studies. Design Small Changes and Lasting Effects (SCALE) was a 12-month weight-loss randomised controlled trial (RCT). This was an analysis of the SCALE follow-up data. Setting Healthcare networks, outpatient clinics and community churches in the South Bronx and Harlem areas of New York City. Participants Overweight black and Latino adults. This analysis focuses on the 330 of the 405 patients who had >4 weeks of follow-up with at least one perceived stress score (PSS). Intervention The SCALE RCT was published elsewhere and involved positive affect and self-affirmation to increase behaviour change. Outcome 5% weight loss. Follow-up Over 12 months, up to 27 follow-ups were conducted that evaluated interval life events, eating and physical activity behaviour, weight and perceived stress. During these follow-ups, participants were asked two open-ended questions to capture interval life events. The interval life events were qualitatively coded into categories. The interval life events categories were compared with interval monthly measures of perceived stress using the 4-item PSS scale. Results During the interval follow-ups for the RCT, 70.6% of the 330 patients reported at least one interval life event, which occurred during a median of 15 follow-ups (95% CI: 5 to 24). The median number of interval events was 2 (95% CI: 0 to 8): 30.6% reported their own illness; 22%, death or bereavement; 21.8%, illness in the family and 13.1%, family conflicts. The mean perceived stress score (PSS-4) assessed over the year of follow-up was 3.2 +/- 2.7. Mean perceived stress (PSS-4) increased, especially for interval financial events, major conflict with a partner and unemployment, but by less for deaths, family illness and family conflict. Participants with the most interval life events had the greatest increase in interval perceived stress (p<0.0001). Of note, neither high baseline perceived stress (PSS-10 >20) nor baseline depression (Patient Health Questionnaire-9 >10) were associated with higher interval life events (p>0.05); but those with lower social support had more events. However, those with either depression or stress had higher interval stress responses. Most participants had neither baseline nor interval events, and the percentage with both was small so that baseline events did not predict subsequent perceived stress. Conclusions This method provides a straightforward method of assessing interval life events, by asking two open-ended questions, that can be coded in a simple categorical framework. Such events can affect outcomes in longitudinal studies and trials in part by increasing perceived stress. This framework moves beyond the events identified as important in the 1950s and recognises that specific life events may have significantly different life impacts in different individuals.",
+    "DOI": "10.1136/bmjopen-2023-074623",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention does not involve job search services, adult training, wage subsidies, or supported employment. It focuses on weight loss through a randomized controlled trial involving positive affect and self-affirmation.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

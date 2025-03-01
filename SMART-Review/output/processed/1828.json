@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1828,
+    "Authors": "John, A.; Ayres, H.; Chalmers, M.",
+    "Article Title": "ENHANCING SUPPORTED EMPLOYMENT PROGRAMME FOR PEOPLE WITH SEVERE MENTAL ILLNESS WITH COGNITIVE TRAINING",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified in the abstract and lacks rigorous evaluation criteria.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not provide enough information to determine if the study includes a control group or presents measures of employment or labor results.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

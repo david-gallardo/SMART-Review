@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1957,
+    "Authors": "Pelizza, L.",
+    "Article Title": "Individual placement and support in young people with severe mental illness: an Italian experience",
+    "Abstract": NaN,
+    "DOI": "10.1192/j.eurpsy.2022.1934",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is Italy which is not within the EU, Europe, US, Canada, or Australia.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1755,
+    "Authors": "Pinker, Veronika; Brandstetter, Susanne; Tischer, Christina; Seelbach-Goebel, Birgit; Melter, Michael; Kabesch, Michael; Apfelbacher, Christian",
+    "Article Title": "Determinants of maternal health four weeks after delivery: cross-sectional findings from the KUNO-kids health study",
+    "Abstract": "Background The aim of this study was to examine the interaction of a multitude of socio-economic, lifestyle, environmental, psychosocial and birth related determinants and their effect on maternal health four weeks after delivery. Methods We used data from a German birth cohort study, the KUNO-Kids health study. Social determinants, as well as the self-rated maternal health and the physical and mental health status of mothers (indicated by means of the SF-12-questionnaire) were assessed through standardized questionnaires and personal interviews right after delivery and four weeks later. Linear regression models were calculated to determine the relationship between influencing factors and health outcomes. Results 1428 women were included in the analysis. Maternal self-rated health showed significant positive associations with breastfeeding (B (regression coefficient) 2.67; 0.86-4.48 (95% Confidence interval)) and estimating one's child as rather healthy (B 0.27; 0.19-0.34) and negative associations with social and emotional strains (B -3.50; -5.11- -1.88), obesity (B -2.56; -4.69- -0.42), having experienced a C-section (B -1.73; -3.23- -0.23), a positive history of somatic diseases (B -2.14; -3.53- -0.74), parental stress (B -0.39; -0.66- -0.11) and education of more than ten years (B -2.42; -3.95- -0.90). Maternal physical health status showed significant negative associations with age (B -0.13; -0.25- -0.01), employment before maternity leave (B -1.90; -3.59- -0.21), social and emotional strains (B -1.50; -2.67- -0.34), parental stress (B -0.28; -0.45- -0.12), C-section (B -4.06; -5.12- -2.99), having the first child (B -2.03; -3.09- -0.97) and a history of somatic diseases (B -2.00; -2.99- -1.01). Maternal mental health status showed significant positive associations with education of more than 10 years (B 2.27; 0.98-3.56) and a high level of social support (B 1.20; 0.06-2.34), while social and emotional strains (B -4.16; -5.48- -2.84) and parental stress (B -0.70; -0.92- -0.47) were negatively associated. Conclusions We identified important protective factors for maternal health four weeks after delivery, such as a high level of social support. However, parental stress and social and emotional strains in particular seem to have a negative influence on maternal health. These findings have public health relevance.",
+    "DOI": "10.1186/s12889-021-11667-y",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on maternal health rather than people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on maternal health four weeks after delivery. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on maternal health post-delivery and does not meet the specified inclusion criteria for interventions targeting employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

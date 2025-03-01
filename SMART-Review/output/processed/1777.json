@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1777,
+    "Authors": "Busch, Susan H.; Tomaino, Marisa; Newton, Helen; Meara, Ellen",
+    "Article Title": "Access to mental health support services in Accountable Care Organizations: A national survey",
+    "Abstract": "Patients with serious mental illness often lack access to mental health support services. Whether new payment models facilitate access to these services is unknown. We conducted a national survey of accountable care organizations(ACOs) and find that fewer than 50% of ACOs surveyed reported that they have the ability to offer or refer patients to supported employment, family psychoeducation, assertive community treatment and illness, management and recovery services. These findings suggest that even among organizations that are early adopters of payment and delivery reforms - those most likely to lead innovations in population health - access to these services is limited.",
+    "DOI": "10.1016/j.hjdsi.2022.100613",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a national survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks measures of employment or labor outcomes.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on access to mental health support services in ACOs and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "National survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "National survey",
+            "logprobs": null
+        }
+    }
+}

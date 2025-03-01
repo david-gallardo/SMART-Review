@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1621,
+    "Authors": "Reddy, L. Felice; Llerena, Katiah; Kern, Robert S.",
+    "Article Title": "Predictors of employment in schizophrenia: The importance of intrinsic and extrinsic motivation",
+    "Abstract": "Unemployment is a primary functional deficit for the majority of adults with schizophrenia. Research indicates that over two-thirds of adults living in the community with schizophrenia are unemployed. Despite effective programs to assist with job identification and placement, the ability to attain and maintain employment remains a pressing concern. A contributing factor that may be relevant but has received little attention in the work rehabilitation literature is motivation. People with schizophrenia show marked deficits in both intrinsic and extrinsic motivation but these deficits have not been directly examined in relation to work outcomes. The present study sought to examine the relationship between intrinsic and extrinsic motivation and work outcome among a sample of 65 adults with schizophrenia enrolled in a supported employment program. One-third of the participants in the study obtained work. Intrinsic motivation related to valuing and feeling useful in a work role significantly predicted who would obtain employment. Extrinsic motivation related to gaining rewards and avoiding obstacles showed a non-significant trend-level relationship such that workers had higher extrinsic motivation than non workers. These findings highlight the importance of considering both intrinsic and extrinsic motivation in work-related interventions and supported employment for individuals with schizophrenia. The results are discussed in terms of clinical implications for improving rehabilitation and occupational outcomes in schizophrenia. Published by Elsevier B.V.",
+    "DOI": "10.1016/j.schres.2016.08.006",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, specifically schizophrenia, and the outcomes include employment rates.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation as it does not include a control group and is an observational study examining intrinsic and extrinsic motivation in relation to employment outcomes among individuals with schizophrenia. It does not meet the inclusion criteria for intervention studies.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, focuses on supported employment for people with schizophrenia, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

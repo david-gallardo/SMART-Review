@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1690,
+    "Authors": "Alberdi, Ane; Aztiria, Asier; Basarab, Adrian",
+    "Article Title": "Towards an automatic early stress recognition system for office environments based on multimodal measurements: A review",
+    "Abstract": "Stress is a major problem of our society, as it is the cause of many health problems and huge economic losses in companies. Continuous high mental workloads and non-stop technological development, which leads to constant change and need for adaptation, makes the problem increasingly serious for office workers. To prevent stress from becoming chronic and provoking irreversible damages, it is necessary to detect it in its early stages. Unfortunately, an automatic, continuous and unobtrusive early stress detection method does not exist yet The multimodal nature of stress and the research conducted in this area suggest that the developed method will depend on several modalities. Thus, this work reviews and brings together the recent works carried out in the automatic stress detection looking over the measurements executed along the three main modalities, namely, psychological, physiological and behavioural modalities, along with contextual measurements, in order to give hints about the most appropriate techniques to be used and thereby, to facilitate the development of such a holistic system. (C) 2015 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.jbi.2015.11.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a review, but it does not address employment or labor outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and focuses on stress detection in office environments. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stress detection in office environments, which is not directly related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

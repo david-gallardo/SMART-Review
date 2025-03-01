@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1824,
+    "Authors": "Montano, Diego",
+    "Article Title": "Supervisor behaviour and its associations with employees' health in Europe",
+    "Abstract": "To estimate the magnitude of the associations between different facets of supervisor behaviour and several health-related outcomes, and to assess whether these associations are mediated by known occupational health factors.Cross-sectional data from the European Working Conditions Survey were analysed by generalised linear mixed models (n = 32,770). Six regression models were estimated. Dependent variables include musculoskeletal (upper body, lower limbs, backache) and psychosomatic symptoms (stress and self-assessed general health). Independent variables correspond to several facets of supervisor behaviours such as supervisor support, feedback on work, ability to solve conflicts, encouragement to participate in decisions, and known occupational risk and protective factors.Even though supervisor behaviour is mediated by several known occupational risk factors, it still accounts for a substantial proportion of explained variance. The order of magnitude of associations was comparable to the strength of associations of known occupational risk factors. Odds ratios vary from 0.79 95 % CI [0.73-0.86] to 1.12 95 % CI [0.97-1.29] for dichotomous dependent variables. Regression coefficients vary from -0.22 95 % CI [-0.28 to -0.17] to 0.07 95 % CI [0.04-0.10] for metric dependent variables. Results suggest that good conflict solving skills, supervisor's work-planning ability, and a participative leadership style have the strongest predictive power regarding all health-related outcomes considered.Supervisor behaviour seems to play a non-negligible role from an occupational health perspective concerning the prevalence of musculoskeletal and psychosomatic symptoms. Results suggest that supervisor behaviour should be routinely assessed and monitored, especially among occupational groups reporting a lower quality of supervisor behaviours.",
+    "DOI": "10.1007/s00420-015-1072-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the association between supervisor behavior and employee health outcomes in Europe.",
+            "study_design": "Cross-sectional analysis using generalized linear mixed models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on supervisor behaviour and its associations with employees' health, not directly on employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

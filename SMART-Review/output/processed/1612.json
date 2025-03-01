@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1612,
+    "Authors": "Florentin, Sharon; Neumark, Yehuda; Roe, David; Rosca, Paola; Keller, Shikma; Amir, Noa Yakirevich; Krivoy, Amir",
+    "Article Title": "The relationship between community-based psychiatric rehabilitation pathways and re-hospitalization trajectories: A three-decade follow-up",
+    "Abstract": "Psychiatric rehabilitation is essential for the recovery of individuals with schizophrenia. However, rehospitalization is sometimes inevitable. This study examined the association between varied community psychiatric rehabilitation services (PRS) and long-term re-hospitalization parameters. National registries provided data on 5163 adults diagnosed with schizophrenia and schizoaffective disorder. Patients with recurrent hospitalizations were tracked over three periods: before rehabilitation legislation (1991-2000), during rehabilitation implementation (2001-2009), and follow-up (2010-2017). Associations between PRS types and annual re-hospitalization days (ARHD) during follow-up were analyzed. Findings revealed that the rehabilitation group had a median time-to-readmission of 757 days, while the non- rehabilitation group had 321 days. Combined residential and vocational rehabilitation was associated with a 20- day decrease in ARHD, while residential or vocational rehabilitation alone were associated with reductions of 2 and 5 days, respectively. Higher levels of residential support were linked to reduced ARHD. Of the vocational rehabilitation types, supported-employment and sheltered-workshops showed association with the greatest reductions in ARHD (17 days). Overall, community-based PRS is linked to prolonged time-to-readmission and reduced re-hospitalization days. A combination of vocational and residential services is related to a synergistic decrease in rehospitalization days. This suggests that recurrent hospitalization for patients who are using PRS is shorter and may be part of their recovery pathway.",
+    "DOI": "10.1016/j.psychres.2024.116216",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental study without a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on re-hospitalization trajectories and psychiatric rehabilitation services.",
+            "study_design": "Observational study with registry data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychiatric rehabilitation and its impact on re-hospitalization rates in individuals with schizopsomeria and schizoaffective disorder, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

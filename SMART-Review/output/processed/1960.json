@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1960,
+    "Authors": "Liu, Yong; Greenlund, Kurt J.; VanFrank, Brenna; Xu, Fang; Lu, Hua; Croft, Janet B.",
+    "Article Title": "Smoking Cessation Among US Adult Smokers With and Without Chronic Obstructive Pulmonary Disease, 2018",
+    "Abstract": "Introduction: More than 3 of 5 U.S. adults who have ever smoked cigarettes have quit. This study assesses the latest estimates of smoking cessation among U.S. adults with and without chronic obstructive pulmonary disease who have ever smoked cigarettes (ever smokers).Methods: Data from 161,233 ever smokers (12.8% with chronic obstructive pulmonary disease) in the 2018 Behavioral Risk Factor Surveillance System were analyzed in 2020. Weighted percentages of quit ratios (percentage of ever smokers who quit smoking), past-year quit attempts (>= 1 day), and recent successful cessation (quit >= 6 months ago) by self-reported physician-diagnosed chronic obstructive pulmonary disease status were obtained from multivariable logistic regression analyses, with adjustment for sociodemographic characteristics, health risk behaviors, depression, and asthma.Results: Adults with chronic obstructive pulmonary disease who smoked had greater age-adjusted past-year quit attempts (68.8% vs 64.3%) but lower recent successful cessation (4.5% vs 5.8%) and quit ratio (53.2% vs 63.9%) than those without chronic obstructive pulmonary disease. After adjusting for covariates, adults with chronic obstructive pulmonary disease who smoked had a significantly higher percentage of past-year quit attempts but similar recent successful cessation and a significantly lower lifetime quit ratio than their counterparts without chronic obstructive pulmonary disease.Conclusions: These findings suggest that individuals with chronic obstructive pulmonary disease who try to quit smoking may be less likely to succeed than those without chronic obstructive pulmonary disease. Evidence-based treatments for smoking cessation remain an important component of a comprehensive approach to helping all adults to quit and are a particularly important element of chronic obstructive pulmonary disease management and care. Published by Elsevier Inc. on behalf of American Journal of Preventive Medicine.",
+    "DOI": "10.1016/j.amepre.2021.12.001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on smoking cessation among US adults with and without chronic obstructive pulmonary disease.",
+            "study_design": "Observational study (multivariable logistic regression analysis)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not involve job search services, adult training, wage subsidies, or supported employment. It focuses on smoking cessation among adults with chronic obstructive pulmonary disease.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on smoking cessation in adults with and without chronic obstructive pulmonary disease, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

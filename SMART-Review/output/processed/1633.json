@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1633,
+    "Authors": "Rosenheck, Robert A.; Estroff, Sue E.; Sint, Kyaw; Lin, Haiqun; Mueser, Kim T.; Robinson, Delbert G.; Schooler, Nina R.; Marcy, Patricia; Kane, John M.",
+    "Article Title": "Incomes and Outcomes: Social Security Disability Benefits in First-Episode Psychosis",
+    "Abstract": "Objective: Social Security Administration (SSA) disability benefits are an important source of income for people with psychoses and confer eligibility for health insurance. The authors examined the impact of coordinated specialty care on receipt of such benefits in first-episode psychosis, along with the correlates and consequences of receiving them.Method: The Recovery After an Initial Schizophrenia Episode Early Treatment Program (RAISE-ETP) study, a 34-site cluster randomized trial, compared NAVIGATE, a coordinated specialty care program, to usual community care over 2 years. Receipt of SSA benefits and clinical outcomes were assessed at program entry and every 6 months for 2 years. Piecewise regression analysis was used to identify relative change in outcome trajectories after receipt of disability benefits.Results: Among 399 RAISE-ETP participants, 36 (9%) were receiving SSA disability benefits at baseline; of the remainder, 124 (34.1%) obtained benefits during the 2-year study period. The NAVIGATE intervention improved quality of life, symptoms, and employment but did not significantly reduce the likelihood of receiving SSA disability benefits. Obtaining benefits was predicted by more severe psychotic symptoms and greater dysfunction and was followed by increased total income but fewer days of employment, reduced motivation (e.g., sense of purpose, greater anhedonia), and fewer days of intoxication.Conclusions: A 2-year coordinated specialty care intervention did not reduce receipt of SSA disability benefits. There were some advantages for those who obtained SSA disability benefits over the 2-year treatment period, but there were also some unintended adverse consequences. Providing income supports without impeding recovery remains an important policy challenge.",
+    "DOI": "10.1176/appi.ajp.2017.16111273",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized trial, which meets the inclusion criteria. The study is within the specified timeframe (2005-2025), and the intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Cluster Randomized Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention (coordinated specialty care) is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Cluster randomized trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on social security disability benefits.",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        }
+    }
+}

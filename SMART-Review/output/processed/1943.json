@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1943,
+    "Authors": "LePage, James P.; Crawford, April M.; Philippe, Michel",
+    "Article Title": "The Association Between Time Incarcerated and the Search for Employment in a Veteran Sample With Substance Use Disorders",
+    "Abstract": "Objective: Incarceration and substance use disorders/mental illness can have a significant negative impact on finding employment. However, it is unclear in what phase of the search for employment, that is, applying for jobs, obtaining interviews, being offered employment, does time incarcerated have the most effect. This study will determine how time incarcerated in the past 10 years is associated with negative job search process outcomes. Method: This study evaluates 84 (81 men and 3 women) veterans with substance use disorders and histories of felony convictions. Four path analyses were conducted to evaluate models that incorporated time incarcerated at the different phases. Results: The superior model incorporated time incarcerated negatively affecting the number of interviews obtained. Models that assessed the association between time incarcerated with applications submitted and likelihood of being offered employment did not demonstrate adequate goodness-of-fit. Conclusion and Implications for Practice: Overall, the findings demonstrate the ex-offenders enrolled exhibited similar effort in searching for employment across time incarcerated. Also, employers are equally likely to hire those with felony histories, regardless of the time incarcerated, once the applicant has been met and interviewed. The results highlight the need for services focusing on breaking down stigma and reducing barriers that screen out ex-offenders from being interviewed by employers.",
+    "DOI": "10.1037/prj0000322",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a path analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "path analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on veterans with substance use disorders and felony convictions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of incarceration on job search outcomes in individuals with substance use disorders.",
+            "study_design": "Path analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

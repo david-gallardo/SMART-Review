@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1602,
+    "Authors": "Zuelke, Andrea E.; Luck, Tobias; Schroeter, Matthias L.; Witte, A. Veronica; Hinz, Andreas; Engel, Christoph; Enzenbach, Cornelia; Zachariae, Silke; Loeffler, Markus; Thiery, Joachim; Villringer, Arno; Riedel-Heller, Steffi G.",
+    "Article Title": "The association between unemployment and depression-Results from the population-based LIFE-adult-study",
+    "Abstract": "Background: Unemployment is a risk factor for impaired mental health. Based on a large population-based sample, in this study we therefore sought to provide detailed information on the association between unemployment and depression including information on (i) differences between men and women, (ii) differences between different types of unemployment, and (iii) on the impact of material and social resources on the association.Methods: We studied 4,842 participants (18-65 years) of the population-based LIFE-Adult-Study. Depression was assessed using the Center for Epidemiological Studies Depression Scale. Employment status was divided into three groups: being employed, being unemployed receiving entitlement-based benefits, being unemployed receiving means-tested benefits. Multivariate logistic regression models were applied to assess the association between employment status and depression.Results: Statistically significantly increased depression risk was solely found for unemployed persons receiving means-tested benefits. Adjusting for differences in sociodemographic factors, net personal income and risk of social isolation, comparable associations of being unemployed and receiving means-tested benefits with elevated depression risk were found for men (Odds Ratio/OR = 2.17, 95%-CI = 1.03-4.55) and women (OR = 1.98, 95%-CI:1.22-3.20).Limitations: No conclusions regarding causality can be drawn due to the cross-sectional study design. It was not possible to assess length of unemployment spells.Conclusion: Unemployed persons receiving means-tested benefits in Germany constitute a risk group for depression that needs specific attention in the health care and social security system. The negative impact of unemployment on depression risk cannot be explained solely by differences in material and social resources. Contrasting earlier results, women are equally affected as men.",
+    "DOI": "10.1016/j.jad.2018.04.073",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which limits the ability to draw conclusions regarding causality.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design and does not include a control group. It is a cross-sectional study which does not meet the inclusion criteria for study design.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and depression without directly addressing employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

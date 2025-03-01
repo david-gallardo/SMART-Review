@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1731,
+    "Authors": "van Duin, Danielle; de Winter, Lars; Kroon, Hans; Veling, Wim; van Weeghel, Jaap",
+    "Article Title": "Effects of IPS plus cognitive remediation in early psychosis: 18-month functioning outcomes of a randomized controlled trial",
+    "Abstract": "Background: After a first episode of psychosis, cognitive impairments present an important barrier to successful (re-)entry into work and education. We assessed whether cognitive remediation (CR) as an add-on to Individual Placement and Support (IPS) can improve participation in regular employment and education.Method: Participants with early psychosis (N = 73) were randomly assigned to receive IPS supplemented with computerized CR, or IPS plus an active control intervention (computer games). The primary outcome was the number of hours spent in competitive employment or regular education, which was assessed every month during the 18-month study period. Secondary outcomes included employment rate, cognitive functioning, mental health (assessed at baseline, 6 and 18 months), and job duration (assessed after 18 months). Both patients and assessors were blind to treatment.Results: Participants receiving IPS + CR showed greater improvement of competitive employment over time in terms of hours worked (during follow-up period: 38.5 vs. 19.6 h, B = 2.94; Wald chi(2) = 5.39; P = .02) and employment rate (at T2: 62.1% vs. 25.9%, chi 2 = 7.39; df = 1; P = .008), compared with the IPS + control group, particularly in the longer term. The number of hours spent in regular education was lower in the IPS + CR group, with more participants having ended education for a positive reason. There was a significant beneficial effect of adjunctive CR for executive functioning, subjective cognitive functioning, and empowerment.Conclusions: Augmenting IPS with CR has a significant impact on competitive employment in people with early psychosis, with beneficial effects being more pronounced after 18 months.",
+    "DOI": "10.1016/j.schres.2021.07.025",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the EU (Europe) and within the specified timeframe (2005-2025). The intervention is IPS plus cognitive remediation, which addresses employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor results.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on cognitive remediation for early psychosis and does not specifically address job search services, adult training, wage subsidies, or supported employment. The population is people with early psychosis, which does not strictly meet the criteria of 'people with mental disorders or documented mental health problems' as specified in the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group, focuses on adults with mental health problems, and examines job-related outcomes. It is also within the specified timeframe and geographic scope.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that evaluates the impact of IPS plus cognitive remediation on employment outcomes for people with early psychosis.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

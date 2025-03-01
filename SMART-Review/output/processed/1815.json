@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1815,
+    "Authors": "Ki, Myung; Lee, Yo Han; Kim, Yong-Soo; Shin, Ji-Yeon; Lim, Jiseun; Nazroo, James",
+    "Article Title": "Socioeconomic inequalities in health in the context of multimorbidity: A Korean panel study",
+    "Abstract": "Socioeconomic inequalities in health are commonly known to decrease at late age. Yet, it remains unclear whether socioeconomic inequalities in health at late age appear in relation to multimorbidity, particularly in Korea where social support remains unsatisfactory for older people. Using three waves of Korea Health Panel, data of 19,942 observations with repeated measure were constructed to ensure a temporal sequence between three socioeconomic measures (i.e., poverty, employment status, and education) and multimorbidity with a t to t+1 year transition. A multilevel multinomial model was applied to quantify the socioeconomic impact across different age, diseases and disease groups, both separately and in combination. There were associations between socioeconomic position (SEP) and multimorbidity, and increasing trends of socioeconomic inequalities not only with greater number of morbidity but also with age. The latter result was only observed with employment status through mid-to-early old age; i.e., between the 40s (odds ratio (OR) = 2.45, 95% confidence interval (CI): 1.08-5.57) and 70s (OR = 3.48, 95% CI: 1.24-9.74). The patterns of socioeconomic inequalities in multimorbidity varied for particular pairs of diseases and were stronger in the disease pairs co-occurring with mental and cardiovascular diseases but weaker in the disease pairs co-occurring with cancer. Accumulation of adversity tended to intensify with increase in number of diseases and older age, though this finding was not consistently supported. The labour market should be encouraged to actively participate in actions to promote healthy aging needs to be complemented by the provision of more generous and universal income support to the elderly in Korea.",
+    "DOI": "10.1371/journal.pone.0173770",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on socioeconomic inequalities in health and multimorbidity.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia) and its intervention does not directly address employment.",
+            "study_design": "Cross-sectional panel study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, which is a key aspect of the inclusion criteria. The study is also not a systematic review or meta-analysis, and it does not include job search services, adult training, wage subsidies, or supported employment intervents.",
+            "study_design": "Panel study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and is conducted in Korea.",
+            "study_design": "Panel Study",
+            "logprobs": null
+        }
+    }
+}

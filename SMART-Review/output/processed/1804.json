@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1804,
+    "Authors": "Ornek, Ozlem Koseoglu; Esin, Melek Nihal",
+    "Article Title": "Effects of a work-related stress model based mental health promotion program on job stress, stress reactions and coping profiles of women workers: a control groups study",
+    "Abstract": "Background Work-related stress and its detrimental effects on human health have rapidly increased during the past several years. It causes many different stress reactions, related diseases and unhealthy behavior among workers, but especially women workers. Thus, the aim of this study was to examine the effects of the work-related stress model based Workplace Mental Health Promotion Programme on the job stress, social support, reactions, salivary immunoglobulin A and Cortisol levels, work absenteeism, job performance and coping profiles of women workers. Methods This study had a pre-test post-test non-equivalent control groups design and included 70 women workers (35 in each study group) selected by randomized sampling from two factories. The programme was delivered as an intervention including 12 weeks of follow-up. Reminder messages, videos, and WhatsApp texts were used at the follow-up stage. The research measurements were; the assessment form, the Brief Job Stress Questionnaire, the Brief Coping Profile Scale, salivary ELISA kits, and a self-reported check-list. Results There were no differences in sociodemographic characteristics, general health or working conditions between the Intervention and control groups(p > .05). Three months after the intervention, there was a significant decrease in job stress(p <= .001), physical and mental reactions' scores(p <= .001) and work absenteeism(p < .05), and there was an increase in job performance(p < .05), social support(p <= .001) among the intervention group. The programme showed positive effects on coping profiles(p < .05). After the intervention salivary-cortisol and IgA levels showed a statistically significant decrease(p < .05). A majority of effect sizes were very large (eta(2)(p) > .14). Conclusions Work-ProMentH was found to be effective and useful in job stress management and promotion of effective coping profiles. It enables its users to holistically assess worker stress and to plan and examine intervention programmes via a systematic approach. There is a need for more empirical studies that may support the data of the present study, but it is thought that the intervention can be maintained for the long-term. We recommend that occupational health professionals at workplaces should consider using this model-based cost-effective intervention, which seems easy and practical to apply in real-life situations.",
+    "DOI": "10.1186/s12889-020-09769-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a pre-test post-test non-equivalent control groups design, which meets the inclusion criteria. The study includes a control group and examines employment or labor outcomes such as job stress, work absenteeism, job performance, and coping profiles.",
+            "study_design": "pre-test post-test non-equivalent control groups design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on stress management and coping profiles of women workers.",
+            "study_design": "Quasi-experimental with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on general work-related stress and its effects on women workers, without a specific intervention targeting employment outcomes for people with mental health disorders.",
+            "study_design": "Control groups study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

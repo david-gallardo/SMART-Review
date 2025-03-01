@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1918,
+    "Authors": "Corrigan, Patrick W.; Talluri, Sai Snigdha; Shah, Binoy",
+    "Article Title": "Formal Peer-Support Services That Address Priorities of People With Psychiatric Disabilities: A Systematic Review",
+    "Abstract": "Formal peer-support services are provided by people with shared lived experience of serious mental illness and recovery to help others with psychiatric disabilities address their priorities in, among other things, transitioning from hospitals, dealing with physical health, and illness management/recovery. This article summarizes a systematic review of the impact of formal peer services on these priorities. We used PRISMA Guidelines to review the existing research literature from 1995 to 2020; the first wave of our review yielded 424 studies which were then reduced to 68 quantitative investigations included for coding and syntheses. A graph of the trajectory of published articles per 5-year period showed a steady increase up to 2015 when the frequency of studies then leveled out. Using randomized controlled trials (RCTs) as one index of design quality, we found more than two-thirds of studies included an RCT. We used inferential analyses based on primary impact as defined by hypotheses as outcome indicator. Four of 68 studies suggested iatrogenic effects of peer services related to hospitalization, physical quality of life, and employment. A frequency of significant positive benefits for outcome ranged from 46.2% to 100% of findings. Future research should seek to identify personal-level factors that indicate greater benefits for peer support; this provides direction for tailoring the intervention. Personal-level variables include the role of diversity and social disadvantage in the benefits of formal peer-support programs.",
+    "DOI": "10.1037/amp0001039",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a systematic review of controlled trials (RCTs) with a control group.",
+            "study_design": "Systematic review of RCTs with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on formal peer-support services and their impact on priorities such as transitioning from hospitals, dealing with physical health, and illness management/recovery.",
+            "study_design": "Systematic review of quantitative investigations",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes as its primary measure.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

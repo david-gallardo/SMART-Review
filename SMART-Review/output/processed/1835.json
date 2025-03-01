@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1835,
+    "Authors": "Gammon, Deede; Strand, Monica; Sofie, Lillian; Borosund, Elin; Varsi, Cecilie; Ruland, Cornelia",
+    "Article Title": "Shifting Practices Toward Recovery-Oriented Care Through an E-Recovery Portal in Community Mental Health Care: A Mixed-Methods Exploratory Study",
+    "Abstract": "Background: Mental health care is shifting from a primary focus on symptom reduction toward personal recovery-oriented care, especially for persons with long-term mental health care needs. Web-based portals may facilitate this shift, but little is known about how such tools are used or the role they may play in personal recovery.Objective: The aim was to illustrate uses and experiences with the secure e-recovery portal ReConnect as an adjunct to ongoing community mental health care and explore its potential role in shifting practices toward recovery.Methods: ReConnect was introduced into two Norwegian mental health care communities and used for 6 months. The aim was to support personal recovery and collaboration between service users and health care providers. Among inclusion criteria for participation were long-term care needs and at least one provider willing to interact with service users through ReConnect. The portal was designed to support ongoing collaboration as each service user-provider dyad/team found appropriate and consisted of (1) a toolbox of resources for articulating and working with recovery processes, such as status/goals/activities relative to life domains (eg, employment, social network, health), medications, network map, and exercises (eg, sleep hygiene, mindfulness); (2) messaging with providers who had partial access to toolbox content; and (3) a peer support forum. Quantitative data (ie, system log, questionnaires) were analyzed using descriptive statistics. Qualitative data (eg, focus groups, forum postings) are presented relative to four recovery- oriented practice domains: personally defined recovery, promoting citizenship, working relationships, and organizational commitment.Results: Fifty-six participants (29 service users and 27 providers) made up 29 service user-provider dyads. Service users reported having 11 different mental health diagnoses, with a median 2 (range 1-7) diagnoses each. The 27 providers represented nine different professional backgrounds. The forum was the most frequently used module with 1870 visits and 542 postings. Service users' control over toolbox resources (eg, defining and working toward personal goals), coupled with peer support, activated service users in their personal recovery processes and in community engagement. Some providers (30%, 8/27) did not interact with service users through ReConnect. Dyads that used the portal resources did so in highly diverse ways, and participants reported needing more than 6 months to discover and adapt optimal uses relative to their individual and collaborative needs.Conclusions: Regardless of providers' portal use, service users' control over toolbox resources, coupled with peer support, offered an empowering common frame of reference that represented a shift toward recovery- oriented practices within communities. Although service users' autonomous use of the portal can eventually influence providers in the direction of recovery practices, a fundamental shift is unlikely without broader organizational commitments aligned with recovery principles (eg, quantified goals for service user involvement in care plans).",
+    "DOI": "10.2196/jmir.7524",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed-methods exploratory study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is the e-recovery portal ReConnect, which addresses employment. The population is people with mental health disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Mixed-methods exploratory study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental) and does not have a control group. The intervention is focused on an e-recovery portal rather than job search services, adult training, wage subsidies, or supported employment. Additionally, while it addresses mental health care needs, it does not specifically focus on employment outcomes.",
+            "study_design": "Mixed-Methods Exploratory Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

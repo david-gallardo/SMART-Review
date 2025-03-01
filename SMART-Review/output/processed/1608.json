@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1608,
+    "Authors": "Fleischmann, Maria; Xue, Baowen; Head, Jenny",
+    "Article Title": "Mental Health Before and After Retirement-Assessing the Relevance of Psychosocial Working Conditions: The Whitehall II Prospective Study of British Civil Servants",
+    "Abstract": "Objectives Retirement could be a stressor or a relief. We stratify according to previous psychosocial working conditions to identify short-term and long-term changes in mental health.Method Using data from the Whitehall II study on British civil servants who retired during follow-up (n = 4,751), we observe mental health (General Health Questionnaire [GHQ] score) on average 8.2 times per participant, spanning up 37 years. We differentiate short-term (0-3 years) and long-term (4+ years) changes in mental health according to retirement and investigate whether trajectories differ by psychosocial job demands, work social support, decision authority, and skill discretion.Results Each year, mental health slightly improved before retirement (-0.070; 95% CI [-0.080, -0.059]; higher values on the GHQ score are indicative of worse mental health), and retirees experienced a steep short-term improvement in mental health after retirement (-0.253; 95% CI [-0.302, -0.205]), but no further significant long-term changes (0.017; 95% CI [-0.001, 0.035]). Changes in mental health were more explicit when retiring from poorer working conditions; this is higher psychosocial job demands, lower decision authority, or lower work social support.Discussion Retirement was generally beneficial for health. The association between retirement and mental health was dependent on the context individuals retire from.",
+    "DOI": "10.1093/geronb/gbz042",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (UK) within the specified timeframe (2005-2025). The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on mental health changes before and after retirement without examining specific active employment policies.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or policies aimed at employment for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective Study",
+            "logprobs": null
+        }
+    }
+}

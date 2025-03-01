@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1689,
+    "Authors": "Wang, Shr-Jie; Bytyci, Ardiana; Izeti, Selvi; Kallaba, Melita; Rushiti, Feride; Montgomery, Edith; Modvig, Jens",
+    "Article Title": "A novel bio-psycho-social approach for rehabilitation of traumatized victims of torture and war in the post-conflict context: a pilot randomized controlled trial in Kosovo",
+    "Abstract": "Background: Some evidence showed that multidisciplinary rehabilitation in Western countries is effective for treating war-related trauma, but it remains unclear whether this approach is applicable to civilians living in resource-poor countries affected by war. In 2012-14, Danish Institute against Torture (DIGNITY) conducted a randomized controlled trial (RCT), in partnership with Kosova Rehabilitation Centre for Torture Victims (KRCT), to examine the effects of multidisciplinary intervention among victims of torture and war in Kosovo.Methods: A single-center, randomized, parallel-arm, single-masked, waiting-list controlled trial was implemented in northern Kosovo. Thirty-four participants meeting the recruiting criteria were randomized to either intervention group, which received integrated treatments plus a once-daily multivitamin, or the waiting list group, which received multivitamin alone. The integrated treatments consisted of 10 weekly individual 60-min sessions of cognitive behavioral therapy (CBT), based on an adapted prolonged exposure therapy manual, an individual 20-min breathing exercise with an emWave biofeedback device, and 90-min group physiotherapy. The waiting list group also received the same treatment after the intervention group had completed their sessions. Outcome assessments were conducted at 3, 6 and 9 months after baseline assessment. Outcomes measures consisted of 4 subtypes: mental, emotional, physical health, functioning and social outcomes, i.e. PTSD, depression, anxiety, chronic pain, anger and hatred expression, body mass index, handgrip strength, standing balance, income, employment rate and disability score.Results: Over 1/3 of PTSD cases were successfully treated. Inconsistent patterns with mental health and chronic pain outcomes were observed while there was a definite impact of intervention on functioning and social outcomes, i.e. the employment rate, which increased nearly 15 %, and the monthly wage, which rose 45-137 %. There was also a noticeable improvement in handgrip strength and disability score; the feelings of anger and hatred diminished. However, most of these changes did not reach statistical significance.Conclusions: The impact of bio-psycho-social intervention is likely sensitive to the context of post-war economy in Kosovo and the treatment goals. The potential for improving the emotional well-being and employment outcome in victims was demonstrated. A larger scale RCT in a similar setting is needed, with close monitoring of treatment integrity and data reliability.",
+    "DOI": "10.1186/s13031-016-0100-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a single-center, randomized, parallel-arm, single-masked, waiting-list controlled trial, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "single-center, randomized, parallel-arm, single-masked, waiting-list controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It focuses on the rehabilitation of victims of torture and war trauma using a bio-psycho-social approach.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment or labor outcomes, but rather on the rehabilitation of torture victims in a post-conflict setting.",
+            "study_design": "RCT",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study was conducted outside the specified geographic scope (Kosovo).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

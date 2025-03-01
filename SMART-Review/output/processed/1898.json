@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1898,
+    "Authors": "Healy, John; Clarke, Madeleine",
+    "Article Title": "Implementing choice-based models of social service: The importance of involving people who use services in reform processes",
+    "Abstract": "This article focuses on the opportunities and challenges of introducing choice-based models of social services. Research has found that these models often provide better outcomes and are cost-effective, but the pace of their introduction is generally slow. There are often very deeply held assumptions about the capacity of the people using these services and the potential for change within the existing social service system. Using institutional and social movement theory, the authors seek to explain these barriers to change. Drawing on the experience of supporting the national roll-out of choice-based models in Ireland, the authors propose a number of strategies to accelerate the introduction of these types of models into social services. The authors find that one of the key ways to accelerate reform and reduce transition costs is design processes which have the voice of service users at the centre of the reform process.",
+    "DOI": "10.2478/admin-2020-0030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on social service models and the involvement of service users in reform processes.",
+            "study_design": "Qualitative analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specified as people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1789,
+    "Authors": "Eklund, Mona; Jansson, Jan-Ake; Eklund, Lisa; Pooremamali, Parvin; Gunnarsson, A. Birgitta",
+    "Article Title": "Work experiences, resources, and beliefs among vulnerable subgroups of mental health care users",
+    "Abstract": "BACKGROUND: People with mental illness may have difficulties related to work and employment, especially if they experience additional difficult life situations.OBJECTIVE: To explore how subgroups with mental illness and additional adversities perceived their situation with respect to work and employment prospects.METHODS: Three subgroups were included, exposed to an additional difficult life situation: i) psychosis interrupting their career development at young age (n = 46), ii) having a history of substance use disorder (SUD) ( = 57) or iii) having recently immigrated (n = 39). They responded to questionnaires addressing sociodemographics, work-related factors, everyday activity, and well-being. A professional assessed their level of functioning and symptom severity.RESULTS: The young people with psychosis had a low education level, little work experience, the poorest worker role resources, and a low level of functioning, but a high quality of life. The SUD group had the fewest work experiences, were the least satisfied with work experiences, and had the lowest activity level, but had the least severe psychiatric symptoms. The immigrant group had severe psychiatric symptoms, but high ratings on work experiences, work resources, and activity level.CONCLUSIONS: Each group presented unique assets and limitations pertaining to work and employment, suggesting that they also needed unique support measures.",
+    "DOI": "10.3233/WOR-213559",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and the intervention is not specified. It focuses on perceptions and experiences rather than employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of the interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

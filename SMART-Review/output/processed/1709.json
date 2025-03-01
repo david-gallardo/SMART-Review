@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1709,
+    "Authors": "Haeny, Angela M.; Chowdhary, Aishwarya; King, Jaelen; Sypher, Isaiah; O'Malley, Stephanie S.; Sinha, Rajita",
+    "Article Title": "A thematic analysis of stress, substance-cue, and neutral/relaxing events to inform approaches for improving treatment among Black adults who use substances",
+    "Abstract": "Introduction: To inform approaches for adapting substance use treatment for Black adults, the aim of this study was to thematically analyze the stressors, triggers for substance use, and neutral/relaxing events reported among Black adults who participated in a lab paradigm.Methods: The sample included 36 Black adults (mean age [years] = 37.47, SD = 7.30; 53 % male, 12 (33 %) with alcohol use disorder, 12 (33 %) with cocaine use disorder, and 12 (33 %) healthy controls). All participants provided detailed stimulus and response context information on the most stressful event they experienced in the past year, an event that involved substance use, and a neutral/relaxing event in a structured interview using a scene development questionnaire, and this information was utilized to generate a personalized imagery script for each event using standardized procedures. Thematic analyses identified the key themes reported within scripts.Results: Consistent with a prior thematic analysis on a majority White sample, we found the following themes for the stress scripts: Relational (Violation, Loss, Parenting, Betrayal, Isolation vs. support), Environmental (Housing, Legal), and Achievement (Employment, Role in household). However, our analyses also resulted in new stress themes: Relational (Violation-Racial Microaggressions) and Institutional (Time Wasted). The substance use scripts consisted of the following trigger themes: Social (Social Facilitation, Socially-Sanctioned Substance Use Event, Exposure to Substance Use Friends/Associates), Internal (Free Time, Boredom, Thoughts of Using Substance, Frustration, Reward), and Environment (Availability of Substance, Celebration, Party Environment, Food, Hot Day, Money/Payday). The neutral/relaxing scripts themes were: Outdoor Activities (Admiring Nature, People Watching, Observing Surroundings, Enjoying the Sun, Playing in the Sand, Walking), Quiet Activities (Silence/Quiet, Prayer, Reading), and Indoor Activities (Radio, Television, Bath/Shower, Bed/Chair, Observing from a Window). We found sex differences across scripts. Conclusions: The results suggest that Black people experience unique stressors (e.g., institutional and racial stressors) that are important to consider when modifying treatment to improve outcomes among this group. In addition to stressors, this study also identified high-risk situations involving triggers for use. Taken together these findings suggest targets for the tailoring of coping strategies that could be incorporated for the development of culturally relevant behavioral treatment for SUD.",
+    "DOI": "10.1016/j.josat.2023.209184",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines stressors, triggers for substance use, and neutral/relaxing events among Black adults, but it does not address employment or labor outcomes.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks rigorous evaluation and control group. It focuses on stressors, triggers for substance use, and neutral/relaxing events among Black adults who use substances, which does not directly address employment or labor outcomes.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

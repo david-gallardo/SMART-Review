@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1855,
+    "Authors": "Pausch, Kunigunde; Blanke, Katrin; Niederberger, Verena; Egli, Sarah; Rufer, Michael; Ajdacic-Gross, Vladeta; Olbrich, Sebastian; Muller, Mario",
+    "Article Title": "Fit for Work and Life-an eight-week program for improvement of functionality and quality of life A two-stage study",
+    "Abstract": "Background The current two-stage study focused on work integration and quality of life of patients in an acute psychiatric day care unit. There is evidence that a longer absence from work due to illness negatively affects job retention, life satisfaction and clinical prognosis. Furthermore, there are individual supportive methods that proved to be effective in work integration. We therefore developed a specific group program Fit for Work and Life (FWL) for patients in an acute psychiatric day care unit focusing on work integration in the first labor market (in contrast to work in institutions for people with disabilities/second labor market). Methods Between 2018 and 2020, 62 patients (intervention group; IG) were enrolled in an 8-week prospective job integration program and compared to 74 patients (control group; CG) who received treatment as usual (partly retrospective survey). Patients of both groups held a job when entering treatment. Main outcome was defined as their working status 4 weeks after the end of treatment as well as self-reported life satisfaction. Results At the end of treatment (i.e. the week prior to discharge), the IG participants reported higher overall life satisfaction as well as higher health-, self- and living condition-related satisfaction than controls. Functional and clinical improvement during treatment was linked to subsequently returning to work. Functional improvement was further linked to higher life satisfaction. Mediational analysis revealed an indirect path from functional improvement on life satisfaction via working status, i.e. the higher functional improvement during treatment, the higher the chance of successfully returning to work, which in turn increased life satisfaction. Conclusion Our findings suggest that programs such as FWL are useful interventions for employed patients to improve reintegration into work and life and to help to increase life satisfaction.",
+    "DOI": "10.1007/s40211-022-00415-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is job search services (in this case, an 8-week job integration program), and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as working status and life satisfaction.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and does not directly address employment outcomes. The main outcome is self-reported life satisfaction rather than employment or labor results.",
+            "study_design": "Two-stage prospective job integration program without randomized controlled trial design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on any of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

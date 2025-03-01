@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1730,
+    "Authors": "Branjerdporn, Grace; Bowman, Candice; Kenworthy, Sean; Stapelberg, Nicolas J. C.",
+    "Article Title": "Interventional Response of Hospital and Health Services to the Mental Health Effects of Viral Outbreaks on Health Professionals",
+    "Abstract": "The aim of this integrative review was to examine the impact of past viral epidemics on staff mental health interventional responses, with a specific focus on healthcare provider response in the context of the COVID-19 pandemic. Following PRISMA methodology, databases were searched for relevant articles. A total of 55 articles with a range of methodologies (e.g., commentary papers, cohort studies, qualitative studies) were included to ensure broad coverage of this rapidly emerging research area. The literature showed that many healthcare providers implemented a variety of wellbeing initiatives to support their staff during a viral outbreak. Most of these interventions, however, were not formally evaluated. Interventions included leadership/team support; online psychoeducational resources and updated information on the pandemic; respite spaces; peer support outreach; staff resilience training; telephone hotline support; staff support groups; and individual counseling. Staff were generally supportive of the initiatives offered by hospital and health services, with certain interventions being more appreciated (e.g., staff respite areas). Rapid, locally, and culturally appropriate workplace-based responses may counter the negative mental health impact on staff; but a stepped response is required for a smaller number of staff at risk of mental illness, or those with pre-existing mental illness.",
+    "DOI": "10.3389/fpsyt.2022.812365",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a commentary paper, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Commentary paper",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks rigorous evaluation and does not include a control group. It focuses on interventional responses to mental health effects rather than employment outcomes.",
+            "study_design": "Integrative review with commentary papers, cohort studies, qualitative studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        }
+    }
+}

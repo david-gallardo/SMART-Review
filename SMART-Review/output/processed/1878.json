@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1878,
+    "Authors": "Chan, Ko Ling; Lo, Camilla Kin-ming; Yu, Lu; Ho, Frederick K.; Yan, Elsie; Ip, Patrick",
+    "Article Title": "A Child Development Fund Program, Emotional Development, and Poverty Reduction",
+    "Abstract": "OBJECTIVES: We aim to examine the effects of the Child Development Fund (CDF) program on the abstract long-term psychological, health, social, and financial development of children in poverty.METHODS: The current study was a 4-year follow-up survey study (the follow-up study) of a nonrandomized controlled trial (the first study), conducted in 2019 and 2015, respectively, in Hong Kong. Subjects were 902 young adults who were from families living in poverty and receiving financial assistance from the government and who had completed the first study. Approximately 61% of the subjects (N = 546) completed the current follow-up study.RESULTS: Of the 546 subjects (46% male), 335 (61%; CDF participants) completed the CDF program between 2011 and 2015, and 211 (39%; CDF nonparticipants) were matched controls in the first study. The mean age was 20.64 years (SD = 2.72). After adjustments of covariates, the CDF participants reported fewer behavioral problems, higher levels of study motivation, higher levels of hope, and more positive attitudes toward their future education. The CDF participants also perceived greater social support from significant others and reported greater amounts of money saved every month. After further adjustments, CDF participants showed greater improvements in health-related quality of life related to emotional functioning. A considerable number of families of the CDF participants who were working for a living were no longer reliant on financial assistance from the government.CONCLUSIONS: The positive effects of the CDF program on children in poverty could be sustained throughout adolescence to young adulthood. Findings warrant the promotion of the program to reach more children.",
+    "DOI": "10.1542/peds.2020-007534",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a nonrandomized controlled trial, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "nonrandomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Nonrandomized controlled trial followed by a survey study without random assignment in the follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the Child Development Fund program's effects on children in poverty, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "nonrandomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adults with mental health disorders and does not address employment outcomes.",
+            "study_design": "Nonrandomized controlled trial",
+            "logprobs": null
+        }
+    }
+}

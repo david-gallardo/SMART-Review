@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1886,
+    "Authors": "Lunau, Thorsten; Siegrist, Johannes; Dragano, Nico; Wahrendorf, Morten",
+    "Article Title": "The Association between Education and Work Stress: Does the Policy Context Matter?",
+    "Abstract": "ObjectivesSeveral studies report socioeconomic differences in work stress, where people in lower socioeconomic positions (SEP) are more likely to experience this burden. In the current study, we analyse associations between education and work stress in a large sample of workers from 16 European countries. In addition we explore whether distinct national labour market policies are related to smaller inequalities in work stress according to educational attainment.MethodsWe use data collected in 2010/11 in two comparative studies ('Survey of Health, Ageing and Retirement in Europe' and the 'English Longitudinal Study of Ageing'; N = 13695), with samples of men and women aged 50 to 64 from 16 European countries. We measure highest educational degree according to the international standard classification of education (ISCED) and assess work stress in terms of the demand-control and the effort-reward imbalance model. National labour market policies are measured on the basis of policy indicators which are divided into (1) 'protective' policies offering financial compensation to those excluded from the labour market (e.g. replacement rate), and (2) 'integrative' policies supporting disadvantaged individuals on the labour market (e.g. investments into active labour market policies or possibilities for further qualification in later life). In addition to country-specific analyses, we estimate multilevel models and test for interactions between the indicators of national policies and individual education.ResultsMain findings demonstrate consistent associations between lower education and higher levels of work stress in all countries. The strength of this association, however, varies across countries and is comparatively small in countries offering pronounced 'integrative' policies, in terms of high investments into measures of an active labor market policy and high participation rates in lifelong learning activities.ConclusionsOur results point to different types of policies that may help to reduce educational differences in work stress, in particular policies supporting those who are disadvantaged on the labour market.",
+    "DOI": "10.1371/journal.pone.0121573",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional analysis of data from two comparative studies, which meets the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Quasi-experimental study with a cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment services, wage subsidies, supported employment, or adult training. It focuses on the association between education and work stress in relation to national labor market policies but does not directly evaluate employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion. It also does not target people with mental health disorders, which is a key population of interest.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional study with multilevel analysis",
+            "logprobs": null
+        }
+    }
+}

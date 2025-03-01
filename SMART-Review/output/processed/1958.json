@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1958,
+    "Authors": "Fogelgren, Mattias; Ornstein, Petra; Rodin, Magnus; Thoursie, Peter Skogman",
+    "Article Title": "Is Supported Employment Effective for Young Adults with Disability Pension? Evidence from a Swedish Randomized Evaluation",
+    "Abstract": "We report results from a large-scale randomized experiment evaluating whether a supported employment rehabilitation intervention strategy can improve labor market opportunities for young adults on disability pension better than regular vocational rehabilitation. The supported employment intervention utilizes a caseworker as backup for the individual during training to reduce employers' risks when hiring an individual with unclear productivity. In total, 1,062 individuals were randomly assigned between interventions. The main results show that 18 months after the start of the project, participants with supported employment have work rates that are approximately ten percentage points higher than participants who received regular rehabilitation.",
+    "DOI": "10.3368/jhr.58.4.0319-10105R2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: randomized experiment, EU country (Sweden), 2005-2025 timeframe, intervention (supported employment), population (young adults with disability pension), and outcomes (employment rates)",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU country - Sweden), timeframe (2005-2025), intervention (supported employment), population (people with disability pension, implying mental health disorders), and outcomes (employment rates).",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a randomized controlled trial (RCT) that meets the inclusion criteria for study design, intervention, and population. It is conducted in Sweden, which falls within the specified geographic scope. The study focuses on employment outcomes for individuals with mental health issues, aligning with the specified outcomes.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Sweden is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

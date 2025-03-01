@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1727,
+    "Authors": "Groer, Maureen E.; Baumgartel, Kelley; Springer, Cary; Mutka, Tina; Postolache, Teodor T.",
+    "Article Title": "Depression in pregnant Hispanic women: Risk factors, pregnancy outcomes and plasma cytokines",
+    "Abstract": "Background: Maternal depression is considered a major contributor to morbidity and mortality in pregnancy. A population at risk are U.S. born or immigrant Hispanic women, and few prenatal depression or immune studies have focused on this population. Objective: The research questions for the study were 1) What are the occurrences, risk factors and outcomes associated with depression in Hispanic pregnant women in the United States and 2) What are the associations of plasma immune cytokines and prenatal depression in this population. Study design: Women of self-reported Hispanic ethnicity were born in the continental United States or foreignborn. Screening of potential participants (n = 690) at a first prenatal clinic visit consisted of antibody testing for Toxoplasma gondii antibodies in a larger grant, and only the women with antibody levels below the cutoff for T. gondii positivity (N = 536) were included in the present study. All participants completed a health and demographic questionnaire, the Edinburgh Postpartum Depression (EPDS) scale, the Perceived Stress Scale (PSS), and the Medical Outcomes Study Social Support (MOS) scale. We surveyed electronic health records (EHR) for risk factors and adverse pregnancy outcomes in the sample. We further measured physical and mental health and seven plasma immune cytokines at four study visits during pregnancy in a longitudinal subsample (N = 128). Results: The frequency of EPDS scores of 10 (depression risk) or above was 18.6 % at the time of enrollment. Socioeconomic factors such as less education, greater unemployment, and U.S. born nativity were associated with greater depression risk, but these relationships became insignificant when we corrected for false discovery rate. Depression scores were not associated with adverse birth and pregnancy outcomes. The inflammatory cytokine TNF-alpha was significantly higher across pregnancy in women with depression risk (p < 0.03). Other inflammatory cytokines were higher in depressed women, but only at one time point in mid-pregnancy. Conclusions: Prenatal depression occurs in early pregnancy and then declines in Hispanic women. The frequency of depression and stress were higher in U.S. born compared to immigrant Hispanic women. There was an elevation in plasma levels of TNF-alpha through the pregnancy in depressed women, and elevations in other cytokines, at midpregnancy. The adverse pregnancy outcomes, including preterm delivery, known to be associated with prenatal depression were not present in this cohort.",
+    "DOI": "10.1016/j.bbih.2024.100765",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population is pregnant Hispanic women, which does not meet the inclusion criteria for people with mental health disorders related to active employment policies.",
+            "study_design": "Cross-sectional survey with longitudinal subsample",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

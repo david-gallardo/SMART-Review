@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1865,
+    "Authors": "Assefa, Nega; Abdullahi, Yasir Y.; Hemler, Elena C.; Lankoande, Bruno; Madzorera, Isabel; Wang, Dongqing; Ismail, Abbas; Chukwu, Angela; Workneh, Firehiwot; Mapendo, Frank; Millogo, Ourohire; Abubakari, Sulemana Watara; Febir, Lawrence Gyabaa; Lyatuu, Isaac; Dianou, Kassoum; Baernighausen, Till; Soura, Abdramane; Asante, Kwaku Poku; Smith, Emily; Vuai, Said; Worku, Alemayehu; Killewo, Japhet; Mwanyika-Sando, Mary; Berhane, Yemane; Sie, Ali; Tajudeen, Raji; Oduola, Ayo; Fawzi, Wafaie W.",
+    "Article Title": "COVID-19 Preventive Practices, Psychological Distress, and Reported Barriers to Healthcare Access during the Pandemic among Adult Community Members in Sub-Saharan Africa: A Phone Survey",
+    "Abstract": "The COVID-19 pandemic has had serious negative health and economic impacts in sub-Saharan Africa. Continuous monitoring of these impacts is crucial to formulate interventions to minimize the consequences of COVID-19. This study surveyed 2,829 adults in urban and rural sites among five sub-Saharan African countries: Burkina Faso, Ethiopia, Nigeria, Tanzania, and Ghana. Participants completed a mobile phone survey that assessed self-reported soci-odemographics, COVID-19 preventive practices, psychological distress, and barriers to healthcare access. A modified Poisson regression model was used to estimate adjusted prevalence ratios (aPRs) and 95% CIs to investigate potential factors related to psychological distress and barriers to reduced healthcare access. At least 15.6% of adults reported experiencing any psychological distress in the previous 2 weeks, and 10.5% reported that at least one essential health-care service was difficult to access 2 years into the pandemic. The majority of participants reported using several COVID-19 preventive methods, with varying proportions across the sites. Participants in the urban site of Ouagadougou, Burkina Faso (aPR: 2.29; 95% CI: 1.74-3.03) and in the rural site of Kintampo, Ghana (aPR: 1.68; 95% CI: 1.21-2.34) had a higher likelihood of experiencing any psychological distress compared with those in the rural area of Nouna, Burkina Faso. Loss of employment due to COVID-19 (aPR: 1.77; 95% CI: 1.47-2.11) was also associated with an increased prev-alence of psychological distress. The number of children under 5 years in the household (aPR: 1.23; 95% CI: 1.14-1.33) and participant self-reported psychological distress (aPR: 1.83; 95% CI: 1.48-2.27) were associated with an increased prevalence of reporting barriers to accessing health services, whereas wage employment (aPR: 0.67; 95% CI: 0.49-0.90) was associated with decreased prevalence of reporting barriers to accessing health services. Overall, we found a high prevalence of psychological distress and interruptions in access to healthcare services 2 years into the pandemic across five sub-Saharan African countries. Increased effort and attention should be given to addressing the negative impacts of COVID-19 on psychological distress. An equitable and collaborative approach to new and existing preventive measures for COVID-19 is crucial to limit the consequences of COVID-19 on the health of adults in sub-Saharan Africa.",
+    "DOI": "10.4269/ajtmh.22-0349",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on psychological distress and barriers to healthcare access rather than employment.",
+            "study_design": "Phone survey with a modified Poisson regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on psychological distress and barriers to healthcare access in sub-Saharan Africa. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions for employment or mental health disorders, and the study population does not specifically include people with mental health disorders.",
+            "study_design": "Phone survey",
+            "logprobs": null
+        }
+    }
+}

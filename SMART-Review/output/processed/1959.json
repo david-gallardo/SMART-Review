@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1959,
+    "Authors": "Field, Craig A.; Von Sternberg, Kirk; Velasquez, Mary M.",
+    "Article Title": "Randomized Trial of Screening and Brief Intervention to Reduce Injury and Substance Abuse in an urban Level I Trauma Center",
+    "Abstract": "Background: The TIP (Traumatic Injury Prevention) Project evaluated the impact on post-injury drug use of two brief motivational interventions compared to brief advice (BA) among injured patients who use drugs.Method: Three-group, single blind, randomized controlled trial in a Level 1Trauma Center enrolled 395 admitted patients with drug positive toxicology screen or verbal report of drug use in the previous 30 days. 34% were Hispanic, 45% non-Hispanic White, 16% non-Hispanic Black. 88% smoked marijuana, 28% used cocaine and 11% prescription opioids. Brief Advice (BA) provided advice to abstain from drugs, educational materials and referral to community resources. Brief Motivational Intervention (BMI) additionally included a 30-45 minute session, with assessment feedback, based on motivational interviewing. BMI + B included a telephone booster 4weeks post-intervention. Drug use as measured by percent days abstinent and total abstinence, derived from the Timeline Follow back was the primary outcome.Results: A significant reduction from baseline was observed at 3, 6, and 12 months in the primary outcomes of any drug use (excluding alcohol); cannabis and cocaine, the most frequently used drugs, were analyzed individually. There were no between group differences or group X time interactions. Similarly, there were no between groups differences on secondary outcomes including perceived health status, re-injury, arrest, incarceration, alcohol and drug treatment, employment, AA attendance, homelessness, physical abuse, and problems associated with alcohol and drug use.Conclusions: The study does not support use of these enhanced motivational interventions over brief advice for trauma patients with a positive screen for drug use.",
+    "DOI": "10.1016/j.drugalcdep.2019.107792",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and its primary focus is on substance abuse and injury prevention in trauma patients.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the intervention does not directly target employment services.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on drug use interventions in trauma patients, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specifically people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

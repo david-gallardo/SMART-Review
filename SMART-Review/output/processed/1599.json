@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1599,
+    "Authors": "Airaksinen, Jaakko; Hakulinen, Christian; Elovainio, Marko; Pulkki-Raback, Laura; Lehtimaki, Terho; Raitakari, Olli T.; Keltikangas-Jarvinen, Liisa; Jokela, Markus",
+    "Article Title": "Moving on: How depressive symptoms, social support, and health behaviors predict residential mobility",
+    "Abstract": "Background:There are major health inequalities between residential areas. However, it remains unclear whether these inequalities are due to social causation or selective residential mobility, because little is known about the associations between health-related factors and selective residential mobility. This study examined how depressive symptoms, social support, and health behaviors are associated with subsequent residential mobility, as measured by frequency, distance, and direction of moves. Methods: Participants were selected from the Young Finns prospective cohort study (N = 3017) with four study waves in 1992, 1997, 2001, and 2007. Complete residential mobility history was gathered for each participant from registry data. Residential mobility was assessed over three-year periods following each study wave. The direction of mobility was measured as changes in residential location's population density, health index, mortality index, and unemployment. Area characteristics were used as covariates together with the participants' age, sex, and education. Results: Individuals reporting higher social support from friends were more likely to move (b = 0.20; 95% confidence interval (CI): 0.08, 0.37) and move more frequently (b = 0.08; 95% CI: 0.01, 0.14), whereas individuals reporting higher social support from their family members were less likely to move (b = 0.08; 95% CI: 0.14, 0.02). Better health behaviors were associated with longer moving distances (b = 0.14; 95% CI: 0.06, 0.23). None of the individual characteristics were associated with the direction of moves as measured by changes in municipality characteristics. Conclusions: Some of the health-related characteristics are associated with residential mobility in Finland. However, these individual characteristics do not seem to predict systematic selective residential mobility across municipalities with different regional health profiles.",
+    "DOI": "10.1177/1403494815622850",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines the associations between health-related factors and residential mobility.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the association between health-related factors and residential mobility.",
+            "study_design": "Cross-sectional analysis using prospective cohort data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

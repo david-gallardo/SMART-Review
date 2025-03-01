@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1920,
+    "Authors": "Gabriel, Kelly P.; Aguinis, Herman",
+    "Article Title": "How to prevent and combat employee burnout and create healthier workplaces during crises and beyond",
+    "Abstract": "Burnout results from chronic work-related stress. People who are burned out are emotionally drained and feel negative and detached from work, which leads to decreased performance, inhibited creativity and innovation, workplace accidents, absenteeism, and physical and mental illnesses. Burnout is widespread, pernicious, and costly to human life, firm profits, and societydespecially during a global crisis like the COVID-19 pandemic but also during a broader set of pan-global crises yet to come. Fostering healthier workplaces is a necessity at any time, but particularly during a crisis that has intensified job demands and drained job resources. Based on a review of the evidence, we provide five recommendations and implementation guidelines that can help organizations prevent and combat burnout: (1) provide stress management interventions, (2) allow employees to be active crafters of their work, (3) cultivate and encourage social support, (4) engage employees in decision-making, and (5) implement high-quality performance management. Overall, our evidence-based recommendations, together with the implementation guidelines we provide, will help business leaders promote and create sustainable wellness at work during crises and beyond. (c) 2021 Kelley School of Business, Indiana University. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/ licenses/by/4.0/).",
+    "DOI": "10.1016/j.bushor.2021.02.037",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of the evidence, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Review of the evidence",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and focuses on preventing employee burnout in general workplaces. It lacks specific interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review of evidence",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review of evidence",
+            "logprobs": null
+        }
+    }
+}

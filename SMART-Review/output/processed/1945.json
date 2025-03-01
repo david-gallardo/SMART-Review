@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1945,
+    "Authors": "Bowie, Christopher R.; Grossman, Michael; Gupta, Maya; Holshausen, Katherine; Best, Michael W.",
+    "Article Title": "Action-Based Cognitive Remediation for Individuals With Serious Mental Illnesses: Effects of Real-World Simulations and Goal Setting on Functional and Vocational Outcomes",
+    "Abstract": "Objective: Cognitive remediation programs often have larger effects on cognition compared with everyday outcomes. We compared changes across cognitive, functional competence, and vocational domains in 2 cognitive remediation programs. Method: A sequential enrollment, nonrandom design with 50 individuals with serious mental illnesses (psychotic and mood disorders) from a community vocational rehabilitation program. Action-Based Cognitive Remediation (ABCR), a new program that combines traditional cognitive training techniques with simulated workplace situations and goal setting for engaging with cognitively demanding activities (N = 24; 19 completers) was compared with traditional cognitive remediation (tCR; N = 26; 15 completers). Both groups met twice-weekly for 2-hr sessions over 10 weeks. Repeated measures analysis of variance was used to examine effects pre-and posttreatment and 10 weeks after treatment. Univariate analysis of variance and chi-square tests were used to compare work outcomes 6 months after intervention. Results: Significantly more ABCR participants (83%) were retained in the intervention compared with tCR (57%) and reported greater increases in perceived competence with cognitively challenging tasks (eta(2) =.23). ABCR effects were significantly larger than tCR on functional competence (eta(2) =.53), with smaller, nonsignificant differences in social cognition (eta(2) =.14) and neurocognition (eta(2) =.16). ABCR participants were marginally more likely to be competitively employed (68.4% vs. 40%) and, among those employed, ABCR participants experienced less job-related stress (eta(2) =.37). Conclusions and Implications for Practice: Cognitive rehabilitative programs for serious mental illness that rely on computer -based training for neuroplasticity should ensure opportunities for active skill development and therapist supported techniques to overcome challenges with generalizing cognitive effects to everyday outcomes.",
+    "DOI": "10.1037/prj0000189",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a nonrandom sequential enrollment design with a control group, meeting the inclusion criteria for study design. The population is individuals with serious mental illnesses, and the outcomes include employment and labor results.",
+            "study_design": "Sequential Enrollment Design with Control Group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT or quasi-experimental with a control group) and its intervention focuses on cognitive remediation rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Sequential enrollment, nonrandomized design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive remediation for serious mental illnesses and does not specifically address employment interventions or outcomes for people with mental health disorders in the context of active employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on people with mental disorders, includes employment outcomes, and is conducted in the US within the specified timeframe.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

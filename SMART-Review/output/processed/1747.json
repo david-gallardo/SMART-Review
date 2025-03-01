@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1747,
+    "Authors": "Carreras, Giulia; Lugo, Alessandra; Stival, Chiara; Amerio, Andrea; Odone, Anna; Pacifici, Roberta; Gallus, Silvano; Gorini, Giuseppe",
+    "Article Title": "Impact of COVID-19 lockdown on smoking consumption in a large representative sample of Italian adults",
+    "Abstract": "Objectives Italy is one of the first countries that imposed a nationwide stay-at-home order during the COVID-19 outbreak, inevitably resulting in changes in lifestyles and addictive behaviours. The aim of this work is to investigate the impact of lockdown restrictions on smoking habits using data collected within the Lost in Italy project. Methods A web-based cross-sectional study was conducted on a representative sample of 6003 Italian adults aged 18-74 years. Study subjects were recruited from 27 April to 3 May 2020 and were asked to report changes in smoking habits before the lockdown and at the time of interview. Results During the lockdown, 5.5% of the overall sample quit or reduced smoking, but 9.0% of the sample started, relapsed smoking or increased their smoking intensity. In total, the lockdown increased cigarette consumption by 9.1%. An improvement in smoking habits was associated with younger age, occasional smoking and unemployment, whereas a worsening was mainly associated with mental distress. In particular, an increase in cigarette consumption during lockdown was more frequently reported among those with worsening quality of life (OR: 2.05; 95% CI: 1.49 to 2.80), reduction in sleep quantity (OR: 2.29; 95% CI: 1.71 to 3.07) and increased anxiety (OR: 1.83; 95% CI: 1.38 to 2.43) and depressive symptoms (OR: 2.04; 95% CI: 1.54 to 2.71). Conclusions COVID-19 lockdown had a huge impact on smoking consumption of the Italian general population. The main concern is for smokers who increase their cigarette consumption due to an increased mental distress. Providing greater resources for cessation services capable of reducing mental health symptoms in smokers is urgently needed.",
+    "DOI": "10.1136/tobaccocontrol-2020-056440",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on the impact of COVID-19 lockdown on smoking consumption.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks an intervention related to active employment policies and focuses on smoking habits rather than employment outcomes.",
+            "study_design": "Web-based cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

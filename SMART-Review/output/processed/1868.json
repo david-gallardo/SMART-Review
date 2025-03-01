@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1868,
+    "Authors": "Vanhaecht, Kris; Seys, Deborah; Bruyneel, Luk; Cox, Bianca; Kaesemans, Gorik; Cloet, Margot; Van den Broeck, Kris; Cools, Olivia; De Witte, Andy; Lowet, Koen; Hellings, Johan; Bilsen, Johan; Lemmens, Gilbert; Claes, Stephan",
+    "Article Title": "COVID-19 is having a destructive impact on health-care workers' mental well-being",
+    "Abstract": "Background: The coronavirus disease 2019 (COVID-19) may aggravate workplace conditions that impact health-care workers' mental health. However, it can also place other stresses on workers outside of their work. This study determines the effect of COVID-19 on symptoms of negative and positive mental health and the workforce's experience with various sources of support. Effect modification by demographic variables was also studied.Methods: A cross-sectional survey study, conducted between 2 April and 4 May 2020 (two waves), led to a convenience sample of 4509 health-care workers in Flanders (Belgium), including paramedics (40.6%), nurses (33.4%), doctors (13.4%) and management staff (12.2%). About three in four were employed in university and acute hospitals (29.6%), primary care practices (25.7%), residential care centers (21.3%) or care sites for disabled and mental health care. In each of the two waves, participants were asked how frequently (on a scale of 0-10) they experienced positive and negative mental health symptoms during normal circumstances and during last week, referred to as before and during COVID-19, respectively. These symptoms were stress, hypervigilance, fatigue, difficulty sleeping, unable to relax, fear, irregular lifestyle, flashback, difficulty concentrating, feeling unhappy and dejected, failing to recognize their own emotional response, doubting knowledge and skills and feeling uncomfortable within the team. Associations between COVID-19 and mental health symptoms were estimated by cumulative logit models and reported as odds ratios. The needed support was our secondary outcome and was reported as the degree to which health-care workers relied on sources of support and how they experienced them.Results: All symptoms were significantly more pronounced during versus before COVID-19. For hypervigilance, there was a 12-fold odds (odds ratio 12.24, 95% confidence interval 11.11-13.49) during versus before COVID-19. Positive professional symptoms such as the feeling that one can make a difference were less frequently experienced. The association between COVID-19 and mental health was generally strongest for the age group 30-49 years, females, nurses and residential care centers. Health-care workers reported to rely on support from relatives and peers. A considerable proportion, respectively, 18 and 27%, reported the need for professional guidance from psychologists and more support from their leadership.Conclusions: The toll of the crisis has been heavy on health-care workers. Those who carry leadership positions at an organizational or system level should take this opportunity to develop targeted strategies to mitigate key stressors of health-care workers' mental well-being.",
+    "DOI": "10.1093/intqhc/mzaa158",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional survey and lacks a rigorous evaluation or control group. It does not directly address employment interventions or outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey study",
+            "logprobs": null
+        }
+    }
+}

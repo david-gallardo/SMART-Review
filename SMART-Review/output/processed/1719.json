@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1719,
+    "Authors": "Cook, Judith A.; Burke-Miller, Jane K.",
+    "Article Title": "Reasons for job separations in a cohort of workers with psychiatric disabilities",
+    "Abstract": "We explored the relative effects of adverse working conditions, job satisfaction, wages, worker characteristics, and local labor markets in explaining voluntary job separations (quits) among employed workers with psychiatric disabilities. Data come from the Employment Intervention Demonstration Program in which 2,086 jobs were ended by 892 workers during a 24 mo observation period. Stepped multivariable logistic regression analysis examined the effect of variables on the likelihood of quitting. Over half (59%) of all job separations were voluntary while 41% were involuntary, including firings (17%), temporary job endings (14%), and layoffs (10%). In multivariable analysis, workers were more likely to quit positions at which they were employed for 20 h/wk or less, those with which they were dissatisfied, low-wage jobs, non-temporary positions, and jobs in the structural (construction) occupations. Voluntary separation was less likely for older workers, members of racial and ethnic minority groups, and those residing in regions with lower unemployment rates. Patterns of job separations for workers with psychiatric disabilities mirrored some findings regarding job leaving in the general labor force but contradicted others. Job separation antecedents reflect the concentration of jobs for workers with psychiatric disabilities in the secondary labor market, characterized by low-salaried, temporary, and part-time employment.",
+    "DOI": "10.1682/JRRD.2014.10.0260",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a stepped multivariable logistic regression analysis, which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and the intervention (job search services) is relevant to active employment policies for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Stepped multivariable logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on reasons for job separations rather than evaluating the effectiveness of specific policies or programs designed to enhance employment.",
+            "study_design": "Cross-sectional analysis using multivariable logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

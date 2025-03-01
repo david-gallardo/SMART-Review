@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1883,
+    "Authors": "Zakaria, Hesham Mostafa; Mansour, Tarek R.; Telemi, Edvin; Asmaro, Karam; Bazydlo, Michael; Schultz, Lonni; Nerenz, David R.; Abdulhak, Muwaffak; Khalil, Jad G.; Easton, Richard; Schwalb, Jason M.; Park, Paul; Chang, Victor",
+    "Article Title": "The Association of Preoperative Opioid Usage With Patient-Reported Outcomes, Adverse Events, and Return to Work After Lumbar Fusion: Analysis From the Michigan Spine Surgery Improvement Collaborative (MSSIC)",
+    "Abstract": "BACKGROUND: It is important to delineate the relationship between opioid use and spine surgery outcomes.OBJECTIVE: To determine the association between preoperative opioid usage and postoperative adverse events, patient satisfaction, return to work, and improvement in Oswestry Disability Index (ODI) in patients undergoing lumbar fusion procedures by using 2-yr data from a prospective spine registry.METHODS: Preoperative opioid chronicity from 8693 lumbar fusion patients was defined as opioid-naive (no usage), new users (<6 wk), short-term users (6 wk-3 mo), intermediate-term users (3-6 mo), and chronic users (>6 mo). Multivariate generalized estimating equation models were constructed.RESULTS: All comparisons were to opioid-naive patients. Chronic opioid users showed less satisfaction with their procedure at 90 d (Relative Risk (RR) 0.95, P = .001), 1 yr (RR 0.89, P = .001), and 2 yr (RR 0.89, P = .005). New opioid users were more likely to show improvement in ODI at 90 d (RR 1.25, P < .001), 1 yr (RR 1.17, P < .001), and 2 yr (RR 1.19, P = .002). Short-term opioid users were more likely to show ODI improvement at 90 d (RR 1.25, P < .001). Chronic opioid users were less likely to show ODI improvement at 90 d (RR 0.90, P = .004), 1 yr (RR 0.85, P < .001), and 2 yr (RR 0.80, P = .003). Chronic opioid users were less likely to return to work at 90 d (RR 0.80, P < .001).CONCLUSION: In lumbar fusion patients and when compared to opioid-naive patients, new opioid users were more likely and chronic opioid users less likely to have improved ODI scores 2 yr after surgery. Chronic opioid users are less likely to be satisfied with their procedure 2 yr after surgery and less likely to return to work at 90 d. Preoperative opioid counseling is advised.",
+    "DOI": "10.1093/neuros/nyz423",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Retrospective analysis of prospective spine registry data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the association between preoperative opioid usage and patient-reported outcomes, adverse events, and return to work after lumbar fusion surgery.",
+            "study_design": "Prospective registry analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes for people with mental health disorders, but rather on patient-reported outcomes after lumbar fusion surgery.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

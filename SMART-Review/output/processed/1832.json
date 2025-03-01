@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1832,
+    "Authors": "Audhoe, Selwin S.; Hoving, Jan L.; Zijlstra, Bonne J. H.; Frings-Dresen, Monique H. W.; Nieuwenhuijsen, Karen",
+    "Article Title": "Is the Brainwork Intervention effective in reducing sick leave for non-permanent workers with psychological problems? Results of a controlled clinical trial",
+    "Abstract": "BackgroundBoth the presence of psychological problems and the absence of an employment contract are related to long-term sickness absence, prolonged work disability and unemployment. Studies researching the effectiveness of return-to-work interventions on these non-permanent workers, including unemployed and temporary agency workers and workers with an expired fixed-term contract, are lagging behind. Therefore, a return-to-work intervention called Brainwork was developed. The aim of this study was to assess the effectiveness of the 'Brainwork Intervention' in reducing the duration of sick leave compared to usual care over a 12-month follow-up.MethodsIn a multicenter controlled clinical trial, using a quasi-randomization procedure, we compared the Brainwork Intervention (n=164) to usual care (n=156). The primary outcome was the duration of sick leave. Secondary outcomes were the duration of sick leave starting from Social Security Agency transfer; the proportion of workers returned to work; the number of hours of paid employment during the follow-up period; the degree of worker participation; the level of psychological complaints; and the self-efficacy for return to work. Protocol adherence (Brainwork Intervention) was considered sufficient when at least three of the five protocol steps were followed. Cox regressions, linear and ordinal regression, and Mixed Model analyses were performed.ResultsAll 320 participants were analyzed. The Brainwork Intervention resulted in a non-significant reduction of the duration of sick leave compared to usual care (269days versus 296days; HR=1.29; 95% CI 0.94-1.76; p=0.11). For those working (46%) during the 12-month follow-up, the mean number of hours of paid employment was non-significantly higher in the usual care group (682h versus 493h; p=0.053). No significant differences were found for other secondary outcomes. Protocol adherence was 10%.ConclusionsThe Brainwork Intervention as performed with a low protocol adherence did not result in a significant reduction of the duration of sick leave compared to usual care. It remains unclear what the results would have been if the Brainwork Intervention had been executed according to protocol.Trial registrationThe Netherlands Trial Register (NTR); NTR3976 (old registration number NTR4190). Registered September 27th 2013.",
+    "DOI": "10.1186/s12889-021-10704-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a controlled clinical trial with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the geographic scope criterion. The timeframe is between 2005-2025, meeting the time frame criterion. The intervention is job search services, adult training, wage subsidies, supported employment, meeting the intervention criterion. The population is people with mental disorders or documented mental health problems, meeting the population criterion. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention, meeting the outcomes criterion.",
+            "study_design": "Controlled clinical trial with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (EU), timeframe (2013-2025), intervention (return-to-work intervention), population (non-permanent workers with psychological problems), and outcomes (duration of sick leave).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a controlled clinical trial, which meets the study design criteria. However, the intervention described is not directly related to employment policies but rather a return-to-work intervention for individuals with psychological problems. Additionally, the study population is not explicitly defined as people with mental health disorders but includes a broader category of individuals with psychological problems. The study also does not focus on job search services, adult training, wage subsidies, or supported employment interventions, which are specified in the inclusion criteria.",
+            "study_design": "Controlled clinical trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

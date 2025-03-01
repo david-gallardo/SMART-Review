@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1810,
+    "Authors": "Kukla, Marina; McGuire, Alan B.; Salyers, Michelle P.",
+    "Article Title": "Barriers and Facilitators Related to Work Success for Veterans in Supported Employment: A Nationwide Provider Survey",
+    "Abstract": "Objective: Veterans with mental illness are at serious risk of poor work outcomes and career stagnation. Supported employment (SE) is an evidence-based model of vocational services that assists persons with mental illness to obtain competitive employment. The purpose of this study was to gain a rich understanding of barriers and facilitators related to competitive work success from the perspective of a nationwide sample of U.S. Department of Veterans Affairs (VA) SE staff, supervisors, and managers.Methods: This study utilized a mixed-methods approach in which 114 VA SE personnel completed an online questionnaire consisting of a survey of work barriers and facilitators; open-ended questions elicited additional factors affecting work success. Descriptive statistics characterized factors affecting work success, and an emergent, open-coding approach identified qualitative themes describing other key elements influencing employment.Results: The most prominent work facilitators were perceived veteran motivation, job match, the assistance of SE services, and veteran self-confidence. The highest rated barriers were psychological stress and a range of health-related problems. Qualitative findings revealed additional areas affecting work success, notably, the availability of resources, the capacity of frontline staff to form strong relationships with veterans and employers, the ability of staff to adapt and meet the multifaceted demands of the SE job, and the need for additional staff and supervisor training. The impact of employer stigma was also emphasized.Conclusions: An array of elements influencing work success at the level of the veteran, staff, SE program, and employer was recognized, suggesting several implications for VA services.",
+    "DOI": "10.1176/appi.ps.201500108",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed-methods approach with a control group (VA SE personnel), the geographic scope is the US, the timeframe is 2005-2025, the intervention is supported employment, and the population is people with mental disorders or documented mental health problems.",
+            "study_design": "Mixed-methods approach with a control group (VA SE personnel)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on barriers and facilitators related to work success for veterans in supported employment from the perspective of service providers, without presenting measures of employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with mental illness, which is not explicitly mentioned in the inclusion criteria as a population with mental disorders. The inclusion criteria require studies to focus on people with mental health disorders in general, not specifically veterans.",
+            "study_design": "mixed-methods approach",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a mixed-methods approach but includes a survey which can be considered as quasi-experimental with a control group. It focuses on supported employment for veterans with mental illness in the US, within the specified timeframe, and includes employment outcomes.",
+            "study_design": "Mixed-methods (quasi-experimental elements)",
+            "logprobs": null
+        }
+    }
+}

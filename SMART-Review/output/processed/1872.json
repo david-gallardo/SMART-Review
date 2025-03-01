@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1872,
+    "Authors": "O'Day, Bonnie; Kleinman, Rebecca; Fischer, Benjamin; Morris, Eric; Blyler, Crystal",
+    "Article Title": "Preventing Unemployment and Disability Benefit Receipt Among People With Mental Illness: Evidence Review and Policy Significance",
+    "Abstract": "Objective: We identify effective services to assist 3 groups of people with mental illnesses become or remain employed and prevent dependence on disability cash benefits: (a) individuals, including youth, who are experiencing an initial episode of psychosis; (b) employed individuals at risk of losing jobs due to mental illness; and (c) individuals who are or may become long-term clients of mental health services and are likely to apply for disability benefits. Method: We searched for articles published between 1992 and 2015 using key word terminology related to employment support services and each subgroup, and prioritized articles by study design. Results: The individual placement and support model of supported employment is more effective than traditional vocational programs in helping people with serious mental illnesses who are engaged in treatment or receiving disability benefits obtain competitive employment. Some early intervention programs effectively serve people who experience a first episode of mental illness, but more research is needed to demonstrate long-term outcomes. Less is known about the effectiveness of employment interventions in preventing unemployment and use of disability benefits among individuals at risk for job loss or long-term mental illness. Conclusions and Implications for Practice: States can fund employment supports to help prevent the need for disability benefit receipt by creatively combining federal sources, but the funding picture is imperfect. Medicaid expansion and other provisions of the Affordable Care Act may fund employment supports and assist in reducing dependence on disability benefits.",
+    "DOI": "10.1037/prj0000253",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe for this article is outside the specified range (2005-2025).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on the specified interventions and lacks details on study design, population, and outcomes.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the article (1992-2015) does not meet the inclusion criteria (2005-2025).",
+            "study_design": "Evidence Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1821,
+    "Authors": "Ludvigsson, Jonas F.; Svedberg, Pia; Olen, Ola; Bruze, Gustaf; Neovius, Martin",
+    "Article Title": "The longitudinal integrated database for health insurance and labour market studies (LISA) and its use in medical research",
+    "Abstract": "Education, income, and occupation are factors known to affect health and disease. In this review we describe the Swedish Longitudinal Integrated Database for Health Insurance and Labour Market Studies (LISA, Longitudinell Integrationsdatabas for Sjukforsakrings- och Arbetsmarknadsstudier). LISA covers the adult Swedish population aged16years registered on December 31 each year since 1990 (since 2010 individuals aged15years). The database was launched in response to rising levels of sick leave in the country. Participation in Swedish government-administered registers such as LISA is compulsory, and hence selection bias is minimized. The LISA database allows researchers to identify individuals who do not work because of injury, disease, or rehabilitation. It contains data on sick leave and disability pension based on calendar year. LISA also includes information on unemployment benefits, disposable income, social welfare payments, civil status, and migration. During 2000-2017, an average of 97,000 individuals immigrated to Sweden each year. This corresponds to about 1% of the Swedish population (10 million people in 2017). Data on occupation have a completeness of 95%. Income data consist primarily of income from employment, capital, and allowances, including parental allowance. In Sweden, work force participation is around 80% (2017: overall: 79.1%; men 80.3% and women 77.9%). Education data are available in>98% of all individuals aged 25-64years, with an estimated accuracy for highest attained level of education of 85%. Some information on civil status, income, education, and employment before 1990 can be obtained through the Population and Housing Census data (FoB, Folk- och bostadsrakningen).",
+    "DOI": "10.1007/s10654-019-00511-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a database description and does not meet the inclusion criteria for a systematic review or meta-analysis.",
+            "study_design": "Database description",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment services, training programs, wage subsidies, or supported employment for people with mental health disorders. It focuses on describing a database without providing any empirical evidence regarding the effectiveness of such policies.",
+            "study_design": "Descriptive review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific interventions for employment policies and lacks a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

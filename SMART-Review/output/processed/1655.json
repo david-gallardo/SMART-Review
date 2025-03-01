@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1655,
+    "Authors": "Bockerman, Petri; Haapanen, Mika; Hakulinen, Christian; Vainiomaki, Jari",
+    "Article Title": "Prescription opioid use and employment: A nationwide Finnish register study",
+    "Abstract": "Background: The secular decline in labor market participation and the concurrent increase in opioid use in many developed countries have sparked a policy debate on the possible connection between these two trends. We examined whether the use of prescription opioids was connected to labor market outcomes relating to partici-pation, employment and unemployment among the Finnish population. Methods: The working-age population (aged 19-64 years) living in Finland during the period 1995-2016 was used in the analyses (consisting of 67 903 701 person-year observations). Lagged values of prescription opioid use per capita were used as the exposure. Instrumental variables (IV) estimation method was used to identify causal effects, where opioid use per capita for the elderly (65-95-year-old) was used as an instrument for the opioid use per capita for the working-age population of the same gender, education and region. Results: Increased opioid use led to worse labor market outcomes in the long run, with the effect size of 16 % and 20 %, compared to the standard deviation of the employment and participation rates. On the contrary, in the short run, increased opioid use had positive employment effects. Conclusions: Policymakers should take the contradictory short-and long-term effects into account while considering regulation and monitoring of opioid use. Regulating and monitoring long-term prescription opioids is crucial for reducing their negative labor market consequences.",
+    "DOI": "10.1016/j.drugalcdep.2021.108967",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a nationwide Finnish register study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Nationwide Finnish register study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCTs, quasi-experimental studies with control groups) and its timeframe is outside the specified range (2005-2025). Additionally, the intervention focus is on prescription opioid use rather than active employment policies.",
+            "study_design": "Nationwide register study using instrumental variables",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment policies for people with mental health disorders, but rather on the relationship between prescription opioid use and employment outcomes.",
+            "study_design": "Register study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

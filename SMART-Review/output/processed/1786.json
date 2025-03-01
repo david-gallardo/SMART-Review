@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1786,
+    "Authors": "Novak, Matthew D.; Toegel, Forrest; Holtyn, August F.; Rodewald, Andrew M.; Arellano, Meghan; Baranski, Mackenzie; Barnett, Nancy P.; Leoutsakos, Jeannie-Marie; Fingerhood, Michael; Silverman, Kenneth",
+    "Article Title": "Abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder: A randomized clinical trial",
+    "Abstract": "This study evaluated the effectiveness of abstinence-contingent wage supplements in promoting alcohol abstinence and employment in adults experiencing homelessness and alcohol use disorder. A randomized clinical trial was conducted from 2019 to 2022. After a 1-month Induction period, 119 participants were randomly assigned to a Usual Care Control group (n = 57) or an Abstinence-Contingent Wage Supplement group (n = 62). Usual Care participants were offered counseling and referrals to employment and treatment programs. Abstinence-Contingent Wage Supplement participants could earn stipends for working with an employment specialist and wage supplements for working in a community job but had to maintain abstinence from alcohol as determined by transdermal alcohol concentration monitoring devices to maximize pay. Abstinence-Contingent Wage Supplement participants reported significantly higher rates of alcohol abstinence than Usual Care participants during the 6-month intervention (82.8% vs. 60.2% of months, OR = 3.4, 95% CI 1.8 to 6.3, p < .001). Abstinence-Contingent Wage Supplement participants were also significantly more likely to obtain employment (51.3% vs. 31.6% of months, OR = 2.6, 95% CI 1.5 to 4.4, p < .001) and live out of poverty (38.2% vs. 16.7% of months, OR = 3.7, 95% CI 2.0 to 7.1, p < .001) than Usual Care participants. These findings suggest that Abstinence-Contingent Wage Supplements can promote alcohol abstinence and employment in adults experiencing homelessness and alcohol use disorder. ClinicalTrials.gov Identifier: NCT03519009.",
+    "DOI": "10.1016/j.ypmed.2023.107655",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized clinical trial, which meets the inclusion criteria. The study is within the specified timeframe (2019-2022), and the intervention (abstinence-contingent wage supplements) directly addresses employment. The population references mental health problems, and the outcomes present measures of employment and labor results.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on abstinence-contingent wage supplements for adults experiencing homelessness and alcohol use disorder, which does not directly address employment policies for people with mental health disorders. The population is specific to homelessness and alcohol use disorder rather than general mental health disorders.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults experiencing homelessness and alcohol use disorder, which does not align with the specified population of people with mental health disorders. Additionally, the intervention is not directly related to employment policies but rather to alcohol abstinence.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe (2019-2022), focuses on wage supplements as an intervention, includes employment outcomes, and targets a population with mental health disorders (alcohol use disorder).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1667,
+    "Authors": "de Wind, Astrid; Boot, Cecile R. L.; Sewdas, Ranu; Scharn, Micky; van den Heuvel, Swenne G.; van der Beek, Allard J.",
+    "Article Title": "Do Work Characteristics Predict Health Deterioration Among Employees with Chronic Diseases?",
+    "Abstract": "Purpose In our ageing workforce, the increasing numbers of employees with chronic diseases are encouraged to prolong their working lives. It is important to prevent health deterioration in this vulnerable group. This study aims to investigate whether work characteristics predict health deterioration over a 3-year period among employees with (1) chronic diseases, and, more specifically, (2) musculoskeletal and psychological disorders. Methods The study population consisted of 5600 employees aged 45-64 years with a chronic disease, who participated in the Dutch Study on Transitions in Employment, Ability and Motivation (STREAM). Information on work characteristics was derived from the baseline questionnaire. Health deterioration was defined as a decrease in general health (SF-12) between baseline and follow-up (1-3 years). Crude and adjusted logistic regression analyses were performed to investigate prediction of health deterioration by work characteristics. Subgroup analyses were performed for employees with musculoskeletal and psychological disorders. Results At follow-up, 19.2% of the employees reported health deterioration (N = 1075). Higher social support of colleagues or supervisor predicted health deterioration in the crude analyses in the total group, and the groups with either musculoskeletal or psychological disorders (ORs 1.11-1.42). This effect was not found anymore in the adjusted analyses. The other work characteristics did not predict health deterioration in any group. Conclusions This study did not support our hypothesis that work characteristics predict health deterioration among employees with chronic diseases. As our study population succeeded continuing employment to 45 years and beyond, it was probably a relatively healthy selection of employees.",
+    "DOI": "10.1007/s10926-017-9716-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on work characteristics and their impact on health deterioration among employees with chronic diseases.",
+            "study_design": "Cross-sectional study using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

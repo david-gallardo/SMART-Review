@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1930,
+    "Authors": "Kacmarek, Corinne N.; Yates, Brian T.; Nich, Charla; Kiluk, Brian D.",
+    "Article Title": "A pilot economic evaluation of computerized cognitive behavioral therapy for alcohol use disorder as an addition and alternative to traditional therapy",
+    "Abstract": "Background Computer-based delivery of cognitive behavioral therapy (CBT) may be a less costly approach to increase dissemination and implementation of evidence-based treatments for alcohol use disorder (AUD). However, comprehensive evaluations of costs, cost-effectiveness, and cost-benefit of computer-delivered interventions are rare.Methods This study used data from a completed randomized clinical trial to evaluate the cost-effectiveness and cost-benefit of a computer-based version of CBT (CBT4CBT) for AUD. Sixty-three participants were randomized to receive one of the following treatments at an outpatient treatment facility and attended at least one session: (1) treatment as usual (TAU), (2) CBT4CBT plus treatment as usual (CBT4CBT+TAU), or (3) CBT4CBT plus brief monitoring.Results Median protocol treatment costs per participant differed significantly between conditions, Kruskal-Wallis H(2) = 8.40, p = 0.02, such that CBT4CBT+TAU and CBT4CBT+monitoring each cost significantly more per participant than TAU. However, when nonprotocol treatment costs were included, total treatment costs per participant did not differ significantly between conditions. Median incremental cost-effective ratios (ICERs) revealed that CBT4CBT+TAU was more costly and more effective than TAU. It cost $35.08 to add CBT4CBT to TAU to produce a reduction of one additional drinking day per month between baseline and the end of the 8-week treatment protocol: CBT4CBT+monitoring cost $33.70 less to produce a reduction of one additional drinking day per month because CBT4CBT+monitoring was less costly than TAU and more effective at treatment termination, though not significantly so. Net benefit analyses suggested that costs of treatment, regardless of condition, did not offset monthly costs related to healthcare utilization, criminal justice involvement, and employment disruption between baseline and 6-month follow-up. Benefit-cost ratios were similar for each condition.Conclusions Results of this pilot economic evaluation suggest that an 8-week course of CBT4CBT may be a cost-effective addition and potential alternative to standard outpatient treatment for AUD. Additional research is needed to generate conclusions about the cost-benefit of providing CBT4CBT to treatment-seeking individuals participating in standard outpatient treatment.",
+    "DOI": "10.1111/acer.14601",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention (computerized cognitive behavioral therapy for alcohol use disorder) is outside the specified interventions related to active employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on alcohol use disorder and not on mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

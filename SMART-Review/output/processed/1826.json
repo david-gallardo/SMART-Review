@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1826,
+    "Authors": "Knaeps, Jeroen; Neyens, Inge; Donceel, Peter; van Weeghel, Jaap; Van Audenhove, Chantal",
+    "Article Title": "Beliefs of Vocational Rehabilitation Counselors About Competitive Employment for People With Severe Mental Illness in Belgium",
+    "Abstract": "Vocational rehabilitation (VR) counselors do not always focus on competitive employment for people with severe mental illness (SMI). Based on the Theory of Planned Behavior (TPB), this study examines how three types of VR counselors (i.e., gatekeepers, case managers, and specialists) vary in their underlying beliefs about competitive employment. VR counselors (N = 286) from Belgium completed an online TPB survey measuring behavioral, normative, control, and self-efficacy beliefs. Differences in beliefs were analyzed by one-way ANOVAs and post hoc comparisons using Bonferroni correction. Results indicate that counselors differ in their beliefs regarding competitive employment for people with SMI. Specialized counselors are stronger convinced that competitive employment results in latent benefits (e.g., increased integration and self-confidence). In contrast, gatekeepers consider income as the most recurrent and positive effect. The more specialized VR counselors are, the more often they perceive significant others valuing competitive employment and the more often they may comply with these norms. Finally, specialized counselors experience fewer barriers, more control, and more self-efficacy in dealing with problems compared with less specialized counselors. The differences in beliefs determining the focus on competitive employment may result in a lack of an integrated approach. Training, outcome feedback, and intersectoral communication can enhance consistency between different VR services.",
+    "DOI": "10.1177/0034355214531075",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a survey with a control group (TPB survey), the geographic scope is within the EU (Belgium), the timeframe is within the specified range (2005-2025), the intervention is vocational rehabilitation services, the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group and does not directly address employment outcomes. It focuses on beliefs of vocational rehabilitation counselors about competitive employment for people with severe mental illness in Belgium.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. The study's focus is on the beliefs of VR counselors, not on employment outcomes.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation of an employment intervention.",
+            "study_design": "Survey using Theory of Planned Behavior",
+            "logprobs": null
+        }
+    }
+}

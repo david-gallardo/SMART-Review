@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1801,
+    "Authors": "Beck, David; Lenhardt, Uwe",
+    "Article Title": "Consideration of psychosocial factors in workplace risk assessments: findings from a company survey in Germany",
+    "Abstract": "PurposeWork-related psychosocial risks are an increasingly important issue in occupational safety and health (OSH) policy. In Germany, as in many other European countries, employers are legally required to carry out workplace risk assessments (WRAs) and to account for psychosocial factors when doing this. The aim of this study was to expand the still scarce and sketchy empirical evidence on the extent to which employers comply with these obligations, as well as on possible determinants of compliance behaviour.MethodsSurvey data from 6500 German companies were used to calculate the prevalence of workplace risk assessments that include psychosocial factors. Furthermore, multinomial logistic regressions were performed to explore which company characteristics influence the chance of psychosocial risk assessment occurrence.ResultsThe prevalence of psychosocial risk assessments was 21%. Next to company size (OR=5.7, 95% CI 3.0-11.0), availability of safety specialist assistance (OR=3.5, 95% CI 2.6-4.6), availability of occupational health specialist assistance (OR=3.4; 95% CI 2.6-4.4) and inspection by OSH authority (OR=3.4, 95% CI 2.4-4.7) were the strongest predictors of psychosocial risk assessment occurrence. Smaller (but still significant) effect sizes were found for the level of knowledge about legal OSH requirements, training of managers in OSH, economic situation of the company, presence of a works council, positive view on the benefit of OSH, affiliation with the production sector and magnitude of psychosocial risks within the company.ConclusionsThe study results indicate large deficiencies in the implementation of psychosocial risk assessments, especially for small companies. Findings suggest that enhancing companies' utilisation of professional OSH experts and strengthening the advisory and control capacities of the OSH inspection authorities in the area of psychosocial risks would be beneficial for improving the current situation.",
+    "DOI": "10.1007/s00420-019-01416-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on a company survey in Germany, which meets the geographic scope criteria. The timeframe is within the specified range of 2005-2025. The intervention is related to workplace risk assessments, which meets the inclusion criteria for intervention. The population references mental health, meeting the inclusion criteria for population. The outcomes present measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial risk assessments in workplaces. It lacks measures of employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey with multinomial logistic regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

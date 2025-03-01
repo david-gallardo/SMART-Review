@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1780,
+    "Authors": "Drake, Robert E.; Strickler, David C.; Bond, Gary R.",
+    "Article Title": "Psychiatric Rehabilitation in Residential Treatment Settings",
+    "Abstract": "Residential treatment settings can provide safety, stabilization, and treatment. Many also provide psychiatric rehabilitation, defined here as enhancement of supports and skills. Long-term residential treatment must balance potential benefits and harms. Critical issues include dependence, community inclusion, transfer of skills, supported employment and education, psychiatric medications, and perverse incentives. Guidelines to address each of these issues include emphasis on independence, recovery, living in the community, informed decision-making, developing skills and supports in real-world settings, pursuing education and employment in normal school and work settings, developing healthy relationships outside of professional staff, minimizing medication exposure, and minimizing time in segregated residential programs.",
+    "DOI": "10.3928/00485713-20150304-05",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment or labor outcomes, and instead focuses on psychiatric rehabilitation in residential treatment settings.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on psychiatric rehabilitation in residential treatment settings and critical issues related to long-term residential care.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify the study design and does not clearly mention controlled trials, RCTs, or quasi-experimental studies. Additionally, it does not provide specific employment outcomes such as employment rates, job duration, etc.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

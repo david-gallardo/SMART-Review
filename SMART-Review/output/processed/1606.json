@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1606,
+    "Authors": "Boini, Stephanie; Chouaniere, Dominique; Wild, Pascal",
+    "Article Title": "Do the work unit characteristics directly or indirectly affect psychological distress in female call-handlers?",
+    "Abstract": "Purpose This study aimed to test if work unit characteristics (WUCs) reported by call-center managers were directly related to the psychological distress reported by call-handlers or if these associations were mediated by the psychosocial working conditions (PWC). Methods Managers of 105 call-centers were interviewed about their call-center's WUCs by occupational physicians. 2719 female call-handlers from these call-centers completed self-reported questionnaires to evaluate PWC (Karasek, Siegrist, and other specific workplace stressors) and psychological distress (GHQ12 score). A two-level analysis tested the relationships between the 14 WUCs and GHQ12 score, with and without adding PWC as confounders. Unchanged coefficients between WUCs and GHQ12 score were assumed to flag a direct association between WUCs and psychological distress. In the case of changed coefficients, the mediated proportion was estimated using multiple mixed models. Results Five out of fourteen WUCs were related to GHQ12 score: outbound-call type, call-center size, number of activity parameters displayed on the screen, the existence of a fixed break, and the assigned role of the supervisor being the monitoring/supervision of call-handler activities. After adding PWC, the association remained statistically significant only for outbound calls. For the other WUCs, the proportion of mediation by stressor ranged from 56 to 66%. Mediation was mostly through job demand, lack of reward and ethical conflict dimensions. Conclusion The main results were that (1) associations exist between the WUCs reported by managers and the psychological distress reported by call-handlers, and (2) that most of these associations are mediated by psychosocial working conditions.",
+    "DOI": "10.1007/s00420-020-01614-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is female call-handlers rather than people with mental health disorders. The intervention and outcomes focus on work unit characteristics and psychological distress.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on call-handlers in call-centers, which is not the targeted population of people with mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

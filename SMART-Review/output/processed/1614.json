@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1614,
+    "Authors": "van Hees, Suzanne G. M.; Carlier, Bouwine E.; Vossen, Emma; Blonk, Roland W. B.; Oomens, Shirley",
+    "Article Title": "Towards a better understanding of work participation among employees with common mental health problems: a systematic realist review",
+    "Abstract": "Objectives Common mental health problems (CMHP) represent a major health issue and burden to employees and employers. Under certain conditions work contributes to wellbeing and participation of employees with CMHP. Promoting work participation is important, however the specific conditions in which work participation occurs is complex and largely unclear. This calls for a novel, realistic approach to unravel the complex relationship between outcomes, context and underlying mechanisms of work participation.Methods In the present realist review, peer-reviewed studies conducted between 1995 and 2020 were systematically reviewed on the outcome measures 'stay at work' (SAW) and 'work performance' (WP). The database search from seven databases identified 2235 records, of which 61 studies met the selection criteria and methodological rigor.Results The synthesis demonstrates how work participation is promoted by the following mechanisms and contextual factors: (i) organizational climate and leadership, (ii) social support, (iii) perceived job characteristics, (iv) coping styles, (v) health symptoms and severity, (vi) personal characteristics, and (vii) features of interventions. An explanatory framework, based on the Capability-for-Work model, presents a new set of capabilities leading to SAW and WP.Conclusions This systematic realist review revealed mechanisms and contextual factors that promote both SAW and WP among employees with CMHP. These show how the organizational climate, social support in the work context, job characteristics and certain capabilities enable employees with CMHP to participate at work. Our contributions and practical implications are discussed, providing valuable insights for employers, professionals and researchers in the development of evidence-based interventions.",
+    "DOI": "10.5271/sjweh.4005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a realist review, which is not included in the inclusion criteria. The review aims to identify mechanisms and contextual factors that promote work participation, but it does not meet the criteria for a systematic review or quasi-experimental study with a control group.",
+            "study_design": "Realist review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a realist review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. The timeframe does not meet the criteria as it ends in 2020 instead of 2005-2025.",
+            "study_design": "Realist review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic realist review, which meets the intervention criteria and focuses on employment outcomes for people with mental health disorders. It is within the specified timeframe and includes EU countries in its scope.",
+            "study_design": "Systematic realist review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "systematic realist review",
+            "logprobs": null
+        }
+    }
+}

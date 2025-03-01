@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1675,
+    "Authors": "Luciano, Alison; Bond, Gary R.; Drake, Robert E.; Becker, Deborah R.",
+    "Article Title": "Is High Fidelity to Supported Employment Equally Attainable in Small and Large Communities?",
+    "Abstract": "Individual Placement and Support (IPS) is an evidence-based model to help people with serious mental illness achieve employment. This study examined variation in model adherence in small and large communities. We compared program-level ratings on a standardized 25-item IPS fidelity scale (range = 25-125) for 79 sites in eight states categorized by local community size. Programs in large and small communities achieved comparable fidelity scores (mean = 100 and 104, respectively). Fidelity-outcome correlations within the two groups were both of moderate size. As a practical guide, the IPS fidelity scale is suitable for use in both small and large communities.",
+    "DOI": "10.1007/s10597-013-9687-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the fidelity of supported employment programs in small and large communities but does not include measures of employment or labor results.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the fidelity of the IPS model rather than the employment outcomes of the intervention itself.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a controlled trial (quasi-experimental), the geographic scope is within the US, the timeframe is not specified but likely falls within 2005-2025, the intervention is supported employment, the population is people with serious mental illness, and the outcomes include employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

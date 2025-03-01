@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1776,
+    "Authors": "Lu, Weili; Waynor, William; Yanos, Philip T.; Reilly, Ann; Stone, Brittany; Bazan, Carolyn; Giocobbe, Giovanna R.",
+    "Article Title": "The Hidden It Barrier to Employment: Untreated and Undiagnosed Post-Traumatic Stress Disorder",
+    "Abstract": "Persons with severe mental illness have unusually high rates of exposure to trauma as well as high rates of Post-traumatic stress disorder (PTSD). Further, research has indicated that persons with PTSD have more problems with obtaining and maintaining employment. This paper proposes that untreated and undiagnosed PTSD is a hidden barrier to employment for persons with severe mental illness. Additionally, this paper uses case examples to illustrate how PTSD symptoms negatively impact the supported employment process, and proposes a theoretical pathway and two case examples for how Cognitive Behavior Therapy may help to facilitate removing the hidden barriers to employment.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Case examples",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. It is based on case examples and proposes a theoretical pathway rather than presenting empirical evidence from controlled trials, meta-analyses, or systematic reviews.",
+            "study_design": "Case examples and theoretical pathway",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not present measures of employment or labor results.",
+            "study_design": "Case Study",
+            "logprobs": null
+        }
+    }
+}

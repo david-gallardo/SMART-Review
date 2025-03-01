@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1846,
+    "Authors": "Carolan, Stephany; Harris, Peter R.; Cavanagh, Kate",
+    "Article Title": "Improving Employee Well-Being and Effectiveness: Systematic Review and Meta-Analysis of Web-Based Psychological Interventions Delivered in the Workplace",
+    "Abstract": "Background: Stress, depression, and anxiety among working populations can result in reduced work performance and increased absenteeism. Although there is evidence that these common mental health problems are preventable and treatable in the workplace, uptake of psychological treatments among the working population is low. One way to address this may be the delivery of occupational digital mental health interventions. While there is convincing evidence for delivering digital psychological interventions within a health and community context, there is no systematic review or meta-analysis of these interventions in an occupational setting.Objective: The aim of this study was to identify the effectiveness of occupational digital mental health interventions in enhancing employee psychological well-being and increasing work effectiveness and to identify intervention features associated with the highest rates of engagement and adherence.Methods: A systematic review of the literature was conducted using Cochrane guidelines. Papers published from January 2000 to May 2016 were searched in the PsychINFO, MEDLINE, PubMed, Science Direct, and the Cochrane databases, as well as the databases of the researchers and relevant websites. Unpublished data was sought using the Conference Proceedings Citation Index and the Clinical Trials and International Standard Randomized Controlled Trial Number (ISRCTN) research registers. A meta-analysis was conducted by applying a random-effects model to assess the pooled effect size for psychological well-being and the work effectiveness outcomes. A positive deviance approach was used to identify those intervention features associated with the highest rates of engagement and adherence.Results: In total, 21 randomized controlled trials (RCTs) met the search criteria. Occupational digital mental health interventions had a statistically significant effect post intervention on both psychological well-being (g=0.37, 95% CI 0.23-0.50) and work effectiveness (g=0.25, 95% CI 0.09-0.41) compared with the control condition. No statistically significant differences were found on either outcome between studies using cognitive behavioral therapy (CBT) approaches (as defined by the authors) compared with other psychological approaches, offering guidance compared with self-guidance, or recruiting from a targeted workplace population compared with a universal workplace population. In-depth analysis of the interventions identified by the positive deviance approach suggests that interventions that offer guidance are delivered over a shorter time frame (6 to 7 weeks), utilize secondary modalities for delivering the interventions and engaging users (ie, emails and text messages [short message service, SMS]), and use elements of persuasive technology (ie, self-monitoring and tailoring), which may achieve greater engagement and adherence.Conclusions: This review provides evidence that occupational digital mental health interventions can improve workers' psychological well-being and increase work effectiveness. It identifies intervention characteristics that may increase engagement. Recommendations are made for future research, practice, and intervention development.",
+    "DOI": "10.2196/jmir.7583",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review of controlled trials, which meets the inclusion criteria. The study includes a control group and assesses outcomes such as employment or labor outcomes.",
+            "study_design": "Systematic review of controlled trials",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on web-based psychological interventions delivered in the workplace to improve employee well-being and effectiveness rather than addressing employment policies for people with mental health disorders. It does not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on digital interventions in the workplace for mental health, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

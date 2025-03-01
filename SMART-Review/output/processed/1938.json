@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1938,
+    "Authors": "Cerda, Magdalena; Gaidus, Andrew; Keyes, Katherine M.; Ponicki, William; Martins, Silvia; Galea, Sandro; Gruenewald, Paul",
+    "Article Title": "Prescription opioid poisoning across urban and rural areas: identifying vulnerable groups and geographic areas",
+    "Abstract": "Aims To determine (1) whether prescription opioid poisoning (PO) hospital discharges spread across space over time, (2) the locations of 'hot-spots' of PO-related hospital discharges, (3) how features of the local environment contribute to the growth in PO-related hospital discharges and (4) where each environmental feature makes the strongest contribution. Design Hierarchical Bayesian Poisson space-time analysis to relate annual discharges fromcommunity hospitals to postal code characteristics over 10 years. Setting California, USA. Participants Residents of 18 517 postal codes in California, 2001-11. Measurements Annual postal code-level counts of hospital discharges due to PO poisoning were related to postal code pharmacy density, measures ofmedical need for POs (i.e. rates of cancer and arthritis-related hospital discharges), economic stressors (i.e. median household income, percentage of families in poverty and the unemployment rate) and concentration of manual labor industries. Findings PO-related hospital discharges spread from rural and suburban/exurban 'hot-spots' to urban areas. They increased more in postal codes with greater pharmacy density [rate ratio (RR) = 1.03; 95% credible interval (CI) = 1.01, 1.05], more arthritis-related hospital discharges (RR = 1.08; 95% CI = 1.06, 1.11), lower income (RR = 0.85; 95% CI = 0.83, 0.87) andmoremanual labor industries (RR = 1.15; 95% CI = 1.10, 1.19 for construction; RR = 1.12; 95% CI = 1.04, 1.20 for manufacturing industries). Changes in pharmacy density primarily affected PO-related discharges in urban areas, while changes in income and manual labor industries especially affected PO-related discharges in suburban/exurban and rural areas. Conclusions Hospital discharge rates for prescription opioid (PO) poisoning spread from rural and suburban/exurban hot-spots to urban areas, suggesting spatial contagion. The distribution of age-related and work-place-related sources of medical need for POs in rural areas and, to a lesser extent, the availability of POs through pharmacies in urban areas, partly explain the growth of PO poisoning across California, USA.",
+    "DOI": "10.1111/add.13543",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on prescription opioid poisoning hospital discharges rather than active employment policies for people with mental health disorders.",
+            "study_design": "Hierarchical Bayesian Poisson space-time analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on prescription opioid poisoning in urban and rural areas. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Hierarchical Bayesian Poisson space-time analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it involve interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Hierarchical Bayesian Poisson space-time analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Hierarchical Bayesian Poisson space-time analysis",
+            "logprobs": null
+        }
+    }
+}

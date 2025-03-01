@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1941,
+    "Authors": "Ferguson, Kristin M.",
+    "Article Title": "Employment Outcomes From a Randomized Controlled Trial of Two Employment Interventions With Homeless Youth",
+    "Abstract": "Objective: Limited research exists on how employment interventions contribute to employment outcomes for homeless youth. This study examines the comparative efficacy of 2 interventions-Social Enterprise Intervention (SEI) and Individual Placement and Support (IPS)-provided to homeless youth with mental illness in a randomized controlled trial. Method: Participants were recruited from 1 homeless youth agency in Los Angeles, CA, and randomized to the SEI (n = 36) or IPS (n = 36) conditions. Over 20 months, SEI participants received 4 SEI components, and IPS participants received IPS services based on 8 principles. Data were collected at baseline and follow-up for the primary employment outcome (paid employment) and 5 secondary employment outcomes. Results: Over 20 months, 39% of SEI participants and 32% of IPS participants reported any paid employment. Across both groups, participants who reported working at baseline had nearly 8 times the odds of working at follow-up (OR = 7.91, p < 0.05). No statistically significant differences were detected across the full sample or between groups on the primary or secondary employment outcomes. Conclusions: Future effectiveness research is needed to compare the long-term employment outcomes of the SEI and IPS with a more heterogeneous sample of homeless youth using customized homelessness support services and more nuanced employment outcomes.",
+    "DOI": "10.1086/696372",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the geographic scope criteria as it is conducted in Los Angeles, CA, which is outside of EU countries, Europe, US, Canada, and Australia.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless youth with mental illness, not specifically on people with mental health disorders in general.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted in the US within the specified timeframe, focuses on supported employment for people with mental health disorders, and reports employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

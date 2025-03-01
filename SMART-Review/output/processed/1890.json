@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1890,
+    "Authors": "Andrea, Sarah B.; Messer, Lynne C.; Marino, Miguel; Goodman, Julia M.; Boone-Heinonen, Janne",
+    "Article Title": "The tipping point: could increasing the subminimum wage reduce poverty-related antenatal stressors in US women?",
+    "Abstract": "Purpose: Tipped workers, primarily women of reproductive-age, can be paid a subminimum wage 71% lower than the federal minimum wage, contributing to economic hardship. Poverty-related antenatal stress has deleterious health effects for women and their children. The purpose of this study was to investigate the effects of increasing the state-level subminimum wage (currently $2.13 per hour) on poverty-related antenatal stress for women in the United States.Methods: Utilizing a difference-in-differences approach comparing state wage policies over time, we estimated the impact of increases in the subminimum wage on poverty-related antenatal stress using data from 35 states participating in the Pregnancy Risk Assessment Monitoring System between 2004 and 2014, linked to state-level wage laws, census, and antipoverty policy data.Results: The effect of increasing the subminimum wage on poverty-related stress differed by year and sociodemographics. Wage increases in 2014 were associated with the largest decreases in stress for unmarried women of color with less than a college degree, a population that we estimated would have experienced a 19.7% reduction in stress from 2004 to 2014 if subminimum wage was equivalent to the federal minimum wage.Conclusions: Increasing the subminimum wage can reduce poverty-related stress and may be a potential intervention for reducing poor health outcomes. (C) 2020 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.annepidem.2020.03.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather poverty-related antenatal stressors in US women.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders and focuses on poverty-related antenatal stress in women. The intervention (increasing the subminimum wage) is a labor regulation policy, which falls under exclusion criteria.",
+            "study_design": "Difference-in-differences approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of increasing the subminimum wage on poverty-related antenatal stress in US women, which does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Difference-in-differences approach",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and the population is not explicitly people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

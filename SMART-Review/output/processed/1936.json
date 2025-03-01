@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1936,
+    "Authors": "Taylor, Amanda C.; Bond, Gary R.",
+    "Article Title": "Employment Specialist Competencies as Predictors of Employment Outcomes",
+    "Abstract": "Employment specialist competencies were examined as predictors of employment outcomes for consumers with serious mental illness participating in supported employment. Self-report and supervisor-rated performance measures from 57 employment specialists were correlated with three consumer employment outcomes (i.e., competitive employment rate, 90-day employment rate, and dropout rate). Employment specialists varied from 0 to 80 % in the competitive employment rates for their caseloads. Supervisor ratings of job performance and employment specialist efficacy, percentage of time in the community, and frequency of contacts with consumers were associated with employment outcomes. Employment specialist self-report measures were unrelated to employment outcomes. Surprisingly, employment specialists with larger caseload sizes had higher employment rates. Employment specialists vary widely in their effectiveness. Behavioral measures and supervisory ratings of employment specialists were most predictive of employment outcomes. Direct observation of employment specialist job performance appears to be the most promising method for identifying competencies predictive of employment outcome.",
+    "DOI": "10.1007/s10597-012-9554-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a correlation study with a control group (employment specialists' self-report measures vs. employment outcomes), the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is within the specified range, the intervention is job search services (supported employment), the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Correlation study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental with control group) and does not directly address employment policies. It focuses on predictors of employment outcomes rather than evaluating specific interventions.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not include a control group, which is a requirement for the study design.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment, includes people with mental disorders, and reports employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

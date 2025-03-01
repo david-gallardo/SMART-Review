@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1926,
+    "Authors": "Gugushvili, Alexi; Azarova, Aytalina; Irdam, Darja; Crenna-Jennings, Whitney; Murphy, Michael; McKee, Martin; King, Lawrence",
+    "Article Title": "Correlates of frequent alcohol consumption among middle-aged and older men and women in Russia: A multilevel analysis of the PrivMort retrospective cohort study",
+    "Abstract": "Background: A large proportion of premature deaths in Russia since the early 1990s, following the transition from communism, have been attributed to hazardous drinking. Little is known about the correlates of alcohol consumption. We present new data on the consumption of alcoholic beverages among middle-aged and older Russians and identify socio-demographic, socio-economic, and life-course correlates of frequent drinking.Methods: Within the framework of the PrivMort project, conducted in 30 industrial towns in the European part of Russia, we acquired information on the frequency of drinking among 22,796 respondents and 57,907 of their surviving and deceased relatives. We fit three-level mixed-effects logistic regression models of frequent drinking in which respondents' relatives, aged 40 and over, are nested in their families and towns.Results: Deceased male relatives consumed alcohol significantly more often, while deceased female relatives consumed alcohol significantly less often than the respondents of corresponding gender. In a multivariable analysis, we found that individuals' education, communication with family members, labour market status, history of unemployment, and occupational attainment are all significant correlates of frequent drinking in Russia. These associations are stronger among men rather than among women.Conclusion: There are significant differences between frequency of drinking among surviving and deceased individuals and frequent drinking is associated with a wide array of individual socio-demographic, socio-economic, and life course factors that can partially explain high alcohol consumption in post-communist Russia.",
+    "DOI": "10.1016/j.drugalcdep.2018.03.038",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is outside the EU, Europe, US, Canada, or Australia.",
+            "study_design": "Multilevel analysis of the PrivMort retrospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the correlates of frequent alcohol consumption among middle-aged and older Russians.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on alcohol consumption correlates in Russia, not employment outcomes for people with mental health disorders.",
+            "study_design": "retrospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions related to job search services, adult training, wage subsidies, or supported employment. Additionally, the outcomes do not include measures of employment or labor results.",
+            "study_design": "Multilevel analysis",
+            "logprobs": null
+        }
+    }
+}

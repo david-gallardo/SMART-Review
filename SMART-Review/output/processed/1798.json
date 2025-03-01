@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1798,
+    "Authors": "Ahlin, Julia K.; Peristera, Paraskevi; Westerlund, Hugo; Hanson, Linda L. Magnusson",
+    "Article Title": "Psychosocial working characteristics before retirement and depressive symptoms across the retirement transition: a longitudinal latent class analysis",
+    "Abstract": "Objectives Retirement is a major life transition. However, previous evidence on its mental health effects has been inconclusive. Whether retirement is desirable or not may depend on pre-retirement work characteristics. We investigated trajectories of depressive symptoms across retirement and how a number of psychosocial working characteristics influenced these trajectories.Methods We included 1735 respondents from the Swedish Longitudinal Occupational Survey of Health (SLOSH), retiring during 2008-2016 (mean retirement age 66 years). They had completed biennial questionnaires reporting job demands, decision authority, workplace social support, efforts, rewards, procedural justice and depressive symptoms. We applied group-based trajectory modelling to model trajectories of depressive symptoms across retirement. Multinomial logistic regression analyses estimated the associations between psychosocial working characteristics and depressive symptom trajectories.Results We identified five depression trajectories. In four of them, depressive symptoms decreased slightly around retirement. In one, the symptom level was initially high, then decreased markedly across retirement. Perceptions of job demands, job strain, workplace social support, rewards, effort-reward imbalance and procedural justice were associated with the trajectories, while perceptions of decision authority and work efforts were only partly related to the trajectories.Conclusions We observed a rather positive development of depressive symptoms across retirement in a sample of Swedish retirees. For a small group with poor psychosocial working characteristics, symptoms clearly decreased, which may indicate that a relief from poor working characteristics is associated with an improvement for some retirees. However, for other retirees poor working characteristics were associated with persistent symptoms, suggesting a long-term effect of these work stressors.",
+    "DOI": "10.5271/sjweh.3889",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a group-based trajectory modeling, which is not explicitly mentioned as a type of study design in the inclusion criteria. The study also lacks a control group.",
+            "study_design": "Group-based trajectory modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It is a longitudinal latent class analysis examining the effects of psychosocial working characteristics on depressive symptoms during retirement transition.",
+            "study_design": "Longitudinal latent class analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal latent class analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on retirement and depressive symptoms rather than active employment policies.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

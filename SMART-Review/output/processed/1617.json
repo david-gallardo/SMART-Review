@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1617,
+    "Authors": "Tsantila, Fotini; Rugulies, Reiner; Coppens, Evelien; De Witte, Hans; Arensman, Ella; Kahar, Abdulla; Cerga-Pashoja, Arlinda; Corcoran, Paul; De Winter, Lars; Greiner, Birgit; Griffin, Eve; Hogg, Bridget; Leduc, Caleb; Leduc, Mallorie; Maxwell, Margaret; Reich, Hanna; Ross, Victoria; Van Audenhove, Chantal; Aust, Birgit; MENTUPP Consortium Members, Kahar",
+    "Article Title": "Towards an assessment of psychosocial work factors in a multi-level mental health intervention in the workplace: results from the MENTUPP pilot-study",
+    "Abstract": "BackgroundMental health in the workplace is a growing concern for enterprises and policy makers. MENTUPP is a multi-level mental health intervention implemented in small and medium size enterprises from three work sectors in nine countries. This pilot study aimed to evaluate the feasibility, delivery, and instruments for the MENTUPP intervention to inform the planning of a clustered randomized controlled trial.MethodsWe administered items from the Copenhagen Psychosocial Questionnaire and the Danish Work Environment Cohort Study measuring psychosocial workplace factors. The questionnaire was answered by 382 participants at baseline, of which 98 participants also answered after six months at follow-up. We calculated mean scores of 19 psychosocial factors at baseline and conducted repeated measures ANOVAs to assess differences in eight psychosocial factors at follow-up. We also examined whether outcomes differed between work sectors and job positions at follow-up.ResultsThe construction sector and workers with no or a lower leadership role reported more negative working environment factors at baseline. We observed a statistically significant decline in social support from colleagues and social community at work, and a marginally significant decline in justice at work. For the rest of the constructs, we did not observe statistically significant changes.ConclusionsWe found significant differences in psychosocial work environment factors among work sectors and job positions at baseline. Contrary to our hypotheses, three psychosocial work environment factors decreased at follow-up. Possible explanations are the utilization of specific psychosocial factors as resources to cope with psychosocial stressors, high participant expectations that were not met by the intervention, insufficient time for structural changes, or the intervention prompting critical evaluations of the work environment. These findings will inform the design and implementation of the forthcoming clustered randomized controlled trial, where they will also be further investigated to validate their significance.",
+    "DOI": "10.1007/s00420-024-02096-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation and does not have a control group. It is a pilot-study aimed at evaluating the feasibility, delivery, and instruments of the MENTUPP intervention rather than directly assessing employment outcomes for people with mental health disorders.",
+            "study_design": "Pilot-study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on interventions directly addressing employment outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        }
+    }
+}

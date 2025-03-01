@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1738,
+    "Authors": "de Breij, Sascha; Huisman, Martijn; Boot, Cecile R. L.; Deeg, Dorly J. H.",
+    "Article Title": "Sex and gender differences in depressive symptoms in older workers: the role of working conditions",
+    "Abstract": "Background Female older workers generally leave the work force earlier than men. Depressive symptoms are a risk factor of early work exit and are more common in women. To extend working lives, pathways leading to these sex inequalities need to be identified. The aim of this study was to investigate the association of sex and gender with depressive symptoms in older workers, and the role of working conditions in this association. Methods We used data from the Longitudinal Aging Study Amsterdam (2012-2013/2015-2016, n = 313). Our outcome was depressive symptoms, measured by the Center for Epidemiologic Studies Depression Scale. We included biological sex, a gender index ranging from masculine to feminine (consisting of six items measuring gender roles: working hours, income, occupation segregation, education, informal caregiving, time spent on household chores), and working conditions (physical demands, psychosocial demands, cognitive demands, autonomy, task variation, social support) in our models. We examined the differential vulnerability hypothesis, i.e., sex/gender moderates the association between working conditions and depressive symptoms, and the differential exposure hypothesis, i.e., working conditions mediate the association between sex/gender and depressive symptoms. Results Female sex and feminine gender were both associated with more depressive symptoms. The differential vulnerability hypothesis was not supported by our results. We did find that femininity was negatively associated with autonomy and task variation. In turn, these working conditions were associated with fewer depressive symptoms. Thus, autonomy and task variation partially mediated the association between gender and depressive symptoms, supporting the differential exposure hypothesis. Mediation effects for sex inequalities were not significant. Conclusions Older female workers and older feminine workers have more depressive symptoms than their male/masculine counterparts. Autonomy and task variation appeared to be important in - partially - explaining gender differences in depressive symptoms rather than sex differences. By improving these conditions, gender inequality in mental health among older workers can be reduced, so that both genders have similar chances to reach the retirement age in good mental health.",
+    "DOI": "10.1186/s12889-022-13416-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on depressive symptoms among older workers. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on depressive symptoms and working conditions in older workers, not directly on employment outcomes or interventions targeted at employment for people with mental health disorders.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

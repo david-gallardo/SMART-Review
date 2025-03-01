@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1646,
+    "Authors": "Macia, Kathryn S.; Blonigen, Daniel M.; Shaffer, Paige M.; Cloitre, Marylene; Smelson, David A.",
+    "Article Title": "Trauma-related differences in socio-emotional functioning predict housing and employment outcomes in homeless veterans",
+    "Abstract": "Rationale: Mental health and substance use disorders are strong risk factors for homelessness. Understanding the role of transdiagnostic factors could help inform efforts to reduce homelessness among veterans with a range of disorders. Homeless veterans have high rates of trauma exposure, which can result in the depletion of social and emotional resources that may contribute to housing and employment stability. In this study, we evaluated the role of problems with emotional lability and interpersonal closeness as transdiagnostic socio-emotional factors that might interfere with efforts to achieve housing and employment stability. Methods: The sample consisted of 346 homeless veterans with co-occurring disorders that were admitted to a U.S. Department of Veterans Affairs (VA) residential treatment program between 2004 and 2009. Assessments were conducted at treatment entry (baseline) and two follow-up timepoints (6- and 12-months). Variables used in the current analyses included history of interpersonal trauma exposure, emotional lability and interpersonal closeness at baseline and 6-months, and homelessness and employment problems during follow-up. Data were analyzed using structural equation modeling and counterfactually-defined mediation effects. Results: Veterans exposed to more trauma types experienced more baseline impairment and less improvement during treatment in emotional lability and interpersonal closeness. Problems with interpersonal closeness mediated 73% of the relationship between exposure to multiple traumas and homelessness, and 32%-61% of the relationship between trauma exposure and employment problems. Emotional lability mediated 36% of the relationship between exposure to multiple traumas and employment problems. Decomposition of indirect pathways revealed that indirect effects were primarily transmitted through changes during treatment, and not baseline levels. Conclusion: Findings support a cumulative effect of trauma on persistence of socio-emotional deficits across treatment, which increased risk of homelessness and employment problems during follow-up. Greater attention and more targeted efforts should be directed at helping trauma-exposed veterans build socio-emotional resources during treatment.",
+    "DOI": "10.1016/j.socscimed.2021.114096",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis with a single timepoint (baseline), which does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Cross-sectional study with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless veterans with co-occurring disorders and does not specifically address employment interventions for people with mental health disorders in the general population.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1635,
+    "Authors": "Buckman, Joshua E. J.; Saunders, Rob; Arundell, Laura-Louise; Oshinowo, Iyinoluwa D.; Cohen, Zachary D.; O'Driscoll, Ciaran; Barnett, Phoebe; Stott, Joshua; Ambler, Gareth; Gilbody, Simon; Hollon, Steven D.; Kendrick, Tony; Watkins, Edward; Eley, Thalia C.; Skelton, Megan; Wiles, Nicola; Kessler, David; DeRubeis, Robert J.; Lewis, Glyn; Pilling, Stephen",
+    "Article Title": "Life events and treatment prognosis for depression: A systematic review and individual patient data meta-analysis",
+    "Abstract": "Objective: To investigate associations between major life events and prognosis independent of treatment type: (1) after adjusting for clinical prognostic factors and socio-demographics; (2) amongst patients with depressive episodes at least six-months long; and (3) patients with a first life-time depressive episode. Methods: Six RCTs of adults seeking treatment for depression in primary care met eligibility criteria, individual patient data (IPD) were collated from all six (n = 2858). Participants were randomized to any treatment and completed the same baseline assessment of life events, demographics and clinical prognostic factors. Two-stage random effects meta-analyses were conducted. Results: Reporting any major life events was associated with poorer prognosis regardless of treatment type. Controlling for baseline clinical factors, socio-demographics and social support resulted in minimal residual evidence of associations between life events and treatment prognosis. However, removing factors that might mediate the relationships between life events and outcomes reporting: arguments/disputes, problem debt, violent crime, losing one's job, and three or more life events were associated with considerably worse prognoses (percentage difference in 3-4 months depressive symptoms compared to no reported life events =30.3%(95%CI: 18.4-43.3)). Conclusions: Assessing for clinical prognostic factors, social support, and socio-demographics is likely to be more informative for prognosis than assessing self-reported recent major life events. However, clinicians might find it useful to ask about such events, and if they are still affecting the patient, consider interventions to tackle problems related to those events (e.g. employment support, mediation, or debt advice). Further investigations of the efficacy of such interventions will be important.",
+    "DOI": "10.1016/j.jad.2021.12.030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Systematic review and individual patient data meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and focuses on life events' association with prognosis for depression independent of treatment type.",
+            "study_design": "Systematic review and individual patient data meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the association between life events and treatment prognosis in depression, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic review and individual patient data meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Systematic review and individual patient data meta-analysis",
+            "logprobs": null
+        }
+    }
+}

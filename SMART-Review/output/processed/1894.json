@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1894,
+    "Authors": "Huynh, Nina; Tariq, Saania; Charron, Catherine; Hayes, Tavis; Bhanushali, Onkar; Kaur, Tina; Jama, Sadia; Ambade, Preshit; Bignell, Ted; Hegarty, Terry; Shorr, Risa; Pakhale, Smita",
+    "Article Title": "Personalised multicomponent interventions for tobacco dependence management in low socioeconomic populations: a systematic review and meta-analysis",
+    "Abstract": "Background There remains a disproportionally high tobacco smoking rate in low-income populations. Multicomponent tobacco dependence interventions in theory are effective. However, which intervention components are necessary to include for low socioeconomic status (SES) populations is still unknown. Objective To assess the effectiveness of multicomponent tobacco dependence interventions for low SES and create a checklist tool examining multicomponent interventions. Methods EMBASE and MEDLINE databases were searched to identify randomised controlled trials (RCTs) published with the primary outcome of tobacco smoking cessation measured at 6 months or post intervention. RCTs that evaluated tobacco dependence management interventions (for reduction or cessation) in low SES (experience of housing insecurity, poverty, low income, unemployment, mental health challenges, illicit substance use and/or food insecurity) were included. Two authors independently abstracted data. Random effects meta-analysis and post hoc sensitivity analysis were performed. Results Of the 33 included studies, the number of intervention components ranged from 1 to 6, with smoking quit rates varying between 1% and 36.6%. Meta-analysis revealed that both the 6-month and 12-month outcome timepoints, multicomponent interventions were successful in achieving higher smoking quit rates than the control (OR 1.64, 95% Cl 1.41 to 1.91; OR 1.74, 95% Cl 1.30 to 2.33). Evidence of low heterogeneity in the effect size was observed at 6-month (I-2=26%) and moderate heterogeneity at 12-month (I-2=56%) outcomes. Conclusion Multicomponent tobacco dependence interventions should focus on inclusion of social support, frequency and duration of components. Employing community-based participatory-action research approach is essential to addressing underlying psychosocioeconomic-structural factors, in addition to the proven combination pharmacotherapies. PROSPERO registration number CRD42017076650.",
+    "DOI": "10.1136/jech-2021-216783",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review and meta-analysis, but it does not meet the inclusion criteria for intervention as it focuses on tobacco dependence management, not employment or labor outcomes.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on tobacco dependence management in low socioeconomic populations.",
+            "study_design": "Systematic review and meta-analysis of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on tobacco dependence interventions in low SES populations, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1791,
+    "Authors": "Zeehmeister-Koss, Ingrid; Winkler, Roman; Fritz, Corinna; Thun-Hohenstein, Leonhard; Tuechler, Heinz",
+    "Article Title": "Services Use of Children and Adolescents before Admission to Psychiatric Inpatient Care",
+    "Abstract": "Background: Although 20 % of children and adolescents in Europe suffer from overt mental health problems, their illness-related service utilisation is often unknown. If at all, existing research has only addressed the health care sector while services requirements in mental health care go far beyond the health care system, including the social, the educational and the criminal justice system.Aims of Study: This paper aims at describing the service contact patterns of children and adolescents within and outside the health care sector before they are admitted to a child and adolescent mental health hospital. Additionally, we evaluate the private out-of-pocket payments that occur for primary carers.Method: A cohort of consecutive admissions to a child and adolescent hospital in Austria was prospectively analysed. We collected data on service use and out-of-pocket expenses before hospital admission from primary carers through face-to-face interviews using an adapted version of the European Child and Adolescent Mental Health Service Receipt Inventory (EU-CAMHSRI). Clinical data came from validated questionnaires (CBCL, YSR) and from the anamnestic documentation.Result: Ninety percent from a cohort of 441 patients had some contact with services or took medication before they were admitted to hospital. Most often, services in the health care outpatient setting were used. Outside of the health care system, support in school, as well as counselling services, were used most frequently, whereas the persons hardly sought support in living or employment. Roughly (sic) 32,400 per 100 patients was spent privately, yet these out-of pocket expenses were very unevenly distributed. Service use and out-of-pocket spending increased with social status and were gender-specific. The more severe external behaviour symptoms were, the more non-health care services were used.Discussion: Mentally ill children and adolescents use a broad range of services across sectors before admission to hospital. Service use is associated with specific symptoms of the disease, yet not with the diagnosis. For some carers, this is linked to considerable financial burden because many of those services are only partly publicly funded or are not part of the health sector. A limitation of the study is the uncertainty of self-reports. Furthermore, we do not know whether the services used were needs-based and effective, and what the utilisation patterns of non-hospitalised children and adolescents are.Implications for Health Policies: Mental health policy for children and adolescents in Austria needs to focus on how to organise a needs-oriented and coordinated services mix across different sectors that is equally accessible regardless of the patients' socio-economic background.Implications for Future Research: To support planning, further research on the factors that predict service use and on the cost-effectiveness of services is required.",
+    "DOI": NaN,
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines service use and out-of-pocket expenses for children and adolescents before admission to a hospital, but it does not address employment or labor outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes or interventions related to active employment policies for people with mental health disorders. It focuses on service use and out-of-pocket payments before admission to a child and adolescent mental health hospital.",
+            "study_design": "Cohort analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on active employment policies for people with mental health disorders, but rather on service utilization patterns before hospital admission.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

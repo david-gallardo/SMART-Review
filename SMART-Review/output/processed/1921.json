@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1921,
+    "Authors": "Corbiere, Marc; Brouwers, Evelien; Lanctot, Nathalie; van Weeghel, Jaap",
+    "Article Title": "Employment Specialist Competencies for Supported Employment Programs",
+    "Abstract": "Purpose Supported employment (SE) programs are evidence-based programs offered to people with severe mental illness to facilitate obtaining and keeping competitive work. However, significant variations in individuals' vocational success may be partly explained by differences in their employment specialists' competencies. Aim The main objectives of this study were to develop a questionnaire measuring the behaviors, attitudes and knowledge of employment specialists working in SE programs and to link specific competencies to vocational outcomes. Methods A total of 153 employment specialists working in Canadian and Dutch supported employment programs completed the Behaviors, Attitudes, and Knowledge in Employment Specialists (BAKES) questionnaire and provided information about their clients' vocational outcomes. Results Exploratory Factor Analyses results found 90 items over 12 subscales (e.g., Relationships with employers and supervisors). Regression analyses indicated that the two most useful subscales for predicting vocational success were: (1) Relationships with employers and supervisors, and (2) support and client-centered approach. Conclusion Employment specialists require specific competencies to help people with severe mental illness obtain and maintain competitive employment. Validating the BAKES will better define the broad range of competencies expected for this position, and this tool may facilitate training of employment specialists.",
+    "DOI": "10.1007/s10926-013-9482-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria. The study focuses on employment specialists' competencies and their impact on vocational outcomes, which aligns with the inclusion criteria. The study's geographic scope includes Canada and the Netherlands, within the EU, and the timeframe is between 2005 and 2025.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly evaluate the effectiveness of interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on developing a questionnaire to measure competencies of employment specialists rather than assessing outcomes related to employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment for people with severe mental illness, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

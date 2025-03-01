@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1758,
+    "Authors": "Mao, Wanying; Adu, Medard; Eboreime, Ejemai; Shalaby, Reham; Nkire, Nnamdi; Agyapong, Belinda; Pazderka, Hannah; Obuobi-Donkor, Gloria; Owusu, Ernest; Oluwasina, Folajinmi; Zhang, Yanbo; Agyapong, Vincent I. O.",
+    "Article Title": "Post-Traumatic Stress Disorder, Major Depressive Disorder, and Wildfires: A Fifth-Year Postdisaster Evaluation among Residents of Fort McMurray",
+    "Abstract": "Background: Over 90,000 residents had to be evacuated from Fort McMurray (FMM), Alberta, Canada due to the wildfire that engulfed the city in May 2016. Overall, about 2400 homes or 10% of the housing stock in Fort McMurray were destroyed. The fire consumed about 200,000 hectors of forest, reaching into Saskatchewan. During major disasters, communities' infrastructure is disrupted, and psychological, economic, and environmental effects are felt for years afterwards. Objective: Five years after the wildfire disaster, this study assessed the prevalence rate of major depressive disorder (MDD) and post-traumatic stress disorder (PTSD) in Fort McMurray residents and determined the demographic, clinical, and other risk factors of probable MDD and PTSD. Methodology: A quantitative cross-sectional survey was conducted to collect data through an online questionnaire administered via REDCap between 24 April and 2 June 2021. The Patient Health Questionnaire (PHQ-9) was used to assess the presence of MDD symptoms in respondents. The PTSD Checklist for DSM-5 (PCL-C) was used to assess likely PTSD in respondents. Descriptive, univariate, and multivariate regression analyses were employed. Results: 186 out of 249 individuals who accessed the survey link completed it (74.7% response rate). The median age of the subscribers was 42. The sample included a majority of 159 (85.5%) females; 98 (52.7%) > 40 years of age; 175 (94.1%) employed; and 132 (71%) in a relationship. The overall prevalence of MDD symptoms in our study sample was 45.0% (76). Four variables independently predicted MDD symptoms in the multivariate logistic regression model, including: unemployed (OR = 12.39; 95% CI: 1.21-126.37), have received a mental diagnosis of MDD (OR = 4.50; 95% CI: 1.57-12.92), taking sedative-hypnotics (OR = 5.27; 95% CI: 1.01-27.39), and willingness to receive mental health counseling (OR = 4.90; 95% CI: 1.95-12.31). The prevalence of likely PTSD among our respondents was 39.6% (65). Three independent variables: received a mental health depression diagnosis from a health professional (OR = 4.49; 95% CI: 1.40-14.44), would like to receive mental health counseling (OR = 4.36, 95% CI: 1.54-12.34), and have only limited or no support from family (OR = 11.01, 95% CI: 1.92-63.20) contributed significantly to the model for predicting likely PTSD among respondents while controlling the other factors in the regression model. Conclusions: According to this study, unemployment, taking sleeping pills, having a prior depression diagnosis, and the willingness to receive mental health counseling significantly increase the odds of having MDD and PTSD following wildfires. Family support may protect against the development of these conditions.",
+    "DOI": "10.3390/ijerph19159759",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on mental health outcomes without examining any employment-related interventions.",
+            "study_design": "Quantitative cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a control group, which is a requirement for inclusion. The study is also not focused on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "quantitative cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

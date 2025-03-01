@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1721,
+    "Authors": "Miller, Natalie Ella; Steptoe, Andrew",
+    "Article Title": "Pericardial Fat, Socioeconomic Status, and Biological Responses to Acute Mental Stress",
+    "Abstract": "ObjectiveCentral adiposity is associated with impaired biological responses to mental stress, and socioeconomic status (SES) might moderate this relationship. However, evidence for associations between pericardial fat, a fat depot implicated in the pathogenesis of cardiovascular disease (CVD), with cardiovascular and inflammatory responses to mental stress is lacking, and moderation by SES is unknown.MethodsThe sample was 473 healthy men and women (mean age = 62.8 years) from the Whitehall II study. Cardiovascular and inflammatory responses to laboratory-induced mental stress, consisting of a 5-minute Stroop task and 5-minute mirror tracing task, were assessed. Pericardial fat volume was measured using electron bean computed tomography and adjusted for body surface area. SES was defined by grade of employment within the British civil service (higher/intermediate/lower).ResultsPericardial fat was associated with lower heart rate variability, raised heart rate, plasma interleukin-6, fibrinogen, and C-reactive protein at baseline. Furthermore, greater pericardial fat was associated with lower systolic blood pressure reactivity to mental stress, independent of sociodemographics, smoking status, waist-to-hip ratio, and baseline systolic blood pressure. There were no interactions between pericardial fat and SES for any outcome.ConclusionsGreater pericardial fat was associated with numerous cardiovascular and inflammatory factors implicated in CVD. It was also related to reduced systolic blood pressure reactivity to acute mental stress, independent of central adiposity and baseline systolic blood pressure. This association did not vary by SES. Reduced systolic blood pressure reactivity to mental stress might contribute to the association between greater pericardial fat and CVD.",
+    "DOI": "10.1097/PSY.0000000000001169",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on cardiovascular and inflammatory responses to mental stress.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the relationship between pericardial fat, socioeconomic status, and biological responses to acute mental stress.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

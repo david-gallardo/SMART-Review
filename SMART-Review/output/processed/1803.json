@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1803,
+    "Authors": "Lamontagne, Erik; Leroy, Vincent; Yakusik, Anna; Parker, Warren; Howell, Sean; Ventelou, Bruno",
+    "Article Title": "Assessment and determinants of depression and anxiety on a global sample of sexual and gender diverse people at high risk of HIV: a public health approach",
+    "Abstract": "BackgroundSexual and gender diverse people face intersecting factors affecting their well-being and livelihood. These include homophobic reactions, stigma or discrimination at the workplace and in healthcare facilities, economic vulnerability, lack of social support, and HIV. This study aimed to examine the association between such factors and symptoms of anxiety and depression among sexual and gender diverse people.MethodsThis study is based on a sample of 108,389 gay, bisexual, queer and questioning men, and transfeminine people from 161 countries collected through a cross-sectional internet survey. We developed a multinomial logistic regression for each group to study the associations of the above factors at different severity scores for anxiety and depression symptoms.ResultsAlmost a third (30.3%) of the participants reported experiencing moderate to severe symptoms of anxiety and depression. Higher severity scores were found for transfeminine people (39%), and queer or questioning people (34.8%). Severe symptoms of anxiety and depression were strongly correlated with economic hardship for all groups. Compared to those who are HIV-negative, those living with HIV were more likely to report severe symptoms of anxiety and depression, and the highest score was among those who do not know their HIV status. Transfeminine people were the most exposed group, with more than 80% higher risk for those living with HIV suffering from anxiety and depression. Finally, homophobic reactions were strongly associated with anxiety and depression. The relative risk of severe anxiety and depression was 3.47 times higher for transfeminine people facing transphobic reactions than those with no symptoms. Moreover, anxiety and depression correlate with stigma or discrimination in the workplace and healthcare facilities.ConclusionsThe strong association between the severity of anxiety and depression, and socioeconomic inequality and HIV status highlights the need for concrete actions to meet the United Nations' pledge to end inequalities faced by communities and people affected by HIV. Moreover, the association between stigma or discrimination and anxiety and depression among sexual and gender diverse people is alarming. There is a need for bold structural public health interventions, particularly for transfeminine, queer and questioning people who represent three communities under the radar of national HIV programmes.",
+    "DOI": "10.1186/s12889-023-17493-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on mental health disorders in the context of HIV and social inequality.",
+            "study_design": "Cross-sectional internet survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on mental health symptoms among sexual and gender diverse people globally. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional internet survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional internet survey",
+            "logprobs": null
+        }
+    }
+}

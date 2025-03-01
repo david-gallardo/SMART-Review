@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1792,
+    "Authors": "Virtanen, Pekka; Nummi, Tapio; Westerlund, Hugo; Ostergren, Per-Olof; Janlert, Urban; Hammarstrom, Anne",
+    "Article Title": "Active labour market policies in emerging adulthood may act as a protective factor against future depressiveness: an analysis of the long-term trajectories of depressive symptoms in the Northern Swedish Cohort",
+    "Abstract": "Introduction Drawing upon the framework of life course epidemiology, this study aligns with research on the mental health consequences of significant social transitions during early adulthood. The focus is on the variation in initial labour market attachment and the development of depressiveness, assuming that a firm attachment is associated with decreasing depressiveness.Methods The baseline investigation of the studied cohort (n = 1,001) took place during their final year of compulsory schooling at age 16. Follow-up surveys were conducted at ages 18, 21, 30, and 43. Depressiveness was measured with a five-item score. Multiple trajectory analysis, incorporating five labour market statuses observed over seven half-year periods from ages 18 to 21, was employed to categorize the cohort into six distinct groups. Among these, 'All-time education,' 'From education to employment,' 'Education and employment,' and 'From employment to education' were considered to demonstrate firm labour market attachment. Meanwhile, 'Active labour market policy' and 'Unemployment' represented less firm attachment.Results The trajectory of depressive symptoms among the total cohort from age 16 to age 43 exhibited a 'broken stick' pattern, reaching its lowest point at age 21. This pattern was evident in all groups classified as having a firm attachment. A substantial decrease in depressiveness was also observed in the relatively weakly attached 'Active labour market policy' group, whereas no 'broken stick' pattern emerged in the 'Unemployment' group. The disparities in the levels of depressiveness observed at age 21 remained relatively stable across the measurements at ages 30 and 43.Discussion The results were as expected, except for the observed improvement in mental health within the 'Active labour market policy' group. Supported labour market attachment during emerging adulthood can enhance mental well-being similarly to regular mainstream attachment. In terms of policy recommendations, the consistently high levels of depressiveness within the 'Unemployment' group underscore the importance of reducing long-term and repeated unemployment in young age. The findings regarding the 'Active labour market policy' provide evidence of the intervention's benefits. While the primary goal of these measures is to create jobs for the unemployed, they also include elements that contribute to participants' mental health.",
+    "DOI": "10.3389/fpubh.2024.1345034",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the geographic scope criteria. The timeframe is between 2005-2025. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the population criteria. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks clear measures of employment outcomes. It focuses on the long-term trajectories of depressive symptoms in relation to labor market attachment but does not meet the inclusion criteria for specific employment policies or direct employment outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather focuses on the impact of labour market status on depressiveness.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

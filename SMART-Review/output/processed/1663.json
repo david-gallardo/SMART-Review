@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1663,
+    "Authors": "Puig-Barrachina, Vanessa; Malmusi, Davide; Artazcoz, Lucia; Bartoll, Xavier; Clotet, Eva; Cortes-Franch, Imma; Ventura, Lorena; Daban, Ferran; Diez, Elia; Borrell, Carme",
+    "Article Title": "How does a targeted active labour market program impact on the well-being of the unemployed? A concept mapping study on Barcelona Employment in the Neighbourhoods",
+    "Abstract": "Background The Employment in the neighbourhoods program is an innovative, tailor-made Active Labour Market Program that has been implemented in 12 neighbourhoods in Barcelona (Spain). Its goal is to get people from deprived, high-unemployment neighbourhoods back to work. The aim of this study was to describe the effects of the program on participants' quality of life, and identify the mechanisms underlying these effects, according to their own perception and the perception of technical staff who assisted them. Methods We used Concept Mapping, a mixed methods approach combining qualitative and quantitative analysis, to develop a conceptual map of the participants' and technical staffs' perceptions about changes in the participants' quality of life. Data collection occurred within the generation and structuring steps where participants brainstormed answers to a focus question, and then rated and sorted the responses. To create maps, we used Concept Systems Incorporated software, which conducted two main forms of analysis, a multidimensional scaling analysis, and a hierarchical cluster analysis. Results Study participants reported several positive effects on mental health and emotional wellbeing, including self-esteem and empowerment, and considered that this was achieved through strengthened social networks, skills acquisition, emotional coaching, and personalized technical assistance. They also described some negative impacts, mainly related to the labour market situation. We observed marked gender differences in the discourses of program participants. Conclusions The results obtained have allowed us to identify different perceived effects and mechanisms by which the Employment in the Neighbourhoods Active Labour Market Programme can influence quality of life of participants from the most deprived areas of Barcelona.",
+    "DOI": "10.1186/s12889-020-8441-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed-methods approach combining qualitative and quantitative analysis, which meets the inclusion criteria. The study is also within the specified timeframe (2005-2025), and the intervention (Employment in the Neighbourhoods Active Labour Market Programme) and population (people with mental disorders or documented mental health problems) meet the inclusion criteria.",
+            "study_design": "Mixed-methods approach combining qualitative and quantitative analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a concept mapping study which lacks a rigorous evaluation and does not include a control group. It also focuses on quality of life rather than employment outcomes.",
+            "study_design": "Concept Mapping Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Concept Mapping (mixed methods)",
+            "logprobs": null
+        }
+    }
+}

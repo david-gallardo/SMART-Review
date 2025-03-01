@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1954,
+    "Authors": "Krittanawong, Chayakrit; Kumar, Anirudh; Wang, Zhen; Jneid, Hani; Virani, Salim S.; Levine, Glenn N.",
+    "Article Title": "Pet Ownership and Cardiovascular Health in the US General Population",
+    "Abstract": "The 2013 American Heart Association Scientific Statement on pet ownership and cardiovascular risk suggested that dog ownership is probably associated with decreased cardiovascular risk. Several studies have been shown that pet ownership, particularly of dogs, is associated with increased physical activity levels, social support, and improved outcomes after a major cardiovascular event. We hypothesized that pet ownership is associated with a lower risk of cardiovascular disease in the US general population. Using the National Health and Nutrition Examination Survey, we identified all patients with heart failure, coronary artery disease, systemic hypertension (SH), diabetes mellitus, and stroke between 1999 and 2016. Multivariable analyses were performed to adjust for demographic factors such as age, gender, marital status, education, co-morbidities, cigarette smoking, family income, working hours, sleeping duration, depression, and lipid profiles. Of 42,038 National Health and Nutrition Examination Survey participants, 10,905 (31%) were inquired about pet ownership. Pet owners were older, less likely to be women or widowed, and more likely to be white, more educated, tobacco users, and work more than 35 hours per week than non-owners (all p values <0.05). Pet owners had higher hemoglobin, lower low-density lipoprotein cholesterol, and a lower prevalence of DM, SH, and stroke (all p values <0.05). After adjusting for potential confounders, pet ownership (either cat or dog ownership) was independently associated with a lower prevalence of SH (odds ratio 0.67; 95% confidence interval 0.49 to 0.89; p = 0.01), but not heart failure, coronary artery disease, DM, or stroke, compared with non-owners. In conclusions, using a large national database, we found that pet ownership is associated with a decreased prevalence of SH. Further longitudinal studies are needed to draw a conclusion on the protective effect of pet ownership in patients with cardiovascular disease. (C) 2020 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.amjcard.2020.01.030",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on cardiovascular health rather than mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention is not related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using multivariable regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

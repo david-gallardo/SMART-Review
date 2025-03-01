@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1626,
+    "Authors": "Khan, Taha; Dougherty, Mark",
+    "Article Title": "Predicting mental illness at workplace using machine learning",
+    "Abstract": "Mental illness (MI) is a leading cause of workplace absenteeism that often goes unrecognized and untreated. This paper presents a machine learning algorithm for predicting MI at workplace. The dataset consisted of responses from 1259 subjects collected through an online survey using a self-assessed questionnaire on the workplace environment. The responses were used as features for training a support vector machine to predict MI. Statistical analysis using the Guttmann correlation and the analysis of variance was done to determine feature significance. Results using 10-fold cross-validation showed that the model predicted MI with good accuracy. Findings support the feasibility of this approach for MI monitoring at the workplace as it offers an advantage over other technologies e.g., MRI scans, and EEG analysis, previously developed for the objective assessment of MI.",
+    "DOI": "10.22581/muet1982.2301.10",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies.",
+            "study_design": "Descriptive analysis using machine learning",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on predicting mental illness in the workplace using machine learning, which does not directly address employment interventions or outcomes for people with mental health disorders. It also lacks a control group and does not measure employment or labor results.",
+            "study_design": "Predictive analytics study using machine learning",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

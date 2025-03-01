@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1932,
+    "Authors": "LePage, James P.; Flake, Jason D.; Martin, William B.; Cipher, Daisha J.; Crawford, April M.; Washington, Edward L.; Ottomanelli, Lisa",
+    "Article Title": "The effect of violent crime history on success rates of individualized placement and support",
+    "Abstract": "Individualized Placement and Support-Supported Employment (IPS-SE) has been shown to be successful assisting those with mental illness and/or substance use disorders who have histories of incarceration find employment. This study evaluates the effectiveness of a hybrid IPS-SE program for working with individuals with violent and non-violent offenses. This study compared two cohorts of U.S. veterans with histories of prison incarceration, 60 receiving IPS-SE plus a vocational group and 59 receiving group only. Follow-up was six months. Those receiving IPS-SE had superior employment outcomes compared to those receiving group alone within both those convicted of violent and non-violent offenses. The findings here highlight the benefits of IPS-SE across the type of crimes convicted.",
+    "DOI": "10.1080/10530789.2021.2013010",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe, and addresses employment outcomes for individuals with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on individuals with histories of incarceration and violent crime.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on individuals with violent and non-violent offenses, which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, conducted in the US, published within the timeframe, intervention is supported employment, population has mental health disorders, and outcomes include employment rates.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

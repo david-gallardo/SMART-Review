@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1952,
+    "Authors": "Ringeisen, Heather; Ellison, Marsha Langer; Ryder-Burge, Amy; Biebel, Kathleen; Alikhan, Shums; Jones, Emily",
+    "Article Title": "Supported Education for Individuals With Psychiatric Disabilities: State of the Practice and Policy Implications",
+    "Abstract": "Objective: Supported education (SEd) is a promising practice that supports and encourages educational goals and attainment among individuals with psychiatric disabilities. This paper provides insights into how SEd objectives are pursued in different settings, assesses the evidence base, and discusses policy implications. Method: Insights from 3 data sources were synthesized: published literature, an environmental scan, and 3 site visits to programs that support the education goals of individuals with psychiatric disabilities. Results: While setting, target populations, level of coordination with supported employment, and financing strategies varied, common SEd components emerged: specialized and dedicated staffing, one-on-one and group skill-building activities, assistance with navigating the academic setting and coordinating different services, and linkages with mental health counseling. The evidence base is growing; however, many published studies to date do not employ rigorous methodology. Conclusions and Implications for Policy and Practice: Continued specification, operationalization, and testing of SEd core components are needed. The components of the evolving SEd model would benefit from rigorous testing to evaluate impact on degree completion and other key impacts such as employment; health, mental health, or recovery; and community participation. In addition to funding streams from special education and Medicaid, new opportunities for increasing the availability of SEd include the Workforce Innovation and Opportunities Act (WIOA) reauthorization, which requires state vocational rehabilitation agencies to fund preemployment services for transition-age individuals. New set-aside requirements for the Mental Health Services Block Grant will increase funding for early intervention services for individuals with serious mental illness, potentially including SEd.",
+    "DOI": "10.1037/prj0000233",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control groups. The methodology involves synthesizing insights from published literature, an environmental scan, and site visits, which does not qualify as a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Synthesis of data sources",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on supported education (SEd) for individuals with psychiatric disabilities, which is not directly related to employment interventions as per the inclusion criteria. The study's primary focus is on education rather than employment outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Literature review and environmental scan",
+            "logprobs": null
+        }
+    }
+}

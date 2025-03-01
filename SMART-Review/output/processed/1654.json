@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1654,
+    "Authors": "Skelton, Megan; Carr, Ewan; Buckman, Joshua E. J.; Davies, Molly R.; Goldsmith, Kimberley A.; Hirsch, Colette R.; Peel, Alicia J.; Rayner, Christopher; Rimes, Katharine A.; Saunders, Rob; Wingrove, Janet; Breen, Gerome; Eley, Thalia C.",
+    "Article Title": "Trajectories of depression and anxiety symptom severity during psychological therapy for common mental health problems",
+    "Abstract": "BackgroundThere is substantial variation in patient symptoms following psychological therapy for depression and anxiety. However, reliance on endpoint outcomes ignores additional interindividual variation during therapy. Knowing a patient's likely symptom trajectories could guide clinical decisions. We aimed to identify latent classes of patients with similar symptom trajectories over the course of psychological therapy and explore associations between baseline variables and trajectory class. MethodsPatients received high-intensity psychological treatment for common mental health problems at National Health Service Improving Access to Psychological Therapies services in South London (N = 16 258). To identify trajectories, we performed growth mixture modelling of depression and anxiety symptoms over 11 sessions. We then ran multinomial regressions to identify baseline variables associated with trajectory class membership. ResultsTrajectories of depression and anxiety symptoms were highly similar and best modelled by four classes. Three classes started with moderate-severe symptoms and showed (1) no change, (2) gradual improvement, and (3) fast improvement. A final class (4) showed initially mild symptoms and minimal improvement. Within the moderate-severe baseline symptom classes, patients in the two showing improvement as opposed to no change tended not to be prescribed psychotropic medication or report a disability and were in employment. Patients showing fast improvement additionally reported lower baseline functional impairment on average. ConclusionsMultiple trajectory classes of depression and anxiety symptoms were associated with baseline characteristics. Identifying the most likely trajectory for a patient at the start of treatment could inform decisions about the suitability and continuation of therapy, ultimately improving patient outcomes.",
+    "DOI": "10.1017/S0033291722003403",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study explores symptom trajectories during psychological therapy for common mental health problems, which is not directly related to employment outcomes.",
+            "study_design": "Quasi-experimental study with growth mixture modeling and multinomial regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on symptom trajectories during psychological therapy for common mental health problems.",
+            "study_design": "Cross-sectional analysis using growth mixture modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on symptom trajectories in psychological therapy for depression and anxiety, not directly on employment outcomes or interventions for people with mental health disorders in the context of active employment policies.",
+            "study_design": "Growth mixture modelling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

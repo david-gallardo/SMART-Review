@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1712,
+    "Authors": "de Pierrefeu, Ines; Corbiere, Marc; Pachoud, Bernard",
+    "Article Title": "Vocational Counselors in France: Comparison to Competencies of Employment Specialists Working in Canadian IPS Programs",
+    "Abstract": "Supported employment programs are evidence-based practices to help people with severe mental illness to obtain competitive employment. The competencies of employment specialists working in these programs are key elements related to work integration. In France, the Messidor Association, a prevocational organisation, has developed a practice with similarities to supported employment and is beginning to develop supported employment programs in their context. The objective of this quantitative study was to evaluate the Messidor vocational counselors' competencies using the Behaviors, Attitudes and Knowledge in Employment Specialists' scale by comparing their results to those of employment specialists working in IPS programs in Canada. Descriptive analyses and a MANOVA highlighted similarities between French and Canadian counselors such as the same importance given to the working alliance with clients and the development of relationships with different stakeholders (e.g., employers). Skills that should be developed in vocational counselors in France include those related to rapid job search and dealing with stigma. In addition, clinical implications are suggested to ensure the development of vocational counselors' competencies in France.",
+    "DOI": "10.1007/s10597-017-0109-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group.",
+            "study_design": "Descriptive analyses and a MANOVA",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on comparing competencies of vocational counselors in France to those in Canadian IPS programs without evaluating the effectiveness of any interventions or policies.",
+            "study_design": "Descriptive quantitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions but rather on the competencies of vocational counselors, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Comparative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quantitative evaluation of supported employment programs, which is an eligible intervention. It includes a control group (Canadian IPS programs) and focuses on people with severe mental illness, targeting employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

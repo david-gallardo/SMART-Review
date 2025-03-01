@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1962,
+    "Authors": "Martin, Bruce C.; Honig, Benson",
+    "Article Title": "Inclusive Management Research: Persons with Disabilities and Self-Employment Activity as an Exemplar",
+    "Abstract": "We highlight exclusionary practices in management research, and demonstrate through example how a more inclusive management literature can address the unique contexts of persons with disabilities, a group that is disadvantaged in society, globally. Drawing from social psychology, disability, self-employment, entrepreneurship, and vocational rehabilitation literatures, we develop and test a holistic model that demonstrates how persons with disabilities might attain meaningful work and improved self-image via self-employment, thus accessing some of the economic and social-psychological benefits often unavailable to them due to organizational-employment barriers. Our longitudinal study provides evidence of the self-image value of 'doing' in self-employment, highlighting the potential to reduce stigma and improve generalized self-efficacy and self-esteem. Implications for self-image theory, entrepreneurship training and development, and public policy related to persons with disabilities are discussed.",
+    "DOI": "10.1007/s10551-019-04122-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is mentioned in the article, does not directly address employment.",
+            "study_design": "Longitudinal study with a holistic model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on self-employment and self-image theory for individuals with disabilities.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies such as job search services, adult training, wage subsidies, or supported employment. Additionally, it does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1808,
+    "Authors": "Ivandic, Ivana; Freeman, Aislinne; Birner, Ulrich; Nowak, Dennis; Sabariego, Carla",
+    "Article Title": "A systematic review of brief mental health and well-being interventions in organizational settings",
+    "Abstract": "Objectives The aim of the systematic review was to provide an overview of the evidence on the effectiveness of brief interventions targeting mental health and well-being in organizational settings and compare their effects with corresponding interventions of common (ie, longer) duration.Methods An extensive systematic search was conducted using the Medline and PsycINFO databases for the period of 2000-2016. Randomized-controlled trials (RCT) and quasi-experimental studies evaluating primary or secondary brief interventions carried out in the workplace settings were included. Subsequently, common interventions matching brief interventions by type and assessed outcomes were included. The methodological quality of included studies was appraised using NICE guidelines, and the best evidence synthesis approach was applied.Results The review identified 11 brief interventions and 9 corresponding common interventions. Included studies varied substantially in sample size and characteristics, methodological quality, duration of follow-up, types of intervention, and assessed outcomes. All but one study evaluating brief interventions had high risk of bias. No evidence was found on the effectiveness of brief stress management, relaxation, massage, mindfulness meditation, or multimodal interventions. We found limited evidence on the effectiveness of brief positive psychology interventions.Conclusions Our review highlights the need for high-quality studies evaluating brief mental health and wellbeing interventions in organizational settings. Future studies should use methodologically rigorous designs and improved reporting of methods and results to provide conclusive evidence on the effectiveness and sustainability of the intervention effects.",
+    "DOI": "10.5271/sjweh.3616",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation (high risk of bias) and the timeframe is outside the specified range (2000-2016, which is before 2005). The intervention focuses on brief interventions in organizational settings rather than job search services, adult training, wage subsidies, or supported employment. Additionally, while it addresses mental health and well-being, it does not specifically target people with documented mental disorders.",
+            "study_design": "Systematic review of quasi-experimental studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic review, not a meta-analysis or RCT, and it does not focus on employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders. It also does not include employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

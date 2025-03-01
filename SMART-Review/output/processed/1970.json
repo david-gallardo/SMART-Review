@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1970,
+    "Authors": "Prochaska, Judith J.; Brown-Johnson, Cati; Baiocchi, Michael; Lazaro, Adrienne S.; Chieng, Amy; Stinson, Sarah; Anzai, Nicole",
+    "Article Title": "Treating tobacco dependence to aid re-employment among job-seekers: A randomized controlled trial",
+    "Abstract": "Introduction: U.S. reductions in smoking have not been experienced equally. Smoking prevalence is greater among persons of lower education, lower income, and unemployed. We evaluated whether a cessation intervention for job-seekers would result in significantly fewer cigarettes smoked per day and a greater likelihood of tobacco abstinence and re-employment, compared to the control condition at 6-months follow-up.Methods: Unemployed, job-seekers who smoked daily were recruited from five employment development departments in the San Francisco Bay Area, October 2015 to February 2018. Intention to quit smoking was not required. Participants were randomized to a brief motivationally-tailored, computer-assisted counseling intervention or referred to a toll-free quitline. Midstudy, 8-weeks of combination nicotine replacement was added to the intervention. Expired carbon monoxide and cotinine testing verified abstinence. Data were analyzed fall 2019.Results: Participants (N = 360; 70% men; 43% African American, 27% non-Hispanic Caucasian; 19% unhoused) averaged 12 cigarettes/day (SD = 6), 67% smoked within 30 min of wakening; 27% were in preparation stage to quit. During the 6-month study period, intervention participants were more likely to make a quit attempt (71% vs. 58%, p = .021) and reported significantly greater reduction in cigarettes/day than control participants (median reduction: 6.9 vs. 5.0, p = .038); however, bioconfirmed abstinence (3%) and re-employment (36%) did not differ by treatment group.Conclusions: In a diverse sample with economic hardships, quit attempts and smoking reduction were greater in the intervention group; however, few achieved abstinence, and neither abstinence nor re-employment differed by condition. A priority group, further research is needed on smoking and re-employment.",
+    "DOI": "10.1016/j.ypmed.2020.106259",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. While it evaluates the effect of a cessation intervention on smoking and re-employment among job-seekers, the primary outcome is related to smoking behavior rather than employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on tobacco dependence and its impact on re-employment, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in the US within the specified timeframe. It focuses on job-seekers and includes re-employment as an outcome.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

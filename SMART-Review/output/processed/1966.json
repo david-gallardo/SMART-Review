@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1966,
+    "Authors": "LePage, James; Ottomanelli, Lisa; Barnett, Scott D.; Njoh, Eni N.",
+    "Article Title": "Spinal cord injury combined with felony history: Effect on supported employment for Veterans",
+    "Abstract": "In this secondary analysis of data from a randomized controlled trial comparing supported employment with treatment as usual, we sought to evaluate the study incident rate of legal involvement and subsequent effects of legal involvement on employment among 157 job-seeking Veterans with spinal cord injury. The supported employment vocational rehabilitation program, called the Spinal Cord Injury-Vocational Integration Program, adhered as closely as possible to principles of supported employment as developed and described in the individual placement and support model of supported employment for persons with mental illness. Rates of misdemeanor and felony arrests and convictions were analyzed, and their relationship to finding employment was evaluated. Findings indicate that 47% had been arrested and 25% had been convicted of a felony. Overall, those who found employment had fewer average arrests and were significantly less likely to have been convicted of a felony. Future directions and limitations are discussed.",
+    "DOI": "10.1682/JRRD.2014.02.0045",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: study design (RCT), geographic scope (US), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes)",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders; instead, it focuses on Veterans with spinal cord injury and felony history. The intervention is supported employment, but the population does not meet the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans with spinal cord injury and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but veterans with spinal cord injury.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

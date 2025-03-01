@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1857,
+    "Authors": "Wakeman, Sarah E.; Metlay, Joshua P.; Chang, Yuchiao; Herman, Grace E.; Rigotti, Nancy A.",
+    "Article Title": "Inpatient Addiction Consultation for Hospitalized Patients Increases Post-Discharge Abstinence and Reduces Addiction Severity",
+    "Abstract": "Alcohol and drug use results in substantial morbidity, mortality, and cost. Individuals with alcohol and drug use disorders are overrepresented in general medical settings. Hospital-based interventions offer an opportunity to engage with a vulnerable population that may not otherwise seek treatment.To determine whether inpatient addiction consultation improves substance use outcomes 1 month after discharge.Prospective quasi-experimental evaluation comparing 30-day post-discharge outcomes between participants who were and were not seen by an addiction consult team during hospitalization at an urban academic hospital.Three hundred ninety-nine hospitalized adults who screened as high risk for having an alcohol or drug use disorder or who were clinically identified by the primary nurse as having a substance use disorder.Addiction consultation from a multidisciplinary specialty team offering pharmacotherapy initiation, motivational counseling, treatment planning, and direct linkage to ongoing addiction treatment.Addiction Severity Index (ASI) composite score for alcohol and drug use and self-reported abstinence at 30 days post-discharge. Secondary outcomes included 90-day substance use measures and self-reported hospital and ED utilization.Among 265 participants with 30-day follow-up, a greater reduction in the ASI composite score for drug or alcohol use was seen in the intervention group than in the control group (mean ASI-alcohol decreased by 0.24 vs. 0.08, p < 0.001; mean ASI-drug decreased by 0.05 vs. 0.02, p = 0.003.) There was also a greater increase in the number of days of abstinence in the intervention group versus the control group (+12.7 days vs. +5.6, p < 0.001). The differences in ASI-alcohol, ASI-drug, and days abstinent all remained statistically significant after controlling for age, gender, employment status, smoking status, and baseline addiction severity (p = 0.018, 0.018, and 0.02, respectively). In a sensitivity analysis, assuming that patients who were lost to follow-up had no change from baseline severity, the differences remained statistically significant.In a non-randomized cohort of medical inpatients, addiction consultation reduced addiction severity for alcohol and drug use and increased the number of days of abstinence in the first month after hospital discharge.",
+    "DOI": "10.1007/s11606-017-4077-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental evaluation, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, or RCT.",
+            "study_design": "quasi-experimental evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on reducing addiction severity and increasing abstinence post-discharge.",
+            "study_design": "Quasi-experimental evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental study, which does not meet the inclusion criteria of having a control group. The study also does not focus on employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

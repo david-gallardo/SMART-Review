@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1611,
+    "Authors": "Blanc, Judite; Carrenard, Niara J.; Auguste, Evan; Luma, Sherryn; Francois, Laura; Bigdeli, Tim; Jean-Louis, Girardin; Duthely, Lunthita",
+    "Article Title": "The transnational mental health burden of Haiti's alleged collapse: preliminary findings from The Haitian Well-Being Study",
+    "Abstract": "Background Transnational drug trafficking, political unrest, gang violence, and paramilitarism, which are pervasive in Haiti, have resulted in a mental health crisis for the broader Haitian community. This study explores the mental well-being of Haitians in Haiti and the United States by identifying barriers and facilitators to mental health through the lived experiences of men and women.Method Four Focus group discussions conducted in April and November 2023 engaged 28 participants (20 women and eight men) aged between 23 and 60 years from locations in Haiti (Port-au-Prince, Cite Soleil, Cayes, Cap-Haitien, Saint-Marc) and the United States. Discussions revolved around the definition of mental health, stressors, coping mechanisms, risk and protective factors, and barriers to mental health care.Results Six principal themes emerged: 1- Chronic Traumatic Stress: continued violence, political instability, unemployment, lack of social support, adverse childhood experiences, family separation, and forced displacement were significant sources of stress. 2- Increased Health Burden: Participants reported experiencing chronic physical and psychological symptoms [i.e., hypertension, anxiety, depression, sleep issues, substance abuse, suicidal ideations, characteristics of post-traumatic stress disorder (PTSD)], which were attributed to Haiti's social, political, and infrastructure collapse. 3- Risk Factors: limited access to mental health services, pervasive hopelessness, scarcity of opportunities, and stigma were identified as significant risks. 4- Future Uncertainty: widespread concerns regarding the future predominated. 5- Multigenerational Concerns: Significant anxiety concerning the mental health and development of children, as well as the functionality of mental health practitioners, was noted. 6- Coping and Protective Factors: Effective coping strategies include mental stimulation, peer support, managing digital consumption, engaging in leisurely activities, such as listening to music, and faith/spirituality.Conclusion The study's findings underscore the sociopolitical and economic crisis in Haiti, which has resulted in violence and a dismantle of political, educational, financial, and health infrastructures. These factors were identified as the primary source of chronic distress, contributing to widespread mental health issues, adverse physical symptoms, and disruption in daily life. The implications for practice, healing, research & policy are discussed.",
+    "DOI": "10.3389/fpubh.2024.1415650",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the mental health burden of Haiti's alleged collapse.",
+            "study_design": "Quasi-experimental study with focus group discussions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks rigorous evaluation methods. It focuses on mental health issues in Haiti without specifying interventions that target employment.",
+            "study_design": "Qualitative study (focus groups)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Haiti and US, but not focused on EU countries, Europe, Canada, or Australia). The study does not directly address employment interventions.",
+            "study_design": "Qualitative study with focus group discussions",
+            "logprobs": null
+        }
+    }
+}

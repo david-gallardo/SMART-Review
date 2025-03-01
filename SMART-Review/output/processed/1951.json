@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1951,
+    "Authors": "Killaspy, Helen; Harvey, Carol; Brasier, Catherine; Brophy, Lisa; Ennals, Priscilla; Fletcher, Justine; Hamilton, Bridget",
+    "Article Title": "Community-based social interventions for people with severe mental illness: a systematic review and narrative synthesis of recent evidence",
+    "Abstract": "People living with severe mental illness (SMI) are one of the most marginalized groups in society. Interventions which aim to improve their social and economic participation are of crucial importance to clinicians, policy-makers and people with SMI themselves. We conducted a systematic review of the literature on social interventions for people with SMI published since 2016 and collated our findings through narrative synthesis. We found an encouragingly large amount of research in this field, and 72 papers met our inclusion criteria. Over half reported on the effectiveness of interventions delivered at the service level (supported accommodation, education or employment), while the remainder targeted individuals directly (community participation, family interventions, peer-led/supported interventions, social skills training). We identified good evidence for the Housing First model of supported accommodation, for the Individual Placement and Support model of supported employment, and for family psychoeducation, with the caveat that a range of models are nonetheless required to meet the varied housing, employment and family-related needs of individuals. Our findings also highlighted the importance of contextual factors and the need to make local adaptations when importing interventions from elsewhere. We found that augmentation strategies to enhance the effectiveness of social interventions (particularly supported employment and social skills training) by addressing cognitive impairments did not lead to transferable real life skills despite improvements in cognitive function. We also identified an emerging evidence base for peer-led/supported interventions, recovery colleges and other interventions to support community participation. We concluded that social interventions have considerable benefits but are arguably the most complex in the mental health field, and require multi-level stakeholder commitment and investment for successful implementation.",
+    "DOI": "10.1002/wps.20940",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review and narrative synthesis, but it does not meet the inclusion criteria of a study design that is a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic review and narrative synthesis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review and narrative synthesis but lacks RCTs, cluster RCTs, or quasi-experimental studies with a control group. The timeframe does not meet the criteria as it includes papers published before 2005.",
+            "study_design": "Systematic review and narrative synthesis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review of controlled trials, focuses on supported employment as an intervention, includes people with severe mental illness, and reports on employment outcomes.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

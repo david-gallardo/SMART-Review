@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1854,
+    "Authors": "Peacock, Amy; Eastwood, Brian; Jones, Andrew; Millar, Tim; Horgan, Patrick; Knight, Jonathan; Randhawa, Kulvir; White, Martin; Marsden, John",
+    "Article Title": "Effectiveness of community psychosocial and pharmacological treatments for alcohol use disorder: A national observational cohort study in England",
+    "Abstract": "Background: This was a national English observational cohort study using administrative data to estimate the effectiveness of community pharmacological and psychosocial treatment for alcohol use disorder (AUD).Methods: All adults commencing AUD treatment in the community reported to the National Drug Treatment Monitoring System (April 1 2014 March 31 2015; N = 52,499). Past 28-day admission drinking pattern included drinks per drinking day (DDD): 0 ('Abstinent'), 1-15 ('Low-High'), 16-30 ('High-Extreme') and over 30 DDD ('Extreme'). The primary outcome was successful completion of treatment within 12 months of commencement with no re-presentation (SCNR) in the subsequent six months, analysed by multi-level, mixed effects, multivariable logistic regression.Results: The majority reported DDD in the 'Low-High' (n = 17,698, 34%) and 'High-Extreme' (n = 21,383, 41%) range. Smaller proportions were categorised 'Exa-eme' (n = 7759, 15%) and 'Abstinent' (n = 5661, 11%). Three fifths (58%) achieved SCNR. Predictors of SCNR were older age, black/minority ethnic group, employment, criminal justice system referral, and longer treatment exposure. Predictors of negative outcome were AUD treatment history, lower socio-economic status, housing problems, and 'Extreme' drinking at admission. In addition to psychosocial interventions, pharmacological interventions and recovery support increased the likelihood of SCNR. Pharmacological treatment was only beneficial for the 'Low-High' groups with recovery support.Conclusions: Over half of all patients admitted for community AUD treatment in England are reported to successfully complete treatment within 12 months and are not re-admitted for further treatment in the following 6 months. Study findings underscore efforts to tailor AUD treatment to the severity of alcohol consumption and using recovery support.",
+    "DOI": "10.1016/j.drugalcdep.2018.01.019",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an observational cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Observational cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not directly address employment outcomes. It focuses on alcohol use disorder treatment effectiveness rather than active employment policies for people with mental health disorders.",
+            "study_design": "Observational cohort",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on alcohol use disorder (AUD) and not on mental health disorders or employment outcomes.",
+            "study_design": "Observational cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Observational cohort study",
+            "logprobs": null
+        }
+    }
+}

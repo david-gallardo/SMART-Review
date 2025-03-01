@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1681,
+    "Authors": "Waynor, William R.; Eissenstat, SunHee J.; Yanos, Phillip T.; Reinhardt-Wood, Dawn; Taylor, Ellen; Karyczak, Sean; Lu, Weili",
+    "Article Title": "The Role of Illness Identity in Assertive Community Treatment",
+    "Abstract": "Assertive community treatment (ACT) provides comprehensive clinical services, including vocational rehabilitation, to individuals with psychiatric disorders for which traditional community mental health services are insufficient. ACT is an evidence-based intervention yielding many positive outcomes, yet service recipients continue to struggle with workforce involvement. The purpose of this study is to determine whether internalized stigma, psychiatric hospitalization, and psychiatric symptoms are associated with work-related self-efficacy among ACT service recipients. A total of 72 individuals with severe mental illness were recruited from ACT programs in three counties in a Mid-Atlantic state. Multiple linear regression was conducted to examine the relationship between work-related self-efficacy and the independent variables of internalized stigma, psychiatric hospitalization, and psychiatric symptoms. Higher internalized stigma scores were negatively associated with work-related self-efficacy (beta = -.31, t = -2.32, p < .05), while psychiatric hospitalization in the past year was positively associated with work-related self-efficacy (beta = .22-.27, t = -2.13, p < .05). Findings from this study suggests internalized stigma to be an important recovery variable requiring the attention of ACT team members when preparing individuals for work, while countering the assumption that recent hospitalization is a barrier to work-related self-efficacy.",
+    "DOI": "10.1177/0034355219886916",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional multiple linear regression, which lacks a control group.",
+            "study_design": "Multiple linear regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and lacks a control group.",
+            "study_design": "Cross-sectional study using multiple linear regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1628,
+    "Authors": "Rosenheck, Robert; Mueser, Kim T.; Sint, Kyaw; Lin, Haiqun; Lynde, David W.; Glynn, Shirley M.; Robinson, Delbert G.; Schooler, Nina R.; Marcy, Patricia; Mohamed, Somaia; Kane, John M.",
+    "Article Title": "Supported employment and education in comprehensive, integrated care for first episode psychosis: Effects on work, school, and disability income",
+    "Abstract": "Background: Participation in work and school are central objectives for first episode psychosis (FEP) programs, but evidence effectiveness has been mixed in studies not focused exclusively on supported employment and education (SEE). Requirements for current motivation to work or go to school limit the generalizability of such studies.Methods: FEP participants (N=404) at thirty-four community treatment clinics participated in a cluster randomized trial that compared usual Community Care (CC) to NAVIGATE, a comprehensive, team-based treatment program that included >= 5 h of SEE services per week,, grounded in many of the principles of the Individual Placement and Support model of supported employment combined with supported education services. All study participants were offered SEE regardless of their initial interest in work or school. Monthly assessments over 24 months recorded days of employment and attendance at school, days of participation in SEE, and both employment and public support income (including disability income). General Estimation Equation models were used to compare CC and NAVIGATE on work and school participation, employment and public support income, and the mediating effect of receiving >= 3 SEE visits on these outcomes.Results: NAVIGATE treatment was associated with a greater increase in participation in work or school (p = 0.0486) and this difference appeared to be mediated by SEE. No group differences were observed in earnings or public support payments.Conclusion: A comprehensive, team-based FEP treatment approach was associated with greater improvement in work or school participation, and this effect appears to be mediated, in part, by participation in SEE. Published by Elsevier B.V.",
+    "DOI": "10.1016/j.schres.2016.09.024",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized trial, which meets the inclusion criteria. The study is focused on people with mental health disorders, specifically first episode psychosis, and examines the effects of supported employment and education on work, school, and disability income.",
+            "study_design": "Cluster Randomized Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment and education), population (people with mental disorders), and outcomes (employment or labor outcomes).",
+            "study_design": "Cluster RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first episode psychosis (FEP) and not specifically on people with mental health disorders in general. The intervention is not directly employment-focused but rather includes supported employment and education as part of a comprehensive treatment program.",
+            "study_design": "Cluster randomized trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on supported employment and education for people with first episode psychosis, includes relevant outcomes such as days of employment, and is conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

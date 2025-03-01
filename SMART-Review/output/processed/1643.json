@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1643,
+    "Authors": "Honn, Kimberly A.; Van Dongen, Hans P. A.; Dawson, Drew",
+    "Article Title": "Working Time Society consensus statements: Prescriptive rule sets and risk management-based approaches for the management of fatigue-related risk in working time arrangements",
+    "Abstract": "Traditionally, working time arrangements to limit fatigue-related risk have taken a prescriptive approach, which sets maximum shift durations in order to prevent excessive buildup of fatigue (and the associated increased risk) within shifts and sets minimum break durations to allow adequate time for rest and recovery within and/or between shifts. Prescriptive rule sets can be successful when, from a fatigue-related risk standpoint, they classify safe work hours as permitted and unsafe work hours as not permitted. However, prescriptive rule sets ignore important aspects of the biological factors (such as the interaction between circadian and homeostatic processes) that drive fatigue, which are critical modulators of the relationship between work hours and fatigue-related risk. As such, in around-the-clock operations when people must work outside of normal daytime hours, the relationship between regulatory compliance and safety tends to break down, and thus these rule sets become less effective. To address this issue, risk management-based approaches have been designed to regulate the procedures associated with managing fatigue-related risk. These risk management-based approaches are suitable for nighttime operations and a variety of other non-standard work schedules, and can be tailored to the particular job or industry. Although the purpose of these fatigue risk management approaches is to curb fatigue risk, fatigue risk cannot be measured directly. Thus, the goal is not on regulating fatigue risk per se, but rather to put in place procedures that serve to address fatigue before, during, and after potential fatigue-related incidents. Examples include predictive mathematical modeling of fatigue for work scheduling, proactive fatigue monitoring in the workplace, and reactive post-incident follow-up. With different risks and different needs across industries, there is no one size fits all approach to managing fatiguerelated risk. However, hybrid strategies combining prescriptive rule sets and risk managementbased approaches can create the flexibility necessary to reduce fatigue-related risk based on the specific needs of different work environments while maintaining appropriate regulatory oversight.",
+    "DOI": "10.2486/indhealth.SW-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on managing fatigue-related risk in working time arrangements.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on fatigue-related risk management in working time arrangements. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review of existing literature but does not meet the inclusion criteria for intervention types and population focus.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is undefined in terms of mental health.",
+            "study_design": "Consensus statements",
+            "logprobs": null
+        }
+    }
+}

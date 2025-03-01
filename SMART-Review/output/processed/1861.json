@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1861,
+    "Authors": "Lovejoy, Meg; Kelly, Erin L.; Kubzansky, Laura D.; Berkman, Lisa F.",
+    "Article Title": "Work Redesign for the 21st Century: Promising Strategies for Enhancing Worker Well-Being",
+    "Abstract": "Work is a key social determinant of population health and well-being. Yet, efforts to improve worker wellbeing in the United States are often focused on changing individual health behaviors via employer wellness programs. The COVID-19 health crisis has brought into sharp relief some of the limitations of current approaches, revealing structural conditions that heighten the vulnerability of workers and their families to physical and psychosocial stressors.To address these gaps, we build on existing frameworks and work redesign research to propose a model of work redesign updated for the 21st century that identifies strategies to reshape work conditions that are a root cause of stress-related health problems. These strategies include increasing worker schedule control and voice, moderating job demands, and providing training and employer support aimed at enhancing social relations at work.We conclude that work redesign offers new and viable directions for improving worker well-being and that guidance from federal and state governments could encourage the adoption and effective implementation of such initiatives.",
+    "DOI": "10.2105/AJPH.2021.306283",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified as a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group.",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on work redesign strategies to enhance worker well-being without specifying interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work redesign strategies rather than interventions directly addressing employment outcomes for people with mental health disorders.",
+            "study_design": "Not specified in the abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1847,
+    "Authors": "Schneider, Justine; Akhtar, Athfah; Boycott, Naomi; Guo, Boliang; Latimer, Eric; Cao, Zhirong; McMurran, Mary",
+    "Article Title": "Individual placement and support versus individual placement and support enhanced with work-focused cognitive behaviour therapy: Feasibility study for a randomised controlled trial",
+    "Abstract": "Introduction: Employment is a key goal for many people with long-term mental health issues. Evidence-based individual placement and support is a widely advocated approach. This study explored whether individual placement and support outcomes could be enhanced with work-focused counselling.Method: The study was designed as a pragmatic randomised controlled trial comparing the cost-effectiveness, in severe mental illness, of work-focused intervention (intervention) as an adjunct to individual placement and support compared to individual placement and support alone (control).Results: The original sample (330) proved impossible to attain so the design was revised to a pilot study from which information on feasibility of a full trial could be drawn. Twenty-five individuals out of 74 found paid work but no difference was found in the mean number of hours in paid employment between the intervention and control groups.Conclusion: Results demonstrate that delivering work-focused counselling in tandem with individual placement and support is feasible and acceptable to service users. The study observed that, even during a period of recession (2010-13), individuals with mental health problems succeeded in obtaining paid employment. Any additional benefit of counselling over individual placement and support alone could not be ascertained, due mainly to the high drop-out rate from this study.",
+    "DOI": "10.1177/0308022615619184",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pragmatic randomised controlled trial, but it lacks a control group.",
+            "study_design": "Randomised Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a feasibility study and does not meet the inclusion criteria of having a control group for comparison.",
+            "study_design": "Feasibility study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review or meta-analysis, and it does not focus on the interventions specified in the inclusion criteria.",
+            "study_design": "pragmsatic randomised controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on supported employment for people with mental health disorders in the UK (within the EU) and was published within the specified timeframe. It also includes relevant outcomes such as employment rates.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

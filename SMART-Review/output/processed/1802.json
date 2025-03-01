@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1802,
+    "Authors": "Goorts, Kaat; Boets, Isabelle; Decuman, Saskia; Du Bois, Marc; Rusu, Dorina; Godderis, Lode",
+    "Article Title": "Psychosocial determinants predicting long-term sickness absence: a register-based cohort study",
+    "Abstract": "Background This study assessed the psychosocial determinants as explanatory variables for the length of the work disability period. The aim was to estimate the predictive value of a selected set of psychosocial determinants from the Quickscan questionnaire for the length of the sick leave period. A comparison was also made with the most common biomedical determinant: diagnosis. Methods In a cohort study of 4 981 insured Belgian patients, the length of the sick leave was calculated using Kaplan-Meier. Predictive psychosocial determinants were selected using backward conditional selection in Cox regression and using concordance index values (C-index) we compared the predictive value of the biomedical to the psychosocial model in a sample subset. Results Fourteen psychosocial determinants were significantly (p<0.10) related to the length of the sick leave: health perception of the patient, physical workload, social support management, social support colleagues, work-health interference, psychological distress, fear of colleagues' expectations, stressful life-events, autonomy, learning and development opportunities, job satisfaction, workload, work expectations and expectation to return to work. The C-index of this biopsychosocial model including gender, age and labour status was 0.80 (CI: 0.78; 0.81) (n=4 981). In the subset of 2 868 respondents with diagnostic information, the C-index for the same model was .73 (CI: 0.71; 0.76) compared with 0.63 (CI: 0.61; 0.65) for the biomedical model. Conclusions A set of 14 psychosocial determinants showed good predictive capacity (C-index: 0.80). Also, in a subset of the sample, the selected determinants performed better compared with diagnostic information to predict long-term sick leave (>6 months).",
+    "DOI": "10.1136/jech-2020-214181",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a register-based cohort study without a control group and does not meet the inclusion criteria for intervention (does not directly address employment) or outcomes (focuses on long-term sickness absence rather than employment).",
+            "study_design": "Register-based cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not focus on employment or labor outcomes directly. It is also not a systematic review or meta-analysis, and the population is not specifically defined as people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

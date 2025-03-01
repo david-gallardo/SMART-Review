@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1806,
+    "Authors": "Markussen, Simen; Roed, Knut",
+    "Article Title": "The impacts of vocational rehabilitation",
+    "Abstract": "Based on local variations in vocational rehabilitation (VR) priorities, we examine the impacts of alternative VR programs on short- and long-term labor market outcomes for temporary disability insurance (TDI) claimants in Norway. The analysis builds on rich and detailed administrative registers covering 345,000 claimants. We find that a strategy focusing on rapid placement in the regular labor market is superior to alternative strategies giving higher priority to vocational training or sheltered employment. Strategies prioritizing subsidized regular education also tend to be relatively successful in terms of final outcomes, but at the cost of protracted periods of benefit dependency first (C) 2014 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.labeco.2014.08.001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study design is described as 'alternative VR programs' without specifying the control group.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems and the population is temporary disability insurance claimants. It also lacks a clear timeframe within 2005-2025.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on temporary disability insurance claimants in Norway, which falls outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not in EU, Europe, US, Canada, Australia).",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

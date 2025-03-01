@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1873,
+    "Authors": "Ropponen, Annina; Narusyte, Jurgita; Silventoinen, Karri; Svedberg, Pia",
+    "Article Title": "Health behaviours and psychosocial working conditions as predictors of disability pension due to different diagnoses: a population-based study",
+    "Abstract": "BackgroundTo investigate whether the clustering of different health behaviours (i.e. physical activity, tobacco use and alcohol consumption) influences the associations between psychosocial working conditions and disability pension due to different diagnoses.MethodsA population-based sample of 24,987 Swedish twins born before 1958 were followed from national registers for disability pension until 2013. Baseline survey data in 1998-2003 were used to assess health behaviours and psychosocial Job Exposure Matrix for job control, job demands and social support. Cox proportional hazards models were used to calculate hazard ratios (HR) with 95% confidence intervals (CI).ResultsDuring follow-up, 1252 disability pensions due to musculoskeletal disorders (5%), 601 due to mental diagnoses (2%) and 1162 due to other diagnoses (5%) occurred. In the models controlling for covariates, each one-unit increase in job demands was associated with higher (HR 1.16, 95%CI 1.01-1.33) and in job control with lower (HR 0.87, 95%CI 0.80-0.94) risk of disability pension due to musculoskeletal disorders among those with unhealthy behaviours. Among those with healthy behaviours, one-unit increase of social support was associated with a higher risk of disability pension due to mental and due to other diagnoses (HRs 1.29-1.30, 95%CI 1.04-1.63).ConclusionsJob control and job demands were associated with the risk of disability pension due to musculoskeletal disorders only among those with unhealthy behaviours. Social support was a risk factor for disability pension due to mental or other diagnoses among those with healthy behaviours. Workplaces and occupational health care should acknowledge these simultaneous circumstances in order to prevent disability pension.",
+    "DOI": "10.1186/s12889-020-09567-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a population-based study without a control group.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and focuses on disability pension rather than employment outcomes.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

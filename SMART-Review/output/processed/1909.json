@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1909,
+    "Authors": "Pan, Shujun; Jiang, Haifeng; Du, Jiang; Chen, Hanhui; Li, Zhibin; Ling, Walter; Zhao, Min",
+    "Article Title": "Efficacy of Cognitive Behavioral Therapy on Opiate Use and Retention in Methadone Maintenance Treatment in China: A Randomised Trial",
+    "Abstract": "AimsMethadone maintenance treatment (MMT) is widely available in China; but, high rates of illicit opiate use and dropout are problematic. The aim of this study was to test whether cognitive behavioral therapy (CBT) in conjunction with MMT can improve treatment retention and reduce opiate use.MethodA total of 240 opiate-dependent patients in community-based MMT clinics were randomly assigned to either weekly CBT plus standard MMT (CBT group, n=120) or standard MMT (control group, n=120) for 26 weeks. The primary outcomes were treatment retention and opiate-negative urine test results at 12 weeks and 26 weeks. The secondary outcomes were composite scores on the Addiction Severity Index (ASI) and total scores on the Perceived Stress Scale (PSS) at 12 weeks and 26 weeks.ResultsCompared to the control group in standard MMT, the CBT group had higher proportion of opiate-negative urine tests at both 12 weeks (59% vs. 69%, p<0.05) and 26 weeks (63% vs. 73%, p<0.05); however, the retention rates at 12 weeks (73.3% vs. 74.2%, p=0.88) and 26 weeks were not different (55.8% vs. 64.2%, p=0.19) between the two groups. At both 12 and 26 weeks, all of the ASI component scores and PSS total scores in the CBT group and control group decreased from baseline; but the CBT group exhibited more decreases in ASI employment scores at week 26 and more decrease in the PSS total score at week 12 and week 26.ConclusionsCBT counselling is effective in reducing opiate use and improving employment function and in decreasing stress level for opiate-dependent patients in MMT in China.",
+    "DOI": "10.1371/journal.pone.0127598",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized trial, but it does not meet the inclusion criteria for the population, as it only references opiate-dependent patients, not people with mental health disorders.",
+            "study_design": "Randomised Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention is cognitive behavioral therapy for opiate use, which does not align with the specified interventions related to active employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Methadone Maintenance Treatment (MMT) for opiate-dependent patients, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (China).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

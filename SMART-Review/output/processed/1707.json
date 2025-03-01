@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1707,
+    "Authors": "Millner, Uma Chandrika; Kim, Min",
+    "Article Title": "Perspectives on Work and Work-Related Challenges Among Asian Americans With Psychiatric Disabilities",
+    "Abstract": "Employment has been established as an important component of recovery from psychiatric disabilities, but little is known about the perspectives and experiences of working among ethnic minority populations, such as Asian Americans. Asian Americans with psychiatric disabilities have been largely underrepresented in the academic literature on recovery from mental illness and finding meaningful roles in the community. We developed the Meaning of Work Scale to compare the perspectives of Asian Americans with psychiatric disabilities (n = 53) regarding work with those of White Americans with psychiatric disabilities (n = 96). We further explored the perspectives of Asian American individuals (n = 53) regarding work using an open-ended qualitative questions. Data comparing the 2 groups were analyzed using t tests while qualitative data were analyzed using grounded theory methodology. The results revealed significant differences in the intrinsic meaning of work between White Americans and Asian Americans. Major themes derived from qualitative results included barriers that affect work, cultural values and expectations that influence work, and helpful strategies, services, and supports to deal with work-related challenges. These findings have important implications for providers of clinical and rehabilitation services working with Asian Americans diagnosed with psychiatric disabilities.",
+    "DOI": "10.1037/aap0000085",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study used t tests for data comparison, which is not a control group.",
+            "study_design": "t tests",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It focuses on perspectives and experiences regarding work among Asian Americans with psychiatric disabilities.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Asian Americans with psychiatric disabilities, which is not specified in the inclusion criteria. The inclusion criteria require the study to focus on people with mental disorders or documented mental health problems without specifying a particular ethnicity.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Qualitative study with t-tests and grounded theory methodology",
+            "logprobs": null
+        }
+    }
+}

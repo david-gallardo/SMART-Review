@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1756,
+    "Authors": "Peele, Morgan; Wolf, Sharon",
+    "Article Title": "Predictors of anxiety and depressive symptoms among teachers in Ghana: Evidence from a randomized controlled trial",
+    "Abstract": "Rationale: While teachers are heralded as key drivers of student learning outcomes, little attention has been paid to teachers' mental health, especially in less-developed countries such as Ghana. Professional background, workplace environment, and personal life stressors may threaten teachers' mental health and subsequent effectiveness in the classroom.Objectives: The objectives of this study were to investigate 1) whether and how professional background, workplace environment, and personal life stressors predicted teachers' anxiety and depressive symptoms, and 2) whether participation in a professional development intervention predicted change in teachers' symptoms over the course of one school year in Ghana.Method: We used multilevel models to examine predictors of depressive and anxiety symptoms among 444 kindergarten teachers (98% female; age range: 18-69) who participated in the Quality Preschool for Ghana (QP4G) Study. QP4G was a school-randomized control trial (n = 108 public schools; n = 132 private schools) evaluating a one-year teacher professional development intervention program implemented with and without parental-awareness meetings. Teacher depressive and anxiety symptoms were assessed at baseline before the intervention and at the end of the school year.Results: Poor workplace environment was associated with increased anxiety and depressive symptoms. Social support also predicted symptoms, with lack of support from students' parents and being new to the local community associated with more anxiety symptoms. Within teachers' personal lives, household food insecurity predicted more depressive symptoms. Finally, anxiety and depressive symptoms increased for all teachers over the school year. However, randomization to either intervention was linked to a significantly smaller increase in symptoms over the school year.Conclusions: Results suggest that teachers' personal and professional lives are consequential for their mental health, and that professional development interventions that provide training and in-class coaching and parent engagement may benefit teachers' mental health.",
+    "DOI": "10.1016/j.socscimed.2020.112957",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on predictors of anxiety and depressive symptoms among teachers.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on Ghana and thus is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia). Additionally, the intervention provided is a professional development program for teachers rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

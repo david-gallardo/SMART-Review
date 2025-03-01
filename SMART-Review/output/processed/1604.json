@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1604,
+    "Authors": "Harvery, Madeleine; Froude, Elspeth H.; Foley, Kitty-Rose; Trollor, Julian N.; Arnold, Samuel R. C.",
+    "Article Title": "Employment profiles of autistic adults in Australia",
+    "Abstract": "Autistic adults experience a high number of job changes, reduced working hours, minimal workplace supports, and overrepresentation in entry-level and low paid positions. This study adds to the existing evidence base to guide clinical decisions and interventions for this population. This study utilized baseline data collected between 2015 and 2017 from the Autism CRC's Australian Longitudinal Study of Autism in Adulthood. The aim was to describe the employment profiles and explore factors related to employment for Australian autistic adults aged 25 and older (N = 149). Comparisons between participants and the Australian workforce were made using Australian Bureau of Statistics (ABS) data. Two logistic regression models were conducted to explore the association between underemployment and underutilisation with personal and environmental factors. In comparison to the Australian workforce, autistic adults were more likely to work part-time, work reduced hours and be employed at skill levels lower than their qualifications warranted. Logistic regressions reported that more autistic traits, more social supports and having workplace adjustments implemented were significantly associated with a higher odds of autistic adults being appropriately employed and/or utilized in the workforce. Results suggest that interventions implementing appropriate workplace adjustments, a supportive workplace environment, and adequate social supports may improve employment outcomes for autistic adults. All employees may benefit from workplace resources targeted toward fostering an inclusive workplace environment. Lay summary This study aimed to describe the employment profiles and explore factors related to employment for Australian autistic adults. We compared this with the Australian workforce using data from the Australian Bureau of Statistics. Autistic adults with more autistic traits and more social and workplace supports were more likely to be employed and have jobs that were better suited to them. Autistic adults might have better employment outcomes if they have the appropriate workplace adjustments, a supportive workplace and adequate social supports.",
+    "DOI": "10.1002/aur.2588",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group (Australian workforce), the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2015 and 2017, the intervention is job search services (implied by workplace adjustments and social supports), the population is people with mental disorders or documented mental health problems (autistic adults), and the outcomes include employment or labor results (employment rates, job duration, job quality, workplace integration, and job retention).",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on describing the employment profiles and factors related to employment for autistic adults in Australia without implementing any specific intervention.",
+            "study_design": "Cross-sectional study using baseline data from a longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on autistic adults, not specifically on people with mental health disorders. Additionally, the study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for comparison.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

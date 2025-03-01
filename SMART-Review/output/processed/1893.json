@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1893,
+    "Authors": "Kannisto, Kati Anneli; Korhonen, Joonas; Adams, Clive E.; Koivunen, Marita Hannele; Vahlberg, Tero; Valimaki, Maritta Anneli",
+    "Article Title": "Factors Associated With Dropout During Recruitment and Follow-Up Periods of a mHealth-Based Randomized Controlled Trial for Mobile. Net to Encourage Treatment Adherence for People With Serious Mental Health Problems",
+    "Abstract": "Background: Clinical trials are the gold standard of evidence-based practice. Still many papers inadequately report methodology in randomized controlled trials (RCTs), particularly for mHealth interventions for people with serious mental health problems. To ensure robust enough evidence, it is important to understand which study phases are the most vulnerable in the field of mental health care.Objective: We mapped the recruitment and the trial follow-up periods of participants to provide a picture of the dropout predictors from a mHealth-based trial. As an example, we used a mHealth-based multicenter RCT, titled Mobile.Net, targeted at people with serious mental health problems.Methods: Recruitment and follow-up processes of the Mobile. Net trial were monitored and analyzed. Recruitment outcomes were recorded as screened, eligible, consent not asked, refused, and enrolled. Patient engagement was recorded as follow-up outcomes: (1) attrition during short message service (SMS) text message intervention and (2) attrition during the 12-month follow-up period. Multiple regression analysis was used to identify which demographic factors were related to recruitment and retention.Results: We recruited 1139 patients during a 15-month period. Of 11,530 people screened, 36.31% (n= 4186) were eligible. This eligible group tended to be significantly younger (mean 39.2, SD 13.2 years, P<.001) and more often women (2103/4181, 50.30%) than those who were not eligible (age: mean 43.7, SD 14.6 years; women: 3633/6514, 55.78%). At the point when potential participants were asked to give consent, a further 2278 refused. Those who refused were a little older (mean 40.2, SD 13.9 years) than those who agreed to participate (mean 38.3, SD 12.5 years; t1842= 3.2, P<.001). We measured the outcomes after 12 months of the SMS text message intervention. Attrition from the SMS text message intervention was 4.8% (27/563). The patient dropout rate after 12 months was 0.36% (4/1123), as discovered from the register data. In all, 3.12% (35/1123) of the participants withdrew from the trial. However, dropout rates from the patient survey (either by paper or telephone interview) were 52.45% (589/1123) and 27.8% (155/558), respectively. Almost all participants (536/563, 95.2%) tolerated the intervention, but those who discontinued were more often women (21/27, 78%; P=.009). Finally, participants' age (P<.001), gender (P<.001), vocational education (P=.04), and employment status (P<.001) seemed to predict their risk of dropping out from the postal survey.Conclusions: Patient recruitment and engagement in the 12-month follow-up conducted with a postal survey were the most vulnerable phases in the SMS text message-based trial. People with serious mental health problems may need extra support during the recruitment process and in engaging them in SMS text message-based trials to ensure robust enough evidence for mental health care.",
+    "DOI": "10.2196/jmir.6417",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines dropout rates during recruitment and follow-up periods of a mHealth-based trial for people with serious mental health problems, but it does not address employment outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on dropout rates during recruitment and follow-up periods of an mHealth-based trial for treatment adherence. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT (Multicenter RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review of a randomized controlled trial (RCT) that meets the inclusion criteria regarding study design, intervention, and population. It focuses on employment outcomes for people with mental health disorders, which is relevant to the objective of identifying effective active employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

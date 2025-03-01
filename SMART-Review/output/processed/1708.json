@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1708,
+    "Authors": "Utzet, Mireia; Llorens, Clara; Morina, David; Moncada, Salvador",
+    "Article Title": "Persistent inequality: evolution of psychosocial exposures at work among the salaried population in Spain between 2005 and 2016",
+    "Abstract": "Purpose To assess the prevalence of poor mental health and of exposure to psychosocial risks among the working population in Spain in 2005, 2010 and 2016; to analyse the associations between workplace psychosocial exposures and mental health problems according to gender and occupation. Methods Three representative samples of the Spanish working population were analysed, in 2005 (n = 7,023), 2010 (n = 4,979), and 2016 (n = 1,807). Prevalence ratios between mental health and the five dimensions - job demands, job control, social support, employment insecurity and insecurity over working conditions-were estimated using multilevel mixed-effects Poisson regressions. All the analyses were separated by gender and occupation. Results In 2016, there were improvements in job control, job demands and social support, and deteriorations in employment insecurity and insecurity over working conditions. The risk of poor mental health among manual workers rose if they were exposed to high demands, low social support and high employment insecurity; among non-manual workers, the risk increased if they were exposed to high demands, low control, low social support and high insecurity over working conditions. There were no differences according to gender. Conclusion The new findings shed light on the evolution of the working conditions and health of the wage-earning population in Spain over the last 11 years. The stratification by gender and occupational group is relevant, since it allows a detailed analysis of the social disparities in the associations between psychosocial risks and mental health. The most vulnerable groups can be identified and preventive measures developed at source.",
+    "DOI": "10.1007/s00420-020-01609-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multilevel mixed-effects Poisson regression analysis, which meets the inclusion criteria for study design. The study is also within the specified timeframe (2005-2025) and focuses on employment outcomes for people with mental health disorders in the EU.",
+            "study_design": "Multilevel mixed-effects Poisson regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the evolution of psychosocial exposures and their impact on mental health among the working population in Spain, without any intervention or employment-related outcomes.",
+            "study_design": "Cross-sectional analysis over time",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions targeting employment outcomes for people with mental health disorders and lacks a specific population focus.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with multilevel mixed-effects Poisson regressions",
+            "logprobs": null
+        }
+    }
+}

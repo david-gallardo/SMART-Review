@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1725,
+    "Authors": "Handley, Tonelle E.; Rich, Jane; Lewin, Terry J.; Kelly, Brian J.",
+    "Article Title": "The predictors of depression in a longitudinal cohort of community dwelling rural adults in Australia",
+    "Abstract": "Purpose Many major studies of depression in Australia are under-representative of rural and remote residents, limiting the generalizability of their findings. This study explores the contributions of a range of individual, social, and community factors to the trajectory of depressive symptoms among a cohort of rural and remote residents.Methods Data from four waves of the Australian Rural Mental Health Study (baseline n= 2639), a 5 year longitudinal study of rural community residents, were examined within generalized linear mixed models to predict depressive symptoms. Depression was measured using the PHQ-9, with key correlates including social support, employment status, financial wellbeing, neuroticism, and rural community factors.Results Moderate-to-severe depression was reported by 6.3% of the baseline sample. Being permanently unable to work resulted in over a threefold increase in the odds of depression at the following survey wave. Self-rated financial hardship was associated with a fourfold increase in the odds of future depression, as was a high level of community concerns. Neuroticism and tobacco use also made a significant independent contribution to future depressive symptoms. Interpersonal support was a protective factor, reducing the odds of next-wave depression by 64%.Conclusion Financial and employment-related difficulties appear to be important risk factors for depression, and targeting individuals experiencing such difficulties may be an effective means of reducing depression among certain sub-groups. Strategies to prevent depression in rural and remote Australia may benefit from a focus on interpersonal and community-level support, as the effects of this support are lasting and contribute to a reduced likelihood of depressive episodes in future years.",
+    "DOI": "10.1007/s00127-018-1591-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Longitudinal cohort study with generalized linear mixed models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks measures of employment outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

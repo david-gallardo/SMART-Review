@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1923,
+    "Authors": "Shokoohi, Mostafa; Bauer, Greta R.; Kaida, Angela; Logie, Carmen H.; Lacombe-Duncan, Ashley; Milloy, M. -J.; Lloyd-Smith, Elisa; Carter, Allison; Loutfy, Mona; Abdul-Noor, Rahma; Anema, Aranka; Angel, Jonathan; Baril, Jean-Guy; Barry, Fatimatou; Beaver, Kerrigan; Becker, Denise; Benoit, Anita; Brophy, Jason; Brotto, Lori; Burchell, Ann; Cardinal, Claudette; Carlson, Allison; Carter, Allison; Cescon, Angela; Cioppa, Lynne; Cohen, Jeffrey; Colley, Guillaume; Conway, Tracey; Cooper, Curtis; Cotnam, Jasmine; Cousineau, Janette; Dayle, Janice; Desbiens, Marisol; Dubinsky, Hania; Dubuc, Daniele; Duddy, Janice; Gagnier, Brenda; Gahagan, Jacqueline; Gasingirwa, Claudine; Gataric, Nada; Greene, Saara; Hart, Trevor; Hankins, Catherine; Hogg, Bob; Howard, Terry; Islam, Shazia; Jones, Evin; Kaushic, Charu; Keating, Alexandria; Kennedy, Logan; Kestler, Mary; Kiboyogo, Maxime; Klein, Marina; Kwaramba, Gladys; Langlois, Andrea; Lee, Melanie; Lee, Rebecca; Leonard, Lynne; Lewis, Johanna; Lima, Viviane; Lloyd-Smith, Elisa; Logie, Carmen; Margolese, Shari; Martin, Carrie; Masching, Renee; Massie, Lyne; Medjuck, Melissa; Menard, Brigitte; Miller, Cari; Money, Deborah; Muchenje, Marvelous; Mwalwanda, Mary; Mary; Ndung'u; Nicholson, Valerie; Nzikwikiza, Illuminee; O'Brien, Kelly; O'Brien, Nadia; Ogilvie, Gina; Ogunnaike-Cooke, Susanna; Otis, Joanne; Palmer, Ali; Patterson, Sophie; Peltier, Doris; Yasmeen; Persad; Pick, Neora; Pierre, Alie; Powis, Jeff; Proulx-Boucher, Karene; Quan, Corinna; Raboud, Janet; Rachlis, Anita; Ralph, Edward; Rawson, Stephanie; Roth, Eric; Rouleau, Danielle; Rourke, Sean; Rueda, Sergio; Saavedra, Mercy; Salters, Kate; Sanchez, Margarite; Sandre, Roger; Sas, Jacquie; Sereda, Paul; Smaill, Fiona; Smith, Stephanie; Summers, Marcie; Tigere, Tsitsi; Tharao, Wangari; Thomas-Pavanel, Jamie; Tom, Christina; Tremblay, Cecile; Trottier, Benoit; Trottier, Sylvie; Tsoukas, Christos; Wagner, Anne; Walmsley, Sharon; Webster, Kath; Wobeser, Wendy; Yee, Jessica; Yudin, Mark; Zhang, Wendy",
+    "Article Title": "Patterns of social determinants of health associated with drug use among women living with HIV in Canada: a latent class analysis",
+    "Abstract": "Background and Aims Identifying typologies of social determinants of health (SDoH) vulnerability influencing drug use practices among women living with HIV (WLWH) can help to address associated harms. This research aimed to explore the association of SDoH clusters with drug use among WLWH. Design Latent class analysis (LCA) was used to identify the distinct clusters of SDoH. Inverse probability weighting (IPW) was employed to account for confounding and potential selection bias. Associations were analyzed using generalized linear model with log link and Poisson distribution, and then weighted risk ratio (RR) and 95% confidence intervals (CI) were reported. Setting and Participants Data from 1422 WLWH recruited at time-point 1 of the Canadian HIV Women's Sexual and Reproductive Health Cohort Study (CHIWOS, 2013-15), with 1252 participants at 18 months follow-up (time-point 2). Measurements Drug use was defined as use of illicit/non-prescribed opioids/stimulants in the past 6 months. SDoH indicators included: race discrimination, gender discrimination, HIV stigma, social support, access to care, food security, income level, employment status, education, housing status and histories of recent sex work and incarceration. Findings LCA identified four SDoH classes: no/least SDoH adversities (6.6%), discrimination/stigma (17.7%), economic hardship (30.8%) and most SDoH adversities (45.0%). Drug use was reported by 17.5% and 17.2% at time-points 1 and 2, respectively. WLWH with no/least SDoH adversities were less likely to report drug use than those in economic hardship class (weighted RR = 0.13; 95% CIs = 0.03, 0.63), discrimination/stigma class (weighted RR = 0.15; 95% CIs = 0.03, 0.78), and most SDoH adversities class (weighted RR = 0.13; 95% CIs = 0.03, 0.58). Conclusions Social determinants of health vulnerabilities are associated with greater likelihood of drug use, underscoring the significance of addressing interlinked social determinants and drug use through the course of HIV care and treatment.",
+    "DOI": "10.1111/add.14566",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on social determinants of health and drug use among women living with HIV in Canada.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on social determinants of health associated with drug use among women living with HIV in Canada.",
+            "study_design": "Latent class analysis with inverse probability weighting",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

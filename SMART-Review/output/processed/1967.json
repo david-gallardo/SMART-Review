@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1967,
+    "Authors": "Cavallari, Jennifer M.; Garza, Jennifer L.; Ferguson, Jacqueline M.; Laguerre, Rick A.; Decker, Ragan E.; Suleiman, Adekemi O.; Dugan, Alicia G.",
+    "Article Title": "Working Time Characteristics and Mental Health among Corrections and Transportation Workers",
+    "Abstract": "Objectives: Mental health disorders are a leading cause of work disability and while the psychosocial workplace environment plays a critical role, working time characteristics are also implicated. We sought to examine the association between working time characteristics and mental health in a cohort of two unionized, full-time worker populations, correctional supervisors, and transportation maintainers.Methods: Using a cross-sectional study design, we surveyed workers on working time characteristics across seven domains including length of the shift, the intensity or proximity of sequential shifts, the time of day, and social aspects of work hours including predictability, variability, control, and free time. Burnout symptoms (Oldenburg Burnout Inventory) and depressive symptoms (eight-item Centers for Epidemiologic Studies Depression Scale) were assessed along with the psychosocial work environment and health behaviors. We used log-binomial regression models to estimate prevalence ratios and 95% confidence intervals after adjusting for age, gender, and company.Results: A total of 318 workers were surveyed. The majority (72%) of workers reported a fixed shift. The prevalence of burnout symptoms was higher among workers reporting more frequent shift intensity (working 6 or more days in a row) (PR: 1.15, 95% CI: 1.01, 1.31; P = 0.04). Low psychological demands and high worker social support were associated with fewer burnout symptoms, independent of working time characteristics. The prevalence of depressive symptoms was higher in workers reporting more frequent unpredictable work (PR: 1.17, 95% CI: 1.01, 1.35; P = 0.04) and was lower among workers reporting increased schedule control (PR: 0.86, 95% CI: 0.77, 0.96; P = 0.01). Higher worker social support as well as sufficient sleep and adequate exercise were associated with fewer depressive symptoms, independent of working time characteristics.Conclusions: Different working time characteristics were associated with work-related mental health (i.e. burnout) as well as general mental health (i.e. depressive symptoms). Work intensity was associated with the prevalence of burnout symptoms and the results suggest that the mechanism may be through the need for recovery from the psychosocial exposures of work. Both schedule control and predictability were associated with depressive symptoms and the results suggest that work-life imbalance and lack of recovery may be implicated. Comprehensive prevention policies that consider work organization along with the psychosocial work environment and work-life balance may help to improve workers' mental health.",
+    "DOI": "10.1093/annweh/wxaa131",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of having a rigorous evaluation such as meta-analyses, systematic reviews, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional study with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is job search services (not explicitly mentioned but implied through the study design), the population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as burnout symptoms and depressive symptoms.",
+            "study_design": "Cross-sectional study with log-binomial regression models",
+            "logprobs": "PR: 1.15, 95% CI: 1.01, 1.31; P = 0.04, PR: 1.17, 95% CI: 1.01, 1.35; P = 0.04, PR: 0.86, 95% CI: 0.77, 0.96; P = 0.01"
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

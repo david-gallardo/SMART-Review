@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1670,
+    "Authors": "Hastuti, Rina; Timming, Andrew R.",
+    "Article Title": "An inter-disciplinary review of the literature on mental illness disclosure in the workplace: implications for human resource management",
+    "Abstract": "The purpose of this review is to consolidate the stock of empirical research relating to the disclosure or concealment of mental illness in the workplace. We present a comprehensive framework for understanding the challenges that employees and job applicants face surrounding mental illness and identity management. This review aims to synthesize the findings of studies pertaining to the decision to disclose (or not) mental illnesses in the workplace and to channel the findings into a comprehensive model that can serve as a stepping-stone for future research in the field of human resource management (HRM). From the review, we found that organizational support, social support, and individual differences were key antecedents of the decision to disclose. Disclosure also affects outcomes such as access to accommodations and support programs, helping behaviors, psychological wellbeing, and employment success. Practically speaking, this research contributes to the development of a safe and diverse organizational climate in which all employees, regardless of mental illness, feel included in their work environment.",
+    "DOI": "10.1080/09585192.2021.1875494",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an inter-disciplinary review and lacks a rigorous evaluation or control group. It does not directly address employment interventions or outcomes.",
+            "study_design": "Interdisciplinary review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the disclosure of mental illness in the workplace and its implications for HRM, not on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

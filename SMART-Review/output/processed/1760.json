@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1760,
+    "Authors": "Royer, J. A.; Hardin, J. W.; McDermott, S.; Ouyang, L.; Mann, J. R.; Ozturk, O. D.; Bolen, J.",
+    "Article Title": "Use of State Administrative Data Sources to Study Adolescents and Young Adults with Rare Conditions",
+    "Abstract": "BACKGROUND: Effective care of young people with rare conditions requires ongoing coordinated medical treatment as well as educational and social support services. However, information on treatment is often lacking due to limited data. South Carolina has a repository of comprehensive health and human service data with which individuals may be tracked across the data systems of multiple state agencies and organizations.OBJECTIVE: To develop a method for studying health care of young persons with rare conditions using this repository.METHODS: We identified individuals aged 15 to 24 years diagnosed during 2000-2010 with Fragile X syndrome (FXS), spina bifida (SB), or muscular dystrophy (MD) using a series of algorithms. ICD-9-CM codes were used to initially identify the cohort from medical billing data. Demographics, medical care, employment, education, and socioeconomic status data were then extracted from linked administrative sources.RESULTS: We identified 1,040 individuals with these rare conditions: 125 with FXS, 695 with SB, and 220 with MD. The vast majority of the cases (95 %) were identified in the Medicaid database. Half of the cohort was male, with a higher percentage in the FXS and MD groups. Sixty-two percent of the cohort was enrolled in the last year of high school. Over half of the cohort received support services from the state's disability and special-needs agency; 16 % received food assistance. Thirty-eight percent were employed at some point during the study period. Forty-nine individuals with SB and 56 with MD died during the study period.CONCLUSIONS: We used a linked statewide data system to study rare conditions. Strengths include the diversity of information, rigorous identification strategies, and access to longitudinal data. Despite limitations inherent to administrative data, we found that linked state data systems are valuable resources for investigating important public health questions on rare conditions.",
+    "DOI": "10.1007/s11606-014-2925-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the care of young people with rare conditions, rather than employment outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population includes adolescents and young adults, which does not align with the specified inclusion criteria for people with mental health disorders.",
+            "study_design": "Descriptive study using administrative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on rare conditions and uses administrative data sources, not directly addressing employment policies for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and the population is not exclusively people with mental disorders.",
+            "study_design": "Observational study using administrative data",
+            "logprobs": null
+        }
+    }
+}

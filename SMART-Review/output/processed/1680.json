@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1680,
+    "Authors": "Ahlin, Julia K.; LaMontagne, Anthony D.; Hanson, Linda L. Magnusson",
+    "Article Title": "Are there bidirectional relationships between psychosocial work characteristics and depressive symptoms? A fixed effects analysis of Swedish national panel survey data",
+    "Abstract": "Objectives Psychosocial work characteristics have been prospectively associated with depressive symptoms. However, methodological limitations have raised questions regarding causality. It is also unclear to what extent depressive symptoms affect the experience of the psychosocial work environment. We examined contemporaneous (measured simultaneously) and lagged bidirectional relationships between psychosocial work characteristics and depressive symptoms, simultaneously controlling for time-stable individual characteristics.Methods We included 3947 subjects in the Swedish Longitudinal Occupational Survey of Health (SLOSH), with self-reported job demands, control, social support, work efforts, rewards, procedural justice and depressive symptoms in four waves 2010-2016. We applied dynamic panel models with fixed effects, using structural equation modelling, adjusting for all time-stable individual characteristics such as personality and preemployment factors.Results Higher levels of job demands, job demands in relation to control, work efforts and efforts in relation to rewards were contemporaneously associated with more depressive symptoms (standardised beta: 0.18-0.25, p<0.001), while higher levels of workplace social support, rewards at work and procedural justice were associated with less depressive symptoms (beta: -0.18, p<0.001, beta: -0.16, p<0.001 and beta: -0.09, p<0.01, respectively). In contrast, only work efforts predicted higher levels of depressive symptoms 2 years later (beta: 0.05, p<0.05). No other lagged associations were found in any direction.Conclusions After controlling for all time-invariant confounding, our results suggest that psychosocial work characteristics predominantly affect depressive symptoms immediately or with only a short time lag. Furthermore, we found no evidence of reverse causation. This indicates short-term causal associations, although the temporal precedence of psychosocial work characteristics remains uncertain.",
+    "DOI": "10.1136/oemed-2018-105450",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a fixed effects analysis of Swedish national panel survey data, meeting the inclusion criteria for study design. The study includes a control group and examines contemporaneous and lagged bidirectional relationships between psychosocial work characteristics and depressive symptoms.",
+            "study_design": "Fixed Effects Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment services, training programs, wage subsidies, or supported employment. It focuses on the bidirectional relationships between psychosocial work characteristics and depressive symptoms using Swedish national panel survey data.",
+            "study_design": "Fixed effects analysis with structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "Fixed effects analysis of longitudinal survey data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

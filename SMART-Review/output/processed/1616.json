@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1616,
+    "Authors": "Adamczyk, Przemyslaw; Daren, Artur; Sulecka, Aleksandra; Bladzinski, Piotr; Cichocki, Lukasz; Kalisz, Aneta; Gaweda, Lukasz; Cechnicki, Andrzej",
+    "Article Title": "Do better communication skills promote sheltered employment in schizophrenia",
+    "Abstract": "Alongside various psychopathological symptoms and neurocognitive dysfunctions, communication skill impairments may be considered core feature of schizophrenia. Although many studies examined the relation between employment status and neurocognition in schizophrenia, we still know very little about the role of communication skills in vocational status among people with schizophrenia. The purpose of this study is to identify the most characteristic communication, neurocognitive and social cognition differences which separate the employed schizophrenia outpatients from those who do not work. The study included three groups: 33 schizophrenia outpatients employed in social firms, 29 unemployed schizophrenia outpatients participating in occupational therapy and sex & age matched 31 healthy controls. We assessed communication skills, global cognitive functioning, executive functions, memory, social cognition as well as severity of psychopathology. Our results indicate that the most characteristic differences between employed and unemployed schizophrenia outpatients are associated with selective language and communication skills, i.e. paralinguistic aspects of communication, understanding of discrete meaning of linguistic context and figurative meaning of language. We find no significant differences between both clinical groups with regard to neurocognition and social cognition. Moreover, unemployed group had more severe psychopathology than the employed group, so we re-analyzed results controlling for symptom severity. The only differences that endured were related to general communication skills and explanation of pictured metaphors, but only when controlling solely for positive or negative syndrome. In conclusion, the present study indicates that employment in schizophrenia is associated with better symptomatic remission and communication skills, but not with better neurocognition and social cognition. (C) 2016 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.schres.2016.08.015",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted in EU countries (Germany, where the study was conducted), within the specified timeframe (2005-2025), and addresses employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) and does not include a control group. It also does not directly address employment interventions but rather examines communication skills in relation to employment status.",
+            "study_design": "Observational study with three groups",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia and does not specifically address employment interventions for people with mental health disorders in general. It also does not include adult training, wage subsidies, or job search services as interventions.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention and lacks a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

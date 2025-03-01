@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1813,
+    "Authors": "Paladhi, Unmesha Roy; Dalve, Kimberly N.; Gurrey, Sixtine O.; Hawes, Stephen E.; Mills, Brianna",
+    "Article Title": "Firearm ownership and access to healthcare in the US: A cross-sectional analysis of six states",
+    "Abstract": "Provider-led firearm storage counseling is a form of firearm suicide prevention intervention. Little research examines whether barriers to healthcare access for at-risk individuals limit this intervention's impact. This study explores the relationship between household firearm presence/storage practices and healthcare access/utilization using a cross-sectional analysis of the 2017 Behavioral Risk Factor Surveillance System (BRFSS), which included state-representative data from six states that completed the Firearm Safety and Healthcare Access Modules: California, Idaho, Kansas, Oregon, Texas, and Utah. Exposures were household firearm presence and firearm storage practices. Outcomes were lacking health insurance, not having a healthcare provider, inability to afford care, and no recent routine checkup. Logistic regression models adjusted for age, sex, education, employment, children in the household, and state of residency. Our analysis included 31,888 individuals; 31.1% reported a household firearm. Compared to those in firearm-owning households, those in non-firearm-owning households had higher odds of being uninsured (aOR 1.99, 95%CI 1.60-2.48), not having a provider (aOR 1.40, 95%CI 1.18-1.67), and reporting cost as a barrier to care (aOR 1.37, 95%CI 1.13-1.67). Among firearmowning households, those with firearms stored loaded and unlocked had higher odds of lacking a personal healthcare provider (aOR 1.52, 95%CI 1.07-2.15) compared to individuals in homes where firearms were stored unloaded. Results indicate that while individuals in firearm-owning households are more likely than non-firearm owning households to have healthcare access, those in homes with the riskiest firearm storage practices had less access. Provider-led counseling may have limited reach for individuals in homes with risky firearm storage practices.",
+    "DOI": "10.1016/j.ypmed.2021.106830",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is not focused on people with mental health disorders.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on healthcare access and firearm ownership in the US. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes related to mental health disorders.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        }
+    }
+}

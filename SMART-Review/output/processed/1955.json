@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1955,
+    "Authors": "Wild, T. Cameron; Hammal, Fadi; Hancock, Myles; Bartlett, Nathan T.; Gladwin, Kerri Kaiser; Adams, Denise; Loverock, Alexandra; Hodgins, David C.",
+    "Article Title": "Forty-eight years of research on psychosocial interventions in the treatment of opioid use disorder: A scoping review",
+    "Abstract": "Background: Mapped the sources and types of evidence available on psychosocial interventions in the treatment of opioid use disorder (OUD), with and without pharmacotherapies.Methods: Six electronic databases were searched for research published until July 1, 2019. Included studies were coded on publication characteristics, evidence sources, treatment settings and modalities, study populations and patient characteristics, intervention(s) offered to patients, research questions addressed in experimental studies, and outcomes investigated.Results: We identified 305 empirical studies of 54,607 patients. Most studies (64 %; n = 194) compared psychosocial interventions to alternative treatment(s) (183 RCTs and 11 quasi-experiments) while 28 % (n = 86) used observational designs, and 8% (n = 25) used qualitative methods. Trials infrequently investigated effects of stand-alone psychosocial interventions without pharmacotherapies (20% of all RCTs). Regardless of research question or study design, program retention and illicit drug use were the most common outcomes investigated (> 81% of all studies and RCTs), typically among longstanding male heroin users attending specialty outpatient addiction services. Studies rarely examined (a) OUD treatment in general health care or prescription OUD (each < 6 % of all studies and RCTs), (b) effects of social assistance (employment, education, social support) and harm reduction (each < 6 % of studies; < 7 % of RCTs), and (c) health-related quality of life and satisfaction with care (each < 10 % and < 15 % of all studies and RCTs, respectively).Conclusions: Scant evidence is available on the putative rehabilitative effects of psychosocial interventions, either as stand-alone treatments or in an adjunct role to pharmacotherapies.",
+    "DOI": "10.1016/j.drugalcdep.2020.108434",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial interventions for opioid use disorder rather than mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosocial interventions for opioid use disorder (OUD), not specifically on employment or labor outcomes for people with mental health disorders. The study's population is individuals with OUD, not a general population with mental health disorders.",
+            "study_design": "RCTs and quasi-experiments",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes and the population is not explicitly people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

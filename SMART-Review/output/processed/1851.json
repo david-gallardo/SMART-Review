@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1851,
+    "Authors": "Oh, Sehun; DiNitto, Diana M.; Powers, Daniel A.",
+    "Article Title": "Spillover Effects of Job Skills Training on Substance Misuse Among Low-Income Youths With Employment Barriers: A Longitudinal Cohort Study",
+    "Abstract": "Objectives. To examine spillover effects of job skills training (vs basic services only [e.g., adult basic education, job readiness training]) on substance misuse among lowincome youths with employment barriers.Methods. Data came from the National Longitudinal Survey of Youth 1997, a longitudinal cohort study of youths born between 1980 and 1984 in the United States. Based on respondents' reports of substance misuse (past-month binge drinking and pastyear marijuana and other illicit drug use) from 2000 to 2016, we estimated substance misuse trajectories of job skills training (n = 317) and basic services (n = 264) groups. We accounted for potential selection bias by using inverse probability of treatment weighting.Results. Compared with the basic services group, the job skills training group showed notable long-term reductions in its illicit drug misuse trajectory, translating to a 56.9% decrease in prevalence rates from 6.5% in year 0 to 2.8% in year 16.Conclusions. Job skills training can be an important service component for reducing substance misuse and improving employment outcomes among youths with economic disadvantages and employment barriers.",
+    "DOI": "10.2105/AJPH.2020.305631",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a longitudinal cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address people with mental disorders. It focuses on low-income youths with employment barriers and substance misuse.",
+            "study_design": "Longitudinal Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance misuse among low-income youths with employment barriers, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as people with mental disorders.",
+            "study_design": "Longitudinal Cohort Study",
+            "logprobs": null
+        }
+    }
+}

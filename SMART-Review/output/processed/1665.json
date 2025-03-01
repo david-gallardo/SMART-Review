@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1665,
+    "Authors": "Zollmann, P.; Pimmer, V.; Rose, A. D.; Erbstosser, S.",
+    "Article Title": "Comparison of Psychosomatic Rehabilitation for German and Foreign Patients",
+    "Abstract": "Aim: This study aims to comprehensively analyse the course of psychosomatic rehabilitation - from access to quantifiable rehabilitation outcomes. A comparison is made between 3 groups of patients: German citizens, patients of Turkish nationality or patients of foreign or unknown nationality.Methods: The data set used comprises routine data of the German Pension Insurance regarding psychosomatic rehabilitation from the so called Reha-Statistik-Database (RSD, database for rehabilitation statistics) over a period from 2007 to 2014. We included 128,165 compulsorily insured persons who underwent psychosomatic rehabilitation in 2012.Results: Among the patients in psychosomatic rehabilitation in 2012 5.8% were of foreign nationality. Turkish patients were with 2.0% the largest group, patients with another or unknown nationality or stateless patients constitute the additional group. The most common diagnoses for all groups were affective disorders and neurotic, somato-form and stress disorders. Differences between the groups can be demonstrated with regard to sociodemographics and employment status prior to rehabilitation: Patients of foreign nationality, and here especially Turkish patients, are on average younger, more often married and have less advanced vocational training than German patients. Accordingly, they work more often in less qualified jobs with lower wages. The health status prior rehabilitation, measured as days of sick leave, is also worse compared to German patients. In contrast to other indications there is no disadvantage regarding access to psychosomatic rehabilitation. On the contrary: the age-standardised uptake ratios of Turkish patients, especially of women, are markedly higher than in Germans. Treatment during psychosomatic rehabilitation is more or less identical. With regards to outcome of rehabilitation, reintegration into working life or transition into disability pension Turkish patients are less successful. As important influential variables for return to work (RTW) the following factors were identified: Employment duration in the last 12 months before the start of rehabilitation, the medically tested ability to work for the last employment, age and wage in the last year before the start of rehabilitation. Even after the inclusion of these variables in the logistic regression model, a direct influence of the Turkish citizenship has remained.Conclusion: In this study Turkish patients are a special group. This is especially true for Turkish women. They start from a lower baseline in comparison with their male compatriots, they have higher access to psychosomatic rehabilitation and the results of rehabilitation are less favourable. These findings may be attributable to the markedly worse health and employment status of the female Turkish patient group. Nevertheless, nationality itself remains to be a significant influencing factor.",
+    "DOI": "10.1055/s-0042-120085",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the interventions do not include job search services, adult training, wage subsidies, or supported employment. The focus is on psychosomatic rehabilitation rather than active employment policies.",
+            "study_design": "Descriptive analysis of routine data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosomatic rehabilitation, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Comparative study",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1679,
+    "Authors": "Beer, Linda; Tie, Yunfeng; Dasgupta, Sharoda; McManus, Tim; Chowdhury, Pranesh P.; Weiser, John",
+    "Article Title": "The COVID-19 pandemic and unemployment, subsistence needs and mental health among adults with HIV in the United States",
+    "Abstract": "Objective: To evaluate whether reported prevalence of unemployment, subsistence needs, and symptoms of depression and anxiety among adults with diagnosed HIV during the COVID-19 pandemic were higher than expected. Design: The Medical Monitoring Project (MMP) is a complex sample survey of adults with diagnosed HIV in the United States. Methods: We analyzed 2015-2019 MMP data using linear regression models to calculate expected prevalence, along with corresponding prediction intervals (PI), for unemployment, subsistence needs, depression, and anxiety for June-November 2020. We then assessed whether observed estimates fell within the expected prediction interval for each characteristic, overall and among specific groups. Results: Overall, the observed estimate for unemployment was higher than expected (17% vs. 12%) and exceeded the upper limit of the PI. Those living in households with incomes >= 400% of FPL were the only group where the observed prevalence of depression and anxiety during the COVID-19 period was higher than the PIs; in this group, the prevalence of depression was 9% compared with a predicted value of 5% (75% higher) and the prevalence of anxiety was 11% compared with a predicted value 5% (137% higher). We did not see elevated levels of subsistence needs, although needs were higher among Black and Hispanic compared with White persons. Conclusions: Efforts to deliver enhanced employment assistance to persons with HIV and provide screening and access to mental health services among higher income persons may be needed to mitigate the negative effects of the US COVID-19 pandemic.",
+    "DOI": "10.1097/QAD.0000000000003142",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a complex sample survey using linear regression models, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, or quasi-experimental studies with a control group.",
+            "study_design": "Complex sample survey using linear regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks an intervention component. It focuses on the impact of unemployment and mental health among adults with HIV during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey using linear regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with HIV in the United States and does not specifically address employment interventions for people with mental health disorders. The study's population and outcomes do not align with the specified inclusion criteria.",
+            "study_design": "Medical Monitoring Project (MMP)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey with regression analysis",
+            "logprobs": null
+        }
+    }
+}

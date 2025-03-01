@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1823,
+    "Authors": "Assefa, Nega; Abdullahi, Yasir Younis; Hemler, Elena Cori; Lankoande, Bruno; Wang, Dongqing; Madzorera, Isabel; Millogo, Ourohire; Naafoe, Livesy Abokyi; Dasmane, Dielbeogo; Dianou, Kassoum; Chukwu, Angela; Workneh, Firehiwot; Mapendo, Frank; Ismail, Abbas; Abubakari, Sulemana Watara; Smith, Emily; Oduola, Ayo; Soura, Abdramane; Sie, Ali; Killewo, Japhet; Mwanyika-Sando, Mary; Vuai, Said Ali Hamad; Baernighausen, Till; Asante, Kwaku Poku; Raji, Tajudeen; Berhane, Yemane; Fawzi, Wafaie Wahib",
+    "Article Title": "Continued disruptions in health care services and mental health among health care providers during the COVID-19 pandemic in five sub-Saharan African countries",
+    "Abstract": "Background Continuous monitoring of the pandemic's impact on health service provision and mental health, COVID-19 perceptions, and compliance with prevention measures among health care providers (HCPs) can help with mitigating the pandemic's negative effects.Methods A computer-assisted telephone interviewing (CATI) survey was conducted among 1499 HCPs in Burkina Faso (Ouagadougou), Ethiopia (Addis Ababa), Nigeria (Lagos and Ibadan), Tanzania (Dar es Salaam), and Ghana (Kintampo). Self-reported mental health, perceptions of the COVID-19 pandemic, and prevention measures available in the workplace were assessed. HCPs' responses to questions regarding the impact of COVID-19 on nine essential health services were summed into a score; high service disruption was defined as a score higher than the total average score across all sites. Modified Poisson regression was used to identify potential factors related to high service disruption.Results Overall, 26.9% of HCPs reported high service disruption, with considerable differences across sites (from 1.6% in Dar es Salaam to 45.0% in Addis Ababa). A considerable proportion of HCPs reported experiencing mild psychological distress (9.4%), anxiety (8.0%), and social avoidance or rejection (13.9%) due to their profession. Participants in Addis Ababa (absolute risk ratio (ARR) = 2.10; 95% confidence interval (CI) = 1.59-2.74), Lagos (ARR = 1.65; 95% CI = 1.242.17), and Kintampo (ARR = 2.61; 95% CI = 1.94-3.52) had a higher likelihood of reporting high service disruption compared to those in Ouagadougou. Reporting ever-testing for COVID-19 (ARR = 0.82; 95% CI = 0.69-0.97) and the presence of COVID-19 guidelines in the workplace (ARR = 0.63; 95% CI = 0.53-0.77) were both associated with lower reported health service disruption among HCPs.Conclusion The COVID-19 pandemic continues to disrupt essential health services and present a challenge to HCPs' mental health, with important differences across countries and settings; interventions are needed to mitigate these negative effects of the pandemic.",
+    "DOI": "10.7189/jogh.12.05046",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of the COVID-19 pandemic on health service provision and mental health among health care providers.",
+            "study_design": "Surveys (CATI) with no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on health care providers in sub-Saharan African countries and does not address employment policies for people with mental health disorders within EU, US, Canada, or Australia. The intervention and population criteria are not met.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on health care providers (HCPs) and not on people with mental health disorders. The intervention is not directly related to employment services or policies for people with mental health disorders.",
+            "study_design": "Computer-assisted telephone interviewing (CATI) survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

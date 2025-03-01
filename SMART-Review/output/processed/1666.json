@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1666,
+    "Authors": "Fan, L. -B.; Blumenthal, J. A.; Watkins, L. L.; Sherwood, A.",
+    "Article Title": "Work and home stress: associations with anxiety and depression symptoms",
+    "Abstract": "In the evolving work environment of global competition, the associations between work and home stress and psychological well-being are not well understood.To examine the impact of psychosocial stress at work and at home on anxiety and depression.In medically healthy employed men and women (aged 30-60), serial regression analyses were used to determine the independent association of psychosocial stress at work and at home with depression symptoms, measured using the Beck Depression Inventory-II (BDI-II), and anxiety symptoms, measured using the Spielberger Trait Anxiety Inventory (STAI). Psychosocial stress at work was measured using the Job Content Questionnaire to assess job psychological demands, job control, job social support and job insecurity. Psychosocial stress at home was assessed by 12 questions including stress at home, personal problems, family demands and feelings about home life.Serial regression analyses in 129 subjects revealed that job insecurity and home stress were most strongly associated with depression and anxiety symptoms. Job insecurity accounted for 9% of the variation both in BDI-II scores and in STAI scores. Home stress accounted for 13 and 17% of the variation in BDI-II scores and STAI scores, respectively. In addition, job social support was significantly and independently associated with STAI scores but not BDI-II scores.Work and home stress were associated with anxiety and depression symptoms in both men and women. Both work and home stress should be considered in studies evaluating anxiety and depression in working populations.",
+    "DOI": "10.1093/occmed/kqu181",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Serial regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on the association between work and home stress and psychological well-being (anxiety and depression symptoms) without addressing specific employment policies or interventions.",
+            "study_design": "Cross-sectional study using serial regression analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Serial regression analyses",
+            "logprobs": null
+        }
+    }
+}

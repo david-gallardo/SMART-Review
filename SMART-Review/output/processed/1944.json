@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1944,
+    "Authors": "Twamley, Elizabeth W.; Burton, Cynthia; Vella, Lea; McGurk, Susan R.; Cadenhead, Kristin; Heaton, Robert; Jeste, Dilip",
+    "Article Title": "COMPENSATORY COGNITIVE TRAINING FOR PEOPLE WITH SEVERE MENTAL ILLNESS IN SUPPORTED EMPLOYMENT",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on compensatory cognitive training for people with severe mental illness.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify the geographic scope and does not mention any control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

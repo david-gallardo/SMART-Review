@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1781,
+    "Authors": "Aitken, Zoe; Simpson, Julie Anne; Bentley, Rebecca; Kavanagh, Anne Marie",
+    "Article Title": "How much of the effect of disability acquisition on mental health is mediated through employment and income? A causal mediation analysis quantifying interventional indirect effects using data from four waves of an Australian cohort study",
+    "Abstract": "Objectives There is evidence that disability acquisition causes a decline in mental health, but few studies have examined the causal mechanisms through which the effect operates. This study used a novel approach to mediation analysis to quantify interventional indirect effects (IIEs) through employment and income.Design and setting We used four waves of longitudinal data (2011-2014) from the Household, Income and Labour Dynamics in Australia Survey, a nationally representative survey of Australian households.Participants Working aged individuals who acquired a disability (n=233) were compared with those who remained disability-free in all four waves (n=5419).Primary outcome measure Self-reported mental health was measured using the Mental Health Inventory subscale of the Short Form 36 general health questionnaire, which measures symptoms of depression, anxiety and psychological well-being.Statistical analysis We conducted a causal mediation analysis quantifying IIEs of disability acquisition on mental health operating through two distinct mediators: employment status and income. We used multiple imputation with 50 imputed datasets to account for missing data.Results The total causal effect of disability acquisition on mental health was estimated to be a 4.8-point decline in mental health score (estimated mean difference: -4.8, 95% CI -7.0 to -2.7). The IIE through employment was estimated to be a 0.5-point difference (-0.5, 95% CI -1.0 to 0.0), accounting for 10.6% of the total effect, whereas there was no evidence that income explained any of the effects.Conclusions This study estimated that disability-related mental health inequalities could be reduced by 10.6% if employment rates were the same for people with disability as those without disability. The results suggest that employment is implicated in the relationship between disability acquisition and mental health and that more research is needed to understand the influence of other aspects of employment and other socioeconomic characteristics.",
+    "DOI": "10.1136/bmjopen-2021-055176",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a causal mediation analysis, which is a type of quasi-experimental study with a control group. The study is based on data from four waves of an Australian cohort study, which meets the inclusion criteria.",
+            "study_design": "Causal mediation analysis (quasi-experimental study with control group)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment for people with mental health disorders. It focuses on the causal mediation analysis of how disability acquisition affects mental health through employment and income.",
+            "study_design": "Causal mediation analysis using longitudinal data from a nationally representative survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly addressing employment for people with mental health disorders.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Causal mediation analysis using longitudinal data",
+            "logprobs": null
+        }
+    }
+}

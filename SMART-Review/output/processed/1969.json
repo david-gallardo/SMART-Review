@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1969,
+    "Authors": "Sznajder, K. K.; Harlow, S. D.; Wang, J.; Tso, L.; Ashagre, Y.; Han, C.",
+    "Article Title": "Factors associated with symptoms of poor mental health among women factory workers in China's supply chain",
+    "Abstract": "Objective Foreign direct investment (FDI) to China has motivated increased labor migration to export processing zones (EPZs). Work environments with high occupational stress, such as production line jobs typical in EPZs, have been associated with adverse mental health symptoms.Methods A cross-sectional survey that examined occupational stress and symptoms of poor mental health was implemented among Chinese women factory workers in three electronic factories in the Tianjin Economic-Technological Development Area. Symptoms of mental health measured in the survey were hopelessness, depression, not feeling useful or needed, and trouble concentrating. Crude and adjusted prevalence odds ratios and their 95% confidence intervals were calculated with logistic regression.Results Responses were collected from 696 women factory workers. Participants were aged 18-56 years (mean 28 +/- 5.8), 66% of whom were married and 25% of whom were migrants. Nearly 50% of participants reported at least one symptom of poor mental health. After adjusting for covariates associated with each outcome in the bivariate analysis, high job strain was associated with hopelessness (OR 2.68, 95% CI 1.58, 4.56), not feeling useful (OR 2.05, 95% CI 1.22, 3.43), and feeling depressed (OR 1.78, 95% CI 1.16, 2.72).Conclusion This study expands on the international body of research on the well-being of women working in the global supply chain and provides evidence on the associations between occupational stressors, migration, and social support on symptoms of poor mental health among women workers. Future research to better understand and improve psychological health and to prevent suicide among workers in China's factories is critical to improve the health of China's labor force.",
+    "DOI": "10.1007/s00420-021-01820-w",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on women factory workers in China's supply chain and does not specifically address employment interventions for people with mental health disorders. The study design is a cross-sectional survey, which is not one of the specified study designs in the inclusion criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (China) and does not directly address employment interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

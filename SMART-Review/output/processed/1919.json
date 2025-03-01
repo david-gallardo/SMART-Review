@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1919,
+    "Authors": "Aitken, Zoe; Simpson, Julie Anne; Gurrin, Lyle; Bentley, Rebecca; Kavanagh, Anne Marie",
+    "Article Title": "Do material, psychosocial and behavioural factors mediate the relationship between disability acquisition and mental health? A sequential causal mediation analysis",
+    "Abstract": "Background: There is evidence of a causal relationship between disability acquisition and poor mental health; however, the mechanism by which disability affects mental health is poorly understood. This gap in understanding limits the development of effective interventions to improve the mental health of people with disabilities.Methods: We used four waves of data from the Household, Income and Labour Dynamics in Australia Survey (2011-14) to compare self-reported mental health between individuals who acquired any disability (n = 387) and those who remained disability-free (n = 7936). We tested three possible pathways from disability acquisition to mental health, examining the effect of material, psychosocial and behavioural mediators. The effect was partitioned into natural direct and indirect effects through the mediators using a sequential causal mediation analysis approach. Multiple imputation using chained equations was used to assess the impact of missing data.Results: Disability acquisition was estimated to cause a five-point decline in mental health [ estimated mean difference: -5.3, 95% confidence interval (CI) -6.8, -3.7]. The indirect effect through material factors was estimated to be a 1.7-point difference (-1.7, 95% CI -2.8, -0.6), explaining 32% of the total effect, with a negligible proportion of the effect explained by the addition of psychosocial characteristics (material and psychosocial: -1.7, 95% CI -3.0, -0.5) and a further 5% by behavioural factors (material-psychosocial-behavioural: -2.0, 95% CI -3.4, -0.6).Conclusions: The finding that the effect of disability acquisition on mental health operates predominantly through material rather than psychosocial and behavioural factors has important implications. The results highlight the need for better social protection, including income support, employment and education opportunities, and affordable housing for people who acquire a disability.",
+    "DOI": "10.1093/ije/dyx277",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group. It is a cross-sectional study.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes. It focuses on the relationship between disability acquisition and mental health through various mediators.",
+            "study_design": "Sequential causal mediation analysis using multiple imputation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the objective.",
+            "study_design": "Cohort study",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Sequential causal mediation analysis",
+            "logprobs": null
+        }
+    }
+}

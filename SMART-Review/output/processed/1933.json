@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1933,
+    "Authors": "Sipila, N.; Appelqvist-Schmidlechner, K.",
+    "Article Title": "Impacts of Individual Placement and Support (IPS) program of supported employment on employment and psychosocial well-being among individuals with severe mental illness",
+    "Abstract": NaN,
+    "DOI": "10.1192/j.eurpsy.2023.697",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: study design (RCT), geographic scope (EU), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (not specified but likely EU given the context), timeframe (current research), intervention (supported employment), and population (individuals with severe mental illness). Outcomes include employment rates.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria: quasi-experimental study design, conducted in the US, published within the timeframe, focuses on supported employment for people with mental health disorders, and includes employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

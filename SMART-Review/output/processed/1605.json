@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1605,
+    "Authors": "Strandh, Mattias; Nilsson, Karina; Nordlund, Madelene; Hammarstrom, Anne",
+    "Article Title": "Do open youth unemployment and youth programs leave the same mental health scars? - Evidence from a Swedish 27-year cohort study",
+    "Abstract": "Background: Recent findings suggest that the mental health costs of unemployment are related to both short- and long-term mental health scars. The main policy tools for dealing with young people at risk of labor market exclusion are Active Labor Market Policy programs for youths (youth programs). There has been little research on the potential effects of participation in youth programs on mental health and even less on whether participation in such programs alleviates the long-term mental health scarring caused by unemployment. This study compares exposure to open youth unemployment and exposure to youth program participation between ages 18 and 21 in relation to adult internalized mental health immediately after the end of the exposure period at age 21 and two decades later at age 43.Methods: The study uses a five wave Swedish 27-year prospective cohort study consisting of all graduates from compulsory school in an industrial town in Sweden initiated in 1981. Of the original 1083 participants 94.3 % of those alive were still participating at the 27-year follow up. Exposure to open unemployment and youth programs were measured between ages 18-21. Mental health, indicated through an ordinal level three item composite index of internalized mental health symptoms (IMHS), was measured pre-exposure at age 16 and post exposure at ages 21 and 42. Ordinal regressions of internalized mental health at ages 21 and 43 were performed using the Polytomous Universal Model (PLUM). Models were controlled for pre-exposure internalized mental health as well as other available confounders.Results: Results show strong and significant relationships between exposure to open youth unemployment and IMHS at age 21 (OR = 2.48, CI = 1.57-3.60) as well as at age 43 (OR = 1.71, CI = 1.20-2.43). No such significant relationship is observed for exposure to youth programs at age 21 (OR = 0.95, CI = 0.72-1.26) or at age 43 (OR = 1.23, CI = 0.93-1.63).Conclusions: A considered and consistent active labor market policy directed at youths could potentially reduce the short- and long-term mental health costs of youth unemployment.",
+    "DOI": "10.1186/s12889-015-2496-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a 27-year prospective cohort study with a control group, meeting the inclusion criteria for study design. The study also meets the inclusion criteria for geographic scope, timeframe, intervention, population, and outcomes.",
+            "study_design": "27-year prospective cohort study with ordinal regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on young people (youth) rather than adults and does not address interventions directly aimed at employment for people with mental health disorders. The intervention type is not specified as one of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions but rather focuses on the impact of unemployment and youth programs on mental health.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

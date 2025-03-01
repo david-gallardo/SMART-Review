@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1706,
+    "Authors": "Duman, Zekiye Cetinkaya; Tuncer, Gulsum Zekiye; Sari, Ayse; Alptekin, Koksal",
+    "Article Title": "Opinions of individuals diagnosed with schizophrenia on working life: qualitative study",
+    "Abstract": NaN,
+    "DOI": "10.14744/phd.2021.80947",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Population does not reference mental health or has an undefined population.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks rigorous evaluation and does not have a control group. It also does not directly address employment interventions or outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not included in the criteria (qualitative study) and does not present measures of employment or labor results.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1768,
+    "Authors": "Brydsten, Anna; Hammarstrom, Anne; San Sebastian, Miguel",
+    "Article Title": "Health inequalities between employed and unemployed in northern Sweden: a decomposition analysis of social determinants for mental health",
+    "Abstract": "Background: Even though population health is strongly influenced by employment and working conditions, public health research has to a lesser extent explored the social determinants of health inequalities between people in different positions on the labour market, and whether these social determinants vary across the life course. This study analyses mental health inequalities between unemployed and employed in three age groups (youth, adulthood and mid-life), and identifies the extent to which social determinants explain the mental health gap between employed and unemployed in northern Sweden.Methods: The Health on Equal Terms survey of 2014 was used, with self-reported employment (unemployed or employed) as exposure and the General Health Questionnaire (GHQ-12) as mental health outcome. The social determinants of health inequalities were grouped into four dimensions: socioeconomic status, economic resources, social network and trust in institutional systems. The non-linear Oaxaca decomposition analysis was applied, stratified by gender and age groups.Results: Mental health inequality was found in all age groups among women and men (difference in GHQ varying between 0.12 and 0.20). The decomposition analysis showed that the social determinants included in the model accounted for 43-51% of the inequalities among youths, 42-98% of the inequalities among adults and 60-65% among middle-aged. The main contributing factors were shown to vary between age groups: cash margin (among youths and middle-aged men), financial strain (among adults and middle-aged women), income (among men in adulthood), along with trust in others (all age groups), practical support (young women) and social support (middle-aged men); stressing how the social determinants of health inequalities vary across the life course.Conclusions: The health gap between employed and unemployed was explained by the difference in access to economic and social resources, and to a smaller extent in the trust in the institutional systems. Findings from this study corroborate that much of the mental health inequality in the Swedish labour market is socially and politically produced and potentially avoidable. Greater attention from researchers, policy makers on unemployment and public health should be devoted to the social and economic deprivation of unemployment from a life course perspective to prevent mental health inequality.",
+    "DOI": "10.1186/s12939-018-0773-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a decomposition analysis, which is not explicitly mentioned as a type of study design in the inclusion criteria. The study does not meet the inclusion criteria for study design.",
+            "study_design": "decomposition analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at employment for people with mental health disorders. It focuses on analyzing the social determinants of mental health inequalities between employed and unemployed individuals in northern Sweden.",
+            "study_design": "Cross-sectional survey using decomposition analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment interventions for people with mental health disorders. It focuses on mental health inequalities between employed and unemployed individuals, but does not specify an intervention such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Health on Equal Terms survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Decomposition analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1912,
+    "Authors": "Stacy, Meaghan; Klee, Anne; Jansen, Mary",
+    "Article Title": "Postdoctoral Psychology Training in Preparation for Specialization in Serious Mental Illness",
+    "Abstract": "As professions evolve, they become increasingly specialized. Psychology is one such profession that recognizes the need for unique knowledge and abilities for clinical practice with particular populations. There is a demonstrated need for such advanced skill in the assessment and treatment of serious mental illness (SMI) and the provision of evidence-based interventions that comprise psychosocial rehabilitation (PSR) for SMI. Postdoctoral residency is an opportunity to receive specific training in the provision of PSR services for those with SMI. However, there are few opportunities for such education and training, and there is little research on the impact of such training. This article summarizes the outcomes of a PSR/SMI psychology residency at a large, Northeastern Veterans Affairs Medical Center. Program data of residents' self-ratings at the beginning and end of the training year suggest that the postdoctoral training program contributes to increased self-confidence both as an entry-level psychologist (7 out of 7 domains increased, p <.05), and also as a PSR practitioner (6 out of 7 domains increased, p <.05). A majority of residents from the program went on to SMI/PSR-related jobs immediately postresidency. Results demonstrate that postdoctoral psychology training can provide trainees with the confidence to work as a psychologist and PSR practitioner working with individuals with SMI.",
+    "DOI": "10.1037/tep0000179",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a program data analysis without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Program data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on postdoctoral psychology training and its impact on self-confidence and job placement in SMI/PSR-related roles, but it does not meet the criteria for employment or labor outcomes.",
+            "study_design": "Program evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

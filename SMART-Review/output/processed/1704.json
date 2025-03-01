@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1704,
+    "Authors": "Bonner, B.; Pillai, R.; Sarma, P. S.; Lipska, K. J.; Pandian, J.; Sylaja, P. N.",
+    "Article Title": "Factors predictive of return to work after stroke in patients with mild-moderate disability in India",
+    "Abstract": "BackgroundSuccessful return to work after stroke may improve economic circumstances, quality of life and overall life satisfaction, but not all stroke survivors are able to return to work.AimOur aim was to determine what proportion of previously employed patients return to work after an acute stroke resulting in mild to moderate disability and to examine factors associated with a successful return to work.MethodsPatients 18-60 years of age who were previously employed and who had a first-ever stroke 3 months to 2 years previously resulting in mild to moderate disability (modified Rankin score 3) were recruited. Socio-demographic and clinical information was collected and anxiety, depression and social support were assessed using previously validated instruments. Multivariate logistic regression was used to assess factors associated with a successful return to work.ResultsOf 141 patients (mean age SD 48 +/- 8.8 years), 74 (52.5%) returned to work after stroke. Multivariate analysis demonstrated that a lower modified Rankin scale at 3 months [odds ratio (OR) 3.70, 95% confidence interval (CI) 1.77-7.76], younger age (OR 2.24, 95% CI 1.07-4.67) and a professional or business job (OR 3.02, 95% CI 1.44-6.34) were significantly associated with successful return to work and revealed that anxiety, depression and social support score did not affect patients' decision to return to work (P = 0.17, 0.61 and 0.27, respectively).ConclusionsAmongst patients with mild to moderate disability after stroke, almost half do not return to work, and this is determined by functional disability and type of job rather than psychosocial factors such as anxiety and depression.",
+    "DOI": "10.1111/ene.12887",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a cross-sectional analysis without a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on patients with mild-moderate disability after stroke in India. The intervention and population do not align with those specified (e.g., people with mental disorders, job search services, wage subsidies). Additionally, the geographic scope is outside of the specified regions.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stroke survivors and their return to work, which does not align with the specified population of people with mental health disorders. Additionally, the intervention is not directly related to employment policies or services.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (India) and does not directly address employment interventions for mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

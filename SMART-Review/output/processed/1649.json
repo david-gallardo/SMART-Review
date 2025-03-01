@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1649,
+    "Authors": "Oh, Sehun; Hodges, James; Salas-Wright, Christopher; Smith, Brianna; Goings, Trenette Clark",
+    "Article Title": "Ethnoracial differences in workplace drug testing and policies on positive drug tests in the United States",
+    "Abstract": "Background: Drug testing is widely implemented as a work-based prevention strategy for employee substance use. However, it has raised concerns about its potential use as a punitive measure in the workplace where racialized/ ethnic workers are over-represented. This study examines the rates of exposure to workplace drug testing among ethnoracial workers in the United States and the potential differences in the employers' responses to positive test results. Methods: A nationally-representative sample of 121,988 employed adults was examined using the 2015-2019 National Survey on Drug Use and Health data. The rates of exposure to workplace drug testing were estimated separately for ethnoracial workers. Then we used multinomial logistic regression to test differences in employers' responses to the first positive drug test results across ethnoracial subgroups. Results: Since 2002, Black workers reported 15-20% points higher rates of having a workplace drug testing policy than Hispanic or White workers. When tested positive for drug use, Black and Hispanic workers were more likely to be fired than White workers. When tested positive, Black workers were more likely to be referred to treatment/ counseling services while Hispanic workers were less likely to be referred compared to White workers. Conclusion: Black workers' disproportionate exposure to drug testing and punitive responses in the workplace may potentially place individuals with substance use problems out of the workforce, limiting their access to treatment/other resources available via their workplaces. Also, Hispanic workers' limited accessibility to treatment and counseling services when tested positive for drug use requires attention to address unmet needs.",
+    "DOI": "10.1016/j.drugalcdep.2023.109898",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. Instead, it examines workplace drug testing and policies on positive drug tests in the United States.",
+            "study_design": "Cross-sectional study using nationally-representative sample data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes related to people with mental health disorders. It focuses on ethnoracial differences in workplace drug testing policies and their impacts.",
+            "study_design": "Cross-sectional survey using nationally representative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on drug testing policies and responses to positive drug tests, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "National Survey on Drug Use and Health data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

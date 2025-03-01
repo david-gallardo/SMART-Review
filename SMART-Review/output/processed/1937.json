@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1937,
+    "Authors": "Sun, Huaping; Warner, David O.; Macario, Alex; Zhou, Yan; Culley, Deborah J.; Keegan, Mark T.",
+    "Article Title": "Repeated Cross-sectional Surveys of Burnout, Distress, and Depression among Anesthesiology Residents and First-year Graduates",
+    "Abstract": "Background: This repeated cross-sectional survey study was conducted to determine the prevalence of, and factors associated with, burnout, distress, and depression among anesthesiology residents and first-year graduates. We hypothesized that heavy workload and student debt burden were associated with a higher risk of physician burnout, distress, and depression, and that perception of having adequate workplace resources, work-life balance, and social support were associated with a lower risk.Methods: Physicians beginning U.S. anesthesiology residency between 2013 and 2016 were invited to take online surveys annually from their clinical anesthesia year 1 to 1 yr after residency graduation. The Maslach Burnout Inventory, the Physician Well-Being Index, and the Harvard Department of Psychiatry/National Depression Screening Day Scale were used to measure burnout, distress, and depression, respectively. Logistic regression analyses were conducted to examine whether self-reported demographics, personal, and professional factors were associated with the risk of burnout, distress, and depression.Results: The response rate was 36% (5,295 of 14,529). The prevalence of burnout, distress, and depression was 51% (2,531 of 4,966), 32% (1,575 of 4,941), and 12% (565 of 4,840), respectively. Factors associated with a lower risk of all three outcomes included respondents' perceived workplace resource availability, (odds ratio = 0.51 [95% CI, 0.45 to 0.57] for burnout; 0.51 [95% CI, 0.45 to 0.56] for distress; 0.52 [95% CI, 0.45 to 0.60] for depression) and perceived ability to maintain work-life balance (0.61 [95% CI, 0.56 to 0.67] for burnout; 0.50 [95% CI, 0.46 to 0.55] for distress; 0.58 [95% CI, 0.51 to 0.65] for depression). A greater number of hours worked per week and a higher amount of student debt were associated with a higher risk of distress and depression, but not burnout.Conclusions: Burnout, distress, and depression are notable among anesthesiology residents. Perceived institutional support, work-life balance, strength of social support, workload, and student debt impact physician well-being.",
+    "DOI": "10.1097/ALN.0000000000002777",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a repeated cross-sectional survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Repeated Cross-sectional Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on burnout, distress, and depression among anesthesiology residents and first-year graduates.",
+            "study_design": "Repeated cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a repeated cross-sectional survey, which does not meet the inclusion criteria of systematic reviews, meta-analyses, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Repeated cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

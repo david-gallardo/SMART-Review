@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1642,
+    "Authors": "Whitley, Rob; Henwood, Benjamin F.",
+    "Article Title": "Life, Liberty, and the Pursuit of Happiness: Reframing Inequities Experienced by People With Severe Mental Illness",
+    "Abstract": "Topic: In the Declaration of Independence, Thomas Jefferson stated that citizens of the new republic had fundamental and inalienable rights to life, liberty and the pursuit of happiness. Purpose: The purpose of this article is to reframe inequities experienced by people living with severe mental illnesses in terms of violations of Jeffersonian rights to life, liberty and the pursuit of happiness. We simultaneously consider governmental and clinical efforts to address identified inequities and uphold these rights. Sources Used: The broad research literature on severe mental illnesses was examined. Conclusions and Implications for Practice: People with severe mental illnesses experience numerous inequities regarding life, liberty and the pursuit of happiness. These inequities include diminished life expectancy, excessive involuntary commitment and elevated rates of unemployment and homelessness. Governmental and clinical responses to such inequities include the Affordable Care Act and the Olmstead Decision, as well as recovery-oriented interventions such as Supported Employment and Supported Housing.",
+    "DOI": "10.1037/prj0000053",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It lacks a rigorous evaluation and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on reframing inequities experienced by people with severe mental illnesses in terms of Jeffersonian rights without providing specific measures related to employment or labor results.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria.",
+            "study_design": "The article is a review of the literature and does not present a study design like RCT or systematic review.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not present measures of employment or labor results.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

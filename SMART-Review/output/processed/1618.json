@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1618,
+    "Authors": "Haim, Mario; Scherr, Sebastian; Arendt, Florian",
+    "Article Title": "How search engines may help reduce drug-related suicides",
+    "Abstract": "Background and aims: Numbers of drug-overdose deaths, both intentionally and unintentionally, have been increasing in the United States. Of interest, Google spotlights counselling services as helpful resources when users query for suicide-related search terms. However, the search engine does so at varying display rates, depending on terms used. Display rates in the drug-overdose deaths domain are unknown. Methods: We emulated suicide-related potentially harmful searches at large scale across the U.S. to explore Google's response to search queries including or excluding additional drug-related terms. Employing agent-based testing we conducted 215,999 search requests with varying combinations of search terms. Results: Counseling services such as helpline telephone numbers were displayed at high rates after suicide-related potentially harmful search queries (e.g., how to commit suicide). While this is a desirable outcome, display rates were substantially lower when drug-related terms, indicative of users' suicidal overdosing tendencies, were added (e.g., how to commit suicide fentanyl). Importantly, the addition of any drug-related search term to the suicide-related queries decreased the display frequency of helpful prevention-related resources substantially. Conclusions: Search queries such as easy way to commit suicide fentanyl may indicate acute suicidal crises. Helpful resources should be displayed right in such search moments. Search engines should adjust their algorithms to increase these display rates to direct users to such resources. By doing this, search engines may contribute to the prevention of drug-related suicides.",
+    "DOI": "10.1016/j.drugalcdep.2021.108874",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and instead focuses on the prevention of drug-related suicides.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on search engine responses to suicide-related queries. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Survey with agent-based testing",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on drug-related suicides.",
+            "study_design": "Empirical study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

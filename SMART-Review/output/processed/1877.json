@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1877,
+    "Authors": "Follmer, Kayla B.; Jones, Kisha S.",
+    "Article Title": "Mental Illness in the Workplace: An Interdisciplinary Review and Organizational Research Agenda",
+    "Abstract": "Given the prevalence of and consequences associated with mental illness in the workplace, we believe this review is both critical and timely for researchers and practitioners. This systematic review broadens the extant literature in both theoretical and practical ways in an effort to help lay a foundation for the organizational scholarship of employees with mental illness, a group that has traditionally been underrepresented in the management and industrial-organizational psychology literatures. After defining and conceptualizing mental illness as a social identity, we systematically review the existing empirical research on employees with mental illness across multiple fields of study. Using research that accounts for individual, other, and organizational perspectives, we present a model that outlines the performance, employment, career, and discriminatory outcomes that characterize the experiences of individuals with mental illness as well as individual and organizational strategies that moderate the relationship between having a mental illness and experiencing those outcomes. Together, this article provides a synthesis of what is known about employees with mental illness while also highlighting avenues for future scholarly attention.",
+    "DOI": "10.1177/0149206317741194",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but it does not specifically focus on controlled trials, RCTs, or quasi-experimental studies with control groups. It also lacks employment or labor outcomes as its primary focus.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a systematic review, not a meta-analysis or RCT, and does not focus on employment interventions.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

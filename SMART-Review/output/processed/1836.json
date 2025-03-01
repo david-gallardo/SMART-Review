@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1836,
+    "Authors": "Deng, Jiaxuan; Sarraf, Lisa; Hotte-Meunier, Adele; Sauve, Geneviee",
+    "Article Title": "Relationship between self-esteem and employment in people with severe mental illness: A systematic review and meta-analysis",
+    "Abstract": "BACKGROUND: Results from past research on the association between work outcomes and self-esteem were inconsistent.OBJECTIVE: This study aimed to review and quantify the correlation between employment variables and self-esteem in people with severe mental illness.METHOD: The first electronic database search was performed between November 5 and November 12, 2021. A second search update was completed in September 2023. Studies that reported a correlation between at least one employment-related variable and self-esteem were subsequently verified. Pooled effect sizes were calculated with random-effects models by aggregating Fisher's Z-to-Pearson r transformed correlations.RESULTS: The database search generated 3,547 reports. Thirteen and seven reports were included in the qualitative review and the meta-analyses, respectively. Meta-analyses results based on data from 1,065 participants suggested a positive albeit small correlation between employment variables and self-esteem in people with severe mental illness (r = 0.26, p =.002 for global self-esteem; r = 0.21, p < 0.001 for total self-esteem). It was found through systematic review that greater confidence in personal capacity, more opportunities on novel activities, and positive affirmation from coworkers were some potential mechanisms underlying self-esteem improvement following work.CONCLUSION: Future research on employment in severe mental illness would benefit from including adapted self-esteem measures and can build on this work by examining the relationships between specific employment variables (e.g., job acquisition, job tenure) and self-esteem.",
+    "DOI": "10.3233/JVR-230045",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review and meta-analysis, which meets the inclusion criteria. The study is focused on the EU countries, Europe, US, Canada, and Australia, and it includes outcomes related to employment and labor.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions of interest (job search services, adult training, wage subsidies, supported employment) and its outcomes are focused on self-esteem rather than employment or labor outcomes.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review and meta-analysis, which meets the inclusion criteria for study design. It focuses on adults with mental health disorders, which aligns with the specified population. The intervention is not directly mentioned, but the focus on self-esteem and employment outcomes is relevant to the research objective. The study is conducted in the EU and includes studies from the specified timeframe.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review and meta-analysis of controlled trials, focuses on employment outcomes for people with severe mental illness, and was published within the specified timeframe.",
+            "study_design": "Systematic Review and Meta-Analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1607,
+    "Authors": "Sveinsdottir, Vigdis; Bull, Helen Christine; Evensen, Stig; Reme, Silje Endresen; Knutzen, Thomas; Lystad, June Ullevoldsaeter",
+    "Article Title": "A Short History of Individual Placement and Support in Norway",
+    "Abstract": "Objective: Norway is a high-income and high-cost society with a generous welfare system, and it has the largest mental health-related unemployment gap of the OECD countries. The aim of the current article was to present a short history of Individual Placement and Support (IFS) services to increase work participation in Norway. Method: We provide a narrative overview of the developments and research on IPS in Norway, from the introduction of supported employment to recent and ongoing randomized controlled trials (RCTs) investigating the effectiveness of IPS for various target groups. Findings: While vocational rehabilitation services in Norway have traditionally followed a train-then-place approach, the introduction of supported employment in the early 1990s led to a range of new initiatives to increase work participation. Early implementations were inspired by supported employment but did not follow the evidence-based IPS methodology. More recent developments include a shift toward evidence-based IPS. and the first Norwegian RCT of IPS showed effectiveness on both work- and health-related outcomes among people with moderate to severe mental illness. Several ongoing trials are currently investigating IPS for new target groups, including chronic pain patients and refugees. Conclusions and Implications for Practice: The results suggest that IPS is more effective than traditional approaches to increase work participation, even in the Norwegian context of a high-cost welfare society. IPS has shown effectiveness in severe as well as more common types of mental illness in Norway, and results from ongoing trials will further reveal whether IPS may be expanded to various new target groups.",
+    "DOI": "10.1037/prj0000366",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a narrative overview of the developments and research on IPS in Norway, which meets the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Systematic review/Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is narrative and does not meet the inclusion criteria of meta-analyses, systematic reviews, RCTs, or quasi-experimental studies with a control group. The geographic scope is limited to Norway which excludes it from EU countries, Europe, US, Canada, or Australia. The timeframe is not specified but the article focuses on historical developments and does not provide data within the 2005-2025 range.",
+            "study_design": "Narrative overview",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is a narrative overview rather than a study with a rigorous evaluation.",
+            "study_design": "Narrative overview",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted within the specified timeframe and geographic scope, focusing on supported employment for people with mental health disorders and reporting employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

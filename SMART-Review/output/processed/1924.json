@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1924,
+    "Authors": "Varin, Melanie; Liu, Li; Gabrys, Robert; Gariepy, Genevieve; MacEachern, Kate Hill; Weeks, Murray",
+    "Article Title": "Increased alcohol use, heavy episodic drinking, and suicide ideation during the COVID-19 pandemic in Canada",
+    "Abstract": "Objective Alcohol use is a known risk factor for suicidality, yet this relationship has not been explored during the pandemic in Canada. As a growing body of evidence demonstrates the negative impact of COVID-19 on alcohol consumption and associated harms in Canada, there is a need to examine this more closely. Methods Using the Survey on COVID-19 and Mental Health 2020, we compared the prevalence of suicide ideation among: (1) individuals who reported an increase in alcohol consumption vs those who reported a decrease/no change, and (2) individuals who reported past month heavy episodic drinking vs those who did not. We compared overall unadjusted odds ratios and across a number of sociodemographic and mental health variables. All estimates were weighted to ensure they were nationally representative. Results The prevalence and likelihood of suicide ideation were significantly higher among people who reported increased alcohol consumption during the pandemic (4.9% vs 2.0%; OR = 2.6, 95% CI: 1.8, 3.7) and people who reported past month heavy episodic drinking (3.4% vs 2.1%; OR = 1.7, 95% CI: 1.2, 2.3). Males and middle-aged and older-aged individuals had the highest odds ratios for increased alcohol consumption and past month heavy episodic drinking with suicide ideation. Conclusion In the Canadian general population during the COVID-19 pandemic, there were significant associations between suicide ideation and increased alcohol use as well as past month heavy episodic drinking across specific sociodemographic subgroups. Future research could explore these associations while adjusting for social determinants of health such as income security, employment, education, social support, stress, and mental health.",
+    "DOI": "10.17269/s41997-022-00689-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes, but rather explores the relationship between alcohol use and suicide ideation during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to active employment policies for people with mental health disorders. It focuses on the relationship between alcohol use and suicide ideation during the COVID-19 pandemic in Canada.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1947,
+    "Authors": "Fleischmann, Maria; Carr, Ewan; Stansfeld, Stephen A.; Xue, Baowen; Head, Jenny",
+    "Article Title": "Can favourable psychosocial working conditions in midlife moderate the risk of work exit for chronically ill workers? A 20-year follow-up of the Whitehall II study",
+    "Abstract": "Objectives To investigate if favourable psychosocial working conditions can reduce the risk of work exit and specifically for workers with chronic disease.Methods Men and women (32%) aged 35-55, working and having no chronic disease at baseline of the Whitehall II study of London-based civil servants were selected (n=9040). We observed participants' exit from work through retirement, health-related exit and unemployment, new diagnosis of chronic disease (ie, coronary heart disease, diabetes, stroke and cancer) and their psychosocial working conditions in midlife. Using cause-specific Cox models, we examined the association of chronic disease and favourable psychosocial working conditions and their interaction, with the three types of work exit. We adjusted for gender, occupational grade, educational level, remaining in civil service, spouse's employment status and mental health.Results Chronic disease significantly increased the risk of any type of work exit (HR 1.27) and specifically the risk of health-related exit (HR 2.42). High skill discretion in midlife reduced the risk of any type of work exit (HR 0.90), retirement (HR 0.91) and health-related exit (HR 0.68). High work social support in midlife decreased the risk of health-related exit (HR 0.79) and unemployment (HR 0.71). Favourable psychosocial working conditions in midlife did not attenuate the association between chronic disease and work exit significantly.Conclusions The chronically ill have increased risks of work exit, especially through health-related exit routes. Chronic disease is an obstacle to extended working lives. Favourable working conditions directly relate to reduced risks of work exit.",
+    "DOI": "10.1136/oemed-2017-104452",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based in EU countries (UK), Europe, and includes a control group, meeting the inclusion criteria for geographic scope. The study timeframe is within the specified range (2005-2025). The intervention is job search services, adult training, wage subsidies, and supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the impact of psychosocial working conditions and chronic disease on work exit in midlife.",
+            "study_design": "Observational study using Cox models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes directly related to the interventions listed in the inclusion criteria. It also does not include a control group, which is a requirement for the study design.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

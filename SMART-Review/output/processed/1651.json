@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1651,
+    "Authors": "Massot-Tarrus, Andreu; Yu, Yeyao Joe; AlKhateeb, Mashael; Mirsattari, Seyed M.",
+    "Article Title": "Predicting outcome of patients with psychogenic nonepileptic seizures after diagnosis in an epilepsy monitoring unit",
+    "Abstract": "Objective: To identify predictors of Psychogenic NonEpileptic Seizure (PNES) improvement and anti seizure medication (ASM) discontinuation in patients with PNES only. Methods: This is a retrospective study of a consecutively enrolled cohort of 271 patients diagnosed with PNES by video-EEG (vEEG) telemetry in our Epilepsy Monitoring Unit (EMU) between May 2000 and February 2010. Patients with any possibility of past or present comorbid epilepsy based on clinical, EEG, and neuroimaging, or less than one year of follow-up after discharge were excluded. Results: A total of 109 subjects were included. The mean age at PNES onset was 33 (range 6-89), mean age at EMU admission was 38.3 (16-89.8), 70.6% were female mean video-EEG length was 6.1 days, and the median time of final follow-up 3.3 (CI 1.6-6.4) years. 51/108 patients (47.2%) reported a PNES decrease and 29 (26.8%) experienced PNES resolution. 59/73 (81.9%) subjects on ASM at the time of EMU admission were able to discontinue them by the final visit. On univariate analysis, patients whose PNES frequency improved were significantly younger at time of admission, more likely married or cohabiting, less likely unemployed, less likely to have migraine, and had a higher frequency of PNES. On hierarchical regression analysis, younger age and employment remained significant predictors of PNES improvement and resolution. Patients who achieved ASM discontinuation had significantly more children and subsequent EMU visits, were less likely to have history of minor head trauma immediately preceding PNES onset and structural brain lesions, experienced a greater reduction of ASMs during the EMU admission, and had a greater improvement of their PNES frequency at the final visit (p < 0.05). On hierarchical regression analysis, higher number of children, absence of structural brain lesions, fewer ASMs at EMU discharge, and improvement of PNES frequency remained significant predictors of ASM discontinuation. Conclusion: The outcome of PNES is positively correlated with earlier age of diagnosis in an EMU, especially in patients with better social resources. Furthermore, discontinuation of ASM is more likely if the process is initiated during the EMU stay and in the absence of structural brain lesions. (c) 2021 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.yebeh.2021.108004",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to job search services, adult training, wage subsidies, or supported employment. The population is patients with psychogenic nonepileptic seizures, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on PNES and its management, not on active employment policies or outcomes for people with mental health disorders in the context of employment.",
+            "study_design": "Retrospective study",
+            "logprobs": null
+        }
+    }
+}

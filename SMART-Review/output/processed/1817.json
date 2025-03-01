@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1817,
+    "Authors": "Gaines, Tommi L.; Urada, Lianne A.; Martinez, Gustavo; Goldenberg, Shira M.; Rangel, Gudelia; Reed, Elizabeth; Patterson, Thomas L.; Strathdee, Steffanie A.",
+    "Article Title": "Short-term cessation of sex work and injection drug use: Evidence from a recurrent event survival analysis",
+    "Abstract": "Objective: This study quantitatively examined the prevalence and correlates of short-term sex work cessation among female sex workers who inject drugs (FSW-IDUs) and determined whether injection drug use was independently associated with cessation.Methods: We used data from FSW-IDUs (n = 467) enrolled into an intervention designed to increase condom use and decrease sharing of injection equipment but was not designed to promote sex work cessation. We applied a survival analysis that accounted for quit re-entry patterns of sex work over 1-year stratified by city, Tijuana and Ciudad Juarez, Mexico.Results: Overall, 55% of participants stopped sex work at least once during follow-up. Controlling for other characteristics and intervention assignment, injection drug use was inversely associated with short-term sex work cessation in both cities. In Ciudad Juarez, women receiving drug treatment during follow-up had a 2-fold increase in the hazard of stopping sex work In both cities, income from sources other than sex work, police interactions and healthcare access were independently and significantly associated with shorter-term cessation.Conclusions: Short-term sex work cessation was significantly affected by injection drug use. Expanded drug treatment and counseling coupled with supportive services such as relapse prevention, job training, and provision of alternate employment opportunities may promote longer-term cessation among women motivated to leave the sex industry. (C) 2015 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.addbeh.2015.01.020",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on short-term cessation of sex work and injection drug use among female sex workers who inject drugs.",
+            "study_design": "Recurrent event survival analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (Mexico) and its intervention does not directly address employment. The outcomes focus on cessation of sex work rather than employment or labor outcomes.",
+            "study_design": "Observational with survival analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on sex work cessation among female sex workers who inject drugs, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Recurrent event survival analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on the EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

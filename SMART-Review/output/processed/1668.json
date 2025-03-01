@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1668,
+    "Authors": "Koch, Anna Maren; Hetzel, Christian; Elling, Jan Mathis; Sewz, Gabriela; Zwingmann, Christian",
+    "Article Title": "Prediction of Utilization of Psychological Support During Vocational Rehabilitation",
+    "Abstract": "Objective Comprehensive psychological support is a distinctive feature of vocational retraining centers, pivotal in stabilizing the health of the rehabilitants, reducing dropout rates and facilitating return to work. For optimal resource planning within the vocational retraining centers, and thereby ensuring the best possible psychological support during vocational rehabilitation, it is crucial to be able to estimate the number of appointments of the rehabilitants in advance. Even though routine data is available, predictions using regression analysis have not been undertaken previously. Methods To predict the number of appointments in the psychological service, a hierarchical linear regression analysis with 25 potential predictors was conducted using retrospective routine data from 404 rehabilitants. In specifying the regression model, data-driven methods and theory were combined. The Andersen healthcare utilization model served as the theoretical background. Results The final regression model accounted for 39.5% of the variance in the utilization of the psychological service. Ten variables predicted a higher number of appointments: female gender, boarding status, low resilience, desire for psychological support, past psychological treatment, intake of psychotropic drugs, absence of two specific professional fields, Federal Employment Agency/Jobcenter as the paying institution, and non-participation in a specific preparatory course. Conclusion The routine data available at the beginning of vocational rehabilitation in a vocational retraining center is generally suitable to predict the number of appointments in the psychological service. As such, it can be utilized for resource planning. Various factors prove to be informative, suggesting that a focus on single factors (e. g., the presence of an ICD-10 F-diagnosis) seems disadvantageous. Limitations of the regression-analytic approach are highlighted.",
+    "DOI": "10.1055/a-2388-5710",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a hierarchical linear regression analysis with a control group (retrospective routine data from 404 rehabilitants), meets the geographic scope (EU countries, Europe, US, Canada, Australia), and includes employment outcomes (utilization of the psychological service).",
+            "study_design": "Hierarchical linear regression analysis with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on predicting the utilization of psychological support during vocational rehabilitation.",
+            "study_design": "Regression analysis using hierarchical linear regression model",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological support during vocational rehabilitation, which is not directly related to employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

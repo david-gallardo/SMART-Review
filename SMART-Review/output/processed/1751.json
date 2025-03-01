@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1751,
+    "Authors": "Munoz-Laboy, Miguel; Martinez, Omar; Draine, Jeffrey; Guilamo-Ramos, Vincent; Severson, Nicolette; Levine, Ethan; Benjamin, Gregory",
+    "Article Title": "The Assets and Challenges of Formerly Incarcerated Latino Men's Social Support Networks in Promoting Healthy Behaviors",
+    "Abstract": "After being exposed to high-risk environments in correctional facilities, formerly incarcerated Latino men (FILM) encounter new risks upon reentering their community of residence including drug use and sexual risk behaviors. Families and close social support networks are critical in potentially mitigating the stressors and risks associated with reentry and reducing the likelihood of recidivism. We conducted a study to examine the material and cognitive assets that familial networks can use to provide support to FILM to engage in health-promoting practices. This analysis is based on linear and logistic regression modeling of cross-sectional data collected through a computer-administered survey with dyads of FILM (ages 18-49, who had been in jail or prison within the past 5 years) and their nominated social network (n = 130 dyads). We found that both male and female social supports (MSS and FSS) have significantly higher levels of structural resources (education and employment) than FILM. Though FSS reported higher self-efficacy on health-promoting practices than FILM, contrary to what we predicted, FILM and FSS/MSS reported similar levels of mental health and behavioral risks. Our results suggest a number of limitations in designing family-based intervention strategies, but they also provided insight into the specificities needed to enhance the social support networks of FILM.",
+    "DOI": "10.1007/s11524-017-0183-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a cross-sectional study with linear and logistic regression modeling.",
+            "study_design": "Cross-sectional study with linear and logistic regression modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on health-promoting practices rather than interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on formerly incarcerated Latino men and their social support networks, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

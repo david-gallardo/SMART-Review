@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1620,
+    "Authors": "Birkeland, Marianne Skogbrott; Heir, Trond",
+    "Article Title": "Making connections: exploring the centrality of posttraumatic stress symptoms and covariates after a terrorist attack",
+    "Abstract": "Background: Posttraumatic stress symptoms are interconnected. Knowledge about which symptoms of posttraumatic stress are more strongly interconnected or central than others may have implications for the targeting of clinical interventions. Exploring whether symptoms of posttraumatic stress may be differentially related to covariates can contribute to our knowledge on how posttraumatic stress symptoms arise and are maintained.Objective: This study aimed to identify the most central symptoms of posttraumatic stress and their interconnections, and to explore how covariates such as exposure, sex, neuroticism, and social support are related to the network of symptoms of posttraumatic stress.Method: This study used survey data from ministerial employees collected approximately 10 months after the 2011 Oslo bombing that targeted the governmental quarters (n = 190). We conducted network analyses using Gaussian graphical models and the lasso regularization.Results: The network analysis revealed reliably strong connections between intrusive thoughts and nightmares, feeling easily startled and overly alert, and between feeling detached and emotionally numb. The most central symptom in the symptom network was feeling emotionally numb. The covariates were generally not found to have high centrality in the symptom network. An exception was that being female was connected to a high physiological reactivity to reminders of the trauma.Conclusions: Ten months after a workplace terror attack emotional numbness appears to be of high centrality in the symptom network of posttraumatic stress. Fear circuitry and dysphoric symptoms may constitute two functional entities in chronic posttraumatic stress. Clinical interventions targeting numbness may be beneficial in the treatment of posttraumatic stress, at least after workplace terrorism.",
+    "DOI": "10.1080/20008198.2017.1333387",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on posttraumatic stress symptoms and their interconnections.",
+            "study_design": "Survey data analysis using Gaussian graphical models and lasso regularization",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on posttraumatic stress symptoms following a terrorist attack. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Survey using network analyses",
+            "logprobs": null
+        }
+    }
+}

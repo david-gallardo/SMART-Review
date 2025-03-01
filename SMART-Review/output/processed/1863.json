@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1863,
+    "Authors": "Vaiano, Fabio; Scuffi, Lapo; Lachi, Alessio; Trignano, Claudia; Argo, Antonina; Mari, Francesco; Bertol, Elisabetta",
+    "Article Title": "THC and THC-COOH hair concentrations: Influence of age, gender, consumption habits, cosmetics treatment, and hair features",
+    "Abstract": "Evaluation of Cannabis consumption is required for many purposes (i.e., workplace drug testing and driving license renewal). Hair analysis represents the most adopted and reliable approach for the investigation of repeated or chronic exposure to Cannabis. The main markers are the Delta 9-tetrahydrocannabinol (THC) and its main metabolite, 11-nor-9-carboxy-Delta 9-tetrahydrocannabinol (THC-COOH), as stated by the Society of Hair Testing (SoHT) and the European Workplace Drug Testing Society (EWDTS). In this paper we presented an observational study on the hair concentrations of THC and THC-COOH and influences due to age, gender, consumption habits, and hair features. Data were collected from analysis of scalp hair samples (3-cm proximal segment) provided by subjects tested for THC consumption for personal purposes (i.e., workplace drug testing, personal use proving). The subjects provided an informed consent and a short questionnaire. A new analytical method was previously developed and then adopted. It consisted in a hydrolysis (1 mL of 1 M NaOH at 65 degrees C, 20 min) and a liquid-liquid extraction (with hexane/ethyl acetate,90/10, v/v in presence of 1.5 mL of H2SO4 1 M) of 25 mg of hair. A liquid chromatograph - tandem mass spectrometer (LC-MS/MS) equipped with a C18 column was used. The acquisition was in multiple reaction monitoring for the following transitions: 315 -> 259, 193 m/z, for THC; 318 -> 196, 123 m/z, for THC-d3; 345 -> 299, 193 m/z for THC-COOH; 348 -> 196, 302 m/z for THC-COOH-d3. Correlation between THC and THC-COOH hair concentrations was analyzed by Spearman's rank correlation coefficient. In order to study the influences of several variables, a new value, Sqrt(THC*THCCOOH), was adopted. Its effectiveness and reliability were proved by the Principal Component Analysis. Relationships between the Sqrt(THC*THCCOOH) and the variables were studied through the Stepwise regression (p = 0.05). The normality of data distribution was tested by the Shapiro-Wilk test. The Lower limits of quantification were 10.0 (THC) and 0.2 (THC-COOH) pg/mg. Accuracy and precision always met the acceptable criteria. Recoveries were > 78% and ion suppression was observed for both the compounds. Data from 126 hair samples were included in this study: 54 subjects(42.9%) were positive both for THC and THC-COOH; none of the samples was positive for a single substance. Concentrations ranged from 0.18 to 1.75 ng/mg (median: 0.78 ng/mg) for THC and from 0.04 to 0.85 ng/mg (median: 0.31 ng/mg) for THC-COOH. Cannabinoids levels seemed to decrease with the age, with lower amounts in the subjects aged > 40 years (p < 0.05). Also years of consumption seemed to have a significant impact on hair concentrations, as higher levels were observed in consumers from > 10 years (p = 0.013). Moreover, this study further provided evidences of a significant reduction of THC and THC-COOH in bleached hair (p = 0.042).",
+    "DOI": "10.1016/j.jpba.2023.115237",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and it is not a study on active employment policies for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders and lacks any outcomes related to employment or labor results.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the analysis of THC and THC-COOH in hair samples for the purpose of evaluating Cannabis consumption, which does not align with the specified inclusion criteria regarding interventions for employment or labor outcomes in people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

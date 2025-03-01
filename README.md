@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="SMART-Review/figures/logo/smart_review_logo.png" alt="SMART Review Logo" width="200">
+</p>
+
+<p align="center">
+  <a href="https://github.com/david-gallardo/SMART-Review">
+    <img src="https://img.shields.io/github/stars/david-gallardo/SMART-Review?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/david-gallardo/SMART-Review/actions">
+    <img src="https://github.com/david-gallardo/SMART-Review/workflows/CI/badge.svg" alt="CI Status">
+  </a>
+  <a href="https://pypi.org/project/smart-review/">
+    <img src="https://img.shields.io/pypi/v/smart-review" alt="PyPI Version">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue" alt="Python Versions">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  </a>
+</p>
+
 # SMART Review
 
 **SMART Review** stands for **Systematic Manuscript Analysis and Review Tool**. It is an AI-driven project designed to automate and streamline the screening and evaluation process of research manuscripts for systematic reviews. The tool leverages local large language models (LLMs) via the LMStudio API to assess articles against predefined inclusion and exclusion criteria. **The research question and screening criteria are externalized in text files (inclusion_criteria.txt, exclusion_criteria.txt, research_question.txt) located in the scripts/utilities folder.**

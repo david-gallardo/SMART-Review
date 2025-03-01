@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1601,
+    "Authors": "Tsai, Jenny Hsin-Chun; Thompson, Elaine Adams",
+    "Article Title": "Effects of Social Determinants on Chinese Immigrant Food Service Workers' Work Performance and Injuries Mental Health as a Mediator",
+    "Abstract": "Objective:The effects of social discrimination, job concerns, and social support on worker mental health and the influence of mental health on occupational health outcomes have been documented intermittently. We propose an integrated, theory-driven model to distinguish the impact of social determinants on work performance and injuries and the mediating effects of mental health problems.Methods:The US Chinese immigrant food service workers (N = 194) completed a multimeasure interview; we tested the integrated model using structural equation modeling.Results:Mental health problems, which were associated with decreased work performance and increased injuries, also mediated relationships between job/employment concerns and both work performance and injuries but did not mediate the influences of discrimination and social support.Conclusions:This research reveals mechanisms by which social determinants influence immigrant worker health, pointing to complementary strategies for reducing occupational health disparities.",
+    "DOI": "10.1097/JOM.0000000000000477",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on work performance, injuries, and mental health as a mediator, which is not within the scope of the inclusion criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia) and its population does not specifically reference mental health disorders or documented mental health problems.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Chinese immigrant food service workers and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and the population is Chinese immigrant food service workers, which does not specifically target people with mental health disorders.",
+            "study_design": "Structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

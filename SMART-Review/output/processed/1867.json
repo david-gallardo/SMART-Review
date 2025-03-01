@@ -1,0 +1,33 @@
+{
+    "ArticleID": 1867,
+    "Authors": "Nteli, Aikaterini; Marini, Verena; Tettamanti, Manuel; Curtis, Logos",
+    "Article Title": "Needs and Impact of Supported Employment for Young Adults Recovering from Emerging Mental Illness: A Naturalistic Study",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Population: does not reference mental health or has an undefined population.",
+            "study_design": "Naturalistic study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a naturalistic study which does not meet the inclusion criteria of having a rigorous evaluation or control group. Additionally, it focuses on young adults recovering from emerging mental illness rather than people with documented mental health problems.",
+            "study_design": "Naturalistic Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design is not rigorous (naturalistic study)",
+            "study_design": "Naturalistic study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}
