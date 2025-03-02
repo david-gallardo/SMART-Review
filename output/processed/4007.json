@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4007,
+    "Authors": "Neri, Lenycia de Cassya Lopes; Mariotti, Francesca; Guglielmetti, Monica; Fiorini, Simona; Tagliabue, Anna; Ferraris, Cinzia",
+    "Article Title": "Dropout in cognitive behavioral treatment in adults living with overweight and obesity: a systematic review",
+    "Abstract": "Obesity is a chronic, complex, and multifactorial disease resulting from the interaction of genetic, environmental, and behavioral factors. It is characterized by excessive fat accumulation in adipose tissue, which damages health and deteriorates the quality of life. Although dietary treatment can significantly improve health, high attrition is a common problem in weight loss interventions with serious consequences for weight loss management and frustration. The strategy used to improve compliance has been combining dietary prescriptions and recommendations for physical activity with cognitive behavioral treatment (CBT) for weight management. This systematic review determined the dropout rate and predictive factors associated with dropout from CBT for adults with overweight and obesity. The data from the 37 articles selected shows an overall dropout rate between 5 and 62%. The predictive factors associated with attrition can be distinguished by demographics (younger age, educational status, unemployed status, and ethnicity) and psychological variables (greater expected 1-year Body Mass Index loss, previous weight loss attempts, perceiving more stress with dieting, weight and shape concerns, body image dissatisfaction, higher stress, anxiety, and depression). Common reasons for dropping out were objective (i.e., long-term sickness, acute illness, and pregnancy), logistical, poor job conditions or job difficulties, low level of organization, dissatisfaction with the initial results, lack of motivation, and lack of adherence. According to the Mixed Methods Appraisal quality analysis, 13.5% of articles were classified as five stars, and none received the lowest quality grade (1 star). The majority of articles were classified as 4 stars (46%). At least 50% of the selected articles exhibited a high risk of bias. The domain characterized by a higher level of bias was that of randomization, with more than 60% of the articles having a high risk of bias. The high risk of bias in these articles can probably depend on the type of study design, which, in most cases, was observational and non-randomized. These findings demonstrate that CBT could be a promising approach for obesity treatment, achieving, in most cases, lower dropout rates than other non-behavioral interventions. However, more studies should be conducted to compare obesity treatment strategies, as there is heterogeneity in the dropout assessment and the population studied. Ultimately, gaining a deeper understanding of the comparative effectiveness of these treatment strategies is of great value to patients, clinicians, and healthcare policymakers.",
+    "DOI": "10.3389/fnut.2024.1250683",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on cognitive behavioral treatment for adults with overweight and obesity.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on dropout rates in cognitive behavioral treatment for adults living with overweight and obesity.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive behavioral treatment for adults with overweight and obesity, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment for people with mental health disorders. Additionally, the study's population does not reference mental health or is not defined as people with mental disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2514,
+    "Authors": "LaPoint, Shannon Crowley",
+    "Article Title": "Factors associated with the job satisfaction of autistic adults",
+    "Abstract": "Background: Following high school graduation, autistic adults are more likely to be disengaged from participation in employment opportunities. The autistic individuals who do obtain jobs, often experience lower rates of employment, work fewer hours, and receive less pay when compared to other non-autistic adults. However, few researchers have explored outcomes associated with the satisfaction of autistic people while in the workplace. Method: Therefore, this study aimed to determine the factors associated with the job satisfaction of autistic workers. Autistic adults who were at least 18 years of age, employed in the United States, and worked at least 10 h per week at the time of data collection were included in the current study. A linear regression was conducted to determine whether social support positively predicted the job satisfaction of autistic workers and mediation analysis was conducted to determine whether person-environment fit mediated the relationship between work volition and job satisfaction. Results: 121 autistic employees completed a battery of assessments to determine the predictors associated with job satisfaction. A linear regression revealed that social support in the workplace was significantly associated with job satisfaction, and a mediation analysis demonstrated that person-environment fit partially mediated the relationship between work volition and job satisfaction. Conclusions: The findings of this study suggest the need for more widespread training among employers and co-workers, to reframe current understandings of autistic people. With improved knowledge, acceptance, and support, the employment context may foster positive work experiences for autistic people.",
+    "DOI": "10.1016/j.rasd.2024.102330",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a linear regression, which meets the inclusion criteria. The study is conducted in the US, which falls within the geographic scope. The intervention is not explicitly mentioned, but the study focuses on job satisfaction, which is an employment outcome. The population is autistic adults, who have documented mental health problems. The study presents measures of employment outcomes.",
+            "study_design": "Linear Regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It focuses on factors associated with job satisfaction of autistic adults.",
+            "study_design": "Cross-sectional survey using linear regression and mediation analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on job satisfaction among autistic adults, not employment outcomes or interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

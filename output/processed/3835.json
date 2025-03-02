@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3835,
+    "Authors": "Freyer-Adam, Jennis; Baumann, Sophie; Bischof, Gallus; Staudt, Andreas; Goeze, Christian; Gaertner, Beate; John, Ulrich",
+    "Article Title": "Social Equity in the Efficacy of Computer-Based and In-Person Brief Alcohol Interventions Among General Hospital Patients With At-Risk Alcohol Use: A Randomized Controlled Trial",
+    "Abstract": "Background: Social equity in the efficacy of behavior change intervention is much needed. While the efficacy of brief alcohol interventions (BAIs), including digital interventions, is well established, particularly in health care, the social equity of interventions has been sparsely investigated.Objective: We aim to investigate whether the efficacy of computer-based versus in-person delivered BAIs is moderated by the participants' socioeconomic status (ie, to identify whether general hospital patients with low-level education and unemployed patients may benefit more or less from one or the other way of delivery compared to patients with higher levels of education and those that are employed).Methods: Patients with nondependent at-risk alcohol use were identified through systematic offline screening conducted on 13 general hospital wards. Patients were approached face-to-face and asked to respond to an app for self-assessment provided by a mobile device. In total, 961 (81% of eligible participants) were randomized and received their allocated intervention: computer-generated and individually tailored feedback letters (CO), in-person counseling by research staff trained in motivational interviewing (PE), or assessment only (AO). CO and PE were delivered on the ward and 1 and 3 months later, were based on the transtheoretical model of intentional behavior change and required the assessment of intervention data prior to each intervention. In CO, the generation of computer-based feedback was created automatically. The assessment of data and sending out feedback letters were assisted by the research staff. Of the CO and PE participants, 89% (345/387) and 83% (292/354) received at least two doses of intervention, and 72% (280/387) and 54% (191/354) received all three doses of intervention, respectively. The outcome was change in grams of pure alcohol per day after 6, 12, 18, and 24 months, with the latter being the primary time-point of interest. Follow-up interviewers were blinded. Study group interactions with education and employment status were tested as predictors of change in alcohol use using latent growth modeling.Results: The efficacy of CO and PE did not differ by level of education (P=.98). Employment status did not moderate CO efficacy (Ps >=.66). Up to month 12 and compared to employed participants, unemployed participants reported significantly greater drinking reductions following PE versus AO (incidence rate ratio 0.44, 95% CI 0.21-0.94; P=.03) and following PE versus CO (incidence rate ratio 0.48, 95% CI 0.24-0.96; P=.04). After 24 months, these differences were statistically nonsignificant (Ps >=.31).Conclusions: Computer-based and in-person BAI worked equally well independent of the patient's level of education. Although findings indicate that in the short-term, unemployed persons may benefit more from BAI when delivered in-person rather than computer-based, the findings suggest that both BAIs have the potential to work well among participants with low socioeconomic status.",
+    "DOI": "10.2196/31712",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on alcohol use and does not investigate the effectiveness of active employment policies for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on alcohol use interventions.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        }
+    }
+}

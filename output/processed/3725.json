@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3725,
+    "Authors": "Jafflin, Kristen; Pfeiffer, Constanze; Bergman, Manfred Max",
+    "Article Title": "Effects of self-esteem and stress on self-assessed health: a Swiss study from adolescence to early adulthood",
+    "Abstract": "Purpose A large literature shows important effects of self-esteem and stress on mental and physical health in young adulthood. Negative life events are one type of stressor associated with poor health, but it is less clear whether more neutral stressors are also associated with poor health. This study contributes to the existing literature by investigating the association between different types of stressful life events, self-esteem, and health during the transition from adolescence to early adulthood in Switzerland.Methods We draw on the Transitions from Education to Employment (TREE) panel study, a nationally representative longitudinal survey of a cohort of Swiss young adults, using logistic regression analysis. The study includes eight waves over a 10-year period, from 2001, average age 16, to 2010, average age 26. Our dependent variable is a dichotomized health self-assessment, and key independent variables include self-esteem and three measures of cumulative significant life events (SLEs): total cumulative SLEs, cumulative negative SLEs, and cumulative neutral SLEs.Results Self-esteem had a significant positive impact on health, whereas cumulative SLEs had a significant negative impact. Negative SLEs had a larger negative impact than total SLEs, and neutral SLEs had a smaller impact. Considered individually, negative SLEs were more likely to have a significant negative impact on health.Conclusions In addition to their known influence on mental health, stress and self-esteem are important factors influencing individuals' general health, even in adolescence and young adulthood. While all types of stressors have a negative impact on health, the negative stressors seem to have more prominent effects than neutral stressors.",
+    "DOI": "10.1007/s11136-018-2059-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between self-esteem, stress, and health.",
+            "study_design": "Longitudinal survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey using logistic regression analysis over a longitudinal period",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on self-esteem and stress in relation to health, not employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes and does not target interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Longitudinal survey using logistic regression analysis",
+            "logprobs": null
+        }
+    }
+}

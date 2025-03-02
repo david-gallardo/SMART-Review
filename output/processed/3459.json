@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3459,
+    "Authors": "Mess, Filip; Blaschke, Simon; Schick, Teresa S.; Friedrich, Julian",
+    "Article Title": "Precision prevention in worksite health-A scoping review on research trends and gaps",
+    "Abstract": "Objectives To map the current state of precision prevention research in the workplace setting, specifically to study contexts and characteristics, and to analyze the precision prevention approach in the stages of risk assessment/data monitoring, data analytics, and the health promotion interventions implemented.Methods Six international databases were searched for studies published between January 2010 and May 2023, using the term precision prevention or its synonyms in the context of worksite health promotion.Results After screening 3,249 articles, 129 studies were reviewed. Around three-quarters of the studies addressed an intervention (95/129, 74%). Only 14% (18/129) of the articles primarily focused on risk assessment and data monitoring, and 12% of the articles (16/129) mainly included data analytics studies. Most of the studies focused on behavioral outcomes (61/160, 38%), followed by psychological (37/160, 23%) and physiological (31/160, 19%) outcomes of health (multiple answers were possible). In terms of study designs, randomized controlled trials were used in more than a third of all studies (39%), followed by cross-sectional studies (18%), while newer designs (e.g., just-in-time-adaptive-interventions) are currently rarely used. The main data analyses of all studies were regression analyses (44% with analyses of variance or linear mixed models), whereas machine learning methods (e.g., Algorithms, Markov Models) were conducted only in 8% of the articles.Discussion Although there is a growing number of precision prevention studies in the workplace, there are still research gaps in applying new data analysis methods (e.g., machine learning) and implementing innovative study designs. In the future, it is desirable to take a holistic approach to precision prevention in the workplace that encompasses all the stages of precision prevention (risk assessment/data monitoring, data analytics and interventions) and links them together as a cycle.",
+    "DOI": "10.1371/journal.pone.0304951",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on precision prevention in the workplace setting related to health promotion. It lacks interventions directly addressing employment policies for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

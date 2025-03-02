@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2630,
+    "Authors": "Reich, Stephanie M.; Dahlin, Melissa; Tulagan, Nestor; Kerlow, Marina; Cabrera, Natasha; Piroutek, Mary Jane; Heyming, Theodore",
+    "Article Title": "Caregivers' Experiences During the COVID-19 Pandemic and Their Children's Behavior",
+    "Abstract": "The COVID-19 pandemic has financial and emotional impacts on families. We explored how caregivers' financial strain and mental health are associated with changes in their young children's behavior during the pandemic. We additionally considered whether having a sense of purpose moderated these associations. Caregivers (n = 300) in the emergency department of a children's hospital were surveyed anonymously about changes to their employment (e.g., reduced/increased hours and job loss), ability to pay for expenses and whether their child's behavior had changed. Aligned with the Family Stress Model, caregivers' financial strain was associated with poor mental health, inconsistent sleep routines, and changes in children's problematic and prosocial behaviors. A sense of purpose buffered some of these relationships. Families are differently affected by the pandemic and our findings underscore the need for supporting caregivers' mental health and connecting them with resources.",
+    "DOI": "10.1177/0192513X211055511",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is caregivers rather than people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not have a control group and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

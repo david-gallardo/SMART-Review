@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2647,
+    "Authors": "Akay, Pinar Aslan; Ahmadi, Nader",
+    "Article Title": "The Work Environment of Immigrant Employees in Sweden-a Systematic Review",
+    "Abstract": "The aim of this systematic review was to summarize and synthesize research results focusing on the work environment of employees with an immigrant background in Sweden. We focus on the main conditions identified in the working environment of immigrant employees and how these conditions may affect their health and well-being. The concept of minority stress and the attachment theory are used to understand and interpret the findings. We systematically searched for literature published between the years of 1990 and 2020 in four databases, Web of Science, PubMed, SocIndex, and Academic Search Elite. We started the selection process by reading title and abstracts, then proceeded to read a selection of full-text studies and eliminated those that did not fulfil the inclusion criteria. We did a quality assessment on the full-text studies based on the MMAT-tool, and then performed a narrative synthesis of the results. The results show that immigrants experience several stressors in their work environment, including physical, psychological, and social risks. These risks are, among other things, associated with the nature of the jobs that immigrants are overrepresented in, with minority-related stressors such as discrimination, harassment, and threats on the basis of ethnic background, and with the lack of social support from managers and colleagues. Results also highlight beneficial factors in the immigrants' working environment and show the importance of a supportive, inclusive, and empowering management. Our main conclusion is that Swedish workplaces need to introduce more active measures to raise awareness of and combat workplace discrimination, work harder to promote inclusion at the workplace, and eliminate physical, psychological, and social health hazards specific to immigrant employees. The leadership and management have an important role to play here, as does the employees' trade unions and its special functions.",
+    "DOI": "10.1007/s12134-021-00931-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2025, specifically between 1990 and 2020, which does not meet the inclusion criterion of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on immigrant employees in Sweden and does not address people with mental health disorders. It also lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not specifically people with mental disorders or documented mental health problems.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

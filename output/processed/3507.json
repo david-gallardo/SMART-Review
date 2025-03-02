@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3507,
+    "Authors": "Horn, Lena; de Munter, Leonie; Papageorgiou, Grigorios; Lansink, Koen W. W.; de Jongh, Mariska A. C.; Joosen, Margot C. W.",
+    "Article Title": "Association of longitudinal changes in patient-reported health status with return to work in the first 2 years after traumatic injury: a prospective cohort study in the Netherlands",
+    "Abstract": "Objectives To determine the prognostic value of time driven changes in health status on return to work (RTW) in the first 2 years after traumatic injury.Design A prospective longitudinal cohort study. All patient-reported outcomes were measured at 1 week, 1, 3, 6, 12 and 24 months after injury.Setting Ten participating hospitals in the Netherlands.Participants Employed adult clinical injury patients admitted to the hospital between August 2015 and November 2016 (N=1245 patients).Main outcome measures Data about (first) RTW were used from the patient-reported questionnaires (1=yes, 0=no). RTW was measured as the first time a patient started working after hospital admission. Tune until RTW was calculated in weeks. Health status was measured with the EuroQol Five Dimensions-3 Levels (EQ5D) including a dimension to measure cognition.Results At 24 months, 88.5% (n=1102) of the patients had retumed to work. The median time to RTW was 6.6 weeks (IOR: 2-13). Patients' health status was found to be an independent prognostic factor for RTW: a 0.1-unit increase in EQ5D (scale 0-1) translated into RTW being four times more likely (95% CI 1.60 to 11.94). Patients who had moderate or severe problems (0=no problems, 1=moderate or severe problems) with mobility (HR 0.91, 95% CI 0.84 to 0.98), anxiety/depression (HR 0.86, 95% CI 0.80 to 0.91), usual activities (HR 0.91,95% CI 0.83 to 0.98), self-care (HR 0.90,95% CI 0.79 to 0.99) and cognition (HR 0.90,95% CI 0.85 to 0.94) were significantly less likely to RTW compared with patients with no problems.Conclusion Increased self-reported health status over time is associated with a higher likelihood of RTW, independent of baseline risk factors, such as injury severity or education. Knowledge on patient-reported outcomes can contribute to the development of tailored RTW treatments. Furthermore, patient-reported outcomes could be used as monitoring tool to guide postinjury care in the clinical setting and RTW process.",
+    "DOI": "10.1136/bmjopen-2021-055593",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective longitudinal cohort study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Netherlands), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Prospective longitudinal cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the intervention is not related to active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study, which does not meet the inclusion criteria of systematic reviews, meta-analyses, RCTs, or quasi-experimental studies with a control group. The study is also not focused on interventions for employment or labor outcomes in people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

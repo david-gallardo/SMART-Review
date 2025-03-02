@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2956,
+    "Authors": "Wyss, T.; Sieber, M.; Dennler, J.",
+    "Article Title": "The Treatment Process in Forelhaus Zurich, a Residential Treatment Center for Individuals with a Substance Use Disorder",
+    "Abstract": "The present study provides information about the 319 patients, treatment process and outcomes of Forelhaus Zurich from 2003 to 2012. Forelhaus Zurich is a residential treatment center specializing in the integration of individuals with substance use disorders. The majority of patients were male with an Alcohol dependence disorder. 49 % of the patients had a concurrent mental health disorder. The average patient had completed 5 inpatient detoxification programs, 11 months of inpatient treatment and had a substance use history of 17 years. During their residence, averaging 238 days, over a third of the patients had no relapse. Upon completing the treatment 55 % were abstinent and a further 11 % consumed under control. The usefulness of treatment was rated as high to very high. At the end of treatment 23 % had permanent competitive employment and a remaining 41 % attended a supported employment program.These results show that despite the high level of psychosocial stressors faced by most of patients at admission, the majority could attain stability in their substance use disorder und could discharge into their own home or supported housing, providing evidence of the success of integrated treatment programs.",
+    "DOI": "10.1055/s-0042-104782",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment outcomes for people with mental health disorders. The study focuses on substance use disorders and treatment outcomes.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on individuals with substance use disorders rather than mental health disorders. Additionally, its timeframe is outside the specified range (2005-2025).",
+            "study_design": "Observational study of treatment outcomes",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorder and not specifically on mental health disorders or employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not have a control group for comparison.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

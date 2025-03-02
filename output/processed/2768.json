@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2768,
+    "Authors": "Druery, Martha; Das, Arpita; Warren, Jacelle; Newcombe, Peter A.; Lipman, Jeffrey; Cameron, Cate M.",
+    "Article Title": "Early predictors of health-related quality of life outcomes at 12 months post-burn: ABLE study",
+    "Abstract": "There remains a paucity of evidence on the early predictors of long-term Health-Related Quality of Life (HRQoL) outcomes post-burn in hospitalised adults. The overall aim of this study was to identify the factors (personal, environmental, burn injury and burn treatment factors) that may predict long-term HRQoL outcomes among adult survivors of hospitalised burn injuries at 12 months post-burn. A total of 274 participants, aged 18 years or over, admitted to a single state-wide burn centre with a burn injury were recruited. Injury and burn treatment information were collected from medical records or the hospital database and surveys collected demographic and social data. HRQoL outcome data were collected at 3-, 6- and 12-months using the 12-Item Short Form Survey (SF-12 v1) and Burns Specific Health Scale-Brief (BSHS-B). Personal, environmental, burn injury and burn treatment factors were also recorded at baseline. Analyses were performed using linear and logistic regression. Among 274 participants, 71.5 % (N=196) =196) remained enrolled in the study at 12 months post-burn. The majority of participants reported HRQoL outcomes comparable with population norms and statistically significant improvements in generic (SF-12 v1) and condition-specific (BSHS-B) outcomes over time. However, for participants with poor HRQoL outcomes at 12-months post-burn, Univariable predictors included longer hospital length of stay, unemployment at the time of injury, a diagnosed pre-injury mental health condition, inadequate pre-burn social support, intentional injury, recreational drug use pre-injury and female gender. The early multivariable predictors of insufficient HRQoL outcomes were female gender, a previously diagnosed mental health condition, unemployment, inadequate social support, intentional injury, and prolonged hospital length of stay. These results suggest potential factors that could be used to screen and burns patients for psychosocial intervention and longterm follow up.",
+    "DOI": "10.1016/j.injury.2024.111545",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on health-related quality of life post-burn injuries.",
+            "study_design": "Cross-sectional survey with longitudinal follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on health-related quality of life outcomes post-burn in adult survivors, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment or labor outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

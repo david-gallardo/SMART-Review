@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3221,
+    "Authors": "Perlis, Roy H.; Ognyanova, Katherine; Quintana, Alexi; Green, Jon; Santillana, Mauricio; Lin, Jennifer; Druckman, James; Lazer, David; Simonson, Matthew D.; Baum, Matthew A.; Chwe, Hanyu",
+    "Article Title": "Gender-specificity of resilience in major depressive disorder",
+    "Abstract": "Introduction The major stressors associated with the COVID-19 pandemic provide an opportunity to understand the extent to which protective factors against depression may exhibit gender-specificity. Method This study examined responses from multiple waves of a 50 states non-probability internet survey conducted between May 2020 and January 2021. Participants completed the PHQ-9 as a measure of depression, as well as items characterizing social supports. We used logistic regression models with population reweighting to examine association between absence of even mild depressive symptoms and sociodemographic features and social supports, with interaction terms and stratification used to investigate sex-specificity. Results Among 73,917 survey respondents, 31,199 (42.2%) reported absence of mild or greater depression-11,011/23,682 males (46.5%) and 20,188/50,235 (40.2%) females. In a regression model, features associated with greater likelihood of depression-resistance included at least weekly attendance of religious services (odds ratio [OR]: 1.10, 95% confidence interval [CI]: 1.04-1.16) and greater trust in others (OR: 1.04 for a 2-unit increase, 95% CI: 1.02-1.06), along with level of social support measured as number of social ties available who could provide care (OR: 1.05, 95% CI: 1.02-1.07), talk to them (OR: 1.10, 95% CI: 1.07-1.12), and help with employment (OR: 1.06, 95% CI: 1.04-1.08). The first two features showed significant interaction with gender (p < .0001), with markedly greater protective effects among women. Conclusion Aspects of social support are associated with diminished risk of major depressive symptoms, with greater effects of religious service attendance and trust in others observed among women than men.",
+    "DOI": "10.1002/da.23203",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Non-probability internet survey with logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes. It focuses on resilience and protective factors against depression in relation to gender-specific social supports.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "non-probability internet survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

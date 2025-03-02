@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3051,
+    "Authors": "Kalomo, Eveline Ndii; Lee, Kyoung Hag; Lightfoot, Elizabeth; Freeman, Rachel",
+    "Article Title": "Resilience among older caregivers in rural Namibia: The role of financial status, social support and health",
+    "Abstract": "Background: Namibia has one of the highest human immunodeficiency virus (HIV) prevalence rates and one of the highest rates of orphanhood in the world, and older caregivers provide much of the care to Namibians living with HIV and acquired immune deficiency syndrome (AIDS) (UNAIDS, 2014). In this study, the authors explore how financial status, social support, and health were related to the resilience of caregivers caring for people affected by HIV and AIDS in rural northern Namibia, Africa. Method: Data were collected through a structured interview from (N = 147) caregivers from the Zambezi region. Results: Findings from this study show that employment and physical health were significantly associated with increased resilience in older caregivers. Discussion: Our findings point to the need for employment assistance and health services to improve the resilience of caregivers caring for people living with HIV and AIDS. We conclude that there is a need for more vigorous concerted efforts from public and private sector practitioners and policy makers to create more sustained formal employment opportunities and intervention programs aimed at improving the overall health of older HIV caregivers, especially those residing in rural HIV endemic communities in developing countries.",
+    "DOI": "10.1080/01634372.2018.1467524",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study explores the resilience of older caregivers in rural Namibia, and the outcomes presented are related to employment and physical health, but not specifically addressing mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (Namibia is not in EU, Europe, US, Canada, or Australia) and its intervention does not directly address employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on older caregivers in Namibia caring for people with HIV and AIDS, which does not align with the specified population of people with mental health disorders. Additionally, the study's outcomes are not directly related to employment or labor results as per the inclusion criteria.",
+            "study_design": "Structured interview",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Namibia).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "ArticleID": 3766,
+    "Authors": "Li, Haochu; Tucker, Joseph; Holroyd, Eleanor; Zhang, Jie; Jiang, Baofa",
+    "Article Title": "Suicidal Ideation, Resilience, and Healthcare Implications for Newly Diagnosed HIV-Positive Men Who Have Sex with Men in China: A Qualitative Study",
+    "Abstract": "Globally, suicidal ideation and behavior have been widely reported among people living with human immunodeficiency virus (HIV). Knowledge gaps exist regarding the longer life and resilience-related experiences of people living with HIV (PLWH). Specifically, there is a dearth of data about the interaction of perceived risk and resilient factors resulting in a wide spectrum of intentional suicidal ideation outcomes in a Chinese cultural context. This qualitative research drew from a larger ethnographic study of newly diagnosed HIV-positive men who have sex with men (MSM) in Mainland China. Interviews were conducted with 31 MSM within 6 months of diagnosis of HIV infection. Initial suicidal ideation was commonly reported with participants subsequently feeling more resilient to these thoughts through gaining a greater understanding of their prognosis and treatment. Post-HIV diagnosis, some participants reported forming new relationships and receiving increased support from their partners, friends, peers, families, and community-based organizations. At follow-up, these participants generally reported suicidal ideation had declined. However, participants who continued to express suicidal ideation perceived extended pressure from their families' expectations for them to engage in heterosexual marriages and parenthood. Furthermore, these men reported ongoing hardships in their daily life, unemployment, lack of social support, and isolation. Among this Mainland Chinese cohort of HIV-positive MSM, suicidal ideation may be a transient phenomenon experienced initially following HIV diagnosis that resolves with increased and specific familial, social, and service-based support. It is crucial to identify the causes of stress and social suffering associated with HIV diagnosis in order to reduce suicidal ideation. In China, action is needed to develop routine mental health screening and to increase services that support PLWH. Important services mechanism to accomplish this are promoting resilience through intentional activities as well as continued public health campaigns to reduce stigma toward HIV-positive MSM.",
+    "DOI": "10.1007/s10508-016-0894-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative research and lacks a rigorous evaluation or control group. It also does not address employment or labor outcomes.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "study_alignment": "Included/Excluded",
+            "alignment_details": {
+                "study_design": "Description of the study design",
+                "population": "Description of the study population",
+                "intervention": "Description of the intervention",
+                "outcomes": "Description of the outcomes measured"
+            },
+            "exclusion_reason": "If applicable, provide the reason for exclusion",
+            "inclusion_decision": "Unclear",
+            "reason": "No reason provided",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

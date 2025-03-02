@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2675,
+    "Authors": "Kreis, Adina; Gomes, Anna; Tsiouris, Angeliki; Beutel, Manfred E.; Ruckes, Christian; Dahn, Ingo; Schiller, Annika; Loy, Guido; Zajac, Hiltrud; Kosmuetzky, Gregor; Ziser, Patrick; Strassner, Eckard; Schneider, Vera; Wilde, Thomas; Leber, Martin; Schafer, Hannah; Kilian, Rebecca; Zwerenz, Rudiger",
+    "Article Title": "Development and evaluation of an internet- and mobile-based intervention for individualized return to work planning after inpatient rehabilitation - Study protocol for a randomized-controlled-trial",
+    "Abstract": "Background: Following discharge, it is crucial for patients to transfer intentions and action plans from inpatient rehabilitation into everyday life. This ensures their reintegration into social and working life and prevents economic costs due to sick leave or reduced earning capacity pension. However, most established aftercare programs do not specifically address occupational problems or challenges during occupational measures such as graded return to work. The aim of this study is to evaluate the efficacy of the low-threshold online self-help intervention marena (Meine Arbeitsbezogene Reha-Nachsorge - My Work-related Rehabilitation Aftercare) to support return to work. Methods: A two-arm randomized-controlled-trial (RCT) will be conducted. A total of N = 400 rehabilitation inpatients across different indication areas (psychosomatic, orthopedic, or cardiologic) aged 18 to 65 years with a planned return to work after medical rehabilitation, have a heightened social-medical risk and private internet access and are insured with the German Pension insurance or statutory health insurance, will be recruited in four medical and psychosomatic clinics in Germany. Participants will be allocated to either the intervention (IG) or the control group (CG). In a stepped-care model, participants of the IG will receive access to the non-guided internet- and mobile-based intervention marena (IG subgroup 1) or marena in combination with GSA-Online plus (IG subgroup 2), a guided psychodynamic internet-based intervention that has proven effective in two trials regarding occupational and health objectives. Based on a priori defined indication criteria, clinic staff will recommend either IG subgroup 1 or IG subgroup 2. The CG will receive optimized treatment as usual with access to a survey feature within marena. The primary outcome will be work status after 6 months (T2) and 12 months (T4). The endpoint at 12 months (T4) after discharge from inpatient rehabilitation will be considered as secondary endpoint. Work status is defined as positive if the participant is working and has <= 6 weeks of sick leave at T2 and <= 12 weeks of sick leave at T4. Secondary outcomes include successful completion of graded return to work, successful application for benefits for participation in working life, current work ability, social-medical risk, subjective prognosis of future employment, quality of life, somatic symptoms, coping, social support, Discussion: This study will contribute to the evidence concerning efficacy of online aftercare interventions. If proven efficacious, marena could provide an individualized and adaptable self-help approach to promote return",
+    "DOI": "10.1016/j.invent.2024.100721",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized-controlled-trial (RCT), which meets the inclusion criteria. The study is conducted within the EU (Germany), and the timeframe is between 2005-2025. The intervention is job search services (marena) and adult training, which are related to employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Randomized-Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on individuals recovering from various medical conditions and their return to work.",
+            "study_design": "Randomized-controlled-trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not include a control group, which is a requirement for inclusion.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

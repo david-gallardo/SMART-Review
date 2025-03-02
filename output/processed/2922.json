@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2922,
+    "Authors": "Besen, Elyssa; Matz-Costa, Christina; James, Jacquelyn B.; Pitt-Catsouphes, Marcie",
+    "Article Title": "Factors Buffering Against the Effects of Job Demands: How Does Age Matter?",
+    "Abstract": "Given the increasing role that paid work is likely to play in older adulthood in the coming decades, the goal of this study was to understand the circumstances under which work is related to mental health for older adults and whether these circumstances differ by age. Using a multiworksite sample of 1,812 U.S. workers age 18 to 81, we use the life-span theory of control to hypothesize that older and younger workers may benefit differentially from job and personal control in the context of high job demands. Results suggest that for younger workers with high personal control, job control buffers the impact of job demands on mental health. For older workers, personal control alone buffers the impact of job demands on mental health. This study adds to previous research by addressing how the factors thought to buffer against the effects of job demands differ cross-sectionally by age.",
+    "DOI": "10.1177/0733464812460430",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the relationship between job demands, personal control, and mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the relationship between job demands and mental health in older adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3165,
+    "Authors": "Wang, Yahui; Zhang, Mengyue; Yin, Qin; Wang, Yincheng; Yang, Pengcheng; Hu, Chao; Xu, Guogang; Wang, Daoweng; Li, Xianzhi; He, Jibo; Hu, Qinyong; Luo, Xingguang; Ren, Honggang",
+    "Article Title": "Psychological Responses of the Patients in Cabin Hospital to the COVID-19 Outbreak: A Comparative Epidemiologic Analysis",
+    "Abstract": "The building of cabin hospitals in Wuhan has been proven to be clinically successful in curing mild-symptom COVID-19 patients shortly after the outbreak of COVID-19 in late 2019. At the same time, the psychological effect of patients being treated in cabin hospitals and the features of the psychological status of the whole society remained ambiguous. This study adopted a self-administrated questionnaire to investigate the stress, depression, and anxiety status of patients in cabin hospitals (n = 212) and healthy participants outside of Hubei province (n = 221) in a population level from February 29 to March 01, 2020. The research measured participants' stress response, depression level, and anxiety level as well as their social support system and their resilience level. Results indicated that in this sudden outbreak of an unknown pandemic, all people (whether or not infected) showed a generally high level of stress, depression, and anxiety, regardless of age, gender, education level, and employment. It also showed that people with a lower level of psychological resilience and social support reported more severe symptoms of depression, anxiety, and stress. Moreover, the research also found a positive effect of cabin hospitals on the psychological recovery of COVID-19 patients. Stress response of patients increased after entering into cabin hospitals, while after 3-4 weeks' treatment, patients showed a decrease in their depression and anxiety levels. This research advances the understanding of COVID-19 and gives suggestions to optimize the design and the allocation of resources in cabin hospitals and better deal with the unknown pandemics in the future.",
+    "DOI": "10.3389/fpsyg.2021.641167",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the psychological effects of COVID-19 patients and the general population.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on psychological responses and resilience of patients in cabin hospitals during the COVID-19 outbreak.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Comparative Epidemiologic Analysis",
+            "logprobs": null
+        }
+    }
+}

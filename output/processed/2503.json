@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2503,
+    "Authors": "Twamley, Elizabeth W.; Thomas, Kelsey R.; Gregory, Amber M.; Jak, Amy J.; Bondi, Mark W.; Delis, Dean C.; Lohr, James B.",
+    "Article Title": "CogSMART Compensatory Cognitive Training for Traumatic Brain Injury: Effects Over 1 Year",
+    "Abstract": "Objective: There are very few evidence-based treatments for individuals with mild to moderate traumatic brain injuries. We developed and tested a 12-week, manualized, compensatory cognitive training intervention, Cognitive Symptom Management and Rehabilitation Therapy (CogSMART), which targeted postconcussive symptom management, prospective memory, attention, learning/memory, and executive functioning. The intervention focused on psychoeducation and compensatory strategies such as calendar use, self-talk, note taking, and a 6-step problem-solving method. Setting: VA Healthcare System. Participants: A total of 50 Veterans with mild to moderate traumatic brain injuries receiving supported employment. Design: Twelve-month randomized controlled trial with participants assigned to receive CogSMART or additional supported employment sessions for the first 12 weeks. Outcome assessments were administered at baseline and 3, 6, and 12 months. Main Measures: Assessments measured postconcussive symptoms, neuropsychological performance, functional capacity, psychiatric symptom severity, quality of life, and weeks worked during the 12-month trial. Results: Hierarchical linear modeling analyses using all 4 time points demonstrated significant CogSMART-associated reductions in postconcussive symptoms (r = -0.28, P =.026, d = 0.64) and improvements in prospective memory (r = 0.35, P =.031, d = 0.55) and quality of life (r = 0.34, P =.009, d = 1.0). The groups did not differ on weeks worked during the trial. Conclusion: CogSMART has the potential to improve postconcussive symptoms, cognitive performance, and self-rated quality of life in individuals with mild to moderate traumatic brain injuries.",
+    "DOI": "10.1097/HTR.0000000000000076",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, focusing on postconcussive symptom management, prospective memory, attention, learning/memory, and executive functioning.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on cognitive training for individuals with traumatic brain injuries and measures weeks worked during the trial but does not meet the criteria for employment or labor outcomes.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on traumatic brain injury and not specifically on mental health disorders. The intervention is also not directly related to employment.",
+            "study_design": "Twelve-month randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but rather those with traumatic brain injuries.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

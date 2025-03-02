@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2383,
+    "Authors": "Shogren, Karrie A.; Anderson, Mark H.; Burke, Kathryn M.; Antosh, Anthony; Ferrara, Victoria E.; Pallack, Mary A.; Dean, Evan E.",
+    "Article Title": "Employment Trends in Rhode Island From 2011 to 2017 for Adults With Intellectual Disability and Developmental Disabilities",
+    "Abstract": "This study reports on state-level data in Rhode Island on employment and non-work activities of adults with intellectual and developmental disabilities receiving services between 2011 and 2017. The goal was to examine the complex patterns of change over time in individual-level employment outcomes and the potential short-term impacts of a consent decree entered into by the state of Rhode Island to address integrated employment outcomes. Findings suggest that policy initiatives such as the consent decree can lead to reductions in reliance on facility-based work, but also highlight the importance of planning for the transition to competitive, integrated employment and not simply a shift toward non-work activities. Further, the data support the notion that the best predictor of integrated employment over time is previous experiences in integrated employment (not facility-based or other work or non-work activities), suggesting the role of ongoing supported employment and transition services that create and support the maintenance of integrated employment.",
+    "DOI": "10.1352/1934-9556-58.6.458",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders. The intervention focuses on adults with intellectual and developmental disabilities rather than people with documented mental health problems.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on adults with intellectual and developmental disabilities, not specifically on people with mental health disorders. Additionally, the study's geographic scope is limited to Rhode Island, which is outside the specified EU, Europe, US, Canada, and Australia scope.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders but rather on intellectual and developmental disabilities.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

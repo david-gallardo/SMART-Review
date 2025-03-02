@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2463,
+    "Authors": "Keidser, Gitte; Seeto, Mark",
+    "Article Title": "The Influence of Social Interaction and Physical Health on the Association Between Hearing and Depression With Age and Gender",
+    "Abstract": "Recent epidemiological data suggest the relation between hearing difficulty and depression is more evident in younger and middle-aged populations than in older adults. There are also suggestions that the relation may be more evident in specific subgroups; that is, other factors may influence a relationship between hearing and depression in different subgroups. Using cross-sectional data from the UK Biobank on 134,357 community-dwelling people and structural equation modelling, this study examined the potential mediating influence of social isolation and unemployment and the confounding influence of physical illness and cardiovascular conditions on the relation between a latent hearing variable and both a latent depressive episodes variable and a latent depressive symptoms variable. The models were stratified by age (40s, 50s, and 60s) and gender and further controlled for physical illness and professional support in associations involving social isolation and unemployment. The latent hearing variable was primarily defined by reported hearing difficulty in noise. For all subgroups, poor hearing was significantly related to both more depressive episodes and more depressive symptoms. In all models, the direct and generally small association exceeded the indirect associations via physical health and social interaction. Significant (depressive episodes) and near significant (depressive symptoms) higher direct associations were estimated for males in their 40s and 50s than for males in their 60s. There was at each age-group no significant difference in estimated associations across gender. Irrespective of the temporal order of variables, findings suggest that audiological services should facilitate psychosocial counselling.",
+    "DOI": "10.1177/2331216517706395",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes, and instead examines the relationship between hearing difficulty, depression, and social interaction.",
+            "study_design": "Cross-sectional study with structural equation modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment and does not focus on people with mental health disorders. It examines the relationship between hearing difficulty and depression in relation to social isolation and unemployment but does not include any employment or labor outcomes.",
+            "study_design": "Cross-sectional study using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment policies for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment. The study also does not have a control group, which is a requirement for the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study using structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

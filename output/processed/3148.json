@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3148,
+    "Authors": "Stiles-Shields, C.; Corden, M. E.; Kwasny, M. J.; Schueller, S. M.; Mohr, D. C.",
+    "Article Title": "Predictors of outcome for telephone and face-to-face administered cognitive behavioral therapy for depression",
+    "Abstract": "Background. Cognitive behavioral therapy (CBT) can be delivered efficaciously through various modalities, including telephone (T-CBT) and face-to-face (FtF-CBT). The purpose of this study was to explore predictors of outcome in T-CBT and FtF-CBT for depression.Method. A total of 325 depressed participants were randomized to receive eighteen 45-min sessions of T-CBT or FtF-CBT. Depression severity was measured using the Hamilton Depression Rating Scale (HAMD) and the Patient Health Questionnaire-9 (PHQ-9). Classification and regression tree (CART) analyses were conducted with baseline participant demographics and psychological characteristics predicting depression outcomes, HAMD and PHQ-9, at end of treatment (week 18).Results. The demographic and psychological characteristics accurately identified 85.3% and 85.0% of treatment responders and 85.7% and 85.0% of treatment non-responders on the HAMD and PHQ-9, respectively. The Coping self-efficacy (CSE) scale predicted outcome on both the HAMD and PHQ-9; those with moderate to high CSE were likely to respond with no other variable influencing that prediction. Among those with low CSE, depression severity influenced response. Social support, physical functioning, and employment emerged as predictors only for the HAMD, and sex predicted response on the PHQ-9. Treatment delivery method (i.e. telephone or face-to-face) did not impact the prediction of outcome.Conclusions. Findings suggest that the predictors of improved depression are similar across treatment modalities. Most importantly, a moderate to high level of CSE significantly increases the chance of responding in both T-CBT and FtF-CBT. Among patients with low CSE, those with lower depressive symptom severity are more likely to do well in treatment.",
+    "DOI": "10.1017/S0033291715001208",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on predictors of outcome for cognitive behavioral therapy for depression.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive behavioral therapy for depression, which is not directly related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

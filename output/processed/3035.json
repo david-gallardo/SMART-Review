@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3035,
+    "Authors": "Hessels, Jolanda; Rietveld, Cornelius A.; van der Zwan, Peter",
+    "Article Title": "Self-employment and work-related stress: The mediating role of job control and job demand",
+    "Abstract": "Drawing upon the Job Demand-Control (JDC) model, this study investigates differences in work-related stress between the self-employed and wage workers. The JDC model postulates that job demand increases work-related stress, whereas job control reduces it (also by weakening the effect of job demand on work-related stress). Based on this model, we predict that the self-employed experience less work-related stress than wage workers. Empirical analysis of a longitudinal sample from Australia (2005-2013) confirms our expectations and demonstrates that job control fully mediates the negative relationship between self-employment and work related stress. Further analyses show that self-employed individuals with employees experience more work-related stress than those without employees because of higher job demand.(C) 2016 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.jhusvent.2016.10.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Longitudinal sample without a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders and focuses on self-employment and work-related stress without directly addressing the specified interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional longitudinal analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on self-employment and work-related stress, not on employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

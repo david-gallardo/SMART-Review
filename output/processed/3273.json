@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3273,
+    "Authors": "Ladwig, Karl-Heinz; Lukaschek, Karoline",
+    "Article Title": "Should Patient's Work Stress be Addressed in the Cardiologist's Office? Evidence, Diagnosis and Therapy of Adverse Work Place Stress Conditions",
+    "Abstract": "In modern industrial societies, people spend their most active time in work environments which largely determine everyday life and quality of life. Boundaries between the private and professional spheres are disappearing. In addition to classic work stress - often defined as a disproportion between high demands and low control or as a disproportion between work effort and reward - over-work, job insecurity and negative workplace conditions have the potential to trigger mental and physical health impairments. Evidence from mega-studies including > 100000 participants proves the impact of work-stress as risk factor for hypertension, insomnia and depression. Often, unhealthy life styles (alcohol, smoking etc.) are employed as self-damaging compensatory strategies. Together, sustained work stress results in significant risk for ischemic heart disease, cerebrovascular events and diabetes mellitus. Work stress should be explored in cardiology practice. A comprehensive outlook on a work stress focused counselling under practice condition is presented.",
+    "DOI": "10.1055/a-2018-3741",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: does not directly address employment, and the study focuses on work stress in general rather than employment outcomes.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on work stress in the context of cardiology and its impact on physical health.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work stress as a risk factor for physical and mental health issues, but does not specifically address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "Evidence from mega-studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

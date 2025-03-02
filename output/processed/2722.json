@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2722,
+    "Authors": "Gut, Vanessa; Feer, Sonja; Baumann, Isabel",
+    "Article Title": "A resource-oriented perspective on the aging workforce - exploring job resource profiles and their associations with various health indicators",
+    "Abstract": "BackgroundPromoting older workers' health in the context of increasing labor force participation and skill shortages is crucial. Examining job resource profiles offers a promising approach to understanding how to promote and maintain the health of older workers within the workplace. However, it is unclear how different job resources interact within distinct worker subgroups. Thus, this study explores the association between the job resource profiles of distinct subgroups and various health indicators among older workers in Europe.MethodsData from 4,079 older workers (age range: 50-60 years, 57% female) from waves 6 and 8 of the Survey of Health, Ageing and Retirement in Europe (SHARE) were analyzed. Latent profile analysis was employed to identify distinct job resource profiles using social support, recognition, job promotion, autonomy, and development opportunities. Associations between these profiles and various health indicators were examined, alongside the sociodemographic and socioeconomic characteristics associated with each profile.ResultsFour distinct job resource profiles emerged: (I) average job resource workers (n = 2170, 53%), (II) high social job resource workers (n = 983, 24%), (III) low job resource workers (n = 538, 13%), and (IV) autonomous decision-making workers (n = 388, 10%). Workers in the (II) high social job resource profile had the highest socioeconomic status and reported the best self-perceived health, lowest depressive symptoms, and fewest limitations and chronic diseases. Conversely, workers in the (III) low job resource profile had the second-lowest socioeconomic status and reported the poorest health outcomes. Surprisingly, older workers with high autonomy (profile IV) had the lowest socioeconomic status and the second worst self-perceived health. This may be because they perceive themselves as autonomous while lacking support and recognition.ConclusionThere is wide variation in the level and composition of resources available to older workers in the workplace. The most vulnerable subgroups, such as low job resource workers (profile III) and autonomous decision-making workers (profile IV), could benefit from tailored workplace health promotion interventions, such as support from supervisors or peers. Strengthening older workers' job resources, including social support and recognition, can improve their health and contribute to them remaining in the workforce.",
+    "DOI": "10.1186/s12889-024-20098-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a latent profile analysis, which is a type of quasi-experimental study with a control group. The study includes data from the Survey of Health, Ageing and Retirement in Europe (SHARE), which is a European survey. The study meets the timeframe criteria (2005-2025). The intervention is job resource profiles, which is one of the included interventions. The population is older workers in Europe, which meets the population criteria. The study presents measures of employment and labor results, such as socioeconomic status and self-perceived health.",
+            "study_design": "Latent Profile Analysis (LPA) with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on job resources and their associations with health indicators among older workers in Europe.",
+            "study_design": "Latent profile analysis using data from SHARE survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders.",
+            "study_design": "Latent profile analysis of survey data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly people with mental disorders or documented mental health problems.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

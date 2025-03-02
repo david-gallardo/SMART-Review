@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3047,
+    "Authors": "Chaudhry, Aeysha; Hebert-Beirne, Jeni; Hanneke, Rosie; Alessi, Edward J.; Mitchell, Uchechi; Molina, Yamile; Chebli, Perla; Abboud, Sarah",
+    "Article Title": "The Health Needs of Sexual and Gender Minority Migrant Women to the United States: A Scoping Review",
+    "Abstract": "Purpose: This scoping review characterizes the peer-reviewed evidence on the health of first-generation sexual and gender minority (SGM) migrant women to the United States and identifies research gaps and future priorities.Methods: On February 1, 2022, the following databases were searched: PubMed (MEDLINE), Embase, CINAHL Plus with Full Text, APA PsycINFO, and PAIS Index. Primary research studies based in the United States, in English, on first-generation SGM migrants (i.e., immigrants, refugees, asylum seekers) were included. Gray literature and review articles were excluded. Health outcome data were not extracted from nonbinary populations nor transgender men. Themes were generated using qualitative content analysis.Results: Thirty-three studies were reviewed, most were qualitative, and 11 focused on transgender women migrants (especially from Latin America), while only one was exclusively on sexual minority women (SMW) migrants. Premigration experiences of violence and discrimination were linked to high prevalence rates of post-traumatic stress disorder, depression, and anxiety. Postmigration stressors included lack of educational and employment opportunities, reduced access to social services, and experiences of stigma and discrimination, which were also associated with the development of depressive symptoms. Transgender women migrants reported not seeking formal medical care, given a lack of gender-affirming services and insurance resulting in reliance on unsafe informal care networks for hormone therapy and feminization procedures.Conclusion: Future interventions should focus on fostering social support networks of SGM migrant women to help improve their mental health outcomes. Research priorities should include studies on SMW migrants and more quantitative research that could identify additional health needs (i.e., sexual health) of SGM migrant women.",
+    "DOI": "10.1089/lgbt.2022.0392",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study reviews health outcomes for sexual and gender minority migrant women to the United States, but it does not address employment or labor outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and does not meet the inclusion criteria for meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group. Additionally, it focuses on sexual and gender minority migrant women in the United States without addressing employment outcomes.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes and the population is not explicitly people with mental disorders.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

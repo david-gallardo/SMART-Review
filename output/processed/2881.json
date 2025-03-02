@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2881,
+    "Authors": "Assimonye, Stephanie; Lee, Jaehoon; Smith, Sharla; Glenn, Jason; Kennedy, Pablo; Ramaswamy, Megha",
+    "Article Title": "Understanding the Changing Social and Health Circumstances of Women Leaving Jail: A Social Support Analysis",
+    "Abstract": "Borrowing insights from Cullen's Theory of Social Support to explain the association between women's instrumental social supports and health risks over time, we analyzed data collected from 254 women who completed all waves (completers) or some but not all waves (non-completers) of follow-up data collection at 0, 12, 24, and 36 months. Trajectory and mixed model analyses showed that after release from jail, women had improvements in employment and transportation and reductions in exchange of sex for resources, alcohol use, hard drug use, and substance dependence. We provide a framework from which in-jail and community-based programs can draw from.",
+    "DOI": "10.1080/08974454.2022.2105475",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on health risks over time, specifically for women leaving jail.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on women leaving jail and their social support systems.",
+            "study_design": "Cross-sectional survey with trajectory and mixed model analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on women leaving jail and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

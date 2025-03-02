@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2971,
+    "Authors": "Hayden, Seth C. W.; Osborn, Debra S.; Peace, Carley; Lange, Robert",
+    "Article Title": "Enhancing agency in career development via cognitive information processing theory",
+    "Abstract": "The interconnected aspects of career and mental health posit career as a central feature of human functioning. A perceived lack of control within career and work exacerbates existing challenges associated with COVID-19. Focusing on enhancing agency within the realm of career and work is imperative within counselling. Cognitive Information Processing (CIP) accounts for the complexity of career concerns by enhancing agency in career decision making, with problem solving serving as a conduit between uncertainty and empowerment. The current state of employment, threats to agency within career development, and specific CIP-based interventions to enhance agency are discussed.",
+    "DOI": "10.1080/03069885.2020.1867703",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control group. The intervention is not directly related to employment policies for people with mental health disorders.",
+            "study_design": "Not specified in abstract",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive information processing theory in career counseling and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

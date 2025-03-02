@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2819,
+    "Authors": "Bond, Gary R.; Drake, Robert E.; McHugo, Gregory J.; Peterson, Alison E.; Jones, Amanda M.; Williams, Jessica",
+    "Article Title": "Long-Term Sustainability of Evidence-Based Practices in Community Mental Health Agencies",
+    "Abstract": "This study examined rates of sustainability, defined as program continuation, and factors associated with sustainability 6 years after full implementation of five evidence-based practices in 49 sites in the National Implementing Evidence-Based Practices Project. Based on interviews with agency leaders and state leaders, 47 % of sites sustained the practice for 6 years, 16 % restarted the practice after a period of discontinuation, and 37 % discontinued the practice permanently. Agency leaders from discontinuing sites identified inadequate financial support, lack of prioritization, and workforce issues as barriers to continuation. Adequate financing, ongoing supervision, and monitoring of fidelity and outcome may promote long-term sustainability.",
+    "DOI": "10.1007/s10488-012-0461-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study is a quasi-experimental design without a control group.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the sustainability of evidence-based practices in community mental health agencies.",
+            "study_design": "Survey/Interview Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on sustainability of evidence-based practices in community mental health agencies, not directly on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

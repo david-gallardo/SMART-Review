@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3689,
+    "Authors": "Vogelsang, Eric M.; Shultz, Kenneth S.; Olson, Deborah A.",
+    "Article Title": "Emotional Well-Being Following a Later Life Career Change: The Roles of Agency and Resources",
+    "Abstract": "More individuals are attempting career changes in later life, as an increasing number of people face precarious retirement prospects. Although many of these older job seekers eventually find new livelihoods, little is known about their emotional well-being subsequent to these changes. Using the 2014 American Institute for Economic Research Older Worker Survey, we evaluate the contributions of demographic characteristics, agency, and resources when estimating three measures of emotional well-being following a successful later life career change (n = 337). We found that having financial resources during the career transition was associated with all three positive emotional outcomes, while family support and intentionality were also associated with positive emotions. Conversely, prior job prestige and purposeful job training had no relationships with subsequent well-being. These results suggest that later life career changes, despite their challenges, often result in positive emotional outlooks-for those who have the resources to support them.",
+    "DOI": "10.1177/0091415017745972",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on emotional well-being following a career change.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on emotional well-being following career changes in later life. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

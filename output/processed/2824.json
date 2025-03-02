@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2824,
+    "Authors": "Glavin, Paul; Bierman, Alex; Schieman, Scott",
+    "Article Title": "Private Eyes, They See Your Every Move: Workplace Surveillance and Worker Well-Being",
+    "Abstract": "Despite a surge in the number of organizations using surveillance technology to monitor their workers, understanding of the health impacts of these technologies in the broader working population is limited. The current study addresses this omission using a novel measure of an individual's overall perception of workplace surveillance, which enables it to be asked of all workers, rather than only those in specific occupations or work contexts that have historically been vulnerable to electronic performance monitoring. Structural equation modeling analyses based on a national sample of Canadian workers (N = 3,508) reveal that surveillance perceptions are indirectly associated with increased psychological distress and lower job satisfaction through stress proliferation. Findings demonstrate that the negative consequences of surveillance are explained by its positive association with three secondary work stressors: job pressures, reduced autonomy, and privacy violations. In the case of psychological distress, these stressors fully mediate a positive association with surveillance. The relationship between surveillance and job satisfaction is more complex, however, with the indirect effects of stress proliferation balanced out by a positive direct effect of surveillance on satisfaction. These results support the use of a stress process framework to examine how surveillance impacts worker well-being through stress proliferation.",
+    "DOI": "10.1177/23294965241228874",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the impact of workplace surveillance on worker well-being and job satisfaction.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the health impacts of workplace surveillance rather than interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace surveillance and its impact on worker well-being, which does not align with the specified inclusion criteria related to employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

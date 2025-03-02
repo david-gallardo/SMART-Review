@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3643,
+    "Authors": "Johnson, Randi K.; Marker, Katie M.; Mayer, David; Shortt, Jonathan; Kao, David; Barnes, Kathleen C.; Lowery, Jan; Gignoux, Christopher R.",
+    "Article Title": "COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized Medicine: Observational Study",
+    "Abstract": "Background: Characterizing the experience and impact of the COVID-19 pandemic among various populations remains challenging due to the limitations inherent in common data sources, such as electronic health records (EHRs) or cross-sectional surveys. Objective: This study aims to describe testing behaviors, symptoms, impact, vaccination status, and case ascertainment during the COVID-19 pandemic using integrated data sources. Methods: In summer 2020 and 2021, we surveyed participants enrolled in the Biobank at the Colorado Center for Personalized Medicine (CCPM; N=180,599) about their experience with COVID-19. The prevalence of testing, symptoms, and impacts of COVID-19 on employment, family life, and physical and mental health were calculated overall and by demographic categories. Survey respondents who reported receiving a positive COVID-19 test result were considered a confirmed case of COVID-19. Using EHRs, we compared COVID-19 case ascertainment and characteristics in EHRs versus the survey. Positive cases were identified in EHRs using the International Statistical Classification of Diseases, 10th revision (ICD-10) diagnosis codes, health care encounter types, and encounter primary diagnoses. Results: Of the 25,063 (13.9%) survey respondents, 10,661 (42.5%) had been tested for COVID-19, and of those, 1366 (12.8%) tested positive. Nearly half of those tested had symptoms or had been exposed to someone who was infected. Young adults (18-29 years) and Hispanics were more likely to have positive tests compared to older adults and persons of other racial/ethnic groups. Mental health (n=13,688, 54.6%) and family life (n=12,233, 48.8%) were most negatively affected by the pandemic and more so among younger groups and women; negative impacts on employment were more commonly reported among Black respondents. Of the 10,249 individuals who responded to vaccination questions from version 2 of the survey (summer 2021), 9770 (95.3%) had received the vaccine. After integration with EHR data up to the time of the survey completion, 1006 (4%) of the survey respondents had a discordant COVID-19 case status between EHRs and the survey. Using all longitudinal EHR and survey data, we identified 11,472 (6.4%) COVID-19-positive cases among Biobank participants. In comparison to COVID-19 cases identified through the survey, EHR-identified cases were younger and more likely to be Hispanic. Conclusions: We found that the COVID-19 pandemic has had far-reaching and varying effects among our Biobank participants. Integrated data assets, such as the Biobank at the CCPM, are key resources for population health monitoring in response to public health emergencies, such as the COVID-19 pandemic.",
+    "DOI": "10.2196/37327",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it lacks a control group.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the impact of the COVID-19 pandemic on various aspects including testing behaviors, symptoms, and impacts on employment among participants in a biobank.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an observational study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. The study does not focus on interventions for employment or labor outcomes in people with mental health disorders, which is a key inclusion criterion. The study population is not explicitly defined as people with mental health disorders or documented mental health problems, which is another exclusion criterion. The study's outcomes are not focused on employment or labor results, which is a required outcome in the inclusion criteria.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

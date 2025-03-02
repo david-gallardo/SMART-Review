@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2449,
+    "Authors": "Muehlpfordt, S.; Rothlaender, K.; Keilhauer, E.; Richter, P.",
+    "Article Title": "Interventions to promote Health for older Unemployed Persons",
+    "Abstract": NaN,
+    "DOI": "10.1055/s-0032-1330025",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The title and abstract do not provide sufficient information to determine if the study meets the inclusion criteria. The intervention focus is on older unemployed persons rather than people with mental health disorders, and there is no clear mention of employment or labor outcomes.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The title and abstract do not specify the population as people with mental disorders.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2717,
+    "Authors": "Marziliano, Allison; Applebaum, Allison; Siess, Samantha; Moyer, Anne",
+    "Article Title": "A mixed-methods evaluation of the experience of emerging young adult care partners",
+    "Abstract": "There is limited literature on emerging young adult (EYA) care partners, despite a recent rise in interest in this group. The purpose of this study is to compare EYA care partners and their non-care partner peers in the domains of academic achievement and engagement, employment, health-related behaviors and self-care, and mental health and respite, as well as to assess EYA care partners' burden and potential for positive psychosocial sequelae and life changes as a result of their role. Further, within EYA care partners, we examine the relationship between mental health variables and care partner-relevant variables. Two hundred undergraduates (100 care partners and 100 non-care partners) completed measures of academic achievement and engagement (grade point average and credit load), employment (number of paid positions held and number of hours worked per week), health-related behavior/self-care (visits to the dentist, primary care physician, optometrist, diet healthfulness, exercise, cigarette smoking, and drinks per week) and mental health/respite (depression, anxiety, loneliness, drinking, social support, peer pressure, vacation recency, and frequency). Care partners completed measures of spiritual well-being, burden, meaning, and benefit-finding, as well as provided qualitative feedback on how caregiving changed their lives. EYA care partners and non-care partners did not differ on any variables examined except for the number of jobs held, as EYA care partners held more paid jobs than EYA non-care partners. EYA care partners showed moderate burden and high levels of finding meaning/benefit, the latter of which was supported by the themes that emerged from their qualitative data. Within EYA care partners, we found that depression and anxiety (mental health variables) were significantly related to spiritual well-being, burden, benefit finding, and finding meaning through caregiving (care partner-relevant variables). It is encouraging that the care partner and non-care partner groups were similar in domains critical for this age group, such as academic achievement and engagement.",
+    "DOI": "10.1002/pits.22781",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and only examines employment outcomes in a very limited scope (number of jobs held) without presenting measures of employment or labor results.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on comparing EYA care partners and non-care partners in various domains including academic achievement, employment (number of jobs held), health-related behaviors, and mental health.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group in the context of an intervention.",
+            "study_design": "Mixed-methods evaluation",
+            "logprobs": null
+        }
+    }
+}

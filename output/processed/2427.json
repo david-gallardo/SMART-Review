@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2427,
+    "Authors": "Lappalainen, Kirsi; Manninen, Pirjo; Raesaenen, Kimmo",
+    "Article Title": "Association Among Sociodemograhic Factors, Work Ability, Health Behavior, and Mental Health Status for Young People After Prolonged Unemployment",
+    "Abstract": "The purpose of this study was to explore the associations of prolonged unemployment, health, and work ability among young workers using data from the 2008-2010 Occupational Health Counselling project in Kuopio, Eastern Finland. The total sample for this study was 190 young unemployed adults. The questionnaire included the Work Ability Index (WAI), the Beck Depression Inventory, the Alcohol Use Disorders Identification Test, and the Occupational Health Counselling Survey. Multivariate analyses revealed that men had a higher prevalence of prolonged unemployment than women. Using drugs for purposes other than treatment was associated independently with an increased prevalence of prolonged unemployment. Low WAI scores were associated with a higher prevalence of prolonged unemployment. This study showed that attention should be paid to male workers, those who have poor or moderate work ability and workers who use drugs. Young unemployed workers should be recognized at an early stage. A comprehensive, flexible network of community resources is essential to support young unemployed adults.",
+    "DOI": "10.1177/2165079916653767",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental with control group) and its population is not specifically defined as people with mental health disorders. The intervention and outcomes are not related to employment policies or labor market integration.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and its associations with health and work ability, not directly on employment interventions or outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

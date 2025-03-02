@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4006,
+    "Authors": "Kulhanova, Ivana; Lustigova, Michala; Drbohlav, Dusan; Leontiyeva, Yana; Dzurova, Dagmar",
+    "Article Title": "Determinants of self-rated health among highly educated Ukrainian women refugees in Czechia: analysis based on cross-sectional study in 2022",
+    "Abstract": "Background Russia's military aggression against Ukraine set in motion a large number of refugees. Considerable amount of them came and stayed in Czechia. Refugees represent special vulnerable individuals often affected by war physically and psychologically. Due to the national regulations not allowing most of Ukrainian men aged 18-60 to leave the country, nowadays Ukrainian forced migration is relatively young and strongly gendered. Evidence suggests the higher probability for searching the safe refuge abroad among Ukrainian women with small children as well as those with relatively higher economic and cultural capital. The aim of this study is to identify the structural features of systemic risks associated with war migration by examining determinants of self-rated health among forcibly displaced highly educated Ukrainian women of productive age residing in Czechia.Methods Data from one wave of the panel survey among Ukrainian refugees in Czechia conducted in September 2022 was used. Determinants of self-rated health including self-reported diseases and healthcare factors, lifestyle, human and social capital, economic factors, and migration characteristics were analysed using binary logistic regression.Results About 45% highly educated Ukrainian women refugees in Czechia assessed their health as poor. The poor self-rated health was mostly associated with the number of diseases and depressive symptoms, and by social capital and economic factors. Having four and more diseases (OR = 13.26; 95%-CI: 5.61-31.35), showing some severe depressive symptoms (OR = 7.20; 95%-CI: 3.95-13.13), experiencing difficulties to seek help from others (OR = 2.25; 95%-CI: 1.20-4.23), living alone in a household (OR = 2.67; 95%-CI: 1.37-5.27), having severe material deprivation (OR = 2.70; 95%-CI: 1.35-5.41) and coming originally from the eastern part of Ukraine (OR = 2.96; 95%-CI: 1.34-6.55) increased the chance of these refugees to assess their health as poor.Conclusion Social and economic determinants such as lack of social contacts for seeking help and material deprivation were found to be crucial for self-rated health and should be tackled via migration policies. Further, qualitative research is needed to better understand the mechanisms behind the factors affecting subjectively assessed health.",
+    "DOI": "10.1186/s12905-024-03053-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a cross-sectional study without a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a cross-sectional study and lacks a control group. Additionally, the geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3964,
+    "Authors": "Deyo, Richard A.; Von Korff, Michael; Duhrkoop, David",
+    "Article Title": "Opioids for low back pain",
+    "Abstract": "Back pain affects most adults, causes disability for some, and is a common reason for seeking healthcare. In the United States, opioid prescription for low back pain has increased, and opioids are now the most commonly prescribed drug class. More than half of regular opioid users report back pain. Rates of opioid prescribing in the US and Canada are two to three times higher than in most European countries. The analgesic efficacy of opioids for acute back pain is inferred from evidence in other acute pain conditions. Opioids do not seem to expedite return to work in injured workers or improve functional outcomes of acute back pain in primary care. For chronic back pain, systematic reviews find scant evidence of efficacy. Randomized controlled trials have high dropout rates, brief duration (four months or less), and highly selected patients. Opioids seem to have short term analgesic efficacy for chronic back pain, but benefits for function are less clear. The magnitude of pain relief across chronic non-cancer pain conditions is about 30%. Given the brevity of randomized controlled trials, the long term effectiveness and safety of opioids are unknown. Loss of long term efficacy could result from drug tolerance and emergence of hyperalgesia. Complications of opioid use include addiction and overdose related mortality, which have risen in parallel with prescription rates. Common short term side effects are constipation, nausea, sedation, and increased risk of falls and fractures. Longer term side effects may include depression and sexual dysfunction. Screening for high risk patients, treatment agreements, and urine testing have not reduced overall rates of opioid prescribing, misuse, or overdose. Newer strategies for reducing risks include more selective prescription of opioids and lower doses; use of prescription monitoring programs; avoidance of co-prescription with sedative hypnotics; and reformulations that make drugs more difficult to snort, smoke, or inject.",
+    "DOI": "10.1136/bmj.g6380",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the use of opioids for low back pain and its associated risks.",
+            "study_design": "Review (not focused on employment policies)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3759,
+    "Authors": "Leske, Stuart; Kolves, Kairi; Crompton, David; Arensman, Ella; de Leo, Diego",
+    "Article Title": "Real-time suicide mortality data from police reports in Queensland, Australia, during the COVID-19 pandemic: an interrupted time-series analysis",
+    "Abstract": "Background Deaths by suicide can increase during infectious disease outbreaks. This study analysed suspected suicide rates in 2020 relative to 2015-19 to assess any early effects of the COVID-19 pandemic in Queensland, Australia.Methods We analysed data from the interim Queensland Suicide Register (iQSR), a state-wide real-time suicide surveillance system, using an interrupted time-series design. The data source for the iQSR is the Form 1 police report of a death to a coroner. Two QSR staff independently classed the probability of a death by suicide as possible, probable, or beyond reasonable doubt. The analysis included the probable or beyond reasonable doubt categories as suspected suicides. The primary outcome was the monthly suspected suicide rate. We applied Poisson and negative binomial regressions to assess whether Queensland's Public Health Emergency Declaration on Jan 29, 2020, affected suspected suicides from Feb 1 to Aug 31, 2020. Secondary outcomes included absolute or relative changes in police-reported motives of recent unemployment, financial problems, domestic violence, and relationship breakdown.Findings 3793 suspected suicides were recorded with an unadjusted monthly rate of 14.85 deaths per 100 000 people (from Jan 1, 2015, to Jan 31, 2020) before the declaration, and 443 suspected suicides were recorded with an unadjusted monthly rate of 14.07 deaths per 100 000 people (Feb 1, 2020, onwards) after the declaration. An interrupted timeseries Poisson regression model unadjusted (rate ratio [RR] 0.94, 95% CI 0.82-1.06) and adjusted for overdispersion, seasonality, and pre-exposure trends (RR 1.02, 95% CI 0.83-1.25) indicated no evidence of a change in suspected suicide rates. We found no absolute or relative increases in the motives for suspected suicides, including recent unemployment, financial problems, relationship breakdown, or domestic violence from February to August, 2020, compared with the pre-exposure period.Interpretation There does not yet appear to be an overall change in the suspected suicide rate in the 7 months since Queensland declared a public health emergency. Despite this, COVID-19 has contributed to some suspected suicides in Queensland. Ongoing community spread and increasing death rates of COVID-19, and its impact on national economies and mental health, reinforces the need for governments to maintain the monitoring and reporting of suicide mortality in real time.",
+    "DOI": "10.1016/S2215-0366(20)30435-1",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines suspected suicide rates in Queensland, Australia, during the COVID-19 pandemic.",
+            "study_design": "Interrupted time-series analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on suicide rates and motives during the COVID-19 pandemic in Queensland, Australia.",
+            "study_design": "Interrupted time-series analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on suicide mortality data.",
+            "study_design": "Interrupted time-series analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2907,
+    "Authors": "Aasdahl, Lene; Standal, Martin Inge; Hagen, Roger; Solbjor, Marit; Bagoien, Gunnhild; Fossen, Heidi; Foldal, Vegard Stolsmo; Bjorngaard, Johan Hakon; Rysstad, Tarjei; Grotle, Margreth; Johnsen, Roar; Fors, Egil A.",
+    "Article Title": "Effectiveness of 'motivational interviewing' on sick leave: a randomized controlled trial in a social insurance setting",
+    "Abstract": "Objective This study aimed to evaluate the effectiveness of motivational interviewing (MI) - a counselling approach offered by caseworkers at the Norwegian Labor and Welfare Administration (NAV) - on return to work (RTW) for individuals sick-listed for =8 weeks due to any diagnoses. MI was compared to usual case management and an active control during 12 months of follow-up.Methods In a randomized clinical trial with three parallel arms, participants were randomized to MI (N=257), usual case management (N=266), or an active control group (N=252). MI consisted of two MI sessions while the active control involved two sessions without MI, both were offered in addition to usual case management. The primary outcome was number of sickness absence days based on registry data. Secondary outcomes included time to sustainable RTW, defined as four consecutive weeks without medical benefits.Results The median number of sickness absence days for the MI group was 73 days [interquartile range (IQR) 31-147], 76 days (35-134) for usual care, and 75 days (34-155) for active control. In total 89%, 88% and 86% of the participants, respectively, achieved sustainable RTW. The adjusted hazard ratio (HR) for time to sustain-able RTW was 1.12 (95% CI 0.90-1.40) for MI compared to usual case management and HR 1.16 (95% CI 0.93-1.44) compared to the active control.Conclusions This study did not provide evidence that MI offered by NAV caseworkers to sick-listed individuals was more effective on RTW than usual case management or an active control. Providing MI in this context could be challenging as only half of the MI group received the intervention.",
+    "DOI": "10.5271/sjweh.4117",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized clinical trial, but it lacks a rigorous evaluation and does not meet the inclusion criteria for a quasi-experimental study with a control group.",
+            "study_design": "Randomized clinical trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on return to work (RTW) rather than broader employment or labor outcomes such as job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on motivational interviewing for sick leave, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Norway is not included)",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

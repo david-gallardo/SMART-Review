@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3210,
+    "Authors": "Xu, Feifei; Brodszky, Valentin",
+    "Article Title": "The impact of COVID-19 on health-related quality of life: a systematic review and evidence-based recommendations",
+    "Abstract": "ObjectiveThis systematic review examines the impact of COVID-19 on Health-Related Quality of Life (HRQoL) across different populations, focusing on demographic, socio-economic, and COVID-19-related factors.MethodsA comprehensive search of PubMed from 2020 to 2022 was conducted, identifying 37 studies that met the inclusion criteria. Studies were assessed using the Appraisal Tool for Cross-Sectional Studies, Newcastle-Ottawa Scale, and Consolidated Health Economic Evaluation Reporting Standards tools. Data extraction included study characteristics, HRQoL measures, and health state utility values.ResultsThirty-seven studies were conducted with a total of 46,709 individuals and 274 HSUVs ranging from 0.224 to 1. Research included Europe (n = 20), North America (n = 4), Asia (n = 11), South America (n = 1), and Africa (n = 1). Utility was measured using 15D (n = 3), EQ-5D-5L (n = 24), EQ-5D-3L (n = 8), VAS (n = 1), and TTO (n = 1). The review found significant decreases in HRQoL among COVID-19 survivors, particularly those with severe symptoms, due to persistent fatigue, breathlessness, and psychological distress. Quarantine and isolation measures also negatively impacted HRQoL, with increased anxiety and depression. Vaccination status influenced HRQoL, with vaccinated individuals reporting better outcomes. Socio-demographic factors such as age, gender, education, employment, marital status, and income significantly affected HRQoL, with older adults, females, and unemployed individuals experiencing lower HRQoL.ConclusionsCOVID-19 has profoundly affected HRQoL, highlighting the need for comprehensive post-recovery rehabilitation programs and targeted public health interventions. Addressing socio-demographic disparities is crucial to mitigate the pandemic's impact on HRQoL. Policymakers and healthcare providers should implement strategies to support affected populations, emphasizing mental health support, social support systems, and vaccination programs.",
+    "DOI": "10.1007/s44202-024-00204-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group and does not specifically address employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes and the population is not specifically people with mental health disorders. It examines the impact of COVID-19 on Health-Related Quality of Life across different populations.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on Health-Related Quality of Life (HRQoL) and does not meet the intervention criteria specified in the inclusion criteria, which require the study to focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

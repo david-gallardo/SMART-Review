@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3482,
+    "Authors": "Jetha, Arif; Gignac, Monique A. M.; Ibrahim, Selahadin; Ginis, Kathleen A. Martin",
+    "Article Title": "Disability and sex/gender intersections in unmet workplace support needs: Findings from a large Canadian survey of workers",
+    "Abstract": "Introduction Individual attributes including disability and sex/gender have the potential to intersect and determine the likelihood of unmet workplace support needs. Our study compares unmet workplace support needs between workers with and without a disability, and according to disability type and sex/gender differences.Methods Workers with (n = 901) and without (n = 895) a disability were surveyed to examine their need and use of workplace supports including job accommodations, work modifications and health benefits. A multivariable logistic model was conducted to examine the relationship between disability status, disability type and sex/gender and unmet workplace support needs. The model included interaction terms between sex/gender x physical disability, sex/gender x nonphysical disability, and sex/gender x physical and nonphysical disability.Results Among participants with a disability, 24% had a physical disability, 20% had a nonphysical disability (e.g., cognitive, mental/emotional or sensory disability) and 56% had both physical and nonphysical disability. Over half of the respondents were women (56%). Results from the multivariable model showed that nondisabled women were more likely to report unmet workplace support needs when compared to nondisabled men (odds ratio [OR] = 1.54, 95% confidence interval [CI], 1.13-2.10). Findings also showed an intersection between the number and type of disability and sex/gender; women with both a physical and nonphysical disability had the greatest likelihood of reporting unmet workplace support needs when compared to nondisabled men (OR = 2.73; 95% CI, 1.83-4.08).Conclusions Being a woman and having one or more disabilities can determine unmet workplace support needs. Strategies to address workplace support needs should consider the intersection between disability and sex/gender differences.",
+    "DOI": "10.1002/ajim.23203",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a multivariable logistic model with a control group (nondisabled men), and it meets the geographic scope (Canada), timeframe (2005-2025), intervention (workplace support needs), and population (workers with and without a disability) criteria.",
+            "study_design": "Multivariable logistic model",
+            "logprobs": "Not available"
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on unmet workplace support needs and the intersection of disability status, type of disability, and sex/gender.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or outcomes related to employment or labor results for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

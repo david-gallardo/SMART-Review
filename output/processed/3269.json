@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3269,
+    "Authors": "van der Velden, Peter G.; Setti, Ilaria; Bosmans, Mark W. G.; Muffels, Ruud J. A.",
+    "Article Title": "Potentially Traumatic Events and Job Satisfaction A Prospective Population-Based Comparative Study",
+    "Abstract": "Objective: The aim of this study was to examine the effects of potentially traumatic events (PTEs), posttraumatic stress symptoms (PTSS), and coping self-efficacy (CSE) on post-event job satisfaction. Methods: Repeated analysis of variance (ANOVA) was used to assess differences in the course of job satisfaction during 1 year between population-based samples of affected and nonaffected workers. Multivariate regression analyses were conducted with pre-event health, job satisfaction and insecurity, and post-event PTSS and CSE as predictors. Results: About 16% of the affected workers had probable PTSD. The course of job satisfaction between affected (n = 123) and nonaffected workers (n = 644) did not differ significantly. PTSS and CSE did not independently predict post-event satisfaction, in contrast to pre-event job satisfaction. Conclusion: Findings suggest that when needed social support is provided, concerns about the negative effects of potentially traumatic events on job satisfaction could be somewhat relaxed.",
+    "DOI": "10.1097/JOM.0000000000001237",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it only compares affected and nonaffected workers without a separate control group.",
+            "study_design": "Repeated analysis of variance (ANOVA)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the effects of potentially traumatic events on job satisfaction.",
+            "study_design": "Prospective population-based comparative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on potentially traumatic events and job satisfaction, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Repeated ANOVA and Multivariate regression analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3743,
+    "Authors": "Lin, Yanwei; Zhang, Qi; Chen, Wen; Ling, Li",
+    "Article Title": "The social income inequality, social integration and health status of internal migrants in China",
+    "Abstract": "Background: To examine the interaction between social income inequality, social integration, and health status among internal migrants (IMs) who migrate between regions in China.Methods: We used the data from the 2014 Internal Migrant Dynamic Monitoring Survey in China, which sampled 15,999 IMs in eight cities in China. The Gini coefficient at the city level was calculated to measure social income inequality and was categorized into low (0.2 < Gini <= 0.3), medium (0.3 < Gini <= 0.4), high (0.4 < x < = 0.5), and very high (Gini > 0.5). Health status was measured based upon self-reported health, subjective well-being, and perceptions of stress and mental health. Social integration was measured from four perspectives (acculturation and integration willingness, social insurance, economy, social communication). Linear mixed models were used to examine the interaction effects between health statuses, social integration, and the Gini coefficient.Results: Factors of social integration, such as economic integration and acculturation and integration willingness, were significantly related to health. Social income inequality had a negative relationship with the health status of IMs. For example, IMs in one city, Qingdao, with a medium income inequality level (Gini = 0.329), had the best health statuses and better social integration. On the other hand, IMs in another city, Shenzhen, who had a large income inequality (Gini = 0.447) were worst in health statues and had worse social integration.Conclusion: Policies or programs targeting IMs should support integration willingness, promote a sense of belonging, and improve economic equality. In the meantime, social activities to facilitate employment and create social trust should also be promoted. At the societal level, structural and policy changes are necessary to promote income equity to promote IMs' general health status.",
+    "DOI": "10.1186/s12939-017-0640-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on social income inequality, social integration, and health status among internal migrants in China.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on internal migrants in China and does not address employment policies for people with mental health disorders within the specified geographic scope (EU countries, Europe, US, Canada, Australia). The intervention and population criteria are also not met.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it is a systematic review or meta-analysis of controlled trials, RCTs, or quasi-experimental studies with a control group, which are required by the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in the specified geographic scope (China) and does not address any of the specified interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3374,
+    "Authors": "Houshmand, Sara; Spanierman, Lisa B.; De Stefano, Jack",
+    "Article Title": "I Have Strong Medicine, You See: Strategic Responses to Racial Microaggressions",
+    "Abstract": "In this qualitative study, the authors examined responses to racial microaggressions among community members in Montreal. Canada. To this end, using interpretative phenomenological analysis (IPA; Smith, Flowers, & Larkin, 2009) we conducted individual interviews with Black Canadian (n = 5) and Indigenous (n = 5) community members who pursued employment directly after secondary education. Seven themes emerged from the data (e.g., calling out perpetrators, empowering self and others, choosing to not engage, and using humor). Response strategies convey 4 primary features: (a) importance of social support in accessing resources and confronting racial microaggressions, (b) use of culturally grounded strategies as a form of resistance. (c) multifaceted use of humor to confront and to minimize racial microaggressions, and (d) intentional use of avoidance among women participants. Implications and directions for future research are discussed.",
+    "DOI": "10.1037/cou0000372",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (individual interviews) and lacks a control group, which does not meet the inclusion criteria.",
+            "study_design": "Qualitative study (individual interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (individual interviews) without a control group, does not address employment interventions for people with mental health disorders, and focuses on racial microaggressions rather than labor outcomes.",
+            "study_design": "Qualitative study using interpretative phenomenological analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on racial microaggressions and not on employment outcomes for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies, lacks a control group, and does not measure employment outcomes.",
+            "study_design": "Qualitative study using interpretative phenomenological analysis",
+            "logprobs": null
+        }
+    }
+}

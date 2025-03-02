@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2557,
+    "Authors": "Breetzke, Jonas; Wild, Eva-Maria",
+    "Article Title": "Social connections at work and mental health during the first wave of the COVID-19 pandemic: Evidence from employees in Germany",
+    "Abstract": "Empirical evidence on the social and psychological impact of the COVID-19 pandemic in the workplace and the resulting consequences for the mental health of employees is lacking. As a result, research on this subject is urgently needed to develop appropriate countermeasures. This study builds on Person-Environment fit theory to investigate social connections at work and mental health during the first wave of the COVID-19 pandemic. It analyses employees' needs for social connections and how social connections affect different mental health measures. Data were collected in May 2020 in an online survey of employees across Germany and analysed using response surface analysis. Mental health was measured as positive mental health and mental health disorders. Social connections were measured as social support and social interactions. 507 employees participated in the survey and more than one third reported having less social support and social interaction at work than they desired (p < .001). This was associated with a decrease in mental health. In contrast, having more than the desired amount of social support was associated with a decrease, and having more than the desired amount of social interaction with an increase, in mental health. This study provides important early evidence on the impact of the first wave of the COVID-19 pandemic in the workplace. With it, we aim to stimulate further research in the field and provide early evidence on the potential mental health consequences of social distancing-while also opening avenues to combat them.",
+    "DOI": "10.1371/journal.pone.0264602",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the social and psychological impact of the COVID-19 pandemic on employees' mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies and interventions. It focuses on the social connections at work and their impact on mental health during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

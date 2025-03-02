@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4012,
+    "Authors": "Do, Elizabeth K.; Cohen, Steven A.; Brown, Monique J.",
+    "Article Title": "Socioeconomic and demographic factors modify the association between informal caregiving and health in the Sandwich Generation",
+    "Abstract": "Background: Nearly 50 million Americans provide informal care to an older relative or friend. Many are members of the sandwich generation, providing care for elderly parents and children simultaneously. Although evidence suggests that the negative health consequences of caregiving are more severe for sandwiched caregivers, little is known about how these associations vary by sociodemographic factors.Methods: We abstracted data from the Behavioral Risk Factor Surveillance System to determine how the association between caregiving and health varies by sociodemographic factors, using ordinal logistic regression with interaction terms and stratification by number of children, income, and race/ethnicity.Results: The association between informal caregiving and health varied by membership in the sandwich generation, income, and race/ethnicity. This association was significant among subjects with one (OR = 1.13, 95% CI [1.04, 1.24]) and two or more children (OR = 1.17, 95% CI = 1.09, 1.26]), but not in those without children (OR = 1.01, 95% CI [0.97, 1.05]). Associations were strongest in those earning $50,000-$75,000 annually, but these income-dependent associations varied by race/ethnicity. In Whites with two or more children, the strongest associations between caregiving and health occurred in lower income individuals. These trends were not observed for Whites without children.Conclusions: Our findings suggest that the added burden of caregiving for both children and elderly relatives may be impacted by income and race/ethnicity. These differences should be considered when developing culturally appropriate interventions to improve caregiver health and maintain this vital component of the US health care system.",
+    "DOI": "10.1186/1471-2458-14-362",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between informal caregiving and health.",
+            "study_design": "Ordinal logistic regression with interaction terms and stratification",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on informal caregiving and its impact on health. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis using ordinal logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2555,
+    "Authors": "Cavazzoni, Federica; Pancake, Rachel; Veronese, Guido",
+    "Article Title": "Impact of COVID-19 Pandemic on Mental Health and Quality of Life. An Exploratory Study During the First Outbreak in Italy",
+    "Abstract": "The coronavirus pandemic has been sweeping the world for more than a year. As physical health begins to stabilize in the western world, an increasing concern is related to the impact of the virus and its containment measures on people's mental health. This work aimed to explore the effect of demographic factors (age, gender, level of education, and socioeconomic status) and variables such as fear of COVID-19 and social support in predicting the quality of life and mental health of adults during the first wave of the pandemic in Italy. Through an online survey with 1087 Italian adults (M = 39.7, SD = 16.39; 74.4% women), gender and socioeconomic status emerged as crucial factors in determining differences regarding people's responses and reactions to the pandemic. In addition, the results highlighted the importance of perceived social support and a moderate fear of COVID-19 in predicting people's quality of life and mental health. The study suggests important guidelines for the development of interventions to support the population's well-being and mental health.",
+    "DOI": "10.1177/00332941211066259",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of the COVID-19 pandemic on mental health and quality of life.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it lacks an intervention related to employment policies. It focuses on exploring demographic factors and variables such as fear of COVID-19 and social support in predicting quality of life and mental health during the first wave of the pandemic in Italy.",
+            "study_design": "Exploratory study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on mental health and quality of life, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies or outcomes related to employment.",
+            "study_design": "Exploratory study",
+            "logprobs": null
+        }
+    }
+}

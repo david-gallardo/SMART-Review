@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3204,
+    "Authors": "Degroote, Sophie; Vogelaers, Dirk; Vandijck, Dominique M",
+    "Article Title": "What determines health-related quality of life among people living with HIV: an updated review of the literature.",
+    "Abstract": "BACKGROUND: As infection with the Human Immunodeficiency Virus (HIV) has evolved to a chronic disease, perceived health-related quality of life (HRQoL) is becoming a prominent and important patient-reported outcome measure in HIV care. Literature discusses different factors influencing HRQoL in this population, however, currently no consensus exists about the main determinants. In this review a clear, up-to-date overview of the determinants influencing HRQOL among people living with HIV is provided.METHODS: All studies published before July 2013 that identified determinants of HRQoL among people living with HIV in high-income countries, were considered in this narrative review. PubMed, Web of Science and The Cochrane Library were consulted using the keywords 'determinants', 'quality of life', 'HIV' and 'AIDS'. To be included, studies should have reported overall health and/or physical/mental health scores on a validated instrument and performed multivariable regression analyses to identify determinants that independently influence perceived HRQoL.RESULTS: In total, 49 studies were included for further analysis and they used a variety of HRQoL instruments: Medical Outcomes Study Short Form-36 or variants, Medical Outcomes Study-HIV, HIV Cost and Services Utilization Study measure, Multidimensional Quality of Life Questionnaire, HIV targeted quality of life instrument, Functional Assessment of Human Immunodeficiency Virus Infection, HIV Overview of Problems Evaluation System, EuroQol, Fanning Quality of Life scale, Health Index and PROQOL-HIV. In this review, the discussed determinants were thematically divided into socio-demographic, clinical, psychological and behavioural factors. Employment, immunological status, presence of symptoms, depression, social support and adherence to antiretroviral therapy were most frequently and consistently reported to be associated with HRQoL among people living with HIV.CONCLUSIONS: HRQoL among people living with HIV is influenced by several determinants. These determinants independently, but simultaneously impact perceived HRQoL. Most HRQoL instruments do not capture all key determinants. We recommend that the choice for an instrument should depend on the purpose of the HRQoL assessment.",
+    "DOI": "10.1186/2049-3258-72-40",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a narrative review, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on health-related quality of life among people living with HIV. It also lacks a rigorous evaluation design as it is a narrative review without randomized controlled trials, quasi-experimental studies, or meta-analyses.",
+            "study_design": "Narrative Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on HIV-related quality of life, not employment outcomes for people with mental health disorders.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders and does not address employment outcomes.",
+            "study_design": "narrative review",
+            "logprobs": null
+        }
+    }
+}

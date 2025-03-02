@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3579,
+    "Authors": "Collins, Jennifer L.; Thomas, Laura J.; Vugrin, Margaret",
+    "Article Title": "Life is a highway: Driver's license acquisition and social determinants for youth in foster care and their non-foster care peers",
+    "Abstract": "Background: Data regarding the connection between driver licensure and social determinants for youth could provide insight into the impact of driver license acquisition. These relationships are important for youth overall and particularly for foster youth given that adolescents in foster care obtain driver's licenses less often than their non-foster care peers. This integrative review explores the association between driver licensure and social determinants.Methods: Whittemore and Knafl guidelines were used to conduct the integrative review. The articles were identified in collaboration with an expert in library science and public health. Results were organized by the Healthy People 2030 (HP 2030) Social Determinants of Health (SDOH) model.Results: Six studies were included. Social and community context included social support structures helping youth get driver's licenses. Economics, including income and education, influenced license acquisition. Driver license acquisition was associated with improved well-being, security, and mental health.Conclusion: While fewer of those living in urban, walkable neighborhoods with access to public transportation were licensed, results from other studies suggest that car access is associated with psychological well-being. Further, licensure is disproportionately lower for populations historically marginalized from equal housing, education, and employment opportunities. Licensure plays a role in well-being.",
+    "DOI": "10.1111/nuf.12517",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an integrative review, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the intervention (driver's license acquisition) is not related to active employment policies for people with mental health disorders.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Integrative review",
+            "logprobs": null
+        }
+    }
+}

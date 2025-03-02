@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2811,
+    "Authors": "Hofstad, Tore; Rugkasa, Jorun; Ose, Solveig Osborg; Nyttingnes, Olav; Kjus, Solveig Helene Hoymork; Husum, Tonje Lossius",
+    "Article Title": "Service Characteristics and Geographical Variation in Compulsory Hospitalisation: An Exploratory Random Effects Within-Between Analysis of Norwegian Municipalities, 2015-2018",
+    "Abstract": "Background: Compulsory hospitalisation in mental healthcare is contested. For ethical and legal reasons, it should only be used as a last resort. Geographical variation could indicate that some areas employ compulsory hospitalisation more frequently than is strictly necessary. Explaining variation in compulsory hospitalisation might contribute to reducing overuse, but research on associations with service characteristics remains patchy.Objectives: We aimed to investigate the associations between the levels of compulsory hospitalisation and the characteristics of primary mental health services in Norway between 2015 and 2018 and the amount of variance explained by groups of explanatory variables.Methods: We applied random-effects within-between Poisson regression of 461 municipalities/city districts, nested within 72 community mental health centre catchment areas (N = 1,828 municipality-years).Results: More general practitioners, mental health nurses, and the total labour-years in municipal mental health and addiction services per population are associated with lower levels of compulsory hospitalisations within the same areas, as measured by both persons (inpatients) and events (hospitalisations). Areas that, on average, have more general practitioners and public housing per population have lower levels of compulsory hospitalisation, while higher levels of compulsory hospitalisation are seen in areas with a longer history of supported employment and the systematic gathering of service users' experiences. In combination, all the variables, including the control variables, could account for 39-40% of the variation, with 5-6% related to municipal health services.Conclusion: Strengthening primary mental healthcare by increasing the number of general practitioners and mental health workers can reduce the use of compulsory hospitalisation and improve the quality of health services.",
+    "DOI": "10.3389/fpsyt.2021.737698",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a Poisson regression analysis, which is not explicitly mentioned as a controlled trial (RCT) or a systematic review. The study also lacks a clear control group.",
+            "study_design": "Random-effects within-between Poisson regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on compulsory hospitalization and service characteristics in Norway.",
+            "study_design": "Random-effects within-between Poisson regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on compulsory hospitalisation in mental healthcare, which does not directly address employment interventions for people with mental health disorders. The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

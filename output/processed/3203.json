@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3203,
+    "Authors": "Gordon, Kenneth B.",
+    "Article Title": "Impact of Psoriasis Therapy on Comorbid Conditions",
+    "Abstract": "Several conditions have been associated with psoriasis, including chronic kidney disease, Crohn's disease, depression, and cardiovascular disease. Psoriasis also negatively impacts patients' economic health in terms of employment and work productivity. Clinicians should be aware of these potential comorbidities and consider them when monitoring patients and choosing psoriasis therapy. Recent studies have evaluated if treating psoriasis can alleviate these comorbidities. (C) 2015 published by Frontline Medical Communications",
+    "DOI": "10.12788/j.sder.2015.0155",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not directly address employment or labor outcomes, and it does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Case series or observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of psoriasis therapy on comorbid conditions such as depression rather than interventions for people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psoriasis and its comorbidities, not on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Clinical study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly people with mental disorders; the intervention does not directly address employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

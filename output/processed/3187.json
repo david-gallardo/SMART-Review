@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3187,
+    "Authors": "Kutner, Nancy G.; Zhang, Rebecca",
+    "Article Title": "Ability to Work among Patients with ESKD: Relevance of Quality Care Metrics",
+    "Abstract": "Enabling patient ability to work was a key rationale for enacting the United States ( US) Medicare program that provides financial entitlement to renal replacement therapy for persons with end-stage kidney disease (ESKD). However, fewer than half of working-age individuals in the US report the ability to work after starting maintenance hemodialysis (HD). Quality improvement is a well-established objective in oversight of the dialysis program, but a more patient-centered quality assessment approach is increasingly advocated. The ESKD Quality Incentive Program (QIP) initiated in 2012 emphasizes clinical performance indicators, but a newly-added measure requires the monitoring of patient depression-an issue that is important for work ability and employment. We investigated depression scores and four dialysis-specific QIP measures in relation to work ability reported by a multi-clinic cohort of 528 working-age maintenance HD patients. The prevalence of elevated depression scores was substantially higher among patients who said they were not able to work, while only one of the four dialysis-specific clinical measures differed for patients able/not able to work. Ability to work may be among patients' top priorities. As the parameters of quality assessment continue to evolve, increased attention to patient priorities might facilitate work ability and employment outcomes.",
+    "DOI": "10.3390/healthcare5030042",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned. The study focuses on work ability and employment outcomes for patients with ESKD, but it does not directly address employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to active employment policies for people with mental health disorders. It focuses on work ability among patients with end-stage kidney disease and the impact of quality care metrics, specifically depression scores, on this ability.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on quality care metrics and depression scores related to work ability but does not evaluate specific employment interventions.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

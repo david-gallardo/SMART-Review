@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3064,
+    "Authors": "Hecht, Hannah K.; Nguyen, Angela-Maithy N.; Harley, Kim G.",
+    "Article Title": "Association of Maternity Leave Characteristics and Postpartum Depressive Symptoms among Women in New York",
+    "Abstract": "IntroductionThe United States is the only high-income country without a comprehensive national maternity leave policy guaranteeing paid, job-projected leave. The current study examined associations between maternity leave characteristics (duration of leave, payment status of leave) and postpartum depressive symptoms.MethodsThis study used a sample of 3,515 postpartum women from the New York City and New York State Pregnancy Risk Assessment Monitoring System (PRAMS) from 2016 to 2019. We used logistic regression to examine the association of leave duration and payment status with self-reported postpartum depressive symptoms between 2 and 6 months postpartum.ResultsCompared to having at least some paid leave, having unpaid leave was associated with an increased odds of postpartum depressive symptoms, adjusting for leave duration and selected covariates (adjusted odds ratio [aOR] = 1.41, 95% confidence interval [CI]: 1.04-1.93). There was no significant difference in postpartum depressive symptoms between those with partially and those with fully paid leave. In contrast to prior literature, leave duration was not significantly associated with postpartum depressive symptoms (aOR = 0.99, 95% CI: 0.97-1.02 for each additional week of leave).DiscussionThis study suggests that unpaid leave is associated with increased risk of postpartum depression, which can have long-term health effects for both mothers and children. Future studies can help to identify which communities could most benefit from paid leave and help to inform paid leave policies.What is already known on this subject?Postpartum depression can have long-term consequences for maternal and child health. Longer maternity leave duration and paid maternity leave have been linked with better maternal mental health, though more recent studies in the U.S. context are needed.What this study adds?This study is one of the few investigations of postpartum mental health to examine leave duration and paid leave individually and in combination. We found that mothers with unpaid leave were 40% more likely to experience depression than those with paid leave and that payment status was more important than leave duration.",
+    "DOI": "10.1007/s10995-024-03997-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, but rather focuses on postpartum depressive symptoms and maternity leave characteristics.",
+            "study_design": "logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the association between maternity leave characteristics and postpartum depressive symptoms.",
+            "study_design": "Cross-sectional survey using logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders but rather postpartum depressive symptoms.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

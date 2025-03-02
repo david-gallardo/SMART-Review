@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2379,
+    "Authors": "Caravan, Maureen; Gallo, William T.; Marshall, Gillian L.",
+    "Article Title": "The Moderating Effect of Social Support and Social Integration on the Relationship Between Involuntary Job Loss and Health",
+    "Abstract": "Background: Job loss is a stressful life event that is associated with changes in somatic, behavioral, and affective well-being. This cohort study investigates whether social support and social integration moderate the relationship between job loss and mental health. Methods: Data from four waves of the Americans' Changing Lives data set were collapsed into three wave-pairs. Our sample comprised 1,474 observations, from which we identified 120 job losses. We applied longitudinal regression models in benchmark moderation analysis; finite mixture modeling was then applied to investigate complex heterogeneity. Results: Our findings suggest that social support, and not social integration, buffered the involuntary job loss-depressive symptoms relationship among a subgroup of individuals who were more likely to be White, higher educated, and have higher social support prior to job loss. Conclusion: Policies that incentivize education, promote financial and health literacy, and strengthen families may reduce vulnerability to the mental health effects of job loss.",
+    "DOI": "10.1177/0733464820921082",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study, which lacks a control group.",
+            "study_design": "cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group and does not directly address employment interventions. It focuses on the moderating effect of social support and integration on the relationship between job loss and mental health.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

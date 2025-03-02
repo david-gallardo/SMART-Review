@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3368,
+    "Authors": "Scherrer, Jeffrey F.; Widner, Greg; Shroff, Manan; Matthieu, Monica; Balan, Sundari; van den Berk-Clark, Carissa; Price, Rumi K.",
+    "Article Title": "Assessment of a Postdeployment Yellow Ribbon Reintegration Program for National Guard Members and Supporters",
+    "Abstract": "The Yellow Ribbon Reintegration Program (YRRP) was created to meet the needs of National Guard members and their families throughout the deployment cycle. This study examined the perceived utility of the YRRP's delivery of information and assistance during the postdeployment reintegration period by National Guard members and accompanying supporters who were mostly spouses. Over 22 months, from 10 YRRP events, 683 service members and 411 supporters completed questionnaires immediately after the YRRP. We analyzed questions on information and avenues for help, timeliness and concerns related to education, employment, legal, family, and health. Service members and supporters most often endorsed information delivery on education being met (76.8% and 78.2%, respectively) and were least likely to endorse legal information delivery (63.5% and 60%, respectively). Significantly more supporters than service members (p < 0.0001) reported that the YRRP was the first time they learned of available services across all domains. Service members were significantly more likely than supporters to report concerns about education, employment, and health, while supporters were significantly more likely to report concerns about family. Results suggest the YRRP fills gaps in supporter knowledge and provides needed information and resources to most National Guard families 2 to 4 months after a deployment.",
+    "DOI": "10.7205/MILMED-D-14-00094",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is National Guard members and their families rather than people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the Yellow Ribbon Reintegration Program (YRRP) for National Guard members and their supporters, which is not directly related to employment interventions for people with mental health disorders. The study's population is National Guard members and their suppors, not specifically people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

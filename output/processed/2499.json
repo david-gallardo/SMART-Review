@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2499,
+    "Authors": "Williams, Evan",
+    "Article Title": "Unemployment, sanctions and mental health: the relationship between benefit sanctions and antidepressant prescribing",
+    "Abstract": "International social security systems increasingly place work-related conditions on individuals claiming out-of-work benefits, and enforce requirements through the use of benefit sanctions. The literature on the impacts of benefit sanctions considers both labour market and wider social effects, which this study contributes to through a focus on mental health. It considers the period of Coalition government (2010-15) in the UK, which imposed a comparatively high number of benefit sanctions and increased their severity through the Welfare Reform Act 2012. A longitudinal dataset is constructed using quarterly local authority-level data on Jobseeker's Allowance (JSA) sanctions and antidepressant prescriptions in England. Results from fixed effects analyses indicate that, in the post-reform period, every 10 additional sanctions are associated with 4.57 additional antidepressant prescribing items (95% CI: 2.14 to 6.99), which translates to approximately one additional person receiving treatment. Importantly, this finding indicates that sanctions are associated with both adverse mental health impacts and wider public expenditure implications, which motivates further investigation at the individual-level. In addition, punitive sanctions form a core part of the new Universal Credit (UC) and so the results suggest the need to reassess the use of sanctions within the contemporary social security system.",
+    "DOI": "10.1017/S0047279419000783",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a fixed effects analysis, but it lacks a control group.",
+            "study_design": "fixed effects analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the relationship between benefit sanctions and antidepressant prescribing, which is more related to social security policies rather than active employment policies.",
+            "study_design": "Cross-sectional analysis using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of benefit sanctions on antidepressant prescribing, which is not directly related to employment outcomes or interventions aimed at improving employment for people with mental health disorders. The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion.",
+            "study_design": "Longitudinal analysis using local authority-level data on Jobseeker'sincome and antidepressant prescriptions",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment services but rather focuses on benefit sanctions and their impact on mental health.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

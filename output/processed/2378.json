@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2378,
+    "Authors": "Maddy, Luther M., III; Cannon, John G.; Lichtenberger, Eric J.",
+    "Article Title": "The Effects of Social Support on Self-Esteem, Self-Efficacy, and Job Search Efficacy in the Unemployed",
+    "Abstract": "This study attempted to determine the effects of family and social support on the self-esteem, self-efficacy, and job search self-efficacy of the unemployed. A total of 117 surveys were collected in Nevada, Idaho, and Oregon measuring self-esteem, general self-efficacy, and job search self-efficacy and social support. Pearson correlation coefficients demonstrated moderately strong positive relationships between social support and self-esteem, general self-efficacy, and job search self-efficacy. Social and family support had a stronger influence on the self-perceptions of men than women.",
+    "DOI": "10.1002/joec.12007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on self-esteem, self-efficacy, and job search self-efficacy.",
+            "study_design": "Correlational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemploys and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Correlational Study",
+            "logprobs": null
+        }
+    }
+}

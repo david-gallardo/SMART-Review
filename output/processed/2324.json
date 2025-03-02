@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2324,
+    "Authors": "Mathieu, Sharna; Treloar, Alice; Hawgood, Jacinta; Ross, Victoria; Kolves, Kairi",
+    "Article Title": "The Role of Unemployment, Financial Hardship, and Economic Recession on Suicidal Behaviors and Interventions to Mitigate Their Impact: A Review",
+    "Abstract": "Understanding the social determinants and risk factors for suicidal behaviors underlies the development of effective suicide prevention interventions. This review focused on recently published literature (2010 onwards), with the aim to determine the role of economic factors (at the individual and population level) on suicidal behaviors and ideation as well as the effectiveness of interventions addressing these factors in reducing suicidal behaviors and ideation. Where available, literature examining the economic impact of COVID-19 was highlighted. Economic recession and unemployment are associated with increased risk of suicidal behavior at the population and individual level. Additionally, personal financial problems such as debt and financial strain are associated with increased risk of suicidal behavior and ideation at the individual level. Regarding interventions, unemployment benefits, employment protection legislation, higher minimum wage and active labor market programs may reduce suicide at the population level. However, it is not clear what impact they have at the individual level, nor in relation to suicide attempts, self-harm, or suicidal ideation. There was a lack of evidence as to the effectiveness of financially focused suicide prevention interventions at either level. Current findings were contextualized within, and advance, prominent social theoretical models. Recommendations focused on future areas of research, including the unfolding economic impact of COVID-19, as well as the co-design and evaluation of tailored interventions and/or gatekeeper training for those in the financial and welfare sector, and enhanced early education aimed at increasing financial literacy in young people before onset or exacerbation of financial hardship.",
+    "DOI": "10.3389/fpubh.2022.907052",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a review, but it lacks a control group and does not address employment outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on the role of economic factors (unemployment, financial hardship) in relation to suicidal behaviors. It lacks specific measures of employment outcomes.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the economic factors affecting suicidal behaviors and ideation, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

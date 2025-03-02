@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3384,
+    "Authors": "Minkkinen, Jaana; Oksanen, Atte; Nasi, Matti; Keipi, Teo; Kaakinen, Markus; Rasanen, Pekka",
+    "Article Title": "Does Social Belonging to Primary Groups Protect Young People From the Effects of Pro-Suicide Sites? A Comparative Study of Four Countries",
+    "Abstract": "Background: The Internet has facilitated the existence of extreme and pathological communities that share information about ways to complete suicide or to deliberately harm or hurt oneself. This material is user-generated and easily accessible. Aims: The present study analyzed the buffering effect of social belonging to a primary group in the situation of pro-suicide site exposure. Method: Cross-national data were collected from the US, UK, Germany, and Finland in spring 2013 and 2014 from respondents aged 15-30 years (N = 3,567). Data were analyzed by using linear regression separately for women and men for each country. Results: A higher level of belonging to a primary group buffered the negative association of pro-suicide site exposure with mental health, measured as happiness, although the results were not consistent in the subgroups. US male subjects showed a significant buffering effect of the sense of belonging to family while the belonging to friends had a buffering effect among four other subgroups: British female and male subjects and Finnish female and male subjects. Conclusion: The results underline the positive potential of primary groups to shield young people's mental health in the situation of pro-suicide site exposure.",
+    "DOI": "10.1027/0227-5910/a000356",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the buffering effect of social belonging to primary groups on mental health in the context of pro-suicide site exposure.",
+            "study_design": "Cross-national data analysis using linear regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the buffering effect of social belonging to primary groups in relation to exposure to pro-suicide sites.",
+            "study_design": "Cross-national survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-national comparative study using linear regression",
+            "logprobs": null
+        }
+    }
+}

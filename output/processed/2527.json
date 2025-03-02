@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2527,
+    "Authors": "Choi, Karmel W.; Smit, Jenni A.; Coleman, Jessica N.; Mosery, Nzwakie; Bangsberg, David R.; Safren, Steven A.; Psaros, Christina",
+    "Article Title": "Mapping a Syndemic of Psychosocial Risks During Pregnancy Using Network Analysis",
+    "Abstract": "BackgroundPsychosocial risks during pregnancy impact maternal health in resource-limited settings, and HIV-positive women often bear a heavy burden of these factors. This study sought to use network modeling to characterize co-occurring psychosocial risks to maternal and child health among at-risk pregnant women.MethodsTwo hundred pregnant HIV-positive women attending antenatal care in South Africa were enrolled. Measured risk factors included younger age, low income, low education, unemployment, unintended pregnancy, distress about pregnancy, antenatal depression, internalized HIV stigma, violence exposure, and lack of social support. Network analysis between risk factors was conducted in R using mixed graphical modeling. Centrality statistics were examined for each risk node in the network.ResultsIn the resulting network, unintended pregnancy was strongly tied to distress about pregnancy. Distress about pregnancy was most central in the network and was connected to antenatal depression and HIV stigma. Unintended pregnancy was also associated with lack of social support, which was itself linked to antenatal depression, HIV stigma, and low income. Finally, antenatal depression was connected to violence exposure.ConclusionsOur results characterize a network of psychosocial risks among pregnant HIV-positive women. Distress about pregnancy emerged as central to this network, suggesting that unintended pregnancy is particularly distressing in this population and may contribute to further risks to maternal health, such as depression. Prevention of unintended pregnancies and interventions for coping with unplanned pregnancies may be particularly useful where multiple risks intersect. Efforts addressing single risk factors should consider an integrated, multilevel approach to support women during pregnancy.Trial RegistrationClinicalTrials.gov identifier: NCT03069417",
+    "DOI": "10.1007/s12529-019-09774-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on psychosocial risks during pregnancy.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial risks during pregnancy in South Africa. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Observational study using network analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria and is not focused on the specified population or outcomes.",
+            "study_design": "Mixed-methods study with network analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

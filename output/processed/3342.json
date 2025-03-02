@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3342,
+    "Authors": "Woodward, Eva N.; Banks, Regina J.; Marks, Amy K.; Pantalone, David W.",
+    "Article Title": "Identifying Resilience Resources for HIV Prevention Among Sexual Minority Men: A Systematic Review",
+    "Abstract": "Most HIV prevention for sexual minority men and men who have sex with men targets risk behaviors (e.g., condom use) and helps < 50% of participants. Bolstering resilience might increase HIV prevention's effectiveness. This systematic review identified resilience resources (protective factors) in high-risk, HIV-negative, sexual minority men. We reviewed PsycINFO, PsycARTICLES, MEDLINE, references, and Listservs for studies including sexual minority men with 1+ HIV risk factor (syndemics): childhood sexual abuse, partner abuse, substance abuse, or mental health symptoms. From 1356 articles screened, 20 articles met inclusion criteria. Across the articles, we identified and codified 31 resilience resources: socioeconomic (e.g., employment), behavioral coping strategies (e.g., mental health treatment), cognitions/emotions (e.g., acceptance), and relationships. Resilience resources were generally associated with lower HIV risk; there were 18 low-risk associations, 4 high-risk associations, 8 non-significant associations). We generated a set of empirically based resilience variables and a hypothesis to be evaluated further to improve HIV prevention.",
+    "DOI": "10.1007/s10461-016-1608-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a systematic review, but the population and intervention are not related to employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on identifying resilience resources for HIV prevention among sexual minority men.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on HIV prevention in sexual minority men and does not meet the specified inclusion criteria for employment interventions for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health as the primary focus; it focuses on sexual minority men and HIV risk factors.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2932,
+    "Authors": "Folayan, Morenike Oluwatoyin; Zuniga, Roberto Ariel Abeldano; Virtanen, Jorma I.; Ezechi, Oliver C.; Aly, Nourhan M.; Lusher, Joanne; Nguyen, Annie L.; El Tantawi, Maha",
+    "Article Title": "Psychosocial Factors Associated with Memory Complaints during the First Wave of the COVID-19 Pandemic: A Multi-Country Survey",
+    "Abstract": "This study assessed the associations between psychosocial factors (social isolation, social support, financial support and emotional distress) and memory complaints during the COVID-19 pandemic. This was a secondary analysis of data extracted from the dataset of participants recruited from 151 countries for a COVID-19 related mental health and wellness study between June and December 2020. The dependent variable was memory complaint, measured using the Memory Complaint Questionnaire. The independent variables were perception of social isolation, social support, financial support, emotional distress and history of SARS-CoV-19 infection. Confounding variables were age, sex at birth, level of education, employment status, HIV status and country-income level. Multivariable logistic regression was used to determine the associations between the dependent and independent variables after adjusting for the confounders. Of the 14825 participants whose data was extracted, 2460 (16.6%) had memory complaints. Participants who felt socially isolated (AOR: 1.422; 95% CI: 1.286-1.571), emotionally distressed (AOR: 2.042; 95% CI: 1.850-2.253) and with history of SARS-CoV-19 infection (AOR: 1.369; 95% CI: 1.139-1.646) had significantly higher odds of memory complaints. Participants who perceived they had social and financial support had significantly lower odds of memory complaints (AOR: 0.655; 95% CI: 0.571-0.751). Future management of pandemics like the COVID-19 should promote access to social and financial support and reduce the risk of social isolation and emotional distress.",
+    "DOI": "10.3390/brainsci13020249",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the associations between psychosocial factors and memory complaints during the COVID-19 pandemic.",
+            "study_design": "Multivariable logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on psychosocial factors associated with memory complaints during the COVID-19 pandemic.",
+            "study_design": "Secondary analysis of a multi-country survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on psychosocial factors and memory complaints during the COVID-19 pandemic.",
+            "study_design": "secondary analysis of a survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

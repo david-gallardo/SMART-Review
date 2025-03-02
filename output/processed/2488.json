@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2488,
+    "Authors": "Mueser, Kim T.; Penn, David L.; Addington, Jean; Brunette, Mary F.; Gingerich, Susan; Glynn, Shirley M.; Lynde, David W.; Gottlieb, Jennifer D.; Meyer-Kalos, Piper; McGurk, Susan R.; Cather, Corinne; Saade, Sylvia; Robinson, Delbert G.; Schooler, Nina R.; Rosenheck, Robert A.; Kane, John M.",
+    "Article Title": "The NAVIGATE Program for First-Episode Psychosis: Rationale, Overview, and Description of Psychosocial Components",
+    "Abstract": "Comprehensive coordinated specialty care programs for first-episode psychosis have been widely implemented in other countries but not in the United States. The National Institute of Mental Health's Recovery After an Initial Schizophrenia Episode (RAISE) initiative focused on the development and evaluation of first-episode treatment programs designed for the U.S. health care system. This article describes the background, rationale, and nature of the intervention developed by the RAISE Early Treatment Program project-known as the NAVIGATE program-with a particular focus on its psychosocial components. NAVIGATE is a team-based, multicomponent treatment program designed to be implemented in routine mental health treatment settings and aimed at guiding people with a first episode of psychosis (and their families) toward psychological and functional health. The core services provided in the NAVIGATE program include the family education program (FEP), individual resiliency training (IRT), supported employment and education (SEE), and individualized medication treatment. NAVIGATE embraces a shared decision-making approach with a focus on strengths and resiliency and on collaboration with clients and family members in treatment planning and reviews. The NAVIGATE program has the potential to fill an important gap in the U.S. health care system by providing a comprehensive intervention specially designed to meet the unique treatment needs of persons recovering from a first episode of psychosis. A clusterrandomized controlled trial comparing NAVIGATE with usual community care has recently been completed.",
+    "DOI": "10.1176/appi.ps.201400413",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive article, lacks a control group, and does not meet the inclusion criteria for a systematic review or meta-analysis.",
+            "study_design": "Descriptive article",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It describes the background and rationale of the NAVIGATE program but does not present outcomes related to employment or labor results.",
+            "study_design": "Description article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT (cluster randomized controlled trial) focusing on supported employment for people with mental health disorders in the US.",
+            "study_design": "Cluster Randomized Controlled Trial",
+            "logprobs": null
+        }
+    }
+}

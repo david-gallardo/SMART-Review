@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3229,
+    "Authors": "Xiao, Yi; Sharma, Harshit; Zhang, Zhongyang; Bergen-Cico, Dessa; Rahman, Tauhidur; Salekin, Asif",
+    "Article Title": "Reading Between the Heat: Co-Teaching Body Thermal Signatures for Non-intrusive Stress Detection",
+    "Abstract": "Stress impacts our physical and mental health as well as our social life. A passive and contactless indoor stress monitoring system can unlock numerous important applications such asworkplace productivity assessment, smart homes, and personalized mental health monitoring. While the thermal signatures from a user's body captured by a thermal camera can provide important information about the fight-flight response of the sympathetic and parasympathetic nervous system, relying solely on thermal imaging for training a stress prediction model often lead to overfitting and consequently a suboptimal performance. This paper addresses this challenge by introducing ThermaStrain, a novel co-teaching framework that achieves high-stress prediction performance by transferring knowledge from the wearable modality to the contactless thermal modality. During training, ThermaStrain incorporates a wearable electrodermal activity (EDA) sensor to generate stress-indicative representations from thermal videos, emulating stress-indicative representations from a wearable EDA sensor. During testing, only thermal sensing is used, and stress-indicative patterns from thermal data and emulated EDA representations are extracted to improve stress assessment. The study collected a comprehensive dataset with thermal video and EDA data under various stress conditions and distances. ThermaStrain achieves an F1 score of 0.8293 in binary stress classification, outperforming the thermal-only baseline approach by over 9%. Extensive evaluations highlight ThermaStrain's effectiveness in recognizing stress-indicative attributes, its adaptability across distances and stress scenarios, real-time executability on edge platforms, its applicability to multi-individual sensing, ability to function on limited visibility and unfamiliar conditions, and the advantages of its co-teaching approach. These evaluations validate ThermaStrain's fidelity and its potential for enhancing stress assessment.",
+    "DOI": "10.1145/3631441",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and instead focuses on stress detection and thermal signatures.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on developing a co-teaching framework for non-intrusive stress detection using thermal signatures and EDA.",
+            "study_design": "Other (novel algorithmic approach)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on stress detection using thermal imaging and EDA sensors, which is not directly related to employment or labor outcomes for people with mental health disorders. The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. The geographic scope, intervention, and population are also not aligned with the specified inclusion criteria.",
+            "study_design": "Not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to mental health.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

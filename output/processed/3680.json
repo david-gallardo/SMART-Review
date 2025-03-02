@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3680,
+    "Authors": "Alkan, Omer; Kavalci, Kubra",
+    "Article Title": "Gender Differences in Happiness During COVID-19 Pandemic: Evidence from T\u00fcrkiye",
+    "Abstract": "Objective: Mental health is seen as the most basic condition for a good quality of life. Those with a high level of happiness are believed to be healthier and more successful in interpersonal relationships. This study aims to determine the factors associated with the happiness levels of women and men in Turkiye during the COVID-19 pandemic.Methods: In this study, the microdata set obtained from the Life Satisfaction Survey conducted by TURKSTAT in 2020 was utilized. Using generalized ordered logistic regression analysis, the factors associated with the happiness levels of men and women were determined.Results: According to the study's findings, factors such as age, marital status, level of education, source of happiness (individual), general satisfaction level, level of satisfaction with health, and level of hope for the future are related to the happiness levels of women and men. In the study, it was determined that the importance and effect of the variables vary according to the happiness levels of men and women. It was revealed that employment status and household income were solely associated with the probability of being very happy/happy among men. It was determined that the happiness source (what) and household size variables were only associated with the probability of women being very happy/happy.Conclusion: During the COVID-19 pandemic, it may be advantageous to implement initiatives that increase the level of happiness for men and women, strengthen emotional support, and provide better health care.",
+    "DOI": "10.5455/PBS.20230512053548",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on happiness levels and factors associated with it.",
+            "study_design": "Generalized ordered logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (T\u00fcrkiye is not in EU, Europe, US, Canada, or Australia) and its intervention does not directly address employment.",
+            "study_design": "Cross-sectional survey using generalized ordered logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on happiness levels during the COVID-19 pandemic and does not specifically address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (T\u00fcrkiye) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

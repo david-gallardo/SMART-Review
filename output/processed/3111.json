@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3111,
+    "Authors": "Aaltonen, Mikko; Pitkanen, Joonas; Tyni, Sasu; Martikainen, Pekka",
+    "Article Title": "The changing socioeconomic composition of the Finnish prison population",
+    "Abstract": "BACKGROUND Although prison inmates are known to be disadvantaged in multiple ways, we know less about changes in the socioeconomic backgrounds of prisoners over time. We examine these changes in a period characterized by a decreasing prisoner rate, the introduction of community service, and strong macroeconomic fluctuations. OBJECTIVE We analyze changes in the socioeconomic backgrounds of individuals imprisoned between 1988-2019. We provide comparisons with community sanctions and the non- convicted general population, and examine the same developments in subgroups of the imprisoned. METHOD Using total population register data, we examine annual changes across different groups in the measures of employment, receipt of social assistance, income, and education. RESULTS Our results show that the employment rates of individuals sent to prison declined heavily during the economic depression of the 1990s and have sunk to much lower levels since. This development is partly explained by some short-term prisoners being diverted to community service. The results are largely similar to other measures of socioeconomic status and different subgroups; the declining educational level of recidivist offenders especially stands out. CONCLUSIONS The Finnish prison population has grown increasingly detached from the labor market and generally more disadvantaged over time. CONTRIBUTION We provide new evidence on changes in the socioeconomic composition of the Finnish prison population. These results are important for prison policy and rehabilitation efforts that seek to improve prisoners' employability.",
+    "DOI": "10.4054/DemRes.2024.51.27",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the socioeconomic composition of the Finnish prison population, which does not meet the inclusion criteria.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the socioeconomic composition of the Finnish prison population over time.",
+            "study_design": "Descriptive analysis using total population register data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

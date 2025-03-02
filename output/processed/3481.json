@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3481,
+    "Authors": "Zuilkowski, Stephanie Simmons; Quinones, Sarah; Kihanzah, Hassan; Marwerwe, Graca; Prencipe, Leah; Kajula, Lusajo; Palermo, Tia",
+    "Article Title": "Economic vulnerabilities, mental health, and coping strategies among Tanzanian youth during COVID-19",
+    "Abstract": "BackgroundThe COVID-19 pandemic has exacerbated struggles for youth living in poor households. Youth in rural Tanzania are particularly vulnerable given widespread poverty, lack of formal sector employment opportunities, and health risks. We examine influences of the pandemic on economic insecurity and mental health and explore the coping strategies employed by youth and their households.MethodsWe conducted mixed-method data collection with youth (N = 760 quantitative and N = 44 qualitative interviews) and households (n = 542) via mobile phone among a sub-set of a cohort from an on-going longitudinal sample in two rural regions in Tanzania. In addition to phone interviews, we collected data bi-weekly via SMS messaging. We present mixed-methods, descriptive analysis of the outcomes and longitudinally compare quantitative outcomes pre- and post-COVID-19, within the same individuals.ResultsAdverse economic impacts were most salient, and to cope, youth engaged in more labor and domestic chores. Compared to prior the COVID-19 pandemic, youth reported spending more time caring for elderly or sick household members and gathering firewood or nuts.ConclusionsThese findings underscore the potential opportunity to promote policies and programs which address risks youth face. Recommended measures include expansion and adaptation of social protection policies, strengthened food and nutrition surveillance and referral systems, and scaling up community-based mental health programming.",
+    "DOI": "10.1186/s12889-024-18074-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a mixed-methods study with a descriptive analysis.",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (Tanzania is not in EU, Europe, US, Canada, or Australia). Additionally, the intervention and population do not align with the defined criteria.",
+            "study_design": "Mixed-methods survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on the EU, Europe, US, Canada, or Australia, and it does not meet the intervention criteria as it does not directly address employment. The study also does not focus on people with mental health disorders but rather on the general population in Tanzania.",
+            "study_design": "Mixed-method data collection with youth and households",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Tanzania).",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        }
+    }
+}

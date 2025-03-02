@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3632,
+    "Authors": "Sandstrom, Glenn; Stanfors, Maria",
+    "Article Title": "Socio-economic status and the rise of divorce in Sweden: The case of the 1880-1954 marriage cohorts in Vasterbotten",
+    "Abstract": "An established negative association between socio-economic status (SES) and divorce has applied to most Western nations since 1960. We expected a positive association between SES and divorce for low-divorce contexts historically because only individuals in higher social strata had the resources to overcome barriers to divorce. According to Goode's socio-economic growth theory, this relationship was reversed as industrialization and modernization began removing the economic and normative barriers. Making use of longitudinal data from parish registers, we investigated SES and other micro-level determinants of divorce among men and women in northern Sweden who married between 1880 and 1954. Results indicated a positive association between SES and divorce among those who married 1880-1919, with the middle class, not the elite, featuring the highest divorce risks. This association changed for couples who married in the 1920s, for whom divorce became more common and the working class faced similar divorce risks to the higher social strata.",
+    "DOI": "10.1080/00324728.2022.2149844",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on socio-economic status and divorce in Sweden.",
+            "study_design": "Correlational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on socio-economic status and divorce rates in Sweden.",
+            "study_design": "Cross-sectional analysis using longitudinal data from parish registers",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the association between socio-economic status and divorce in Sweden, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal study using parish registers",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not include relevant outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

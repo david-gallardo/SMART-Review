@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2603,
+    "Authors": "Beksinska, Alicja; Shah, Pooja; Kungu, Mary; Kabuti, Rhoda; Babu, Hellen; Jama, Zaina; Panneh, Mamtuti; Nyariki, Emily; Nyabuto, Chrispo; Okumu, Monica; Ngurukiri, Pauline; Irungu, Erastus; Kaul, Rupert; Seeley, Janet; Gafos, Mitzy; Beattie, Tara S.; Weiss, Helen A.; Kimani, Joshua",
+    "Article Title": "Longitudinal experiences and risk factors for common mental health problems and suicidal behaviours among female sex workers in Nairobi, Kenya",
+    "Abstract": "Background. Female sex workers (FSWs) are at high risk of mental health problems and suicide risk. Few longitudinal studies have examined risk factors for poor mental health among FSWs.Methods. Maisha Fiti is a longitudinal study among FSWs randomly selected from Sex Worker Outreach Programme clinics across Nairobi. Behavioural-biological survey data were collected at baseline (n = 1003, June-December 2019), midline (n = 366) (Jan-March 2020) and endline (n = 877) (June 2020-Jan 2021). Women reporting mental health problems were offered counselling services. Multivariable mixed logistic regression models were used to examine factors associated with mental health problems and suicidal behaviours.Results. There was a decline in the proportion of women reporting any mental health problem (depression and/or anxiety and/or PTSD) (baseline: 29.9%, midline: 13.3%, endline: 11.8%). There was strong evidence that any mental health problem was associated with recent hunger (aOR 1.99; 95% CI 1.37-2.88) and recent violence from non-intimate partners (2.23; 95% CI 1.55-3.19). Recent suicidal behaviour prevalence was similar across survey rounds (baseline: 10.2%; midline: 10.2%; endline: 10.4%), and was associated with recent violence from non-intimate partners (aOR 1.96; 95% CI 1.31-2.95), recent hunger (aOR 1.69; 95% CI 1.15-2.47) and having an additional employment to sex work (aOR 1.50; 95% CI 1.00-2.23).Conclusions. Our study found a decline in mental health problems but high levels of persistent suicidal behaviours among FSWs. Syndemic risk factors including food insecurity and violence were longitudinally associated with mental health problems and recent suicidal behaviours. There is a need for accessible mental health services for FSWs, alongside structural interventions addressing poverty and violence.",
+    "DOI": "10.1017/gmh.2022.44",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Longitudinal study with a control group (counselling services offered to women reporting mental health problems)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on mental health problems and suicidal behaviors among female sex workers in Kenya.",
+            "study_design": "Longitudinal study with mixed logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on female sex workers (FSWs) in Nairobi, Kenya, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (Kenya is not in EU, Europe, US, Canada, Australia).",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

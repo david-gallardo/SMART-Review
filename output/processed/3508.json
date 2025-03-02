@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3508,
+    "Authors": "McGregor, Alisha; Ashbury, Fred; Caputi, Peter; Iverson, Donald",
+    "Article Title": "A Preliminary Investigation of Health and Work-Environment Factors on Presenteeism in the Workplace",
+    "Abstract": "Objective: This study investigates the health and work-environment factors that are associated with presenteeism. Method: A self-report survey that measured presenteeism, 13 health conditions (eg, stress and allergies), and nine work-environment factors (eg, job strain and leadership) was completed by 229 workers. Results: The most common health condition was stress, while the most common work-environment factor was job strain. Allergies, asthma, and high blood pressure along with work-life imbalance, poor leadership, and a lack of development opportunities were associated with presenteeism. Finally, several inter-relationships between the health and work-environment factors were also reported. Conclusion: Interventions targeted at the points of intersection among the health conditions and work-environment factors could be a cost-effective way to improve employees' overall well-being at work, and thus reduce presenteeism.",
+    "DOI": "10.1097/JOM.0000000000001480",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates presenteeism, a phenomenon related to mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is a self-report survey without a randomized controlled trial or quasi-experimental setup.",
+            "study_design": "Self-report survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on presenteeism, not employment outcomes, and does not meet the specified intervention criteria.",
+            "study_design": "self-report survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

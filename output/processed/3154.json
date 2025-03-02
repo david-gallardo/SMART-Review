@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3154,
+    "Authors": "Rosenthal, Samantha R.; Zhou, Jiachen; Booth, Spencer T.",
+    "Article Title": "Association between mobile phone screen time and depressive symptoms among college students: A threshold effect",
+    "Abstract": "College students today suffer more than ever from depressive symptoms. This web-based survey collected both subjective self-reported and objectively measured mobile screen time from smartphones' screen time reporting feature from 426 and 175 college students, respectively. Depressive symptoms were measured by the 10-item Center for Epidemiologic Studies Short Depression Scale. Logistic regression models were used to estimate odds ratios (OR) and 95% confidence intervals (95% CI), adjusting for gender, race/ethnicity, age, employment, first-generation student status, sexual orientation, social support, and social ladder. Compared to those with 3.05 or fewer hours of objectively measured daily mobile screen time, those with 3.10-5.68 hr did not have increased odds of depressive symptoms, while those with more than 5.72 hr had significantly higher odds, (OR: 3.49, 95% CI: 1.24-9.86). Restricted cubic spline of the association between objectively measured daily mobile screen time and depressive symptoms further confirms the threshold effect-the probability of depressive symptoms holds relatively steady until about 5 hr of daily mobile screen time and then shows a sharp rise. Findings suggest a nonlinear relationship between mobile screen time and depressive symptoms which, despite a moderate positive correlation between self-reported and objectively measured average daily mobile screen time (r = .51, p < .001), has not be captured using self-reported mobile screen time. Future studies should objectively measure mobile screen time and college students at risk for depressive symptoms should consider limiting their mobile screen time to about 5 hr per day.",
+    "DOI": "10.1002/hbe2.256",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between mobile phone screen time and depressive symptoms among college students.",
+            "study_design": "Cross-sectional survey with logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is college students, which does not meet the criteria for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on depressive symptoms and mobile screen time, not employment or labor outcomes for people with mental health disorders.",
+            "study_design": "web-based survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

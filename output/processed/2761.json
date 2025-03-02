@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2761,
+    "Authors": "Paver, Rachele; De Witte, Hans; Rothmann, Sebastiaan; Van den Broeck, Anja; Blonk, Roland Willem Bart",
+    "Article Title": "The Implementation and Evaluation of the South African Adaptation of the JOBS Program",
+    "Abstract": "No validated intervention that specifically addresses the psychosocial needs of unemployed people exists in the South African context. This study intends to evaluate an evidence-based job-search program, called the JOBS intervention, that is aimed at the self-efficacy, amotivation, and self-esteem related to participants searching for jobs. A quasi-experimental research design was used. Convenient samples were taken of unemployed individuals from two low-income communities (N= 130; experimental group = 69; control group = 61). The Qhubekela Phambili program, which is based on the JOBS program, was adapted for the South African context and was implemented over six 4-h sessions. Data collection took place pre- and post-intervention. One-way repeated measures multivariate analysis of variance was used to analyze the data. Those who had undergone the intervention showed statistically significantly higher levels of job-search self-efficacy and self-esteem. This study makes a novel contribution to the literature on the JOBS program, particularly regarding developing countries. This study showed that in a context characterized by poverty and a lack of support for the unemployed, the program also delivered promising results. It confirms previous findings that the JOBS program is suitable in a variety of labor market and economic conditions.",
+    "DOI": "10.3389/fpsyg.2020.01418",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is quasi-experimental with a control group, meeting the inclusion criteria for study design. The study is set in the EU (South Africa) within the specified timeframe (2005-2025), and it addresses employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental research design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside EU, Europe, US, Canada, or Australia (South Africa).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Africa).",
+            "study_design": null,
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not within the specified geographic scope (outside the EU, Europe, US, Canada, or Australia).",
+            "study_design": "quasi-experimental research design",
+            "logprobs": null
+        }
+    }
+}

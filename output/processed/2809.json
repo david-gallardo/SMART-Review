@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2809,
+    "Authors": "Glauber, Rebecca; Day, Melissa D.",
+    "Article Title": "Gender, Spousal Caregiving, and Depression: Does Paid Work Matter?",
+    "Abstract": "Studies have shown that spousal caregiving leads to psychological distress, but few have analyzed the moderating effect of paid work. Using the 2000 to 2012 Health and Retirement Study and two-stage least squares regression models, this study found that caregiving increased women's and men's depressive symptoms. Ordinary least squares models showed that caregiving had more adverse effects on women's mental health than on men's, but these differences were eliminated in two-stage least squares models that accounted for the bidirectional effects of depression and caregiving. The current study also found that for women, part-time work attenuated the depressive effect of spousal caregiving, whereas for men, part-time work exacerbated it. These gender differences persisted even for intensive spousal caregivers. The authors suggest that caregiving women who work part-time may benefit from work-related resources. Caregiving men who work part-time, however, may feel distressed, as their work-family experiences conflict with traditional gender norms.",
+    "DOI": "10.1111/jomf.12446",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the moderating effect of paid work on depression.",
+            "study_design": "Two-stage least squares regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the effects of spousal caregiving on depression and how part-time work moderates these effects, without addressing job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis using regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of spousal caregiving on depression in the context of gender roles.",
+            "study_design": "Observational study using two-stage least squares regression models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental (two-stage least squares regression models)",
+            "logprobs": null
+        }
+    }
+}

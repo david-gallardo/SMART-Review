@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2605,
+    "Authors": "Turgoose, David; Murphy, Dominic",
+    "Article Title": "Anger and Aggression in UK Treatment-Seeking Veterans with PTSD",
+    "Abstract": "Prevalence rates of anger and aggression are often higher in military personnel. Therefore, it is important to understand more about why this is, and the factors with which it is associated. Despite this, there is little evidence relating to anger and aggression in UK veterans who are seeking treatment for mental health difficulties such as post-traumatic stress disorder (PTSD). This study investigated the prevalence rates of anger and aggression in this population, as well as the associations between anger and aggression, and various sociodemographic, functioning and mental health variables. A cross-sectional design was used, with participants completing a battery of self-report questionnaires. Prevalence rates for significant anger and aggression were 74% and 28% respectively. Both women and those over 55 were less likely to report difficulties. Those with high levels of PTSD and other mental health difficulties were more likely to report anger and aggression. Other factors related to anger and aggression included unemployment due to ill health, and a perceived lack of family support. Findings showed that veterans who are seeking support for mental health are likely to be experiencing significant difficulties with anger and aggression, especially if they have comorbid mental health difficulties. The associations between anger, aggression, and other variables, has implications for the assessment and treatment of military veterans.",
+    "DOI": "10.3390/healthcare6030086",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on anger and aggression in UK treatment-seeking veterans with PTSD.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes, and it does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        }
+    }
+}

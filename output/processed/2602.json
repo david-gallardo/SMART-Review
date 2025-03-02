@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2602,
+    "Authors": "McDowell, Michal J.; Hughto, Jaclyn M. White; Reisner, Sari L.",
+    "Article Title": "Risk and protective factors for mental health morbidity in a community sample of female-to-male trans-masculine adults",
+    "Abstract": "BackgroundTrans-masculine (TM) individuals, who are assigned female sex at birth and identify along the masculine gender spectrum, face mental health disparities relative to cisgender people. Limited research has sought to explore the multi-level risk and protective factors associated with mental health morbidity for TM populations.MethodsBetween August 2015-September 2016, 150 TM adults were enrolled in a one-time biobehavioral health study. A survey assessed socio-demographics, past 12-month everyday discrimination, lifetime intimate partner violence (IPV), resilience (using the Brief Resilience Scale), and other factors. Bivariate and multivariable logistic regression analyses examined associations between participant characteristics and four mental health statuses: post-traumatic stress disorder (PTSD), depression, anxiety, and non-suicidal self-injury (NSSI).ResultsIn this sample (76.7% had a binary gender identity, i.e., man or transgender man; 74.7% were white, 70.0% were under age 30years), 42.2% had PTSD based on past 30-day symptoms; 25.7% had depression based on past 7-day symptoms; 31.1% had anxiety based on past 7-day symptoms; and 31.3% had engaged in NSSI within the past 12-months. Results from multivariable models: 1) PTSD: unemployment, lifetime IPV and past 12-month discrimination were each associated with increased odds of PTSD, while having a partner was associated with the reduced odds of PTSD. 2) Depression: lower educational attainment and past 12-month discrimination were each associated with the increased odds of depression, while greater resilience was associated with the reduced odds of depression. 3) Anxiety: low annual household income and past 12-month discrimination were each associated with the increased odds of anxiety, while resilience was associated with the reduced odds of anxiety. 4) NSSI: past 12-month discrimination was associated with the increased odds of past 12-month NSSI, while higher age and greater resilience was associated with the reduced odds of NSSI (all p-values <0.05).ConclusionsUnemployment, low income, limited education, everyday discrimination, and violence were risk factors for poor mental health, while being in a relationship, higher age, and personal resilience were protective against mental health morbidity. Findings highlight the need for interventions to address the individual, interpersonal, and societal factors that may be driving poor mental health in this population.",
+    "DOI": "10.1186/s12888-018-2008-0",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines the risk and protective factors for mental health morbidity in a community sample of female-to-male trans-masculine adults.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not include any of the specified interventions (job search services, adult training, wage subsidies, supported employment). It focuses on risk and protective factors for mental health morbidity in a specific population.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria for intervention, population, and outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2720,
+    "Authors": "Taylor, Mischa; Hilario, Carla T.; Ben-David, Shelly; Dimitropoulos, Gina",
+    "Article Title": "A Social Determinants Perspective on Adolescent Mental Health during the COVID-19 Pandemic",
+    "Abstract": "As a framework for understanding the structural factors that affect health, the social determinants of health (SDoH) have particular significance during the developmental stage of adolescence. When the global coronavirus pandemic (COVID-19) began, public health measures (PHMs) implemented to curb its spread shifted adolescents' daily lives and routines, initiating changes to their mental health. The purpose of this study was to apply the SDoH to investigating the impacts of the pandemic-related PHMs on the mental health of adolescents in Canada. Using a youth engagement approach, interviews were conducted with 33 adolescents aged 14-19 years from two sites in Alberta, Canada. Participants shared their experiences of adjusting to the PHMs and how these shaped their mental health. Findings indicate that PHMs particularly affected the social determinants of education, access to health services, employment and income security, and social support amongst adolescents as online schooling, loss of connection with peers, income instability, and limited health services affected their mental health. Most commonly, adolescents expressed feeling greater anxiety, depression, or loneliness as the SDoH shifted with the PHMs. As we continue to understand the mental health impacts of the pandemic, the SDoH framework can be used to identify salient social determinants and evaluate these determinants post-pandemic. This study draws attention to the need for policies and programs that protect access to key SDoH at such a critical life stage as adolescence and promote their mental health resilience in shifting SDoH contexts.",
+    "DOI": "10.3390/covid4100108",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impacts of the pandemic-related public health measures on the mental health of adolescents in Canada.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental disorders and lacks a rigorous evaluation design.",
+            "study_design": "Qualitative research (interviews)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adolescents' mental health during the COVID-19 pandemic and does not meet the specified inclusion criteria for the research on active employment policies for people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2777,
+    "Authors": "Afifi, Tamara; Davis, Sharde; Merrill, Anne F.; Coveleski, Samantha; Denes, Amanda; Afifi, Walid",
+    "Article Title": "In the Wake of the Great Recession: Economic Uncertainty, Communication, and Biological Stress Responses in Families",
+    "Abstract": "The impact of spouses' communication about economic uncertainty on biological stress responses was examined. The sample included 82 Latino and Caucasian couples and one of their adolescents. Wives with low economic uncertainty experienced the greatest cortisol increase to a stressful discussion with their spouse, while wives with high economic uncertainty experienced a blunted cortisol response. Husbands with high economic uncertainty exhibited a low, unresponsive cortisol pattern. Wives who experienced elevated cortisol used more corumination and had low community support. The amount parents talked about their financial worries to their adolescent was not associated with the adolescent's mental health or biosocial markers, but the parents' economic uncertainty and corumination with each other were negatively associated with their own mental health.",
+    "DOI": "10.1111/hcre.12048",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of economic uncertainty on biological stress responses in families.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions for people with mental disorders and does not measure employment outcomes.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

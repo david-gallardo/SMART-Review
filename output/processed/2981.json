@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2981,
+    "Authors": "Greeson, Johanna K. P.; Garcia, Antonio R.; Kim, Minseop; Thompson, Allison E.; Courtney, Mark E.",
+    "Article Title": "Development & maintenance of social support among aged out foster youth who received independent living services: Results from the Multi-Site Evaluation of Foster Youth Programs",
+    "Abstract": "This study uses secondary data from the Multi-Site Evaluation of Foster Youth Programs, a randomized controlled trial of four independent living programs for youth in foster care. The subject of this investigation is the Life Skills Training Program (LST) of Los Angeles County, CA. We had three interrelated aims: (1) Evaluate the effectiveness of the LST program as compared to services as usual on the change in social support over time; (2) Examine the differences over time in social support by race and ethnicity among LST participants; and (3) Investigate the explanatory value of prosocial activities, educational involvement, current living arrangement, employment, victimization experiences, placement instability, and behavioral health symptomology on changes in social support over time among LST participants. We employed multilevel longitudinal modeling to estimate growth in social support over three time points (baseline, first follow-up, and second follow-up) among 482 youth (n = 234 LST; n = 248 control). We found a significant reduction in social support across the three time points. But, there was no difference in the social support trajectory between the LST and control groups. In addition, no racial/ethnic difference in the social support trajectory was detected. Results underscore the need to critically examine how independent living programming is intended to increase social support and whether modifying these practices can improve promotion and maintenance of social support for youth who age out of foster care. (C) 2015 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.childyouth.2015.03.016",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it focuses on Life Skills Training Program (LST) of Los Angeles County, CA, which is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is aged out foster youth who received independent living services. It focuses on social support rather than employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on foster youth, not specifically on people with mental health disorders. Additionally, the intervention is not directly related to employment policies.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

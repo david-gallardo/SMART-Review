@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3928,
+    "Authors": "Adjobimey, Menonli; Hinson, Vikkey; Mikponhoue, Rose; Hountohotegbe, Esdras; Klikpo, Elvyre; Cisse, Ibrahim Mama; Adjogou, Amelee; Dossougbete, Veronique; Campbell, Jonathon R.; Ayelo, Paul; Houinato, Dismand",
+    "Article Title": "Occupational stress in industry setting in Benin 2019: A cross-sectional study",
+    "Abstract": "BackgroundOccupational stress is a psychosocial risk in the workplace. Working conditions in industrial settings may lead to occupational stress. In Benin, however, there is little epidemiological data on occupational stress in industrial settings. We aimed to determine the prevalence and factors associated with occupational stress in industrial settings in Benin in 2019.MethodsThis was a prospective, cross-sectional study conducted from January 31 to April 11, 2019, among 15 cotton ginning plants. Sampling was exhaustive for permanent workers and stratified in clusters by shift for occasional cotton gin workers. Data were collected through Karasek and Siegrist questionnaires. Data analysis was performed using R software. Binary multivariable logistic regression was performed. The significance level was p < 0.05.ResultsOf 1883 workers included, 90.8% were male. The median age was 38 years (IQR: 28 years to 49 years). The prevalence of occupational stress was 77.7% (95% CI: 75.8-79.6). Psychological demand was high in 93.0% of workers and 83.9% had low decision latitude. Among the workers, 16.3% had low social support and 89.9% had a low recognition score at work. Factors associated with occupational stress were: being an occasional vs. permanent worker (aOR 6.43, 95% CI 4.18 to 9.88); age less than 38 years (aOR 0.55, 95% CI 0.41 to 0.76); high intensity physical activity at work (aOR 1.33, 95% CI 1.03 to 1.73); working in production vs. administration (aOR 1.59, 95% CI 1.03 to 2.45); spending fewer than 4 years at the current work location (aOR 1.60, 95% CI 1.05 to 2.44); and scoring low for recognition at work (aOR 1.53, 95% CI 1.04 to 2.23). Noise exposure and being a shift worker were significant in univariable analysis, but not multivariable analysis.ConclusionOccupational stress is very common among workers in industrial settings. The implementation and evaluation of preventive measures against these risk factors is necessary.",
+    "DOI": "10.1371/journal.pone.0269498",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks an intervention related to active employment policies for people with mental health disorders. It is also outside the specified geographic scope and timeframe.",
+            "study_design": "Prospective, cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes for people with mental health disorders, but rather on occupational stress in industrial settings in Benin.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

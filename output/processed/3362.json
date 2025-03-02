@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3362,
+    "Authors": "Davis, Owen",
+    "Article Title": "What is the Relationship between Benefit Conditionality and Mental Health? Evidence from the United States on TANF Policies",
+    "Abstract": "This article provides new evidence on the relationship between benefit conditionality and mental health. Using data on Temporary Assistance for Needy Families policies (TANF) - the main form of poverty relief in the United States - it explores whether the mental health of low-educated single mothers varies according to the stringency of conditionality requirements attached to receipt of benefit. Specifically, the article combines state-level data on sanctioning practices, work requirements and welfare-to-work spending with health data from the Behavioral Risk Factor Surveillance System and evaluates the impact of conditionality on mental health over a fifteen-year period (2000 to 2015). It finds that states that have harsher sanctions, stricter job search requirements and higher expenditure on welfare-to-work policies, have worse mental health among low-educated single mothers. There is also evidence that between-wave increases in the stringency of conditionality requirements are associated with deteriorations in mental health among the recipient population. It is suggested that these findings may reflect an overall effect of 'intensive conditionality', rather than of the individual variables per se. The article ends by considering the wider implications for policy and research.",
+    "DOI": "10.1017/S0047279418000363",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a cross-sectional analysis of state-level data.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions but focuses on benefit conditionality and its impact on mental health. It lacks specific measures of employment outcomes.",
+            "study_design": "Cross-sectional analysis using state-level data over a fifteen-year period (2000 to 2015)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of welfare policies on mental health, not specifically on employment or labor outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not directly related to employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on benefit conditionality and mental health rather than active employment policies.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

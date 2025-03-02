@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3403,
+    "Authors": "Scheenen, Myrthe E.; van der Horn, Harm J.; de Koning, Myrthe E.; van der Naalt, Joukje; Spikman, Jacoba M.",
+    "Article Title": "Identification of At-Risk Patients That Need More Intensive Treatment Following mTBI: Post-Hoc Insights From the UPFRONT-Study",
+    "Abstract": "Objective:To investigate which factors within an at-risk group make patients less likely to benefit from preventive treatment following mild traumatic brain injury (mTBI). Setting:Inclusion in 3 level I trauma centers in the Netherlands. Data collection through surveys as outpatients. Participants:mTBI patients (18-66 years), reporting 3 or more complaints 2 weeks postinjury (at-risk status). Eighty-four patients included and randomized (39 patients cognitive behavioral therapy, 45 patients telephonic counseling). Eighty patients filled out the questionnaires 12 months postinjury. Post hoc analysis investigating 80 patients as 1 at-risk group receiving psychological treatment. Design:Post hoc study of a randomized controlled trial (RCT). Binomial logistic regression performed determining which variables 2 weeks postinjury contributed strongly to unsuccessful return to work/study (RTW) and unfavorable outcome at 12 months. Main measures:RTW and functional outcome as measured with the Glasgow Outcome Scale-Extended (GOSE) at 12 months postinjury. Results:Out of 80 patients, 43 (53.8%) showed a favorable functional outcome at 12 months, and 56 (70%) patients had a full RTW. Patients with unfavorable outcome had a higher age and higher reports of anxiety, depression at 2 weeks and 12 months postinjury. Patients with an unsuccessful RTW had a higher age and higher reports of depression, and posttraumatic stress disorder at 2 weeks and 12 months postinjury. A logistic regression model for functional outcome (GOSE) was statistically significant (chi(2)7 = 40.30, P < .0001). Of 6 predictor variables, 3 were significant: anxiety, depression, and treatment condition. For RTW, logistic regression was also statistically significant (chi(2)7 = 19.15, P = .008), with only 1 out of 6 predictor variables (ie, age) being significant. Conclusion:Main findings comprise differences in demographic and psychological measures between patients with favorable and unfavorable outcomes and patients with RTW versus no RTW. Prediction models of outcome and RTW showed several psychological measures at 2 weeks greatly determining patients' likelihood benefitting from the preventive treatment. Results suggest that from the beginning there are some patients for whom a short preventive treatment is not sufficient. Selection and treatment of at-risk patients might be better based on psychological symptoms instead of posttraumatic complaints.",
+    "DOI": "10.1097/HTR.0000000000000931",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a post-hoc analysis of a randomized controlled trial (RCT), which meets the inclusion criteria. The study includes data from EU countries (Netherlands), within the specified timeframe (2005-2025), and focuses on employment outcomes (RTW and job quality) for people with mental health disorders.",
+            "study_design": "Post-hoc analysis of RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on mild traumatic brain injury (mTBI) patients' functional outcome and return to work/study.",
+            "study_design": "Post hoc analysis of a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is a post hoc analysis of an RCT, which does not meet the inclusion criteria.",
+            "study_design": "Post hoc study of a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

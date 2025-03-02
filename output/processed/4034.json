@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4034,
+    "Authors": "Keast, Shellie L.; Tidmore, Laura M.; Shropshire, Deborah; Nesser, Nancy; Lambert, Tammy L.",
+    "Article Title": "Characterization of Chronic Multiclass Psychotropic Polypharmacy and Psychotherapy in Foster Care Youth in a State Medicaid Population",
+    "Abstract": "BACKGROUND: Foster youth have higher rates of psychotropic medication use and concurrent multiclass psychotropic polypharmacy compared with nonfoster youth. However, less is known about the extent of multiclass psychotropic polypharmacy after adjusting for patient factors associated with psychotropic medication useOBJECTIVES: To ( a) compare psychotropic medication use and psychotherapy use by youth in foster care to those not in foster care in the Oklahoma Medicaid population across various sociodemographic and clinical factors, and (b) determine if patient-related characteristics are associated with high levels of concurrent multiclass psychotropic polypharmacy.METHODS: This cross-sectional, retrospective analysis was conducted using paid prescription, outpatient, and inpatient Oklahoma Medicaid administrative claims from calendar year 2016. Foster youth and adolescents aged 20 years or younger were identified (n = 9,325) and compared with the general Oklahoma Medicaid population of the same age (n = 639,868). Descriptive statistics highlight baseline demographic and clinical differences between the 2 groups. Multivariable logistic regression was used to determine if covariates were associated with concurrent multiclass psychotropic polypharmacy. A subgroup analysis of foster youth taking at least 1 psychotropic medication was also performed to determine factors associated with the highest level of concurrent multiclass psychotropic polypharmacy.RESULTS: Foster care was associated with higher odds of concurrent multiclass psychotropic polypharmacy regardless of presence of psychotherapy. Among the subgroup of foster youth taking at least 1 psychotropic medication, attention deficit hyperactivity disorder medications were the most commonly prescribed medication class, followed by antidepressants and anxiolytics when use was not chronic. However, at the highest level of chronic multiclass psychotropic polypharmacy (4-5 chronic concurrent medications), antipsychotics rose to the top, and anxiolytics were the least likely to be prescribed. Overall, the foster care population had the highest proportion of individuals with concurrent multiclass psychotropic polypharmacy (9.2% vs. 1.9%, P < 0.0001). The highest level of chronic multiclass psychotropic polypharmacy was more likely to occur in males (OR = 1.66, 95% Cl = 1.40-1.96) and patients living in group homes (OR = 4.13, 95% Cl = 2.02-8.44) or foster homes (OR = 1.66, 95% Cl = 1.25-2.19). Being overweight or obese was associated with an 83% higher odds of being at the highest level of concurrent multiclass psychotropic polypharmacy ( 95% Cl = 1.27-2.64).CONCLUSIONS: Despite higher psychotherapy use, high rates of psychotropic medication use and concurrent multiclass psychotropic polypharmacy in foster youth remain a concern for policymakers. Patterns observed at different levels of concurrent multiclass psychotropic polypharmacy may be key to identifying youth who require additional monitoring. Future research exploring factors associated with higher levels of psychotropic concurrent multiclass psychotropic polypharmacy in foster youth can lead to actionable interventions and important policy changes. Copyright (C) 2019, Academy of Managed Care Pharmacy. All rights reserved.",
+    "DOI": NaN,
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional, retrospective analysis, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "cross-sectional, retrospective analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment and labor outcomes for people with mental health disorders. It focuses on psychotropic medication use and psychotherapy in foster care youth.",
+            "study_design": "Cross-sectional, retrospective analysis using administrative claims data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on foster care youth in a specific state's Medicaid population and does not meet the inclusion criteria for interventions targeting employment or labor outcomes in the general population with mental health disorders.",
+            "study_design": "Cross-sectional, retrospective analysis",
+            "logprobs": null
+        }
+    }
+}

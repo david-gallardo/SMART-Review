@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2513,
+    "Authors": "Petersson, Eva-Lisa; Hange, Dominique; Udo, Camilla; Bjorkelund, Cecilia; Svenningsson, Irene",
+    "Article Title": "Long-term effect of a care manager on work ability for patients with depression - the PRIM-CARE RCT",
+    "Abstract": "BACKGROUND: Collaborative care with a care manager in primary care improves care.OBJECTIVE: To study whether care manager support leads to improved work ability, decreased job strain and reduced time of sick leave among primary care patients with depression.METHODS: A clinical effectiveness study of care managers for depression patients seeking care in primary care was conducted in a RCT 2014 - 2016. Patients in the intervention group were assigned a care manager. In the 12-month followup, patients with employment (n = 269; intervention n = 142, control n = 127) were studied concerning work ability, job strain and sick leave.RESULTS: An association was shown between reduction of depressive symptoms and improved work ability for the entire group. At 12-month follow-up a statistically significant difference of reduction of depressive symptoms was seen between the groups (MADRS-S: intervention 10.8 vs control 13.1, p = 0.05) as well as increased quality of life (EQ-5D: intervention 0.77 vs control 0.70, p = 0.04). In the intervention group, a concordance was found between the patient's prediction of return to work and the actual return to work (91% for intervention and 68 % for control group, p = 0.047).CONCLUSIONS: Compared to usual care, the care manager does not seem to further improve perception of work ability, job strain or perception of social support per se among the patients despite a long-term effect on depression symptoms. The lack of a long-term effect regarding these aspects may be due to the fact that care manager support was only provided during the first three months.",
+    "DOI": "10.3233/WOR-205272",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a RCT, the intervention is supported employment, the population references mental health, and the outcomes include employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on work ability and job strain rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review or meta-analysis, and it is a single RCT without a control group, which does not meet the inclusion criteria for study design.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focusing on patients with depression in primary care, evaluating the impact of care manager support on work ability and employment-related outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

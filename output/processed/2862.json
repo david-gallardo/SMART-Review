@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2862,
+    "Authors": "Ostrow, Laysha; Cook, Judith A.; Salzer, Mark S.; Pelot, Morgan; Burke-Miller, Jane K.",
+    "Article Title": "Employment of Certified Peer Specialists in Mental Health Professional Shortage Areas",
+    "Abstract": "The current demand for mental health services is exacerbated by an ongoing shortage of behavioral health care providers in the United States. The Health Resources and Services Administration has identified 5,833 Mental Health Professional Shortage Areas (MHPSAs), many of which are rural, and could be served by Certified Peer Specialists (CPSs). This paper examines the relationship between CPS employment and MHPSA residency. Data are from a 2020 survey of 572 CPS certified in one of four states. Random effects logistic regression models were used to test the relationship between MHPSA residence and employment outcomes. Of 166 unique counties identified by participant zip codes, 47 were characterized as being MHPSAs with 14% of participants residing in one of these counties. A higher proportion of those living in MHPSAs were employed in peer support jobs (rather than other job types or unemployed) compared to those living in non-MHPSAs (68% vs. 54%, p = .020). MHPSA residential status was not a significant predictor of employment status (OR = 1.14, p = .728) but was significantly associated with greater likelihood of employment in peer support compared to other jobs, both for the entire sample (OR = 2.13, p = .026), and among those currently employed (OR = 2.90, p = .032). The greater likelihood of working in peer support among those residing in MHPSAs suggests that CPSs may leverage their credential to address shortages. As a result, peer support may become a more necessary part of the traditional service array. Policies that enable CPS to practice in MHPSAs should be encouraged.",
+    "DOI": "10.1007/s10488-023-01318-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the US, meeting the inclusion criteria for geographic scope. The timeframe is within the specified range of 2005-2025. The intervention is job search services (in the form of Certified Peer Specialists), meeting the inclusion criteria for intervention. The population references mental health or has an undefined population, meeting the inclusion criteria for population. The outcomes present measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It examines the relationship between CPS employment and MHPSA residency without focusing on specific employment policies or interventions.",
+            "study_design": "Cross-sectional survey using logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. The study also does not present employment or labor outcomes as required.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

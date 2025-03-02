@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2385,
+    "Authors": "Cramm, Jane M.; Lorenzo, Theresa; Nieboer, Anna P.",
+    "Article Title": "Comparing Education, Employment, Social Support and Well-being among Youth with Disabilities and Their Peers in South Africa",
+    "Abstract": "Youth with disabilities face many challenges in life which are thought to have a negative impact on their well-being. Evidence, however, suggests that individuals differ in their resilience to deal with adverse life-events and protect their well-being. These differences may be explained by an individual's resources such as education, employment, and social support. Studies on how youth with disabilities perceive their well-being and resources important to their well-being are, however, lacking. In this study we therefore compared education, employment, social support, and well-being between youth with disabilities (n = 120) and their peers (n = 117) in South Africa. In addition, we investigated the relationship between background characteristics, having a disability, access to resources, and well-being. The unemployment rate among youth with disabilities is higher, they are less educated, receive less social support and report poorer states of well-being. Our study showed that having a disability, social support, and employment were associated with the well-being of youth in South Africa. While having a disability predicted well-being in youth, the effect was mediated by employment and social support, indicating that those two resources influence wellbeing through both a direct and buffer effect. Therefore, employment and social support may mitigate the negative consequences of a disability and have a substantial role in improving or maintaining well-being.",
+    "DOI": "10.1007/s11482-013-9247-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention, but rather investigates the relationship between background characteristics, having a disability, access to resources, and well-being.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (South Africa is not in EU, Europe, US, Canada, or Australia) and its intervention does not directly address employment. The article focuses on comparing education, employment, social support, and well-being among youth with disabilities and their peers in South Africa without addressing interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Africa).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

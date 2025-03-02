@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3990,
+    "Authors": "Boss, Leif; Angerer, Peter; Dragano, Nico; Ebert, David; Engels, Miriam; Heber, Elena; Kuhlmann, Rebekka; Ruhle, Sascha; Schwens, Christian; Wulf, Ines Catharina; Lehr, Dirk",
+    "Article Title": "Comparative effectiveness of guided internet-based stress management training versus established in-person group training in employees - study protocol for a pragmatic, randomized, non-inferiority trial",
+    "Abstract": "Background Occupational stress is a major public health challenge that requires a variety of evidence-based preventative approaches to increase their reach within the working population. Behavioral stress management interventions are considered an established approach for occupational stress prevention. Both in-person group-based stress management training (gSMT) and individual Internet-based training (iSMT) have been shown to be effective at reducing stress in employees. However, there remains a lack of evidence on the comparative efficacy of the newer digital format compared to well-established, in-person, group-based training. This study aims (1) to directly compare an evidence-based iSMT with an established gSMT on stress in employees, (2) to analyze the two conditions from a cost perspective, and (3) to explore moderators of the comparative efficacy. Methods In a randomized, controlled, non-inferiority trial employees from the general working population will be allocated to iSMT or gSMT. The primary outcome will be perceived stress, assessed using the Perceived Stress Scale, three months after randomization. The non-inferiority margin for the primary outcome measure will be set at 2 points (Cohen's d = 0.29). This trial will also compare the two interventions from a health economics perspective, and conduct explorative analyses to identify potential effect moderators. Discussion To reach a larger proportion of the working population, well-established gSMT should be complemented with interventions that fit today's society's increasingly digital lifestyle. The current trial will provide evidence supporting the responsible implementation of Internet-based stress management training if the digital format proves to at least be non-inferior to established group-based training. Additional explorative moderator analyses may guide future practices to aid in matching select programs with select users.",
+    "DOI": "10.1186/s12889-021-12229-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized, controlled, non-inferiority trial, but it does not meet the inclusion criteria for intervention as it focuses on stress management training rather than employment or labor outcomes.",
+            "study_design": "Randomized, controlled, non-inferiority trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on stress management rather than employment policies for people with mental health disorders. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a key inclusion criterion. The study focuses on stress management interventions, not employment or labor outcomes, and does not specifically target the population of people with mental health disorders.",
+            "study_design": "Randomized, controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

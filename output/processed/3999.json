@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3999,
+    "Authors": "Narita, Z.; Shinozaki, T.; Goto, A.; Hori, H.; Kim, Y.; Wilcox, H. C.; Inoue, M.; Tsugane, S.; Sawada, N.",
+    "Article Title": "Time-varying living arrangements and suicide death in the general population sample: 14-year causal survival analysis via pooled logistic regression",
+    "Abstract": "Aims While past research suggested that living arrangements are associated with suicide death, no study has examined the impact of sustained living arrangements and the change in living arrangements. Also, previous survival analysis studies only reported a single hazard ratio (HR), whereas the actual HR may change over time. We aimed to address these limitations using causal inference approaches.Methods Multi-point data from a general Japanese population sample were used. Participants reported their living arrangements twice within a 5-year time interval. After that, suicide death, non-suicide death and all-cause mortality were evaluated over 14 years. We used inverse probability weighted pooled logistic regression and cumulative incidence curve, evaluating the association of time-varying living arrangements with suicide death. We also studied non-suicide death and all-cause mortality to contextualize the association. Missing data for covariates were handled using random forest imputation.Results A total of 86,749 participants were analysed, with a mean age (standard deviation) of 51.7 (7.90) at baseline. Of these, 306 died by suicide during the 14-year follow-up. Persistently living alone was associated with an increased risk of suicide death (risk difference [RD]: 1.1%, 95% confidence interval [CI]: 0.3-2.5%; risk ratio [RR]: 4.00, 95% CI: 1.83-7.41), non-suicide death (RD: 7.8%, 95% CI: 5.2-10.5%; RR: 1.56, 95% CI: 1.38-1.74) and all-cause mortality (RD: 8.7%, 95% CI: 6.2-11.3%; RR: 1.60, 95% CI: 1.42-1.79) at the end of the follow-up. The cumulative incidence curve showed that these associations were consistent throughout the follow-up. Across all types of mortality, the increased risk was smaller for those who started to live with someone and those who transitioned to living alone. The results remained robust in sensitivity analyses.Conclusions Individuals who persistently live alone have an increased risk of suicide death as well as non-suicide death and all-cause mortality, whereas this impact is weaker for those who change their living arrangements.",
+    "DOI": "10.1017/S2045796024000325",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and its focus is on living arrangements and mortality.",
+            "study_design": "Pooled logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes and focuses on suicide death, non-suicide death, and all-cause mortality associated with living arrangements.",
+            "study_design": "Causal inference approaches using pooled logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cohort study",
+            "logprobs": "N/A"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to mental health disorders.",
+            "study_design": "Causal survival analysis via pooled logistic regression",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2837,
+    "Authors": "Dudley, Robert; Nicholson, Marsha; Stott, Pauline; Spoors, George",
+    "Article Title": "Improving vocational outcomes of service users in an Early Intervention in Psychosis service",
+    "Abstract": "Aim: People with psychotic symptoms have poor social and occupational functioning. The aim of this research was to improve the engagement in meaningful education, training or employment for young people with psychosis. This was undertaken by introducing a vocational specialist into the early intervention service to implement the individual placement and support (IPS) model.Methods: Two early intervention services provided information about the vocational status of their service users 6 and 1 months prior to the introduction of the vocational specialist into one of the services. Data were collected again 12 months following the intervention and then 6 months following the end of the intervention.Results: Unemployment was high in both services during the baseline period (approximately 75% in both), but in the service receiving the intervention this reduced to 62% whereas it remained high in the service that did not introduce the vocational specialist. Following the withdrawal of the vocational specialist the improvement was lost.Conclusions: To enable people in first-episode services to live meaningful and valued lives occupational functioning needs to be considered a key performance indicator. Services can improve outcome by implementing and maintaining the IPS model.",
+    "DOI": "10.1111/eip.12043",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is job search services (individual placement and support model), and the population is people with mental disorders or documented mental health problems. The study presents measures of employment outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets inclusion criteria for study design (quasi-experimental), geographic scope (EU countries), timeframe (2005-2025), intervention (supported employment), population (people with mental disorders), and outcomes (employment rates).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on early intervention services for young people with psychosis, not specifically on adults with mental health disorders. Additionally, the study does not focus on job search services, adult training, wage subsidies, or supported employment intervents, which are specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental design with a control group, focuses on supported employment (IPS model), includes people with mental disorders, and reports employment outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

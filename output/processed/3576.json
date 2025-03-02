@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3576,
+    "Authors": "Geiger, Ben Baumberg",
+    "Article Title": "Benefits conditionality for disabled people: stylised facts from a review of international evidence and practice",
+    "Abstract": "While behavioural conditionality for disability benefit claimants has been increasing, there is little evidence on its implementation or impacts. This article summarises existing studies, alongside an international review based on 140 documents and 38 expert interviews, into four 'stylised facts': (1) requirements for disability benefit claimants are common, but sanctioning is rare; (2) assessment and support are critical for implementing conditionality; (3) limited but robust existing evidence suggests that sanctioning may have zero or even negative impacts on work-related outcomes for disabled people; and (4) individual case studies suggest that sanctioning can lead to destitution and affect mental health.",
+    "DOI": "10.1332/175982717X14939739331010",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of international evidence and practice, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Review of international evidence and practice",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is based on an international review of documents and expert interviews rather than controlled trials, RCTs, or quasi-experimental studies with a control group. Additionally, the intervention focuses on behavioral conditionality for disability benefit claimants without specifying job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review of international evidence and practice",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on disability benefit claimants, not specifically on people with mental health disorders.",
+            "study_design": "Review of international evidence and practice",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

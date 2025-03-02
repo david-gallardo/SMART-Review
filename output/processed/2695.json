@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2695,
+    "Authors": "Ballas, Samantha J.; Mufti, Alina; Ramos, Kenneth Adames; Cabral-Hernandez, Abdiel; Rudolph-Math, Timothy; Thenor-Louis, Isabelle; Wentlent, Zachariah; Izadyar, Shahram; Wallenstein, Kim; Hagen, Kathryn; Guzman-Curtis, Roseanna; Northhardt, Trina; Brenner, Jay",
+    "Article Title": "Recommendations for the Clinician Role in Reducing Gun Violence",
+    "Abstract": "There is a growing need for clear and definitive guidelines to prevent firearm violence in communities across the United States. Recommendations explore the utility and feasibility of universal screenings and recommend utilizing universal screening due to a lack of a clear risk to it. Providers should also work to create risk reduction plans with patients as well. Furthermore, recommendations for mental health care, counseling, and bystander training are made for institutions and their providers.",
+    "DOI": "10.1177/00332941241253592",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and it focuses on gun violence prevention rather than active employment policies for people with mental health disorders.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes related to people with mental health disorders. It focuses on recommendations for reducing gun violence and preventive measures in the United States.",
+            "study_design": "Recommendations",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies or outcomes related to mental health disorders.",
+            "study_design": "Recommendations/Guidelines",
+            "logprobs": null
+        }
+    }
+}

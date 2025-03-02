@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3071,
+    "Authors": "Baidawi, Susan; Trotter, Christopher; Flynn, Catherine",
+    "Article Title": "Prison Experiences and Psychological Distress among Older Inmates",
+    "Abstract": "This study investigates relationships between older prisoners' social experiences and their levels of distress. One hundred and seventy-three older prisoners (aged >= 50 years) from 8 Australian prisons were administered the Kessler Psychological Distress (K10) Scale, with additional information collected via individual interviews. Psychological distress scores were significantly associated with measures of self-reported safety (p <.001), prison victimization (p <.05), perceived social support from staff (p <.01) and inmates (p <.001), current employment (p <.05), and level of exercise (p <.001) among older inmates. Findings suggest that strategies for improving sense of safety, social support and level of exercise may ameliorate distress among older prisoners.",
+    "DOI": "10.1080/01634372.2016.1197353",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on psychological distress, self-reported safety, prison victimization, social support, and level of exercise.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders or documented mental health problems and its outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on older inmates with mental health problems, not specifically on people with mental disorders or documented mental health problems as required. Additionally, the intervention is not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not directly address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

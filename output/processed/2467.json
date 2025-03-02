@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2467,
+    "Authors": "Knapp, Martin; Wong, Gloria",
+    "Article Title": "Economics and mental health: the current scenario",
+    "Abstract": "Economics and mental health are intertwined. Apart from the accumulating evidence of the huge economic impacts of mental ill-health, and the growing recognition of the effects that economic circumstances can exert on mental health, governments and other budget-holders are putting increasing emphasis on economic data to support their decisions. Here we consider how economic evaluation (including cost-effectiveness analysis, cost-utility analysis and related techniques) can contribute evidence to inform the development of mental health policy strategies, and to identify some consequences at the treatment or care level that are of relevance to service providers and funding bodies. We provide an update and reflection on economic evidence relating to mental health using a lifespan perspective, analyzing costs and outcomes to shed light on a range of pressing issues. The past 30 years have witnessed a rapid growth in mental health economics, but major knowledge gaps remain. Across the lifespan, clearer evidence exists in the areas of perinatal depression identification-plus-treatment; risk-reduction of mental health problems in childhood and adolescence; scaling up treatment, particularly psychotherapy, for depression; community-based early intervention and employment support for psychosis; and cognitive stimulation and multicomponent carer interventions for dementia. From this discussion, we pull out the main challenges that are faced when trying to take evidence from research and translating it into policy or practice recommendations, and from there to actual implementation in terms of better treatment and care.",
+    "DOI": "10.1002/wps.20692",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Discussion paper",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders. It discusses the general relationship between economics and mental health without addressing specific interventions related to employment policies.",
+            "study_design": "Review of literature",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on specific employment interventions for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

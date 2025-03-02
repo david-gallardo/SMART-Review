@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3360,
+    "Authors": "Temam, Sofia; Billaudeau, Nathalie; Vercambre, Marie-Noel",
+    "Article Title": "Burnout symptomatology and social support at work independent of the private sphere: a population-based study of French teachers",
+    "Abstract": "PurposeTo investigate the relationship between social support at work and burnout among teachers, independent of the teachers' private social and environmental context.MethodsIn the 2013 Teachers' Quality of Life population-based study (France, n=2653), burnout symptomatology was assessed using the Maslach Burnout Inventory. The score for each dimension (emotional exhaustion, depersonalization and personal accomplishment) was dichotomized using extreme tertiles. Global score for social support at work, and subscores by source and type were derived from the Karasek Job Content Questionnaire and were categorized into tertiles (low, medium, and high). The private context was appraised through the social relationships and environment subscales of the short version of the World Health Organization Quality of Life Questionnaire. Associations between social support at work and burnout indicators were evaluated among 2473 teachers with complete data, using logistic regression models adjusted for the private context plus sociodemographic and work-related characteristics.ResultsEight percent of the teachers showed simultaneously high emotional exhaustion, high depersonalization and low personal accomplishment symptoms and were considered as burnout cases. After controlling for the private context, teachers who reported high social support at work were significantly less likely to report burnout [odds ratio (95% confidence interval) high vs. low=0.62 (0.40, 0.98)]. When distinguishing the source of social support at work, only high social support from supervisors remained significantly associated with a lower risk of burnout [0.43 (0.27, 0.71)].ConclusionsImproving social support at work, especially from a hierarchical point of view, may be an effective target to promote teacher's well-being.",
+    "DOI": "10.1007/s00420-019-01431-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the relationship between social support at work and burnout among teachers.",
+            "study_design": "Population-based study with logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified as having mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        }
+    }
+}

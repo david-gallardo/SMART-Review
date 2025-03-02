@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2983,
+    "Authors": "Titov, Nickolai; Staples, Lauren; Kayrouz, Rony; Cross, Shane; Karin, Eyal; Ryan, Katie; Dear, Blake; Nielssen, Olav",
+    "Article Title": "Rapid report: Early demand, profiles and concerns of mental health users during the coronavirus (COVID-19) pandemic",
+    "Abstract": "Background: Trends in contact with a high volume national digital mental health service (DMHS), the MindSpot Clinic, provide a unique opportunity to assess the mental health effects of the COVID-19 pandemic.Methods: Three methods were used to assess changes in responses to COVID-19. First, website visits and call centre traffic were compared across two time periods: the comparison period (1 to 28 September 2019), and during the early weeks of the COVID-19 pandemic (19 March to 15 April 2020). Second, demographic and symptom data were compared across all patients who started an assessment during the comparison (n = 1650) and the COVID-19 period (n = 1668). Third, responses to questions about the impact of COVID-19 introduced to the assessment from 19 March 2020, and reports from treating therapists were examined.Results: There was an 89% increase in website visits and a 90% increase in telephone calls to the clinic in the early COVID-19 period compared to the comparison period. There was a higher proportion of females in the COVID-19 sample (76.9% vs. 72.9%), and a lower proportion reported being in employment (52.8% vs. 60.8%). There was a small but significant increase in the severity of anxiety symptoms, and an increase in the number of people reporting recent onset of anxiety and depression. However, there were no differences between groups in severity of symptoms of distress or depression. Most people (94%) reported concern about the impact of COVID-19, and 88% reported making changes in lifestyle. Older adults had higher levels of concern about COVID-19. Therapists reported that patients were concerned about how to access testing, manage quarantine, financial security and the effect of social isolation.Conclusions: COVID-19 has resulted in a significant increase in contact with an established DMHS, but we have not yet detected increases in baseline symptom severity. With the prospect of prolonged restriction of movement, DMHS such as MindSpot could play an important role in both providing clinical services and monitoring the mental health of the population.",
+    "DOI": "10.1016/j.invent.2020.100327",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a descriptive analysis of trends in contact with a high volume national digital mental health service during the COVID-19 pandemic.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation with a control group and does not directly address employment interventions. It focuses on mental health effects during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional comparison without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Rapid report",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

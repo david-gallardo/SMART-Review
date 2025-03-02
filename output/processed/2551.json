@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2551,
+    "Authors": "Franke, Andreas G.; Manz, Kirsi; Lotz-Metz, Gabriele",
+    "Article Title": "Sozialmedizinische Begutachtungen: Eine Bestandsaufnahme des \u00c4rztlichen Dienstes der Bundesagentur f\u00fcr Arbeit",
+    "Abstract": "Introduction The Medical Service of the Federal Employment Agency is responsible for socio-medical assessments of clients whose ability to work in the labor market is in question. Data about the Medical Service, its structure, and its performance were previously only available within the Federal Employment Agency. Methods In October 2023, data from the Medical Service containing information on the employee structure, clients, and orders were extracted from three data systems, processed, and analyzed. Results The number of full-time equivalents (FTEs) in the Medical Service decreased significantly from 2016 (n = 859.1 FTEs) to 2021 (n = 799.0 FTEs). This holds true for the professional groups of physicians, specialist assistants, medical assistants, and externally contracted physicians. The number of female employee FTEs rose significantly during this period from 85.6% (2016) to 87.0% (2021). The part-time ratio also increased significantly from 41.4% (2016) to 50.6% (2021). The number of assignments to the Medical Service was stable in 2017-2019 at around 630,000 but showed a reduction in 2020 (n = 518,538) and 2021 (n = 545,289); in particular, the number of assessments with client contact decreased significantly from 2019 (n = 166,980) to 2020 (n = 52,484). Most of the assignments came from the field of job placement (n = 349,346). Discussion The size of the Medical Service was in line with the total number of orders, which can certainly be seen as COVID-19-related in 2020 and 2021 and is likely due to the overall shortage of skilled personnel. The proportion of women and part-time employees increased significantly, with a nationwide part-time trend emerging not only among women. In order to enable all clients who may be unable to perform in the labor market to receive a quick assessment, it is necessary that the number of employees in the Medical Service does not decrease in the future.",
+    "DOI": "10.1007/s00103-024-03932-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a descriptive analysis of data from the Medical Service, without any experimental or quasi-experimental design.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation and does not have a control group. It focuses on the structure and performance of the Medical Service rather than interventions that directly address employment for people with mental health disorders.",
+            "study_design": "Descriptive analysis without control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on interventions directly addressing employment for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and lacks a control group.",
+            "study_design": "Descriptive Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3000,
+    "Authors": "Harris, Gregory E.; Watson, James R.; Li, Alan Tai-Wai; Ibanez-Carrasco, Francisco; Muchenje, Marvelous; Demetrakopoulos, Ana Sophia; McGee, A.; Chambers, Lori; Gahagan, Jacqueline; Ceranto, Andre; Cumby, Chris; Liddell, Michael",
+    "Article Title": "Meaningful inclusion of people living with HIV as a model for workplace policies: Key findings from the project PEER study",
+    "Abstract": "BACKGROUND: As a large number of people live with HIV, it is worthwhile to examine the integration of this group in the workplace.OBJECTIVE: To investigate how the operationalization of GIPA/MEPA supports workplace policies and practices for PLHIV. The study aims to explore what is being offered to support PLHIV in community-based agencies and what can be done to enhance the offerings.METHODS: For this community-based research, 2 bilingual online surveys were sent to 150 Canadian organizations that work closely with PLHIV or offer support to them. One of the surveys was for Executive Directors of these organizations while the other was sent to peers; i.e. PLHIV whose job is to offer services to PLHIV. Questions in the surveys varied between open-ended, binary, and Likert.RESULTS: GIPA/MEPA are implemented in most organizations and Executive Directors affirmed that PLHIV and their impacts on the workplace are valued. There is a consensus among Executive Directors that formal support is provided but most respondents argued that this support is not specific for PLHIV. More than half of respondents were either unaware or uncertain about the existence of informal support. Peer-employees claimed that one of the challenges of disclosing HIV to receive peer support is that they may face stigma.CONCLUSION: The application of GIPA/MEPA results in positive outcomes in the workplace. The study emphasizes the need to facilitate access to informal support.",
+    "DOI": "10.3233/WOR-230289",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a community-based research with online surveys, which lacks a rigorous evaluation and control group.",
+            "study_design": "Community-based research with online surveys",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies for people with mental health disorders. It focuses on HIV and workplace integration.",
+            "study_design": "Survey-based community research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on people living with HIV (PLHIV) rather than people with mental health disorders.",
+            "study_design": "Community-based research",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        }
+    }
+}

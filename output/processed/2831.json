@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2831,
+    "Authors": "Mosack, Victoria; Hill, Twyla J.; Steinke, Elaine E.",
+    "Article Title": "Predictors of change in sexual activity after cardiac diagnosis: Elements to inform sexual counseling",
+    "Abstract": "Safely returning to sexual activity after being diagnosed with a cardiac condition is at the core of sexual counseling strategies. To further inform sexual counseling, this study examined changes in sexual activity before and after a cardiac diagnosis. Logistic analysis was used to suggest factors that can contribute to a change in sexual activity among cardiac patients. Reduced frequency in sexual activity after a cardiac diagnosis was influenced by greater sexual concerns and a history of smoking, as well as by education and employment status. These findings suggest that cardiac patients experiencing significant concerns about resuming sexual activity need added support through the mental health system.",
+    "DOI": "10.1177/1359105315619026",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and it is not related to active employment policies for people with mental health disorders.",
+            "study_design": "Logistic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on sexual activity after cardiac diagnosis. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cardiac patients and sexual activity, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

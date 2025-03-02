@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2541,
+    "Authors": "Kamdar, Nipa; Khan, Sundas; Brostow, Diana P.; Spencer, Lia; Roy, Sharmily; Sisson, Amy; Hundt, Natalie E.",
+    "Article Title": "Association between modifiable social determinants and mental health among post-9/11 Veterans: A systematic review",
+    "Abstract": "Introduction: As U.S. Veterans reintegrate from active duty to civilian life, many are at risk for negative modifiable social determinants of health. The prevalence of mental health conditions among Veterans is also high. Awareness of the associations between these two factors is growing. This systematic review provides a comprehensive analysis of the current state of knowledge of the associations between modifiable social determinants and mental health among U.S. Veterans. Methods: The authors systematically searched four databases and identified 28 articles representing 25 unique studies that met inclusion criteria. Findings from the studies were extracted and synthesized on the basis of modifiable social determinants. Study quality and risk of bias were assessed using the Methodological Quality Questionnaire. Results: The studies identified in the systematic review examined three modifiable social determinants of health: 1) housing stability, 2) employment and finances, and 3) social support. Although the lack of validity for measures of housing stability, employment, and finances compromised study quality, the overall evidence suggests that Veterans with access to supportive social determinants had better mental health status. Evidence was particularly robust for the association between strong social support and lower symptoms of posttraumatic stress disorder. Discussion: Current evidence suggests the need to consider modifiable social determinants of health when designing mental health interventions. However, more research encompassing a wider range of modifiable social determinants such as food security, education, and transportation and using comprehensive methods and validated instruments is needed. Future research also needs to intentionally include Veterans from diverse racial-ethnic groups.LAY SUMMARY Veterans who served post-9/11 face many challenges as they reintegrate into civilian life. Some of these challenges include securing stable housing, adequate food, employment, and social support, all of which are examples of social determinants of health. Veterans are also at risk for mental health conditions. Thus, this systematic review examined published articles to evaluate what is known about the relationship between social determinants and mental health among U.S. Veterans who served post-9/11. Using four large databases, the authors found 28 articles representing 25 unique studies. The identified studies reported on three social determinants of health: 1) housing stability, 2) employment and finances, and 3) social support. Robust evidence indicates that Veterans with strong social support had better mental health. The evidence for other social determinants of health was either weak or lacking. Studies needed stronger methods to measure housing and employment and finances, as well as more robust statistical analysis. In addition, the majority of U.S. Veterans who participated in the studies were non-Hispanic white men. More research on a wider range of social determinants - such as food security, education, and transportation - that uses stronger study methods is needed. Future research also needs to intentionally include Veterans from diverse racial and ethnic groups.",
+    "DOI": "10.3138/jmvfh-2022-0025",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is focused on the EU, Europe, US, Canada, and Australia, and the timeframe is between 2005-2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which are all related to employment. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment policies or interventions. It focuses on the association between modifiable social determinants and mental health among post-9/11 U.S. Veterans.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

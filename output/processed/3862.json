@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3862,
+    "Authors": "Frank, John; Mustard, Cameron; Smith, Peter; Siddiqi, Arjumand; Cheng, Yawen; Burdorf, Alex; Rugulies, Reiner",
+    "Article Title": "Work as a social determinant of health in high-income countries: past, present, and future",
+    "Abstract": "This paper, the first in a three-part Series on work and health, provides a narrative review of research into work as a social determinant of health over the past 25 years, the key emerging challenges in this field, and the implications of these challenges for future research. By use of a conceptual framework for work as a social determinant of health, we identified six emerging challenges: (1) the influence of technology on the nature of work in high-income countries, culminating in the sudden shift to telework during the COVID-19 pandemic; (2) the intersectionality of work with gender, sexual orientation, age, race, ethnicity, migrant status, and socioeconomic status as codeterminants of health disparities; (3) the arrival in many Organisation for Economic Co-operation and Development countries of large migrant labour workforces, who are often subject to adverse working conditions and social exclusion; (4) the development of precarious employment as a feature of many national labour markets; (5) the phenomenon of working long and irregular hours with potential health consequences; and (6) the looming threat of climate change's effects on work. We conclude that profound changes in the nature and availability of work over the past few decades have led to widespread new psychosocial and physical exposures that are associated with adverse health outcomes and contribute to increasing disparities in health. These new exposures at work will require novel and creative methods of data collection for monitoring of their potential health impacts to protect the workforce, and for new research into better means of occupational health promotion and protection. There is also an urgent need for a better integration of occupational health within public health, medicine, the life sciences, and the social sciences, with the work environment explicitly conceptualised as a major social determinant of health.",
+    "DOI": "10.1016/s0140-6736(23)00871-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a narrative review, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a narrative review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        }
+    }
+}

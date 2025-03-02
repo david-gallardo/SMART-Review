@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2348,
+    "Authors": "Bartram, Mary; Atanackovic, Jelena; Runnels, Vivien; Bourgeault, Ivy Lynn; Fournier, Chantal; Kovacina, Nikolina; Contant, Alain; MacDonald, Louis; Porteous, Nancy; Renaud, Ariane",
+    "Article Title": "Applying gender-based analysis plus to Employee Assistance Programs: A Canadian perspective",
+    "Abstract": "Both workplace mental health and gender equity issues are in the spotlight in Canada as they are internationally. Accordingly, it is timely for Employee Assistance Programs (EAPs) to systematically consider sex, gender, and intersecting identities. Four cross-cutting priorities emerged from a focused analysis of the literature: (1) targeted outreach to men and other priority populations, (2) enhanced gender and diversity training for EAP counselors, (3) digital EAP services to meet preferences beyond face-to-face counseling, and (4) performance and quality improvement of both the EAP process and outcomes. The implications of these are considered using a Canadian case example.",
+    "DOI": "10.1080/15555240.2020.1726773",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group and the geographic scope is outside of EU countries, Europe, US, Canada, or Australia. The intervention does not directly address employment but focuses on Employee Assistance Programs with a gender-based analysis perspective.",
+            "study_design": "Case example",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

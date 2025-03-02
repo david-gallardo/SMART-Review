@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2323,
+    "Authors": "Humphries, Audrey; Bowman, Lee; Nguyen, Timothy; So, Joshua; Duff, Madison; Grover, Sandeep; Chen, Jinghua",
+    "Article Title": "Quality of Life Analysis in Patients with Retinitis Pigmentosa",
+    "Abstract": "Introduction: Retinitis pigmentosa (RP) is a chronic progressive disease causing loss of visual acuity and ultimately blindness. This visual impairment can contribute to psychiatric comorbidity and worse overall quality of life (QOL). Our goal was to assess the relationship between the severity of disease for people with RP and QOL as it pertains to mental health, social support, disability resources, and financial factors. Methods: This was a survey study conducted from June 2021 to February 2022 including 38 people with RP. QOL was assessed through a survey questionnaire focusing specifically on demographics, visual function, family, employment, social support, and mental health/well-being. Statistical analysis was conducted using a chi(2) test for significance. Results: A best corrected visual acuity (BCVA) of less than 20/200 (p = 0.0285) and living alone (p = 0.0358) were both statistically significant independent risk factors for experiencing depressive symptoms. Highest education level attained and unemployment rate were not found to be related to the development of depressive symptoms. Subjects had a higher unemployment rate (64% vs. US rate of 3.6%) and a high likelihood of reporting depressive symptoms (47.4%). Conclusion: People with RP are more likely to be unemployed and to develop depressive symptoms when compared to the general population. Similar to previous studies' findings, those with a BCVA of less than 20/200 were statistically more likely to experience depressive symptoms; living alone is a novel risk factor that is also associated with the presence of depressive symptoms. Contrary to prior findings, highest education level and unemployment status were found not to be related to the development of depressive symptoms. These patients may benefit from regular depression screenings and optional establishment of care with a psychiatrist or psychologist if they live alone or their BCVA is 20/200 or worse.",
+    "DOI": "10.1159/000539116",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the relationship between visual impairment due to Retinitis Pigmentosa and quality of life, including mental health aspects but does not involve any employment or labor outcomes.",
+            "study_design": "Survey Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Retinitis Pigmentosa (RP) and its impact on quality of life and mental health, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and the population is people with Retinitis Pigmentosa, not mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        }
+    }
+}

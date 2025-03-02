@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2996,
+    "Authors": "Asbury, E. Trey",
+    "Article Title": "Telehealth and the COVID-19 Pandemic: Making the Pivot from Offline to Online Therapeutic Interventions",
+    "Abstract": "While the global health crisis was not responsible for the creation of virtual environments, the COVID-19 pandemic has spawned increased interest in the use of virtual technologies in the workplace and beyond. The current review highlights some of the methods, modalities, and outcomes of the pivot from in-person (offline) therapeutic interactions to the mode of telehealth (online) strategies. Global social-distancing mandates were especially troubling for mental health clients accustomed to in-person counseling and psychotherapy. Panic, fear, and isolation only compounded the reality of health and financial concerns. Lessons about the advantages of telehealth therapies during the most recent global health crisis, will help prepare us all for the next Disease X event. The primary aim of this brief report is to inform the reader about recent research on the advantages of telehealth modalities. In particular, an examination of online technologies in the midst of a Disease X milieu (i.e., COVID-19) was explored. While the current review is far from exhaustive, research in general should leave us optimistic about the new normal of utilizing online communication strategies in mental health and beyond. While a Disease X event did not directly lead to the creation of virtual meetings, emerging research is beginning to enlighten the positive consequences of making the pivot from offline to online therapeutic interventions.",
+    "DOI": "10.1089/cyber.2022.0242",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a review, but it lacks a control group and does not address employment outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a brief report and lacks rigorous evaluation or control group. The intervention focuses on telehealth modalities rather than job search services, adult training, wage subsidies, or supported employment. Additionally, the population discussed is not specifically people with mental disorders.",
+            "study_design": "Brief report",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on telehealth and mental health interventions during the COVID-19 pandemic, which does not align with the specified inclusion criteria regarding active employment policies for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies or outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

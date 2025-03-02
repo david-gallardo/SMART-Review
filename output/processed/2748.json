@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2748,
+    "Authors": "Beer, Linda; Koenig, Linda J.; Tie, Yunfeng; Yuan, Xin; Fagan, Jennifer; Buchacz, Kate; Hughes, Kamal; Weiser, John",
+    "Article Title": "Prevalence of Diagnosed and Undiagnosed Depression Among US Adults with Human Immunodeficiency Virus: Data from the Medical Monitoring Project",
+    "Abstract": "People with human immunodeficiency virus (PWH) are disproportionately affected by depression, but the recent national estimates for US PWH encompassing both current symptoms and clinical diagnoses to assess missed diagnoses and lack of symptom remission are lacking. We used data from CDC's Medical Monitoring Project (MMP) to report nationally representative estimates of diagnosed and undiagnosed depression among US adult PWH. During June 2021 to May 2022, MMP collected interview data on symptoms consistent with major or other depression and depression diagnoses from medical records of 3928 PWH. We report weighted percentages and prevalence ratios (PRs) to quantify differences between groups on key social and health factors. Overall, 34% of PWH experienced any depression (diagnosis or Patient Health Questionnaire-8); of these, 26% had symptoms but no diagnosis (undiagnosed depression), 19% had both diagnosis and symptoms, and 55% had a diagnosis without symptoms. Among those with depression, persons with a disability (PR: 1.52) and food insecurity (PR: 1.67) were more likely to be undiagnosed. Unemployed persons (PR: 1.62), those experiencing a disability (PR: 2.78), food insecurity (PR: 1.46), or discrimination in human immunodeficiency virus (HIV) care (PR: 1.71) were more likely to have diagnosed depression with symptoms. Those with symptoms (undiagnosed or diagnosed) were less likely to be antiretroviral therapy (ART) dose adherent (PR: 0.88; PR: 0.73) or have sustained viral suppression (PR: 0.62; PR: 0.91) and were more likely to have unmet needs for mental health services (PR: 2.38, PR: 2.03). One-third of PWH experienced depression, of whom nearly half were undiagnosed or still experiencing clinically relevant symptoms. Expanding screening and effective treatment for depression could improve quality of life and HIV outcomes.",
+    "DOI": "10.1089/apc.2024.0031",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the prevalence of depression among people with HIV, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on the prevalence of depression among US adults with HIV. It lacks any intervention or employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on depression among PWH and does not meet the intervention criteria specified for active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

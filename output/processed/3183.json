@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3183,
+    "Authors": "Beer, Linda; Tie, Yunfeng; Crim, Stacy M.; Weiser, John; Taussig, Jennifer; Craw, Jason A.; Buchacz, Kate A.; Collins Jr, Charles B.; Johnston, Marie E.; de los Reyes, Andrew; Gelaude, Deborah; Hughes, Kamal; Desamu-Thorpe, Rodel; Prejean, Joseph",
+    "Article Title": "Progress Toward Achieving National HIV/AIDS Strategy Goals for Quality of Life Among Persons Aged \u226550 Years with Diagnosed HIV - Medical Monitoring Project, United States, 2017-2023",
+    "Abstract": "Ensuring good quality of life (QoL) among persons with diagnosed HIV (PWH) is a priority of the National HIV/AIDS Strategy (NHAS), which established 2025 goals for improving QoL. Goals are monitored through five indicators: self-rated health, unmet needs for mental health services, unemployment, hunger or food insecurity, and unstable housing or homelessness. Among the growing population of PWH aged >= 50 years, progress toward these goals has not been assessed. Data collected during the 2017-2022 cycles of the Medical Monitoring Project, an annual complex sample survey of U.S. adults with diagnosed HIV, assessed progress toward NHAS 2025 QoL goals among PWH aged >= 50 years, overall and by age group. The recent estimated annual percentage change from baseline (2017 or 2018) to 2022 was calculated for each indicator. Among PWH aged >= 50 years, the 2025 goal of 95% PWH with good or better self-rated health is 46.2% higher than the 2022 estimate. The 2025 goals of a 50% reduction in the other indicators range from 26.3% to 56.3% lower than the 2022 estimates. Decreasing hunger or food insecurity by 50% among PWH aged >= 65 was the only goal met by 2022. If recent trends continue, other NHAS QoL 2025 goals are unlikely to be met. Multisectoral strategies to improve access to housing, employment, food, and mental health will be needed to meet NHAS 2025 goals for QoL among older PWH.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on quality of life among persons with diagnosed HIV, rather than people with mental health disorders.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on quality of life indicators such as self-rated health, unemployment, hunger, food insecurity, and unstable housing. It also targets a population with HIV rather than mental disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not have a control group.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

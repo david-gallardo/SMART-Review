@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3450,
+    "Authors": "Liu, Lin; Visher, Christy A.; O'Connell, Daniel J.",
+    "Article Title": "The Strain From Procedural Injustice on Parolees: Bridging Procedural Justice Theory and General Strain Theory",
+    "Abstract": "The procedural justice literature explains why people obey the law. However, prior research has largely neglected the implication of procedural justice in the correctional context in general and in parole efficacy in particular. In an attempt to bridge the propositions of procedural justice and general strain theory, this study assesses the effect of parolees' perceived procedural injustice on their success in reentry. Using data from a longitudinal study of prisoner reentry, we investigate the nexus of procedural injustice, negative emotions, family bonds, and postrelease criminal propensity. Findings indicate that procedural injustice increases criminal propensity, and the negative emotion of depression partially mediates this relationship. We also find parolees' family bonds totally mediate the effect of procedural injustice on criminal propensity.",
+    "DOI": "10.1177/0011128719839376",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between procedural injustice and criminal propensity.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on parolees' perceived procedural injustice and its effect on reentry success rather than interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

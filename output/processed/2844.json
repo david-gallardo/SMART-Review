@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2844,
+    "Authors": "Akinkuowo, Abosede; Cheslack-Postava, Keely; Skokauskas, Norbert; Hoven, Christina W.",
+    "Article Title": "Loneliness, emotional support and the mental health of young adults and their parents in New York, US during the COVID-19 pandemic: a cohort study",
+    "Abstract": "BackgroundThe coronavirus disease (COVID-19) pandemic led to social isolation and widespread lockdown, resulting in loneliness and lack of emotional support, which have been associated with adverse mental health outcomes. This study aims to explore the relationship of loneliness and emotional support with depression and substance use among young adults and their parents during the COVID-19 pandemic. MethodsA cohort of 1227 participants was recruited from three ongoing cohort studies in the metropolitan area of New York City, USA. Data was collected through telephone interviews using preset questionnaires during wave 1 (March-August 2020), wave 2 (September 2020-February 2021) and wave 3 (March-August 2021) of the COVID-19 pandemic. Logistic regression models were used to test the association between loneliness and emotional support, and the mental health outcomes; depression and substance use, with adjustments made for age, gender, race, employment status, living conditions, and marital status. Additionally, the effect modification of respondent type and living alone or with others was examined. ResultsAt wave 1, loneliness showed a significant positive association with depressive symptoms (OR: 2.56, 95%CI: 2.19-3.00, P = < 0.001) and an increase in substance use, such as smoking tobacco using cigarettes, pipes, or cigar (OR: 1.59, 95%CI: 1.24-2.04, P = < 0.001), alcohol consumption (OR: 1.23, 95%CI: 1.07-1.42, P = 0.003), and marijuana/other substances (OR: 1.57, 95%CI: 1.26-1.96, P = < 0.001). Conversely, emotional support showed a significant negative association with depressive symptoms (OR: 0.71, 95%CI: 0.62-0.81, P = < 0.001) but a non-significant association with increase in tobacco smoking using vapes and e-cigarettes, alcohol consumption and marijuana and other substances. However, a significant negative association was observed between emotional support, and increased tobacco smoking using cigarettes, pipes, or cigar (OR: 0.73, 95%CI: 0.58-0.93, P = 0.011). The associations of loneliness and emotional support with mental health outcomes were stronger at wave 2 compared to wave 1. The modifier effects of respondent type and living condition were non-significant. ConclusionsThis study indicates that increased loneliness is associated with a higher likelihood of depression and substance use, while higher emotional support is linked to a reduced likelihood of depressive symptoms during the COVID-19 pandemic.",
+    "DOI": "10.1186/s12888-024-06305-x",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between loneliness, emotional support, and mental health outcomes.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "cohort study",
+            "logprobs": null
+        }
+    }
+}

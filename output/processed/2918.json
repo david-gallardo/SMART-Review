@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2918,
+    "Authors": "Langhinrichsen-Rohling, Jennifer; Snarr, Jeffery D.; Slep, Amy M. Smith; Heyman, Richard E.",
+    "Article Title": "Risk for Suicide Attempts Among United States Air Force Active Duty Members With Suicide Ideation: An Ecological Perspective",
+    "Abstract": "Objective: Differentiating suicide attempters from suicide ideators has been named a critical suicidology frontier (Klonsky & May, 2013). Per Bronfenbrenner's (1977, 1994) ecological systems theory, risk/protective factors from four ecological levels (individual, family, workplace, and community) were used to predict last year suicide attempt status among active duty service members expressing suicide ideation. Method: Active duty U.S. Air Force members (N = 52,780, 79.3% male, 79.2% non-Hispanic White, M age = 31.8 years) anonymously completed an online community assessment administered biennially at 82 bases worldwide. Last year suicide ideation and attempts were concurrently measured, as were an array of co-occurring risk and protective factors. Results: Among the 1,927 (approximately 4%) service members self-reporting suicidal ideation, 152 also reported a last year suicide attempt (7.9% of the ideators, 8.7% of men vs. 6.1% of women). However, in multivariate models, military member sex was not a significant moderator. In bivariate models, numerous individual, family/spouse/parent, and community factors were associated with suicide attempt status. In the final multivariate model for the whole sample, risk for a last year attempt was associated with years in the military, social support, and alcohol use problems, but not depression. Among active duty military in relationships, attempt status risk was associated with years in the military, social support, and intimate partner violence victimization. However, the effect sizes for these models were small. Conclusions: Beyond a focus on depression, addressing alcohol misuse, facilitating resilient and nonviolent couple/family relationships, and increasing social support may enhance suicide attempt prevention efforts among military members.",
+    "DOI": "10.1037/ccp0000435",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis of anonymous online data, which lacks a rigorous evaluation and control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on suicide ideation and attempts rather than interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the US Air Force, which is outside the specified geographic scope of EU countries, Europe, US, Canada, and Australia.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

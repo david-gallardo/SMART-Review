@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3483,
+    "Authors": "Wong, Eva Y.; Schachter, Abigail; Collins, Hannah N.; Song, Lin; Ta, Myduc L.; Dawadi, Shuva; Neal, Scott; Pajimula, Fel F.; Colombara, Danny, V; Johnson, Kristen; Laurent, Amy A.",
+    "Article Title": "Cross-Sector Monitoring and Evaluation Framework: Social, Economic, and Health Conditions Impacted During the COVID-19 Pandemic",
+    "Abstract": "Public Health 3.0 approaches are critical for monitoring disparities in economic, social, and overall health impacts following the COVID-19 pandemic and its associated policy changes to slow community spread. Timely, cross-sector data as identified using this approach help decisionmakers identify changes, track racial disparities, and address unintended consequences during a pandemic.We applied a monitoring and evaluation framework that combined policy changes with timely, relevant cross-sector data and community review. Indicators covered unemployment, basic needs, family violence, education, childcare, access to health care, and mental, physical, and behavioral health. In response to increasing COVID-19 cases, nonpharmaceutical intervention strategies were implemented in March 2020 in King County, Washington. By December 2020, 554 000 unemployment claims were filed. Social service calls increased 100%, behavioral health crisis calls increased 25%, and domestic violence calls increased 25%, with disproportionate impact on communities of color.This framework can be replicated by local jurisdictions to inform and address racial inequities in ongoing COVID-19 mitigation and recovery. Cross-sector collaboration between public health and sectors addressing the social determinants of health are an essential first step to have an impact on long-standing racial inequities.",
+    "DOI": "10.2105/AJPH.2021.306422",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a descriptive analysis and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on monitoring and evaluation frameworks related to the COVID-19 pandemic's impact on various social determinants of health, including unemployment but without specific employment interventions.",
+            "study_design": "Cross-sectional analysis using a monitoring and evaluation framework",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on various social determinants of health and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-Sector Monitoring and Evaluation Framework",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor results.",
+            "study_design": "Monitoring and Evaluation Framework",
+            "logprobs": null
+        }
+    }
+}

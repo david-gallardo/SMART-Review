@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3251,
+    "Authors": "Strassnig, Martin T.; Harvey, Philip D.; Miller, Michelle L.; Depp, Colin A.; Granholm, Eric",
+    "Article Title": "Real world sedentary behavior and activity levels in patients with schizophrenia and controls: An ecological momentary assessment study",
+    "Abstract": "Background: People with schizophrenia often experience poor health, leading to shortened lifespans. The health of people with schizophrenia may be further exacerbated by increased sedentary behavior, which independently predicts health risk in the general population. However, the prevalence and patterns of objectively measured sedentary behavior in schizophrenia have not been studied extensively on a momentary basis.Methods: Activity of 100 patients with schizophrenia was compared to that of healthy controls (HC; n = 71) using ecological momentary assessment (EMA). EMA provides real-time, real-world monitoring of behavior. We sampled behavior seven times per day for seven days, quantifying active versus inactive behaviors and four different movement patterns (recumbent, seated, standing, and moving). Due to different employment rates between samples, we focused on surveys completed at home.Results: Four of the five most commonly reported activities for participants with schizophrenia involved sitting or lying down. When considering activity during the last hour, participants with schizophrenia were more likely to be sitting or pacing and less likely to be standing than HC. If participants with schizophrenia only did one thing in the last hour, it was more likely to involve sitting and less likely to involve standing compared to HC.Discussion: People with schizophrenia were significantly more likely to be seated and less likely to be standing or active during the past hour than HC, despite high frequencies of seated behaviors in the HC as well. The adverse health consequences of sitting for extended periods may be especially relevant for people with schizophrenia and likely contribute to premature mortality in this population.",
+    "DOI": "10.1016/j.mhpa.2020.100364",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes, and instead examines sedentary behavior in patients with schizophrenia.",
+            "study_design": "Ecological momentary assessment (EMA) study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on sedentary behavior and activity levels in patients with schizophrenia compared to healthy controls.",
+            "study_design": "Ecological momentary assessment (EMA)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on sedentary behavior in patients with schizophrenia, not employment interventions or outcomes.",
+            "study_design": "Ecological momentary assessment (EMA)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Ecological momentary assessment study",
+            "logprobs": null
+        }
+    }
+}

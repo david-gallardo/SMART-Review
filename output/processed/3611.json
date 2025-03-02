@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3611,
+    "Authors": "Hu, Xin; Sun, Mei; Tang, Siyuan; Lommel, Lisa L.",
+    "Article Title": "Frequency of basic public health services utilization by married female migrants in China: associations of social support, discrimination and sociodemographic factors",
+    "Abstract": "Background Utilization of basic public health services (BPHS) allows for disease prevention and management and is an essential component for protecting health. Disparities in utilization exist between rural-to-urban migrants and their local counterparts in China. This study sought to determine the frequency of BPHS utilization and whether social support, discrimination, and sociodemographic features were risk factors for low BPHS utilization by Chinese female migrants. Methods Data were derived from a survey of female rural-to-urban migrants at nine work sites in Changsha, China. The association between social support, discrimination, sociodemographic factors and BPHS utilization was obtained using Chi-square and logistic regression analysis. Results Between December 2017 and April 2018, 307 female participants completed the survey. A total of 24.7% reported having had health education, 26.1% had breast and cervical cancer screening, 27.2% had established a health care record, and 40.9% had received basic contraceptive services. Two factors were associated with the reduced likelihood of BPHS utilization: Length of migration and health record establishment (OR = 0.53; 95% CI = 0.31, 0.92) and years of education and basic contraceptive service use (OR = 0.36; 95% CI = 0.20, 0.67). The remaining six factors were associated with an increased likelihood of BPHS utilization: Living circumstances and health record establishment (OR = 2.11; 95% CI = 1.17, 3.80), health education (OR = 2.71; 95% CI = 1.51, 4.87) and cancer screening (OR = 2.38; 95% CI = 1.30, 4.36). Utilization of social support was associated with health record establishment (OR = 1.24; 95% CI = 1.06, 1.44), basic contraceptive service use (OR = 1.21; 95% CI = 1.04, 1.42) and cancer screening (OR = 1.29; 95% CI = 1.10, 1.51). Objective social support was associated with health education utilization (OR = 1.15; 95% CI = 1.04, 1.26), while subjective social support was associated with basic contraceptive service use (OR = 1.11; 95% CI = 1.05, 1.18) and cancer screening (OR = 1.10; 95% CI = 1.02, 1.17). Family location was associated with basic contraceptive service use (OR = 1.96; 95% CI = 1.12, 3.44) and migration time in Changsha was associated with basic contraceptive service use (OR = 2.24; 95% CI = 1.18, 4.27). Conclusions Overall, there was low utilization rate for four BPHS by Chinese female migrants, and social support appears to be an important factor in this setting. Government, community, and workplace education efforts for enhancing BPHS utilization among female rural-to-urban migrants are recommended.",
+    "DOI": "10.1186/s12905-021-01482-3",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Cross-sectional survey with Chi-square and logistic regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on utilization of basic public health services by female migrants in China and does not address employment or labor outcomes for people with mental health disorders. The intervention and population criteria are not met.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not an RCT, systematic review, or meta-analysis with a control group. The interventions are not directly related to employment, and the study population does not specifically include people with mental health disorders. Additionally, the study is not conducted in the specified geographic scope.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

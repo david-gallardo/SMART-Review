@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3869,
+    "Authors": "Agardh, Emilie E.; Lundin, Andreas; Lager, Anton; Allebeck, Peter; Koupil, Ilona; Andreasson, Sven; Ostenson, Claes-Goran; Danielsson, Anna-Karin",
+    "Article Title": "Alcohol and type 2 diabetes: The role of socioeconomic, lifestyle and psychosocial factors",
+    "Abstract": "Aims: We investigate (a) alcohol consumption in association with type 2 diabetes, taking heavy episodic drinking (HED), socioeconomic, health and lifestyle, and psychosocial factors into account, and (b) whether a seemingly protective effect of moderate alcohol consumption on type 2 diabetes persists when stratified by occupational position. Methods: This population-based longitudinal cohort study comprises 16,223 Swedes aged 18-84 years who answered questionnaires about lifestyle, including alcohol consumption in 2002, and who were followed-up for self-reported or register-based diabetes in 2003-2011. Odds ratios (ORs) with 95% confidence intervals (CIs) were estimated in a multivariable-adjusted logistic regression model for all participants and stratified by high and low occupational position. We adjusted for HED, socioeconomic (occupational position, cohabiting status and unemployment), health and lifestyle (body mass index (BMI), blood pressure, smoking, physical inactivity, poor general health, anxiety/depression and psychosocial (low job control and poor social support) characteristics one by one, and the sets of these factors. Results: Moderate consumption was inversely associated with type 2 diabetes after controlling for health and lifestyle (OR=0.47; 95% CI: 0.29-0.79) and psychosocial factors (OR=0.40; 95% CI: 0.22-0.79) when compared to non-drinkers. When adjusting for socioeconomic factors, there was still an inverse but non-significant association (OR=0.59; 95% CI: 0.35-1.00). In those with high occupational position, there was no significant association between moderate consumption and type 2 diabetes after adjusting for socioeconomic (OR=0.67; 95% CI: 0.3-1.52), health and lifestyle (OR=0.70; 95% CI: 0.32-1.5), and psychosocial factors (OR=0.75; 95% CI: 0.23-2.46). On the contrary, in those with low occupational position, ORs decreased from 0.55 (95% CI: 0.28-1.1) to 0.35 (95% CI: 0.15-0.82) when adjusting for psychosocial factors, a decrease that was solely due to low job control. HED did not influence any of these associations. Conclusions: Moderate alcohol consumption is associated with a lower risk of type 2 diabetes, after adjusting for HED, health and lifestyle, and psychosocial characteristics. The association was inverse but non-significant after adjusting for socioeconomic factors. When stratified by occupational position, there was an inverse association only in those with low occupational position and after adjusting for low job control.",
+    "DOI": "10.1177/1403494818774192",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the relationship between alcohol consumption and type 2 diabetes.",
+            "study_design": "Population-based longitudinal cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the relationship between alcohol consumption and type 2 diabetes, adjusting for various socioeconomic, health, lifestyle, and psychosocial factors.",
+            "study_design": "Population-based longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on the association between alcohol consumption and type 2 diabetes.",
+            "study_design": "Population-based longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

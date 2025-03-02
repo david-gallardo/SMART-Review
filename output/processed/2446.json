@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2446,
+    "Authors": "Cadieux, Nathalie; Marchand, Alain",
+    "Article Title": "Psychological distress in the workforce: a multilevel and longitudinal analysis of the case of regulated occupations in Canada",
+    "Abstract": "Background: This study uses a multidimensional theoretical model to evaluate the role of regulated occupations and working conditions in explaining psychological distress.Methods: Various multilevel regression analyses were conducted on longitudinal data for which measures repeated over time (n(1) = 36,166) were nested in individuals (n(2) = 7007).Results: Results showed that when we controlled for working conditions, family situation, the social network outside the workplace, and personal characteristics, the level of psychological distress was significantly lower among professional workers in regulated occupations than among professionals not in regulated occupations. Among the working conditions studied, skill utilisation, psychological demands, and job insecurity were positively associated with psychological distress levels, whereas social support in the workplace was inversely related to distress. Finally, our results suggest that self-esteem reduced the effect of social support in the workplace on psychological distress levels in the workforce.Conclusions: These results support our hypothesis that working in regulated occupations exerts a direct effect on mental health. These results also make clear the importance of developing new tools for measuring psychological distress among upper-level professional workers. Such tools will be much better suited to the realities characterising today's knowledge-based economies.",
+    "DOI": "10.1186/1471-2458-14-808",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multilevel regression analysis, which does not meet the inclusion criteria of a systematic review, meta-analysis, or RCT.",
+            "study_design": "Multilevel regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks measures of employment outcomes. It focuses on psychological distress in regulated occupations without addressing specific active employment policies.",
+            "study_design": "Multilevel regression analysis on longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychological distress in the workforce without directly addressing employment outcomes or interventions. It also does not include a control group or intervention, which are required by the inclusion criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal analysis with multilevel regression",
+            "logprobs": null
+        }
+    }
+}

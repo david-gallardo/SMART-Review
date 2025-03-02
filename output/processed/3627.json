@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3627,
+    "Authors": "Chancellor, Joseph; Layous, Kristin; Margolis, Seth; Lyubomirsky, Sonja",
+    "Article Title": "Clustering by Well-Being in Workplace Social Networks: Homophily and Social Contagion",
+    "Abstract": "Social interaction among employees is crucial at both an organizational and individual level. Demonstrating the value of recent methodological advances, 2 studies conducted in 2 workplaces and 2 countries sought to answer the following questions: (a) Do coworkers interact more with coworkers who have similar well-being? and, if yes, (b) what are the processes by which such affiliation occurs? Affiliation was assessed via 2 methodologies: a commonly used self-report measure (i.e., mutual nominations by coworkers) complemented by a behavioral measure (i.e., sociometric badges that track physical proximity and social interaction). We found that individuals who share similar levels of well-being (e.g., positive affect, life satisfaction, need satisfaction, and job satisfaction) were more likely to socialize with one another. Furthermore, time-lagged analyses suggested that clustering in need satisfaction arises from mutual attraction (homophily), whereas clustering in job satisfaction and organizational prosocial behavior results from emotional contagion. These results suggest ways in which organizations can physically and socially improve their workplace.",
+    "DOI": "10.1037/emo0000311",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on workplace social networks and well-being.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on social interaction and well-being in workplace networks without any direct link to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Observational study using self-report measures and behavioral tracking",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social interactions and well-being in the workplace, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Cluster RCT",
+            "logprobs": "Not available"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental studies",
+            "logprobs": null
+        }
+    }
+}

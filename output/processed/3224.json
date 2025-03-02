@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3224,
+    "Authors": "Rodriguez, Susana; Valle, Antonio; Pineiro, Isabel; Gonzalez-Suarez, Rocio; Diaz, Fatima M.; Vieites, Tania",
+    "Article Title": "COVID-19 Lockdown: Key Factors in Citizens' Stress",
+    "Abstract": "Background: Confinement due to COVID-19 can have a short- and long-term impact on mental health (increased levels of stress and anxiety and emotional upheaval) and on people's quality of life. Knowing what factors are behind the stress can benefit the development of strategies and resources for future situations of a similar nature. The purpose of this study is to examine the incidence of a series of sociodemographic factors, confinement conditions, and work situation on the stress reported by confined citizens. Method: The sample is made up of 2008 citizens (19.9% men), the Perceived Stress Scale of 14 items (PSS-14) was used to assess the stress level of the population, as well as a sociodemographic questionnaire and different questions aimed at obtain information about the characteristics of the confinement and the employment situation. Data were collected using exponential snowball-type non-probability sampling. Results: The results suggest that sociodemographic factors such as age, gender, and income level could be good predictors of confinement stress. Post-confinement work expectancy along with pre-confinement working conditions can be key to protecting the well-being of confined populations. Limitations: This is a transversal study that forces us to be cautious with causal interpretations. The questionnaire was administered online, which means it excluded a good proportion of the population. Conclusion: The perception of stress being higher in women than men, with the lowest stress in older people and those with higher reported incomes. Stress levels increase as populations spend more weeks in confinement and the pre-confinement work situation seems key to protecting the well-being of the population. A lower stress is observed among stable couples without children confined in residential or suburban areas. Low income or economic instability is associated with a higher rate of stress and anxiety. The results can contribute to prioritizing actions and aid by contributing to the formation of teams and the design of tools for work in the current pandemic situation.",
+    "DOI": "10.3389/fpsyg.2021.666891",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of confinement on mental health and stress levels.",
+            "study_design": "Transversal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies, etc.), and its intervention is not related to job search services, adult training, wage subsidies, or supported employment. The population studied includes citizens in general without specifying those with mental health disorders, and the outcomes focus on stress levels rather than employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the general stress levels of citizens during COVID-19 confinement.",
+            "study_design": "Transversal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

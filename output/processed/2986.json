@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2986,
+    "Authors": "Smith, Matthew J.; Mitchell, Jamie A.; Blajeski, Shannon; Parham, Brittani; Harrington, Meghan M.; Ross, Brittany; Sinco, Brandy; Brydon, Daphne M.; Johnson, Jennifer E.; Cuddeback, Gary S.; Smith, Justin D.; Jordan, Neil; Bell, Morris D.; McGeorge, Robert; Kaminski, Kyle; Suganuma, Aaron; Kubiak, Sheryl P.",
+    "Article Title": "Enhancing vocational training in corrections: A type 1 hybrid randomized controlled trial protocol for evaluating virtual reality job interview training among returning citizens preparing for community re-entry",
+    "Abstract": "The Michigan Department of Corrections operates the Vocational Villages, which are skilled trades training programs set within prisons that include an immersive educational community using virtual reality, robotics, and other technologies to develop employable trades. An enhancement to the Vocational Villages could be an evidence-based job interview training component. Recently, we conducted a series of randomized controlled trials funded by the National Institute of Mental Health to evaluate the efficacy of virtual reality job interview training (VR-JIT). The results suggested that the use of VR-JIT was associated with improved job interview skills and a greater likelihood of receiving job offers within 6 months. The primary goal of this study is to report on the protocol we developed to evaluate the effectiveness of VR-JIT at improving interview skills, increasing job offers, and reducing recidivism when delivered within two Vocational Villages via a randomized controlled trial and process evaluation. Our aims are to: (1) evaluate whether services-as-usual in combination with VR-JIT, compared to services-as-usual alone, enhances employment outcomes and reduces recidivism among returning citizens enrolled in the Vocational Villages; (2) evaluate mechanisms of employment outcomes and explore mechanisms of recidivism; and (3) conduct a multilevel, mixed-method process evaluation of VR-JIT implementation to assess the adoptability, acceptability, scalability, feasibility, and implementation costs of VR-JIT.",
+    "DOI": "10.1016/j.conctc.2020.100604",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a type 1 hybrid randomized controlled trial protocol, but it does not meet the inclusion criteria for intervention as it focuses on virtual reality job interview training, which is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Type 1 hybrid randomized controlled trial protocol",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment among people with mental health disorders. It focuses on returning citizens preparing for community re-entry and reducing recidivism.",
+            "study_design": "RCT (Randomized Controlled Trial)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on job interview training within a prison setting, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's population is returning citizens, not specifically people with mental health disorders.",
+            "study_design": "Type 1 hybrid randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly mentioned to have mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

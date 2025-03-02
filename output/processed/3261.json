@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3261,
+    "Authors": "Thakkar, Katharine N.; Schall, Jeffrey D.; Logan, Gordon D.; Park, Sohee",
+    "Article Title": "Response inhibition and response monitoring in a saccadic double-step task in schizophrenia",
+    "Abstract": "Background: Cognitive control impairments are linked to functional outcome in schizophrenia. The goal of the current study was to investigate precise abnormalities in two aspects of cognitive control: reactively changing a prepared response, and monitoring performance and adjusting behavior accordingly. We adapted an oculomotor task from neurophysiological studies of the cellular basis of cognitive control in nonhuman primates. Methods: 16 medicated outpatients with schizophrenia (SZ) and 18 demographically-matched healthy controls performed the modified double-step task. In this task, participants were required to make a saccade to a visual target. Infrequently, the target jumped to a new location and participants were instructed to rapidly inhibit and change their response. A race model provided an estimate of the time needed to cancel a planned movement. Response monitoring was assessed by measuring reaction time (RI) adjustments based on trial history. Results: SZ patients had normal visually-guided saccadic RTs but required more time to switch the response to the new target location. Additionally, the estimated latency of inhibition was longer in patients and related to employment. Finally, although both groups slowed down on trials that required inhibiting and changing a response, patients showed exaggerated performance-based adjustments in RTs, which was correlated with positive symptom severity. Conclusions: SZ patients have impairments in rapidly inhibiting eye movements and show idiosyncratic response monitoring. These results are consistent with functional abnormalities in a network involving cortical oculomotor regions, the superior colliculus, and basal ganglia, as described in neurophysiological studies of non-human primates using an identical paradigm, and provide a translational bridge for understanding cognitive symptoms of SZ. (C) 2015 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.bandc.2015.01.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is not a study on active employment policies for people with mental health disorders.",
+            "study_design": "Non-experimental study (neurophysiological study of the cellular basis of cognitive control in nonhuman primates)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly involve job search services, adult training, wage subsidies, or supported employment. It focuses on cognitive control impairments in schizophrenia patients using an oculomotor task.",
+            "study_design": "Cognitive neuroscience study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on cognitive control in schizoppheria and does not meet the intervention criteria specified for active employment policies.",
+            "study_design": "Clinical study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

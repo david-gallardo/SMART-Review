@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2573,
+    "Authors": "Robertson, Janet; Beyer, Steve; Emerson, Eric; Baines, Susannah; Hatton, Chris",
+    "Article Title": "The association between employment and the health of people with intellectual disabilities: A systematic review",
+    "Abstract": "Background There is strong evidence indicating that paid employment is generally good for the physical and mental health of the general population. This systematic review considers the association between employment and the health of people with intellectual disabilities. Methods Studies published from 1990 to 2018 were identified via electronic literature databases, email requests and cross-citations. Identified studies were reviewed narratively. Results Twelve studies were identified. Studies were generally consistent in reporting an association between being in paid employment and better physical or mental health status. Conclusions This review supports the view that the well-established association between employment and better health is similar for adults with and without intellectual disabilities. However, evidence establishing causality is lacking and further research to determine specific health benefits attributable to employment for people with intellectual disabilities and the causal pathways that operate is required.",
+    "DOI": "10.1111/jar.12632",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study timeframe (1990-2018) does not meet the inclusion criterion of 2005-2025.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on intellectual disabilities rather than mental health disorders. The intervention and population criteria are not met.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on intellectual disabilities, not mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental disorders but rather intellectual disabilities.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

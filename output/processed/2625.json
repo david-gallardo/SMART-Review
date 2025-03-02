@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2625,
+    "Authors": "Quinlan-Davidson, Meaghen; Dixon, Mahalia; Chinnery, Gina; Hawke, Lisa D.; Iyer, Srividya; Moxness, Katherine; Prebeg, Matthew; Thabane, Lehana; Henderson, J. L.",
+    "Article Title": "Youth not engaged in education, employment, or training: a discrete choice experiment of service preferences in Canada",
+    "Abstract": "Background Prior research has showed the importance of providing integrated support services to prevent and reduce youth not in education, employment, or training (NEET) related challenges. There is limited evidence on NEET youth's perspectives and preferences for employment, education, and training services. The objective of this study was to identify employment, education and training service preferences of NEET youth. We acknowledge the deficit-based lens associated with the term NEET and use 'upcoming youth' to refer to this population group.Methods Canadian youth (14-29 years) who reported Upcoming status or at-risk of Upcoming status were recruited to the study. We used a discrete choice experiment (DCE) survey, which included ten attributes with three levels each indicating service characteristics. Sawtooth software was used to design and administer the DCE. Participants also provided demographic information and completed the Global Appraisal of Individual Needs-Short Screener. We analyzed the data using hierarchical Bayesian methods to determine service attribute importance and latent class analyses to identify groups of participants with similar service preferences.Results A total of n=503 youth participated in the study. 51% of participants were 24-29 years of age; 18.7% identified as having Upcoming status; 41.1% were from rural areas; and 36.0% of youth stated that they met basic needs with a little left. Participants strongly preferred services that promoted life skills, mentorship, basic income, and securing a work or educational placement. Three latent classes were identified and included: (i) job and educational services (38.9%), or services that include career counseling and securing a work or educational placement; (ii) mental health and wellness services (34.9%), or services that offer support for mental health and wellness in the workplace and free mental health and substance use services; and (iii) holistic skills building services (26.1%), or services that endorsed skills for school and job success, and life skills.Conclusions This study identified employment, education, and training service preferences among Upcoming youth. The findings indicate a need to create a service model that supports holistic skills building, mental health and wellness, and long-term school and job opportunities.",
+    "DOI": "10.1186/s12889-024-18877-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a discrete choice experiment (DCE) survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Discrete Choice Experiment (DCE) survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youth not engaged in education, employment, or training (NEET) rather than people with mental health disorders. It does not directly address the population of interest.",
+            "study_design": "Discrete choice experiment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on 'upcoming youth' and does not specifically address adults with mental health disorders, which is outside the specified inclusion criteria.",
+            "study_design": "Discrete Choice Experiment (DCE)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as people with mental disorders or documented mental health problems.",
+            "study_design": "Discrete choice experiment",
+            "logprobs": null
+        }
+    }
+}

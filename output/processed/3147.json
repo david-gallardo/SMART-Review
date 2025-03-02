@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3147,
+    "Authors": "Lam, Jack",
+    "Article Title": "Actor-Partner Effects of Childhood Disadvantage on Later Life Subjective Well-Being Among Individuals in Coresidential Unions",
+    "Abstract": "Objectives: Prior research on cumulative disadvantage has primarily focused on individuals' own childhood adversity for their later-life outcomes. Nevertheless, partner's childhood disadvantage may also shape respondent's later-life well-being.Methods: Drawing on a household-level dataset, I examine respondent's own childhood adversity as well as their partner's childhood adversity (poor childhood health, parental divorce, or father's long-term unemployment) on respondent's subjective well-being, at aged 50 and older.Results: Findings from the actor-partner interdependence model (APIM) show poor childhood health of the male partner as associated with worse mental health and self-rated health of the female partner in later life. For both outcome measures, the partner effects were attenuated after adjusting for the female partner's report of perceived social support. For self-rated health, adjusting for variation in the presence of a chronic illness and household income also attenuated the association.Discussion: Partnered individuals are nested within a specific context, whereby stress and implications of early life disadvantage may be conceptualized at the couple-level. Future research that assesses how early life experiences of individuals may have implications for family members' later-life well-being may be valuable.",
+    "DOI": "10.1093/geronb/gbz150",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of childhood disadvantage on subjective well-being among individuals in coresidential unions.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on subjective well-being rather than employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cross-sectional analysis using an APIM model with household-level data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on childhood disadvantage and its effects on subjective well-being in later life, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "actor-partner interdependence model (APIM)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

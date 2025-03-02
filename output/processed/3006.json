@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3006,
+    "Authors": "Gonzalez-Garcia, Carla; Lazaro-Visa, Susana; Santos, Iriana; del Valle, Jorge F.; Bravo, Amaia",
+    "Article Title": "School Functioning of a Particularly Vulnerable Group: Children and Young People in Residential Child Care",
+    "Abstract": "A large proportion of the children and young people in residential child care in Spain are there as a consequence of abuse and neglect in their birth families. Research has shown that these types of adverse circumstances in childhood are risk factors for emotional and behavioral problems, as well as difficulties in adapting to different contexts. School achievement is related to this and represents one of the most affected areas. Children in residential child care exhibit extremely poor performance and difficulties in school functioning which affects their transition to adulthood and into the labor market. The main aim of this study is to describe the school functioning of a sample of 1,216 children aged between 8 and 18 living in residential child care in Spain. The specific needs of children with intellectual disability and unaccompanied migrant children were also analyzed. Relationships with other variables such as gender, age, mental health needs, and other risk factors were also explored. In order to analyze school functioning in this vulnerable group, the sample was divided into different groups depending on school level and educational needs. In the vast majority of cases, children were in primary or compulsory secondary education (up to age 16), this group included a significant proportion of cases in special education centers. The rest of the sample were in vocational training or post-compulsory secondary school. Results have important implications for the design of socio-educative intervention strategies in both education and child care systems in order to promote better school achievement and better educational qualifications in this vulnerable group.",
+    "DOI": "10.3389/fpsyg.2017.01116",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is children and young people, not adults with mental health disorders. The study does not focus on employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3567,
+    "Authors": "Kelton, Katherine; Van Voorhees, Elizabeth E.; Elbogen, Eric B.; Dillon, Kirsten",
+    "Article Title": "Correlates of incarceration history among military veterans",
+    "Abstract": "Veterans with histories of incarceration are at greater risk for poor physical and mental health outcomes, yet prior research in this population has focused on specific subsets of veterans or a narrow range of predictors. We utilized the Bronfenbrenner Socioecological Model as the framework to evaluate correlates of incarceration history in a large sample of Iraq and Afghanistan-era veterans at four levels: demographic, historical, clinical, and contextual. Participants were 2,904 veterans (76.9% male; 49.5% White and 46.5% Black; mean age 38.08, SD = 10.33), 700 of whom reported a history of incarceration. Four logistic regression models predicting history of incarceration were tested, adding demographic, historical, clinical, and contextual variables hierarchically. In the final model, younger age (OR = 0.99, 95% CI = 0.98-1.00), male gender (OR of being female = 0.28, 95% CI = 0.21-0.38), belonging to a historically marginalized group (OR of being White = 0.69, 95% CI = 0.56-0.84), family history of incarceration (OR = 1.47, 95% CI = 1.10-1.94), adult interpersonal trauma (OR = 1.39, 95% CI = 1.28-1.51), problematic alcohol use (OR = 1.03, 95% CI = 1.02-1.05), drug abuse (OR = 1.15, 95% CI = 1.11-1.19), and unemployment (OR for being employed = 0.76, 95% CI = 0.62-0.92) were significantly associated with a history of incarceration. Implications of these findings for developing interventions and supporting systems to effectively target this high-risk population of veterans are discussed.",
+    "DOI": "10.1080/08995605.2022.2141049",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on correlates of incarceration history among military veterans.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks an intervention component. It focuses on correlates of incarceration history among veterans.",
+            "study_design": "Cross-sectional analysis using logistic regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on incarceration history among military veterans, which is not directly related to employment interventions for people with mental health disorders. The study's population and outcomes are also not aligned with the specified inclusion criteria.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it meets the rigorous evaluation or control group requirements of the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies or interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

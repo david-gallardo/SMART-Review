@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2820,
+    "Authors": "Pauksztat, Birgit; Grech, Michelle R.; Kitada, Momoko",
+    "Article Title": "The impact of the COVID-19 pandemic on seafarers' mental health and chronic fatigue: Beneficial effects of onboard peer support, external support and Internet access",
+    "Abstract": "While commercial shipping remained vital for maintaining global supply chains during the COVID-19 pandemic, measures imposed to control the spread of infection have disrupted crew changes and impacted interactions with port personnel and among crew members on board. Initial reports indicate that this affected work and life on board, the length of seafarers' time on board as well as seafarers' employment and family concerns. However, the consequences for seafarers' well-being are not well understood. The purpose of this study was to examine the effects of the COVID-19 pandemic on seafarers' mental health and chronic fatigue, and to analyze the role of potential mitigating factors, notably onboard peer support, external support and Internet quality. Survey responses from 622 seafarers on international commercial vessels were analyzed using structural equation modeling. Findings suggested that the impact of the pandemic increased seafarers' fatigue and mental health problems. However, they also indicated ways of mitigating the negative impact of the pandemic and increasing resilience by enhancing support from fellow crew members on board, ensuring the availability of external support and providing fast and reliable Internet access.",
+    "DOI": "10.1016/j.marpol.2021.104942",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey analysis using structural equation modeling, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the impact of the COVID-19 pandemic on seafarers' mental health and chronic fatigue, with interventions related to onboard peer support, external support, and Internet access.",
+            "study_design": "Survey analysis using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on seafarers' mental health and chronic fatigue during the COVID-19 pandemic, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems.",
+            "study_design": "Survey using structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

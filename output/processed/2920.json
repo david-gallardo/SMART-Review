@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2920,
+    "Authors": "Andersson, Christina; Mellner, Christin; Lilliengren, Peter; Einhorn, Stefan; Bergsten, Katja Lindert; Stenstroem, Emma; Osika, Walter",
+    "Article Title": "Cultivating Compassion and Reducing Stress and Mental Ill-Health in Employees-A Randomized Controlled Study",
+    "Abstract": "Stress and mental ill-health carry considerable costs for both individuals and organizations. Although interventions targeting compassion and self-compassion have been shown to reduce stress and benefit mental health, related research in organizational settings is limited. We investigated the effects of a 6-week psychological intervention utilizing compassion training on stress, mental health, and self-compassion. Forty-nine employees of two organizations were randomly assigned to either the intervention (n = 25) or a physical exercise control condition (n = 24). Multilevel growth models showed that stress (p = 0.04) and mental ill-health (p = 0.02) decreased over 3 months in both groups (pre-intervention to follow-up: Cohen's d = -0.46 and d = 0.33, respectively), while self-compassion only increased in the intervention group (p = 0.03, between group d = 0.53). There were no significant effects on life satisfaction in any of the groups (p > 0.53). The findings show promising results regarding the ability of compassion training within organizations to decrease stress and mental ill-health and increase self-compassion.",
+    "DOI": "10.3389/fpsyg.2021.748140",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on stress, mental ill-health, and self-compassion in employees.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment or labor outcomes, but rather on stress, mental health, and self-compassion.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

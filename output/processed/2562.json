@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2562,
+    "Authors": "Kumar, Rati",
+    "Article Title": "Economic self-sufficiency (ESS) as a barrier to health self-sufficiency (HSS) for Burmese refugees in the United States: a culture-centered analysis",
+    "Abstract": "From displacement to resettlement, Burmese refugees bear high disease burdens; first as forced migrants escaping conflict and then as second-class citizens in host countries like the United States. This relegation of refugee bodies to the margins upon resettlement, warrants an examination of the contradictions of the process as a humanitarian enterprise yet in violation of the United Nations Sustainable Development Goal 10 of Reduced Inequalities, particularly through a health inequities lens. In the present study, the researcher conducted 15 semi-structured in-depth interviews with key stakeholders within the resettlement ecosystem of the city of Indianapolis, Indiana in the U.S., including Burmese community members, leaders, and health practitioners. Narrative data reveal an inverse relationship between the federally mandated metric of economic self-sufficiency (ESS) defined as job placement upon resettlement, and health self-sufficiency (HSS) defined as the ability to meaningfully engage with healthcare structures and resources. Participants articulate the precarious nature of such low-wage employment in predatory industries like meatpacking, requiring little to no language or vocational training and subjecting refugee employees to coercive practices including mandatory overtime. These practices are outlined as both dangerous to the health of employees and detracting from their time resources which would otherwise be allocated toward linguistic and vocational training-both required for socioeconomic mobility, as well as to meaningfully navigate labyrinthian healthcare structures. Faced with these structural constraints, Burmese community members demonstrate health self-sufficiency through a combination of treatment with over-the-counter (OTC) medications, traditional healing practices, and by activating familial and community networks as communal resources for accessing healthcare structures.",
+    "DOI": "10.3389/fcomm.2024.1040895",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Lacking a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCTs, quasi-experimental studies, etc.) and does not focus on employment outcomes for people with mental health disorders. The intervention discussed is economic self-sufficiency in the form of job placement upon resettlement, which does not directly address supported employment or other interventions specified in the inclusion criteria.",
+            "study_design": "Qualitative study (semi-structured interviews)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor results.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

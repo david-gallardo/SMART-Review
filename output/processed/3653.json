@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3653,
+    "Authors": "Frankenfeld, Cara L.; Leslie, Timothy E.",
+    "Article Title": "County-level socioeconomic factors and residential racial, Hispanic, poverty, and unemployment segregation associated with drug overdose deaths in the United States, 2013-2017",
+    "Abstract": "Purpose: The purpose of the study was to evaluate overdose death rates in relation to socioeconomic characteristics and measures of socioeconomic residential segregation at substate geography.Methods: County overdose deaths were linked to socioeconomic characteristics that are related to social vulnerability. Dissimilarity and isolation segregation (comparing individual counties to the adjacent counties and state) and diversity were calculated for race, Hispanic ethnicity, poverty, and unemployment. Negative binomial regression was used to compare county characteristics to death rates.Results: Percent civilian disabled was positively associated with mortality across race and Hispanic ethnicity groups. Some discordant associations included racial and unemployment diversity (null for White, inverse for Hispanic and Black), percent unemployment (positive for White, inverse for Hispanic), percent crowded housing (positive for Black), uninsured (null for White, inverse for Black and Hispanic), and per capita income (positive for Black, inverse for Hispanic). Several residential segregation measures were also significantly associated with overdose death rates, and different magnitudes and directions of associations were observed by race and Hispanic ethnicity.Conclusions: These results provide future directions, including roles of civilian disability, diversity, and evaluating differential impacts of segregation across racial and ethnic groups. Individual-level data, drug overdose incidence, or larger studies to evaluate interactions may help to elucidate mechanisms. (C) 2019 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.annepidem.2019.04.009",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not directly address employment or labor outcomes. The study focuses on overdose death rates in relation to socioeconomic characteristics and measures of socioeconomic residential segregation.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on drug overdose deaths in relation to socioeconomic characteristics and residential segregation.",
+            "study_design": "Cross-sectional analysis using negative binomial regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Observational study using negative binomial regression",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2360,
+    "Authors": "Hart, Angie; Psyllou, Agoritsa; Eryigit-Madzwamuse, Suna; Heaver, Becky; Rathbone, Anne; Duncan, Simon; Wigglesworth, Pauline",
+    "Article Title": "Transitions into work for young people with complex needs: a systematic review of UK and Ireland studies to improve employability",
+    "Abstract": "Youth unemployment rates in the United Kingdom are almost triple that of adults (11.3% and vs. 4%, respectively), particularly impacting the employability of young people with complex needs, of whom 61.8% are unemployed. Interventions facilitating transition into work can operate at individual, community and government levels. The main objectives of this review were to explore current practices, identify factors affecting and strategies used to improve employability, and classify strategies at multi-levels. Findings suggest that collaborative strategies covering training, work practices, therapeutic support and creating appropriate work environments, with active involvement of young people, are key in supporting young people with complex needs into employment. Classification of factors indicated four categories: skills-based approaches, job/work experience accessing approaches, therapeutic interventions, and supportive working environments.",
+    "DOI": "10.1080/03069885.2020.1786007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study focuses on UK and Ireland studies, which falls within the geographic scope. The timeframe is between 2005 and 2025. The intervention is job search services, adult training, wage subsidies, and supported employment, which are all relevant to active employment policies for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review but it focuses on UK and Ireland studies. The geographic scope does not meet the inclusion criteria as it excludes other specified regions like Europe (EU countries), US, Canada, and Australia.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young people with complex needs, not specifically on people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not within the specified geographic scope (UK and Ireland are not included in EU countries, Europe, US, Canada, Australia).",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

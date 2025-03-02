@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3558,
+    "Authors": "Dutheil, Frederic; Duclos, Martine; Naughton, Geraldine; Dewavrin, Samuel; Cornet, Thomas; Huguet, Pascal; Chatard, Jean-Claude; Pereira, Bruno",
+    "Article Title": "WittyFit-Live Your Work Differently: Study Protocol for a Workplace-Delivered Health Promotion.",
+    "Abstract": "BACKGROUND: Morbidity before retirement has a huge cost, burdening both public health and workplace finances. Multiple factors increase morbidity such as stress at work, sedentary behavior or low physical activity, and poor nutrition practices. Nowadays, the digital world offers infinite opportunities to interact with workers. The WittyFit software was designed to understand holistic issues of workers by promoting individualized behavior changes at the workplace.OBJECTIVE: The shorter term feasibility objective is to demonstrate that effective use of WittyFit will increase well-being and improve health-related behaviors. The mid-term objective is to demonstrate that WittyFit improves economic data of the companies such as productivity and benefits. The ultimate objective is to increase life expectancy of workers.METHODS: This is an exploratory interventional cohort study in an ecological situation. Three groups of participants will be purposefully sampled: employees, middle managers, and executive managers. Four levels of engagement are planned for employees: commencing with baseline health profiling from validated questionnaires; individualized feedback based on evidence-based medicine; support for behavioral change; and formal evaluation of changes in knowledge, practices, and health outcomes over time. Middle managers will also receive anonymous feedback on problems encountered by employees, and executive top managers will have indicators by division, location, department, age, seniority, gender and occupational position. Managers will be able to introduce specific initiatives in the workplace. WittyFit is based on two databases: behavioral data (WittyFit) and medical data (WittyFit Research). Statistical analyses will incorporate morbidity and well-being data. When a worker leaves a workplace, the company documents one of three major explanations: retirement, relocation to another company, or premature death. Therefore, WittyFit will have the ability to include mortality as an outcome. WittyFit will evolve with the waves of connected objects further increasing its data accuracy. Ethical approval was obtained from the ethics committee of the University Hospital of Clermont-Ferrand, France.RESULTS: WittyFit recruitment and enrollment started in January 2016. First publications are expected to be available at the beginning of 2017.CONCLUSIONS: The name WittyFit came from Witty and Fitness. The concept of WittyFit reflects the concept of health from the World Health Organization: being spiritually and physically healthy. WittyFit is a health-monitoring, health-promoting tool that may improve the health of workers and health of companies. WittyFit will evolve with the waves of connected objects further increasing its data accuracy with objective measures. WittyFit may constitute a powerful epidemiological database. Finally, the WittyFit concept may extend healthy living into the general population.TRIAL REGISTRATION: Clinicaltrials.gov: NCT02596737; https://www.clinicaltrials.gov/ct2/show/NCT02596737 (Archived by WebCite at http://www.webcitation.org/6pM5toQ7Y).",
+    "DOI": "10.2196/resprot.6267",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an exploratory interventional cohort study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "exploratory interventional cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an exploratory interventional cohort study without a control group, and it does not directly address employment outcomes for people with mental health disorders. The intervention focuses on workplace-delivered health promotion rather than active employment policies.",
+            "study_design": "Exploratory interventional cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

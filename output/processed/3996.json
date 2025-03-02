@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3996,
+    "Authors": "Collie, Alex; Sheehan, Luke",
+    "Article Title": "The burden of working time lost to compensable occupational injury and disease in Australia, 2012-17: a retrospective population-based study",
+    "Abstract": "ObjectivesTo determine the national burden of working time lost to occupational injury and disease in Australia compensable by workers' compensation schemes; to characterise the distribution of time lost by age, sex, and injury and disease type.Study designRetrospective population-based study; analysis of National Dataset for Compensation-based Statistics (NDS) data.Setting, participantsGranted workers' compensation claims by people aged 15-100 years including payment of wage replacement benefits for time off work lodged in Australia, 1 July 2012 - 30 June 2017.Main outcome measuresWorking years lost (WYL) per annum (total number of years of wage replacement benefits paid to injured and ill workers), overall and by sex, age, and injury and disease type; WYL per 10 000 fulltime equivalent (FTE) years worked.ResultsA total of 755 330 eligible claims with complete data for analysis variables by people aged 15-100 years were identified, for compensable injuries and disease that led to 41 194 (95% confidence interval [CI], 41 020-41 368) WYL/year. The annual WYL number and rate were each higher for men (25 367 [95% CI, 25 230-25 503] WYL/year; 42.6 [95% CI, 42.1-43.1] WYL/10 000 FTE years) than for women (15 827 [95% CI, 15 720-15 935] WYL/year; 38.8 [95% CI, 38.2-39.4] WYL/10 000 FTE years). Workers aged 45-100 years made 66 742 claims per year (44.1% of all claims) but incurred 21 763 WYL/year (52.8% of all WYL). Traumatic joint and muscle injuries led to 16 494 WYL/year (40.0% of all WYL), musculoskeletal disorders to 8547 WYL/year (20.7%), mental health conditions to 5361 WYL/year (13.0%), fractures to 4276 WYL/year (10.4%), and wounds and lacerations to 3449 WYL/year (8.4%).ConclusionsOccupational injury and disease covered by workers' compensation result in lost working time in Australia equivalent to more than 41 000 fulltime jobs. Distribution of the burden reflects the greater labour force participation of men, slower recovery of older workers, and the impact of common occupational injuries and diseases. Population-based monitoring of lost working time could support effective occupational health surveillance and allocation of resources for protecting the health of Australian workers.",
+    "DOI": "10.5694/mja2.52309",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a retrospective population-based study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "retrospective population-based study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the burden of working time lost due to occupational injuries and diseases in Australia.",
+            "study_design": "Retrospective population-based study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

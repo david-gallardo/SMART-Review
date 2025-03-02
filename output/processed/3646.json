@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3646,
+    "Authors": "Branstrom, Richard; van der Star, Arjan; Pachankis, John E.",
+    "Article Title": "Untethered lives: barriers to societal integration as predictors of the sexual orientation disparity in suicidality",
+    "Abstract": "Purpose Despite increasing legal protections and supportive attitudes toward sexual minorities (e.g., those who identify as lesbian, gay, and bisexual [LGB]) in recent decades, suicidality remains more common among this population than among heterosexuals. While barriers to societal integration-or a lack of meaning, purpose, and belonging as derived from societal norms, goals, and attachment-have been widely theorized as determinants of suicidality for the general population, they have not been comprehensively explored to explain the sexual orientation disparity in suicidality. The aim of this study was to examine differences in suicidal ideation and attempts between LGB and heterosexual individuals in a nationally representative sample, and to examine barriers to societal integration as a potential explanation for any observed disparities over-and-above the influence of established contributors to sexual orientation disparity in suicidality. Methods Data come from the cross-sectional Swedish National Public Health Survey, which collected data from unrestricted random samples of individuals (16-84 years of age) living in Sweden, annually from 2010 to 2015 (n = 57,840 individuals [response rates: 48.1-51.3%]; 1281 (2.2%) self-identified as LGB). Analyses examined sexual orientation differences in suicidality (i.e., past-12-month ideation and attempts), and explored the role of barriers to societal integration (i.e., not living with a partner or children, unemployment, and lack of societal trust) in explaining this disparity over-and-above more commonly explored psychological (e.g., depression, substance use) and interpersonal (e.g., discrimination, victimization, lack of social support) suicidality risk factors. Results Compared to heterosexuals, suicidal ideation and attempts were more common among both gay men/lesbians (adjusted odds ratio [AOR] for suicide ideation: 2.69; 95% confidence intervals [CI]: 2.09, 3.47; AOR for suicide attempts: 5.50; 95% CI: 3.42, 8.83), and bisexuals (AOR for suicide ideation: 3.83; 95% CI: 3.26, 4.51; AOR suicide attempts: 6.78; 95% CI: 4.97, 9.24). Barriers to societal integration mediated the association between sexual orientation and suicidality even in models adjusting for established risk factors for suicidality. Conclusion Our results suggest that previously under-examined factors, namely the disproportionate barriers to societal integration that LGB individuals experience, are important contributors to the substantially elevated risk of suicidality among sexual minorities. Preventive interventions should consider innovative ways to foster societal integration within sexual minority populations and to adjust hetero-centric social institutions to better include sexual minority individuals.",
+    "DOI": "10.1007/s00127-019-01742-6",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines barriers to societal integration as predictors of suicidality among sexual minorities.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and focuses on suicidality among LGB individuals. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

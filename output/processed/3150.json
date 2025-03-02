@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3150,
+    "Authors": "Meyer-Kalos, Piper S.; Roe, David; Gingerich, Susan; Hardy, Kate; Bello, Iruma; Hrouda, Debra; Shapiro, Daniel; Hayden-Lewis, Katherine; Cao, Liping; Hao, Xiaoyu; Liang, Yanbin; Zhong, Siqian; Mueser, Kim T.",
+    "Article Title": "The impact of COVID-19 on coordinated specialty care (CSC) for people with first episode psychosis (FEP): Preliminary observations, and recommendations, from the United States, Israel and China",
+    "Abstract": "In the wake of COVID-19, mental health providers and treatment programs are adapting rapidly to the challenges in engaging people and delivering treatment with limited guidance. This paper will explore the challenges associated with delivering treatment within coordinated specialty care (CSC) programs for people with first episode psychosis. Suggestions for treatment will take into consideration experiences with stress, changes to the pursuit of work and school, and increased time spent with families. Drawing on the experience of several CSC programs in the United States, Israel, and China, we describe the impact and modifications to the core treatment elements in CSC including medication, family interactions, supported employment and education, individual therapy, peer support and the way they are delivered. The paper includes recommendations based on experiences from CSC programs to help staff members, participants, and family members better identify, prepare, cope and respond to the unique new challenges and suggests modifications that can be made during various stages of the coronavirus pandemic.",
+    "DOI": "10.1080/09515070.2020.1771282",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the challenges and modifications to the core treatment elements in CSC programs for people with first episode psychosis during the COVID-19 pandemic.",
+            "study_design": "Correlational study or descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCTs, quasi-experimental studies) and does not have a control group. Additionally, the geographic scope is outside of the specified regions (US, Israel, China). The timeframe also extends beyond the specified period (2005-2025).",
+            "study_design": "Preliminary observations from multiple countries without rigorous evaluation design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on coordinated specialty care for people with first episode psychosis and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a rigorous evaluation design or control group.",
+            "study_design": "Qualitative/Descriptive",
+            "logprobs": null
+        }
+    }
+}

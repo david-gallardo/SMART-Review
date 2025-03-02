@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3498,
+    "Authors": "Fila, Marcus J.; Eatough, Erin",
+    "Article Title": "Extending the Boundaries of Illegitimate Tasks: The Role of Resources",
+    "Abstract": "We replicate several studies that have shown illegitimate tasks to be related to strain above and beyond job demands, but extend previous work by addressing (i) whether they are when accounting for job demands and resources and (ii) whether resources mitigate strain relationships. We separately examine unreasonable and unnecessary task subdimensions. Using hierarchical regression analyses, results show that unreasonable tasks account for additional variance in anxiety (9.9%) and depressive symptoms (7.3%) beyond both main and multiplicative effects of job demands and resources of control, and support from supervisors and coworkers, in 214 early-career employees. In addition, unreasonable tasks, control, and supervisor support interact, such that task unreasonableness is less strongly tied to depressive symptoms for those perceiving high supervisor support; and high levels of control and supervisory support resources buffer links between unreasonable tasks and both outcomes. Unexpectedly, task unreasonableness is unrelated to anxiety for those perceiving low control and supervisor support, suggesting a possible habituation effect under undesirable workplace conditions. No interactive effects are found for unnecessary tasks or for coworker support. Our findings offer new understanding of the construct domain space and dimensionality of illegitimate tasks, and address several important practical and theoretical implications surrounding the role of resources.",
+    "DOI": "10.1177/0033294119874292",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and does not have a control group.",
+            "study_design": "Hierarchical regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes for people with mental health disorders. It focuses on the role of resources in relation to strain and mental health symptoms among early-career employees.",
+            "study_design": "Cross-sectional survey using hierarchical regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, nor does it specifically address interventions for people with mental health disorders.",
+            "study_design": "Hierarchical regression analses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2543,
+    "Authors": "Paek, Seung Chun; Zhang, Ning J.",
+    "Article Title": "Employment and Self-rated Depression Among Older Persons in Thailand",
+    "Abstract": "Background: Increasing attention has been paid to productive engagement as an important protective factor against depression in older persons. This study assessed the impact of employment on self -rated depression among older persons in Thailand using a matched sample obtained from a propensity score matching method. Methods: This study involved a cross-sectional secondary data analysis using the 2019 Health and Welfare Survey dataset. Descriptive analysis and ordered logistic regressions were used. Results: The effect of employment was negative for self -rated depression with an adjusted odds ratio (AOR) of 1.417. This indicates that employment could reduce self -rated depression among older persons, regardless of differences in demographic and socioeconomic conditions. Additionally, analysis using the entire sample of data revealed significant socioeconomic inequalities in self -rated depression, i.e., older persons who had low income (AOR = 0.974), were older (AOR = 1.015), female (AOR = 1.178), lived alone (AOR = 1.244), had a chronic health condition (AOR = 2.024), and lived in rural areas (AOR = 1.155) had a higher self -rated depression than their counterparts. Conclusion: The government should consider benchmarking its policies against other countries' policies that promote employment opportunities for older persons, such as South Korea's Employment Creation for The Elderly and Japan's Silver Human Resource programs. Additionally, social stress theory emphasizes environmental resources such as social support and networks as effective moderators that mitigate the socioeconomic inequalities associated with self -rated depression. Therefore, the government and local administrative authorities should strengthen current community -based social activity programs for older persons. The current low participation rate on these programs must be addressed.",
+    "DOI": "10.56808/2586-940X.1078",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional secondary data analysis, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional secondary data analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (Thailand is not in EU, Europe, US, Canada, or Australia).",
+            "study_design": "Cross-sectional secondary data analysis using propensity score matching method",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is also not focused on the interventions specified in the inclusion criteria (job search services, adult training, wage subsidies, supported employment). The study's population is not specifically defined as people with mental disorders or documented mental health problems, and the outcomes are not employment or labor outcomes.",
+            "study_design": "Cross-sectional secondary data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Thailand).",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

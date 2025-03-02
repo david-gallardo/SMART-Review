@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2372,
+    "Authors": "Chela-Alvarez, Xenia; Leiva, Alfonso; Gallardo-Alfaro, Laura; Bulilete, Oana; Vidal-Thomas, MClara; Llobera, Joan",
+    "Article Title": "Anxiety, Depression, and Concern About Employment Status of Hotel Housekeepers in the Balearic Islands During the COVID-19 Pandemic: A Longitudinal Study",
+    "Abstract": "Tourism is a crucial economic sector in the Balearic Islands (Spain). COVID-19 pandemic might severely impact hotel housekeepers (HHs) due to their already precarious employment situation. The purpose is to assess the evolution of the concern about employment status, anxiety, and depression of HHs. This is a longitudinal study conducted with a subset of participants from a primary care, health promotion intervention study. Two additional visits were added (March-April and October-December 2020) for the purpose of this study. We recruited 290 HHs in March-April 2020; 237 were again interviewed during October-December 2020. In the first visit, high level of concern about employment was associated with age under 50, temporary contracts and external locus of control (LOC). Moderate-severe anxiety was associated with low social support and external LOC; moderate-severe depression was associated with low social support. Regarding the second visit, age, years working as HH, type of contract, social support, and LOC were not associated with concern about employment status, anxiety, and depression. There was a larger proportion of HHs with moderate-severe anxiety and depression among HHs with high degree of concern. Concern increased significantly among HHs: over 50 years of age; with more than 15 years in the job, a recurring seasonal contract and normal social support. After adjusting by age, type of contract, LOC, and social support, we found a statistically significant increase (12.0%) of HHs highly concerned about their job situation: compared to the first visit, HHs were 2.3 more likely to have a high degree of concern in December 2020. In contrast, increases in moderate-severe anxiety (0.3%) and depression (4.3%) between the two periods were not significant. In HHs, the COVID-19 pandemic has caused significant concern about employment status and symptoms of depression and anxiety. In the uncertain times of the pandemic, mental wellbeing benefits from variables that confer stability, such as internal LOC, perception of social support, and a stable job. Longitudinal results point at long lasting effects of the COVID-19 pandemic on mental health. It is crucial to allocate additional resources in primary care to adequately address the anticipated influx of needs.",
+    "DOI": "10.3389/fpsyg.2022.842335",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a longitudinal study without a control group.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it is a longitudinal study without a control group and does not directly address employment interventions. It focuses on mental health outcomes related to employment concerns but lacks an intervention component.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

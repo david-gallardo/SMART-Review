@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3770,
+    "Authors": "Adler, David A.; Lerner, Debra; Visco, Zachary L.; Greenhill, Annabel; Chang, Hong; Cymerman, Elina; Azocar, Francisca; Rogers, William H.",
+    "Article Title": "Improving work outcomes of dysthymia (persistent depressive disorder) in an employed population",
+    "Abstract": "Objective: To test the effectiveness of a work-focused intervention (WFI) on the work outcomes of employed adults with dysthymia.Method: This subgroup analysis froma randomized controlled trial compares an initial sample of 167 employees (age: >= 45 years), screened for dysthymia using the PC-SAD without current major depressive disorder randomized to WFI (n=85) or usual care (UC) (n=82). Study sites included 19 employers and five additional organizations. Telephone-based WFI counseling (eight, twice monthly 50-min sessions) provided work coaching and modification, care coordination and cognitive behavioral therapy. Adjusted mixed effects models compared the WFI vs. UC group preintervention to 4-month postintervention change in at-work limitations measured by the Work Limitations Questionnaire. Secondary outcome analysis compared the change in self-reported absences and depression symptom severity (Patient Health Questionnaire PHQ-9 scores).Results: Work productivity loss scores improved 43.0% in the WFI group vs. 4.8% in UC (difference in change: P<.001). Absence days declined by 58.3% in WFI vs. 0.0% in UC (difference in change: P=.09). Mean PHQ-9 depression symptom severity declined 44.2% in WFI vs. 5.3% in UC (difference in change: P<.001).Conclusion: At 4 months, the WFI was more effective than UC on two of the three outcomes. It could be an important mental and functional health improvement resource for the employed dysthymic population. (C) 2015 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.genhosppsych.2015.04.001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study includes a control group (usual care) and compares the outcomes of the work-focused intervention (WFI) group to the control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Included",
+            "reason": "Meets all inclusion criteria including study design (RCT), geographic scope (EU countries), timeframe (2005-2025), intervention (job search services and supported employment), population (people with mental disorders), and outcomes (employment or labor outcomes).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on dysthymia, which is a specific mental health disorder, not a broad category of mental health disorders. The intervention is also not directly related to employment but rather to work-focused intervention.",
+            "study_design": "Subgroup analysis from a randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, focuses on the US (within geographic scope), was published within the timeframe, targets people with mental health disorders, and includes employment outcomes such as work productivity loss scores.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

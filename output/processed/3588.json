@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3588,
+    "Authors": "Nyberg, Anna; Leineweber, Constanze; Hanson, Linda Magnusson",
+    "Article Title": "Gender differences in psychosocial work factors, work-personal life interface, and well-being among Swedish managers and non-managers",
+    "Abstract": "To explore differences in psychosocial work factors, work-personal life interface, and well-being between managers and non-managers, female and male managers, and managers in the public and private sectors.Data were drawn from the Swedish Longitudinal Occupational Survey of Health (SLOSH) 2010, including 602 female managers, 4174 female non-managers, 906 male managers, and 2832 male non-managers. Psychosocial work factors, work-personal life interface, satisfaction, and well-being were investigated among non-managers and managers and male and female managers, using logistic regression analyses adjusted for age, educational level, staff category, and labour market sector.Both female and male managers reported high job demands and interference between work and personal life, but also high influence, high satisfaction with work and life, and low amount of sickness absence more often than non-managers of the same sex. However, female managers reported high quantitative and emotional demands, low influence, and work-personal life interference more frequently than male managers. More psychosocial work stressors were also reported in the public sector, where many women work. Male managers more often reported conflicts with superiors, lack of support, and personal life-work interference. Female managers reported poor well-being to a greater extent than male managers, but were more satisfied with their lives.Lack of motivation due to limited increase in satisfaction and organisational benefits is not likely to hinder women from taking on managerial roles. Managerial women's higher overall demands, lower influence at work, and poorer well-being relative to men's could hinder female managers from reaching higher organisational levels.",
+    "DOI": "10.1007/s00420-015-1043-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is logistic regression analyses, which lacks a rigorous evaluation or no control group.",
+            "study_design": "logistic regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial work factors, well-being, and gender differences among managers in Sweden. It lacks interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

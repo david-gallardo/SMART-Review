@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2322,
+    "Authors": "Hoeffding, Louise K.; Nielsen, Maria Haahr; Rasmussen, Morten A.; Norup, Anne; Carlos Arango-Lasprilla, Juan; Kjaer, Ulrikka K.; Burgdorf, Kristoffer Solvsten; Schow, Trine",
+    "Article Title": "A manual-based vocational rehabilitation program for patients with an acquired brain injury: study protocol of a pragmatic randomized controlled trial (RCT)",
+    "Abstract": "Background: An acquired brain injury (ABI) is a complex injury often followed by a broad range of cognitive, physical, emotional, and behavioral disabilities. Because of these disabilities, vocational rehabilitation (VR) is a challenging task, however, of great importance, since approximately 75% of the patients with ABI are of working age. Thus, standardized clinically effective and cost-effective methodologies regarding VR for patients with ABI are highly needed. Therefore, the aim of this study is to evaluate the effect of an individually targeted manual-based VR for patient with ABI compared to conventional VR (usual care).Methods: This study is an interventional, two-arm, six-month follow-up, cluster randomized controlled trial involving four municipalities in the Zealand Region and the Capital Region of Denmark. A total of 84 patients with ABI evenly distributed across four municipalities will be included in the study. The patients will randomly be allocated in a 1:1 ratio to the VR intervention provided by a specialized Brain Injury Centre or the conventional VR provided by the municipalities (usual care). The six- to nine-month intervention will consist of individual and group therapies as well as a work placement program including supported employment. Furthermore, the intervention will include a family intervention program followed up by support to one individual family caregiver. The primary outcomes are increased work or study rate at six-month follow-up. Moreover, a budget impact analysis and possibly a cost-utility analysis of the intervention will be performed.Discussion: This study consists of a comprehensive multidiciplinary VR intervention involving several parties such as the municipalities, a specialized rehabilitation team, and patients' own family caregivers. If this intervention is proven successful when compared to the conventional VR, it will provide evidence for a manual-based individualized holistic approach in returning to work after an ABI. Furthermore, the study will contribute with novel knowledge regarding feasibility and clinical effectiveness of the VR intervention relevant to clinicians, researchers, and policymakers.",
+    "DOI": "10.1186/s13063-017-2115-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a pragmatic randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in EU countries (Denmark), within the specified timeframe (2005-2025), and addresses employment outcomes for people with mental health disorders (acquired brain injury).",
+            "study_design": "pragmatic randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on patients with acquired brain injury (ABI) rather than people with mental disorders. Although it involves vocational rehabilitation and supported employment, the population does not meet the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on patients with acquired brain injury (ABI) and does not specifically target individuals with mental health disorders as per the inclusion criteria.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Denmark is not included in EU countries, Europe, US, Canada, or Australia).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

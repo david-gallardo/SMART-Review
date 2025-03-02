@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2945,
+    "Authors": "Kantor, Jiri; Li, Jiaoli; Du, Jian; Svobodova, Zuzana; Klugar, Miloslav; Salehi-Pourmehr, Hanieh; Hampton, David; Smolikova, Monika; Kantorova, Lucia; Mareckova, Jana; Zmeskalova, Daniela; Munn, Zachary",
+    "Article Title": "Impact of educational and psychological interventions compared with standard care in college/university students with autism spectrum disorder: a systematic review protocol",
+    "Abstract": "Objective:This review will explore the impact of educational and psychological interventions on educational, social, behavioral, and mental health outcomes in students with autism spectrum disorder in tertiary education. Introduction:This systematic review will inform a new guideline on support for students with autism spectrum disorder in the tertiary education environment. These students face multiple educational, behavioral, social, and health-related problems that require effective interventions. Inclusion criteria:Participants are students with autism spectrum disorder in a tertiary education study program. Educational and psychological interventions will be included, such as accommodations, meta-cognitive and self-regulation training, psychological counseling, social skills training, and peer-mentoring/academic coaching. The comparator will be standard care. The study outcomes will include academic drop-out rates and evaluations, learning skills, social skills and social engagement, behavior, mental health (including anxiety, stress, and depression), and employment after graduation. This review will consider quantitative studies only. Methods:A 3-step search strategy will be used to find both published and unpublished studies in MEDLINE, CINAHL, APA PsycINFO, SocINDEX, Web of Science, Clinical Trials, ProQuest Dissertations and Theses, Open Dissertations, ERIC, WHO ICRTP, and Google Scholar. There will be no date or language limitations. All stages of article screening, critical appraisal, and data extraction will be conducted by 2 independent reviewers with the resolution of any disagreements done via consensus or through a senior reviewer. If possible, the included studies will be pooled using meta-analysis. The degree of certainty of the evidence will be assessed according to the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach. Systematic review registration number:PROSPERO CRD42022323554",
+    "DOI": "10.11124/JBIES-22-00251",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study population does not reference mental health or has an undefined population, specifically students with autism spectrum disorder in a tertiary education study program.",
+            "study_design": "Systematic review protocol",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on students with autism spectrum disorder in tertiary education and does not address employment outcomes for people with mental health disorders. The intervention types (educational and psychological interventions) do not align with the specified interventions related to active employment policies.",
+            "study_design": "Systematic review protocol",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is students with autism spectrum disorder, not people with mental health disorders. The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

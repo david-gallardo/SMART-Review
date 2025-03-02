@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3687,
+    "Authors": "Roy, Amanda L.; Isaia, Ashley; Li-Grining, Christine P.",
+    "Article Title": "Making Meaning From Money: Subjective Social Status and Young Children's Behavior Problems",
+    "Abstract": "While early exposure to poverty has been linked to decrements in children's behavior through underlying pathways of parenting stress and depression, extant research has typically relied on the use of objective measures of socioeconomic status (SES) to test these associations. However, children's development may be shaped by the ways that parents perceive social class, which may operate independently and differentially from objective SES. Using structural equation modeling, the present study explores relationships between parent's ratings of subjective social status (SSS), objective indicators of SES (income-to-needs ratio, education, employment status), and young children's (ages 0-3) behavior problems among 173 low-income families living in an urban area in the northeast United States. In addition, we consider whether parent's stress and depression underlie these associations. Results demonstrate negative relationships from both objective SES and SSS to parent's well-being. Moreover, in keeping with the Family Stress Model, we find that both SES and SSS are related to children's adjustment via parent's stress and depression; parents who have lower levels of education, are not employed, and who report lower SSS also report higher levels of stress, which in turn is related to higher levels of children's behavior problems. To our knowledge, this is the first study to test assumptions of the Family Stress Model using both subjective and objective indicators of social status, and one of few studies exploring linkages between parent's perceptions of SSS and children's behavior problems.",
+    "DOI": "10.1037/fam0000487",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationships between parent's ratings of subjective social status, objective indicators of SES, and young children's behavior problems.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the relationship between subjective social status and behavior problems in young children.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on children's behavior problems and parental perceptions of social status, not employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also does not include employment outcomes.",
+            "study_design": "Structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3067,
+    "Authors": "Ikar, N.; Sommer, S.; Schmidt, M.; Loewe, C.; Kasten, S.; Gavrilov, B.; Hunzelar, C.; Bockheim, F.; Panos-Willuhn, J.; Offenberg, L.; Oberholz, M.; Weltermann, B.",
+    "Article Title": "Unemployed individuals contact GPs more frequently but report lower satisfaction: results of the population-based DEGS1 and the GPCare-1 patient survey",
+    "Abstract": "Unemployment is associated with a variety of adverse health-related outcomes, yet little data on primary care services for this risk group exist. Using data from two surveys, we analyzed the frequency of GP contacts and patients' experiences with GPs comparing unemployed with employed individuals. Data of the German Health Interview and Examination Survey for Adults (DEGS1), a nationwide cross-sectional study (n = 8151), were analyzed regarding associations between employment status and the number of GP visits. The General Practice Care-1 study (GPCare-1), a cross-sectional questionnaire survey (n = 813), evaluated patients' communication with their GP. Data were collected from June to August 2020 in 12 teaching practices affiliated with our university. The statistical analysis included individuals of working age (18-64 years old) (DEGS1 n = 5659, GPCare-1 n = 587). In both studies, working age subpopulations were analyzed (DEGS1: n = 5659 of 8151, GPCare-1: n = 587 of 813). In DEGS1, the prevalence of unemployment was 6.5% (n = 372). Unemployed individuals had more GP contacts in the last 12 months (4.50 vs. 2.86, p < 0.001). In the GPCare-1 study, unemployed individuals (6.6%, n = 39) were significantly less satisfied with GP communication: enough space in consultations (42.9% vs. 60.3%, p = 0.043), feeling comfortable to address sensitive topics (44.1% vs. 65.9%, p = 0.010), problems taken very seriously by GP (48.6% vs. 70.6%, p = 0.007). Yet, they were more willing to accept GPs' help for psychosocial burdens (67.6% vs. 47.6%, p = 0.024). GPs should be aware that patients with unemployment wish more support to cope with their burdening situation.",
+    "DOI": "10.1038/s41598-022-10621-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It examines the frequency of GP contacts and patient satisfaction among unemployed individuals compared to employed ones.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the frequency of GP contacts and satisfaction with GP communication among unemployed individuals.",
+            "study_design": "Cross-sectional surveys (DEGS1 and GPCare-1)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional studies",
+            "logprobs": null
+        }
+    }
+}

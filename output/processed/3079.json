@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3079,
+    "Authors": "Moreno-Maldonado, Concepcion; Jimenez-Iglesias, Antonia; Rivera, Francisco; Moreno, Carmen",
+    "Article Title": "Characterization of Resilient Adolescents in the Context of Parental Unemployment",
+    "Abstract": "This research analyzes a group of Spanish adolescents at high risk of adversity -conceptualized as living in households with no employed parent- in one of the countries where unemployment rates have risen significantly due to the recent economic recession. The objective was to identify sociodemographic and contextual factors that promote resilience in this context. Using the Extreme Group Approach and the theoretical framework of resilience, two groups of adolescents living in households with no employed parent were selected from the HBSC-2014 edition in Spain depending on their adaptive response to the risk, measured by a global health score. Therefore, from a total sample of 1336 adolescents at high risk (living in households with no employed parent), 290 resilient adolescents (those who presented the highest scores in their global health score) and 618 maladaptive adolescents (those presenting lower scores in their global health score) were selected, resulting in a final sample composed of 908 adolescents aged 11-18 years old (M = 15.2; DT = 2.18), with a balanced representation of boys and girls. Results showed that support from, and satisfaction with, family and friend relationships, as well as support from classmates and teachers, and satisfaction with the school environment, are protective factors that can foster resilience when facing adversity provoked by parental unemployment and its negative consequences for adolescent health. Intervention programs aimed at reducing the negative impact of parental unemployment on adolescent health should consider these contextual factors, as well as individual factors such as age or sex.",
+    "DOI": "10.1007/s12187-019-09640-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a cross-sectional analysis of sociodemographic and contextual factors that promote resilience in adolescents living in households with no employed parent.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on resilience in adolescents facing parental unemployment. It lacks interventions directly related to employment policies.",
+            "study_design": "Cross-sectional study using the Extreme Group Approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on adolescents in the context of parental unemployment, which is not directly related to employment interventions for people with mental health disorders. The study's population and outcomes are also not aligned with the specified inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2840,
+    "Authors": "Holmes, Nicola A.; van Agteren, Joseph E. M.; Dorstyn, Diana S.",
+    "Article Title": "A systematic review of technology-assisted interventions for co-morbid depression and substance use",
+    "Abstract": "Introduction Mental health interventions disseminated via, or accessed using, digital technologies are an innovative new treatment modality for managing co-morbid depression and substance use disorder. The present systematic review assessed the current state of this literature. Methods A search of the Cochrane Library, Embase, Pubmed, PsycInfo and Scopus databases identified six eligible studies (N-participants = 862), utilising quasi-experimental or randomised controlled designs. Reporting quality was evaluated and Hedges' g effect sizes (with 95% confidence intervals and p-values) were calculated to determine treatment effectiveness. Process outcomes (e.g. treatment satisfaction, attrition rates) were also examined. Results Quality ratings demonstrated high internal validity, although external validity was low. Effect size data revealed medium to large and short-term improvements in severity of depression and substance use symptoms in addition to global improvement in social, occupational and psychological functioning. Longer-term treatment effectiveness could not be established, due to the limited available data. Preliminary findings suggest that there was high client satisfaction, therapeutic alliance and client engagement. Discussion Mobile phone devices and the Internet can help to increase access to care for those with mental health co-morbidity. Large-scale and longitudinal research is, however, needed before digital mental healthcare becomes standard practice. This includes establishing critical therapeutic factors including optimum levels of assistance from clinicians.",
+    "DOI": "10.1177/1357633X17748991",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria for intervention as it focuses on technology-assisted interventions for co-morbid depression and substance use disorder, which is not one of the specified interventions (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic review, quasi-experimental",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes focus on mental health symptoms rather than labor outcomes.",
+            "study_design": "Systematic review of quasi-experimental and RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on co-morbid depression and substance use disorder, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental or randomized controlled trials",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

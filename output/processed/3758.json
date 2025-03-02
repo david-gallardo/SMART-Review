@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3758,
+    "Authors": "Conen, Katrina M.; Riviere, Lyndon A.; Kim, Paul Y.; Lee, Tyler; Reddy, Madhavi K.",
+    "Article Title": "The Effects of Burnout, Team Support, and Perceived Leader Effectiveness on Career Intentions Among JAG Corps Personnel",
+    "Abstract": "Introduction Destructive interpersonal relationships at work may result in negative feelings among employees that hinder personal and organizational productivity, which may also result in high levels of job disengagement and subsequent career turnover intentions. Leaders play a key role in creating work environments conducive to optimizing employee performance, organizational culture, and workplace well-being. Social support, which may include support from one's supervisor, colleagues, and loved ones, has been shown to reduce strains and perceived stressors at work. In the Army, the Judge Advocate General's Corps (JAGC) personnel have a unique position as lawyers and legal staff and have been shown to have high rates of burnout. To promote soldier health, well-being, and career longevity, it is important to understand the impact interpersonal relationships have on career intentions. The current study assesses the relationship between perceived leadership effectiveness and career intentions as moderated by burnout measured by job disengagement and team care activities in JAGC personnel.Materials and Methods The Walter Reed Army Institute of Research conducted a survey to understand factors affecting the well-being of the JAGC's soldier and civilian personnel as requested by the JAGC. JAGC personnel were administered several questionnaires covering a range of work and mental health topics. Job disengagement, career intentions, team care activities, and general leadership were assessed. A total of 831 JAGC personnel completed the survey, the majority (92%) of which were soldiers. Among soldiers, first lieutenants and captains (similar to 49%) were the majority. The sample largely consisted of men (similar to 63%), White individuals (similar to 76%), married individuals, (70%), and individuals with graduate degrees (similar to 81%).Results One in four participants (similar to 29%) experienced high levels of disengagement, with their work. Over two-thirds of participants agreed that their immediate supervisor is an effective leader. When asked about career intentions, the majority of JAGC participants (54%) indicated that they would probably or definitely stay in the JAGC until retirement. Ordinal logistic regressions were conducted to assess the relationship between perceived leader effectiveness and career intentions, assessing the main effects of job disengagement and team care activities, and the interactions between those variables. No interaction effects were found to be significant, but main effects for perceived leader effectiveness were significant.Conclusions JAGC personnel reported higher levels of job disengagement for those with career intentions that were undecided or definitely leaving the JAGC after their current obligation. Those who were engaged in more team care activities had lower levels of disengagement. While the majority of the JAGC participants indicated career intentions to stay in the JAGC until retirement, increasing perceived effectiveness of leaders could help increase attrition and career intentions to stay in the JAGC beyond one's current obligation.",
+    "DOI": "10.1093/milmed/usae290",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on career intentions and job disengagement among JAG Corps personnel. It lacks direct measures of employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

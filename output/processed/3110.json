@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3110,
+    "Authors": "Filia, K.; Teo, S. M.; Brennan, N.; Freeburn, T.; Baker, D.; Browne, V.; Watson, A.; Menssink, J.; Prasad, A.; Killackey, E.; Mcgorry, P. D.; Cotton, S. M.; Gao, C. X.",
+    "Article Title": "Interrelationships between social exclusion, mental health and wellbeing in adolescents: insights from a national Youth Survey",
+    "Abstract": "Aims Adolescence is a critical developmental phase during which young people are vulnerable to the experiences of mental ill-health and social exclusion (consisting of various domains including education and employment, housing, finances and social supports and relationships). The aims of this study were to (i) obtain an understanding of the relationships between social exclusion, mental health and wellbeing of young people; and (ii) identify potentially modifiable targets, or population groups that require greater or targeted supports.Methods Data were obtained from the Mission Australia 2022 Youth Survey, Australia's largest annual population-wide survey of young people aged 15-19 years (n = 18,800). Participants' experiences of social exclusion in different domains were explored (e.g., prevalence, co-occurrence and controlling for differences in demographic characteristics). Multivariable linear regression models were used to map the relationships between social exclusion domains and mental health and wellbeing, controlling for confounding factors where necessary.Results Sixty per cent of all young people experienced social exclusion in at least one domain, 25% in multiple. Young people who identified as gender diverse, Indigenous, living in a remote/rural or socio-economically disadvantaged area and with a culturally diverse background were more likely to report social exclusion. A strong association was seen between all domains of social exclusion and poor mental health (e.g., higher psychological distress and loneliness, reduced personal wellbeing, reduced sense of control over their life and a more negative outlook on the future). Notably, difficulties in socialising and obtaining social support were critical factors linked to increased psychological distress and reduced wellbeing.Conclusions Findings underscore the need to address multiple domains of social exclusion concurrently, and in collaboration with youth mental healthcare. Prevention efforts aimed at early identification and intervention should be prioritised to support young people vulnerable to social exclusion. Screening approaches are needed to identify individuals and groups of young people in need of support, and to facilitate care coordination across multiple providers.",
+    "DOI": "10.1017/S2045796024000878",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on social exclusion and its relationship with mental health and wellbeing in adolescents.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Youth Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for adults with mental health disorders.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

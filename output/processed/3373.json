@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3373,
+    "Authors": "Raynor, Katrina; Panza, Laura",
+    "Article Title": "Tracking the impact of COVID-19 in Victoria, Australia: Shocks, vulnerability and insurances among residents of share houses",
+    "Abstract": "COVID-19 is re-shaping cities and regions, as residents respond to large disruptions to employment and social interaction and threats to public health. While the impacts of COVID-19 are extensive, certain groups are more vulnerable than others. Our research examines the impact of COVID-19 on members of share houses in the state of Victoria, Australia. This cohort is more likely to be young, casually employed, living in informal arrangements and at risk of homelessness than the broader population. We propose a conceptual framework for investigating the factors driving vulnerability to shocks and the resources most likely to support individuals to respond to or recover from these shocks. We surveyed 1052 share house occupants in June 2020. We found dramatic results, with 74% losing their job or having their hours reduced, 47% experiencing a reduction in their financial situation and 50% reporting that their mental health had deteriorated. These outcomes were worse for young people, casual employees or immigrants. Our research highlights the positive influence of social support for low-income individuals. We find that government social welfare payments are the most impactful form of insurance, calling for a greater appreciation of the role of social welfare in supporting resilience following a disaster.",
+    "DOI": "10.1016/j.cities.2021.103332",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks measures of employment outcomes. It focuses on the impact of COVID-19 on share house occupants in Victoria, Australia, with a focus on vulnerability and social support rather than specific active employment policies.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of COVID-19 on residents of share houses in Victoria, Australia, which does not meet the specified inclusion criteria regarding the intervention (does not directly address employment) and the population (does not reference mental health or has an undefined population).",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

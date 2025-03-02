@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2337,
+    "Authors": "Honeycutt, Todd C.; Anand, Priyanka; Rubinstein, Max; Stern, Steven N.",
+    "Article Title": "Public Provision of Postsecondary Education for Transition-Age Youth With Mental Health Conditions",
+    "Abstract": "Objective: We examine the role of state vocational rehabilitation (VR) agencies (SVRA) in providing postsecondary education support to transition-age youth with and without mental health conditions (MHC) to provide insights into who receives such supports and the association between the receipt of postsecondary education support and successful VR exits. Method: We used data from SVRA administrative records (fiscal years 2002 through 2013) for a secondary analytical approach that relied on descriptive and regression methods, resulting in the identification of 436,883 VR youth clients who applied from 2002 to 2004. Linear regression models examined the relationships between youth demographic and service characteristics and each of 4 binary outcomes derived from the administrative records: (1) receipt of VR services, (2) receipt of college support (conditional on receiving services), (3) receipt of vocational training support (conditional on receiving services), and (4) exiting with employment. Results: SVRAs had a wide range in the provision of postsecondary education support to clients with MHC, from almost none receiving such supports to more than half. VR youth clients with MHC were less likely than those without MHC to have received any VR services or college support. Receipt of postsecondary education support was positively associated with being employed at the time of VR exit, and the associations for those with MHC were not statistically different from those without MHC. Conclusions and Implications for Practice: SVRAs have the potential to play a large role in the provision of postsecondary education support. Although those who received postsecondary education support were more likely to be employed at the time of VR exit, the provision of that support came at a cost-the high financial costs of that type of support relative to other services offered by SVRAs, as well as the opportunity cost of the client's time.",
+    "DOI": "10.1037/prj0000237",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a secondary analytical approach that relied on descriptive and regression methods, and it does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Secondary analytical approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group. It uses descriptive methods and regression models on administrative data without random assignment.",
+            "study_design": "Descriptive analysis with regression models using administrative records",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational rehabilitation services for youth with mental health conditions and does not specifically address employment outcomes or interventions aimed at active employment policies for people with mental health disorders.",
+            "study_design": "Secondary analytical approach using descriptive and regression methods",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adult training or other specified interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

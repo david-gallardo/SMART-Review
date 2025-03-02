@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2973,
+    "Authors": "Thielmann, Beatrice; Wagner, Anke; Bozorgmehr, Arezoo; Rind, Esther; Siegel, Achim; Hippler, Melina; Weltermann, Birgitta; Degen, Lukas; Goebel, Julian; Minder, Karen; Seifried-Duebon, Tanja; Junne, Florian; Herrmann-Werner, Anne; Joeckel, Karl-Heinz; Schroeder, Verena; Pieper, Claudia; Eilerts, Anna-Lisa; Wittich, Andrea; Rieger, Monika A.; Boeckelmann, Irina",
+    "Article Title": "The Predominance of the Health-Promoting Patterns of Work Behavior and Experience in General Practice Teams-Results of the IMPROVEjob Study",
+    "Abstract": "This study aims to identify the distribution of the Work-related behavior and experience patterns (Arbeitsbezogenes Verhaltens-und Erlebnismuster, AVEM) in general practitioners and their teams by using baseline data of the IMPROVEjob study. Members of 60 general practices with 84 physicians in a leadership position, 28 employed physicians, and 254 practice assistants participated in a survey in 2019 and 2020. In this analysis, we focused on AVEM variables. Age, practice years, work experience, and working time were used as control variables in the Spearman Rho correlations and analysis of variance. The majority of the participants (72.1%) revealed a health-promoting pattern (G or S). Three of eleven AVEM dimensions were above the norm for the professional group employed physicians. The AVEM dimensions striving for perfection (p < 0.001), experience of success at work (p < 0.001), satisfaction with life (p = 0.003), and experience of social support (p = 0.019) differed significantly between the groups' practice owners and practice assistants, with the practice owners achieving the higher values, except for experience of social support. Practice affiliation had no effect on almost all AVEM dimensions. We found a high prevalence of AVEM health-promoting patterns in our sample. Nearly half of the participants in all professional groups showed an unambitious pattern (S). Adapted interventions for the represented AVEM patterns are possible and should be utilized for maintaining mental health among general practice teams.",
+    "DOI": "10.3390/healthcare12030299",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a survey with a control group, the geographic scope is within the EU, Europe, US, Canada, or Australia, the timeframe is between 2005-2025, the intervention is job search services (implied by the study on work behavior and experience patterns), the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Survey with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly related to employment. It focuses on work-related behavior and experience patterns in general practice teams.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the behavior and experience patterns of general practitioners and their teams.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

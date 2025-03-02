@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3122,
+    "Authors": "Lamkaddem, Majda; Essink-Bot, Marie-Louise; Deville, Walter; Gerritsen, Annette; Stronks, Karien",
+    "Article Title": "Health changes of refugees from Afghanistan, Iran and Somalia: the role of residence status and experienced living difficulties in the resettlement process",
+    "Abstract": "Introduction: Worldwide, refugees show a poorer mental and physical health than the populations among which they resettle. Little is known about the factors influencing health after resettlement. We examined the development of mental and physical health of refugees. As experienced living difficulties might decrease with obtaining a residence permit, we expected this to play a central role in health improvement after resettlement. Methods: A two-wave study conducted in the Netherlands among a cohort of 172 recent (n = 68) and longstanding (n = 104) permit holders from Afghanistan, Iran and Somalia between 2003 and 2011. Multivariate mediation analyses were conducted for the effect of changes in living difficulties on the association between change in status and changes in health. Health outcomes were self-reported general health, number of chronic conditions, PTSD and anxiety/depression. Results: Recent permit holders had larger decreases in PTSD score (-0.402, CI -0.612; -0.192) and anxiety/depression score (-0.298, CI -0.464; -0.132), and larger improvements in self-rated general health between T1 and T2 (0.566, CI 0.183; 0.949) than longstanding permit holders. This association was not significant for changes in number of chronic conditions. Mediation analyses showed that the effect of getting a residence permit on health improvements transited through an improvement in living conditions, in particular employment and the presence of family/social support. Conclusion: These results suggest that change in residence permit is beneficial for health mainly because of the change in living difficulties. These results add up to the evidence on the role of social circumstances for refugees upon resettlement, and point at labour participation and social support as key mechanisms for health improvements.",
+    "DOI": "10.1093/eurpub/ckv061",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention, but rather focuses on the impact of residence permit changes on health outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (RCT, quasi-experimental) and its timeframe is outside the specified period (2005-2025). Additionally, the intervention focuses on living difficulties rather than active employment policies.",
+            "study_design": "Cross-sectional cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on refugees, not specifically on people with mental health disorders. Additionally, the interventions mentioned (residence permit and living difficulties) are not directly related to the specified employment interventions in the inclusion criteria.",
+            "study_design": "Two-wave study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. The intervention is not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

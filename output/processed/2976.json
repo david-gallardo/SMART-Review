@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2976,
+    "Authors": "Wood, Rebecca; Happe, Francesca",
+    "Article Title": "What are the views and experiences of autistic teachers? Findings from an online survey in the UK",
+    "Abstract": "Despite significant research into the education of autistic children and young people (CYP) and an increased awareness of the employment needs and rights of autistic adults, little attention has been paid to autistic teachers. We discuss findings drawn from an online survey in the UK in which autistic teachers and other autistic education staff (n = 149) describe the lack of understanding, sensory impacts, mental health issues and the complexities associated with revealing an autism diagnosis as a result of their work. These issues can represent significant impediments to either entering or remaining in the school education profession. Positive experiences were also found and, from a social justice perspective, the possibilities of autistic school staff to constitute a role model for autistic CYP and to facilitate their educational inclusion are considered. Future directions in this under-researched area are also discussed.Points of interest There is a lack of research into autistic teachers and other autistic school staff. Autistic school staff experience many difficulties in training, recruitment, job satisfaction and career development. Participants in our survey wrote that they lack support. They also find the physical environment of schools difficult and can experience mental health issues and prejudice. Some participants feared sharing the fact that they were autistic at work, but others had positive experiences of doing so. In the right circumstances, autistic staff in schools can make an important contribution to educational inclusion, particularly of autistic pupils.",
+    "DOI": "10.1080/09687599.2021.1916888",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Online survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders and focuses on the experiences and views of autistic teachers in the UK. It lacks an intervention related to active employment policies.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on autistic teachers and school staff, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "online survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, it lacks a control group and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3782,
+    "Authors": "Wildeman, Christopher; Andersen, Lars Hojsgaard",
+    "Article Title": "Long-term consequences of being placed in disciplinary segregation*",
+    "Abstract": "Being placed in restrictive housing is considered one of the most devastating experiences a human can endure, yet a scant amount of research has been conducted to test how this experience affects core indicators of prisoner reentry such as employment and recidivism. In this article, we use Danish registry data, which allow for us to link penal conditions to postrelease outcomes, to show how the reentry outcomes of individuals placed in disciplinary segregation, which is placement in restrictive housing because of disciplinary infractions, compare with those sanctioned for in-prison offenses but not placed in segregation. The results from matched difference-in-differences analyses show that Danish inmates placed in disciplinary segregation experience larger drops in employment and larger increases in the risk of being convicted of a new crime in the 3 years after release from a correctional facility than do Danish inmates who were sanctioned for a serious offense but not placed in disciplinary segregation as a result. Because being placed in disciplinary segregation, and restrictive housing more broadly, is so common, these results indicate that restrictive housing placement may be a key moderator of the effects of incarceration that merits more attention from criminologists, provided the associations shown here represent causal effects and generalize.",
+    "DOI": "10.1111/1745-9125.12241",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the consequences of being placed in disciplinary segregation, which is not an employment intervention.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders or document mental health problems. It focuses on the reentry outcomes of inmates placed in disciplinary segregation.",
+            "study_design": "matched difference-in-differences analysis using Danish registry data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. The population is prisoners, not specifically those with mental health problems.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

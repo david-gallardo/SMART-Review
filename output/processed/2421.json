@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2421,
+    "Authors": "Zell, Ethan; Stockus, Christopher A.",
+    "Article Title": "Social Support and Psychological Adjustment: A Quantitative Synthesis of 60 Meta-Analyses",
+    "Abstract": "Social support is the degree to which people are accepted by, cared for, and attended to by important others and is one of the most popular constructs in the psychological canon. This project synthesized data from 60 meta-analyses, which included over 2,700 studies and 2.1 million participants, to evaluate the association of social support with psychological adjustment. Results from a second-order meta-analysis indicated that, overall, social support yielded a robust association with psychological adjustment, r = .24, 95% CI [.22, .26]. Effects of social support were detectable across several outcome categories (mental health, psychological traits, educational outcomes, workplace outcomes), specific outcomes (depression, posttraumatic stress disorder, stress, burnout), and sources of support (friends, family, peers, teachers, coworkers, supervisors), and were detectable across age and cultural groups. However, perceived support was more strongly associated with psychological adjustment than received support. Furthermore, social support effects were larger when examining unhealthy samples, well-validated scales, and cross-sectional studies. Finally, effects were less pronounced in six meta-analyses that controlled for relevant covariates, r = .17, 95% CI [.10, .23]. Given the substantial variability of social support effects across prior meta-analyses (range = .07-.41), future study is needed to identify additional moderators of its association with psychological adjustment.",
+    "DOI": "10.1037/amp0001323",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association of social support with psychological adjustment.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment or labor outcomes and focuses on the association between social support and psychological adjustment.",
+            "study_design": "Meta-analysis of meta-analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social support and psychological adjustment, which does not align with the specified interventions for employment policies for people with mental health disorders. The study design is a meta-analysis, which meets the study design criteria, but the population and outcomes do not align with the inclusion criteria.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "meta-analysis",
+            "logprobs": null
+        }
+    }
+}

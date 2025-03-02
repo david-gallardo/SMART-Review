@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2808,
+    "Authors": "Alfayumi-Zeadna, Samira; Bina, Rena; Levy, Drorit; Merzbach, Rachel; Zeadna, Atif",
+    "Article Title": "Elevated Perinatal Depression during the COVID-19 Pandemic: A National Study among Jewish and Arab Women in Israel",
+    "Abstract": "This study assessed prevalence of perinatal depression symptoms (PNDS) during the COVID-19 pandemic among Arab and Jewish women in Israel and identified COVID-19-related risk factors for PNDS, while comparing Arab and Jewish women. Sample included 730 perinatal women (604 Jewish and 126 Arab) aged 19-45 years, who filled out an online self-report questionnaire. The questionnaire assessed several areas: perinatal experiences and exposure to COVID-19, social support, and financial and emotional impact. PNDS was measured by the Edinburgh Postnatal Depression Scale (EPDS). Prevalence of PNDS (EPDS >= 10) in the entire study population was 40.0%. Prevalence among Arab women was significantly higher compared to Jewish women (58% vs. 36%, PV < 0.001). Higher PNDS were significantly associated with anxiety symptoms (GAD >= 10) (PV < 0.001), stress related to COVID-19 (PV < 0.001), adverse change in delivery of healthcare services (PV = 0.025), and unemployment (PV = 0.002). PNDS has elevated more than twofold during COVID-19 in Israel. Such high rates of PNDS may potentially negatively impact women, and fetal and child health development. This situation requires special attention from public health services and policy makers to provide support and mitigation strategies for pregnant and postpartum women in times of health crises.",
+    "DOI": "10.3390/jcm11020349",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study assesses prevalence of perinatal depression symptoms and identifies risk factors, but it does not evaluate the effectiveness of any employment-related interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on perinatal depression symptoms (PNDS) during the COVID-19 pandemic, which is not directly related to employment interventions for people with mental health disorders. The study also does not include job search services, adult training, wage subsidies, or supported employment as interventions.",
+            "study_design": "National study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not have an intervention that directly addresses employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

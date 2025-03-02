@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3457,
+    "Authors": "Ochoa, Carol Y.; Lunsford, Natasha; Smith, Judith",
+    "Article Title": "Impact of informal cancer caregiving across the cancer experience: A systematic literature review of quality of life",
+    "Abstract": "Objective Informal caregiving may likely increase as the number of cancer survivors grows. Caregiving responsibilities can impact caregivers' quality of life (QOL). Understanding the current state of the science regarding caregiving QOL could help inform future research and intervention development. Methods A systematic literature review in PubMed/Medline examined research on QOL among informal cancer caregivers and related psychosocial health outcomes. Original research articles in English, published between 2007 and 2017 about caregivers (aged >18 years) of adult cancer patients in the United States were included. ed articles were categorized according to caregiving recipient's phase of survivorship (acute, middle to long-term, end of life/bereavement). Results Of 920 articles abstracted, 60 met inclusion criteria. Mean caregiver age ranged from 37 to 68 with the majority being female, non-Hispanic white, with at least a high school degree, and middle income. Almost half of the studies focused on caregivers who provided care for survivors from diagnosis through the end of active treatment. Studies examined physical health, spirituality, psychological distress, and social support. Differences in QOL were noted by caregiver age, sex, and employment status.",
+    "DOI": "10.1017/S1478951519000622",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria for intervention as it focuses on the impact of informal cancer caregiving on quality of life, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders. It focuses on informal caregiving for cancer patients.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on informal caregiving for cancer patients, not specifically on employment policies for people with mental health disorders.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

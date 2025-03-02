@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2805,
+    "Authors": "Knapstad, Marit; Holmgren, Kristina; Hensing, Gunnel; Overland, Simon",
+    "Article Title": "Previous sickness absence and current low perceived social support at work among employees in the general population: a historical cohort study",
+    "Abstract": "Objective: Although sickness absence often is a process over time, most studies have treated the phenomenon as a discrete event and focused more on its causes than its consequences. We aimed to examine whether various patterns of previous long-term sickness absence were associated with current low perceived social support at work.Method: This is a historical cohort study based on data from a population-based survey among Swedish employees (n=2581). The survey data were linked to official registries yielding data on sickness absence 17 years prior to the survey.Results: The main finding was that previous sickness absence was associated with current low perceived social support at work. The highest odds for low social support were found among those who had a stable high level of sickness absence. The two indicators of perceived social support employed were somewhat differently associated with previous sickness absence: Recency of absence showed to be of importance for general support at the workplace and the relationship with colleagues and superiors. Experiencing that one's immediate superior rarely or never regards one's view was, on the other hand, mainly related to having had a high level of sickness absence, irrespective of recency.Conclusions: Our results indicate that recency and extent of previous sickness absence are related to perceived social support at work. Future research on the relationship between social support and sickness absence should use repeated measurements and acknowledge the possible bidirectional relationship.",
+    "DOI": "10.1136/bmjopen-2014-005963",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a historical cohort study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Historical cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a historical cohort study without a control group, does not directly address employment interventions, and the population is from Sweden which is outside the specified geographic scope.",
+            "study_design": "Historical Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "historical cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Historical cohort study",
+            "logprobs": null
+        }
+    }
+}

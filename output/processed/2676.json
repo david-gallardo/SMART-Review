@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2676,
+    "Authors": "Picchio, Matteo; Ubaldi, Michele",
+    "Article Title": "Unemployment and health: A meta-analysis",
+    "Abstract": "This paper reports a meta-analysis of the relationship between unemployment and health. Our meta-dataset consisted of 327 study results taken from 65 articles published in peer-reviewed journals between 1990 and 2021. We found that publication bias is important, but only for those study results obtained by means of difference-in-differences or instrumental variables estimators. On average, the effect of unemployment on health is negative, but quite small in terms of partial correlation coefficients. We investigated whether the findings were heterogeneous across several research dimensions. We found that unemployment has the strongest impact on the psychological domains of health and long-term unemployment spells are more detrimental than short-term ones. Furthermore, women are less affected, studies dealing with endogeneity issues find smaller effects and the health penalty is increasing with unemployment rate.",
+    "DOI": "10.1111/joes.12588",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the relationship between unemployment and health, which does not meet the inclusion criteria.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders. It focuses on the relationship between unemployment and health without specifying any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between unemployment and health in general, not specifically on employment policies for people with mental health disorders.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "meta-analysis",
+            "logprobs": null
+        }
+    }
+}

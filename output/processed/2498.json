@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2498,
+    "Authors": "Schmidt, Susanne; Roesler, Ulrike; Kusserow, Talin; Rau, Renate",
+    "Article Title": "Uncertainty in the workplace: Examining role ambiguity and role conflict, and their link to depression-a meta-analysis",
+    "Abstract": "Health-related research on role stress in the workplace focuses mainly on the occurrence of depression and anxiety. Reviews for the latter are available. This meta-analysis relates role ambiguity/role conflict to depression. The initial literature search, part of a more comprehensive search, yielded about 50,000 results. Studies have been published in multiple languages. Thirty-three studies comprising 19,926 research subjects were statistically aggregated. Different meta-analytical approaches were used. The results show a moderate but significant positive relationship for both variables (role ambiguity: r = .279; role conflict: r = .318). Further, the distinctness of the role stressors was supported by meta-analytical computations. Moderators were tested and identified. We conclude that role ambiguity and role conflict overlap to some extent, but they should be categorized as distinct concepts for workplace research. Providing clearly defined roles and job objectives can be seen as one factor that can contribute to employee health and help prevent costs arising from workplace absence.",
+    "DOI": "10.1080/1359432X.2012.711523",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather examines the relationship between role ambiguity/role conflict and depression.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental disorders. It focuses on the relationship between role ambiguity and role conflict in the workplace and their link to depression.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on role stress and its link to depression, not on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "meta-analysis",
+            "logprobs": null
+        }
+    }
+}

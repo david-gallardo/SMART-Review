@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2492,
+    "Authors": "Norman, Ross; Lecomte, Tania; Addington, Donald; Anderson, Elizabeth",
+    "Article Title": "Canadian Treatment Guidelines on Psychosocial Treatment of Schizophrenia in Adults",
+    "Abstract": "Objective: It is generally recognised that psychosocial interventions are essential components of the effective treatment of schizophrenia in adults. A considerable body of research is being published regarding the effectiveness of such interventions. In the current article, we derive recommendations reflecting the current state of evidence for their effectiveness.Methods: Recommendations were formulated on the basis of a review of relevant guidelines, particularly those formulated by the Scottish Intercollegiate Guideline Network (SIGN) and National Institute for Health and Care Excellence (NICE).Results: There is evidence strongly supporting the use of family interventions, supported employment programs, and cognitive-behavioural therapy. There are also reasons to recommend the use of cognitive remediation, social skills training, and life skills training under specified circumstances. It is important that all patients and families be provided with education about the nature of schizophrenia and its treatment. Several recent innovative psychosocial approaches to treatment are awaiting more thorough evaluation.Conclusions: There continues to be strong evidence for the effectiveness of several psychosocial interventions in improving outcomes for adults with schizophrenia. In the past decade, innovative interventions have been described, several of which are the subject of ongoing evaluative research.",
+    "DOI": "10.1177/0706743717719894",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on psychosocial treatment of schizophrenia in adults, which does not meet the inclusion criteria for intervention.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation with a control group and does not directly address employment outcomes. It focuses on psychosocial interventions for schizophrenia.",
+            "study_design": "Review of guidelines",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia, which is not explicitly mentioned in the inclusion criteria as a mental health disorder. The inclusion criteria require the study to focus on people with mental health disorders in general, not a specific disorder.",
+            "study_design": "Review of guidelines",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes specifically and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

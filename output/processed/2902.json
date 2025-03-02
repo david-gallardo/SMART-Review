@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2902,
+    "Authors": "Yin, Xiaoxv; Sun, Na; Jiang, Nan; Xu, Xing; Gan, Yong; Zhang, Jia; Qiu, Lei; Yang, Chenhui; Shi, Xinwei; Chang, Jun; Gong, Yanhong",
+    "Article Title": "Prevalence and associated factors of antenatal depression: Systematic reviews and meta-analyses",
+    "Abstract": "To evaluate the global prevalence of antenatal depression and clarify its potential associated factors, we conducted two systematic reviews and meta-analyses, where appropriate. PubMed, Web of Science, and Embase were used to identify studies published up to Feb 28, 2019. The pooled prevalence of any antenatal depression across 173 studies with 182 reports was 20.7% (95% CI 19.4-21.9%, P = 0.000, I-2 = 98.4%), and the pooled prevalence of major antenatal depression across 72 studies with 79 reports was 15.0% (95% CI 13.6-16.3%, P = 0.000, I-2 = 97.8%). The prevalence of antenatal depression was higher in low- or lower-middle-income countries, and in studies using self-report instruments or conducted after the year 2010. History of depression, lack of social support, single/separated/divorced status, unplanned pregnancy, unemployment, experience of violence, and smoking before or during pregnancy were significantly associated with antenatal depression. The results of our study indicated that a significant number of pregnant women experience depression and verified some factors that are related to this disorder. As countermeasures, it is important to develop effective risk assessment strategies as well as prevention and intervention strategies for antenatal depression based on its associated factors.",
+    "DOI": "10.1016/j.cpr.2020.101932",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on antenatal depression rather than active employment policies for people with mental health disorders.",
+            "study_design": "Systematic reviews and meta-analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is pregnant women rather than people with mental health disorders.",
+            "study_design": "Systematic reviews of observational studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on antenatal depression, which is not directly related to employment or labor outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Systematic reviews and meta-analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Systematic review and meta-analysis",
+            "logprobs": null
+        }
+    }
+}

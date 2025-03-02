@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3574,
+    "Authors": "Parent-Lamarche, Annick; Marchand, Alain",
+    "Article Title": "Work stress, personality traits, and cortisol secretion: Testing a model for job burnout",
+    "Abstract": "BACKGROUND: Job stressors can cause a salivary cortisol secretion dysregulation which in turn can lead to burnout. However, job stressors do not induce the same cortisol secretion dysregulation and psychic consequences systematically to all workers. Personality traits may influence job stressor's adaptation. The objectives of this study were (a) to verify the mediating effect cortisol has on the relationship between work conditions and burnout, and (b) to identify the moderate mediation effects that personality traits have on the relationship between work conditions and salivary cortisol secretion.METHOD: Multilevel regression analyses were carried out on a sample of 352 employees in 34 Quebec firms. Saliva samples were collected five times a day (on awakening, 30 minutes after awakening, at 2 p.m., 4 p.m., and bedtime) on three days (1 day off, 2 work days). Work conditions variables comprised skill utilization, decision authority, psychological demands, physical demands, job insecurity, irregular schedules, number of working hours, and social support. Personality traits included self-esteem, locus of control, and the Big Five. Both work conditions and personality traits were assessed with a psychosocial questionnaire.RESULTS: The level of salivary cortisol secretion was negatively associated with burnout. Certain workplace and personality variables had a significant effect on emotional exhaustion (psychological demands was positively associated, social support from supervisors was negatively associated) and on cortisol levels (job insecurity was negatively associated). Cortisol did not play any mediating role in the relationship between work conditions and burnout, which is moderated by personality traits.CONCLUSIONS: We conclude that work conditions (skill utilization, decision authority, psychological demands, physical demands, job insecurity, irregular schedules, number of working hours, and social support) and the interaction of personality traits with work conditions have no indirect effects on burnout.",
+    "DOI": "10.3233/WOR-182755",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group, which does not meet the inclusion criteria.",
+            "study_design": "Multilevel regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the relationship between work stressors, personality traits, and cortisol secretion in relation to job burnout.",
+            "study_design": "Cross-sectional study using multilevel regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, but rather on job stress and cortisol secretion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3070,
+    "Authors": "Miller-Roenigk, Brittany; Awad, Michael; Crouch, Maria C.; Gordon, Derrick M.",
+    "Article Title": "Substance Use and Trauma Among Adult Education Students in the United States",
+    "Abstract": "Adult basic education (ABE) programs in the United States serve millions of students annually to help them achieve high school equivalency, English proficiency, and other skills. These skills are necessary for upward mobility and competitiveness in the labor market, which is important for ABE students who are disproportionately affected by racial/ethnic disparities and poverty. Among learners who are not in ABE programs, substance use and trauma affect student outcomes. Similar research is limited among ABE students. Understanding the influence of these factors among ABE students can better inform interventions. The current study, grounded in Stress and Coping Theory, examined rates, risk factors, and gender differences for substance use and trauma among 286 ABE students. Results indicated that trauma is prevalent and associated with substance use, substance use suggests a need for brief counseling, and there were gender differences in substance use behaviors. Recommendations for interventions among ABE programs are discussed.",
+    "DOI": "10.1177/07417136211069415",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: adult training, which is not directly addressing employment, and the study does not present measures of employment or labor results.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specifically people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adult education students in the US and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

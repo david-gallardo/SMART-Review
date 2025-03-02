@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3492,
+    "Authors": "Danisewicz, Piotr; McGowan, Danny; Onali, Enrico; Schaeck, Klaus",
+    "Article Title": "The real effects of banking supervision: Evidence from enforcement actions",
+    "Abstract": "We present a novel way to examine macro-financial linkages by focusing on the real effects of bank supervisors' enforcement actions. Exploiting plausibly exogenous variation in supervisory monitoring intensity, we show that enforcement actions in single-market banks trigger temporarily large adverse effects for the macroeconomy by reducing personal income growth, the number of establishments, and increasing unemployment. These effects are related to contractions in bank lending and liquidity creation, and are more pronounced when we consider enforcement actions on both single-market and multi-market banks, and in counties with fewer banks and greater external financial dependence. (C) 2016 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.jfi.2016.10.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the macro-financial linkages of bank supervisors' enforcement actions, which is not related to active employment policies for people with mental health disorders.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and lacks any relevant intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on the macro-financial effects of banking supervision.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is the primary objective of the screening.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not focused on interventions related to employment services for people with mental health disorders.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not specified as people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3101,
+    "Authors": "Di Prinzio, Reparata Rosa; Arnesano, Gabriele; Meraglia, Igor; Magnavita, Nicola",
+    "Article Title": "Headache in Workers: A Matched Case-Control Study",
+    "Abstract": "A case-control study including 446 workers reporting headaches (cases; 136 males and 310 females, mean age 46.71 +/- 10.84 years) and 446 age- and sex-matched colleagues without headaches (controls; mean age 45.44 +/- 10.13) was conducted in the second half of 2020 in a sample drawn from socio health and commercial services companies to investigate the association of headache with lifestyle, metabolic, and work-related factors. Workers suffering from headache reported higher body weight (OR: 1.92, 95% CI: 1.46-2.53, p < 0.001), higher blood cholesterol (OR: 2.01, 95% CI: 1.46-2.77, p < 0.001), triglyceride (OR: 2.01, 95% CI: 1.20-3.35, p < 0.01), blood glucose (OR: 1.91, 95% CI: 1.16-3.24, p < 0.01), and blood pressure levels (OR: 1.76, 95% CI: 1.23-2.52, p < 0.01). In the year preceding the survey, cases had experienced a higher frequency of workplace violence (OR: 2.29, 95% CI: 1.25-4.20, p < 0.01 for physical aggression, OR: 2.22, 95% CI: 1.45-3.41, p < 0.001 for threat, OR: 2.74, 95% CI: 1.72-4.38, p < 0.001 for harassment) and were more frequently distressed (effort/reward ratio > 1) (OR: 1.82, 95% CI: 1.39-2.40, p < 0.001) than the controls. Compared to the controls, cases also had higher scores on anxiety and depression scales, lower scores on happiness, and lower levels of sleep quality (p < 0.001). The association of headaches with metabolic and mental health problems suggests that monitoring headaches in the workplace could help to identify workers at risk of impairment.",
+    "DOI": "10.3390/ejihpe12120130",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not directly address employment or labor outcomes.",
+            "study_design": "Case-control study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case-control study which lacks a rigorous evaluation and does not have a control group. It also does not directly address employment interventions or outcomes.",
+            "study_design": "Case-Control Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on headaches in workers, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Case-control study",
+            "logprobs": ""
+        }
+    }
+}

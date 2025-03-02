@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3460,
+    "Authors": "Pekmezi, Dori; Ainsworth, Cole; Holly, Taylor; Williams, Victoria; Benitez, Tanya; Wang, Kaiying; Rogers, Laura Q; Marcus, Bess; Demark-Wahnefried, Wendy",
+    "Article Title": "Rationale, design, and baseline findings from a pilot randomized trial of an IVR-Supported physical activity intervention for cancer prevention in the Deep South: the DIAL study.",
+    "Abstract": "Telephone-delivered interventions do not require frequent clinic visits, literacy, or costly technology and thus may represent promising approaches to promoting physical activity in the Deep South, a largely rural U.S. region, with generally lower physical activity, income, and education levels. Building on past Interactive Voice Response (IVR) system-based HIV studies and extensive formative research (11 focus groups on physical activity intervention needs/preferences in the Deep South), the resulting IVR-supported physical activity intervention is now being tested in a randomized controlled trial with a waitlist control. The sample (n=63) includes mostly obese (Mean BMI=30.1) adults (Mean age=43 years) in Birmingham, AL. Both genders (55.6% male) and African Americans (58.7%) are well-represented. Most participants reported at least some college (92%), full time employment (63.5%), and household income <$50,000 per year (61.9%). Baseline physical activity (Mean=39.6 minutes/week, SD=56.4), self-efficacy, self-regulation, and social support were low. However, high physical activity enjoyment and outcome expectations bode well. Self-report physical activity was associated with physical activity enjoyment (r=.36) and social support (friends r=.25, p's<.05) at baseline. Consequently, these may be important variables to emphasize in our program. Depression and anxiety were negatively correlated with some early indicators of behavior change (e.g., physical activity self-regulation; r's =-.43 and -.46, respectively, p's<.01) and thus may require additional attention. Such technology-supported strategies have great potential to reach underserved populations and address physical activity-related health disparities in this region.",
+    "DOI": "10.1016/j.conctc.2017.10.008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is focused on physical activity intervention for cancer prevention in the Deep South.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on an IVR-supported physical activity intervention for cancer prevention in individuals without specified mental health disorders. The population and outcomes do not align with the specified criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

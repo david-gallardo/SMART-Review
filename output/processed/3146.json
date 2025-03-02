@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3146,
+    "Authors": "Varotsis, N.",
+    "Article Title": "Impact of Telecommuting on Work-Family Conflict and Attitudes Among Greek Employees in Some Service Industries; Based on Working Restrictions During COVID-19",
+    "Abstract": "Telecommuting can be a necessary and excellent means of maintaining work activity in emergencies such as the corona-virus disease 2019 (COVID-19) pandemic, when a physical workplace is unfeasible. However, it may exacerbate work-family interfaces, burden daily personal life, and negatively affect employees' mental health. This study explored how telecommuting relates to work-family conflict during the COVID-19 pandemic, analyzing the data of 836 managers and employees from three major service sectors: tourism, public services, and retail. Relationships among variables were evaluated using linear regression. Based on the results, telecommuting violates the boundaries of work and family life.",
+    "DOI": "10.1080/10669868.2022.2101170",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on work-family conflict, which is not one of the specified outcomes.",
+            "study_design": "Linear regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the impact of telecommuting during the COVID-19 pandemic on work-family conflict and attitudes among Greek employees in service industries.",
+            "study_design": "Cross-sectional survey using linear regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

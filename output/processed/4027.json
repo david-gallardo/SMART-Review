@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4027,
+    "Authors": "Churchill, Sefa Awaworyi; Hayward, Mathew; Smyth, Russell; Trinh, Trong-Anh",
+    "Article Title": "Crime, community social capital and entrepreneurship: Evidence from Australian communities",
+    "Abstract": "Crime is an anti-social blight on communities that increases the cost of doing business, including for entrepreneurs. Drawing on Australian longitudinal data, this study examines the links between crime rates and the propensity for entrepreneurship within communities. We do so by matching propensity for entrepreneurship with types of crime found at the community level where crime occurs. We find that higher total crime rates, crimes against the person and property crime, significantly lower the propensity for entrepreneurship in communities. We also show that the core facets of community social capital - trust, membership in voluntary organizations and support and cooperation - mediate this relationship. Executive summary: We comprehensively examine whether higher community crime rates - crime on people and crime on property - cause lower rates of entrepreneurship. Entre-preneurship research extensively examines how gaining social capital, defined as the social re-sources one gains within one's community, promotes entrepreneurship. This study considers whether a pervasive community dynamic in crime impedes entrepreneurship. Specifically, we show that the two main kinds of crime - people and property - inhibit entrepreneurship. We show the facets of community social capital that mediate the relationship between crime and entrepreneurship. We inform the role of community-based social capital in pro-moting entrepreneurship (Kwon et al., 2013) by considering how higher crime lowers social capital and in turn entrepreneurship. We show that core facets of relational social capital - trust, voluntary membership in community bodies, support, and cooperation - mediate the relationship between crime and entrepreneurship. Likewise, communities with more robust reserves of social capital are better able to withstand crime and promote entrepreneurship. Examining the link between crime and entrepreneurship allows us to contribute to the literature on entrepreneurship and social capital. We discuss the various ways in which crime diminishes social capital to shape entrepreneurship. In our framework that is predicated on theory on community social capital, crime creates distrust because it causes citizens to be wearier and more suspicious of each other, impeding sharing of ideas and knowledge for ventures. Crime impedes the efficacy and membership of community-based organizations that allow entrepre-neurs to network. Crime reduces the support available for founders to start and sustain businesses in focal communities, as individuals seek opportunities and resources outside their communities. Crime diminishes the extent to which people take pride in and identify with their communities, as evidenced by voluntary membership in community organizations. Crime reduces collaboration because it leads to self-protective behaviors, including flight from high-crime communities, that hinder norms of reciprocity. Crime reduces cooperation as criminals are more likely to resort to coercion, as enforced by monitoring and violence, to solve business problems. Findings rely on a comprehensive database of crime rates across Australian postcodes. Crime is typically a localized phenomenon - it affects business outcomes in local communities. We obtain community-level crime rates from each Australian state and territory police force or relevant government agencies and match these data with entrepreneurship rates by postcode.Our primary identification strategy follows Dustmann and Fasani (2016), who estimate the effect of local area crime on mental health in the United Kingdom (UK). This identification strategy removes the effects of residential sorting and correlates crime with time-varying unobserved entrepreneurship determinants if there is no endogenous migration from local crime. The main findings are robust to instrumenting for local area crime to which movers are exposed and for historical abortion rates in the state or territory where the individual lives, as well as a number of other approaches to obtaining causal inference. The article holds considerable practical relevance for policymakers seeking to promote community entrepreneurship. Our study is highly relevant to community leaders and policy -makers working to boost local entrepreneurship. Findings strongly suggest that efforts to reduce crime are a primary mechanism to protect social capital within communities and, therefore, entrepreneurship. Policy initiatives dedicated to creating and expanding social ventures would a) boost entrepreneurship and social capital and b) mitigate the detrimental effects of crime on entrepreneurship (Wry and York, 2017).",
+    "DOI": "10.1016/j.jbusvent.2023.106291",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines the relationship between crime rates and entrepreneurship, but it does not address employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the relationship between crime and entrepreneurship in Australian communities.",
+            "study_design": "Cross-sectional analysis using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3238,
+    "Authors": "Gorini, Alessandra; Giuliani, Mattia; Marton, Giulia; Vergani, Laura; Barbieri, Simone; Veglia, Fabrizio; Tremoli, Elena",
+    "Article Title": "Spontaneous Participation in Secondary Prevention Programs: The Role of Psychosocial Predictors",
+    "Abstract": "Disease prevention is a multifaceted construct that has been widely studied. Nevertheless, in spite of its importance, it is still not sufficiently considered by the general population. Since the reasons for this lack of consideration are not yet fully understood, we created an Online Prevention Survey (OPS) to investigate the role of both sociodemographic and psychological factors in predicting individuals' spontaneous participation in secondary prevention programs. The results revealed that younger people, men, manual workers, unemployed people, and those who do not regularly practise physical activity were less likely to spontaneously participate in such programs. Furthermore, an analysis of the psychological determinants of the willingness to participate in secondary prevention programs showed that depressive symptoms negatively predict it, while an individual's perception of receiving high social support acts as a positive predictor. Based on these results, we suggest the need for implementing new tailored approaches to promote prevention initiatives to those segments of the population which are more reluctant to spontaneously undertake prevention paths.",
+    "DOI": "10.3390/ijerph17176298",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on predicting participation in secondary prevention programs.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and focuses on secondary prevention programs for disease rather than employment policies. It also lacks an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on secondary prevention programs and not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

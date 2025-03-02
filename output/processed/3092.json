@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3092,
+    "Authors": "Street, Towanda; Lewin, Amy; Woodall, Kelly; Cruz-Cano, Raul; Thoma, Marie; Stander, Valerie A.",
+    "Article Title": "Gender differences in marital and military predictors of service member career satisfaction",
+    "Abstract": "Background U.S. servicewomen may face unique military experiences unlike those of servicemen, and stressors can affect their satisfaction with the military. Understanding factors influencing satisfaction among the increasing number of U.S. servicewomen in the U.S. military is important for retention. Methods Using family stress theory, data from service members and their spouses (N = 9325) enrolled in the Millennium Cohort Family Study were analyzed using cross-sectional linear regression to evaluate the relationship between military and family stressors and service members' military satisfaction, and how these relationships differ by gender. Results Service members with more deployment experience and better mental health were more satisfied with the military, while spouse employment outside the home and work-family conflict were associated with less satisfaction. Gender, marital quality, and social support moderated the relationships between stressors and military satisfaction, suggesting they may impact men and women differently. Overall, however, work-family conflict was associated with decrements in the career satisfaction of both men and women. Conclusion This study increases our understanding of the influence military and family stressors have on service members' satisfaction with the military. It also reveals gender differences in military satisfaction and recommends strategies to address the needs of diverse military families.",
+    "DOI": "10.1111/fare.12697",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional linear regression, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional linear regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on marital and military predictors of service member career satisfaction.",
+            "study_design": "Cross-sectional linear regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional linear regression",
+            "logprobs": null
+        }
+    }
+}

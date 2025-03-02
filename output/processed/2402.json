@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2402,
+    "Authors": "Yang, Yinmei; Wang, Peigang; Kelifa, Mohammedhamid Osman; Wang, Bo; Liu, Mingxiu; Lu, Lili; Wang, Wei",
+    "Article Title": "How workplace violence correlates turnover intention among Chinese health care workers in COVID-19 context: The mediating role of perceived social support and mental health",
+    "Abstract": "Aim: To elucidate the effects of workplace violence on turnover intention among Chinese health care workers, and to identify the potential mediators in this relationship.Background: Workplace violence has emerged as a crucial determinant of turnover intention for health care workers.Methods: A cross-sectional survey was conducted among Chinese health care workers (N = 1,063) between 13 and 20 February 2020. Mediation effects were tested using structural equation modelling with weighted least squares mean and variance adjusted (WLSMV) estimator.Results: Workplace violence had both direct and indirect effects on turnover intention among Chinese health care workers. Specifically, perceived social support, mental health and perceived social support together with mental health partially mediated the relationship between workplace violence and turnover intention.Conclusions: Chinese health care workers experiencing violence during the COVID-19 outbreak were more likely to report turnover intention. Enhancing social support and reducing mental health problems would be beneficial in decreasing the detrimental effects of workplace violence on turnover intention.Implications for Nursing Management: Ensuring health care workers' health and safety is vital in reducing turnover intention, which in turn ascertains continuity of health care delivery. Health care managers should develop targeted interventions to improve social support and prevent post-violence mental health problems.",
+    "DOI": "10.1111/jonm.13325",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional survey without a control group, does not meet the inclusion criteria for rigorous evaluation. The geographic scope is outside of EU, Europe, US, Canada, and Australia. The intervention focuses on workplace violence and its effects on turnover intention rather than active employment policies targeting people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace violence and its impact on turnover intention among health care workers, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also lacks a control group and is outside the specified geographic scope.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

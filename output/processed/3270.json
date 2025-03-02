@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3270,
+    "Authors": "Aslund, Cecilia; Larm, Peter; Starrin, Bengt; Nilsson, Kent W.",
+    "Article Title": "The buffering effect of tangible social support on financial stress: influence on psychological well-being and psychosomatic symptoms in a large sample of the adult general population",
+    "Abstract": "Introduction: Financial stress is an important source of distress and is related to poor mental and physical health outcomes. The present study investigated whether tangible social support could buffer the effect of financial stress on psychological and psychosomatic health.Methods: Two separate postal surveys were sent to random samples in five counties in Sweden in 2004 and 2008, with a total of 84 263 respondents. The questionnaires included questions about financial stress, tangible social support, psychosomatic symptoms, and psychological well-being (General Health Questionnaire-12).Results: Individuals with high financial stress and low tangible social support had six to seven times increased odds ratios for low psychological well-being and many psychosomatic symptoms. By contrast, individuals with high financial stress and high tangible social support had only two to three times increased odds ratios for low psychological well-being and three to four times increased odds ratios for many psychosomatic symptoms, suggesting a buffering effect of tangible social support. Consistent with the buffering hypothesis, there were significant interactions between financial stress and social support, particularly in relation to low psychological well-being.Conclusions: Social support had its strongest effect at high levels of financial stress. The question whether the altering of our social networks may improve physical health is important for the prevention of ill health in people experiencing financial stress. Strengthening social networks may have the potential to influence health-care costs and improve quality of life.",
+    "DOI": "10.1186/s12939-014-0085-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on financial stress, psychological well-being, and psychosomatic symptoms.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (RCT, quasi-experimental) and has an outdated timeframe (published before 2005).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

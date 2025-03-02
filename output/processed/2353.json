@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2353,
+    "Authors": "Eguchi, Hisashi; Wada, Koji; Higuchi, Yoshiyuki; Smith, Derek R.",
+    "Article Title": "Co-worker perceptions of return-to-work opportunities for Japanese cancer survivors",
+    "Abstract": "PurposeThis study examined workplace factors and perceptions of Return-to-Work (RTW) opportunities for colleagues with cancer-related symptoms and/or treatment side effects in Japan.MethodsWe conducted an online, cross-sectional survey of 3710 employed Japanese individuals of working age. Colleagues' perceptions of RTW opportunities for cancer survivors were examined (using a Japanese questionnaire), along with workplace factors such as job demand, job control and workplace social support (using the Brief Job Stress Questionnaire). Associations between workplace factors and RTW opportunities were evaluated using multiple logistic regression analysis, with participants stratified in tertiles (low, middle and high) according to their levels of workplace social support and job control.ResultsColleagues' perceptions of inadequate RTW opportunities were associated with low workplace social support (middle tertile: Odds Ratio [OR] 1.22, 95% Confidence Interval [CI]: 1.08-1.36; low tertile: OR 1.43, 95%CI: 1.30-1.57; p for trend <0.01); low levels of job control (middle tertile: OR 1.27, 95%CI: 1.06-1.50; low tertile: OR 1.91, 95%CI: 1.64-2.21; p for trend <0.01); and no prior experience working with a cancer survivor (OR 2.08, 95%CI: 1.83-2.31).ConclusionsThis study suggests that workplace factors and prior experience of working with a cancer survivor may affect a colleagues' perception of RTW opportunities in Japanese workplaces. Consideration of workplace social factors (workplace support and job control), as well as increased openness and awareness of the particular needs of cancer survivors, is therefore essential to facilitate successful RTW in Japan, as elsewhere.Copyright (c) 2016 John Wiley & Sons, Ltd.",
+    "DOI": "10.1002/pon.4130",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders. It focuses on cancer survivors.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Japan).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

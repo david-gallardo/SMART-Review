@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4036,
+    "Authors": "Conron, Kerith J.; Goldberg, Shoshana K.; Halpern, Carolyn T.",
+    "Article Title": "Sexual orientation and sex differences in socioeconomic status: a population-based investigation in the National Longitudinal Study of Adolescent to Adult Health",
+    "Abstract": "Background Socioeconomic status (SES) is a fundamental contributor to health; however, limited research has examined sexual orientation differences in SES.Methods 2008-2009 data from 14051 participants (ages 24-32 years) in the US-based, representative, National Longitudinal Study of Adolescent to Adult Health were analysed using multivariable regressions that adjusted for age, race-ethnicity, childhood SES, urbanicity and Census region, separately for females and males. Modification by racial minority status (black or Latino vs white, non-Hispanic) was also explored.Results Among females, sexual minorities (SM) (10.5% of females) were less likely to graduate college, and were more likely to be unemployed, poor/nearpoor, to receive public assistance and to report economic hardship and lower social status than heterosexuals. Adjusting for education attenuated many of these differences. Among males, SM (4.2% of males) were more likely than heterosexuals to be college graduates; however, they also had lower personal incomes. Lower rates of homeownership were observed among SM, particularly racial minority SM females. For males, household poverty patterns differed by race-ethnicity: among racial minority males, SM were more likely than heterosexuals to be living at >400%federal poverty level), whereas the pattern was reversed among whites.Conclusions Sexual minorities, especially females, are of lower SES than their heterosexual counterparts. SES should be considered a potential mediator of SM stigma on health. Studies of public policies that may produce, as well as mitigate, observed SES inequities, are warranted.",
+    "DOI": "10.1136/jech-2017-209860",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on socioeconomic status (SES) rather than employment policies for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with multivariable regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on socioeconomic status differences between sexual minorities and heterosexuals in the US.",
+            "study_design": "Cross-sectional analysis using multivariable regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on socioeconomic status (SES) differences among sexual orientation groups.",
+            "study_design": "Population-based investigation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders and does not address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

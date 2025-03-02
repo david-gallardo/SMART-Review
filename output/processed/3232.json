@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3232,
+    "Authors": "Rezazadeh, Maryam S.; Hoover, Michael L.",
+    "Article Title": "Women's Experiences of Immigration to Canada: A Review of the Literature",
+    "Abstract": "This systematic review of the literature on the experiences of first-generation immigrant women in Canada was conducted with the aim of describing the factors found in the peer-reviewed literature that affect all aspects of their adjustment and well-being. This review was as broad as possible, while restricting it to peer-reviewed studies published from 1980 through 2015. On the basis of a comprehensive search of key databases (ERIC, PsycINFO, Medline, PubMed electronic databases, and university library e-journal sources), 166 peer-reviewed articles were identified whose results described some aspect of foreign-born women's experiences in Canada. These articles were read and coded for (a) general topic of the study, (b) research methodology, (c) number of foreign-born women participants, (d) participant demographics (country of origin, legal status, and location within Canada), and (e) academic discipline of the study. A 3-step grounded theory approach was used to categorize the research topics of the articles. Six research topics emerged that exhaustively categorized all 166 articles: cultural transitioning, employment, housing, intimate partner violence, access to medical care, and mental health and well-being. The main findings of each article are described under those 6 topics. Foreign-born women faced economic, cultural, linguistic, and systemic barriers that impeded their access to health, social, and economic resources. Nonetheless, many studies revealed effective coping strategies and support networks that eased their transition to Canadian society. On the basis of these results, recommendations are made for further research on foreign-born women and for more effective and culturally sensitive mental health services.",
+    "DOI": "10.1037/cap0000126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review of the literature, not a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specifically people with mental disorders.",
+            "study_design": "Systematic review of literature",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on immigrant women in Canada, not specifically on people with mental health disorders. The study design is not specified as RCT, systematic review, or quasi-experimental study with a control group. The intervention is not related to employment policies or services.",
+            "study_design": "Not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also does not include relevant outcomes such as employment rates, job duration, etc.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

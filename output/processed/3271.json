@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3271,
+    "Authors": "Van Bortel, Tine; Martin, Steven; Anjara, Sabrina; Nellums, Laura B.",
+    "Article Title": "Perceived stressors and coping mechanisms of female migrant domestic workers in Singapore",
+    "Abstract": "IntroductionWorldwide, there are between 50-67 million migrant domestic workers, the majority of whom are women. In many countries, provisions are not in place to protect female migrant domestic workers. These women may be at risk of occupational and social stressors, including exploitation and abuse, which may negatively impact on their quality of life, including psychological health. Research examining the occupational, social, and psychological needs of FMDWs from a public health perspective is critical to guide the development of policies which ensure wellbeing, prevent abuse, and align with international priorities to improve population health. Though there have been a number of high-profile incidents of exploitation and abuse, there has been limited research on the stressors experienced by these communities, their perceived impact, or coping mechanisms.Materials and methodsThematic analysis was used to analyse qualitative free-text written responses collected as part of a cross-sectional survey on the relationship between social and occupational stressors and the health and quality of life of FMDWs in Singapore. Responses correspond to open-ended questions in the qualitative component of the survey examining three domains: causes of stress, coping strategies, and what people can do to help with stress.ResultsResponses from 182 FMDWs were analysed. Key themes were identified around causes of stress (including 'work and agency', 'the pervasiveness of financial need', and 'family and obligation'), coping strategies, and social support. Each theme describes key factors which contribute to the occupational and social stressors experienced and reported by FMDWs.DiscussionThis research highlights the stressors FMDWs in Singapore experience, as well as key coping mechanisms. There is a clear need for policies which facilitate FMDWs' ability to utilise these coping resources, and which protect against coercive or exploitative employment conditions. Strategies are also needed to monitor and evaluate policies intended to protect FMDWs, and to strengthen the implementation of global frameworks targeted at improving workplace conditions and workers' rights.",
+    "DOI": "10.1371/journal.pone.0210717",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is thematic analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on perceived stressors and coping mechanisms of female migrant domestic workers in Singapore. It lacks interventions related to employment services, training, wage subsidies, or supported employment for people with mental health disorders. The population is not specifically defined as having mental health disorders, and there are no outcomes related to employment or labor results.",
+            "study_design": "Qualitative study using thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on migrant domestic workers in Singapore and does not meet the specified inclusion criteria regarding interventions, population, and outcomes related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Thematic analysis of qualitative survey responses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and is outside the specified geographic scope.",
+            "study_design": "Qualitative thematic analysis",
+            "logprobs": null
+        }
+    }
+}

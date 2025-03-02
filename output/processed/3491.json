@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3491,
+    "Authors": "Elbogen, Eric B.; Molloy, Kiera; Wagner, H. Ryan; Kimbrel, Nathan A.; Beckham, Jean C.; Van Male, Lynn; Leinbach, Jonathan; Bradford, Daniel W.",
+    "Article Title": "Psychosocial protective factors and suicidal ideation: Results from a national longitudinal study of veterans",
+    "Abstract": "Background: This study investigates the empirical association between psychosocial protective factors and subsequent suicidal ideation in veterans.Methods: We conducted a national longitudinal survey in which participants were randomly drawn from over one million U.S. military service members who served after September 11, 2001. Data were provided by a total of 1090 veterans representative of all 50 states and all military branches in two waves of data collection one year apart (79% retention rate).Results: In chi-square analyses, psychosocial protective factors at wave 1 (employment, meeting basic needs, self-care, living stability, social support, spirituality, resilience, and self-determination) were significantly related to lower suicidal ideation at wave 2. In multivariable analyses controlling for covariates at wave 1 including suicidal ideation, the total number of protective factors endorsed at wave 1 significantly predicted reduced odds of suicidal ideation at wave 2. In multivariable analysis examining individual risk and protective factors, again controlling for covariates, results showed that money to cover basic needs and higher psychological resilience at wave 1 were associated with significantly lower odds of suicidal ideation at wave 2.Limitations: The study measured the link between psychosocial protective factors and suicidal ideation but not suicide attempts, which would be an important next step for this research.Conclusions: The results indicate that psychosocial rehabilitation and holistic approaches targeting financial well-being, homelessness, resilience, self-care, social support, spirituality, and work may offer a promising avenue in both veteran and non-veteran populations for treatment safety planning as well as suicide risk management and prevention.",
+    "DOI": "10.1016/j.jad.2019.09.062",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather investigates the association between psychosocial protective factors and suicidal ideation in veterans.",
+            "study_design": "National longitudinal survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on the association between psychosocial protective factors and suicidal ideation in veterans.",
+            "study_design": "Longitudinal survey with two waves of data collection",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychosocial protective factors and suicidal ideation in veterans, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "National longitudinal survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        }
+    }
+}

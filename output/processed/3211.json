@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3211,
+    "Authors": "Roberts, Dean; Jackson, Leanne; Davie, Philippa; Zhao, Catherine; Harrold, Joanne A.; Fallon, Victoria; Silverio, Sergio A.",
+    "Article Title": "Exploring the reasons why mothers do not breastfeed, to inform and enable better support",
+    "Abstract": "IntroductionInfant and maternal breastfeeding benefits are well documented, globally. Despite efforts to increase global breastfeeding rates, the majority of high-income settings fall short of recommended targets. Breastfeeding rates in the UK are especially poor, and physiological difficulties (e.g., inverted nipples), fail to account for the observed breastfeeding intention-behaviour gap.MethodThe current online study sought to investigate the infant feeding experiences of 624 UK formula feeding mothers, through open text survey responses.ResultsA content analysis identified the following clusters of reasons for formula feeding: Feeding Attitudes, Feeding Problems, Mental Health, and Sharing the Load.DiscussionFeeding Attitudes explained a large percentage of reasons given for formula feeding. Recommendations are made to improve antenatal breastfeeding education and to develop an intervention with an aim to improve maternal breastfeeding attitudes and subsequent practice. Feeding Problems also explained a large portion of combination feeding and started but stopped infant feeding accounts. The current paper calls for more comprehensive and tailored antenatal breastfeeding education to refine practical breastfeeding skills necessary for successful breastfeeding establishment and maintenance. Mental Health explained relatively small coverage. Suggestions are therefore made to train mental health practitioners on infant feeding with an aim to provide more extensive support, which may serve to disrupt the bidirectional relationship between poor mental health and poor breastfeeding outcomes. Finally, Sharing the Load explained moderate coverage across never breastfed, combination fed, and started but stopped feeding groups. Recommendations are made, in light of these findings, to tighten workplace legislation to protect breastfeeding women.",
+    "DOI": "10.3389/fgwh.2023.1148719",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on breastfeeding rates and reasons for formula feeding.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified in relation to mental health disorders. It focuses on infant feeding experiences of mothers.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on breastfeeding, not employment policies for people with mental health disorders.",
+            "study_design": "online survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and does not include employment or labor outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

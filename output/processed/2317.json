@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2317,
+    "Authors": "Luyten, Jeroen; Naci, Huseyin; Knapp, Martin",
+    "Article Title": "Economic evaluation of mental health interventions: an introduction to cost-utility analysis.",
+    "Abstract": "Finite resources need to be allocated over an ever-increasing range of competing health policies and interventions. Economic evaluation has been developed as a methodology to inform decision makers on the efficiency of particular resource allocations. In this paper we summarize cost-utility analysis, one of the most widely-used forms of economic evaluation in healthcare. We discuss its main elements, interpretation, limitations and relevance to the domain of mental health.",
+    "DOI": "10.1136/eb-2016-102354",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not present measures of employment or labor results, and it does not directly address employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it lacks a rigorous evaluation and control group. It focuses on economic evaluation methods rather than interventions directly addressing employment for people with mental health disorders.",
+            "study_design": "Review of methods without controlled trials or experiments",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on economic evaluation methodologies rather than interventions and outcomes related to employment for people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment outcomes or interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

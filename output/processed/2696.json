@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2696,
+    "Authors": "Leach, Michael J.; Ward, Bernadette; Kippen, Rebecca; Quinn, Brendan; Agius, Paul A.; Sutton, Keith; Peterson, Joshua; Dietze, Paul M.",
+    "Article Title": "Level and correlates of social support in a community-based sample of Australians who primarily smoke methamphetamine",
+    "Abstract": "Little is known about the level and correlates of social support amongst people who use methamphetamine. We aimed to describe, and determine characteristics associated with, social support amongst a community-recruited cohort of Australians who primarily smoked methamphetamine. A cross-sectional study was conducted with data from the Victorian Methamphetamine Cohort Study (VMAX). Adults (aged >= 18 years) who used methamphetamine were recruited from June 2016 to March 2020 across metropolitan and non-metropolitan areas using convenience, snowball, and respondent-driven sampling. Social support was measured using the seven-item Enhancing Recovery In Coronary Heart Disease (ENRICHD) Social Support Inventory (ESSI). Characteristics independently associated with ESSI quartiles were assessed via multivariable partial proportional odds regression. Overall, 718 participants were included for complete-case analysis. Their mean (standard deviation [SD]) age was 34.7 (9.7) years and 62% were male. The mean (SD) and median (lower quartile-upper quartile) ESSI scores were 22.6 (7.6) and 24 (16-29), respectively, on a scale of 8 to 34 where higher scores denote better self-perceived social support. Characteristics independently associated with lower ESSI included past-year homelessness (adjusted odds ratio [aOR] = 0.49, 95% confidence interval [CI] = 0.36-0.66), moderate/severe depression (aOR = 0.60, 95% CI = 0.42-0.86), increasing age relative to <30 years (aOR[30-39] = 0.61, 95% CI = 0.41-0.91; aOR[>= 40] = 0.56, 95% CI = 0.35-0.91) and greater than fortnightly methamphetamine use (aOR = 0.69, 95% CI = 0.52-0.91). Characteristics independently associated with higher ESSI were employment (aOR = 1.51, 95% CI = 1.06-2.14) and female gender (aOR = 1.39, 95% CI = 1.00-1.92). Social support services for people who use methamphetamine could be targeted and tailored to subgroups defined by correlates of social support, such as those who experience homelessness, depression or unemployment.",
+    "DOI": "10.1111/hsc.13907",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on social support amongst people who use methamphetamine.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly target job search services, adult training, wage subsidies, or supported employment. It focuses on social support in a population of methamphetamine users.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is a requirement for inclusion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

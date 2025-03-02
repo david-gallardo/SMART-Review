@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2388,
+    "Authors": "Bartoll-Roca, Xavier; Gotsens, Merce; Palencia, Laia",
+    "Article Title": "Decomposition and changes in socio-economic inequalities in mental health in Barcelona between 2006 and 2016",
+    "Abstract": "Purpose This study aims, firstly, to analyse the contribution of socio-economic determinants to mental health (MH) inequalities before the economic crisis, in 2006, and again in a year during recovery, 2016, and secondly, to analyse the changes in these contributions between the two points in time in Barcelona city. Design/methodology/approach The concentration index (CI) was calculated for MH inequalities for the population aged 16 or older using the Barcelona Health Surveys for 2006 and 2016. MH was measured with the 12-item General Health Questionnaire. The CI was broken down for each year and gender based on a set of socio-economic determinants plus social support and the presence of chronic diseases. The contribution of each factor to variation in MH inequality between the two points in time was analysed with Oaxaca decomposition. Findings Income inequalities in MH increased for men and women (a CI from -0.06 in 2006 to around -0.16 in 2016). Employment status and social class are the main contributors to MH inequalities (more than 50%), except for women in 2006 that is chronic disease. The main contribution to increases in MH inequality between 2006 and 2016 was due to unemployment (26.5% men, 23.8% women), being a student (22.8% men, 20.7% women), homemaker in women (30.7%) and men in the manual class (31.6%). Originality/value MH inequalities have been amplified between the two years among the economically vulnerable population or for those who are out of the labour market with unexpected changes for women.",
+    "DOI": "10.1108/JPMH-01-2021-0013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on socio-economic inequalities in mental health.",
+            "study_design": "Analytical study (e.g., cross-sectional, decomposition analysis)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on socio-economic inequalities in mental health. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis using Oaxaca decomposition",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on socio-economic inequalities in mental health in Barcelona and does not specifically address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "Oaxaca decomposition analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study using concentration index and Oaxaca decomposition",
+            "logprobs": null
+        }
+    }
+}

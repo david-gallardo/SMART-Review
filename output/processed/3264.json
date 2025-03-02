@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3264,
+    "Authors": "Velez, Julian Reyes; Tabassum, Anika; Bolufe-Rohler, Antonio; Alvarez, Alexander; Liu, Kai; Poirier, Alain; VanTil, Linda D.",
+    "Article Title": "Characteristics of Canadian Veterans reimbursed for cannabis for medical purposes: Life After Service Survey 2016",
+    "Abstract": "LAY SUMMARY This research explored the demographic, military service, and health characteristics associated with cannabis for medical purposes (CMP) reimbursements among Veterans Affairs Canada (VAC) clients and respondents of the Life After Service Survey 2016 (LASS). Of the initial number of indicators selected contained in LASS 2016 survey, some specific variables were significantly associated with CMP reimbursement, from which physical/mental health and well-being indicators, such as anxiety, posttraumatic stress disorder (PTSD), depression, bowel ulcer, traumatic brain injury, chronic pain, needing help with tasks, psychological distress, and having three of more conditions of the PTSD diagnosis, were positively associated with CMP. Moreover, unemployment, having low income (< $5,000), a difficult adjustment, being very dissatisfied with life, having low social support, a weak community belonging, and reporting high stress also increased the odds of being reimbursed. These results will help to identify a preliminary profile of VAC clients with higher need for CMP reimbursement.Introduction: Cannabis is used to self-treat a wide range of symptoms and conditions. However, there is scarce information describing the characteristics of Canadian Veterans being reimbursed by Veterans Affairs Canada (VAC) for cannabis used for medical purposes (CMP). The objective of this study was to explore the demographic and military service characteristics and chronic conditions associated with CMP reimbursement of VAC clients responding to the 2016 Life After Service Survey (LASS). Methods: This study linked the VAC reimbursement information for CMP and data from the 2016 LASS. In total, 1,480 LASS survey participants were VAC clients and were included in this study. Both descriptive and bivariate analyses were performed to explore the population characteristics (46 demographic, military, and well-being variables) associated with CMP reimbursement. Results: Of the 1,480 VAC clients in this study, 72 were reimbursed for CMP. Of the 46 variables, 22 were significant. Several variables from different domains were associated with CMP reimbursement in the bivariate analysis: anxiety, posttraumatic stress disorder, depression, bowel ulcer, traumatic brain injury, chronic pain, 12-Item Short Form Survey (SF-12) scores, psychological distress, suicidal ideation, requiring help with tasks, financial status, unemployment, low income, dissatisfaction with finances, and satisfaction with family members. Discussion: These results provide preliminary information on Canadian Veterans reimbursed for CMP. Further studies that can identify larger numbers of Veterans reimbursed for CMP are needed to further explore these characteristics with multivariate approaches.",
+    "DOI": "10.3138/jmvfh-2021-0072",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather focuses on the characteristics of Canadian Veterans being reimbursed for cannabis for medical purposes.",
+            "study_design": "Descriptive and bivariate analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on the demographic, military service, and health characteristics of Canadian Veterans reimbursed for cannabis for medical purposes. It does not include any measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Linked survey data",
+            "logprobs": null
+        }
+    }
+}

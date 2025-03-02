@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2950,
+    "Authors": "Schieman, Scott; Mai, Quan; Badawy, Philip; Kang, Ryu Won",
+    "Article Title": "A Forced Vacation? The Stress of Being Temporarily Laid Off During a Pandemic",
+    "Abstract": "A million Canadian workers suddenly became temporarily laid off (TLO) early into the pandemic. How did this affect mental health? Guided by the Stress Process Model (SPM), we would expect that this job disruption should increase psychological distress. However, given the unique context surrounding the early period of the pandemic, we advance the forced vacation hypothesis, which argues that those who became TLO would-at least initially-report lower levels of distress. To address this puzzle, we use a mixed-methods approach combining a national longitudinal survey dataset and in-depth interviews. Our quantitative analyses reveal that individuals who were TLO had lower distress in April 2020 compared with their peers who continued working. Our interviews uncover several potential explanations for these patterns. The findings provide an elaboration to the SPM as the pandemic context altered the meaning of being TLO, making it feel like a forced vacation-at least initially.",
+    "DOI": "10.1177/07308884221129520",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the impact of temporary layoff during a pandemic on mental health without addressing job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Mixed-methods approach using national longitudinal survey and in-depth interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential inclusion criteria for the research objective.",
+            "study_design": "Mixed-methods approach combining a national longitudinal survey dataset and in-depth interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Mixed-methods approach combining a national longitudinal survey dataset and in-depth interviews",
+            "logprobs": null
+        }
+    }
+}

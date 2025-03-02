@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3433,
+    "Authors": "Elbogen, Eric B.; Johnson, Sally C.; Newton, Virginia M.; Timko, Christine; Vasterling, Jennifer J.; Van Male, Lynn M.; Wagner, H. Ryan; Beckham, Jean C.",
+    "Article Title": "Protective Mechanisms and Prevention of Violence and Aggression in Veterans",
+    "Abstract": "Although a subset of Iraq and Afghanistan Veterans show aggression toward others after they return home from military service, little is known about protective mechanisms that could be bolstered to prevent violence. A national longitudinal survey was conducted between 2009 and 2011 using a random sample of veterans who served in Operation Iraqi Freedom or Operation Enduring Freedom. One thousand and ninety veterans, from 50 states representing all military branches, completed 2 waves of data collection, 1 year apart (retention rate = 79%). The final sample resembled the U.S. military post 9/11 in terms of age, sex, ethnicity, geography, and service branch. Protective mechanisms in socioeconomic (money to cover basic needs, stable employment), psychosocial (resilience, perceiving control over one's life, social support), and physical (healthy sleep, no physical pain) domains were examined. We found these protective mechanisms predicted decreased aggression and violence at follow-up, particularly among higher risk veterans. Multivariable analyses confirmed that protective mechanisms lowered violence through their interaction with risk factors. This study identifies protective mechanisms related to decreased community violence in veterans and indicates that rehabilitation aimed at improving socioeconomic, psychosocial, and physical well-being has potential promise to reduce aggression and violence among veterans after returning home from military service.",
+    "DOI": "10.1037/a0035088",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather focuses on protective mechanisms to prevent violence and aggression in veterans.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on protective mechanisms and prevention of violence and aggression in veterans.",
+            "study_design": "National longitudinal survey with two waves of data collection (retention rate = 79%)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on aggression and violence in veterans, not employment outcomes for people with mental health disorders.",
+            "study_design": "longitudinal survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        }
+    }
+}

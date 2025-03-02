@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2705,
+    "Authors": "Ward, Trina C. Salm; Abu Zahra, Tuleen; Payjapoh, Chuthamas; Oladebo, Tinuola",
+    "Article Title": "Experiences of birthing people during the COVID-19 pandemic: Analysis of comments from the 2020 Wisconsin Pregnancy Risk Assessment Monitoring System (PRAMS)",
+    "Abstract": "Background: The COVID-19 pandemic has taken a significant toll on the US population, with birthing people having special clinical needs. The Pregnancy Risk Assessment Monitoring System (PRAMS) is a population-based surveillance system for monitoring birthing people's experiences. Comment data from the PRAMS survey can provide further insight into birthing people's experiences. This study aims to use PRAMS data to describe pandemic-related experiences in a representative sample of birthing people in Wisconsin to help inform future emergency preparedness planning. Methods: This study analyzed 2020 Wisconsin PRAMS data for births in March or later. Content analysis of pandemic-related comment data was conducted, and quantitative data on demographic characteristics and pandemic-related experiences were examined. Results: Findings from 1406 respondents indicated that many birthing people were affected by the pandemic, including changes in healthcare visits and employment. One hundred respondents commented on pandemic-related experiences; four interrelated themes emerged from content analysis: changed nature and quality of healthcare, limited social support, increased anxiety, stress, or fear, and employment or financial burden. Most comments discussed negative impacts; some expressed positive aspects. Discussion: Findings suggest opportunities for improving support for birthing people during public health emergencies, for example, through developing healthcare policies and public health guidelines that prioritize the protective mechanisms of social support for birthing people, identifying additional and immediately accessible policy protections to support birthing and postpartum people (e.g., insurance and paid leave) during public health emergencies, and implementing additional screening and support to help address increased mental health needs during public health emergencies.",
+    "DOI": "10.1111/birt.12836",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Content analysis of quantitative data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders. It examines the experiences of birthing people during the COVID-19 pandemic.",
+            "study_design": "Survey analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on birthing people's experiences during the COVID-19 pandemic, which is not directly related to employment or labor outcomes for people with mental health disorders. The study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Not specified in the provided abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor results.",
+            "study_design": "Content analysis",
+            "logprobs": null
+        }
+    }
+}

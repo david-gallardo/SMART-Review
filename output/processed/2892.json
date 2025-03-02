@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2892,
+    "Authors": "Hosgelen, Emine Ilgin; Guneri, Sinem; Erdeniz, Burak; Alptekin, Koksal",
+    "Article Title": "Virtual Reality Interventions and Psychosocial Functioning in Schizophrenia Spectrum Disorders: A Systematic Review",
+    "Abstract": "ObjectiveThe objective of this study is to evaluate the effectiveness of virtual reality (VR) intervention programs that aim to improve psychosocial functioning in schizophrenia spectrum disorders and evaluate the quality assessment of these studies.MethodsPRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) guideline was followed to conduct this systematic review. The literature search was performed in Web of Science (WoS) and PubMed, by two independent researchers on two occasions, on 1 March 2023 and 20 August 2023. Risk of bias of the studies was evaluated by The Effective Public Health Practice Project (EPHPP) Quality Assessment Tool for Quantitative Studies.ResultsFifteen studies met inclusion criteria, targeting social skills (n = 5), social cognitive skills (n = 7) and vocational training (n = 3). In these studies, a total of 292 participants enrolled in VR interventions and a total of 258 participants enrolled in control groups. In this systematic review, there were eight cohort studies, where seven were with a single-group pretreatment and posttreatment evaluation and one was with a control group, and one controlled trial and six randomized controlled trials were included. Several studies reported significant improvements in both psychosocial functioning and clinical symptoms, whereas others found improvements only in either psychosocial functioning or clinical symptoms, and still others found no improvements at all. The limitations of the studies include small sample sizes and standardized intervention methods. There is a very high variability in session duration, frequency and total treatment period.ConclusionAlthough VR intervention programs offer unique opportunities for psychosocial improvement, heterogeneity in methodologies and mixed results highlight the need for further research.",
+    "DOI": "10.1002/cpp.70020",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned in the article.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on virtual reality interventions to improve psychosocial functioning in schizophrenia spectrum disorders and does not address employment or labor outcomes. It also lacks a control group for some of the studies evaluated.",
+            "study_design": "Systematic review with mixed study designs (cohort, randomized controlled trials)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizopsychia spectrum disorders and not specifically on people with mental health disorders in general. The intervention is VR, not job-related interventions.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

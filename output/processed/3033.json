@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3033,
+    "Authors": "van Duin, Danielle; van Wamel, Anneke; de Winter, Lars; Kroon, Hans; Veling, Wim; van Weeghel, Jaap",
+    "Article Title": "Implementing Evidence-Based Interventions to Improve Vocational Recovery in Early Psychosis: A Quality-Improvement Report",
+    "Abstract": "Objective: After young adults experience a first episode of psychosis, many express a need for help with education and employment. A quality improvement collaborative (QIC) launched in the Netherlands aimed to reinforce vocational recovery by improving participation in education and employment and by enhancing cognitive skills and self-management. This study examined methods used to implement interventions, barriers and facilitators, and implementation outcomes (fidelity, uptake, and availability).Methods: The Breakthrough Series was the model for change. Three evidence-based interventions were implemented to achieve targeted goals: individual placement and support (IPS), cognitive remediation, and shared decision making. Fidelity scores were obtained with fidelity scales.Results: Eighty-five professionals and 332 patients representing 14 teams treating patients with early psychosis were included in the 24-month QIC. Of this group, 252 patients participated in IPS, 52 in cognitive remediation, and 39 in shared decision making. By month 22, teams attained moderate-to-high mean fidelity scores, with an average of 3.2 on a 4-point scale for cognitive remediation, 3.7 on a 5-point scale for IPS, and 4.9 on a 6-point scale for shared decision making.Conclusions: Over 24 months, use of a Breakthrough QIC to implement three interventions aimed at improving vocational recovery in teams delivering services for early psychosis yielded mixed results in terms of uptake and availability and moderate-to-high results in terms of fidelity. When implementing these types of interventions in this population, a multifaceted implementation model and a focused testing phase for computerized interventions appear needed, preferably with a maximum of two interventions implemented simultaneously.",
+    "DOI": "10.1176/appi.ps.201900342",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quality improvement collaborative (QIC) with a control group, meeting the inclusion criteria for study design. The study is within the specified timeframe (2005-2025), and the intervention (individual placement and support, cognitive remediation, and shared decision making) directly addresses employment. The population is people with early psychosis, and the outcomes include employment or labor outcomes such as job duration and job retention.",
+            "study_design": "Quality Improvement Collaborative (QIC) with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on vocational recovery in early psychosis through education and cognitive skills rather than employment interventions.",
+            "study_design": "Quality-improvement report",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on vocational recovery in early psychosis and does not specifically address employment interventions for people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Quality Improvement Collaborative (QIC)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quality-improvement report implementing evidence-based interventions for vocational recovery in early psychosis, including individual placement and support (IPS), which is a form of supported employment. It includes a control group through the comparison of fidelity scores over time.",
+            "study_design": "Quasi-experimental",
+            "logprobs": {}
+        }
+    }
+}

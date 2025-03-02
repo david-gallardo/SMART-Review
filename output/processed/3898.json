@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3898,
+    "Authors": "McGregor, Alisha; Iverson, Donald; Caputi, Peter; Magee, Christopher; Ashbury, Fred",
+    "Article Title": "Relationships Between Work Environment Factors and Presenteeism Mediated by Employees' Health A Preliminary Study",
+    "Abstract": "Objective: This study investigates a research framework for presenteeism, in particular, whether work environment factors are indirectly related to presenteeism via employees' health. Methods: A total of 336 employees, 107 from a manufacturing company in Europe and 229 from various locations across North America, completed a self-report survey, which measured the association between presenteeism (dependent variable) and several health and work environment factors (independent variables). These relationships were tested using path analysis with bootstrapping in Mplus. Results: Presenteeism was directly related to health burden (r = 0.77; P = 0.00) and work environment burden (r = 0.34; P = 0.00). The relationship between work environment burden and presenteeism was partially mediated by health burden (beta = 0.08; 95% confidence interval, 0.002 to 0.16). Conclusions: These findings suggest both a direct and an indirect relationship between work environment factors and presenteeism at work.",
+    "DOI": "10.1097/JOM.0000000000000263",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates the relationship between work environment factors and presenteeism, which is a measure of employees' health.",
+            "study_design": "Path analysis with bootstrapping in Mplus",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the relationship between work environment factors and presenteeism mediated by employees' health.",
+            "study_design": "Cross-sectional survey using path analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on presenteeism and its relationship with health and work environment factors.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

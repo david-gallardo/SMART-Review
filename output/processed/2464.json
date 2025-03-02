@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2464,
+    "Authors": "Cappa, Corrado; Figoli, Michela; Rossi, Paola",
+    "Article Title": "Network of services facilitating and supporting job placement for people with autism spectrum disorders. The experience of the ASL Piacenza, Italy",
+    "Abstract": "The Mental Health Department of Piacenza has recently activated a special program for persons diagnosed with autism spectrum disorders (ASD). The Program engages a number of stakeholders: the users, their families, social and psychiatric services as well as specific associations for autism. The program is aimed to grant a complete and individualized assistance to people with ASD and it is especially focused on the transition to adulthood. In this period, it is necessary to build the life project in order to improve functioning and quality of life of users. The elective areas of the individual plan have to deal on how to reach autonomy in daily living and related skills, obtaining and maintaining a job, as well as starting and reinforcing significant relationships. This paper is especially focused on job placement for people with ASD.",
+    "DOI": "10.4415/ANN_20_02_14",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a case report and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Case report",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses specifically on autism spectrum disorders and is not inclusive of mental health disorders in general. Additionally, it lacks a control group and does not specify an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Case Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on autism spectrum disorders (ASD) rather than mental health disorders in general. The intervention is not specified as job search services, adult training, wage subsidies, or supported employment, which are required interventions in the inclusion criteria.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not specify the use of a control group and does not mention a rigorous evaluation method.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

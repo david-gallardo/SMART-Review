@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3404,
+    "Authors": "Jarolimova, Jana; Yan, Joyce; Govere, Sabina; Bunda, Bridget A.; Wara, Nafisa J.; Bogart, Laura M.; Ngobese, Nompumelelo; Shazi, Zinhle M.; Khumalo, Anele R.; Zionts, Dani; Thulare, Hilary; Parker, Robert A.; Bassett, Ingrid, V",
+    "Article Title": "Experiences of participants in a decentralized antiretroviral therapy program in South Africa during the COVID-19 pandemic",
+    "Abstract": "The COVID-19 pandemic and associated restrictions could adversely affect long-term HIV care. We evaluated the experiences of people receiving antiretroviral therapy (ART) through a decentralized delivery program in South Africa during the COVID-19 pandemic. We telephoned a random subsample of participants enrolled in a prospective cohort study in KwaZulu-Natal in April and May 2020 and administered a semi-structured telephone interview to consenting participants. We completed interviews with 303 of 638 contacted participants (47%); 66% were female, with median age 36y. The most common concerns regarding the COVID-19 pandemic were food running out (121, 40%), fear of becoming infected with COVID-19 (103, 34%), and being unable to work/losing employment or income (102, 34%). Twenty-five (8%) participants had delayed ART pick-up due to the pandemic, while 212 (70%) had new concerns about ART access going forward. Mental health scores were worse during the pandemic compared to baseline (median score 65.0 vs 80.0, p < 0.001). Decentralized ART distribution systems have the potential to support patients outside of health facilities during the COVID-19 pandemic, but economic concerns and mental health impacts related to the pandemic must also be recognized and addressed.",
+    "DOI": "10.1080/09540121.2022.2095333",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the experiences of participants in a decentralized antiretroviral therapy program during the COVID-19 pandemic.",
+            "study_design": "Survey/Interview Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on antiretorter therapy (ART) for HIV, not employment policies for people with mental health disorders.",
+            "study_design": "prospective cohort study with semi-structured interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic region (South Africa) and does not focus on employment interventions.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

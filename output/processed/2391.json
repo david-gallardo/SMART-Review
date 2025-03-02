@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2391,
+    "Authors": "Suh, Chunhui; Punnett, Laura",
+    "Article Title": "High Emotional Demands at Work and Poor Mental Health in Client-Facing Workers",
+    "Abstract": "This study investigated the association between emotional demands and depression or anxiety in a wide range of jobs. We used data from the third Korean Working Conditions Survey (n = 50,032) for all occupational classifications, with no limitations placed on job title or employment type. Among the full set of regular paid workers in addition to self-employed, unpaid family workers, and informal employees such as independent contractors, 23,989 respondents worked with customers, passengers, students, or patients (i.e., clients). Emotional demands were evaluated using two questions: handling angry clients and needing to hide feelings for work performance. Any depression or anxiety over the last 12 months was taken to indicate poor mental health. Multivariable logistic regression modeling was performed to calculate adjusted ORs with 95% confidence intervals for the influence of emotional demands on mental health, adjusting for demographic factors (age, gender, education, income), occupational psychological demands, decision latitude, social support, weekly work hours and job insecurity. The prevalence of emotional demands was higher in self-employed and informal employees than in regular paid employees. The more frequent the exposure to the two emotional demands combined was, the higher the risk of depression or anxiety. High psychological demands, low social support, and low job security each further increased the risk of poor mental health. Emotional demands turned out to be widespread in the entire economy, were not limited to service or sales occupations, and were more evident in precarious work. The contribution of emotional demands and other preventable job stressors to the burden of depression or anxiety in society may be substantial.",
+    "DOI": "10.3390/ijerph19127530",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a control group, which is a requirement for inclusion.",
+            "study_design": "Multivariable logistic regression modeling",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It investigates the association between emotional demands at work and poor mental health in client-facing workers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or policies aimed at employment for people with mental health disorders, but rather on the association between emotional demands and mental health in the workplace.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3722,
+    "Authors": "von Steinbuechel, Nicole; Hahm, Stefanie; Muehlan, Holger; Arango-Lasprilla, Juan Carlos; Bockhop, Fabian; Covic, Amra; Schmidt, Silke W.; Steyerberg, Ewout; Maas, Andrew I. R.; Menon, David; Andelic, Nada; Zeldovich, Marina; CTR TBI Participants Investigators",
+    "Article Title": "Impact of Sociodemographic, Premorbid, and Injury-Related Factors on Patient-Reported Outcome Trajectories after Traumatic Brain Injury (TBI)",
+    "Abstract": "Traumatic brain injury (TBI) remains one of the leading causes of death and disability worldwide. To better understand its impact on various outcome domains, this study pursues the following: (1) longitudinal outcome assessments at three, six, and twelve months post-injury; (2) an evaluation of sociodemographic, premorbid, and injury-related factors, and functional recovery contributing to worsening or improving outcomes after TBI. Using patient-reported outcome measures, recuperation trends after TBI were identified by applying Multivariate Latent Class Mixed Models (MLCMM). Instruments were grouped into TBI-specific and generic health-related quality of life (HRQoL; QOLIBRI-OS, SF-12v2), and psychological and post-concussion symptoms (GAD-7, PHQ-9, PCL-5, RPQ). Multinomial logistic regressions were carried out to identify contributing factors. For both outcome sets, the four-class solution provided the best match between goodness of fit indices and meaningful clinical interpretability. Both models revealed similar trajectory classes: stable good health status (HRQoL: n = 1944; symptoms: n = 1963), persistent health impairments (HRQoL: n = 442; symptoms: n = 179), improving health status (HRQoL: n = 83; symptoms: n = 243), and deteriorating health status (HRQoL: n = 86; symptoms: n = 170). Compared to individuals with stable good health status, the other groups were more likely to have a lower functional recovery status at three months after TBI (i.e., the GOSE), psychological problems, and a lower educational attainment. Outcome trajectories after TBI show clearly distinguishable patterns which are reproducible across different measures. Individuals characterized by persistent health impairments and deterioration require special attention and long-term clinical monitoring and therapy.",
+    "DOI": "10.3390/jcm12062246",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on patient-reported outcome trajectories after Traumatic Brain Injury (TBI).",
+            "study_design": "Longitudinal study with Multivariate Latent Class Mixed Models (MLCMM) and Multinomial logistic regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of traumatic brain injury (TBI) on health-related quality of life and psychological symptoms.",
+            "study_design": "Cross-sectional observational study using multivariate latent class mixed models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on TBI and not on employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study with Mixed Models",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes or interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study using Multivariate Latent Class Mixed Models and multinomial logistic regressions",
+            "logprobs": null
+        }
+    }
+}

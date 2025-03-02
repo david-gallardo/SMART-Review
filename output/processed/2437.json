@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2437,
+    "Authors": "Petersson, E-L.; Wikberg, C.; Westman, J.; Ariai, N.; Nejati, S.; Bjorkelund, C.",
+    "Article Title": "Effects on work ability, job strain and quality of life of monitoring depression using a self-assessment instrument in recurrent general practitioner consultations: A randomized controlled study",
+    "Abstract": "BACKGROUND: Depression reduces individuals' function and work ability and is associated with both frequent and long-term sickness absence.OBJECTIVE: Investigate if monitoring of depression course using a self-assessment instrument in recurrent general practitioner (GP) consultations leads to improved work ability, decreased job strain, and quality of life among primary care patients.METHODS: Primary care patients n = 183, who worked. In addition to regular treatment (control group), intervention patients received evaluation and monitoring and used the MADRS-S depression scale during GP visit at baseline and at visits 4, 8, and 12 weeks. Work ability, quality of life and job strain were outcome measures.RESULTS: Depression symptoms decreased in all patients. Significantly steeper increase of WAI at 3 months in the intervention group. Social support was perceived high in a significantly higher frequency in intervention group compared to control group.CONCLUSIONS: Monitoring of depression course using a self-assessment instrument in recurrent GP consultations seems to lead to improved self-assessed work ability and increased high social support, but not to reduced job strain or increased quality of life compared to TAU. Future studies concerning rehabilitative efforts that seek to influence work ability probably also should include more active interventions at the workplace.",
+    "DOI": "10.3233/WOR-182717",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled study, but it lacks a control group for the intervention on employment or labor outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks an intervention related to job search services, adult training, wage subsidies, or supported employment. It focuses on monitoring depression in primary care patients.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

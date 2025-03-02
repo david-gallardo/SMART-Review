@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3119,
+    "Authors": "Cichocki, Lukasz; Arciszewska, Aleksandra; Bladzinski, Piotr; Hat, Marta; Kalisz, Aneta; Cechnicki, Andrzej",
+    "Article Title": "Differences in subjective quality of life of people with a schizophrenia diagnosis between participants in Occupational Therapy Workshops and those working in a Sheltered Employment Establishment",
+    "Abstract": "Aim. The research objective was to compare the course of illness among patients with schizophrenia undergoing rehabilitation in Occupational Therapy Workshops (OTW) or employed in the Vocational Development Center Pensjonat u Pana Cogito (VDC), with particular focus on quality of life (QoL), and to analyse the relations between QoL and general, social, and cognitive functioning, psychopathological condition and insight in the two groups.Method. The sample comprised 52 subjects (VDC = 25 and OT = 27). The following tools were used: the LQoLP (for quality of life assessment) by Oliver, the PANSS, GAF, and SOFAS scales, the MoCA, RAVLT and RHLB cognitive tests, and the insight questionnaire My thoughts and feelings.Results. Differences were found between the groups, to the VDC group's advantage, in such areas of subjective QoL as: family relationships (p <= 0.05), somatic health (p <= 0.05) and self-esteem (p <= 0.05). In the VDC group, QoL correlated negatively with symptoms of distress and positively with overall insight into symptoms, while in the OTW group it correlated negatively with cognitive function and positively with insight as a reaction to information from others.Conclusions. For people with schizophrenia obtaining and retaining employment in a VDC translates into better outcomes in important areas of quality of life such as family relationships, overall health, and self-esteem. Poorer OoL was associated with the severity of symptoms, in particular depressive symptoms. People employed in the VDC benefited to a greater extent from autonomous control of symptoms, while among the OTW group an important role was played by others.",
+    "DOI": "10.12740/PP/91915",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries (Norway) and within the specified timeframe (2005-2025). The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group for rigorous evaluation.",
+            "study_design": "Quasi-experimental without a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizophrenia patients and does not specifically address employment interventions for people with mental health disorders as per the inclusion criteria. The study also does not include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

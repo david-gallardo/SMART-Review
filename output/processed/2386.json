@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2386,
+    "Authors": "Borrelli, I.; Benevene, P.; Fiorilli, C.; D'Amelio, F.; Pozzi, G.",
+    "Article Title": "Working conditions and mental health in teachers: a preliminary study",
+    "Abstract": "Background Unfavourable working conditions are associated with poor mental health and many studies show that teachers are at risk of this.Aims To investigate if and to what extent specific dimensions of working conditions are associated with symptoms of depression and anxiety in teachers in state schools in Italy.Methods A cross-sectional questionnaire survey of Italian state schoolteachers using the Karasek Job Content Questionnaire, the Self-Rating Anxiety Scale (SAS) and the Center for Epidemiologic Studies Depression Scale (CES-D). We tested the hypotheses that high job demand, low decision latitude and low support are associated with anxiety and depression in teachers using a correlation matrix and hierarchical multiple regression models.Results 113/180 (63%) of schoolteachers invited to participate completed the survey. 49% scored above the cut-off on CES-D and 11% on SAS. CES-D was positively correlated with job demand (r = 0.517, P < 0.01) and negatively with social support (r = -0.226, P < 0.05). SAS was positively correlated with job demand (r = 0.408, P < 0.01). Hierarchical multiple regression analysis showed that job demand was significantly associated with CES-D and SAS scores, explaining 28 and 25% of variance respectively.Conclusions About half of the teachers in this study scored above the threshold for depression and similar to 1 in 10 for anxiety on self-rating questionnaires. Poor mental health in teachers is significantly associated with high job demand and low social support. These results should be confirmed in larger, more representative samples.",
+    "DOI": "10.1093/occmed/kqu108",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional questionnaire survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional questionnaire survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not address employment policies. It focuses on working conditions and mental health in teachers without addressing interventions or outcomes related to employment.",
+            "study_design": "Cross-sectional questionnaire survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cross-sectional questionnaire survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

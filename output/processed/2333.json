@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2333,
+    "Authors": "Ow, Nikki; Mathias, Steve; Barbic, Skye",
+    "Article Title": "Why no effect?: Identifying appropriate outcomes for supported employment programs for youths with mental health conditions using a program evaluation approach",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The study design is not specified.",
+            "study_design": "Program evaluation approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks a rigorous evaluation and does not provide outcomes related to employment or labor results.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not specified and does not mention a control group.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

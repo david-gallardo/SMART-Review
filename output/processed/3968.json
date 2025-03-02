@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3968,
+    "Authors": "Garc\u00eda-Iglesias, Juan Jes\u00fas; G\u00f3mez-Salgado, Juan; Fagundo-Rivera, Javier; Romero-Mart\u00edn, Macarena; Ortega-Moreno, M\u00f3nica; Navarro-Abal, Yolanda",
+    "Article Title": "Factores predictores de los niveles de burnout y work engagement en m\u00e9dicos y enfermeras: una revisi\u00f3n sistem\u00e1tica",
+    "Abstract": "ABSTRACT Background: Healthcare professionals are often subjected to demanding working conditions, and both burnout and work engagement are psychological reactions that develop when personality traits interact with the characteristics of the work. The objective of this study was to analyse the factors that influence burnout and work engagement levels among healthcare professionals. Methods: A systematic review of articles published between January 2015 and October 2020 was conducted in the Pubmed, Scopus, Web of Science, Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO, and ScienceDirect electronic databases, following the PRISMA format. Methodological quality was assessed through the critical evaluation tools for non-randomised studies by the Joanna Briggs Institute (JBI). Results: A total of 27 studies were included in this review. Moderate levels of work engagement and low levels of burnout were observed among healthcare professionals. Job demands (work overload, shift type, negative events, type of service, etc.) and personal, situational, and organisational resources (psychological capital, social support, ability to express emotions, personal values, feeling self-fulfilled, among others) may be factors that influence work engagement and burnout levels. Conclusions: The results provide implications for the design, assessment and effectiveness of workplace interventions towards reducing the risk of burnout and improving work engagement levels among healthcare professionals.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it does not directly address employment. The intervention is not job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on factors influencing burnout and work engagement among healthcare professionals.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

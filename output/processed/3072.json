@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3072,
+    "Authors": "Ng, Marques Shek Nam; Chan, Dorothy Ngo Sheung; Cheng, Qinqin; Miaskowski, Christine; So, Winnie Kwok Wei",
+    "Article Title": "Association between Financial Hardship and Symptom Burden in Patients Receiving Maintenance Dialysis: A Systematic Review",
+    "Abstract": "Background: Many patients on maintenance dialysis experience financial hardship. Existing studies are mainly cost analyses that quantify financial hardship in monetary terms, but an evaluation of its impact is also warranted. This review aims to explore the definition of financial hardship and its relationship with symptom burden among patients on dialysis. Methods: A literature search was conducted in November 2020, using six electronic databases. Studies published in English that examined the associations between financial hardship and symptom burden were selected. Two reviewers independently extracted data and appraised the studies by using the JBI Critical Appraisal Checklists. Results: Fifty cross-sectional and seven longitudinal studies were identified. Studies used income level, employment status, healthcare funding, and financial status to evaluate financial hardship. While relationships between decreased income, unemployment, and overall symptom burden were identified, evidence suggested that several symptoms, including depression, fatigue, pain, and sexual dysfunction, were more likely to be associated with changes in financial status. Conclusion: Our findings suggest that poor financial status may have a negative effect on physical and psychological well-being. However, a clear definition of financial hardship is warranted. Improving this assessment among patients on dialysis may prompt early interventions and minimize the negative impact of financial hardship.",
+    "DOI": "10.3390/ijerph18189541",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health or have an undefined population.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the association between financial hardship and symptom burden in patients receiving maintenance dialysis.",
+            "study_design": "Systematic review of cross-sectional and longitudinal studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. The population is patients receiving maintenance dialysis and the intervention is not related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

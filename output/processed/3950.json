@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3950,
+    "Authors": "Harper, Annie; Ginapp, Callie; Bardelli, Tommaso; Grimshaw, Alyssa; Justen, Marissa; Mohamedali, Alaa; Thomas, Isaiah; Puglisi, Lisa",
+    "Article Title": "Debt, Incarceration, and Re-entry: a Scoping Review",
+    "Abstract": "People involved with the criminal justice system in the United States are disproportionately low-income and indebted. The experience of incarceration intensifies financial hardship, including through worsening debt. Little is known about how people who are incarcerated and their families are impacted by debt and how it affects their reentry experience. We conducted a scoping review to identify what is known about the debt burden on those who have been incarcerated and their families and how this impacts their lives. We searched 14 data bases from 1990 to 2019 for all original research addressing financial debt held by those incarcerated in the United States, and screened articles for relevance and extracted data from pertinent studies. These 31 studies selected for inclusion showed that this population is heavily burdened by debt that was accumulated in three general categories: debt directly from criminal justice involvement such as LFOs, preexisting debt that compounded during incarceration, and debts accrued during reentry for everyday survival. Debt was generally shown to have a negative effect on financial well-being, reentry, family structure, and mental health. Debts from LFOs and child support is very common among the justice-involved population and are largely unpayable. Other forms of debt likely to burden this population remain largely understudied. Extensive reform is necessary to lessen the burden of debt on the criminal justice population in order to improve reentry outcomes and quality of life.",
+    "DOI": "10.1007/s12103-020-09559-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review which does not meet the inclusion criteria for rigorous evaluation (RCTs, systematic reviews of controlled trials, quasi-experimental studies with control groups). Additionally, it focuses on people involved in the criminal justice system and debt issues rather than employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion. The study also does not include interventions directly related to employment or labor, such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        }
+    }
+}

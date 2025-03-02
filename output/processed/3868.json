@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3868,
+    "Authors": "Bogosian, Angeliki; Day, Fern; Norton, Sam; Silber, Eli; Sakel, Mohamed; Sharrack, Basil; Moss-Morris, Rona",
+    "Article Title": "Key demographics and psychological skills associated with adjustment to progressive Multiple Sclerosis early in the diagnosis",
+    "Abstract": "Background/purpose: Being diagnosed with a progressive type of multiple sclerosis (MS) has been associated with worse psychological outcomes compared to relapsing-remitting type. Previous studies of adjustment to MS have primarily focused on relapsing-remitting type MS. The present study aims to examine psychological adjustment for people newly diagnosed with progressive multiple sclerosis. Methods: This was a multicenter cross-sectional survey of 189 people newly diagnosed with progressive MS. A composite measure of psychological adjustment was created from questionnaires measuring psychological distress, positive affect, perceived-stress, life satisfaction and self-concept. Predictor variables included coping strategies, social support, relationship with partner, psychological vulnerability, MS-related beliefs, and responses to symptoms. Data were analysed using a regularised regression model to indicate which group of all variables are associated with adjustment. Results: People who were older (b = 0.17(0.07), p = 0.02), in employment (b = 0.40 (0.17), p = 0.01), and with lower illness severity (b = -0.24 (0.08), p = 0.001) showed better adjustment. Based on a Lasso regression, the most important psychological and demographic variables associated with lower adjustment (out-of-sample cross-validation R2= 62.6%) were lower MS selfefficacy and higher avoidance, cognitive vulnerability, embarrassment avoidance, conflict, helplessness, and secondary progressive MS type. Conclusions and implications: Helping newly diagnosed people to find ways to tolerate anxiety-causing situations by encouraging acceptance may help people adjust to progressive MS by lowering their avoidance. Further, building confidence in managing the illness and addressing relationship issues are key focus areas in psychological interventions for people with progressive multiple sclerosis.",
+    "DOI": "10.3389/fresc.2022.966133",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on Multiple Sclerosis rather than mental health disorders. Additionally, it lacks an intervention related to employment policies and does not present outcomes specifically addressing employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychological adjustment in progressive MS, not employment outcomes in people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and the population is not explicitly defined as having mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

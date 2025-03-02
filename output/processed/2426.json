@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2426,
+    "Authors": "Yang, Joy; Wang, Li; Williams, Allison",
+    "Article Title": "The Role of Carer-Friendly Workplace Policies and Social Support in Relation to the Mental Health of Carer-Employees",
+    "Abstract": "Carer-employees (CEs) are unpaid carers who are simultaneously working in paid employment. Workplace stress often compounds with caregiving stress to cause negative health effects for CEs. This analysis investigates cross-sectional data of the 2018 Canadian General Social Survey (GSS) to determine whether CEs who experienced work interferences (WIs), including taking time off work, turning down a job offer or promotion, and taking a less demanding job, were associated with poor mental health due to caregiving responsibilities. Carer-friendly work policies (CFWPs) and social support would lower the mental health impact of CEs and moderate the association between WIs and mental health. Of the 23,025 respondents, 4,291 were CEs. A series of multivariate logistic regressions were conducted on various mental health symptoms (e.g., feeling tired, experiencing appetite loss, and having trouble sleeping). Most WIs were positively associated with mental health symptoms. CFWPs, such as flexible scheduling, the option to work part-time, being able to take a leave of absence or an extended leave, and feeling that CFWPs can be taken without negative impacts on one's career, were negatively associated with at least one mental health symptom caused by the caregiving responsibilities. The option to telework was found to be nonsignificant. Generally, social support was associated with an increased chance of mental health symptoms, apart from help from the community. CEs who worked in workplaces that promoted CFWPs without negative impacts on their careers were less likely to feel anxious when turning down a job offer or promotion. Our study highlights the importance of CFWPs for CEs' mental health. As the number of CEs increases over time, the need for effective and wide-ranging CFWPs becomes more important.",
+    "DOI": "10.1155/2023/5749542",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional analysis with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, and carer-friendly workplace policies, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Cross-sectional analysis with multivariate logistic regressions and control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies aimed at people with mental health disorders. It focuses on carer-friendly workplace policies and their impact on the mental health of carers (unpaid caregivers) rather than individuals with documented mental health problems seeking or maintaining employment.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on carer-employees (CEs) and their experiences with work interferences (WIs) and carer-friendly work policies (CFWPs), which are not directly related to the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment). The study also does not meet the inclusion criteria's intervention focus and is not a systematic review or meta-analysis of controlled trials.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with multivariate logistic regressions",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3998,
+    "Authors": "Darnell, Doyanne; Arean, Patricia A.; Dorsey, Shannon; Atkins, David C.; Tanana, Michael J.; Hirsch, Tad; Mooney, Sean D.; Boudreaux, Edwin D.; Comtois, Katherine Anne",
+    "Article Title": "Harnessing Innovative Technologies to Train Nurses in Suicide Safety Planning With Hospitalized Patients: Protocol for Formative and Pilot Feasibility Research",
+    "Abstract": "Background: Suicide is the 10th leading cause of death in the United States, with >47,000 deaths in 2019. Most people who died by suicide had contact with the health care system in the year before their death. Health care provider training is a top research priority identified by the National Action Alliance for Suicide Prevention; however, evidence-based approaches that target skill-building are resource intensive and difficult to implement. Advances in artificial intelligence technology hold promise for improving the scalability and sustainability of training methods, as it is now possible for computers to assess the intervention delivery skills of trainees and provide feedback to guide skill improvements. Much remains to be known about how best to integrate these novel technologies into continuing education for health care providers.Objective: In Project WISE (Workplace Integrated Support and Education), we aim to develop e-learning training in suicide safety planning, enhanced with novel skill-building technologies that can be integrated into the routine workflow of nurses serving patients hospitalized for medical or surgical reasons or traumatic injury. The research aims include identifying strategies for the implementation and workflow integration of both the training and safety planning with patients, adapting 2 existing technologies to enhance general counseling skills for use in suicide safety planning (a conversational agent and an artificial intelligence-based feedback system), observing training acceptability and nurse engagement with the training components, and assessing the feasibility of recruitment, retention, and collection of longitudinal self-report and electronic health record data for patients identified as at risk of suicide.Methods: Our developmental research includes qualitative and observational methods to explore the implementation context and technology usability, formative evaluation of the training paradigm, and pilot research to assess the feasibility of conducting a future cluster randomized pragmatic trial. The trial will examine whether patients hospitalized for medical or surgical reasons or traumatic injury who are at risk of suicide have better suicide-related postdischarge outcomes when admitted to a unit with nurses trained using the skill-building technology than those admitted to a unit with untrained nurses. The research takes place at a level 1 trauma center, which is also a safety-net hospital and academic medical center.Results: Project WISE was funded in July 2019. As of September 2021, we have completed focus groups and usability testing with 27 acute care and 3 acute and intensive care nurses. We began data collection for research aims 3 and 4 in November 2021. All research has been approved by the University of Washington institutional review board.Conclusions: Project WISE aims to further the national agenda to improve suicide prevention in health care settings by training nurses in suicide prevention with medically hospitalized patients using novel e-learning technologies.",
+    "DOI": "10.2196/33695",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and the population does not have mental health disorders.",
+            "study_design": "Qualitative and observational methods",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is nurses rather than people with mental health disorders. The intervention focuses on training in suicide safety planning using e-learning technologies.",
+            "study_design": "Protocol for formative and pilot feasibility research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the review.",
+            "study_design": "Developmental research",
+            "logprobs": null
+        }
+    }
+}

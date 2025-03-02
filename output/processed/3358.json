@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3358,
+    "Authors": "Cheng, Kent Jason G.; Rivera, Adovich S.; Miguel, Red Thaddeus D. P.; Lam, Hilton Y.",
+    "Article Title": "A cross-sectional study on the determinants of health-related quality of life in the Philippines using the EQ-5D-5L",
+    "Abstract": "Purpose The purpose of this study was to identify the determinants of Filipinos' health-related quality of life (HRQoL). Methods Data were collected from 1000 Filipinos across the nation who reported that they did not have known active disease or disability. HRQoL was measured through EuroQoL's (EQ) 5-level tool (EQ-5D-5L) and the EQ Visual Analog Scale (EQ-VAS). Both were implemented via the EQ Valuation Technology software. HRQoL was regressed on socioeconomic characteristics (age, sex, marital status, educational attainment, employment, poverty status, and availability of savings), social support factors (religion, religious attendance, and caregiving status), community- or societal-level factors (type and major island group of residence), and disease status. Results Majority of respondents reported that they did not have any problems across all EQ-5D-5L dimensions, namely mobility, self-care, usual activity, pain or discomfort, and anxiety or depression. Pain or discomfort had the highest rate of respondents reporting slight to extreme problems followed by anxiety or depression. Having savings was positively associated with HRQoL, while religious attendance, caregiver status, living in an urban area, living in Visayas or Mindanao, and having a diagnosed disease were negatively associated with HRQoL. Conclusion This current study confirms that HRQoL varied across socioeconomic statuses and communities in the Philippines.",
+    "DOI": "10.1007/s11136-021-02799-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not directly address employment or labor outcomes. The study focuses on health-related quality of life (HRQoL) and its determinants, but does not evaluate the effectiveness of active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It also does not address employment policies and lacks a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The geographic scope is outside the specified regions (Philippines), and the study does not address employment interventions or outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

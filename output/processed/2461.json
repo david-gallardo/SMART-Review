@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2461,
+    "Authors": "Maekawa, Yumiko; Ramos-Cejudo, Juan; Kanai, Atsuko",
+    "Article Title": "Help-Seeking among Male Employees in Japan: Influence of Workplace Climate and Distress",
+    "Abstract": "Objectives : Although using mental health services is an effective way to cope with work-related stressors and diseases, many employees do not utilize these services despite service improvements in recent years. The present study aimed to investigate the interaction effects of workplace climate and distress on help-seeking attitudes, and elucidate the reasons for mental health service underutilization in Japan. Methods : A questionnaire was distributed to 650 full-time male Japanese employees. Hierarchical multiple regression analysis was used to investigate interaction effects of workplace climate and distress on help-seeking. Results: Results showed that the association between workplace climate and help-seeking attitudes differed depending on employee distress level. For employees experiencing low levels of distress, openness to seeking treatment increased with a higher evaluation of the mental health services available at the workplace. However, the same did not hold true for employees experiencing high levels of distress. Instead, openness to seeking treatment decreased with perceived risk for career disadvantage for high distress employees. Additionally, negative values for seeking treatment in highly distressed employees decreased only when services were perceived as valuable, and the risk to their career was perceived as low. Conclusions: Overall, these findings indicate that distress distorts the perception of social support, which may lead to underutilization of available services. Assessing employees' distress levels and tailoring adequate interventions could facilitate help-seeking in male employees.",
+    "DOI": "10.1539/joh.16-0052-OA",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Hierarchical multiple regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on help-seeking behaviors among male employees in Japan. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the geographic scope is outside the specified regions (Japan).",
+            "study_design": "Cross-sectional survey with hierarchical multiple regression analysis",
+            "logprobs": null
+        }
+    }
+}

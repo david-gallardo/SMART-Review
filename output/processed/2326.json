@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2326,
+    "Authors": "Meschnig, A.; Bartel, S.; von Kardorff, E.",
+    "Article Title": "Individual and Contextual Reasons for Drop-outs in Vocational Retraining",
+    "Abstract": "Background and Aims: The study focusses on the explanation of the individual, process-driven, and institutional factors and their interplay, and on the subjective accounts for the high drop-out rates in vocational retraining which are reported by the German statutory pension insurance scheme.Methods: 454 participants of 2-year lasting vocational retraining schemes in 3 vocational promotion centers and 3 education providers took part in the questionnaire survey. Furthermore, experts, dropouts and participants were interviewed and group discussions with experts and participants were conducted.Results: Drop-out is not a definite term. Instead, it consists of different dimensions. 3 personal factors for predicting a drop-out could be identified: suffering from depression, negative health assessment and lack of social support. Generally speaking, drop-out of vocational retraining is a complex and mainly situational process which can hardly be predicted by personal factors, job-biographies or foregoing unemployment.",
+    "DOI": "10.1055/s-0034-1394452",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the individual and contextual reasons for drop-outs in vocational retraining.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a control group.",
+            "study_design": "Survey and qualitative interviews without a randomized controlled trial or quasi-experimental design with a control group.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Survey with qualitative methods",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2688,
+    "Authors": "Humensky, Jennifer L.; Essock, Susan M.; Dixon, Lisa B.",
+    "Article Title": "Characteristics Associated With the Pursuit of Work and School Among Participants in a Treatment Program for First Episode of Psychosis",
+    "Abstract": "Objective: In this study, we examined the pursuit of education and employment among participants in the Recovery After an Initial Schizophrenia Episode (RAISE) Connection Program (Dixon et al., 2015; Essock et al., 2015), a first-episode psychosis (FEP) treatment program emphasizing participation in school and work. Method: Data were collected between 2011 and 2013 from all 65 individuals in the RAISE Connection Program. Descriptive statistics, analysis of variance, and multinomial logit random effects models were used to examine rates and predictors of work/school participation. Results: Most participants who eventually engaged in vocational activities did so within the first year of participation. Many engaged in both school and work. Those working (alone or with school) had better premorbid functioning and cognition and less severe concurrent symptoms. Conclusion and Implications for Practice: Participants in FEP programs emphasizing school and work can have high rates of vocational participation and early engagement, often simultaneously in work and school.",
+    "DOI": "10.1037/prj0000256",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study used descriptive statistics, analysis of variance, and multinomial logit random effects models, which are not considered rigorous evaluation methods.",
+            "study_design": "Descriptive statistics, analysis of variance, multinomial logit random effects models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design as it does not have a control group. It also does not directly address employment outcomes but focuses on the pursuit of education and school participation among participants in a treatment program for first episode psychosis.",
+            "study_design": "Descriptive statistics, analysis of variance, multinomial logit random effects models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-episode psychosis (FEP) and does not specifically target people with mental health disorders in general, but rather a specific group with FEP. The intervention is not clearly defined as job search services, adult training, wage subsidies, or supported employment. The study also does not provide employment or labor outcomes as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

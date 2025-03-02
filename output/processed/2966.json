@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2966,
+    "Authors": "Huang, Tong; Saito, Eisuke",
+    "Article Title": "Risk factors of suicide among Chinese college students: a literature review",
+    "Abstract": "Suicide is a serious public health issue worldwide. In China, suicide is the fifth leading cause of death and the second leading cause of death among 15- to 34-year-olds. Research has shown that the suicide rate among college students is higher than their non-college peers. This study aims to review the literature on the risk factors of Chinese college students' suicide and suicidal behaviours (i.e. suicidal ideation, attempt and plan). Existing literature identifies four kinds of factors that are related to suicide among Chinese college students, namely, psychological factors (e.g. hopelessness and depression), family factors (e.g. low-income family environment and unsuccessful family education), negative life events (e.g. frustrated interpersonal communication, and pressure from academics and employment) and social factors (e.g. neglect of the psychological curriculum and status of psychological counselling in China). Moreover, there are complicated relationships among these factors. Finally, the implications for future studies are discussed.",
+    "DOI": "10.1080/17525098.2020.1858736",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment outcomes for people with mental health disorders, but rather on risk factors of suicide among Chinese college students.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review and does not include controlled trials, RCTs, or quasi-experimental studies with a control group. The geographic scope is outside the specified regions (EU countries, Europe, US, Canada, Australia). The intervention focuses on risk factors of suicide rather than employment policies. The population is Chinese college students, which does not specifically address people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on suicide risk factors among Chinese college students, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not include employment outcomes.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

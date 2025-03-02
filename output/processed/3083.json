@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3083,
+    "Authors": "Kuehn, Mine; Dudel, Christian; Werding, Martin",
+    "Article Title": "Maternal health, well-being, and employment transitions: A longitudinal comparison of partnered and single mothers in Germany",
+    "Abstract": "Balancing parenthood and employment can be challenging and distressing, particularly for single mothers. At the same time, transitioning to employment can improve the financial situations of single mothers and provide them with access to social networks, which can have beneficial effects on their health and well-being. Currently, however, it is not well understood whether the overall impact of employment on single mothers is positive or negative, and to what extent it differs from the impact of employment on partnered mothers. Building on the literature on work-family conflict, we investigate the differential effects of employment transitions on the health and well-being of single mothers and partnered mothers. Using longitudinal data from the German Socio-Economic Panel (1992-2016), we apply panel regression techniques that address the potential endogeneity of maternal employment, as well as the dynamic nature of the relationship between employment transitions and maternal health and well-being. We find that employment has a positive impact on single mothers, and that single mothers benefit from employment significantly more than partnered mothers. Surprisingly, income does not appear to be an important driver of these results. Overall, our findings suggest that employment plays a key role in the well-being of single mothers.",
+    "DOI": "10.1016/j.ssresearch.2023.102906",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal comparison using panel regression techniques, which meets the inclusion criteria. The study focuses on the impact of employment on single mothers and partnered mothers, and it includes outcomes related to employment and labor results.",
+            "study_design": "Longitudinal comparison with panel regression techniques",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders or documented mental health problems and its intervention does not directly relate to employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal analysis using panel regression techniques on the German Socio-Economic Panel data (1992-2016)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on single and partnered mothers in Germany, which does not align with the specified population of people with mental health disorders. Additionally, the study's intervention is not directly related to employment policies but rather to the employment transitions of mothers.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly people with mental disorders or documented mental health problems.",
+            "study_design": "Longitudinal study using panel regression techniques",
+            "logprobs": null
+        }
+    }
+}

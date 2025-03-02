@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3288,
+    "Authors": "Brown, Kyla; Bierman, Alex",
+    "Article Title": "Work Dissatisfaction and Sleep Problems among Canadians in the Latter Half of Life",
+    "Abstract": "This study examined the relationship between work dissatisfaction and sleep problems among Canadian adults in the latter half of life, as well as how gender and social contact moderate this relationship. Data were obtained from the Canadian General Social Survey, Cycle 21 (2007), which sampled adults aged 45 and older in 2007. Analyses focused on individuals with employment as their main activity. Analyses show that work dissatisfaction positively predicts trouble sleeping. There are no significant gender differences in this relationship. Social contact with friends buffers this relationship, but social contact with family does not, and buffering does not vary significantly between men and women. This research contributes to knowledge on sleep problems by showing that work dissatisfaction is adversely associated with sleep problems among Canadians in the latter half of life, but social contact with friends can weaken this deleterious relationship.",
+    "DOI": "10.1017/S0714980817000198",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines the relationship between work dissatisfaction and sleep problems.",
+            "study_design": "Correlational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the relationship between work dissatisfaction and sleep problems among Canadian adults aged 45 and older, without any intervention or policy evaluation.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions or outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions related to job search services, adult training, wage subsidies, or supported employment. It also does not measure employment or labor outcomes.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

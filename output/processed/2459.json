@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2459,
+    "Authors": "Jetha, Arif; Navaratnerajah, Lahmea; Kondratowski, Sebastian; Parmassar, Meagan; Tucker, Lori B.; Gignac, Monique A. M.",
+    "Article Title": "Impact of employment and income support interventions on the health of young adults with episodic disability: Findings from a systematic review",
+    "Abstract": "Objective Young adults living with episodic disabilities face unpredictable disruptions to their employment and health. Our study aimed to examine the impact of employment and income support interventions on the health and well-being of young adults living with episodic disabilities.Methods We conducted a systematic review of peer-reviewed intervention studies published in 2001-2021 in industrialized contexts. Two independent reviewers screened titles, abstracts and full-texts. We undertook a narrative synthesis of eligible articles.Results Our search yielded 15 269 published articles, of which only five studies were eligible for evidence synthesis. All articles were appraised as being of medium quality. Four interventions focused on young adults living with mental health conditions. Two were based in clinical settings; three were based in community-based settings. Each employment intervention exhibited improvements in health outcomes. Three studies examined the impact of supported employment interventions that were particularly beneficial to improving work and health outcomes.Conclusion Involvement in employment interventions could provide benefits for the health of young adults with episodic disability. Our systematic review highlights the need to for research to elaborate on the ways in which employment interventions can impact the health and well-being of young adults living with different episodic disabilities.",
+    "DOI": "10.5271/sjweh.4133",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study is based in industrialized contexts (EU, Europe, US, Canada, Australia), and the timeframe is 2001-2021. The intervention is employment and income support interventions, and the population is young adults living with episodic disabilities. The outcomes include health outcomes, which meets the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe for this study is outside the specified range (2005-2025).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young adults with episodic disabilities, not specifically on people with mental health disorders. The interventions examined are not directly related to employment policies for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The timeframe of the study is outside the specified range (2001-2021 vs. 2005-2025).",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3768,
+    "Authors": "Burke, Michael P.; Jones, Sonya J.; Frongillo, Edward A.; Fram, Maryah S.; Blake, Christine E.; Freedman, Darcy A.",
+    "Article Title": "Severity of household food insecurity and lifetime racial discrimination among African-American households in South Carolina",
+    "Abstract": "Objectives: In 2014, 30% of African-American households with children had low or very low food security, a rate double that of white households with children. A household has low food security if its members experience food shortages and reductions in food quality attributable to a lack of household resources or access and very low food security if its members also experience reductions in food intake and disrupted eating patterns. Households that are either low or very low food secure are known collectively as food insecure. We examined the association between the severity of household food insecurity and reports of lifetime racial discrimination among a sample of food-insecure African-American households in South Carolina.Design: Data were collected from 154 African-American respondents. Food insecurity was measured using the US Department of Agriculture's Household Food Security Survey Module. Lifetime racial discrimination was measured using the Perceived Ethnic Discrimination Questionnaire-Community Version (PEDQ-CV). We used logistic regression to test the association between severity of food insecurity (low vs. very low food secure), PEDQ-CV score and PEDQ-CV subscales. All models were adjusted for demographic and socioeconomic variables.Results: A one-unit increase in the frequency of lifetime racial discrimination was associated with a 5% increase in the odds of being very low food secure (odds ratio (OR) 1.05, P<.05). More reports of discrimination that were stigmatizing or devaluing (OR 1.16, P<.05), took place at a workplace or school (OR 1.15, P<.05) or were threatening or aggressive (OR 1.39, P<.05) increased the odds of being very low food secure. More reports of racial discrimination that were excluding or rejecting did not significantly increase the odds of being very low food secure (OR 1.07, P>.05).Conclusions: Severity of household food insecurity is associated with lifetime racial discrimination among African-American households in South Carolina.",
+    "DOI": "10.1080/13557858.2016.1263286",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and instead focuses on the association between household food insecurity and lifetime racial discrimination.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not involve job search services, adult training, wage subsidies, or supported employment. It focuses on the association between food insecurity and lifetime racial discrimination among African-American households in South Carolina.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on household food insecurity and racial discrimination.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study using logistic regression",
+            "logprobs": null
+        }
+    }
+}

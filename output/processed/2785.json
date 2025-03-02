@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2785,
+    "Authors": "Valente, M. S. S.; Menezes, P. R.; Pastor-Valero, M.; Lopes, C. S.",
+    "Article Title": "Depressive symptoms and psychosocial aspects of work in bank employees",
+    "Abstract": "The financial sector has seen an increase in the number of cases of violence and stress, which can result in adverse health outcomes, including depressive symptoms, but studies related to stress at work and depression for these workers are scarce.To investigate the association between exposure to psychosocial work stressors and depressive symptoms in bank employees.A self-administered questionnaire was completed by a sample of bank employees in Para and Amapa, Brazil. The survey assessed sociodemographic characteristics, mental health (Patient Health Questionnaire-9), Demand-Control-Support and Effort-Reward Imbalance (ERI). Outcomes included two levels of depressive symptoms: major depressive symptoms (MDS) and other forms of depressive symptoms (ODS). Logistic regression models were used to estimate associations between depressive symptoms, the two job stress models and relevant covariates.Of 2806 eligible subjects, there were 1445 respondents (52% response rate) and the final analyses included 1046 participants. The overall prevalence of depressive symptoms was 32% (MDS = 18%; ODS = 14%), with no statistically significant difference between men and women. High demands, low levels of control and low social support were associated with MDS and/or ODS, adjusted for gender, age and other work-related conditions. High effort/low reward, over-commitment and ERI were also associated with MDS and ODS.Psychosocial conditions in banking activity involving high strain, low social support at work, high effort with low reward and over-commitment may represent possible risk factors for depressive symptoms in bank employees.",
+    "DOI": "10.1093/occmed/kqv124",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a logistic regression model with a control group, meeting the inclusion criteria for study design. The study is set in Brazil, within the EU, Europe, US, Canada, or Australia, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005-2025, meeting the inclusion criteria for timeframe. The intervention is job search services, adult training, wage subsidies, supported employment, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Logistic regression model with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not have a control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The intervention and population criteria are also not met as the study focuses on bank employees in Brazil without addressing employment policies or interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, nor does it target people with mental health disorders as the population of interest.",
+            "study_design": "Self-administered questionnaire",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (Brazil) and does not directly address employment interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

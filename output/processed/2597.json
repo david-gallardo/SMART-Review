@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2597,
+    "Authors": "Gill, Michael J.; Roulet, Thomas J.; Kerridge, Stephen P.",
+    "Article Title": "Mentoring for mental health: A mixed-method study of the benefits of formal mentoring programmes in the English police force",
+    "Abstract": "Recent research suggests that mentors can enhance their mentees' mental health. Yet little is known about the effect of mentoring on the anxieties of the mentors themselves. We hypothesise that mentoring programmes can have a positive impact on both mentees' and mentors' mental health. In a multi-method longitudinal study, we explore empirically the effect of a formal mentoring programme in the English police force on senior police officers' levels of anxiety. In the first step of our study, we conducted a field experiment. This experiment yielded preliminary results that suggest mentors may experience marginally lower levels of anxiety and feel as if their job is more meaningful when they participate in the mentoring programme. As a second step, we qualitatively investigated the subjective experience of the participants to explain and substantiate our findings. We found that mentoring relationships provide a unique context for mentors to discuss and normalise their concerns, to share ideas for managing anxieties, and to find more meaning in their work. We discuss our findings in terms of mentoring theory and consider their practical implications for improving mental health in the workplace.",
+    "DOI": "10.1016/j.jvb.2018.08.005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mixed-method study with a field experiment, which does not meet the inclusion criteria of a systematic review, meta-analysis, or RCT.",
+            "study_design": "Mixed-method study with a field experiment",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not include a control group and is based on a field experiment without random assignment. The intervention also does not directly address employment but focuses on mental health in the workplace.",
+            "study_design": "Field experiment",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the mental health of police officers and the impact of mentoring on their anxiety levels, which does not align with the specified inclusion criteria regarding interventions for people with mental health disorders in the context of employment.",
+            "study_design": "Mixed-method longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on mentoring programs and their impact on mental health rather than employment outcomes.",
+            "study_design": "Mixed-method longitudinal study with a field experiment",
+            "logprobs": null
+        }
+    }
+}

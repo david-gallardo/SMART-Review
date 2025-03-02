@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3305,
+    "Authors": "Gelaw, Asmare; Parker, Sharon; Johnson, Anya; Nguyen, Helena; Jolly, Anu; Forner, Vivien; Deng, Connie; Collie, Alex",
+    "Article Title": "Determinants of psychological injury among health and social care workers in community settings: A systematic review",
+    "Abstract": "BACKGROUND: Health and Social Care (HSC) workers face psychological health risks in the workplace. While many studies have described psychological injuries in HSC workers, few have examined the determinants. Previous research has primarily focused on hospitals, lacking systematic reviews of community-based settings.OBJECTIVE: To systematically identify and appraise current evidence on the determinants of psychological injuries among HSC workers in community settings.METHODS: Searches were conducted in three bibliographic databases, supplemented by citation searches. Included studies focused on community-based HSC workers, reporting statistical associations between psychological injury and personal, health, occupational, or organizational factors. Quantitative studies published in English between January 1, 2000 and August 15, 2023 were included. Quality appraisal was undertaken using the JBI critical appraisal checklist.RESULTS: Sixty-six studies were included. Study quality was highly variable, and all studies were cross-sectional. Twenty-three studies linked psychological injury with occupational factors (e.g. low job control, high job demands and low job satisfaction). Thirteen studies observed an association between work environment and psychological injury, and a further eleven between workplace social support and psychological injury. Fewer studies have examined the relationship between psychological injury and personal/individual factors.CONCLUSION: Occupational and organisational factors are significantly associated with psychological health among HSA workers, in community settings. These aspects of job design, work environment and workplace relationships are modifiable, suggesting an opportunity for work design interventions to improve workers' psychological health and reduce the prevalence of psychological injury in this sector.",
+    "DOI": "10.3233/WOR-230426",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study focuses on community-based HSC workers, reporting statistical associations between psychological injury and various factors, and includes studies published between 2000 and 2023.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the determinants of psychological injury among health and social care workers in community settings.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychological injuries among HSC workers in community settings, which does not align with the specified interventions in the inclusion criteria (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

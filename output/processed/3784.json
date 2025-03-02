@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3784,
+    "Authors": "Kandula, Sasikiran; Martinez-Ales, Gonzalo; Rutherford, Caroline; Gimbrone, Catherine; Olfson, Mark; Gould, Madelyn S.; Keyes, Katherine M.; Shaman, Jeffrey",
+    "Article Title": "County-level estimates of suicide mortality in the USA a modelling study",
+    "Abstract": "Background Suicide is one of the leading causes of death in the USA and population risk prediction models can inform decisions on the type, location, and timing of public health interventions. We aimed to develop a prediction model to estimate county-level suicide risk in the USA using population characteristics.Methods We obtained data on all deaths by suicide reported to the National Vital Statistics System between Jan 1, 2005, and Dec 31, 2019, and age, sex, race, and county of residence of the decedents were extracted to calculate baseline risk. We also obtained county-level annual measures of socioeconomic predictors of suicide risk (unemployment, weekly wage, poverty prevalence, median household income, and population density) and state-level prevalence of major depressive disorder and firearm ownership from US public sources. We applied conditional autoregressive models, which account for spatiotemporal autocorrelation in response and predictors, to estimate county-level suicide risk.Findings Estimates derived from conditional autoregressive models were more accurate than from models not adjusted for spatiotemporal autocorrelation. Inclusion of suicide risk and protective covariates further reduced errors. Suicide risk was estimated to increase with each SD increase in firearm ownership (2 center dot 8% [95% credible interval (CrI) 1 center dot 8 to 3 center dot 9]), prevalence of major depressive episode (1 center dot 0% [0 center dot 4 to 1 center dot 5]), and unemployment rate (2 center dot 8% [1 center dot 9 to 3 center dot 8]). Conversely, risk was estimated to decrease by 4 center dot 3% (-5 center dot 1 to -3 center dot 2) for each SD increase in median household income and by 4 center dot 3% (-5 center dot 8 to -2 center dot 5) for each SD increase in population density. An increase in the heterogeneity in county -specific suicide risk was also observed during the study period.Interpretation Area-level characteristics and the conditional autoregressive models can estimate population-level suicide risk. Availability of near real-time situational data are necessary for the translation of these models into a surveillance setting. Monitoring changes in population-level risk of suicide could help public health agencies select and deploy targeted interventions quickly.",
+    "DOI": "10.1016/S2468-2667(22)00290-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on suicide mortality and population risk prediction models.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on suicide mortality in the USA. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Observational (modelling study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "Modelling study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Modelling study",
+            "logprobs": null
+        }
+    }
+}

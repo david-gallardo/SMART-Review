@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2848,
+    "Authors": "Farris, Samantha G.; Kibbey, Mindy M.; Fedorenko, Erick J.; DiBello, Angelo M.",
+    "Article Title": "A Qualitative Study of COVID-19 Distress in University Students",
+    "Abstract": "The psychological effect of the pandemic and measures taken in response to control viral spread are not yet well understood in university students; in-depth qualitative analysis can provide nuanced information about the young adult distress experience. Undergraduate students (N = 624) in an early US outbreak hotspot completed an online narrative writing about the impact and distress experienced due to the COVID-19 pandemic. Data were collected April-May 2020. A random selection of 50 cases were sampled for thematic analysis. Nine themes were identified: viral outbreak distress, fear of virus contraction/transmission, proximity to virus, dissatisfaction with public response, physical distancing distress, social distancing distress, academic and school-related distress, disruptive changes in health behavior and routines, financial strain and unemployment, worsening of pre-existing mental health problems, and social referencing that minimizes distress. Future work is needed to understand the persistence of the distress, in addition to developing methods for assessment, monitoring, and mitigation of the distress.",
+    "DOI": "10.1177/21676968211025128",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (thematic analysis) without a control group or rigorous evaluation. It does not address employment or labor outcomes and the population is university students rather than people with mental health disorders.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the psychological impact of COVID-1s on university students, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to mental health disorders.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

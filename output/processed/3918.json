@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3918,
+    "Authors": "Romeo, Marina; Yepes-Baldo, Montserrat; Soria, Miguel Angel; Jayme, Maria",
+    "Article Title": "Impact of the COVID-19 Pandemic on Higher Education: Characterizing the Psychosocial Context of the Positive and Negative Affective States Using Classification and Regression Trees",
+    "Abstract": "Our aim is to analyze the extent to which the psychosocial aspects can characterize the affective states of the teachers, administrative staff, and undergraduate and postgraduate students during the quarantine. A questionnaire was answered by 1,328 people from the community of the Universitat de Barcelona (UB), Spain. The survey was partially designed ad hoc, collecting indicators related to sociodemographic variables, the impact of COVID on the subjects or in their personal context, the psychosocial context of coexistence and perceived social support, characteristics related to the physical context during the quarantine, and labor conditions. Additionally, it included two validated instruments: the Survey Work-Home Interaction-Nijmegen for Spanish Speaking Countries (SWING-SSC) validated in Spanish and PANAS, the Positive and Negative Affect Schedule. Classification and Regression Trees (CART) were performed to identify which variables better characterize the participants' level of positive and negative affective states. Results according to groups showed that students are the ones who have suffered the most as a result of this situation (temporary employment regulation, higher scores in negative work-home and home-work interaction, lower scores in positive home-work interaction, and negative effects of teleworking). Additionally, they reported a higher mean score in interpersonal conflict and worse scores with regard to negative affective states. Based on sex, women were the ones whose environment was shown to be more frequently affected by the pandemic and who exhibited more negative effects of teleworking. In general terms, participants with the highest scores in negative affective states were those who perceived an increase in conflict and a high negative effect from work spilling over into their personal lives. On the contrary, participants with the highest levels of positive affective states were those with medium to low levels of negative home-work interaction, over 42.5 years old, and with medium to high levels of positive work-home interaction. Our results aim to help higher education to reflect on the need to adapt to this new reality, since the institutions that keep pace with evolving trends will be able to better attract, retain, and engage all the members of the university community in the years ahead.",
+    "DOI": "10.3389/fpsyg.2021.714397",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Survey with questionnaire",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial aspects of affective states during the COVID-19 pandemic.",
+            "study_design": "Survey with validated instruments (SWING-SSC, PANAS) but lacks a rigorous evaluation or control group related to employment policies.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey using Classification and Regression Trees (CART)",
+            "logprobs": null
+        }
+    }
+}

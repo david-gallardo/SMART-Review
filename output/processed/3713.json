@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3713,
+    "Authors": "Maechling, Claire; Yrondi, Antoine; Cambon, Amandine",
+    "Article Title": "Mobile health in the specific management of first-episode psychosis: a systematic literature review",
+    "Abstract": "PurposeThe purpose of this systematic literature review is to assess the therapeutic efficacy of mobile health methods in the management of patients with first-episode psychosis (FEP).MethodThe participants are patients with FEP. The interventions are smartphone applications. The studies assess the preliminary efficacy of various types of application.ResultsOne study found that monitoring symptoms minimized relapses, visits to A & E and hospital admissions, while one study showed a decrease in positive psychotic symptoms. One study found an improvement in anxiety symptoms and two studies noted an improvement in psychotic symptoms. One study demonstrated its efficacy in helping participants return to studying and employment and one study reported improved motivation.ConclusionThe studies suggest that mobile applications have potential value in the management of young patients with FEP through the use of various assessment and intervention tools. This systematic review has several limitations due to the lack of randomized controlled studies available in the literature.",
+    "DOI": "10.3389/fpsyt.2023.1137644",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned in the article.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mobile health methods for managing first-episode psychosis rather than employment policies. It lacks interventions directly addressing employment and labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-episode psychosis and mobile health intervents, which do not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Systematic literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

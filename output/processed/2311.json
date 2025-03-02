@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2311,
+    "Authors": "Klier, Julia; Klier, Mathias; Thiel, Lea; Agarwal, Ritu",
+    "Article Title": "Power of Mobile Peer Groups: A Design-Oriented Approach to Address Youth Unemployment",
+    "Abstract": "To investigate the societal value of digital peer groups in the context of youth unemployment, one of society's most pressing problems, we developed a novel mobile peer-group-based career counseling approach. Following a design-oriented methodology, we constructed an intervention in which we supplement offline one-on-one counseling sessions between youths and career counselors with mobile peer groups where youths can support one another in a trusting environment, independent of time and place. We evaluated the career counseling intervention, implemented on a WhatsApp platform, in a randomized field experiment conducted at the German Federal Employment Agency. Results suggest that the mobile peer-group-based career counseling approach offers substantial added value compared with traditional career counseling. It significantly increases a youth's chances of finding employment while improving his or her attitude towards career choice, career maturity, and career search intensity. Our study contributes to literature on the societal impacts of information and communication technologies and to research in design science. The proposed mobile intervention has important policy implications for addressing youth unemployment.",
+    "DOI": "10.1080/07421222.2018.1550557",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment. The article discusses job search services, career counseling, and mobile peer groups, which are not directly related to the specified interventions.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on youth unemployment and the use of mobile peer groups to enhance career counseling.",
+            "study_design": "Randomized field experiment (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on youth unemployment and does not specifically target people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "Randomized field experiment",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not specified as people with mental disorders.",
+            "study_design": "Randomized field experiment",
+            "logprobs": null
+        }
+    }
+}

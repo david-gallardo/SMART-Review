@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2990,
+    "Authors": "Sandberg, Joanne C.; Nguyen, Ha T.; Quandt, Sara A.; Chen, Haiying; Summers, Phillip; Walker, Francis O.; Arcury, Thomas A.",
+    "Article Title": "Sleep Quality Among Latino Farmworkers in North Carolina: Examination of the Job Control-Demand-Support Model",
+    "Abstract": "Sleep problems are associated with physical and mental health disorders and place individuals at an increased risk of workplace injuries. The demand-control-support model posits that job demands and the capacity to control work processes influence workers' level of distress, thereby affecting their physical and mental health; supervisor support can buffer the negative effect of high demands and low control. Data on the sleep quality and the organization of work of Latino men were collected in agricultural areas in North Carolina in 2012. 147 Mexican-born farmworkers ages 30 and older, most of whom had H-2A visas, provided information about sleep quality and organization of work. Most (83 %) farmworkers reported good sleep quality. The association between working more than 40 h per week and reporting poor sleep quality approached statistical significance. Additional research is needed to understand whether job demands, job control, and social support affect farmworkers' sleep quality.",
+    "DOI": "10.1007/s10903-015-0248-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on sleep quality among Latino farmworkers in North Carolina. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

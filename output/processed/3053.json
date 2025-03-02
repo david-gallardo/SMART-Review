@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3053,
+    "Authors": "Fung, Kenneth Po-Lun; Vahabi, Mandana; Moosapoor, Masoomeh; Akbarian, Abdolreza; Liu, Jenny Jing-Wen; Wong, Josephine Pui-Hing",
+    "Article Title": "Implementation of an Internet-Based Acceptance and Commitment Therapy for Promoting Mental Health Among Migrant Live-in Caregivers in Canada: Protocol",
+    "Abstract": "Background: Psychological distress, isolation, feelings of powerlessness, and limited social support are realities faced by temporary migrant live-in caregivers in Canada Furthermore, they experience multiple barriers in accessing mental health services due to their long work hours, limited knowledge of health resources, precarious employment, and immigration status.Objective: The Women Empowerment - Caregiver Acceptance & Resilience E-Learning (WE2CARE) project is a pilot intervention research project that aims to promote the mental well-being and resiliency of migrant live-in caregivers. The objectives include exploring the effectiveness of this program in achieving the following: (1) reducing psychological distress (depression, anxiety, and stress); (2) promoting committed actions of self-care; and (3) building mutual support social networks. Further, participants' satisfaction with the intervention and their perceived barriers to and facilitators of practicing the self-care strategies embedded in WE2CARE will be examined.Methods: A total of 36 live-in caregivers residing in the Greater Toronto Area will be recruited and randomly assigned to either the intervention or waitlist control group. The intervention group will receive a 6-week web-based psychosocial intervention that will be based on Acceptance and Commitment Therapy (ACT) Standardized self-reported surveys will be administered online preintervention, postintervention, and at 6 weeks postintervention to assess mental distress (Depression, Anxiety and Stress Scale), psychological flexibility (Acceptance and Action Questionnaire), mindfulness (Cognitive and Affective Mindfulness Scale - Revised), and resilience (Multi-System Model of Resilience Inventory). In addition, two focus groups will be held with a subset of participants to explore their feedback on the utility of the WE2CARE program.Results: WE2CARE was funded in January 2019 for a year. The protocol was approved by the research ethics boards of Ryerson University (REB 2019-036) and the University of Toronto (R1537623) in February and May 2019, respectively. Data collection started upon ethics approval and was completed by May 2020. A total of 29 caregivers completed the study and 20 participated in the focus groups. Data analyses are in progress and results will be published in 2021.Conclusions: WE2CARE could be a promising approach to reducing stress, promoting resilience, and providing a virtual space for peer emotional support and collaborative learning among socially isolated and marginalized women. The results of this pilot study will inform the adaptation of an ACT-based psychological intervention for online delivery and determine its utility in promoting mental health among disadvantaged and vulnerable populations.",
+    "DOI": "10.2196/31211",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pilot intervention research project, which lacks a rigorous evaluation and does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Pilot intervention research project",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on reducing psychological distress, promoting resilience, and providing peer emotional support among migrant live-in caregivers.",
+            "study_design": "Quasi-experimental with a waitlist control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental health interventions for migrant live-in caregivers in Canada, which is not directly related to employment outcomes for people with mental health disorders.",
+            "study_design": "Intervention study with a control group",
+            "logprobs": null
+        }
+    }
+}

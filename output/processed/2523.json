@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2523,
+    "Authors": "Shiga, Kiko; Izumi, Keisuke; Minato, Kazumichi; Yoshimura, Michitaka; Kitazawa, Momoko; Hanashiro, Sayaka; Cortright, Kelley; Kurokawa, Shunya; Momota, Yuki; Sado, Mitsuhiro; Maeno, Takashi; Takebayashi, Toru; Mimura, Masaru; Kishimoto, Taishiro",
+    "Article Title": "Association of work environment with stress and depression among Japanese workers",
+    "Abstract": "BACKGROUND: There is a lack of studies that investigated the effect of a wide range of work environmental factors on stress and depression in Japan.OBJECTIVE: To examine the association of work environment factors with stress and depression among workers in Japan.METHODS: We conducted questionnaire surveys of workers that mainly engage in desk work in Japan. Stress was assessed through the Perceived Stress Scale (PSS), depression through the Patient Health Questionnaire-9 (PHQ-9), and work environment through physical and psychological workplace environment questionnaires. Workers were divided into low and high stress groups based on PSS score (median split), and divided into non-depressed and depressed groups based on their PHQ-9 score (< 5, and >= 5); these groups were then compared with their working environment. In addition, a multiple regression analysis was performed.RESULTS: Responses were obtained from 210 subjects. Multiple regression analysis showed that Ability to work at one's own pace and Ability to apply personal viewpoint to work, etc., had effect on stress, while Workplace harassment and Support from colleagues, etc., had effect on depression.CONCLUSIONS: The results suggest that stress and depression in Japanese workers are related to factors such as job demands, control of work, workplace harassment, and psychological safety.",
+    "DOI": "10.3233/WOR-210356",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a questionnaire survey, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Questionnaire survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly related to employment for people with mental health disorders. It focuses on the association between work environment factors and stress and depression among Japanese workers.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, nor does it specifically target people with mental health disorders.",
+            "study_design": "Questionnaire survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

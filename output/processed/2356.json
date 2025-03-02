@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2356,
+    "Authors": "Butenko, Daniil; Rinaldi, Miles; Brinchmann, Beate; Killackey, Eoin; Johnsen, Erik; Mykletun, Arnstein",
+    "Article Title": "Turnover of IPS employment specialists: Rates and predictors",
+    "Abstract": "BACKGROUND: There are anecdotal reports of high job turnover of Individual Placement and Support employment specialists. However, no studies have addressed this issue.OBJECTIVE: To explore whether turnover rates among employment specialists are higher compared to public sector employees along with the correlates of turnover intentions.METHODS: A repeated cross-sectional study collected data from 40 employment specialists in Norway using validated scales to measure job perceptions. Turnover intentions were the main outcome.RESULTS: Turnover rate of employment specialists (45.0%) was significantly higher than the average turnover rate of other occupations in the public sector (27.1%) in the same geographical regions (x(2) = 6.5, df = 1, p = 0.01). After adjusting for potential confounders, five factors remained significantly associated with turnover intentions in directions as expected: general job satisfaction (beta = -0.33, p < 0.05), satisfaction with current work (beta = -0.35, p < 0.05), satisfaction with supervision (beta = -0.28, p < 0.05), work meaningfulness (beta = -0.42, p < 0.05) and Negative emotionality personality trait (beta = 0.58, p < 0.05).CONCLUSIONS: Addressing turnover will positively impact on productivity and job satisfaction of employment specialists along with continuity of employment support for people with mental health conditions.",
+    "DOI": "10.3233/JVR-221195",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a repeated cross-sectional study with a control group, meeting the inclusion criteria for study design. The study is set in Norway, which falls within the EU, Europe, US, Canada, or Australia. The study timeframe is between 2005-2025. The intervention is job search services, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes.",
+            "study_design": "Repeated Cross-Sectional Study with Control Group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the employment outcomes of people with mental health disorders. It focuses on turnover rates and correlates among employment specialists in Norway.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders, but rather on job turnover among employment specialists.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for individuals with mental health disorders; it focuses on turnover rates and predictors among employment specialists.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

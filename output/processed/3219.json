@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3219,
+    "Authors": "Evelia Aparicio-Garcia, Marta; Diaz-Ramiro, Eva M.; Rubio-Valdehita, Susana; Inmaculada Lopez-Nunez, M.; Garcia-Nieto, Isidro",
+    "Article Title": "Protective Factors, Risk of Violence and Discrimination and Mental Health Indicators of Young LGB People",
+    "Abstract": "Lesbian, gay and bisexual (LGB) people have more risk of suffering from violence and situations of discrimination than heterosexual people. The current study compares LGB people with heterosexual people in protective factors, violence, health and well-being factors. The sample comprises 609 Spanish people between 14 and 25 years old. We established a cross-sectional design. A survey including questions about sociodemographic information and protective, violence and health and well-being factors was designed ad hoc for this study. The results show that the LGB group (n = 342) is more at risk of verbal and physical violence and feels more isolated than the heterosexual participants (n = 267). In contrast, heterosexual participants report having more employment discrimination. No significant differences were found in social support or psychological health. These results are important to understand the state of social normalization and non-discrimination for LGB people in certain contexts in Spain, and its impact on psychological health.",
+    "DOI": "10.3390/ijerph192114401",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of requiring a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on LGB people, not specifically on people with mental health disorders. The intervention is not directly related to employment policies.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions or outcomes for people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2940,
+    "Authors": "Lyu, Lidan; Chen, Yu",
+    "Article Title": "Parental migration and young migrants' wages in urban China: An exploratory analysis",
+    "Abstract": "Since the initiation of the economic reforms in 1978, generations of Chinese migrants have moved from the countryside to cities to seek job opportunities. As a result of financial constraints and institutional obstacles, many migrants leave their children at the place of origin, to be taken care of by partners, grandparents or other caregivers. Whilst previous studies primarily focus on the impacts of parental migration on children's education and health, very few studies have examined its longer-term impacts on labour market income when children reach adulthood. Yet parental migration is likely to influence children's human capital accumulation and skill development. Drawing on data from the 2011 Chinese Migrant Dynamics Monitoring Survey, this article fills the gap by exploring the relationship between different types of parental migration and their children's wages when the children have grown up and migrated to work in cities. Structural models are employed to estimate both education and wage equations simultaneously to capture the direct effect of parental migration on wages, together with the mediating effect of education. The results show significantly negative relationships between parental migration and young migrants' educational attainment and wages. Those who experienced the out-migration of both parents are most disadvantaged in the urban labour market. The study is important for policies aimed at improving migrants' life prospects and enhancing social mobility and equality.",
+    "DOI": "10.1177/0042098018787709",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the relationship between parental migration and young migrants' wages, without considering employment outcomes.",
+            "study_design": "Structural models (including regression analysis) with a focus on education and wage equations",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it focuses on parental migration in urban China and its impact on young migrants' wages. The study design is exploratory analysis using data from a specific survey, which lacks rigorous evaluation or control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Exploratory analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the impact of parental migration on children's wages, not specifically on people with mental health disorders. Additionally, the study's intervention is not directly related to employment policies but rather to the broader impact of parental migration on children's education and wages.",
+            "study_design": "Exploratory analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (EU countries, Europe, US, Canada, Australia) and does not address mental health.",
+            "study_design": "Exploratory analysis using structural models",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3494,
+    "Authors": "van Woerkom, Marianne; Bakker, Arnold B.; Nishii, Lisa H.",
+    "Article Title": "Accumulative Job Demands and Support for Strength Use: Fine-Tuning the Job Demands-Resources Model Using Conservation of Resources Theory",
+    "Abstract": "Absenteeism associated with accumulated job demands is a ubiquitous problem. We build on prior research on the benefits of counteracting job demands with resources by focusing on a still untapped resource for buffering job demands-that of strengths use. We test the idea that employees who are actively encouraged to utilize their personal strengths on the job are better positioned to cope with job demands. Based on conservation of resources (COR) theory, we hypothesized that job demands can accumulate and together have an exacerbating effect on company registered absenteeism. In addition, using job demands-resources theory, we hypothesized that perceived organizational support for strengths use can buffer the impact of separate and combined job demands (workload and emotional demands) on absenteeism. Our sample consisted of 832 employees from 96 departments (response rate = 40.3%) of a Dutch mental health care organization. Results of multilevel analyses indicated that high levels of workload strengthen the positive relationship between emotional demands and absenteeism and that support for strength use interacted with workload and emotional job demands in the predicted way. Moreover, workload, emotional job demands, and strengths use interacted to predict absenteeism. Strengths use support reduced the level of absenteeism of employees who experienced both high workload and high emotional demands. We conclude that providing strengths use support to employees offers organizations a tool to reduce absenteeism, even when it is difficult to redesign job demands.",
+    "DOI": "10.1037/apl0000033",
+    "Model Results": {
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks outcomes related to employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based on a sample of 832 employees from 96 departments of a Dutch mental health care organization, which meets the geographic scope and timeframe criteria. The intervention is job demands-resources theory, which is related to supported employment. The population is people with mental disorders or documented mental health problems, meeting the population criteria. The outcomes include employment or labor outcomes such as absenteeism, which meets the outcome criteria.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on job demands and strengths use in the workplace, which is not directly related to employment interventions for people with mental health disorders. The study design is not specified as an RCT, systematic review, or meta-analysis, and the population does not specifically reference individuals with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

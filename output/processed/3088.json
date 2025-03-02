@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3088,
+    "Authors": "Aristizabal, Sara; Byun, Kunjoon; Wood, Nadia; Mullan, Aidan F.; Porter, Paige M.; Campanella, Carolina; Jamrozik, Anja; Nenadic, Ivan Z.; Bauer, Brent A.",
+    "Article Title": "The Feasibility of Wearable and Self-Report Stress Detection Measures in a Semi-Controlled Lab Environment",
+    "Abstract": "Workplace-related stressors, economic strain, and lack of access to educational and basic needs have exacerbated feelings of stress in the United States. Ongoing stress can result in an increased risk of cardiovascular, musculoskeletal, and mental health disorders. Similarly, workplace stress can translate to a decrease in employee productivity and higher costs associated with employee absenteeism in an organization. Detecting stress and the events that correlate with stress during a workday is the first step to addressing its negative effects on health and wellbeing. Although there are a variety of techniques for stress detection using physiological signals, there is still limited research on the ability of behavioral measures to improve the performance of stress detection algorithms. In this study, we evaluated the feasibility of detecting stress using deep learning, a subfield of machine learning, on a small data set consisting of electrodermal activity, skin temperature, and heart rate measurements, in combination with self-reported anxiety and stress. The model was able to detect stress periods with 96% accuracy when using the combined wearable device and survey data, compared to the wearable device dataset alone (88% accuracy). Creating multi-dimensional datasets that include both wearable device data and ratings of perceived stress could help correlate stress-inducing events with feelings of stress at the individual level and help reduce intra-individual variabilities due to the subjective nature of the stress response.",
+    "DOI": "10.1109/ACCESS.2021.3097038",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on detecting stress using wearable device and self-reported data.",
+            "study_design": "This study is a lab-based experiment with a small data set, and does not meet the inclusion criteria for a systematic review or meta-analysis.",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Other (descriptive study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stress detection in the workplace and does not meet the specified inclusion criteria related to employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Feasibility Study",
+            "logprobs": null
+        }
+    }
+}

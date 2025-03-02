@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2782,
+    "Authors": "Calvo, Esteban; Mair, Christine A.; Sarkisian, Natalia",
+    "Article Title": "Individual Troubles, Shared Troubles: The Multiplicative Effect of Individual and Country-Level Unemployment on Life Satisfaction in 95 Nations (1981-2009)",
+    "Abstract": "Although the negative association between unemployment and life satisfaction is well documented, much theoretical and empirical controversy surrounds the question of how unemployment actually shapes life satisfaction. Previous studies suggest that unemployment may endanger subjective well-being through individual experiences, contextual influences, or a combination of both. Drawing on data from the World and European Values Surveys, National Accounts Official Country Data, Social Security Programs Throughout the World Reports, World Development Indicators, and World Income Inequality databases for 398,533 individuals in 95 nations (1981-2009), we use three-level hierarchical linear models to test four competing theory-based hypotheses-that unemployment shapes life satisfaction through individual, contextual, additive, or multiplicative effects. Our results support a multiplicative interaction between individual- and country-level unemployment. Unemployed individuals are less satisfied than other individuals, and when unemployment rates rise, their satisfaction drops even further below students, homemakers, and employed individuals; retirees, however, become more similar to the unemployed. We discuss these findings in light of previous theoretical models to argue for a model where individual unemployment is understood in the context of diverse labor force statuses and national unemployment rates. We conclude with policy suggestions aiming to address the negative consequences of unemployment through individualized and contextualized plans.",
+    "DOI": "10.1093/sf/sou109",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a cross-sectional study using hierarchical linear models to test hypotheses.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (1981-2009 data) and its intervention does not address employment policies for people with mental health disorders. The article focuses on unemployment's effect on life satisfaction across multiple nations, which does not align with the specific objectives of identifying effective active employment policies.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployment and life satisfaction, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not clear if it is a systematic review, meta-analysis, or RCT.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Hierarchical linear models",
+            "logprobs": null
+        }
+    }
+}

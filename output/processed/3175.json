@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3175,
+    "Authors": "McDougal, Lotus; Erikat, Jeanine; Yusufi, Homayra; Sahid, Ramla; Streuli, Samantha; Fielding-Miller, Rebecca",
+    "Article Title": "Understanding the impact of the COVID-19 pandemic on refugee communities in San Diego, California: A participatory action research cross-sectional study",
+    "Abstract": "Background: While the COVID-19 pandemic has impacted people worldwide, refugee communities are particularly vulnerable to the pandemic's social, economic and health impacts. This study assessed factors associated with increases in adverse community effects of COVID-19 in a refugee community in California. Methods: This study uses data from a cross-sectional survey developed and administered as part of a participatory action research project by a refugee community organization in San Diego, California. Data was collected between September and November 2020 in a sample of refugee community members (n = 517). Multivariable Poisson regression models measured associations between sociodemographic and acculturation measures with seven adverse community effects overall and stratified by duration of residence in the United States. Adverse community effects included job/wage loss, bank/cash access barriers, food insecurity, school interruptions, household violence, substance misuse and poor mental health. Results: Refugee community members reported an average of 2.1 adverse community effects that worsened during the COVID-19 pandemic, with job/wage loss and poor mental health the most prevalent (84% and 49%). Characteristics associated with reporting increased numbers of adverse community effects included being younger, female, childless, not actively seeking employment, living in the US for six or more years and speaking English at home. Stratified analyses show that these associations were concentrated in refugees who had lived in the US for at least six years. Conclusion: Refugee communities have experienced pervasive job losses and worsening mental health during the COVID-19 pandemic, and these effects are concentrated in respondents who have lived in the US for six or more years. Additional targeted support is needed to ensure that refugees who have lived in the US for longer durations have the financial and social support needed to cope with the unprecedented challenges brought on by the COVID-19 pandemic.",
+    "DOI": "10.1016/j.ssmph.2022.101110",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather focuses on the impact of the COVID-19 pandemic on refugee communities in terms of job/wage loss, poor mental health, and other adverse community effects.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). Additionally, the intervention focus is on assessing adverse community effects due to the pandemic rather than active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is a cross-sectional survey and does not meet the study design criteria of systematic reviews, meta-analyses, RCTs, or quasi-experimental studies with a control group. It also does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not include a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3804,
+    "Authors": "Cremaschini, Marco; Moretti, Roberto; Valoti, Marinella; Barbaglio, Giorgio",
+    "Article Title": "Delphi consensus on the monitoring tools of main individual risk factors for chronic diseases by the company physician",
+    "Abstract": "Background: Data on individual risk factors for chronic diseases (smoking, physical activity, body mass) are collected by company physicians in heterogeneous ways. This makes comparisons, researches and evaluations difficult. Objectives: The aim of the study was to find a consensus on evaluation tools for chronic diseases risk factors and for health promotion programs in workplaces that could be performed by company physicians during their clinical activity. Methods: A first set of tools, proposed by a working group of occupational physicians in Bergamo, was submitted through the Delphi technique to a national expert panel of 22 persons including recognized national experts in specific fields and occupational physicians skilled in health promotion. Results: In three Delphi rounds, the panel selected a set of tools to monitor the main individual risk factors for chronic diseases (smoking, alcohol, physical activity, nutrition, stress and mental health) as well as general data related to the worker and his job. Conclusions: The use of these specific tools, collected in a homogeneous format, should be recommended to all Italian company physicians, in particular those who work in WHP-programs, in order to allow analysis, comparison and evaluation of health promotion programs effectiveness at a national level.",
+    "DOI": "10.23749/mdl.v108i1.5476",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on monitoring tools for chronic diseases risk factors and health promotion programs in workplaces.",
+            "study_design": "Delphi technique with a national expert panel",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the monitoring tools of individual risk factors for chronic diseases by company physicians.",
+            "study_design": "Delphi technique",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Delphi consensus",
+            "logprobs": null
+        }
+    }
+}

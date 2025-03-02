@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2702,
+    "Authors": "Klimkiewicz, Anna; Jasionowska, Joanna; Schmalenberg, Adrianna; Klimkiewicz, Jakub; Jasinska, Agata; Silczuk, Andrzej",
+    "Article Title": "COVID-19 Pandemic-Related Depression and Insomnia among Psychiatric Patients and the General Population",
+    "Abstract": "Background: The COVID-19 pandemic and limited access to healthcare professionals pose a serious risk of worsening mental conditions. This study was designed to examine the changes in symptoms of insomnia and depression during the pandemic as compared to before the pandemic, as well as the factors correlated with abovementioned mental state deterioration. Methods: The study was conducted from 1 April to 15 May 2020, on 212 psychiatric outpatients and 207 healthy controls. Participants completed a survey focused on symptoms during and prior to COVID-19 (the Beck Depression Inventory, the Athens Insomnia Scale). The following correlations were analyzed: demographics, social support, work status, income, and possible participants' and their relatives' COVID-19 diagnoses. Results: Insomnia and depression severity intensified during the pandemic in both groups and were associated with age, gender, education, employment, and financial status. No correlations between social support nor becoming sick with COVID-19 and insomnia or depression were observed. Maintaining work and enough money for one's own needs were found to be significant protective factors of depression (OR 0.37 and 0.29, respectively). Conclusions: Exacerbation of insomnia and depression during the pandemic needs to be addressed. Economic crisis seems to influence mental state even more than COVID diagnosis among study subjects/relatives.",
+    "DOI": "10.3390/jcm10153425",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address interventions related to employment policies and focuses on the impact of the pandemic on mental health. It lacks any intervention that directly targets job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies and does not measure employment outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3160,
+    "Authors": "Ginja, Samuel; Coad, Jane; Bailey, Elizabeth; Kendall, Sally; Goodenough, Trudy; Nightingale, Samantha; Smiddy, Jane; Day, Crispin; Deave, Toity; Lingam, Raghu",
+    "Article Title": "Associations between social support, mental wellbeing, self-efficacy and technology use in first-time antenatal women: data from the BaBBLeS cohort study",
+    "Abstract": "BackgroundInformation and communication technologies are used increasingly to facilitate social networks and support women during the perinatal period. This paper presents data on how technology use affects the association between women's social support and, (i) mental wellbeing and, (ii) self-efficacy in the antenatal period.MethodsData were collected as part of an ongoing study - the BaBBLeS study - exploring the effect of a pregnancy and maternity software application (app) on maternal wellbeing and self-efficacy. Between September 2016 and February 2017, we aimed to recruit first-time pregnant women at 12-16 gestation weeks in five maternity sites across England and asked them to complete questionnaires. Outcomes included maternal mental wellbeing (Warwick-Edinburgh Mental Wellbeing Scale), and antenatal self-efficacy (antenatal version of the Tool to Measure Parenting Self-Efficacy). Other variables assessed were perceived social support (Multidimensional Scale of Perceived Social Support), general technology use (adapted from Media and Technology Usage and Attitudes Scale). Potential confounders were age, ethnicity, education, socioeconomic deprivation, employment, relationship status and recruitment site. Linear regression models were developed to analyse the relationship between social support and the outcomes.ResultsParticipants (n=492, median age=28years) were predominantly white British (64.6%). Half of them had a degree or higher degree (49.3%), most were married/living with a partner (83.6%) and employed (86.2%). Median (LQ-UQ) overall scores were 81.0 (74.0-84.0) for social support (range 12-84), 5.1 (4.7-5.4) for technology use (range 1-6), 54.0 (48.0-60.0) for mental well-being (range 14-70), and 319.0 (295.5-340) for self-efficacy (range 0-360). Social support was significantly associated with antenatal mental well-being adjusting for confounders [adj R-2=0.13, p<.001]. The addition of technology use did not alter this model [adj R-2=0.13, p<.001]. Social support was also significantly associated with self-efficacy after adjustment [adj R-2=0.14, p<.001]; technology had limited impact on this association [adj R-2=0.13, p<.001].ConclusionsSocial support is associated with mental well-being and self-efficacy in antenatal first-time mothers. This association was not significantly affected by general technology use as measured in our survey. Future work should investigate whether pregnancy-specific technologies yield greater potential to enhance the perceived social support, wellbeing and self-efficacy of antenatal women.",
+    "DOI": "10.1186/s12884-018-2049-x",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and its population does not reference mental health or has an undefined population.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the effects of social support and technology use on maternal wellbeing and self-efficacy during the antenatal period.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        }
+    }
+}

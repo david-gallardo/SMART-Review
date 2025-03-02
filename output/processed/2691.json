@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2691,
+    "Authors": "Fabian, Katrin E.; Huh, David; Kemp, Christopher G.; Nevin, Paul E.; Simoni, Jane M.; Andrasik, Michele; Turan, Janet M.; Cohn, Susan E.; Mugavero, Michael J.; Rao, Deepa",
+    "Article Title": "Moderating Factors in an Anti-stigma Intervention for African American Women with HIV in the United States: A Secondary Analysis of the UNITY Trial",
+    "Abstract": "African American women experience higher rates of HIV than other women in the United States, and stigma has been identified as an important determinant of engagement in HIV care. Our study examined whether key variables moderated the effect of an anti-stigma intervention on outcomes among African American women receiving treatment for HIV. Twelve potential moderators included: age, years lived with HIV, marital status, employment status, education level, PTSD diagnosis, alcohol use, social support, baseline CD4 count, baseline viral load, and number of children. Outcomes included changes in: HIV-related stigma, social support, depressive symptoms, PTSD symptoms, alcohol use, viral load, and engagement in HIV care. Results suggest that the intervention is associated with greater improvement in engagement in care among participants with PTSD or depression at baseline, and may help maintain engagement in care among participants experiencing certain mental health conditions. This provides opportunities to address discriminatory structural barriers that lead to stigma and drop-offs in HIV care.",
+    "DOI": "10.1007/s10461-019-02557-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention does not directly address employment, but rather focuses on HIV care and stigma reduction.",
+            "study_design": "Secondary analysis of the UNITY Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is African American women with HIV, which does not meet the inclusion criteria for people with mental health disorders.",
+            "study_design": "Secondary analysis of a randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on African American women with HIV in the United States and does not meet the specified inclusion criteria for population (people with mental disorders or documented mental health problems) and outcomes (employment or labor outcomes).",
+            "study_design": "Secondary analysis of the UNITY Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Secondary analysis of the UNITY Trial",
+            "logprobs": null
+        }
+    }
+}

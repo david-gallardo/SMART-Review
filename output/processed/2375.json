@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2375,
+    "Authors": "Huang, Yalian; Lin, Xin; Yang, Jian; Bai, Hefei; Tang, Ping; Yuan, Guangzhe Frank",
+    "Article Title": "Association between psychological capital and depressive symptoms during COVID-19: The mediating role of perceived social support and the moderating effect of employment pressure",
+    "Abstract": "IntroductionThe Coronavirus Disease 2019 (COVID-19) pandemic affects individuals' mental health that can result in fear of getting COVID-19 infection and depression. Prior research has demonstrated that both psychological capital and perceived social support are related to the severity of depression. Yet no study explored the direction of associations between these factors. This undermines the validity of psychological capital as a basis for health interventions. MethodsThis study aimed to explore the association between psychological capital, perceived social support, employment pressure, and depressive symptoms during COVID-19. A cross-sectional design was employed in a sample of 708 Chinese senior medical students who were asked to complete an online questionnaire survey. ResultsResults indicated that psychological capital negatively predicts depressive symptoms (beta = -0.55, p < 0.001); perceived social support plays a mediating role in the impact of psychological capital on depressive symptoms (indirect = -0.11, SE = 0.02, p < 0.001, 95%CI [-0.16, -0.07]), and these associations were moderated by employment pressure. Medical students with high employment pressure, the negative impact of psychological capital on depressive symptoms was statistically significant (beta = -0.37, SE = 0.05, p < 0.001, 95% CI [-0.046, -0.27]); when the perceived employment pressure was low, the negative effect of psychological capital on depressive symptoms, although significant, was stronger (beta = -0.49, SE = 0.04, p < 0.001, 95% CI [-0.57, -0.40]). DiscussionThe current study highlights that it is of great significance to address Chinese medical students' employment pressure and improve their mental health during the COVID-19 epidemic.",
+    "DOI": "10.3389/fpubh.2023.1036172",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional design, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not directly address employment policies or interventions related to job search services, adult training, wage subsidies, or supported employment for people with mental health disorders.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on the impact of psychological capital and perceived social support on depressive symptoms in the context of COVID-19.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and lacks a control group.",
+            "study_design": "Cross-sectional design",
+            "logprobs": null
+        }
+    }
+}

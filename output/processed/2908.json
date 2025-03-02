@@ -1,0 +1,44 @@
+{
+    "ArticleID": 2908,
+    "Authors": "Coates, Aneesah; Cline, Thomas W.; Foreman, Stephen E.",
+    "Article Title": "Examining the Impact of Organizational Support on the Secondary Traumatic Stress of Mental Health Professionals Exposed to Workplace Violence",
+    "Abstract": "Mental health professionals are at a heightened risk of secondary traumatic stress (STS) due to the higher prevalence of trauma-exposed individuals seeking clinical help compared to the general population. The aims of this study were as follows: (1) to explore the association between exposure to workplace violence (WPV) and secondary traumatic stress, and the potential mitigating effects of organizational support and (2) to examine how the workplace setting (inpatient vs outpatient) affects the experience of STS. The study was cross-sectional. Over 58 days, survey data was collected from mental health professionals working in both inpatient and outpatient settings. A total of 2,549 professionals responded. The overall prevalence of STS across settings was 87%. The highest reported secondary traumatic stress levels were among nurse practitioners/APRNs (49.29%), followed by nurses (47.94%) and psychiatrists (46.85%). Levels of STS occurred at slightly higher levels among professionals in outpatient settings (48.39%) than those in inpatient settings (45.11%). Increased exposure to WPV correlated with higher levels of STS, while higher levels of perceived organizational support (POS) had a moderating effect on STS levels. This study suggests that STS is a significant phenomenon and that mental health professionals are at risk for developing the condition. Organizational support can play a role in mitigating the effects of WPV and STS. Interventions aimed at improving organizational support and building psychological resilience may help reduce the prevalence of STS among this population.",
+    "DOI": "10.1080/01612840.2024.2397539",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which lacks a rigorous evaluation and does not include a control group. It also does not address interventions related to employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "study_design": "string",
+            "self_reported_outcomes": {
+                "secondary_traumatic_stress_prevalence": "string",
+                "secondary_traumatic_stress_by_profession": {
+                    "nurse_practitioners_APRNs": "string",
+                    "nurses": "string",
+                    "psychiatrists": "string"
+                },
+                "secondary_traumatic_stress_by_setting": "string",
+                "workplace_violence_exposure_correlation": "string",
+                "organizational_support_effect": "string"
+            },
+            "inclusion_decision": "Unclear",
+            "reason": "No reason provided",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

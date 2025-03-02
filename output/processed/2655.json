@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2655,
+    "Authors": "Lay, Johannes; Kaifie, Andrea",
+    "Article Title": "Health Effects of Person-Under-Train Incidents on Train Drivers-A Systematic Review",
+    "Abstract": "Background/Objectives: A person-under-train (PUT) incident is a traumatic event for train drivers that can result in serious health consequences. This systematic review aimed to identify and synthesize evidence on these health effects, including post-traumatic stress disorder (PTSD), sickness absence (SA), and other related mental health outcomes. Methods: Following the PECO scheme, we searched the PubMed, Web of Science, and Embase databases for studies published between 1980 and 2021. We included cross-sectional, case-control, prospective, and interventional studies focusing on train drivers exposed to PUT incidents. Data synthesis followed PRISMA guidelines, with quality appraisal using the Downs and Black checklist. Results: The search was conducted on 22 September 2022, resulting in 3673 records. Nine studies were included, involving a total of 3425 participants. PTSD prevalence ranged from 0% to 55.3%, depending on study design and timing of data collection. Risk factors included repeated exposure, lack of social support, and proximity to the victim. SA varied widely, with durations ranging from 1 day to over 6 months. Drivers frequently reported depression, somatoform disorders, and other long-term psychological impacts. Conclusions: PUT incidents significantly affect the mental health of train drivers and their ability to return to work, frequently leading to extended sickness absence. The timely identification of at-risk individuals and the implementation of best-practice interventions could mitigate long-term effects. Future research should explore standardized follow-up periods to improve comparability.",
+    "DOI": "10.3390/healthcare13030248",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, case-control, prospective, and interventional, but it does not meet the inclusion criteria of being a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional, case-control, prospective, and interventional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on health effects of PUT incidents on train drivers.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on train drivers and PUT incidents, which do not align with the specified population of people with mental health disorders. Additionally, the study design and outcomes do not match the inclusion criteria for employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not include employment or labor outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

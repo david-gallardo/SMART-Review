@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2770,
+    "Authors": "Gjerstad, Christer Lunde; Boe, Hans Jakob; Falkum, Erik; Nordstrand, Andreas Espetvedt; Tonnesen, Arnfinn; Reichelt, Jon Gerhard; Lystad, June Ullevoldsaeter",
+    "Article Title": "Caring for Coronavirus Healthcare Workers: Lessons Learned From Long-Term Monitoring of Military Peacekeepers",
+    "Abstract": "Background The current outbreak of the coronavirus disease (COVID-19) is of unprecedented proportions in several regards. Recent reports suggest that many frontline healthcare workers (HCWs) suffer from mental health problems, including posttraumatic stress symptoms (PTSS). Previous studies have identified several key factors associated with short-term PTSS in pandemic HCWs, yet limited data is available on factors associated with long-term PTSS. Understanding the psychological impact of the pandemic on HCWs is important in planning for future outbreaks of emerging infectious diseases. In the current study, we look to findings from a highly relevant subsection of the trauma field, the military domain. Objective Pandemic HCWs and military peacekeepers may experience similar stressors in the line of duty. This study investigated whether factors linked to short-term PTSS in pandemic HCWs were also associated with long-term PTSS in military peacekeepers. Materials and Methods Peacekeepers who reported pandemic-relevant stressors during deployment to a UN peacekeeping mission were included in the study (N = 1,627). PTSS was self-reported using the Posttraumatic Stress Disorder Checklist - Military Version. Descriptive instruments were used to assess possible factors associated with PTSS. A multiple linear regression analysis was performed to explore associations between these factors and PTSS. Results Our model accounted for 50% of the variance in PTSS, F(1503,11) = 139.00, p < 0.001. Age, relationship and employment status, preparedness, working environment, social support after deployment, barriers to disclose, recognition, and loneliness were all significantly associated with PTSS on average 30 years after deployment. The most important risk factors of long-term PTSS were personal barriers to disclose one's experiences and current unemployment. Conclusion Several factors linked to short-term PTSS in pandemic HCWs were associated with long-term PTSS in peacekeepers. We discuss how these findings may be used to prevent long-term PTSS in HCWs involved in the current COVID-19 outbreak.",
+    "DOI": "10.3389/fpsyg.2020.566199",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the psychological impact of the pandemic on healthcare workers and military peacekeepers, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Descriptive instruments and multiple linear regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and outcomes for people with mental health disorders. It focuses on the psychological impact of deployment stressors on long-term PTSS in military peacekeepers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

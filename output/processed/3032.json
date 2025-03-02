@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3032,
+    "Authors": "Zhang, Yanan; Harper, Sarah",
+    "Article Title": "The impact of son or daughter care on Chinese older adults? mental health",
+    "Abstract": "Rationale: The traditional cultural norm in China is that eldercare should be offered by a son and his family. However, several decades of family planning policies and rapid economic growth have led to low fertility rates, urbanisation, and cultural change, resulting in both reduced household size and the availability of sons. The traditional eldercare system is thus being challenged, especially in urban areas, with an increasing number of daughters supporting their parents, enabled by rising female empowerment, formal economic employment and improved financial capacities. Existing studies examine and compare the amount and types of support provided by sons and daughters, but very little is known about the differential health outcomes of parents experiencing eldercare offered by sons and by daughters.Objective: This study investigates the difference in mental health outcomes of parents who receive eldercare from their sons and from their daughters.Method: We analyse waves 2013, 2015, and 2018 of the China Health and Retirement Longitudinal Study, with mental health measured by a 10-item Center for Epidemiological Studies-Depression (CES-D-10) score. We compare the CES-D-10 score between parents with different sources of care - son's family, daughter's family or other - with multivariate statistical analysis.Results: Receiving regular care from a son (or a daughter-in-law) is associated with a lower CES-D score than from a daughter (or a son-in-law). The difference mainly exists amongst those with a stronger son preference and those who are heavily deponent on their children, in particular rural parents, mothers, and those with less wealth. Conclusion: Our study explores the evidence on mental health inequalities among parents with different sources of care, highlighting that lack of son care creates an apparent mental health disadvantage. Lowering older adults' dependency on their children may alleviate this inequality by improving their financial independence. We also suggest the development of a long-term care system and greater facilitation of older adults to take-up supplementary services for family care.",
+    "DOI": "10.1016/j.socscimed.2022.115104",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of son or daughter care on mental health outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on eldercare provided by sons and daughters in China, which is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia). Additionally, the intervention and population do not align with those specified for this review.",
+            "study_design": "Cross-sectional analysis using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental health outcomes of parents receiving eldercare from sons or daughters, not specifically targeting employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

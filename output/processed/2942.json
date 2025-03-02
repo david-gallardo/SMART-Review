@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2942,
+    "Authors": "Hosseini, Omid; Loosemore, Martin; Fini, Alireza Ahmadian Fard",
+    "Article Title": "Construction Workforce's Mental Health: Research and Policy Alignment in the Australian Construction Industry",
+    "Abstract": "The Australian construction industry is facing a mental health crisis; poor mental health indicators are significantly higher than the all-industry average. Despite a growing body of research into the mental health of the industry's workforce, concerns have been raised about its alignment with regulatory developments in this area. This raises questions about the relevance of research to support mental health policy development in Australia and evidence-based research on mental health policy relating to the construction industry. However, there has been no research to explore the extent of this problem. This paper addresses this knowledge gap by reporting the results of a systematic review of peer-reviewed mental health research using the PRISMA scoping review methodology. The results reveal significant misalignment between existing research and Australian government regulation in this area. A particularly low level of research-policy alignment is found in the areas of: violence and traumatic events at work, financial concerns, poor organizational change management, workplace injustice, and social support. The paper concludes with recommendations for new avenues of mental health research to address these gaps, enabling closer alignment between mental health research and regulatory reform. It is concluded that this will facilitate more relevant research and improved evidence-based decision-making in this important field of research and policy development.",
+    "DOI": "10.3390/buildings13020335",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the mental health crisis in the Australian construction industry and its alignment with regulatory developments.",
+            "study_design": "Systematic review using PRISMA methodology",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on active employment policies for people with mental health disorders, but rather on the mental health of the construction workforce in general.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

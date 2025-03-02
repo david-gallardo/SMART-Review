@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3718,
+    "Authors": "Fedorova, Ekaterina, V; Wong, Carolyn F.; Conn, Bridgid M.; Ataiants, Janna; Iverson, Ellen; Lankenau, Stephen E.",
+    "Article Title": "COVID-19's Impact on Substance Use and Well-Being of Younger Adult Cannabis Users in California: A Mixed Methods Inquiry",
+    "Abstract": "Few qualitative studies have examined the impact of COVID-19 on cannabis and alcohol use, and overall well-being among cannabis users. Cannabis users (aged 26-32) were surveyed quantitatively (n=158) and interviewed qualitatively (n=29) in April 2020-May 2021 in Los Angeles. 63.3% of the quantitative sample reported increasing use of either cannabis (29.1%) or alcohol (15.2%) or both (19.0%) following the COVID-19 outbreak. Qualitative data revealed that increases in cannabis and alcohol use were largely attributed to changes in employment and staying at home resulting in fewer impediments and boredom. Themes of loneliness and utilization of various coping strategies were more pronounced among those who increased cannabis and/or alcohol use. For some, increases in cannabis/alcohol use were temporary until participants adjusted to a new normal or embraced more adaptive coping strategies. Results suggest monitoring cannabis/alcohol use trends and identifying coping strategies to reduce the pandemic's impact on substance use and mental health.",
+    "DOI": "10.1177/00220426211052673",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Mixed methods inquiry",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia. Additionally, the intervention and population do not align with the specified criteria.",
+            "study_design": "Qualitative survey and interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Mixed methods inquiry",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3529,
+    "Authors": "Doherty, Elaine Eggleston; Green, Kerry M.",
+    "Article Title": "Cohort Profile: The Woodlawn Study",
+    "Abstract": "The Woodlawn Study is an epidemiologically- defined community cohort study of 1242 Black Americans (51% female and 49% male), who were in first grade in 1966-67 in Woodlawn, a neighborhood of Chicago, Illinois. The study comprises extensive interview data over the life course including self-, mother-, and/or teacher-reported assessments at ages 6, 16, 32, 42, and 62 (in progress), administrative records (i.e., education, crime, and death records), and census data. These data cover a wide range of focal areas across the life course, including family environment, socioeconomic indicators, education, social integration (e.g., marriage, community engagement, religious involvement) and social support, employment, racial discrimination, substance use, crime/victimization, and mental and physical health, including mortality. Over the past 50 years, Woodlawn research has mapped cumulative disadvantage, substance use, and criminal offending and has identified key risk and protective factors of adversity, resilience, and success across the full life course. In turn, these findings have informed life course theory and policy for a population that experiences significant criminal and health disparities.",
+    "DOI": "10.1007/s40865-023-00236-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and its focus is on a population with documented mental health problems, but it lacks a clear intervention related to employment.",
+            "study_design": "Epidemiologically-defined community cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an epidemiologically-defined community cohort study without a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (employment policies) and outcomes (employment or labor results).",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The Woodlawn Study does not meet the inclusion criteria as it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group. It is an epidemiological cohort study, which is not one of the specified study designs for inclusion.",
+            "study_design": "Epidemiological cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and lacks a control group.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

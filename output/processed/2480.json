@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2480,
+    "Authors": "Barbieri, Irene; Fraccaroli, Franco",
+    "Article Title": "Transcending the issue of joblessness: New challenges for research and intervention on unemployment via an ecological approach",
+    "Abstract": "The new economic and labour challenges created by the COVID-19 pandemic have led to several changes in the psychological experience of unemployment. However, existing psychological research is not always able to grasp the complexity and heterogeneity of this phenomenon. Instead, it often returns a uniform picture of unemployment. The aim of this contribution is to suggest a new approach to research and intervention in the field of unemployment. The first part of the paper provides a partial review of the classical models and empirical findings. The second part presents a new proposal aimed to address two needs. Firstly, it aims to transcend the uniform profile of the unemployed often drawn by surveys and to grasp the multiplicity of ways of experiencing unemployment. Second, it aims to study unemployment not only as a single event, but as a complex process that affects different areas of individual and community life. Based on an ecological approach, the authors introduce alternative ways to study the psychology of unemployment.",
+    "DOI": "10.1482/98840",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, which is a key inclusion criterion.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article lacks rigorous evaluation and does not include a control group. It also does not directly address employment interventions for people with mental health disorders within the specified geographic scope and timeframe.",
+            "study_design": "Review of classical models and empirical findings without rigorous evaluation or control groups",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment in general, not specifically on people with mental health disorders.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Partial review",
+            "logprobs": null
+        }
+    }
+}

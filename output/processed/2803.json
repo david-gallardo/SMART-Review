@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2803,
+    "Authors": "Goetze, Heide; Friedrich, Michael; Braehler, Elmar; Romer, Georg; Mehnert, Anja; Ernst, Jochen",
+    "Article Title": "Psychological distress of cancer patients with children under 18 years and their partners-a longitudinal study of family relationships using dyadic data analysis",
+    "Abstract": "With increasing age at pregnancy, the likelihood of cancer affecting a family with children under 18 is rising and the issue of parents with cancer is gaining importance. Here, we examined the level of anxiety and depression, social support, and partnership satisfaction of cancer patients with children under 18 years and their partners as well as the dyadic patient-partner relationship concerning psychological distress and predictor variables.We used a longitudinal survey, recruiting patients with children under legal age and their partners (t1 = post therapy, t2 = 6 months after t1, t3 = 12 months after t1). Patients and partners completed the Hospital Anxiety and Depression Scale (HADS), the Oslo 3-item Social Support Scale (OSS-3), and the Abbreviated Dyadic Adjustment Scale (ADAS). We surveyed 161 cancer patients and 115 partners by mail (t1). Anxiety and depression were compared to German normative data. Dyadic relationships of three variables (social support, partnership satisfaction, and employment) and the psychological distress of 81 patient-partner dyads were analyzed with a structural equation model to estimate the actor-partner interdependence model.After cancer therapy, 28.3 % of the patients and 46.2 % of their partners had moderate to high levels of anxiety and 17.9 % and 23.1 % had moderate to high levels of depression, respectively. Partners' levels of anxiety (p = 0.002) and depression (p = 0.018) had decreased significantly over the 1-year period post therapy. We found no changes in patients' anxiety (p = 0.444) and depression (p = 0.636) over time. Anxiety and depression did not differ on pair level (p = 0.120-0.928). The level of anxiety in patients and partners was significantly higher than that in the general population (p < 0.001-0.006). The analyses of the dyadic relationships showed a positive effect of social support on psychological distress of the patient (beta = -0.206, p < 0.2). Social support (beta = -0.448, p < 0.001), employment (beta = -0.509, p < 0.01), and satisfaction with partnership (beta = -0.448, p < 0.001) showed a positive impact on psychological well-being of the partner.A cancer experience within a family is a large burden for both patients and partners, highlighting the high incidence of anxiety. The results indicate that couples coping with cancer tend to react as an emotional system rather than as individuals. Patients' reintegration in employment is as important as encouraging partners in their working activities. The findings underline the importance of continuing social support for patients and their partners.",
+    "DOI": "10.1007/s00520-016-3411-z",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment outcomes for people with mental health disorders. The study examines anxiety and depression levels in cancer patients and their partners, but it does not address employment or labor outcomes.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychological distress of cancer patients and their partners.",
+            "study_design": "Longitudinal survey with dyadic data analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

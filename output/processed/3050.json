@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3050,
+    "Authors": "Coohey, Carol; Easton, Scott D.",
+    "Article Title": "Distal Stressors and Depression among Homeless Men",
+    "Abstract": "Depression is a common problem among homeless men that may interfere with functional tasks, such as securing stable housing, obtaining employment, and accessing health services. Previous research on depression among homeless men has largely focused on current psychosocial resources, substance abuse, and past victimization. Guided by Ensel and Lin's life course stress process model, the authors examined whether distal stressors, including victimization and exposure to parent problems in childhood, contributed to men's depression above and beyond current (or proximal) stressors, such as substance abuse and health problems, and social resources. The sample consisted of 309 homeless men who had entered a federally funded emergency shelter. Using the Burns Depression Checklist, the authors found that one out of three men met the threshold for moderate to severe depression during the past week. The logistic regression showed that past exposure to parent problems was related to depression after accounting for current stressors and social resources (number of close adult relationships and whether their emotional support needs were met). Past victimization was not related to depression. To address men's depression, workers should concurrently provide services that meet men's basic needs (for example, housing) and address their relationship needs, including their need for emotional support.",
+    "DOI": "10.1093/hsw/hlw008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to have mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless men and depression, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

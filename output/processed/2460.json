@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2460,
+    "Authors": "Blom, Niels; Perelli-Harris, Brienna",
+    "Article Title": "Temporal Dimensions of Unemployment and Relationship Happiness in the United Kingdom",
+    "Abstract": "Here we study how unemployment is related to partner relationship happiness in the United Kingdom. We investigate multiple dimensions of unemployment-current unemployment, changes in unemployment, duration of unemployment, and past unemployment-each of which provides unique insights into how economic uncertainty can strain relationships. Not including these aspects potentially leads to an underestimation of the long-term effect of unemployment and times when couples are especially affected. Using British longitudinal data (UK Household Longitudinal Study), we employ random and fixed regression analyses. The results highlight the gendered nature of relationships and employment within British couples. As found in previous studies, unemployment, particularly men's unemployment, is associated with unhappier relationships. However, we find that over the long-run, relationship happiness declined and did not always recover. In addition, men's reemployment did not solve problems rising from unemployment, especially for women, who continued to be less happy with the relationship when their male partner was unemployed in the recent past. Overall, the research showed that unemployment is not only related to relationship happiness at the time of unemployment, but had a scarring effect on relationship happiness.",
+    "DOI": "10.1093/esr/jcaa044",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between unemployment and partner relationship happiness.",
+            "study_design": "Regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and outcomes for people with mental health disorders. It focuses on the relationship between unemployment and partner relationship happiness in the UK.",
+            "study_design": "Cross-sectional or longitudinal analysis of existing data (UK Household Longitudinal Study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unemployment and relationship happiness in the UK, not on employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study with random and fixed regression analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

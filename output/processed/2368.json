@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2368,
+    "Authors": "Cotner, Bridget A; Ottomanelli, Lisa; O'Connor, Danielle R; Njoh, Eni N; Barnett, Scott D; Miech, Edward J",
+    "Article Title": "Quality of Life Outcomes for Veterans With Spinal Cord Injury Receiving Individual Placement and Support (IPS).",
+    "Abstract": "Background: Individual Placement and Support (IPS) is an evidence-based practice that helps persons with mental and/or physical disabilities, including spinal cord injury, find meaningful employment in the community. While employment is associated with positive rehabilitation outcomes, more research is needed on the impact of IPS participation on non-vocational outcomes, particularly quality of life (QOL). Objective: To identity QOL outcomes experienced with (1) IPS participation and (2) IPS participation leading to employment. Methods: Using a mixed method design, data on quality of life outcomes were collected from 151 interviews and 213 surveys completed by veterans with SCI participating in IPS. Results: At 12 months, participants who obtained competitive employment (CE) and those who did not (no-CE) showed improvement on most measures. In months 12-24, the CE group showed improvements on all study measures while the no-CE group declined on many indices. Statistically significant changes were observed between participants who obtained CE versus no-CE on several measures. Themes were identified from interview data related to productivity and well-being. Productivity themes were (1) contributing to society, (2) earning an income, and (3) maintaining employment. Themes for well-being were (1) mental health/self-confidence, (2) physical health, and (3) goal setting. Themes were associated with IPS participation irrespective of employment outcomes. Conclusion: IPS participants who were competitively employed report consistent improvement in handicap, health-related QOL, and life satisfaction measures across time. Qualitative findings revealed improved QOL outcomes in productivity and well-being for veterans participating in IPS overall, regardless of employment outcomes.",
+    "DOI": "10.1310/sci17-00046",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed method design with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU countries, Europe, US, Canada, and Australia, meeting the geographic scope criteria. The intervention is Individual Placement and Support (IPS), which is one of the interventions listed in the inclusion criteria. The population is people with mental disorders or documented mental health problems, meeting the population criteria. The study presents measures of employment or labor results, meeting the outcomes criteria.",
+            "study_design": "Mixed method design with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with spinal cord injury and does not address people with mental health disorders. The intervention (Individual Placement and Support) is for those with physical disabilities rather than mental health issues.",
+            "study_design": "Mixed methods (interviews and surveys)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with spinal cord injury and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "mixed method design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on mental health disorders as the primary population and does not present measures of employment or labor results.",
+            "study_design": "Mixed method design",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3177,
+    "Authors": "Chy, Somalis",
+    "Article Title": "Emerging Adulthood: Impacts of Adult Care on Education, Work, and Well-Being",
+    "Abstract": "An increasing number of young adults are providing unpaid care to an older or dependent family member or friend. However, we know little about the relationship between adult caregiving and emerging young adults. Using 2017 and 2019 data on Transition into Adulthood Supplement and the main Panel Study of Income Dynamics, this study examines relationships between adult care and nationally representative of emerging adult caregivers', aged 17-28, work, education, and well-being and compares them to non-caregivers. Findings show that close to 10% of emerging adults are caregivers. Regression analyses observing these relationships contemporaneously and roughly three years later provide suggestive evidence of fewer work hours, lower educational attainment, and a significant decline in emotional well-being associated with adult care hours. These findings demonstrate the growing need for paid family leave and mental health counseling to alleviate stress and improve overall economic, education, and social emotional development for emerging young adults.",
+    "DOI": "10.1177/21676968231166987",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the impact of adult caregiving on education, work, and well-being, which is outside the scope of the inclusion criteria.",
+            "study_design": "Regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies or interventions related to people with mental health disorders. It focuses on the impact of adult caregiving on work hours, educational attainment, and well-being among emerging adults.",
+            "study_design": "Cross-sectional survey using regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on emerging adults providing care to older or dependent individuals, which does not align with the specified population of people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2586,
+    "Authors": "Voss, Maren; Chen, Jie",
+    "Article Title": "Health Status After Job Loss Does the Reason for Job Change Matter?",
+    "Abstract": "Objective: This study examines health status of the recently but no longer employed population by reason for job loss. Methods: Using the Medical Expenditure Panel Survey 2008 to 2012, a sample of 8807 respondents experiencing job loss during the survey year was evaluated by reason for job loss. Multivariate regressions and ordered probit models were used to estimate the association between unemployment reasons and SF-12v2 physical, mental, and self-rated health outcomes post-unemployment, controlling for demographic, socioeconomic, and prior health factors. Results: Health status was significantly worse among those who passively lost employment from layoffs or jobs ending, compared with health status of the recently employed population who left jobs for maternity, family care, or pursuing education. The negative associations between jobs lost and health outcomes were more substantial among respondents with better prior health status. Conclusions: Results support investigation into policy alternatives for comprehensive unemployment assistance.",
+    "DOI": "10.1097/JOM.0000000000000558",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is suitable (multivariate regressions and ordered probit models), the geographic scope is within the EU, Europe, US, Canada, or Australia (2008-2012), the intervention is job loss (which can be considered as a form of employment), the population references mental health, and the outcomes present measures of employment or labor results.",
+            "study_design": "Multivariate regression and ordered probit models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and outcomes. It focuses on the health status after job loss rather than evaluating the effectiveness of active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using multivariate regressions and ordered probit models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on health outcomes following job loss, not on employment interventions for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

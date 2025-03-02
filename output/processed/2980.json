@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2980,
+    "Authors": "Sirbu, Alexandra Cristina; Brezuleanu, Madalina-Maria; Tiganas, Claudiu Gabriel; Asandului, Mircea; Iacobuta-Mihaita, Andreea-Oana",
+    "Article Title": "DETERMINANTS OF SUBJECTIVE WELL-BEING AMONG EUROPEAN UNION'S OLDER ADULTS",
+    "Abstract": "The worldwide demographic challenge of population ageing brings to the fore the need to analyse subjective well-being and its determinant factors among older adults. The relatively few studies in the field emphasize the changes which occur while getting old in terms of subjective wellbeing determinant factors' perception and identification and further outline the specificity of this topic among the abovementioned categories. This paper aims at identifying and analysing the micro- level determinants of subjective well-being among older adults in European Union countries. Our study is based on data from the Survey of Health, Ageing and Retirement in Europe. The sample consists of 41 490 older adults who were questioned about several aspects of their life in 2020, just before the start of the Coronavirus pandemic. Using the ordered logit regression, we estimated models to identify the main determinants of subjective well-being. The results show that good health, employment, social support and a level of income that enable households to make ends meet have a positive effect on subjective well-being while education negatively affects the subjective wellbeing of older adults.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention.",
+            "study_design": "Ordered logit regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on subjective well-being among older adults in EU countries. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey using ordered logit regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on subjective well-being among older adults in the EU and does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes specifically.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

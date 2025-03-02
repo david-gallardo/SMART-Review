@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3594,
+    "Authors": "Devasahayam, Augustine J.; Wallack, Elizabeth M.; Ploughman, Michelle",
+    "Article Title": "Gaps in Medicare and the Social Safety Net Predict Financial Strain Among Older Canadians With Multiple Sclerosis",
+    "Abstract": "Multiple sclerosis (MS) can create significant financial burden, with cost of living rising consistently with increasing age and disability. We aimed to determine the prevalence and predictors of financial strain among a large sample of older Canadians with MS. A binomial logistic regression, which estimates the probability of an event happening (financial strain-yes/no), was performed. Participants were 64.6 (SD +/- 6.2) years old and reported living with MS symptoms 32.8 (SD +/- 9.4) years. In total, 22% of participants experienced financial strain. Predictors of financial strain (from greatest to least) were not having private health insurance, job loss due to MS, having moderate to high stress, greater physical impact of MS, not having home adaptations, not having social support, and living alone. These findings point to insufficiencies in Canada's health and social systems when it comes to the provision of universal care to those living with disabling neurological chronic illness.",
+    "DOI": "10.1177/1044207319893621",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a binomial logistic regression, which is not a controlled trial or a quasi-experimental study with a control group.",
+            "study_design": "binomial logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on financial strain among older Canadians with multiple sclerosis. It lacks interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey using logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on financial strain among older Canadians with MS and does not meet the inclusion criteria regarding interventions, population, and outcomes.",
+            "study_design": "binomial logistic regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

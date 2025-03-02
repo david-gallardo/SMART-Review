@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2553,
+    "Authors": "Gross, Douglas P.; Park, Joanne; Rayani, Fahreen; Norris, Colleen M.; Esmail, Shaniff",
+    "Article Title": "Motivational Interviewing Improves Sustainable Return to Work in Injured Workers After Rehabilitation: A Cluster Randomized Controlled Mal",
+    "Abstract": "Objective: To examine whether motivational interviewing (MI) leads to more sustainable return-to-work outcomes for injured workers undergoing rehabilitation.Design: Cluster randomized controlled trial.Setting: Workers' compensation rehabilitation facility.Participants: Claimants (N=728) undergoing rehabilitation for musculoskeletal conditions, who were predominantly employed (529, 72.7%) men (460, 63.2%) with chronic conditions (mean duration, 234d).Interventions: MI is a goal-oriented, client-centered counseling approach that facilitates behavioral change through identifying and resolving ambivalence. Treating clinicians at the facility were randomized into 2 groups. One group included 6 clinicians who were trained to conduct MI interventions during rehabilitation, while the control group included 6 clinicians who continued standard procedures.Main Outcome Measures: Outcomes included compensation outcomes over 1 year after discharge. This included reception of disability benefits and recurrence rates. Analysis was stratified by admission employment status and included chi-square test, t test, and multivariable regression.Results: Participants included 728 claimants, of whom 367 (50.4%) were treated with MI. Unemployed claimants in the MI group received significantly more partial temporary disability benefits (mean, 8.2d vs 0.2d; P=.02), indicating return to modified work duties. Employed claimants in the control group had a higher recurrence rate (9.1% vs 4.5%; P=.04). The adjusted odds ratio for benefit recurrence was 2.7 (95% confidence interval, 1.1-6.5) after controlling for age, sex, and number of previous claims.Conclusions: Use of MI appears to lead to more sustainable return to work after rehabilitation and facilitates transition to modified work duties. (C) 2017 by the American Congress of Rehabilitation Medicine",
+    "DOI": "10.1016/j.apmr.2017.06.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster randomized controlled trial, which meets the inclusion criteria. The study is set in EU countries (presumably referring to the US, given the context), and the timeframe is within the specified range. The intervention is job search services (in this case, motivational interviewing), and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cluster randomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on injured workers undergoing rehabilitation for musculoskeletal conditions rather than people with mental disorders. Additionally, the outcomes are related to compensation and recurrence rates of disability benefits, which do not align with the specified employment or labor outcomes.",
+            "study_design": "Cluster randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on musculosskeletal conditions and rehabilitation, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Cluster randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Cluster randomized controlled trial",
+            "logprobs": null
+        }
+    }
+}

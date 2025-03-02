@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2452,
+    "Authors": "Roelen, Corne A. M.; van Hoffen, Marieke F. A.; Waage, Siri; Schaufeli, Wilmar B.; Twisk, Jos W. R.; Bjorvatn, Bjorn; Moen, Bente E.; Pallesen, Stale",
+    "Article Title": "Psychosocial work environment and mental health-related long-term sickness absence among nurses",
+    "Abstract": "We investigated which job demands and job resources were predictive of mental health-related long-term sickness absence (LTSA) in nurses.The data of 2059 nurses were obtained from the Norwegian survey of Shift work, Sleep and Health. Job demands (psychological demands, role conflict, and harassment at the workplace) and job resources (social support at work, role clarity, and fair leadership) were measured at baseline and linked to mental health-related LTSA during 2-year follow-up. Cox regression models estimated hazard ratios (HR) and related 95% confidence intervals (CI). The c-statistic was used to investigate the discriminative ability of the Cox regression models.A total of 1533 (75%) nurses were included in the analyses; 103 (7%) of them had mental health-related LTSA during 2-year follow-up. Harassment (HR = 1.07; 95% CI 1.01-1.17) and social support (HR = 0.92; 95% CI 0.87-0.98) were associated with mental health-related LTSA. However, the Cox regression model did not discriminate between nurses with and without mental health-related LTSA (c = 0.59; 95% CI 0.53-0.65).Harassment was positively and social support at the workplace was negatively related to mental health-related LTSA, but both failed to discriminate between nurses with and without mental health-related LTSA during 2-year follow-up.",
+    "DOI": "10.1007/s00420-017-1268-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU (Norway), within the specified timeframe (2005-2025), and focuses on job demands and job resources as interventions for mental health-related long-term sickness absence among nurses, which aligns with the inclusion criteria for intervention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks an intervention component. It focuses on the relationship between job demands/resources and mental health-related long-term sickness absence among nurses.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on job demands and job resources in nurses, not directly on employment outcomes for people with mental health disorders.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the geographic scope is outside the specified regions (Norway).",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

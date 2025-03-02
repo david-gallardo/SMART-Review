@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3625,
+    "Authors": "Kliem, Soeren; Sandner, Malte; Lohmann, Anna; Sierau, Susan; Daehne, Verena; Klein, Annette M.; Jungmann, Tanja",
+    "Article Title": "Follow-up study regarding the medium-term effectiveness of the home-visiting program Pro Kind at age 7 years: study protocol for a randomized controlled trial",
+    "Abstract": "Background: Pro Kind is a German adaptation of the US Nurse Family Partnership program. It is an intervention based on home visits targeting first-time mothers from disadvantaged populations. Pro Kind was implemented as a randomized control trial from 2006 to 2012 with N = 755 first-time mothers (TG n = 394, CG n = 391). The 7-8-year follow-up aims to assess the mid-term effects of the program.Methods/design: Mid-term outcomes are being assessed by trained assessors. In a multimethod approach telephone interviews, on-site interviews, observations and developmental tests will be held in order to assess children's and mothers' life satisfaction, mental health, cognitive and social development, parenting behavior, signs of child abuse or neglect as well as the family's socio-economic status. Furthermore, administrative data will be accessed to obtain information regarding the mother's usage of pediatric health care, welfare usage and employment history.Discussion: Results regarding the mid-term effects of the intervention from the Pro Kind Follow-up will provide a scientific basis for future primary prevention programs as well as help stakeholders legitimizing early childhood investments.",
+    "DOI": "10.1186/s13063-018-2707-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a follow-up study, and it lacks a control group.",
+            "study_design": "Follow-up study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT) but the intervention targets first-time mothers from disadvantaged populations and focuses on early childhood development rather than employment services for people with mental health disorders. The population does not meet the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on a home-visiting program for first-time mothers, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is first-time mothers from disadvantaged populations, not specifically people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

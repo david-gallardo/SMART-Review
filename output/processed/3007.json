@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3007,
+    "Authors": "de Wit, M.; Trief, P. M.; Huber, J. W.; Willaing, I",
+    "Article Title": "State of the art: understanding and integration of the social context in diabetes care",
+    "Abstract": "We review the past 25 years of research addressing challenges people living with diabetes experience in their daily lives related to social contexts, i.e. in their family, at work and in society at large, and identify research gaps. We found that young people with diabetes, as they develop through to adulthood, are exposed to considerable risks to their physical and mental health. Family-system interventions have had mixed outcomes. Research in this area would benefit from attention to ethnic/cultural diversity, and involving fathers and other family members. In adults with diabetes, social support relates to better diabetes outcomes. While family member involvement in care is likely to affect health and psychosocial outcomes of the person with diabetes, key elements and mediators of effective family interventions need to be identified. The challenges of diabetes management at work are under-researched; distress and intentional hyperglycaemia are common. When depression is comorbid with diabetes, there are increased work-related risks, e.g. unemployment, sickness absence and reduced income. Research to support people with diabetes at work should involve colleagues and employers to raise awareness and create supportive environments. Stigma and discrimination have been found to be more common than previously acknowledged, affecting self-care, well-being and access to health services. Guidance on stigma-reducing choice of language has been published recently. Resilience, defined as successful adaptation to adversity such as stigma and discrimination, requires studies relevant to the specific challenges of diabetes, whether at diagnosis or subsequently. The importance of the social context for living well with diabetes is now fully recognized, but understanding of many of the challenges, whether at home or work, is still limited, with much work needed to develop successful interventions.",
+    "DOI": "10.1111/dme.14226",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study design is a review of the past 25 years of research on social contexts in diabetes care, and the population is people living with diabetes, not those with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on social contexts in diabetes care.",
+            "study_design": "Review of past research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

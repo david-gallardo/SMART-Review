@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2350,
+    "Authors": "Smith, Megan, V; Callinan, Laura S.; Posner, Caroline S.; Holmes, Samantha C.; Ebling, Rachel",
+    "Article Title": "Improving Maternal Mental Health as a Pathway to Economic Mobility in the TANF System",
+    "Abstract": "Objective: The authors sought to evaluate the acceptability, feasibility, and initial outcomes of the delivery of a group cognitive-behavioral therapy (CBT) mental health intervention for mothers in the Temporary Assistance for Needy Families (TANF) program.Methods: An 8-week group CBT program was made available to parenting women (N540) in a large, urban TANF system from April to August 2019. Participants completed baseline and endpoint measures to assess depressive symptoms, perceived stress, social support, employment, and program acceptability. TANF administrative data were examined to assess TANF engagement.Results: TANF staff were successfully trained to deliver CBT. The participants reported significantly reduced depressive symptoms and perceived stress; perceived social support significantly increased from the beginning to the end of the intervention.Conclusions: A model that fully embedded CBT delivery in a TANF system was acceptable to low-income parenting women and TANF staff and reduced depressive symptoms among the women. The scalability of interventions to address maternal depression among low-income women has presented a challenge. Delivering mental health interventions in the U.S. TANF system may offer a scalable method to reduce depression and increase employment in a population bearing a high mental health burden.",
+    "DOI": "10.1176/appi.ps.202000492",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a quasi-experimental study without a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions related to active employment policies for people with mental health disorders. It focuses on maternal mental health within the TANF system and does not specifically target job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on maternal mental health interventions within the TANF system, which does not align with the specified population of people with mental disorders or documented mental health problems. Additionally, the intervention is not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on mental health interventions within the TANF system rather than active employment policies.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

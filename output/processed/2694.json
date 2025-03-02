@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2694,
+    "Authors": "Fassier, Jean-Baptiste; Guittard, Laure; Fervers, Beatrice; Rouat, Sabrina; Sarnin, Philippe; Carretier, Julien; Broc, Guillaume; Letrilliart, Laurent; Peron, Julien; Lamort-Bouche, Marion",
+    "Article Title": "Using intervention mapping to facilitate and sustain return-to work after breast cancer: protocol for the FASTRACS multicentre randomized controlled trial",
+    "Abstract": "Background Women with breast cancer face many barriers to return to work (RTW) after their cancer. The main objective of the FASTRACS-RCT is to evaluate the impact of the FASTRACS (Facilitate and Sustain Return to Work after Breast Cancer) intervention on the sustainable RTW of breast cancer patients, 12 months after the end of active treatment. Methods FASTRACS-RCT is a prospective, national, multicentre, randomized, controlled and open-label study. A total of 420 patients with early breast cancer scheduled for surgery and (neo)adjuvant chemotherapy, will be randomly assigned (1:1 ratio) to: (i) the intervention arm comprising four steps over 6 months : Handing over the intervention tools; transitional medical consultation with the general practitioner (GP); pre-RTW visit with the company's occupational physician (OP); catch-up visit with a hospital-based RTW expert (if sick leave > 10 months) (ii) the control arm to receive usual care. The design of the FASTRACS intervention was informed by intervention mapping for complex interventions in health promotion planning, and involved patients and representatives of relevant stakeholders. Specific tools were developed to bridge the gap between the hospital, the GP, the OP and the workplace: a toolkit for breast cancer patients comprising a theory-based guide; specific checklists for the GP and the OP, respectively; and a theory-based guide for workplace actors (employer, manager, colleagues). The primary endpoint will associate sustainable RTW (full-time or part-time work at 50% or more of working time, for at least 28 consecutive days) and days off work. It will be assessed at 4, 8 and 12 months after the end of active oncological treatment. Secondary endpoints will include quality of life, anxiety, depression, RTW self-efficacy, physical activity, social support, job accommodations, work productivity, job status, and the usefulness and acceptability of the intervention's tools. Discussion FASTRACS-RCT will be supplemented by a realist evaluation approach aimed at understanding the influence of context in activating the intervention's mechanisms and effects. If the expected impact of the intervention is confirmed, the intervention will be adapted and scaled-up for other cancers and chronic diseases to better integrate healthcare and work disability prevention.",
+    "DOI": "10.1186/s12885-024-12796-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is conducted in EU countries (no specific country mentioned), within the specified timeframe (2005-2025). The intervention is job search services (specifically, the FASTRACS intervention), which is one of the included interventions. The population is people with mental health disorders (breast cancer patients), and the outcomes include employment or labor outcomes (sustainable RTW, quality of life, etc.).",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes. It focuses on facilitating return-to-work after breast cancer and measures quality of life, anxiety, depression, etc., but does not include any labor outcomes such as employment rates or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

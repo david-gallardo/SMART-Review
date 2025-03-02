@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2652,
+    "Authors": "McDonald, Kate L.; Hoenig, Jennifer M.; Norman, Christina C.",
+    "Article Title": "Identifying profiles of need among psychiatric inpatients approaching discharge in New York City: a latent class analysis",
+    "Abstract": "Purpose Understanding the needs of individuals transitioning to the community following a psychiatric hospitalization can inform community service planning. This study is among the first to examine the needs of a sample of psychiatric inpatients approaching discharge in a large urban area in the USA. Methods Representative data were drawn from 1129 acutely hospitalized psychiatric inpatients from eight New York City hospitals. Descriptive statistics were used to estimate patient needs at discharge across nine domains: housing, employment, income, transportation, education, time use, social support, and help accessing medical and mental health care. Latent class analysis (LCA) was applied to identify subgroups of patients based on needs profiles. Multinomial logistic regression was used to investigate socio-demographic associations with class membership. Results Respondents were most likely to have needs related to income (50.7%), housing (49.2%), and employment (48.7%). Results from the LCA suggested a five class solution of patient needs: three domain-specific classes whose members endorsed needs for 'housing and employment' (22.5%), 'social support and time use' (15.0%) and 'access to care' (6.4%) and two classes where overall member needs were high ('high needs,'18.4%) or low ('low needs,' 37.7%) across all needs. Compared to the 'low needs' class, members of the 'high needs' class had significantly greater odds of being black or Latino, male, uninsured, and parents of a child under 18 years. Conclusion Patients have unique profiles of need that are significantly associated with the socio-demographic characteristics. These findings may help practitioners and policymakers improve mental health services.",
+    "DOI": "10.1007/s00127-019-01817-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the needs of psychiatric inpatients approaching discharge in a large urban area in the USA.",
+            "study_design": "Descriptive statistics and latent class analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is psychiatric inpatients rather than people with mental disorders transitioning to employment.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group for rigorous evaluation.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        }
+    }
+}

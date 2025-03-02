@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2939,
+    "Authors": "Perez, Nicole Beaulieu; Melkus, Gail D'Eramo; Fletcher, Jason; Allen-Watts, Kristen; Jones, Deborah L.; Collins, Lauren F.; Ramirez, Catalina; Long, Amanda; Cohen, Mardge H.; Merenstein, Daniel; Wilson, Tracey E.; Sharma, Anjali; Aouizerat, Brad",
+    "Article Title": "Heterogeneous depressive symptom trajectories among women with type 2 diabetes: findings from the Women's Interagency HIV Study",
+    "Abstract": "Background: Depression affects 33% of women with type 2 diabetes (T2D) and leads to increased risks of premature mortality. Fluctuation and variation of depressive presentations can hinder clinical identification. Purpose: We aimed to identify and examine subgroups characterized by distinct depressive symptom trajectories among women with T2D. Methods: This retrospective analysis leveraged the Women's Interagency HIV Study data to identify depressive symptom trajectories based on the Center for Epidemiological Studies Depression scores (2014-2019) among women with and without HIV. Descriptive statistics characterized sample demographics (eg, age, race, income), clinical indices (eg, hemoglobin A1C [HbA1c], BMI, HIV status), and psychosocial experiences (eg, discrimination, social support, anxiety, pain). We used growth mixture modeling to identify groups defined by distinct depressive symptom trajectories and parametric and non-parametric tests to examine demographic, clinical, and psychosocial differences across subgroups. Results: Among the 630 women included, the mean age was 50.4 (SD = 8.3) years, 72.4% identified as Black and non-Hispanic, and 68.2% were living with HIV. Five subgroups were identified and distinguished by severity and symptom type. Participants with lower incomes (P = .01), lower employment (P < .0001), lower social support (P = .0001), and experiences of discrimination (P < .0001) showed greater membership in threshold, moderate, and severe depressive subgroups. Subgroup membership was not associated with metabolic indices (BMI, HbA1c) or HIV status. Anxiety, pain, and loneliness (all P = .0001) were worse in subgroups with higher depressive symptoms. Conclusions: Among women with T2D, depressive symptom trajectories differ across clinical and social contexts. This study advances precision by delineating subgroups within a broad clinical category.",
+    "DOI": "10.1093/abm/kaae080",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on depressive symptom trajectories among women with type 2 diabetes, rather than active employment policies for people with mental health disorders.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment or labor outcomes and the population is not specifically people with mental health disorders.",
+            "study_design": "Retrospective analysis using growth mixture modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on women with type 2 diabetes (T2D) and not specifically on people with mental health disorders. Additionally, the study design is not specified as a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Retrospective analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Retrospective analysis using growth mixture modeling",
+            "logprobs": null
+        }
+    }
+}

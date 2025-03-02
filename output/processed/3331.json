@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3331,
+    "Authors": "Li, Miao",
+    "Article Title": "Pre-migration Trauma and Post-migration Stressors for Asian and Latino American Immigrants: Transnational Stress Proliferation",
+    "Abstract": "Drawing on the stress proliferation theory, this study examined whether pre-migration trauma exposure is associated with post-migration acculturative stressors among Asian and Latino immigrants in the US. Based on the nationally representative data from the National Latino and Asian American Study, logistic regression models were estimated to assess how the pre-migration trauma exposure predicts multiple forms of the acculturative stress: guilt of leaving family/friends behind, social isolation, communication difficulty, employment difficulty, legal status stress, race- and language-based discrimination. Findings suggested that pre-migration trauma exposure is positively associated with social isolation, communication difficulty, legal status stress, and race-based discrimination for both the Asian and Latino immigrants. Pre-migration trauma exposure predicts higher risks of feeling guilty, employment difficulty, and language-based discrimination only for Asian immigrants. The study informs the public health intervention by highlighting distal risk factors in the pre-migration context as well as its proliferated stressors in the post-migration context. It also provides a basis for understanding the complexities of addressing the global burden of trauma.",
+    "DOI": "10.1007/s11205-015-1090-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on acculturative stressors and social isolation.",
+            "study_design": "Logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on pre-migration trauma and post-migration stressors for Asian and Latino American immigrants in the US. It does not meet the inclusion criteria related to interventions, population, or outcomes.",
+            "study_design": "Cross-sectional survey using logistic regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on pre-migration trauma and post-migration stressors, not on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not focus on people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3263,
+    "Authors": "Nyberg, Anna; Hanson, Linda L. Magnusson; Leineweber, Constanze; Hammarstrom, Anne; Theorell, Toeres",
+    "Article Title": "Occupational gender composition and mild to severe depression in a Swedish cohort: The impact of psychosocial work factors",
+    "Abstract": "Aims: The aim of the present study was to investigate associations between occupational gender composition, psychosocial work factors and mild to severe depression in Swedish women and men with various educational backgrounds. Methods: The study included 5560 participants from two waves of the Swedish Longitudinal Occupational Survey of Health, an approximately representative sample of the Swedish working population. Odds ratios (OR) and 95% confidence intervals of mild to severe depression in 2014 were estimated for five strata of occupational gender composition with >20-40%, >40-60%, >60-80% and >80-100% women, using 0-20% women as the reference. Analyses were stratified by gender and education. Job strain, organisational injustice, poor social support and effort-reward imbalance in 2012 were added in separate models, and changes in OR of mild to severe depression for strata of occupational gender composition were evaluated. Results: Among women, the odds of mild to severe depression did not vary by occupational gender composition. Among men with low to intermediate education, the odds were higher in the stratum with >80-100% women, and among men with high education, the odds were higher in strata with >20-40% and >60-80% women. Psychosocial work factors affected the odds ratios of mild to severe depression, but most of the variation remained unexplained. Conclusions: Odds of mild to severe depression appeared to vary by occupational gender composition among Swedish men but not women. This variation seemed only to a small extent to be explained by psychosocial work factors.",
+    "DOI": "10.1177/1403494817745736",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional analysis of the Swedish Longitudinal Occupational Survey of Health, which is a representative sample of the Swedish working population. The study includes a control group (reference group) and presents measures of employment or labor results (odds ratios and 95% confidence intervals).",
+            "study_design": "Cross-sectional analysis, stratified by gender and education",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It investigates the association between occupational gender composition and mild to severe depression in a Swedish cohort.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. Additionally, the study's focus on occupational gender composition and psychosocial work factors does not directly address employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

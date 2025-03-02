@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3301,
+    "Authors": "Sivaganesan, Ahilan; Khan, Inamullah; Pennings, Jacquelyn S.; Roth, Steven G.; Nolan, Elizabeth R.; Oleisky, Emily R.; Asher, Anthony L.; Bydon, Mohamad; Devin, Clinton J.; Archer, Kristin R.",
+    "Article Title": "Why are patients dissatisfied after spine surgery when improvements in disability and pain are clinically meaningful?",
+    "Abstract": "BACKGROUND CONTEXT: Studies have found that most patients are satisfied after spine surgery, with rates ranging from 53% to 90%. Patient satisfaction appears to be closely related to achieving clinical improvement in pain and disability after surgery. While the majority of the literature has focused on patients who report both satisfaction and clinical improvement in disability and pain, there remains an important subpopulation of patients who have clinically relevant improvement but report being dissatisfied with surgery.PURPOSE: To examine why patients who achieve clinical improvement in disability or pain also report dissatisfaction at 1-year after spinal surgery.STUDY DESIGN: Retrospective analysis of prospective data from a national spine registry, the Quality Outcomes Database.PATIENT SAMPLE: There were 34,076 participants undergoing elective surgery for degenerative spine pathology who had clinical improvement in disability or pain.OUTCOME MEASURES: Satisfaction with surgery was assessed with 1-item from the North American Spine Society lumbar spine outcome assessment. Participants with answer choices other than treatment met my expectations were classified as dissatisfied.METHODS: Patients completed a baseline and 12-month postoperative assessment to evaluate disability, pain, and satisfaction. Clinical improvement was defined as patients who achieved a 30% or greater improvement in spine-related disability (Oswestry/Neck Disability Index) or extremity pain (11-point Numeric Rating Scale) from baseline to 12-month after surgery. A generalized linear mixed model was used to predict the odds of the patient being dissatisfied 1-year after surgery from demographic, clinical and surgical characteristics, postoperative complications and revision, and return to work and previous physical activity. Random effects were included to model the effect of both site and surgeon on dissatisfaction. Sensitivity analyses were conducted on samples who achieved 30% or greater improvement in (1) disability only, (2) axial (back/neck) pain only, (3) extremity (leg/arm)pain only, (4) both disability and axial pain, and (5) both disability and extremity pain. Results showed the same pattern of findings across all samples.RESULTS: Twenty-eight percent of patients were classified as dissatisfied with their spine surgery and 72% classified as satisfied. For patients with clinical improvement in disability or extremity pain at 1-year, significant predictors of higher odds of dissatisfaction included baseline psychological distress, current smoking status, workers compensation claim, lower education, higher ASA grade, lumbar versus cervical procedure, and increased axial pain, major complication within 30 days, and revision surgery within 12-months. The most important contributors to dissatisfaction were return to work and return to previous physical activity, with the odds of dissatisfaction being over 2 times and 4 times higher for these variables. Site and surgeon explained 3.8% of the variance in dissatisfaction, with more of the variance attributed to site than to surgeon.CONCLUSIONS: Several modifiable factors, including psychological distress, current smoking status, and failure to return to work and physical activity, helped explain why patients report being dissatisfied with surgery despite clinical improvement in disability or pain. The findings of this study have the potential to help providers identify at-risk patients, set realistic expectations during preoperative counseling, and implement postoperative management strategies. A multidisciplinary approach to rehabilitation that includes functional goal setting or restoration may help to improve patients psychological distress as well as return to work and previous physical activity after spine surgery. (C) 2020 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.spinee.2020.06.008",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on patient satisfaction and dissatisfaction with spine surgery, but does not examine employment or labor outcomes.",
+            "study_design": "Retrospective analysis of prospective data from a national registry",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on patient satisfaction after spine surgery.",
+            "study_design": "Retrospective analysis of prospective data from a national spine registry",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on spine surgery patients and their satisfaction levels, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Retrospective analysis of prospective data",
+            "logprobs": null
+        }
+    }
+}

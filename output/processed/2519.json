@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2519,
+    "Authors": "Lopes, Lais; Rodrigues, Ana; Cabral, Diogo; Campos, Pedro",
+    "Article Title": "From Monitoring to Assisting: A Systematic Review towards Healthier Workplaces",
+    "Abstract": "Long-term stress is associated with a decline in global health, affecting social, intellectual, and economic development alike. Although comprehensive action plans have been implemented to provide people access to mental health services and promote mental well-being, employees' mental health generally takes second place to productivity and profit in business settings. This review paper offers an overview of the current interactive approaches used for relieving work-related stress associated with mental health. Results from the 38 included studies show that affective computing is used mainly for monitoring purposes and is usually combined with tangible interfaces that collect workers' physiological changes. Although the ability to sense and predict employees' affective states can potentially improve mental health in the workplace, there is a substantial disparity between monitoring one's health and the delivery of practical interventions to mitigate stress found in the surveyed studies. Designing systems that capitalize on embodied interaction principles is paramount, especially in the post-pandemic context, as the concepts of physical and mental safety take on new meanings that must be consciously and carefully addressed, particularly in workplace settings. Finally, this paper highlights the main design implications for the effective implementation of interfaces to help mitigate stress in the workplace.",
+    "DOI": "10.3390/ijerph192316197",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a review paper, which does not meet the inclusion criteria of being a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on monitoring work-related stress rather than interventions that lead to employment. It lacks specific measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on monitoring work-related stress and mental health in the workplace using affective computing and tangible interfaces, which does not directly address employment interventions or outcomes. It also lacks a control group and does not meet the specified intervention criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

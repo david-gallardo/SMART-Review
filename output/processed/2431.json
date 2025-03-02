@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2431,
+    "Authors": "Waghorn, Geoffrey; Hielscher, Emily; Saha, Sukanta; McGrath, John J.",
+    "Article Title": "Cognitive and Clinical Indicators of Employment Assistance Needs From a National Survey of Individuals Living With Psychosis",
+    "Abstract": "Objective: The aim of this secondary analysis was to explore global functioning, course of illness (the number of episodes since onset and the degree of recovery between episodes), duration of illness, and cognitive ability as potential indicators of the extent of employment assistance needs. Method: A secondary analysis of Australia's second national survey of psychosis was undertaken. Screening for psychosis took place during March, 2010 at 7 national locations, within public mental health services and nongovernment organizations. Next, 1,825 of the 7,955 who screened positive for psychosis were randomly selected and completed face-to-face interviews. Of those, 1,619 also completed the Digit Symbol Coding Test (DSCT), a measure of current general cognitive ability. Results: In epidemiological surveys, employment status is an important proxy indicator of employment assistance needs. The strongest correlates of any versus no employment in the current survey were: global functioning as represented by Personal and Social Performance Scale (PSP) total score, age, general cognitive ability as represented by DSCT scores, course of illness, and educational attainment. These correlates persisted following adjustment in a multivariate model. Conclusions and Implications for Practice: Subject to the limitations identified, global functioning, cognitive ability, and course of illness were the most promising clinical and cognitive indicators of more intensive employment assistance needs. The demographic variables age and educational attainment indicated additional labor market disadvantage, which could also help to identify those more likely to need intensive employment assistance. These results inform further investigations aimed at developing a practical measure of employment-related psychiatric disability.",
+    "DOI": "10.1037/prj0000185",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a secondary analysis of a national survey, which meets the inclusion criteria. The study includes a control group (those who screened positive for psychosis but did not complete face-to-face interviews) and presents measures of employment outcomes (employment status).",
+            "study_design": "Secondary analysis of a national survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions to improve employment outcomes. It focuses on identifying indicators of employment assistance needs rather than evaluating specific active employment policies.",
+            "study_design": "Secondary analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on employment assistance needs in the general population with psychosis, not specifically targeting people with mental health disorders as per the inclusion criteria. Additionally, the study does not include job search services, adult training, wage subsidies, or supported employment interventions, which are explicitly mentioned in the inclusion criteria.",
+            "study_design": "Secondary analysis of a national survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
+            "study_design": "Secondary analysis of a national survey",
+            "logprobs": null
+        }
+    }
+}

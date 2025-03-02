@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3548,
+    "Authors": "Song, Juyoung; Song, Tae Min; Seo, Dong-Chul; Jin, Jae Hyun",
+    "Article Title": "Data Mining of Web-Based Documents on Social Networking Sites That Included Suicide-Related Words Among Korean Adolescents",
+    "Abstract": "Purpose: To investigate online search activity of suicide-related words in South Korean adolescents through data mining of social media Web sites as the suicide rate in South Korea is one of the highest in the world.Methods: Out of more than 2.35 billion posts for 2 years from January 1, 2011 to December 31, 2012 on 163 social mediaWeb sites in South Korea, 99,693 suicide-related documents were retrieved by Crawler and analyzed using text mining and opinion mining. These data were further combined with monthly employment rate, monthly rental prices index, monthly youth suicide rate, and monthly number of reported bully victims to fit multilevel models as well as structural equation models.Results: The link from grade pressure to suicide risk showed the largest standardized path coefficient (beta = .357, p < .001) in structural models and a significant random effect (p < .01) in multilevel models. Depression was a partial mediator between suicide risk and grade pressure, low body image, victims of bullying, and concerns about disease. The largest total effect was observed in the grade pressure to depression to suicide risk. The multilevel models indicate about 27% of the variance in the daily suicide-related word search activity is explained by month-to-month variations. A lower employment rate, a higher rental prices index, and more bullying were associated with an increased suicide-related word search activity.Conclusions: Academic pressure appears to be the biggest contributor to Korean adolescents' suicide risk. Real-time suicide-related word search activity monitoring and response system needs to be developed. (C) 2016 Society for Adolescent Health and Medicine. All rights reserved.",
+    "DOI": "10.1016/j.jadohealth.2016.07.025",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on investigating online search activity of suicide-related words in South Korean adolescents.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on suicide-related words among Korean adolescents. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional analysis with multilevel models and structural equation models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (South Korea) and does not address employment interventions for people with mental health disorders.",
+            "study_design": "Observational study using data mining and multilevel models",
+            "logprobs": null
+        }
+    }
+}

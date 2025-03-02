@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2314,
+    "Authors": "Vlachou, A.; Stavroussi, P.; Roka, O.",
+    "Article Title": "Supported employment: the experiences of people with intellectual disabilities and/or mental health problems",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not specify the study design.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not specifically reference mental health disorders.",
+            "study_design": "nan",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

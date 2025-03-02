@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2930,
+    "Authors": "Heo, Wookjae; Yao, Rui; Cho, Soo Hyun",
+    "Article Title": "Perceived Mental and Physical Health During the Pandemic: The Role of Financial Stress",
+    "Abstract": "This study uses the double ABC-X model to explore the link between COVID-19-induced stressors and health outcomes. Analyzing a unique online survey of 2,290 respondents in 2021, our results suggest that the process behind the relationship between financial strain and health is nuanced where financial stress plays an important role. Specifically, the results reveal that changes in income, employment status, and expectations regarding future income significantly affect perceived mental and physical health, with financial stress acting as a significant mediator. Our findings imply that financial counseling could be more effective if the clients' idiosyncratic coping mechanisms such as their financial stress are incorporated in the practice beyond quantitative analyses. Our findings provide directions for future research, as well as implications for financial counselors, healthcare providers, and policymakers.",
+    "DOI": "10.1891/JFCP-2022-0108",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between financial stress and health outcomes.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks an intervention related to active employment policies (such as job search services, adult training, wage subsidies, supported employment) and its outcomes do not focus on employment or labor results.",
+            "study_design": "Survey Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

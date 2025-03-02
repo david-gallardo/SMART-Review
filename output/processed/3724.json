@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3724,
+    "Authors": "Premo, Elizabeth M.; Magnuson, Katherine A.; Lorenzo, Nicole E.; Fox, Nathan A.; Noble, Kimberly G.",
+    "Article Title": "Mental health and sleep quality of low-income mothers of one-year-olds during the COVID-19 pandemic",
+    "Abstract": "The COVID-19 pandemic and subsequent social restrictions created an unprecedented context for families raising young children. Although studies have documented detrimental effects of the pandemic on maternal well-being, less is known about how the pandemic specifically impacted low-income mothers. We examined depression, anxiety, and sleep quality among low-income mothers of one-year-olds during the early months of the pandemic using data from the Baby's First Years study. Focusing on the control group (n = 547), we compared mothers interviewed before March 14th, 2020 (n = 342) to mothers interviewed between March 14th and June 30th, 2020 (n = 205) to determine whether the pandemic was associated with differences in mental health and sleep quality. Mothers were recruited from four cities in the United States, and most of the sample identified as Hispanic (42.2%) or Black, non-Hispanic (38.6%). We found that mothers interviewed during the pandemic reported better mental health and sleep quality. While we cannot speak to longer-term impacts of the pandemic, it is possible low-income mothers experienced relief from daily stressors during the initial shelter-in-place orders, which may have led to improvements in well-being. These results have implications for understanding how complex life stressors influence mental health and sleep quality among low-income mothers raising young children.",
+    "DOI": "10.1002/imhj.22074",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on mental health and sleep quality of low-income mothers of one-year-olds during the COVID-19 pandemic.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to active employment policies.",
+            "study_design": "Cross-sectional study comparing pre-pandemic and pandemic periods among a control group of low-income mothers in the U.S.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

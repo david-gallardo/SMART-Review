@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2994,
+    "Authors": "Xiao, Chenghan; Yang, Yang; Chi, Guangqing",
+    "Article Title": "Does the mental health of migrant workers suffer from long commute time? Evidence from China",
+    "Abstract": "Introduction: Migrant workers in developing counties have become increasingly vulnerable to mental health issues. Although existing studies have identified multiple factors associated with migrant workers' mental health, commute time has not been investigated as a possible factor, especially in a development context. This study fills the gap by linking the commute time of migrant workers to their mental health outcomes through a Chinese rural-to-urban migrant workers sample.Method: Respondent-driven sampling (RDS) was applied to recruit 2019 qualified rural-to-urban migrant workers in Chengdu, China, from June 2017 to June 2018. Information was collected on mental health status, average one-way commute time, basic sociodemographics, adaptation to urban life and satisfaction with living conditions, social support conditions, and physical health status. Continuous data spatial scan statistics and linear mixed models were used in this study.Results: Though the average one-way commute time of migrant workers is not very long (simply because of their housing location choice, such as urban villages), the mental health status of these commuters who use active modes (such as walking or biking) is associated with increased commute time. An increased commute time may also influence the relationship between commute mode and mental health among migrant workers. As commute time increases, the differences in mental health status between active and passive commuters could disappear.Conclusions: The mental health of migrant workers in the development context is associated with commute time and commute mode. Policymakers should avoid applying simplistic strategies to urban villages without considering the positive effects of such villages on reducing commute time and the commute mode choices of migrant workers.",
+    "DOI": "10.1016/j.jth.2020.100932",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a controlled trial or quasi-experimental study with a control group, but rather a cross-sectional study using respondent-driven sampling.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia) and its intervention does not address employment policies. The article focuses on the impact of commute time on mental health among migrant workers in China.",
+            "study_design": "Cross-sectional survey using respondent-driven sampling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on migrant workers' mental health in relation to commute time, which does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Continuous data spatial scan statistics and linear mixed models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (China).",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3304,
+    "Authors": "Fowler, David; Hodgekins, Joanne; Berry, Clio; Clarke, Timothy; Palmier-Claus, Jasper; Sacadura, Catarina; Graham, Adam; Lowen, Christine; Steele, Ann; Pugh, Katherine; Fraser, Samantha; Fitzsimmons, Mike; French, Paul",
+    "Article Title": "Social recovery therapy: a treatment manual",
+    "Abstract": "Social Recovery Therapy is an individual psychosocial therapy developed for people with psychosis. The therapy aims to improve social recovery through increasing the amount of time individuals spend in meaningful structured activity. Social Recovery Therapy draws on our model of social disability arising as functional patterns of withdrawal in response to early socio-emotional difficulties and compounded by low hopefulness, self-agency and motivation. The core components of Social Recovery Therapy include using an assertive outreach approach to promote a positive therapeutic relationship, with the focus of the intervention on using active behavioural work conducted outside the clinical room and promoting hope, values, meaning, and positive schema. The therapy draws on traditional Cognitive Behavioural Therapy techniques but differs with respect to the increased use of behavioural and multi-systemic work, the focus on the development of hopefulness and positive self, and the inclusion of elements of case management and supported employment. Our treatment trials provide evidence for the therapy leading to clinically meaningful increases in structured activity for individuals experiencing first episode and longer-term psychosis. In this paper, we present the core intervention components with examples in order to facilitate evaluation and implementation of the approach.",
+    "DOI": "10.1080/17522439.2019.1607891",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment, which is mentioned in the article, does not directly address employment.",
+            "study_design": "Treatment manual",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It is a treatment manual for Social Recovery Therapy.",
+            "study_design": "Treatment Manual",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on a psychosocial therapy for people with psychosis, not specifically targeting employment outcomes for people with mental health disorders.",
+            "study_design": "Treatment trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on job search services, adult training, wage subsidies, or supported employment as interventions.",
+            "study_design": "Treatment trial",
+            "logprobs": null
+        }
+    }
+}

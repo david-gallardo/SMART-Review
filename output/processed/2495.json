@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2495,
+    "Authors": "Ang, Shannon; Malhotra, Rahul",
+    "Article Title": "Expressive social support buffers the impact of care-related work interruptions on caregivers' depressive symptoms",
+    "Abstract": "Objective: To assess if expressive and instrumental social support from family and friends moderate the association of care-related work interruptions (e.g. leaving work for the older adult's doctor appointment) with depressive symptoms among working family caregivers of older adults.Methods: Data were from the Singapore Survey on Informal Caregiving (SSIC). A subsample of 662 dyads, each comprising an older care-recipient [home-dwelling Singaporean aged 75 and older receiving human assistance for at least one activity of daily living (ADL)] and his/her working family caregiver, was analysed. Caregiver depressive symptoms were assessed using the Center for Epidemiologic Studies Depression scale. Care-related work interruptions were scaled through the Mokken scaling procedure. Expressive social support was assessed using a scale by Pearlin and co-workers. Instrumental social support was based on the hours of ADL help provided to the care-recipient by any family member or friend, on behalf of the primary caregiver. A linear regression model, with interaction terms, assessed expressive and instrumental social support as moderators of the association of care-related work interruptions with caregiver depressive symptoms.Results: More care-related work interruptions were associated with more caregiver depressive symptoms. And, this association was moderated by expressive, but not instrumental, social support.Conclusion: Our findings conform to previous qualitative work suggesting that caregivers' mental health may not benefit from instrumental support, but from receiving expressive support instead. Initiatives for improving the care experience of working caregivers of older adults should focus on promoting expressive support from their friends and family.",
+    "DOI": "10.1080/13607863.2017.1317329",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a linear regression model with interaction terms, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Linear regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the impact of care-related work interruptions and social support on depressive symptoms among caregivers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

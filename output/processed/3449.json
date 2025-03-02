@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3449,
+    "Authors": "Clapperton, Angela; Spittal, Matthew John; Dwyer, Jeremy; Garrett, Andrew; Kolves, Kairi; Leske, Stuart; Millar, Ciara; Edwards, Bronwen; Stojcevski, Victor; Crompton, David Robert; Pirkis, Jane",
+    "Article Title": "Patterns of Suicide in the Context of COVID-19: Evidence From Three Australian States",
+    "Abstract": "Aims: We aimed to determine whether there has been a change in the number of suicides occurring in three Australian states overall, and in age and sex subgroups, since the COVID-19 pandemic began, and to see if certain risk factors for suicide have become more prominent as likely underlying contributing factors for suicide.Method: Using real-time data from three state-based suicide registers, we ran multiple unadjusted and adjusted interrupted time series analyses to see if trends in monthly suicide counts changed after the pandemic began and whether there had been an increase in suicides where relationship breakdown, financial stressors, unemployment and homelessness were recorded.Results: Compared with the period before COVID-19, during the COVID-19 period there was no change in the number of suicides overall, or in any stratum-specific estimates except one. The exception was an increase in the number of young males who died by suicide in the COVID-19 period (adjusted RR 1.89 [95% CI 1.11-3.23]).The unadjusted analysis showed significant differences in suicide in the context of unemployment and relationship breakdown during the COVID-19 compared to the pre-COVID-19 period. Analysis showed an increase in the number of suicides occurring in the context of unemployment in the COVID-19 period (unadjusted RR 1.53 [95% CI 1.18-1.96]). In contrast, there was a decrease in the number of suicides occurring in the context of relationship breakdown in the COVID-19 period (unadjusted RR 0.82 [95% CI 0.67-0.99]). However, no significant changes were identified when the models were adjusted for possible over-dispersion, seasonality and non-linear trend.Conclusion: Although our analysis found no evidence of an overall increase in suicides after the pandemic began, the picture is complex. The identified increase in suicide in young men indicates that the impact of the pandemic is likely unevenly distributed across populations. The increase in suicides in the context of unemployment reinforces the vital need for mitigation measures during COVID-19, and for ongoing monitoring of suicide as the pandemic continues.",
+    "DOI": "10.3389/fpsyt.2021.797601",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on patterns of suicide in the context of the COVID-19 pandemic.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, but rather on suicide patterns in the context of COVID-19.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Interrupted time series analysis",
+            "logprobs": null
+        }
+    }
+}

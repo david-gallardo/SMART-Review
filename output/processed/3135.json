@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3135,
+    "Authors": "Creed, Peter A.; Hood, Michelle; Hu, Shi",
+    "Article Title": "Job crafting by students who work and study",
+    "Abstract": "Informed by a self-regulatory perspective, we tested a model (N = 233) in which job (e.g., autonomy), person (e.g., motivation), and study characteristics (e.g., engagement) predicted student job crafting, which, in turn, predicted work-study conflict and facilitation. Job, person, and study characteristics predicted task (46% of variance), cognitive (56%), and relational crafting (25%), and cognitive and relational crafting predicted greater work-study facilitation (53%). When students proactively modify their work environment, this is likely to assist them at work as well as facilitate their study life. Developing job crafting skills in students should improve both work and study functioning.",
+    "DOI": "10.1007/s10775-019-09406-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on job crafting by students who work and study.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2910,
+    "Authors": "Evans, Megan; Tang, Patrick Y.; Bhushan, Nivedita; Fisher, Edwin B.; Valovcin, Dawn Dreyer; Castellano, Cherie",
+    "Article Title": "Standardization and adaptability for dissemination of telephone peer support for high-risk groups: general evaluation and lessons learned",
+    "Abstract": "Beyond demonstrated effectiveness, research needs to identify how peer support can be implemented in real-world settings. Telephone peer support offers one approach to this. The purpose of this study is to evaluate telephone peer support provided by trained peer staff for high-risk groups, implemented according to key tasks or functions of the Reciprocal Peer Support model (RPS) providing both standardization and adaptability. The methods used in the study include the review of contact data for years 2015-2016 from telephone peer support services of Rutgers Health University Behavioral Health Care, serving veterans, police, mothers of children with special needs, and child protection workers; structured interviews with peer supporters and clients; and audit of case notes. Across 2015-2016, peer supporters made 64,786 contacts with a total of 5,616 callers. Adaptability was apparent in 22% of callers' relationships lasting <= 1 month and 43% >= 1 year, voicemails valued as communicating presence, 92% of callers receiving support with psychosocial issues, 65% with concrete problems, such as medical or other services, 88% receiving social support, and 88% either resolving an issue (e.g., finding employment) or making documented progress (e.g., getting professional treatment, insurance, or children's services). With the balance of standardization and adaptability provided by the RPS, telephone peer support can address diverse needs and provide diverse contact patterns, assistance, support, and benefits.",
+    "DOI": "10.1093/tbm/ibaa047",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a general evaluation and lessons learned, which lacks a rigorous evaluation or control group.",
+            "study_design": "General evaluation and lessons learned",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation with a control group. It also does not directly address employment outcomes and focuses on telephone peer support for high-risk groups rather than interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on telephone peer support for high-risk groups, not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

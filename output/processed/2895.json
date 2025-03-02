@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2895,
+    "Authors": "Tomori, Cecilia; Go, Vivian F.; Le Nhan Tuan; Nguyen Mai Huong; Nguyen Thanh Binh; Zelaya, Carla E.; Celentano, David D.; Do Tuan Dat; Vu Minh Quan",
+    "Article Title": "In their perception we are addicts: Social vulnerabilities and sources of support for men released from drug treatment centers in Vietnam",
+    "Abstract": "Background: Amid the global transition to treat opioid addiction as an illness, many people who inject drugs (PWID) face heterogeneous legal environments that include both punitive and harm reduction measures. In Vietnam, many PWID, who have a high burden of HIV, are sent to drug treatment centers, or 06 centers, for compulsory detoxification, vocational training, and labor for up to four years. This study investigates the challenges and facilitators of reentry into community and family life among men who are released from 06 centers and provides insights and recommendations for developing policies and interventions that address special needs of this vulnerable population.Methods: In-depth interviews were conducted in 2011 by trained interviewers among a sample of 43 male PWID released within the past 2 years from 06 centers in Hanoi, Vietnam to investigate the above issues and to recommend potential interventions. Participants were recruited from outpatient HIV clinics that serve PWID (n =22) and through peer referral from self-help groups for PWID (n =21). Interviews were audiotaped, transcribed, translated, entered into Atlas.TI qualitative data analysis software and analyzed for key themes.Results: The interviews revealed persistent drug-related stigmatization, frequently paired with HIV-related stigmatization and discrimination, which hindered employment, increased participants' social isolation and exacerbated their struggles with addiction. Families were participants' primary source of financial, employment, and emotional support, but addiction-related family tensions also had negative psychological effects. Participants identified methadone maintenance treatment as an effective means of overcoming addiction, yet few could fully benefit from this treatment due to its limited availability.Conclusion: Our study suggests that PWID released from 06 centers would greatly benefit from the scale-up of community-based harm reduction measures that include addiction and HIV treatment, coupled with employment-support and family centered mental health services. (c) 2014 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.drugpo.2014.04.012",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and does not have a control group. It is a qualitative study with in-depth interviews, which does not meet the inclusion criteria of systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative study with in-depth interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.), is outside the specified geographic scope (Vietnam), and does not directly address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Qualitative interviews",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Vietnam).",
+            "study_design": "Qualitative study using in-depth interviews",
+            "logprobs": null
+        }
+    }
+}

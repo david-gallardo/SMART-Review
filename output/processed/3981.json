@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3981,
+    "Authors": "Town, Machell; Eke, Paul; Zhao, Guixiang; Thomas, Craig W.; Hsia, Jason; Pierannunzi, Carol; Hacker, Karen",
+    "Article Title": "Racial and Ethnic Differences in Social Determinants of Health and Health-Related Social Needs Among Adults - Behavioral Risk Factor Surveillance System, United States, 2022",
+    "Abstract": "Social determinants of health (SDOH) are a broad array of social and contextual conditions where persons are born, live, learn, work, play, worship, and age that influence their physical and mental wellbeing and quality of life. Using 2022 Behavioral Risk Factor Surveillance System data, this study assessed measures of adverse SDOH and health-related social needs (HRSN) among U.S. adult populations. Measures included life satisfaction, social and emotional support, social isolation or loneliness, employment stability, food stability/ security, housing stability/security, utility stability/security, transportation access, mental well-being, and health care access. Prevalence ratios were adjusted for age, sex, education, marital status, income, and self-rated health. Social isolation or loneliness (31.9%) and lack of social and emotional support (24.8%) were the most commonly reported measures, both of which were more prevalent among non-Hispanic (NH) American Indian or Alaska Native, NH Black or African American, NH Native Hawaiian or other Pacific Islander, NH multiracial, and Hispanic or Latino adults than among NH White adults. The majority of prevalence estimates for other adverse SDOH and HRSN were also higher across all other racial and ethnic groups (except for NH Asian) compared with NH White adults. SDOH and HRSN data can be used to monitor needed social and health resources in the U.S. population and help evaluate population-scale interventions.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on social determinants of health and health-related social needs.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on social determinants of health and racial/ethnic differences in adverse SDOH and HRSN among U.S. adults.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social determinants of health and their impact on various populations, not specifically on employment interventions for people with mental health disorders. The study design and population do not align with the inclusion criteria, and the outcomes do not directly address employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

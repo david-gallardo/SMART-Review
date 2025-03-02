@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3935,
+    "Authors": "Dorstyn, Diana; Roberts, Rachel; Murphy, Gregory; Craig, Ashley; Kneebone, Ian; Stewart, Peter; Chur-Hansen, Anna; Marshall, Ruth; Clark, Jillian; Migliorini, Christine",
+    "Article Title": "Work and SCI: a pilot randomized controlled study of an online resource for job-seekers with spinal cord dysfunction",
+    "Abstract": "Study design A prospective, parallel randomized controlled trial (RCT).Objectives To test the preliminary effects of an online resource targeted to job-seekers with spinal cord injury or disorder (SCI/D), and to determine the feasibility of proceeding to a full-scale RCT.Setting A community cohort in Australia.Methods Forty-eight adults (M = 42 years, SD = 10.95, 27 males) were randomized to receive 4-weeks access to the Work and SCI resource (n = 25) or to a wait-list control group (n = 23). The Work and SCI intervention involved six stand-alone learning modules which provided job-searching and career-planning information through text, videos, and interactive activities. Self-report measures were administered at baseline and after 4 weeks: Job Procurement Self-Efficacy Scale (JSES), Life Orientation Test-Revised (LOT-R), and Patient Health Questionnaire-9 (PHQ-9).Results Online usage data identified high uptake of the Work and SCI resource, although study attrition was problematic. Intention-to-treat analyses failed to reach statistical significance, whereas complete data revealed a significant interaction effect for optimism (LOT-R).Conclusion Further research to develop and enhance Work and SCI is indicated. Remediable strategies to optimize recruitment and statistical power in a future definitive RCT are discussed.",
+    "DOI": "10.1038/s41393-018-0200-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention 'supported employment' which is one of the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders. The study focuses on job-seekers with spinal cord injury or disorder.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pilot randomized controlled trial (RCT), which meets the inclusion criteria for study design. However, the study population is specific to individuals with spinal cord injury or disorder (SCI/D), which does not align with the specified population of people with mental health disorders. Additionally, the study's geographic scope is limited to Australia, which falls outside the specified geographic scope of EU countries, Europe, US, Canada, and Australia. The intervention is focused on job search services, which aligns with the intervention criteria. The outcomes include job-related self-efficacy and optimism, which are relevant to employment outcomes. Therefore, the study meets some but not all inclusion criteria and should be excluded based on the population and geographic scope criteria.",
+            "study_design": "Pilot randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

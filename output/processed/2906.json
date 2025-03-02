@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2906,
+    "Authors": "Sanchez-Recio, Raquel; Garcia-Ael, Cristina; Topa, Gabriela",
+    "Article Title": "Investigating the Relationship between Stress and Self-Rated Health during the Financial Crisis and Recession in 2008: The Mediating Role of Job Satisfaction and Social Support in Spain",
+    "Abstract": "Background: the 2008 financial crisis and subsequent recession had a strong impact on employment and certain health indicators, such as mental health. Many studies carried out with diverse samples attest to the negative influence of stress on health. However, few studies focus on stress and self-rated health among the Spanish workforce, or analyse which variables can act as a buffer against the negative effects of stress on self-perceived health. Aim: to analyse the mediator role of social support and job satisfaction in the relationship between work-related stress and self-rated health among the Spanish working population between 2006 and 2017. Method: repeated cross-sectional study using Spanish Surveys from 2006 to 2017, a total of 32.105 participants (47.4% women) aged 16 years and over (M = 42.3, SD = 10.7) answered a series of questions about work-related stress (PV), self-rated health (CV), job satisfaction, and social support (mediator variables) through the National Health Survey (NHS) prevalences of work-related stress, self-rated health, job satisfaction, and social support were calculated (standardised by age). We performed mediation/moderation analysis with Macro Process for SPSS to analyse the role of social support and job satisfaction in the relationship between self-rated health and work-related stress among the Spanish working population. Results: three mediation analyses were conducted, one for each time point in the study period. The results revealed a significant direct association between stress and job satisfaction. In the 2006 model, both job satisfaction and social support acted as mediators between stress and self-rated health, while in the 2011 and 2017 models, only job satisfaction acted as a mediator. The data reveal that the working population in Spain has a good capacity for resilience, since no drop in health indicators was observed. Conclusion: following the economic recession, employment has partially recovered. However, social and employment policies are required to help the population face the recent situation triggered by the Coronavirus crisis.",
+    "DOI": "10.3390/jcm10071463",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a repeated cross-sectional study, which lacks a control group.",
+            "study_design": "Repeated Cross-Sectional Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the relationship between stress and self-rated health during a financial crisis in Spain.",
+            "study_design": "Repeatead cross-sectional study using Spanish Surveys from 2006 to 2017",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria. It also does not focus on the employment or labor outcomes as required.",
+            "study_design": "repeated cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

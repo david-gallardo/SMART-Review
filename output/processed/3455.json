@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3455,
+    "Authors": "Burnett, Susan J.; Stemerman, Rachel; Innes, Johanna C.; Kaisler, Maria C.; Crowe, Remle P.; Clemency, Brian M.",
+    "Article Title": "Social Determinants of Health in EMS Records: A Mixed-methods Analysis Using Natural Language Processing and Qualitative Content Analysis",
+    "Abstract": "Introduction: Social determinants of health (SDoH) are known to impact the health and well-being of patients. However, information regarding them is not always collected in healthcare interactions, and healthcare professionals are not always well-trained or equipped to address them. Emergency medical services (EMS) professionals are uniquely positioned to observe and attend to SDoH because of their presence in patients' environments; however, the transmission of that information may be lost during transitions of care. Documentation of SDoH in EMS records may be helpful in identifying and addressing patients' insecurities and improving their health outcomes. Our objective in this study was to determine the presence of SDoH information in adult EMS records and understand how such information is referenced, appraised, and linked to other determinants by EMS personnel.Methods: Using EMS records for adult patients in the 2019 ESO Data Collaborative public-use research dataset using a natural language processing (NLP) algorithm, we identified free-text narratives containing documentation of at least one SDoH from categories associated with food, housing, employment, insurance, financial, and social support insecurities. From the NLP corpus, we randomly selected 100 records from each of the SDoH categories for qualitative content analysis using grounded theory.Results: Of the 5,665,229 records analyzed by the NLP algorithm, 175,378 (3.1%) were identified as containing at least one reference to SDoH. References to those SDoH were centered around the social topics of accessibility, mental health, physical health, and substance use. There were infrequent explicit references to other SDoH in the EMS records, but some relationships between categories could be inferred from contexts. Appraisals of patients' employment, food, and housing insecurities were mostly negative. Narratives including social support and financial insecurities were less negatively appraised, while those regarding insurance insecurities were mostly neutral and related to EMS operations and procedures.Conclusion: The social determinants of health are infrequently documented in EMS records. When they are included, they are infrequently explicitly linked to other SDoH categories and are often negatively appraised by EMS professionals. Given their unique position to observe and share patients' SDoH information, EMS professionals should be trained to understand, document, and address SDoH in their practice.",
+    "DOI": "10.5811/westjem.59070",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it is not a study on active employment policies for people with mental health disorders.",
+            "study_design": "Mixed-methods analysis using NLP and qualitative content analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the documentation of social determinants of health in EMS records and their impact on patient care.",
+            "study_design": "Mixed-methods analysis using natural language processing and qualitative content analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Mixed-methods analysis using NLP and qualitative content analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

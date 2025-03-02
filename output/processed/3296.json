@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3296,
+    "Authors": "Dale, Maria Teresa Gronning; Nissen, Alexander; Berthelsen, Mona; Gjessing, Hakon Kristian; Heir, Trond",
+    "Article Title": "Psychosocial work factors and sick leave risk after a terrorist bomb attack: a survey and registry-based longitudinal study of governmental employees in Norway",
+    "Abstract": "Objectives Studies show that social support may reduce the negative psychological effects of terror. The aim was to explore the effects of the psychosocial work environment on sick leave risk among governmental employees after a workplace bomb attack. Design We linked longitudinal survey data collected at 10 and 22 months after the bombing with registry data on doctor-certified sick leave collected from 42 months before the attack to 33 months after the attack. ORs and rate ratios were estimated with mixed effects hurdle models. Setting The bombing of the government ministries in Oslo, Norway, 22 July 2011. Participants We identified 1625 participants from a cohort of 3520 employees working in the ministries during the bombing in 2011. Results After adjustment for confounders, social support from coworkers reduced the odds of sick leave (OR 0.80, 95% CI 0.68 to 0.93), and there was marginal evidence for reduced odds with support from superior (OR 0.87, 95% CI 0.87 to 1.03). A social work climate, an innovative climate and a human resource primacy climate (HRP) reduced the sick leave risk (eg, HRP OR 0.77, 95% CI 0.66 to 0.90). The hurdle model found no associations between psychosocial support at work and the duration of sick leave. Conclusions Psychosocial support at work can enhance employees' work ability after terror and reduce the sick leave risk by more than 20%. However, a supportive psychosocial work environment did not reduce the duration of sickness absence. The protective role of psychosocial work factors on sick leave may be most significant when employees are at work and interact with their work environment.",
+    "DOI": "10.1136/bmjopen-2021-052628",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a longitudinal survey and registry-based study with a control group, meeting the inclusion criteria for study design. The study is set in Norway, within the EU, and the timeframe is between 2011 and 2025. The intervention is psychosocial work factors, which is related to employment. The population is governmental employees, who have documented mental health problems. The outcomes include employment or labor outcomes such as sick leave risk, job duration, and job quality.",
+            "study_design": "Longitudinal survey and registry-based study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes. It focuses on the effects of psychosocial work factors on sick leave risk after a terrorist attack.",
+            "study_design": "Survey and registry-based longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on the psychosocial work environment's impact on sick leave risk after a terrorist attack, not specifically on employment outcomes for people with mental health disorders. The study design is a survey and registry-based longitudinal study, which is not one of the specified study designs in the inclusion criteria.",
+            "study_design": "Survey and registry-based longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not directly address employment interventions.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

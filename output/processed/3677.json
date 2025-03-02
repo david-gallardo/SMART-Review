@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3677,
+    "Authors": "Zhang, Karen M.; Mukherjee, Som D.; Pond, Gregory; Roque, Michelle I.; Meyer, Ralph M.; Sussman, Jonathan; Ellis, Peter M.; Bryant-Lukosius, Denise",
+    "Article Title": "Biopsychosocial Associates of Psychological Distress and Post-Traumatic Growth among Canadian Cancer Patients during the COVID-19 Pandemic",
+    "Abstract": "Objective: Understanding both the positive and negative psychological outcomes among cancer patients during the pandemic is critical for planning post-pandemic cancer care. This study (1) examined levels of psychological distress and post-traumatic growth (PTG) among Canadian cancer patients during the COVID-19 pandemic and (2) explored variables that were associated with psychological distress and PTG during the pandemic using a biopsychosocial framework. Method: A cross-section survey was undertaken of patients receiving ongoing care at a regional cancer centre in Ontario, Canada, between February and December 2021. Self-reported questionnaires assessing sociodemographic information, social difficulties, psychological distress (depression, anxiety fear of recurrence, and emotional distress), PTG, illness perceptions, and behavioural responses to the pandemic were administered. Disease-related information was extracted from patient health records. Results: Prevalences of moderate to severe levels of depression, anxiety, fear of recurrence and emotional distress were reported by 26.0%, 21.2%, 44.2%, and 50.0% of the sample (N = 104), respectively. Approximately 43% of the sample reported experiencing high PTG, and these positive experiences were not associated with levels of distress. Social factors, including social difficulties, being female, lower education, and unemployment status were prominent associative factors of patient distress. Perceptions of the pandemic as threatening, adopting more health safety behaviours, and not being on active treatment also increased patient likelihood to experience severe psychological distress. Younger age and adopting more health safety behaviours increased the likelihood of experiencing high PTG. The discriminatory power of the predictive models was strong, with a C-statistic > 0.80. Conclusions: Examining both the positive and negative psychological patient outcomes during the pandemic has highlighted the complex range of coping responses. Interventions that adopt a multi-pronged approach to screen and address social distress, as well as to leverage health safety behaviours, may improve the adjustments in the pandemic aftermath.",
+    "DOI": "10.3390/curroncol31090395",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on psychological distress and post-traumatic growth among cancer patients during the COVID-19 pandemic, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Cross-section survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

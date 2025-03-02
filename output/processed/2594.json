@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2594,
+    "Authors": "Ahmad, Farah; Othman, Nasih; Lou, Wendy",
+    "Article Title": "Posttraumatic Stress Disorder, Social Support and Coping Among Afghan Refugees in Canada",
+    "Abstract": "Posttraumatic-stress-disorder (PTSD) is one of the common mental health conditions among Afghan refugees resettled in developed countries. The current study explores how social support, coping and other factors correlate with PTSD in this population. A survey was conducted with 49 adult Afghan refugees (males 41%, female 59%) who completed Harvard Trauma Questionnaire during their visit to a Community Health Centre in Toronto. Bivariate analysis and structural-equation-modeling (SEM) were used to examine associations and pathways between PTSD and other variables. Mean PTSD score was 2.53 (SD 0.92) with 53% showing symptoms of PTSD which was significantly associated with age, unemployment, social support and self-rated health. SEM showed that higher social support scores were significantly associated with lower PTSD scores, and the effect of coping and English language were mediated through social support. The high prevalence of PTSD, its association with social support and self-rated health are important issues to be considered for refugee resettlement programs.",
+    "DOI": "10.1007/s10597-019-00518-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it is a cross-sectional survey without a comparison group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes that measure employment or labor results.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential for the inclusion criteria.",
+            "study_design": "Survey with bivariate analysis and structural-equation-modeling (SEM)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey and Structural Equation Modeling",
+            "logprobs": null
+        }
+    }
+}

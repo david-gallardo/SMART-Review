@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3169,
+    "Authors": "Hijry, Hassan; Meesam Raza Naqvi, Syed; Javed, Kamran; Albalawi, Omar H.; Olawoyin, Richard; Varnier, Christophe; Zerhouni, Noureddine",
+    "Article Title": "Real Time Worker Stress Prediction in a Smart Factory Assembly Line",
+    "Abstract": "This research contributes to a innovative approach to address the increasing issues of workplace mental health and stress, particularly in high-pressure environments like assembly lines which also affects workers performance and companies productivity. Recognizing the harmful effects of stress on worker productivity, this study introduce stress-monitoring model using advanced machine learning techniques. Proposed model integrates Internet of Things (IoT) technology and machine learning techniques, utilizing a wearable watch to gather open-source physiological data indicative of workers stress in assembly lines. Key physiological markers, such as heart rate, respiration rate, and skin conductance, are analyzed. Based on these physiological indicators, the primary objective is to develop and validate framework that can accurately predict worker stress levels using IoT and machine learning models. The empirical results of the proposed approach demonstrate that the most effective model achieves an impressive accuracy score, with the XGBoost model providing 99% accuracy and Matthew's correlation coefficient (MCC) of 0.99, surpassing the performance of Logistic Regression (LR), Decision Tree (DT), Random Forest (RF), k-Nearest Neighbors (kNN), and Support Vector Machine (SVM). The practical implications of these findings suggest a significant potential for implementing such technology in high-stress work settings, offering a proactive tool for stress management and contributing to enhanced worker well-being and productivity.",
+    "DOI": "10.1109/ACCESS.2024.3446875",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on workplace mental health and stress prediction.",
+            "study_design": "This study is not a traditional RCT, quasi-experimental, or systematic review, but rather a descriptive study that presents a novel approach to address workplace mental health and stress.",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on predicting worker stress in smart factory assembly lines using machine learning and IoT technology.",
+            "study_design": "Empirical study with a focus on predictive modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on predicting worker stress in a smart factory assembly line using IoT and machine learning, which does not directly address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Machine learning model validation",
+            "logprobs": null
+        }
+    }
+}

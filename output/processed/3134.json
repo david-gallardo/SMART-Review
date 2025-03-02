@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3134,
+    "Authors": "Schopp, Laura H.; Clark, Mary J.; Lamberson, William R.; Uhr, David J.; Minor, Marian A.",
+    "Article Title": "A randomized controlled trial to evaluate outcomes of a workplace self-management intervention and an intensive monitoring intervention",
+    "Abstract": "The purpose of this study was to determine and compare outcomes of two voluntary workplace health management methods: an adapted worksite self-management (WSM) approach and an intensive health monitoring (IM) approach. Research participants were randomly assigned to either the WSM group or the IM group by a computer-generated list (n = 180; 92 WSM and 88 IM). Participants completed baseline, 3 and 12-month follow-up surveys. Individuals receiving workplace WSM and IM improved in self-efficacy and nearly all health behaviors and health status variables after the intervention, compared to before the intervention. Individuals in the WSM group improved in depression symptoms at 3 and 12 months (P < 0.0001, P < 0.0001), and individuals in the IM group did not improve at either time period (P < 0.1488, P < 0.0521). Participants in the WSM group reported more improvement in physical activity and energy, health interfering less with personal life and daily activities and fewer depression symptoms at follow up, compared to participants in the IM group. This study provided additional support for worksite-based health promotion programs to promote healthy lifestyles and improve health status, and documented effectiveness of both methods, with superior performance and greater scalability for the WSM program.",
+    "DOI": "10.1093/her/cyx042",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also includes a control group, as there is no comparison group mentioned. The intervention is workplace self-management, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as self-efficacy, depression symptoms, physical activity, and energy.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment. It focuses on workplace health management and self-management approaches.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on health management interventions and their impact on self-efficacy and health behaviors.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

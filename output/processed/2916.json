@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2916,
+    "Authors": "Matud, M. Pilar; del Pino, Ma Jose; Bethencourt, Juan Manuel; Lorenzo, D. Estefania",
+    "Article Title": "Stressful Events, Psychological Distress and Well-Being during the Second Wave of COVID-19 Pandemic in Spain: A Gender Analysis",
+    "Abstract": "The present study investigates gender differences in stressful events, psychological distress and well-being during the second wave of COVID-19 in Spain, analyzing women's and men's risk and resilience factors for psychological distress and for well-being. Participants were 1758 individuals from the general population, 50.8% women, aged between 18 and 79 years. Women and men did not differ in age, number of children, educational level, occupation or marital status. The participants were assessed by seven self-report questionnaires and scales. The results revealed that women experienced more psychological distress, more negative feelings, more stressful events related to the COVID-19 pandemic, more social support, and lower thriving and self-esteem than men. Multiple regression analyses showed that, in the case of women and men as well, self-esteem was the most important predictor of higher well-being and lower psychological distress and negative feelings while more COVID-19 pandemic-related stressful events were associated with higher psychological distress and lower well-being. Another important predictor of greater well-being for either gender was social support while unemployment was associated with lower well-being. In women and men, a higher educational level was associated with greater psychological distress and negative feelings; the male sample revealed that psychological distress was also connected to younger age while in women it was associated with lower instrumental social support. The results suggest that gender plays an important role in the mental health effects of the COVID-19 pandemic, with the risk being higher for women than for men.",
+    "DOI": "10.1007/s11482-022-10140-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey with a large sample size, but it lacks a control group and does not meet the inclusion criteria for a quasi-experimental study.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment. It focuses on gender differences in psychological distress and well-being during the second wave of the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the review.",
+            "study_design": "Gender Analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

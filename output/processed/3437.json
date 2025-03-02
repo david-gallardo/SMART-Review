@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3437,
+    "Authors": "Doucet, Melanie M.; Greeson, Johanna K. P.; Eldeeb, Nehal",
+    "Article Title": "Independent living programs and services for youth ?aging out? of care in Canada and the US: A systematic review",
+    "Abstract": "Evidence from American and Canadian studies over the last three decades demonstrates that youth exiting foster care are at a much higher risk to face a multiplicity of challenges than their peers who are not in care. These challenges result in negative outcomes, such as high rates of homelessness, under-education, unemployment or under-employment, poverty, mental health issues and post-traumatic stress, substance abuse and early preg-nancy or parenthood. This systematic review addresses Independent Living Program (ILP) and Independent Living Services (ILS) studies in the U.S. and Canada published between 2000 and 2018. In order to compile a list of relevant ILP and ILS impact studies, a bibliographic search of six databases was conducted for the peer -reviewed literature, and the grey literature was searched using Google and expert consultation. The search yielded a total of 64 studies after applying our study selection protocol, with 50 from the peer review literature and 14 from the grey literature. The clear majority of studies originated from the U.S., with only three Canadian studies emerging from the grey literature. This is most likely due to differences in mandated data collection and reporting. In the U.S., data collection and reporting is mandatory under the Foster Care Independence Act in 1999. In Canada, there is no such mandatory reporting as child welfare services are under the sole jurisdiction of the provinces, with no Federal government involvement aside from First Nations children and youth. Studies to date suggest that ILP and ILS are not producing the intended outcomes, with limited to no impact demonstrated on youth leaving care wellbeing outcomes. In fact, some of the studies found a negative impact, especially related to social support. Much of the ILP and ILS studies did not incorporate the voices of youth in care, but rather focused on program process and components, staff experiences, and outcome measures such as social support, employment, income, housing and self-sufficiency. Of the limited ILP and ILS studies incorporating youth per-spectives, youth in care often indicated that emotional support and mentoring are crucial needs during the transition to adulthood, which are often not the focus of ILP or ILS. Moreover, compared to the U.S., program impact studies in Canada are sorely lacking; more research needs to be done in this area to build our knowledge of evidence-based and best practices. This systematic review highlights two main conclusions: (1) Both the U.S. and Canada sorely need innovation with respect to preparing youth in care for the transition to adulthood; and (2) We also must commit to using rigorous research designs with such programming to determine the impact of such new approaches. In sum, we must reconceptualize our investment in youth in care and focus on their interdependence in order to realize their potential.This research did not receive any specific grant from funding agencies in the public, commercial, or not -for-profit sectors.",
+    "DOI": "10.1016/j.childyouth.2022.106630",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it focuses on Independent Living Programs and Services for youth aging out of care, which is not directly related to active employment policies for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on Independent Living Programs and Services for youth aging out of care. It lacks specific interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

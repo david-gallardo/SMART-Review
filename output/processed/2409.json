@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2409,
+    "Authors": "Tom\u00e1s, Jos\u00e9 Manuel; Guti\u00e9rrez, Melchor; Fern\u00e1ndez, Irene",
+    "Article Title": "Consecuencias del desempleo en la salud mental de una muestra de j\u00f3venes angole\u00f1os",
+    "Abstract": "Commonly found effects of unemployment on mental health include a loss of confidence, a higher incidence of depression and a loss of psychosocial resources. Objective: To test the effect of strain-mitigating variables on mental health in a sample of unemployed Angolan youth using a structural model with latent variables. Effects of social support (from parents, friends, and others), resilience, and coping strategies on mental health were tested, while controlling for the effects of being economically self-sufficient. The model was tested on a sample of 283 Angolan youth (age range, 18-30 years). The structural model was estimated using EQS 5.7. The model had an adequate fit to the data. The results suggest that social support, resilience, and coping strategies have an alleviating effect on the negative consequences of unemployment on mental health. The results indicate the need to foster parental support and the need for social institutions to encourage the active search for employment. We discuss the results in the light of previous evidence and highlight the limitations related to the cross-sectional nature of the study and incidental sampling.",
+    "DOI": "10.5231/psy.writ.2017.11511",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study without a control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it focuses on the effects of unemployment on mental health in Angolan youth and does not address interventions related to employment policies. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the effects of unemployment on mental health in Angolan youth, which does not directly address employment interventions or outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Angola is not in EU, Europe, US, Canada, Australia).",
+            "study_design": "Cross-sectional study with latent variables",
+            "logprobs": null
+        }
+    }
+}

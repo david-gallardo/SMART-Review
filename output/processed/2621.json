@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2621,
+    "Authors": "Roddy, Ariel L.; Morash, Merry; Adams, Elizabeth A.; Holmstrom, Amanda J.; Smith, Sandi W.; Cobbina, Jennifer E.",
+    "Article Title": "The Nature and Effects of Messages That Women Receive From Probation and Parole Agents in Conversations About Employment",
+    "Abstract": "Using semistructured interviews with 388 women under supervision, this study integrates criminal justice and communication theories by investigating gender responsivity and type of support in messages women receive about employment from supervision agents. Informational support was the most frequent form of supportive communication clients received from their agents, and was the only type of supportive communication clients perceived negatively. Women recalled agents' messages that varied in their sensitivity to the range of women offenders' needs (child and family care demands, human capital attainment, mental health issues, and substance abuse recovery). Supportive messages that took into account a variety of problems commonly shared by women on probation and parole had positive effects, whereas supportive messages that were relevant to employment, but failed to consider other needs, had negative effects. Results of this work have implications regarding effective support offered by community supervision agents as they discuss employment.",
+    "DOI": "10.1177/0093854818811385",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention (job search services, adult training, wage subsidies, supported employment) and population (people with mental disorders or documented mental health problems). It focuses on messages received from probation and parole agents about employment, which does not align with the specified interventions and population criteria.",
+            "study_design": "Qualitative study using semistructured interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the communication between probation and parole agents and women offenders, not on employment interventions for people with mental health disorders.",
+            "study_design": "semistructured interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative study using semistructured interviews",
+            "logprobs": null
+        }
+    }
+}

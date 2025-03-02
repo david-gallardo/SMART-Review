@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3397,
+    "Authors": "Perelli-Harris, Brienna; Zavisca, Jane; Levchuk, Nataliia; Gerber, Theodore P.",
+    "Article Title": "Internal Displacement and Subjective Well-Being: The Case of Ukraine in 2018",
+    "Abstract": "Ukraine is currently experiencing the largest human displacement crisis in the world. However, armed conflict that started in 2014 had already displaced nearly 1.8 million people in Ukraine, resulting in the largest internally displaced population in Europe. Although ethnically and culturally similar to the local population, Ukrainian Internally Displaced Persons (IDPs) encounter severe economic, housing, and social challenges, as well as residual trauma from violence. In this study we examine the extent to which the subjective well-being (SWB) of IDPs differs from locals who were not displaced. We explore whether the difference in subjective well-being between IDPs and locals is due to economic hardship, inadequate housing, and/or weak social support. Using a unique survey conducted in 2018 and OLS regression methods, we find a sizable gap in SWB between IDPs and locals. The gap shrinks after accounting for economic and housing status, and support from local networks. Measures of loss in housing and social networks additionally account for the gap. However, none of the factors we measure can account for the difference between locals and IDPs who reported only leaving due to violence, pointing to the enduring impact of trauma on SWB.",
+    "DOI": "10.1093/sf/soad124",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the subjective well-being of internally displaced persons (IDPs) in Ukraine.",
+            "study_design": "OLS regression methods",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on subjective well-being rather than employment policies.",
+            "study_design": "Cross-sectional survey using OLS regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the subjective well-being of internally displaced persons in Ukraine and does not meet the inclusion criteria for interventions related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

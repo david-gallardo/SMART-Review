@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2448,
+    "Authors": "Schoon, Ingrid; Henseke, Golo",
+    "Article Title": "Social Inequalities in Young People's Mental Distress During the COVID-19 Pandemic: Do Psychosocial Resource Factors Matter?",
+    "Abstract": "The COVID-19 pandemic disproportionately affected young people aged 16-25 years and has brought about a major increase in mental health problems. Although there is persisting evidence regarding SES differences in mental health status, there is still little knowledge of the processes linking SES to young people's mental health, in particular during the current pandemic. Guided by a stress process model this study examines the role of different psychosocial resource factors in mitigating the vulnerability to mental distress among disadvantaged young people and specifies a range of possible mediating pathways. The research draws on a nationally representative longitudinal sample of 16-25 year-olds who participated in the Youth Economic Activity and Health (YEAH) online survey conducted in the UK between February and October 2021. Mental health was measured using the Hopkins Symptom Checklist for anxiety and depression. Socio-economic disadvantage was indicated by parental education and receipt of free school meals. Experience of stress was indicated by financial strain. Psychosocial resource factors included indicators of optimism, self-efficacy, and social support. We controlled for age, gender, living arrangements, and economic activity of the young person (being in education, employment or NEET). The findings suggest sequential mediating processes where SES influences are partially mediated via financial strain and the psychosocial resource factors. In addition, the psychosocial resource factors showed independent effects supporting mental health in the face of socio-economic adversity. Moreover, social support played a significant role in boosting self-efficacy and optimism, which in turn reduce mental distress. The findings highlighting the importance of specifying the assumed mediating processes, and to consider multiple resource factors instead of single aspects to gain a more comprehensive understanding of the processes linking SES to young people's mental health.",
+    "DOI": "10.3389/fpubh.2022.820270",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between socio-economic disadvantage and mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychosocial resource factors in mitigating mental distress among disadvantaged young people during the COVID-19 pandemic. It lacks interventions directly related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        }
+    }
+}

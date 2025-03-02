@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2528,
+    "Authors": "Weitzel, Elena Caroline; Glaesmer, Heide; Hinz, Andreas; Zeynalova, Samira; Henger, Sylvia; Engel, Christoph; Loeffler, Markus; Reyes, Nigar; Wirkner, Kerstin; Witte, A. Veronica; Villringer, Arno; Riedel-Heller, Steffi G.; Loebner, Margrit",
+    "Article Title": "What Builds Resilience? Sociodemographic and Social Correlates in the Population-Based LIFE-Adult-Study",
+    "Abstract": "Resilience is closely related to mental health and well-being. Identifying risk groups with lower resilience and the variables associated with resilience informs preventive approaches. Previous research on resilience patterns in the general population is heterogeneous, and comprehensive large-scale studies are needed. The aim of our study is to examine sociodemographic and social correlates of resilience in a large population-based sample. We examined 4795 participants from the LIFE-Adult-Study. Assessments included resilience (RS-11), social support (ESSI), and social network (LSNS), as well as the sociodemographic variables age, gender, marital status, education, and occupation. The association of resilience with sociodemographic and social correlates was examined using linear regression analyses. Higher resilience was associated with female gender, married marital status, high education, and full-time occupation. Social support and social network were positively associated with resilience. Our results implicate that resilience is related to various sociodemographic variables. Social variables seem to be particularly important for resilience. We identified risk groups with lower resilience, which should be given special attention by public health policies, especially in times of crisis. Reducing loneliness and promoting social connectedness may be promising ways to build resilience in the general population.",
+    "DOI": "10.3390/ijerph19159601",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines sociodemographic and social correlates of resilience.",
+            "study_design": "Cross-sectional study with linear regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on resilience and its sociodemographic and social correlates in the general population.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on resilience in the general population, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Population-based study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3997,
+    "Authors": "Goncalves, Filipe; Carneiro, Davide; Pego, Jose; Novais, Paulo",
+    "Article Title": "X3S: A Multi-modal Approach to Monitor and Assess Stress through Human-computer Interaction",
+    "Abstract": "There have been a variety of research approaches that have examined the stress issues related to human-computer interaction including laboratory studies, cross-sectional surveys, longitudinal case studies and intervention studies. A critical review of these studies indicates that there are important physiological, biochemical, somatic and psychological indicators of stress that are related to work activities where human-computer interaction occurs. In a medical or biological context, stress is a physical, mental, or emotional factor that causes bodily or mental tension, which can cause or influence the course of many medical conditions including psychological conditions such as depression and anxiety. In these cases, individuals are under an increasing demand for performance, driving them to be under constant pressure, and consequently to present variations in their levels of stress. To mitigate this condition, this paper proposes to add a new dimension in human-computer interaction through the development of a distributed multi-modal framework approach entitled X3S, which aims to monitor and assess the psychological stress of computer users during high-end tasks, in a non-intrusive and non-invasive way, through the access of soft sensors activity (e.g. task performance and human behaviour). This approach presents as its main innovative key the capacity to validate each stress model trained for each individual through the analysis of cortisol and stress assessment survey data. Overall, this paper discusses how groups of medical students can be monitored through their interactions with the computer. Its main aim is to provide a stress marker that can be effectively used in large numbers of users and without inconvenience.",
+    "DOI": "10.2298/CSIS180115033G",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on monitoring and assessing stress through human-computer interaction.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on monitoring stress through human-computer interaction and does not meet the inclusion criteria related to interventions and population.",
+            "study_design": "Critical review of studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on stress in human-computer interaction, not employment outcomes for people with mental health disorders.",
+            "study_design": "Critical review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Critical review",
+            "logprobs": null
+        }
+    }
+}

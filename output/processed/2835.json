@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2835,
+    "Authors": "Fond, Guillaume; Fernandes, Sara; Lucas, Guillaume; Greenberg, Neil; Boyer, Laurent",
+    "Article Title": "Depression in healthcare workers: Results from the nationwide AMADEUS survey",
+    "Abstract": "Background: There is now a wealth of evidence showing that work is a major determinant of physical and mental health. Recent studies have suggested increased rates of depression in healthcare workers (HCWs) in the context of the Covid-19 pandemic, with direct impact on care quality and productivity.Aim: To determine the rate of clinical depression in a national sample of HCWs in France during the post-Covid-19 area and to identify related factors (professional, individual and health-related risk behaviors) using a structural equation modeling analysis.Method: A survey comprising a number of standardized scales was sent to public and private national healthcare facilities through the mail or disseminated through emails from professional associations and social networks.Results: 10,325 participants were recruited; 3122 (30.2%, 95% confidence interval [29.4-31.1]) met likely diag-nostic criteria for clinical depression. Professional factors had the largest total effect (3 = 0.57) (burn-out: 3 = 0.74, sustained bullying at the workplace 3 = 0.48 and decision-making latitude 3 = -0.47), followed by individual factors (3 = 0.30) (the main individual factor was recurrent major depression, path coefficient = 0.67). Professional factors had both a direct (path coefficient = 0.38) and indirect (through health risk behaviors, path coefficient = 0.19) effect on depression. Individual factors had a direct (path coefficient 0.21) and indirect (through health risk behaviors (path coefficient = 0.09) effect on depression. Health risk behaviors had a direct effect on de-pression (path coefficient = 0.31).Interpretation: These results provide potential explanations for the likely causes of poor psychological health among HCWs. We propose several potential interventions related to professional factors and health risk behaviors. Our re-sults suggest that improving organizational issues, reducing exposure to potentially morally injurious events, pro-moting brief naps at work and provision of evidence-based prevention approaches have been reported to be helpful in supporting the mental health of hospital staff (not only relaxation or stress management but training in leadership aspects, increasing the knowledge and practice of giving efficient performance feedback, reducing con-flicting demands and peer support programs such as Trauma Risk Management. Our data suggest that developing caregivers reported experience and outcome measures (CREMs/CROMs) would be helpful to monitor work environ-ment and its effect on depression in healthcare workers.(c) 2022 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.ijnurstu.2022.104328",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a survey with no control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on the rate of clinical depression in healthcare workers. It lacks measures related to employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on healthcare workers (HCWs) and not specifically on people with mental health disorders. Additionally, the study design is not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Survey study with structural equation modeling analysis",
+            "logprobs": null
+        }
+    }
+}

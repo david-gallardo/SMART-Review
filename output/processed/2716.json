@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2716,
+    "Authors": "Lockhart, Joanna; Perrott, Stephen B.",
+    "Article Title": "Personality, social support, stress, and coping in a sample of Canadian paramedics",
+    "Abstract": "IMPACT The authors' finding that Canadian paramedics reported high levels of stress concurrent with evidence of predisposed resilience, suggests that emergency workers who, though predisposed towards stability, can find themselves doing too much with too little. Deficits in social support, and the perception that supervisors and employer-sponsored mental health services cannot be relied on, adds to the view of a stressful and alienating workplace. As findings suggest that there is little to be done at selection to identify more robust candidates, the focus should be on ameliorating negative workplace demands and especially on the identification of those factors feeding perceptions of not being supported.",
+    "DOI": "10.1080/09540962.2022.2110182",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not directly address employment or labor outcomes, and it does not reference mental health or have a population with documented mental health problems.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions and lacks outcomes related to employment or labor results. It focuses on stress, social support, and coping mechanisms in paramedics.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Canadian paramedics and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

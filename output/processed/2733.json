@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2733,
+    "Authors": "Gadermann, Anne M.; Hubley, Anita M.; Russell, Lara B.; Thomson, Kimberly C.; Norena, Monica; Rossa-Roccor, Verena; Hwang, Stephen W.; Aubry, Tim; Karim, Mohammad Ehsanul; Farrell, Susan; Palepu, Anita",
+    "Article Title": "Understanding subjective quality of life in homeless and vulnerably housed individuals: The role of housing, health, substance use, and social support",
+    "Abstract": "Purpose: Much of the extant research on quality-of-life (QoL) in homelessness has focused narrowly on health related QoL. Far less is known about broader subjective quality-of-life (SQoL). The purpose of this study was to examine levels and predictors of SQoL among homeless and vulnerably housed individuals in a 4-year longitudinal study.Methods: Data were from the Health and Housing in Transition (HHiT) study, a prospective cohort study of 1190 individuals from three Canadian cities who were homeless or vulnerably housed. SQoL was measured using a scale designed specifically for this population. Predictor variables were time-varying indicators of housing status, substance use, and social support as well as baseline measures of physical and mental health problems. Generalized estimating equation (GEE) analysis examined these predictors of SQoL, adjusting for baseline age, gender, ethnicity, employment, income, and city of residence.Results: Participants at baseline were 18 to 80 years old (M = 42.2; SD = 10.6), 66% male, 63% White, 60% unemployed, and 50% were currently homeless. Most areas of SQoL tended toward slight satisfaction, with dissatisfaction concerning finance and employment as notable exceptions. Demographic variables were not associated with SQoL. Homelessness and self-reported presence of 3 thorn chronic health conditions, mental health problems, and problematic substance use, as well as lower perceived social support, were independently associated with lower SQoL.Conclusions: SQoL shows variation across different life areas for homeless and vulnerably housed individuals. In order to improve SQoL in this population, it is important to address poverty, employment, housing challenges, mental and physical health problems, and substance use as well as increase social supports.",
+    "DOI": "10.1016/j.ssmmh.2021.100021",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective cohort study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on subjective quality of life in relation to housing and health issues among homeless individuals.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not directly address employment interventions.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

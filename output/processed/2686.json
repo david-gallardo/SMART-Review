@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2686,
+    "Authors": "Spikol, Eric; Ross, Jana; McGlinchey, Emily; Armour, Cherie",
+    "Article Title": "Identifying Service-Related Predictors of Community Reintegration Difficulties in Northern Irish Military Veterans",
+    "Abstract": "Military-to-civilian community reintegration in Northern Irish (NI) veterans has not been previously examined. The existing reintegration studies indicate that post-military service life can be challenging for many veterans. The current exploratory study aimed to identify service-related predictors of community reintegration difficulties in a sample of 749 NI veterans. Data were collected through a cross-sectional self-report survey of UK Armed Forces veterans residing in NI. Service-related variables were examined as predictors of overall and subdomain-specific reintegration difficulties. Combat exposure, time spent deployed in NI, length of service, being medically discharged, and being physically injured during service were significant predictors of reintegration difficulties. Receiving a mental health diagnosis since discharge and having been medically discharged were the two strongest predictors. Further results and implications are also discussed. Post-service adjustment to civilian life is affected by service variables, with implications for military/post-military interventions aimed at mitigating difficult transition experiences.",
+    "DOI": "10.1177/0095327X221112963",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a requirement for inclusion.",
+            "study_design": "Cross-sectional self-report survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on community reintegration difficulties for Northern Irish military veterans. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional self-report survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on military veterans, not specifically on people with mental health disorders. The population is not clearly defined as people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not measure employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

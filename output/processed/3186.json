@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3186,
+    "Authors": "Perolla, Adela; Kalaja, Bledi",
+    "Article Title": "Improving Hemophilia Care in Low- and MiddleIncome Countries: Addressing Challenges and Enhancing Quality of Life",
+    "Abstract": "Hemophilia, a genetic bleeding disorder caused by a deficiency in clotting factors, impacts millions of people worldwide. The quality of life (QoL) for those affected remains particularly suboptimal in low- and middle -income countries (LMICs). This article delves into the unmet needs in hemophilia care and management in LMICs, spotlighting various challenges and potential strategies for improvement. One of the primary challenges in LMICs is the limited access to comprehensive care which includes a multidisciplinary approach involving hematologists, physiotherapists, psychologists, and social workers. In many LMICs, the healthcare infrastructure is insufficient to provide such integrated services, leading to fragmented care and poorer health outcomes for individuals with hemophilia. Another significant issue is the challenge of prophylactic treatment. Prophylaxis, which involves regular infusions of clotting factor concentrates to prevent bleeding episodes, is the standard of care in high -income countries. However, in LMICs, prophylactic treatment is often not feasible due to the high cost and limited availability of clotting factor concentrates. This results in a reliance on on -demand treatment, which only addresses bleeding episodes as they occur and does not prevent the long-term complications associated with frequent bleeds. Pain management is another critical area with significant gaps. Chronic pain is a common issue for individuals with hemophilia due to repeated joint bleeds leading to joint damage. In many LMICs, access to effective pain management strategies, including both pharmacological and non -pharmacological treatments, is limited. Mental health support is also a crucial yet often overlooked aspect of hemophilia care. The chronic nature of the condition, combined with frequent hospital visits and the physical limitations imposed by the disease, can lead to mental health issues such as anxiety and depression. However, mental health services are frequently under-resourced in LMICs, and there is a lack of awareness about the mental health needs of individuals with hemophilia. Caregiver support playing a crucial role in managing the day-to-day needs of individuals with hemophilia, is another vital component of hemophilia care that is often insufficient in LMICs. Education and awareness about hemophilia are also lacking in many LMICs. There is often a limited understanding of the condition among the general public and even within the medical community, leading to misdiagnoses and delayed treatment. Employment and financial support are critical issues as well. The physical limitations and frequent medical needs associated with hemophilia can make it difficult for individuals to maintain stable employment, leading to financial strain. In many LMICs, social support systems are inadequate to address these challenges. Lastly, the integration of telehealth and digital health technologies presents a promising strategy to overcome some of these challenges providing remote access to specialist care, education, and support, which is particularly valuable in regions where healthcare resources are scarce. By adopting a multifaceted approach that involves collaboration between governments, healthcare systems, international organizations, and patient advocacy groups, it is possible to address these challenges and significantly improve the QoL for individuals with hemophilia in LMICs.",
+    "DOI": "10.7759/cureus.62817",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on improving care for individuals with hemophilia in low- and middle-income countries. It lacks an intervention related to active employment policies.",
+            "study_design": "Descriptive review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article focuses on hemophilia care in LMICs, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Article type not specified",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3516,
+    "Authors": "Johnson, Monica Kirkpatrick; Staff, Jeremy; Patrick, Megan E.; Schulenberg, John E.",
+    "Article Title": "Adolescent adaptation before, during and in the aftermath of the Great Recession in the USA",
+    "Abstract": "This study examines the impact of the Great Recession (from December 2007 to June 2009) on 8th and 10th graders in the USA, using annual nationally representative data from the Monitoring the Future study. Historical changes in youth adjustment (self-esteem, depressed mood, risk taking, aggression and property crime), school achievement (grade point average [GPA], time spent on homework and educational expectations) and structured and unstructured activities (volunteering, employment, sports and evenings out for fun) were examined between 1991 and 2014. Overall, there were only slight changes in mean levels of adjustment, achievement and most youth activities. However, the percentage of youth working during the school year did decline during the Great Recession. Several longer-term trends were also evident, though not directly tied to the Great Recession. These include an increase in GPA, a decrease in time spent on homework, rising educational expectations and more time spent volunteering. Future work should assess how the shift to unpaid work activities (e.g. volunteering and internships) among youth is impacting the transition from school to work in the contemporary economy, and whether the Great Recession had deleterious impacts for younger children or among youth whose parents lost work or had their homes foreclosed.",
+    "DOI": "10.1002/ijop.12389",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the impact of the Great Recession on youth adjustment, school achievement, and structured and unstructured activities, but does not specifically examine active employment policies for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders and is focused on adolescents in the USA. It also lacks an intervention component related to active employment policies.",
+            "study_design": "Cross-sectional trend analysis using nationally representative data from Monitoring the Future study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on adults with mental health disorders and does not directly address employment interventions for this population.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

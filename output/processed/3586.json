@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3586,
+    "Authors": "Lee, Othelia Eun-Kyoung; Xu, Qingwen; Lee, Jungui",
+    "Article Title": "Functional Independence of Community-Dwelling Older Adults in China and South Korea",
+    "Abstract": "Population aging is occurring at an unprecedented pace in China and South Korea. This study intended to identify and compare factors associated with older adults' functional status in China and South Korea using data from 2 national surveys. The study sample consisted of adults aged 65 to 79 years old drawn from the Chinese Longitudinal Healthy Longevity Survey (2005; n = 4,898) and the Korean Longitudinal Study on Aging (2006; n = 4,152). The outcome variable, functional status, was defined as dependence in self-care tasks. Stepwise multiple regression analysis was used to assess the explanatory contributions of sociodemographics, health conditions, and health behaviors and activities to functional status. These Asian older adults shared certain commonalities in maintaining functional independence in their communities, and absence of diseases and higher cognition were associated with functional independence in both countries. Rural residence and outdoor activity were significant for Chinese older adults; for their South Korean peers, gender, employment status, drinking, and exercise were important. This study adds to a slowly growing body of knowledge of ways to improve the functional independence of community-dwelling older persons in these 2 Asian countries and beyond. More research is needed to identify cross-cultural and/or cross-country differences.",
+    "DOI": "10.1080/01488376.2014.905165",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on functional status, health conditions, and health behaviors and activities.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on functional independence of community-dwelling older adults in China and South Korea.",
+            "study_design": "Cross-sectional survey using national surveys (2005-2006)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on functional status in older adults, not employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope outside the specified regions (EU countries, Europe, US, Canada, Australia) and does not address mental health.",
+            "study_design": "Cross-sectional study with regression analysis",
+            "logprobs": null
+        }
+    }
+}

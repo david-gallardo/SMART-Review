@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2571,
+    "Authors": "Liden, Eva; Alstersjo, Karin; Gurne, Frida L.; Fransson, Sandra; Bergbom, Ingegerd",
+    "Article Title": "Combining garden therapy and supported employment - a method for preparing women on long-term sick leave for working life",
+    "Abstract": "Women are overrepresented among the group people suffering from long-term illness. In addition to their illness, suffering long-term sick leave leads to economical restraints as well social distress. There are gaps in our understanding of the challenges these women face. There is also lack of knowledge about how these challenges can be effectively addressed in rehabilitation. This deficiency is problematic from an ethical, justice and a caring perspective. In this study, changes in health-related quality of life (HRQoL) among women on long-term sick leave were investigated during and after participating in a rehabilitation programme combining two validated methods, Garden Therapy and Supported Employment (SE). The study also discusses difficulties in realising research related to vulnerable under-privileged people. From a population of 329 women who had reported their interest to participate, 245 were randomised to the programme. Of these 144 accepted participation in the research project and of these 123 women accepted to answer the SF-36 questionnaire. The participants were between 21 and 62 years with poor physical and mental health. They had received public financial support from <1 year to >10 years. The SF-36 measurement was carried out at baseline, after completion of Garden Therapy and after completion of SE. The results are based on data of respondents who participated at all the three occasions (n = 52). When comparing HRQoL baseline with the following occasions, the participants' General Health (GH), Vitality (VT), Social Functioning (SF) and mental health had improved significantly. The Four Leaf Clover (FLC) programme could be an appropriate method for reducing socially induced suffering. However, to conduct intervention studies where vulnerable persons are involved, it is off vital importance to consider whether the participants have the strength to complete the intervention.",
+    "DOI": "10.1111/scs.12263",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a quasi-experimental study with a single group, which does not meet the inclusion criteria for study design.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group and does not directly address employment outcomes. It focuses on health-related quality of life improvements through a combination of garden therapy and supported employment, but does not provide data on employment rates, job duration, or other labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on women with long-sick leave and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes supported employment as an intervention for people with mental health problems and measures outcomes related to employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

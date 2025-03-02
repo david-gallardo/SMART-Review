@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2318,
+    "Authors": "Nuechterlein, Keith H.; Ventura, Joseph; Subotnik, Kenneth L.; Gretchen-Doorly, Denise; Turner, Luana R.; Casaus, Laurie R.; Luo, John; Boucher, Michael L.; Hayata, Jacqueline N.; Bell, Morris D.; Medalia, Alice",
+    "Article Title": "A randomized controlled trial of cognitive remediation and long-acting injectable risperidone after a first episode of schizophrenia: improving cognition and work/school functioning",
+    "Abstract": "Background Cognitive deficits at the first episode of schizophrenia are predictive of functional outcome. Interventions that improve cognitive functioning early in schizophrenia are critical if we hope to prevent or limit long-term disability in this disorder. Methods We completed a 12-month randomized controlled trial of cognitive remediation and of long-acting injectable (LAI) risperidone with 60 patients with a recent first episode of schizophrenia. Cognitive remediation involved programs focused on basic cognitive processes as well as more complex, life-like situations. Healthy behavior training of equal treatment time was the comparison group for cognitive remediation, while oral risperidone was the comparator for LAI risperidone in a 2 x 2 design. All patients were provided supported employment/education to encourage return to work or school. Results Both antipsychotic medication adherence and cognitive remediation contributed to cognitive improvement. Cognitive remediation was superior to healthy behavior training in the LAI medication condition but not the oral medication condition. Cognitive remediation was also superior when medication adherence and protocol completion were covaried. Both LAI antipsychotic medication and cognitive remediation led to significantly greater improvement in work/school functioning. Effect sizes were larger than in most prior studies of first-episode patients. In addition, cognitive improvement was significantly correlated with work/school functional improvement. Conclusions These results indicate that consistent antipsychotic medication adherence and cognitive remediation can significantly improve core cognitive deficits in the initial period of schizophrenia. When combined with supported employment/education, cognitive remediation and LAI antipsychotic medication show separate significant impact on improving work/school functioning.",
+    "DOI": "10.1017/S0033291720003335",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it focuses on cognitive remediation and antipsychotic medication adherence rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. While it improves cognitive function and work/school functioning, the specific focus on education and school rather than employment in adults is outside the scope of identifying what works in active employment policies for people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes supported employment as an intervention and focuses on people with schizophrenia, a mental health disorder. It also measures work/school functioning, which is relevant to employment outcomes.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

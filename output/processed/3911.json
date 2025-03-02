@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3911,
+    "Authors": "Leonidis, Asterios; Korozi, Maria; Sykianaki, Eirini; Tsolakou, Eleni; Kouroumalis, Vasilios; Ioannidi, Danai; Stavridakis, Andreas; Antona, Margherita; Stephanidis, Constantine",
+    "Article Title": "Improving Stress Management and Sleep Hygiene in Intelligent Homes",
+    "Abstract": "High stress levels and sleep deprivation may cause several mental or physical health issues, such as depression, impaired memory, decreased motivation, obesity, etc. The COVID-19 pandemic has produced unprecedented changes in our lives, generating significant stress, and worries about health, social isolation, employment, and finances. To this end, nowadays more than ever, it is crucial to deliver solutions that can help people to manage and control their stress, as well as to reduce sleep disturbances, so as to improve their health and overall quality of life. Technology, and in particular Ambient Intelligence Environments, can help towards that direction, when considering that they are able to understand the needs of their users, identify their behavior, learn their preferences, and act and react in their interest. This work presents two systems that have been designed and developed in the context of an Intelligent Home, namely CaLmi and HypnOS, which aim to assist users that struggle with stress and poor sleep quality, respectively. Both of the systems rely on real-time data collected by wearable devices, as well as contextual information retrieved from the ambient facilities of the Intelligent Home, so as to offer appropriate pervasive relaxation programs (CaLmi) or provide personalized insights regarding sleep hygiene (HypnOS) to the residents. This article will describe the design process that was followed, the functionality of both systems, the results of the user studies that were conducted for the evaluation of their end-user applications, and a discussion about future plans.",
+    "DOI": "10.3390/s21072398",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on stress management and sleep hygiene in Intelligent Homes.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on stress management and sleep hygiene in intelligent homes. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Descriptive article",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on stress management and sleep hygiene in intelligent homes, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Design not specified in the provided abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "User studies",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3751,
+    "Authors": "Gu, Mofan; Stone, Rebecca; Varghese, Femina; Braziel, Heath; Snyder, Logan; Zaller, Nickolas",
+    "Article Title": "Drivers of Probation Revocation in Pulaski County, Arkansas",
+    "Abstract": "Probation has received relatively little research attention. In this exploratory two-study inquiry, we first analyzed quantitative data to identify factors driving probation revocation in Pulaski County, Arkansas, among 10,260 individuals (mostly male and African American) between 2015 and 2019 (Study 1). We found individuals with felony histories were significantly more likely to be revoked (aOR 17.2 for one or two convictions; aOR 25.1 for three or more convictions). Other predictors include lower education, younger age at first sentence, unemployment, and substance use. In Study 2, we conducted 20 in-depth qualitative interviews with 12 key stakeholders and 8 individuals with probation experience. We found that client financial instability, substance use and mental health disorders, stakeholder risk avoidance, officer caseload, and lack of accessible resources/services contributed to probation revocation. We conclude with recommendations for changes to probation policy and practice, including officer training, alternatives to incarceration, service expansion, and community engagement.",
+    "DOI": "10.1177/00938548231177701",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on factors driving probation revocation.",
+            "study_design": "Exploratory two-study inquiry (quantitative and qualitative)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on factors driving probation revocation in Pulaski County, Arkansas.",
+            "study_design": "Exploratory two-study inquiry (quantitative and qualitative)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on probation revocation in Pulaski County, Arkansas, which does not meet the specified population criteria of people with mental health disorders. Additionally, the study'senvironment' is not within the specified geographic scope.",
+            "study_design": "Exploratory two-study inquiry",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also lacks a control group.",
+            "study_design": "Exploratory two-study inquiry (quantitative and qualitative)",
+            "logprobs": null
+        }
+    }
+}

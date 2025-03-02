@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3702,
+    "Authors": "Jason, Kendra; Carr, Dawn; Chen, Zhao",
+    "Article Title": "Race-Ethnic Differences in the Effects of COVID-19 on the Work, Stress, and Financial Outcomes of Older Adults",
+    "Abstract": "Objectives This study investigates race-ethnic differences among older non-Hispanic Black, non-Hispanic White, and Hispanic adults' financial, employment, and stress consequences of COVID-19. Methods We use data from the Health and Retirement Study, including the 2020 COVID-panel, to evaluate a sample of 2,929 adults using a combination of bivariate tests, OLS regression analysis, and moderation tests. Results Hispanic and non-Hispanic Black older adults experienced more financial hardships, higher levels of COVID-19 stress, and higher rates of job loss associated with COVID-19 relative to their Non-Hispanic White counterparts. Non-Hispanic Black and Hispanic adults reported significantly higher levels of COVID-19 resilience resources, yet, these resources were not protective of the consequences of COVID-19. Discussion Understanding how the experiences of managing and coping with COVID-19 stressors differ by race-ethnicity can better inform intervention design and support services.",
+    "DOI": "10.1177/08982643231159705",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on financial, employment, and stress consequences of COVID-19, which is outside the scope of the inclusion criteria.",
+            "study_design": "Quasi-experimental study with bivariate tests and OLS regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on race-ethnic differences in the effects of COVID-19 on older adults' financial outcomes, employment, and stress levels.",
+            "study_design": "Cross-sectional analysis using OLS regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are required by the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

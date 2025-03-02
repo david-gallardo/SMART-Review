@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2340,
+    "Authors": "Iderapalli, Mounika; Ibrahim, Mohamed; Aboelenien, Shaimaa",
+    "Article Title": "Supported Employment Programmes for People With Psychosis or Schizophrenia - Full Cycle Audit",
+    "Abstract": NaN,
+    "DOI": "10.1192/bjo.2024.584",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address the specified interventions (job search services, adult training, wage subsidies, supported employment). It focuses on Supported Employment Programmes for people with psychosis or schizophrenia.",
+            "study_design": "Not provided in abstract",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not provide enough information to determine if the study includes employment outcomes.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

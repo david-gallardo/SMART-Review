@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3034,
+    "Authors": "Bernburg, Monika; Groneberg, David; Mache, Stefanie",
+    "Article Title": "Professional training in mental health self-care for nurses starting work in hospital departments",
+    "Abstract": "BACKGROUND: Nurses working in hospitals can suffer from occupational stress due to high workloads and low job and/or personal resources. This can lead to work-related stress, exhaustion, health problems, and low quality of care.OBJECTIVE: The aim of the study was to evaluate the effectiveness of work-related self-care skill training for nurses.METHODS: A pilot study was conducted with 94 nurses in hospital departments in Germany. Nurses were either assigned to the intervention group that received competence training or to a waitlist control group. The intervention took place in groups over a period of 12 weeks. Training content included i.e. work-related stress management training, problem-solving techniques, and solution-focused counselling. The outcomes studied were changes in work-related stress, emotional exhaustion, emotion regulation, and job satisfaction. Three follow-up assessments were arranged.RESULTS: Nurses in the IG achieved a decrease in perceived job stress and emotional exhaustion as well as improvements with regard to enhanced emotion regulation skills. The intervention was evaluated with high satisfaction scores.CONCLUSIONS: This study showed first indications that training of mental health self-care skills for junior nurses could be a supportive approach for nurses starting work in hospital departments. However, replication studies are needed to verify the results.",
+    "DOI": "10.3233/WOR-203311",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a pilot study, lacks a rigorous evaluation, and does not have a control group.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it is a pilot study without a control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (focuses on stress, exhaustion, emotion regulation, and job satisfaction rather than employment or labor outcomes).",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on nurses' self-care skills and does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Pilot study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The population is nurses, not people with mental disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

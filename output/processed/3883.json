@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3883,
+    "Authors": "Liu, Yuming; Li, Gen; Qi, Xiang; Wu, Bei; Latkin, Carl A.; Tang, Weiming; Hall, Brian J.",
+    "Article Title": "Prevalence and determinants of food insecurity during the 2022 COVID-19 related lockdown in Shanghai",
+    "Abstract": "The SARS-CoV-2 coronavirus pandemic has led to increased food insecurity levels. This cross-sectional study examines the prevalence and determinants of food insecurity during the two-month (1 April to 1 June 2022) city-wide lockdown in Shanghai. The data was collected via an online questionnaire from 3230 adult Shanghai residents during the lockdown. Food insecurity was measured using an adapted version of the Household Food Insecurity Access Scale. Nearly 70% of participants reported being exposed to food insecurity. Using multivariable logistic regressions, we examined the associations between key correlates (i.e. age, income, lockdown-related income loss, migration, employment status, social capital, preparedness, and received social support) and overall food insecurity while adjusting for ethnicity, gender, education, household size, and marital status. Results showed that compared to local Shanghai residents, migrants (i.e, permanent migrants with Hukou (OR = 2.16), permanent migrants without Hukou (OR = 2.06), temporary migrants (OR = 2.74)), and participants with less than or greather than 50% lockdown-related income loss (OR = 2.60, OR = 3.09), were associated with higher odds of overall food insecurity. Participants with greater preparedness (OR = 0.66), greater bonding social capital (OR = 0.93), and greater bridging social capital (OR = 0.94), had lower odds of overall food insecurity. Targeted interventions are needed to enhance food resilience and health equity among vulnerable populations.",
+    "DOI": "10.1080/17441692.2023.2246066",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and instead focuses on food insecurity during the COVID-19 lockdown.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on food insecurity during the COVID-19 lockdown in Shanghai.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment policies for people with mental health disorders, but rather on food insecurity during the COVID-19 lockdown.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

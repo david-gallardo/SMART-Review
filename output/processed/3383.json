@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3383,
+    "Authors": "Sahyoun, Nadine R.; Jamaluddine, Zeina; Choufani, Jowel; Mesmar, Sandra; Reese-Masterson, Amelia; Ghattas, Hala",
+    "Article Title": "A mixed-methods evaluation of community-based healthy kitchens as social enterprises for refugee women",
+    "Abstract": "Background The aim of this study is to investigate the potential impact of a community-based intervention - the Healthy Kitchens, Healthy Children (HKHC) intervention - on participating women's household's economics and food security status, decision making, mental health and social support. Methods We established two healthy kitchens in existing community-based organizations in Palestinian camps in Lebanon. These were set up as small business enterprises, using participatory approaches to develop recipes and train women in food preparation, food safety and entrepreneurship. We used a mixed-methods approach to assess the impact of participating in the program on women's economic, food security, decision making, social and mental health outcomes. A questionnaire was administered to women at baseline and at an 8-month endpoint. The end line survey was complemented by a set of embedded open-ended questions. Results Thirty-two Palestinian refugee women were employed within the kitchens on a rotating basis. Participating women had a 13% increase in household expenditure. This was translated into a significant increase in food (p < 0.05) and clothing expenditures (p < 0.01), as well as a reduction in food insecurity score (p < 0.01). These findings were supported by qualitative data which found that the kitchens provided women with financial support in addition to a space to form social bonds, discuss personal issues and share experiences. Conclusions This model created a social enterprise using the concept of community kitchens linked to schools and allowed women to significantly contribute to household expenditure and improve their food security.",
+    "DOI": "10.1186/s12889-019-7950-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a mixed-methods approach, which does not meet the inclusion criteria of a systematic review or controlled trial.",
+            "study_design": "Mixed-methods approach",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on household economics and food security of refugee women.",
+            "study_design": "Mixed-methods evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Palestinian refugee women's economic and social outcomes, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "mixed-methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The population is refugee women and the study does not focus on mental health disorders.",
+            "study_design": "Mixed-methods evaluation",
+            "logprobs": null
+        }
+    }
+}

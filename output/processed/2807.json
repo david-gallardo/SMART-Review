@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2807,
+    "Authors": "Baka, Lukasz",
+    "Article Title": "Types of job demands make a difference. Testing the job demand-control-support model among Polish police officers",
+    "Abstract": "Drawing on the Job Demand-Control-Support (JDCS) model framework, the present study tested thestrainand theiso-strainhypotheses. Specifically, the direct effect of job demands on depression, as well as the moderating role of job control, social support and their joint effect (job control x social support) on the job demand-depression link, was investigated. The data were collected from a representative sample of police officers. Job demands related to operational and organizational police stress were taken into account. Regression analysis using Hayes' PROCESS macros was applied. The results support thestrainhypothesis, and in part theiso-strainhypothesis of the JDCS model. Both operational and organizational demands were directly associated with depression. The strain hypothesis was confirmed in part. Social support and, to a partial extent, job control buffered the negative effects of job demands on depression. Three-way interactional effect was supported but only with respect to organizational (and not operational) demands. High social support intensifies the buffering effect of job control on the organizational demands-depression link. The results partially support the notion of the JDCS model and provide further insight into processes leading to ill health among police officers in the workplace.",
+    "DOI": "10.1080/09585192.2018.1443962",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is regression analysis using Hayes' PROCESS macros, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the Job Demand-Control-Support model and its effects on depression among Polish police officers.",
+            "study_design": "Cross-sectional survey using regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on Polish police officers and does not specifically address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the population is police officers and not explicitly people with mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

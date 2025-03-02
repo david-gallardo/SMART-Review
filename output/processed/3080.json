@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3080,
+    "Authors": "Milner, Allison; Witt, Katrina; Spittal, Matthew J.; Bismark, Marie; Graham, Melissa; LaMontagne, Anthony D.",
+    "Article Title": "The relationship between working conditions and self-rated health among medical doctors: evidence from seven waves of the Medicine In Australia Balancing Employment and Life (Mabel) survey",
+    "Abstract": "Background: Psychosocial job stressors, such as low control and high demands, have been found to influence the health and wellbeing of doctors. However, past research in this area has relied on cross-sectional data, which limits causal inferences about the influence of psychosocial job stressors on health. In this study, we examine this relationship longitudinally while also assessing whether the relationship between psychosocial job stressors and health is modified by gender.Methods: The data source was seven annual waves of the Medicine in Australia: Balancing Employment and Life (MABEL) survey. The outcome was self-rated health (measured using the SF-12), and key exposures reflected job control, job demands, work-life balance variables, employment arrangements, and aggression experienced at work. We used longitudinal fixed and random effects regression models to assess within and between-person changes in health.Results: Excessive job demands, low job control, feelings of not being rewarded at work, and work-life imbalance were associated with higher within-person odds of poorer self-rated health. Gender differences were apparent. For female doctors, work arrangements and work-life imbalance were associated with poorer self-rated health whilst task-based job stressors were associated with poorer self-rated health in male doctors.Conclusions: These results suggest the importance of addressing adverse working environments among doctors.",
+    "DOI": "10.1186/s12913-017-2554-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal fixed and random effects regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on the relationship between working conditions and self-rated health among medical doctors.",
+            "study_design": "Cross-sectional survey over multiple waves",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions related to job search services, adult training, wage subsidies, or supported employment. Additionally, the population is medical doctors and not people with mental disorders.",
+            "study_design": "Longitudinal study using fixed and random effects regression models",
+            "logprobs": null
+        }
+    }
+}

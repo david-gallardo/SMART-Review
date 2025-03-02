@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2341,
+    "Authors": "Shen, Zheng; Fang, Xiangming; Zheng, Xiaodong",
+    "Article Title": "The impact of women?s off-farm employment on depressive symptoms: Evidence from rural China",
+    "Abstract": "While China's economy has grown rapidly in recent decades, urban-rural inequalities in mental health have persisted, and depression is more prevalent among rural women. Using a nationally-representative survey data in China, this paper investigates the impact of women's off-farm employment on their depressive symptoms. Results from instrumental variable and individual fixed effects estimation show that women's participation in off-farm employment leads to a significant reduction in depressive symptoms. We further take into account the con-founding effects of working conditions, and the main results are robust. Moreover, off-farm employment en-hances women's mental health mainly through pathways including increased absolute income, higher self -perceived relative income, more frequent healthy behaviors, increased likelihood of health investment, and obtaining more formal social support. Further evidence suggests that the depression-reducing effect of off-farm employment is more effective for those with more severe depressive symptoms, middle-aged and elderly persons, and women with lower body mass index. The findings have important implications for preventing depressive disorders and improving mental health in China and other developing countries.",
+    "DOI": "10.1016/j.socscimed.2022.115309",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: off-farm employment, which is not directly addressing employment.",
+            "study_design": "Instrumental variable and individual fixed effects estimation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on women's off-farm employment in rural China and its impact on depressive symptoms. The intervention (off-farm employment) is not related to active employment policies for people with mental health disorders, and there is no mention of a population with documented mental health problems or outcomes related to employment or labor results.",
+            "study_design": "Cross-sectional study using nationally-representative survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of off-farm employment on depressive symptoms in rural women in China, which does not align with the specified inclusion criteria regarding interventions for people with mental health disorders. The study's intervention is not directly related to employment policies but rather to off-farm employment' shares and its impact on mental health.",
+            "study_design": "Nationally-representative survey data analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (EU, Europe, US, Canada, Australia).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

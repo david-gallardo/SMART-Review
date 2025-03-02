@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2531,
+    "Authors": "Greenwood-Hickman, Mikael Anne; Shapiro, Lily N.; Chen, Shirley; Crane, Paul K.; Harrington, Laura B.; Johnson, Katierose; LaCroix, Andrea Z.; Lane, Liam G.; McCurry, Susan M.; Shaw, Pamela A.; Rosenberg, Dori E.",
+    "Article Title": "Understanding resilience: Lifestyle-based behavioral predictors of mental health and well-being in community-dwelling older adults during the COVID-19 pandemic",
+    "Abstract": "Background Changes in sleep, physical activity and mental health were observed in older adults during early stages of the COVID-19 pandemic. Here we describe effects of the COVID-19 pandemic on older adult mental health, wellbeing, and lifestyle behaviors and explore predictors of better mid-pandemic mental health and wellbeing. Methods Participants in the Adult Changes in Thought study completed measures of lifestyle behaviors (e.g., sleep, physical activity) and mental health and wellbeing both pre-pandemic during regular study visits and mid-pandemic via a one-time survey. We used paired t-tests to compare differences in these measures pre- vs. mid-pandemic. Using multivariate linear regression, we further explored demographic, health, and lifestyle predictors of pandemic depressive symptoms, social support, and fatigue. We additionally qualitatively coded free text data from the mid-pandemic survey for related comments. Results Participants (N = 896) reported significant changes in mental health and lifestyle behaviors at pre-pandemic vs. mid-pandemic measurements (p < 0.0001). Qualitative findings supported these behavioral and wellbeing changes. Being male, never smoking, and lower pre-pandemic computer time and sleep disturbance were significantly associated with lower pandemic depressive symptoms. Being partnered, female, never smoking, and lower pre-pandemic sleep disturbance were associated with higher pandemic social support. Pre-pandemic employment, more walking, less computer time, and less sleep disturbance were associated with less pandemic fatigue. Participant comments supported these quantitative findings, highlighting gender differences in pandemic mental health, changes in computer usage and physical activity during the pandemic, the value of spousal social support, and links between sleep disturbance and mental health and wellbeing. Qualitative findings also revealed additional factors, such as stresses from personal and family health situations and the country's concurrent political environment, that impacted mental health and wellbeing. Conclusions Several demographic, health, and lifestyle behaviors appeared to buffer the effects of the COVID-19 pandemic and may be key sources of resilience. Interventions and public health measures targeting men and unpartnered individuals could promote social support resilience, and intervening on modifiable behaviors like sleep quality, physical activity and sedentary activities like computer time may promote resilience to fatigue and depressive symptoms during future community stressor events. Further research into these relationships is warranted.",
+    "DOI": "10.1186/s12877-024-05251-3",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on mental health and wellbeing during the COVID-19 pandemic.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the interventions do not directly target job search services, adult training, wage subsidies, or supported employment. The population is older adults during the COVID-19 pandemic, which does not specifically focus on people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on older adults and mental health during the COVID-19 pandemic, which does not align with the specified population of people with mental disorders or documented mental health problems.",
+            "study_design": "Longitudinal study with pre- and mid-pandemic measures",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

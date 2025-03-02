@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3502,
+    "Authors": "Harker, Rachel; Pidgeon, Aileen M.; Klaassen, Frances; King, Steven",
+    "Article Title": "Exploring resilience and mindfulness as preventative factors for psychological distress burnout and secondary traumatic stress among human service professionals",
+    "Abstract": "BACKGROUND: Human service professionals are concerned with the intervention and empowerment of vulnerable social populations. The human service industry is laden with employment-related stressors and emotionally demanding interactions, which can lead to deleterious effects, such as burnout and secondary traumatic stress. Little attention has been given to developing knowledge of what might enable human service workers to persist and thrive. Cultivating and sustaining resilience can buffer the impact of occupational stressors on human service professionals. One of the psychological factors associated with cultivating resilience is mindfulness.OBJECTIVE: The aim of this current research is to improve our understanding of the relationship between resilience, mindfulness, burnout, secondary traumatic stress, and psychological distress among human service professionals.METHODS: The current study surveyed 133 human service professionals working in the fields of psychology, social work, counseling, youth and foster care work to explore the predictive relationship between resilience, mindfulness, and psychological distress.RESULTS: The results showed that higher levels of resilience were a significant predictor of lower levels of psychological distress, burnout and secondary traumatic stress. In addition, higher levels of mindfulness were a significant predictor of lower levels of psychological distress and burnout.CONCLUSIONS: The findings suggest that cultivating resilience and mindfulness in human service professionals may assist in preventing psychological distress burnout and secondary traumatic stress. Limitations of this study are discussed together with implications for future research.",
+    "DOI": "10.3233/WOR-162311",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment policies or interventions directly related to employment outcomes. It focuses on resilience and mindfulness as preventative factors for psychological distress among human service professionals.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders but human service professionals. The intervention does not directly address employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

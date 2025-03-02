@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2708,
+    "Authors": "Patrick, Megan E.; Rhew, Isaac C.; Duckworth, Jennifer C.; Lewis, Melissa A.; Abdallah, Devon Alisa; Lee, Christine M.",
+    "Article Title": "Patterns of Young Adult Social Roles Transitions Across 24 Months and Subsequent Substance Use and Mental Health",
+    "Abstract": "Young adults experience social role transitions across multiple life domains, and a deeper understanding of the ways in which these simultaneous transition experiences are associated with substance use and mental health will inform targeted interventions for this population. Data from the current study include24 repeated monthly assessments of young adults (N=778; 56% female; age range 18 to 24 at baseline; 60% White, 18% Asian, 12% Multiracial, 5% Black or African American, 1% American Indian, 1% Pacific Islander, 3% Other, 9% Latinx) and outcomes 6 months later. Monthly assessments across 2 years were used to identify latent classes of frequency of social role transitions in four key domains (education, residential, employment, and romantic relationships) and associations between these classes and later outcomes. Three classes of social role transitions were identified: Infrequent Transitions (30.4%), Transitions except in Relationships (38.5%), and Frequent Transitions (31.1%). Compared to the Infrequent Transitions class, the other classes had greater typical drinking and hazardous alcohol use six months later; the Frequent Transitions class also had more hazardous cannabis use, depressive symptoms, and anxiety symptoms. Young adults experiencing frequent transitions across multiple domains appear to be at risk for substance use and mental health problems and may benefit from targeted intervention to address substance use and mental health issues.",
+    "DOI": "10.1007/s10964-019-01134-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on social role transitions and their associations with substance use and mental health.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on social role transitions across multiple life domains and their association with substance use and mental health.",
+            "study_design": "Cross-sectional with repeated monthly assessments over two years",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on social role transitions and their association with substance use and mental health in young adults, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal study with repeated monthly assessments",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

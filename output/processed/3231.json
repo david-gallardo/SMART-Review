@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3231,
+    "Authors": "Carvalho, Silvia; Rei, Patricia; Moniz, Xenia; Santos, Ana Paula; Tavares, Marcio; Tavares, Patricia",
+    "Article Title": "Factors in the interruption of exclusive breastfeeding: A scoping review",
+    "Abstract": "Background : Exclusive breastfeeding is crucial for infant health and development, but many factors can lead to its early cessation. Understanding these factors is essential for developing effective interventions. Objective: To identify and categorize the factors influencing the early cessation of exclusive breastfeeding before six months of age. Methods: This scoping review utilized the EbscoHost database aggregator. Articles published between 2020 and 2023, available in full English, Portuguese, and Spanish text, were selected. The search was conducted using DeCS/MeSH vocabulary to obtain synonyms and Boolean operators, with article screening and selection independently performed by three reviewers using the Rayyan tool. Results : Seven studies were included in the review. Maternal factors such as being a first-time mother, low educational level, negative attitudes toward childbirth, and lack of intention to breastfeed increase the likelihood of early breastfeeding cessation. Maternal anxiety and depression negatively impact breastfeeding self-efficacy. Early introduction of solid foods and formula, as well as the use of pacifiers and bottle nipples, are associated with a shorter duration of breastfeeding. Cesarean deliveries and negative attitudes toward childbirth also negatively impact breastfeeding success. Conclusions : This review highlights the need for prenatal education and counseling programs, workplace support policies, mental health interventions, and protection for women in situations of domestic violence. Additionally, it recommends practices such as immediate skin-to-skin contact and continuous breastfeeding support, as per WHO and UNICEF guidelines, to improve exclusive breastfeeding rates.",
+    "DOI": "10.31211/rpics.2024.10.1.327",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on factors influencing the early cessation of exclusive breastfeeding.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. The intervention and population criteria are also not met as it focuses on factors influencing exclusive breastfeeding rather than employment policies for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on factors influencing the early cessation of exclusive breastfeeding, which is not related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. The population and intervention do not meet the inclusion criteria.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

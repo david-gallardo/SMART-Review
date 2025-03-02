@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2641,
+    "Authors": "Madsen, Ida E. H.; Jorgensen, Anette F. B.; Borritz, Marianne; Nielsen, Martin L.; Rugulies, Reiner",
+    "Article Title": "Is the association between high strain work and depressive symptoms modified by private life social support: a cohort study of 1,074 Danish employees?",
+    "Abstract": "Background: Previous studies have shown that psychosocial working conditions characterized by high psychological demands and low decision latitude (i.e., high strain work) are associated with increased risk of depressive symptoms. Little is known, however, concerning how this association may be modified by factors outside the working environment. This article examines the modifying role of private life social support in the relation between high strain work and the development of severe depressive symptoms.Methods: Data were questionnaire-based, collected from a cross-occupational sample of 1,074 Danish employees. At baseline, all participants were free of severe depressive symptoms, measured by the Mental Health Inventory. High strain work was defined by the combination of high psychological demands at work and low control, measured with multi-dimensional scales. Private life social support was operationalized as the number of life domains with confidants and dichotomized as low (0-1 domains) or high (2 or more domains). Using logistic regression we examined the risk of onset of severe depressive symptoms, adjusting for sex, age, occupational position, and prior depressive symptoms.Results: Separately, neither high strain work nor low private life social support statistically significantly predicted depressive symptoms. However, participants with joint exposure to high strain work and low private life social support had an Odds ratio (OR) for severe depressive symptoms of 3.41 (95% CI: 1.36-8.58), compared to participants with no work strain and high private life social support. There was no increased risk for participants with high strain work and high private life social support (OR = 1.32, 95% CI: 0.65-2.68). The interaction term for departure from additivity was, however, not statistically significant (p = 0.18).Conclusions: Our findings suggest that high strain work may increase risk of depressive symptoms in individuals with low private life social support, although the effect-modification was statistically non-significant. Larger studies are needed to further establish the role of private life social support in the relation between high strain work and depression.",
+    "DOI": "10.1186/1471-2458-14-698",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cohort study with a control group, meeting the inclusion criteria for study design. The study is set in EU countries (Denmark), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "cohort study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cohort study without a control group, does not address employment interventions, and the population is not specified to include individuals with mental health disorders.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

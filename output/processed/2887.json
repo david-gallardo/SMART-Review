@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2887,
+    "Authors": "Gale, Sara; Mordukhovich, Irina; Newlan, Sami; McNeely, Eileen",
+    "Article Title": "The Impact of Workplace Harassment on Health in a Working Cohort",
+    "Abstract": "Background: Workplace abuse, including sexual harassment, is frequently experienced worldwide and is related to adverse mental health outcomes, and injuries. Flight attendants are an understudied occupational group and are susceptible to harassment due to working in a feminized, client-facing occupation with few protections or sanctioned responses against aggressive behaviors.Objective: We investigated the relationship between workplace abuse and health in a cohort of cabin crew. We also aimed to characterize perpetrator profiles.Methods: We conducted our study among 4,459 U.S. and Canada-based participants from the Harvard Flight Attendant Health Study using multivariate logistic regression. Our exposures of interest were episodes of workplace abuse in the past year. We evaluated several mental and physical health outcomes, including depression, fatigue, musculoskeletal injuries, and general workplace injuries.Results: We report that exposures to verbal abuse, sexual harassment, and sexual assault are common among cabin crew, with 63, 26, and 2% of respondents, respectively, reporting harassment in the past year alone. Workplace abuse was associated with depression, sleep disturbances, and musculoskeletal injuries among male and female crew, with a trend toward increasing odds ratios (ORs) given a higher frequency of events. For example, sexual harassment was related to an increased odds for depression (OR = 1.91, 95% confidence interval [CI]: 1.51-2.30), which increased in a dose response-like manner among women reporting harassment once (OR = 1.44, 95% CI: 0.93-1.95), 2-3 times (OR = 1.83, 95% CI: 1.29-2.38), and 4 or more times (OR = 4.12, 95% CI: 3.18-5.06). We found that passengers were the primary perpetrators of abuse.Conclusions: Our study is the first to comprehensively characterize workplace abuse and harassment and its relation to health in a largely female customer-facing workforce. The strong associations with health outcomes observed in our study highlights the question of how workplace policies can be altered to mitigate prevalent abuses. Clinicians could also consider how jobs with high emotional labor demands may predispose people to adverse health outcomes, educate patients regarding their psychological/physical responses and coping strategies, and be aware of signs of distress in patients working in such occupations in order to direct them to the appropriate treatments and therapies.",
+    "DOI": "10.3389/fpsyg.2019.01181",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on the relationship between workplace abuse and health outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes. It focuses on the impact of workplace harassment on health in flight attendants.",
+            "study_design": "Cross-sectional survey using multivariate logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

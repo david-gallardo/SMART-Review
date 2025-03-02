@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2398,
+    "Authors": "Ziersch, Anna M.; Baum, Fran; Woodman, Richard J.; Newman, Lareen; Jolley, Gwyn",
+    "Article Title": "A Longitudinal Study of the Mental Health Impacts of Job Loss The Role of Socioeconomic, Sociodemographic, and Social Capital Factors",
+    "Abstract": "Objectives: To examine the role of socioeconomic, sociodemographic, and social capital factors in buffering or exacerbating the mental health impacts of job loss. Methods: A 2-year longitudinal cohort study of 300 workers experiencing job loss from a motoring manufacturer in Adelaide, South Australia. Data were collected on mental health (12-item version of the General Health Questionnaire) and socioeconomic, sociodemographic, and social capital factors. Analysis used linear mixed-effects regression. Results: Workers had poorer mental health than the general population. Female gender, less years at the plant, and not being partnered were associated with poorer mental health. The effects of financial status depended on current employment and levels of social support. Trust and social contact were associated with better mental health. Conclusion: A number of socioeconomic, sociodemographic, and social capital factors influence mental health in workers experiencing job loss, offering clues on how to support workers.",
+    "DOI": "10.1097/JOM.0000000000000193",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a 2-year longitudinal cohort study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and outcomes. It focuses on the mental health impacts of job loss rather than evaluating interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of job loss on mental health in general.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group for evaluating the effectiveness of active employment policies.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3195,
+    "Authors": "Al-Adhami, Maissa; Berglund, Erik; Wangdahl, Josefin; Salari, Raziye",
+    "Article Title": "A cross-sectional study of health and well-being among newly settled refugee migrants in Sweden-The role of health literacy, social support and self-efficacy",
+    "Abstract": "Structural barriers such as inadequate housing, lack of employment opportunities, and discrimination are known to adversely affect the health of newly settled refugee migrants. However, these barriers remain largely unresolved and unaddressed. Thus, there is a need to better understand how other factors, such as individual-level health resources, may influence health and mitigate ill health in the early post-migration phase. In this study, we aimed to explore the relationship between health outcomes and individual health resources including health literacy, social support, and self-efficacy in newly settled refugee migrants. Survey data was collected from 787 refugee migrants in Sweden. Logistical regression analysis showed that limited health literacy, lack of emotional support, and low self-efficacy were consistently associated with poor health outcomes. Demographic variables such as gender, education, and type of residence permit were not as imperative. Individual-level health resources may play an important role in the general and psychological well-being of newly settled migrants. Promoting health literacy and facilitating the attainment of social support may buffer for structural challenges in the establishment phase and enhance the prospects of later health and social integration.",
+    "DOI": "10.1371/journal.pone.0279397",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on health outcomes and individual-level health resources.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional rather than a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for intervention (focuses on health resources rather than employment services), population (refugee migrants rather than people with mental disorders), and outcomes (health and well-being rather than employment or labor outcomes).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on newly settled refugee migrants in Sweden and does not specifically address people with mental health disorders or documented mental health problems as required by the inclusion criteria.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

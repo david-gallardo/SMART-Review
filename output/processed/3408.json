@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3408,
+    "Authors": "Hinzmann, Dominik; Forster, Andrea; Koll-Kruesmann, Marion; Schiessl, Andreas; Schneider, Frederick; Sigl-Erkel, Tanja; Igl, Andreas; Heininger, Susanne Katharina",
+    "Article Title": "Calling for Help-Peer-Based Psychosocial Support for Medical Staff by Telephone-A Best Practice Example from Germany",
+    "Abstract": "Background: A telephone support hotline (PSU-HELPLINE) was established at the beginning of the pandemic due to the burden on health professionals and the lack of support at the workplace. The aim of this study was to evaluate the telephone support service for health professionals in terms of its burden, benefits, and mechanisms of action. Methods: Data collection was conducted during and after calls by PSU-HELPLINE counsellors. In addition to the socio-demographic data evaluation, burdens of the callers and the benefits of the calls were collected. The content-analytical evaluation of the stresses as well as the effect factors were based on Mayring's (2022). Results: Most of the callers were highly to very highly stressed. The usefulness of the conversation was rated as strong to very strong by both callers and counsellors. The PSU-HELPLINE was used primarily for processing serious events and in phases of overload. The support work was carried out through the following aspects of so-called effect factors, among others: psychoeducation, change of perspective, resource activation, problem actualization, connectedness, information, problem solving, self-efficacy, and preservation of resources. Conclusions: The expansion of local peer support structures and the possibility of a telephone helpline are recommended. Further research is needed.",
+    "DOI": "10.3390/ijerph192315453",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Non-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention (peer-based psychosocial support) is not directly related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey/evaluation of a telephone support service",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2558,
+    "Authors": "Li, Andrew; Shaffer, Jonathan; Bagger, Jessica",
+    "Article Title": "The Psychological Well-Being of Disability Caregivers: Examining the Roles of Family Strain, Family-to-Work Conflict, and Perceived Supervisor Support",
+    "Abstract": "We draw on the cross-domain model of work-family conflict and conservation of resources theory to examine the relationship between disability caregiving demands and the psychological well-being of employed caregivers. Using a sample of employed disability caregivers from a national survey, we found that the relationship between caregiving demands and family-to-work conflict was stronger when employees experienced high levels of strain from family. Additionally, we found high levels of family to-work conflict were subsequently associated with decreases in life satisfaction and increases in depression, but only when perceived supervisor support was low. Overall, our findings suggest an indirect relationship between caregiving demands and psychological well-being that is mediated by family-to-work conflict and is conditional on family strain and perceived supervisor support. The theoretical and practical implications of these findings are discussed.",
+    "DOI": "10.1037/a0037878",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-domain model and conservation of resources theory, which is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cross-domain model and conservation of resources theory",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes for people with mental health disorders. It focuses on the psychological well-being of employed disability caregivers and their family-to-work conflict.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the psychological well-being of disability caregivers and their work-family conflict, which does not directly address employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Cross-domain study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

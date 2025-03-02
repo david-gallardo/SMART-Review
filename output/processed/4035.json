@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4035,
+    "Authors": "Rosen, Raymond C.; Cikesh, Bryanna; Fang, Shona; Trachtenberg, Felicia L.; Seal, Karen H.; Magnavita, Ashley M.; Bovin, Michelle J.; Green, Jonathan D.; Bliwise, Donald L.; Marx, Brian P.; Keane, Terence M.",
+    "Article Title": "Posttraumatic Stress Disorder Severity and Insomnia-Related Sleep Disturbances: Longitudinal Associations in a Large, Gender-Balanced Cohort of Combat-Exposed Veterans",
+    "Abstract": "Few studies have investigated the range and severity of insomnia-related sleep complaints among veterans with posttraumatic stress disorder (PTSD), and the temporal association between insomnia and PTSD severity has yet to be examined. To examine these associations, a large, gender-balanced cohort of veterans (N = 1,649) of the Iraq and Afghanistan conflicts participated in longitudinal assessments of PTSD and insomnia-related symptoms over a period of 2.5 years following enrollment (range: 2-4 years). Data were obtained from multiple sources, including interviews, self-report assessments, and electronic medical record data. Three-fourths (74.0%) of veterans with PTSD diagnoses at Time 1 (T1) reported insomnia-related sleep difficulties on at least half the nights during the past 30 days, and one-third of participants had received a prescription for a sedative-hypnotic drug in the past year. Veterans without PTSD had fewer sleep problems overall, although the prevalence of sleep problems was high among all study participants. In longitudinal, cross-lagged panel models, the frequency of sleep problems at T1 independently predicted increases in PTSD severity at Time 2 (T2), B = 0.27, p < .001, after controlling for gender and relevant comorbidities. Conversely, T1 PTSD severity was associated with increasing sleep complaints at T2 but to a lesser degree, B = 0.04, p < .001. Moderately high rates of sedative-hypnotic use were seen in veterans with PTSD, with more frequent use in women compared to men (40.4% vs. 35.0%). Sleep complaints were highly prevalent overall and highlight the need for increased clinical focus on this area.",
+    "DOI": "10.1002/jts.22462",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on the relationship between insomnia-related sleep disturbances and PTSD severity.",
+            "study_design": "Longitudinal, cross-lagged panel models (including interviews, self-report assessments, and electronic medical record data)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on insomnia-related sleep disturbances in veterans with PTSD.",
+            "study_design": "Cross-sectional and longitudinal observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

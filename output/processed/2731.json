@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2731,
+    "Authors": "Mendez Rivero, Fabrizio; Padrosa, Eva; Utzet, Mireia; Benach, Joan; Julia, Mireia",
+    "Article Title": "Precarious employment, psychosocial risk factors and poor mental health: A cross-sectional mediation analysis",
+    "Abstract": "Objectives: This study analyzes the mediating effect of psychosocial risk factors at work (i.e. psychological demands, control and social support) (PRFs) in the relationship between precarious employment and mental health among formal salaried men and women from 22 European countries.Methods: Cross-sectional data were derived from IV European Working Conditions Survey (n = 15,932-7,650 men, 8,282 women). Linear regression models and KHB decomposition analyses were applied to estimate the mediating effect and confounding percentages of PRFs.Results: Among men, the association between PE and poor mental health decreased after controlling for PRFs in both PE's terciles, leaving a significant indirect effect (beta(tercile2) = 1.77, 95 %CI: 0.33-3.22; beta(EPREStercil3) = 3.06, 1.04-5.08) (partial mediation effect). Among women, a partial mediation effect was also found in tercile 3 (beta(EPREStercil3) = 3.31, 1.62-5.00), but a full mediation effect was found in tercile 2, since the direct effect was not significant.Conclusions: Gender differences on the PRFs mediating effect were found, which suggest that women's employment and working conditions are more heterogeneous than among men. These differences may be related to the difficulties of women to improve their working and employment conditions within labor markets and workplaces segregated by gender. Future studies should further delve into these gender inequalities in the relationship between precarious employment, PRFs and mental health, to improve OHS policies, especially from a macro-social perspective.",
+    "DOI": "10.1016/j.ssci.2021.105439",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions or policies aimed at employment but rather on the relationship between precarious employment and mental health mediated by psychosocial risk factors. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Cross-sectional mediation analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional mediation analysis",
+            "logprobs": null
+        }
+    }
+}

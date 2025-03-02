@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3585,
+    "Authors": "Mash, Holly B. Herberman; Fullerton, Carol S.; Morganstein, Joshua C.; Liu, Alexander G.; Vance, Mary C.; Wang, Leming; Mullins-Hussain, Britany; Ursano, Robert J.",
+    "Article Title": "Responding to Repeated Disasters: Time to Recovery in Public Health Workers",
+    "Abstract": "Objective: In times of repeated disaster events, including natural disasters and pandemics, public health workers must recover rapidly to respond to subsequent events. Understanding predictors of time to recovery and developing predictive models of time to recovery can aid planning and management. Methods: We examined 681 public health workers (21-72 y, M(standard deviation [SD]) = 48.25(10.15); 79% female) 1 mo before (T1) and 9 mo after (T2) the 2005 hurricane season. Demographics, trauma history, social support, time to recover from previous hurricane season, and predisaster work productivity were assessed at T1. T2 assessed previous disaster work, initial emotional response, and personal hurricane injury/damage. The primary outcome was time to recover from the most recent hurricane event. Results: Multivariate analyses found that less support (T1; odds ratio [OR] = .74[95% confidence interval [CI] = .60-.92]), longer previous recovery time (T1; OR = 5.22[95%CI = 3.01-9.08]), lower predisaster work productivity (T1; OR = 1.98[95%CI = 1.08-3.61]), disaster-related personal injury/damage (T2; OR = 3.08[95%CI = 1.70-5.58]), and initial emotional response (T2; OR = 1.71[95%CI = 1.34-2.19]) were associated with longer recovery time (T2). Conclusions: Recovery time was adversely affected in disaster responders with a history of longer recovery time, personal injury/damage, lower work productivity following prior hurricanes, and initial emotional response, whereas responders with social support had shorter recovery time. Predictors of recovery time should be a focus for disaster preparedness planners.",
+    "DOI": "10.1017/dmp.2022.130",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis with no control group, which does not meet the inclusion criteria.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on public health workers' recovery time from disasters. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional study with pre- and post-measurements",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on public health workers and not specifically on people with mental health disorders. Additionally, the intervention is not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and the population is public health workers rather than people with mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

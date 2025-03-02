@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3363,
+    "Authors": "Kidd, Sean A.; Vitopoulos, Nina; Frederick, Tyler; Leon, Scott; Wang, Wei; Mushquash, Christopher; McKenzie, Kwame",
+    "Article Title": "Trialing the Feasibility of a Critical Time Intervention for Youth Transitioning Out of Homelessness",
+    "Abstract": "Little is known regarding the specific types of service models and collaborations that are necessary to support diverse populations of youth in transition out of homelessness. Transitional supports addressing the complex needs of this population are needed to stabilize the array of housing arrangements that youth access. This study was a pilot randomized controlled trial of one such critical time intervention, called the Housing Outreach Program-Collaboration (HOP-C). HOP-C is a multicomponent, multidisciplinary intervention that provides 6 months of mental health and peer support, along with transitional case management to youth who have transitioned into some form of stable housing out of homelessness. In this trial, 65 youth were randomized to receive HOP-C plus treatment as usual or transitional case management plus treatment as usual. Outcome assessments were completed by 30 treatment and 28 control participants. The findings suggest that this intervention is feasible with mental health, employment or education, and housing metrics favoring HOP-C with odds ratios ranging from 2.28 to 3.18 and better subjective housing stability. Other indicators showed less change. HOP-C appears feasible and should be tested in a fully powered trial, providing the intervention for a duration longer than 6 months. Overall, these data suggest the potential benefit in fostering city-level, multidisciplinary teams sourced from several organizations to support youth transitioning out of homelessness. Pragmatic trial method considerations for this population are also addressed as are the ethical considerations pertinent to engaging highly marginalized youth in clinical trials.",
+    "DOI": "10.1037/ort0000454",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment is not mentioned in the article.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on housing stability rather than employment. The intervention (HOP-C) includes mental health support but the primary outcome measures are related to housing metrics, not employment or labor results.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on youth transitioning out of homelessness, not specifically on people with mental health disorders. The intervention is also not directly related to employment or labor outcomes.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not explicitly people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

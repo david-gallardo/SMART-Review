@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2888,
+    "Authors": "Livermore, Michelle; Powers, Rebecca S.; Lim, Younghee; Davis, Belinda C.",
+    "Article Title": "Predicting Material Hardship Among Former Welfare-to-Work Participants: An Income- and Resource-Packaging Model",
+    "Abstract": "Material hardship is of concern because it refers to physical deprivation related to meeting the basic needs of food, housing, utilities, and other items. This study tests a predictive income- and resource-packaging model of material hardship using survey data collected from 459 former welfare-to-work program participants. Logistic regression results show that receiving social support in the form of living rent-free decreased the odds for experiencing material hardship. The predictors of working in the informal economy, being sanctioned while on public assistance, having mental health issues, and having transportation problems all increased the odds for experiencing material hardship. The measures of formal employment income, Temporary Assistance for Needy Families income, work-first program participation, sharing living expenses, monetary social support, and assistance from nonprofit organizations were unrelated to predicting material hardship experiences. Policymakers interested in improving conditions for needy families should question the use of sanctions and carefully monitor material hardship among those sanctioned. Future programs and future research should consider the extent to which low-income women participate in the informal economy to make ends meet, rely on social networks to live rent-free, and struggle with poor health and transportation problems.",
+    "DOI": "10.1080/01488376.2014.972011",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Logistic regression results",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on predicting material hardship among former welfare-to-work participants using logistic regression.",
+            "study_design": "Cross-sectional survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

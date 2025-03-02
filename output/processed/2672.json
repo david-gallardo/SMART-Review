@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2672,
+    "Authors": "Kwakernaak, Sascha; Swildens, Wilma E.; van Wel, Tom F.; Janssen, Richard T. J. M.",
+    "Article Title": "Symptomatic and Functional Remission in Young Adults with a Psychotic Disorder in a Rehabilitation Focused Team",
+    "Abstract": "The aim of this study is to assess symptomatic remission (SR) and functional remission (FR) in a rehabilitation focused program for young adults with a psychotic disorder in the Netherlands, and to investigate which individual and mental health care factors are associated with SR and/or FR, by using Routine Outcome Monitoring data and data on met needs and unmet needs for care. Data of 287 young adults were collected. Almost 40% achieved or maintained SR, 34% FR, and 26% achieved or maintained both. In addition to sociodemographic factors, living independently, paid employment, higher levels of compliance with treatment, and better fulfillment of unmet needs for care in relation to psychological distress, company and daytime activities were associated with better outcomes on SR and/or FR. Our findings underscore that to successfully improve and sustain remission in young adults with a psychotic disorder, it is needed to conduct specific research into the relationship between SR and FR.",
+    "DOI": "10.1007/s10597-019-00512-7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU country of the Netherlands, within the specified timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders, and the outcomes include employment or labor outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on symptomatic and functional remission in young adults with psychotic disorders.",
+            "study_design": "Observational study using Routine Outcome Monitoring data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young adults with a psychotic disorder in the Netherlands and does not specifically address employment interventions or outcomes for people with mental health disorders in the context of active employment policies.",
+            "study_design": "Routine Outcome Monitoring study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

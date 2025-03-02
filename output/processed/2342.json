@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2342,
+    "Authors": "Katona, Cintia; Biro, Eva; Vincze, Szilvia; Kosa, Karolina",
+    "Article Title": "On-the-job vocational training of nonprofessional ethnic health workers of a primary health care team improves their sense of coherence",
+    "Abstract": "Objectives A Primary Care Model Programme had been implemented in Hungary between 2013 and 2017 in which group practices were established that employed-among others-nonprofessional health workers (health mediators, similar to community health workers) to facilitate access for the most disadvantaged population groups. The health of mediators, themselves mostly disadvantaged ethnic Roma, was monitored every odd year of the Programme. Methods A repeated cross-sectional health interview survey had been implemented inviting all health mediators who were employed at the time of the survey. The same questionnaire was used in all 3 surveys with items from the European Health Interview Survey 2009 and validated versions of other scales. Results Positive changes occurred in the health status of mediators during 5 years of follow-up. Significant improvement in mental health occurred among those who completed on-the-job vocational training. By 2017, significant increase in sense of coherence was observed among those who obtained vocational qualification as opposed to those who did not. The proportion of highly stressed mediators showed a significant increase among those with no vocational training. Improvement was detected in all mediators in health awareness, dysfunctional attitudes, psychological stress and smoking prevalence. Conclusions Significant improvement in mental status among those who obtained on-the-job vocational qualification were observed during follow-up of ethnic Roma health mediators in the programme in which they were equal members of the primary health care team. Employment of health mediators in primary care teams not only contributed to improving access to care for disadvantaged groups, but also improved the mental health of mediators themselves.",
+    "DOI": "10.1186/s12960-021-00690-0",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a repeated cross-sectional health interview survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Repeated Cross-Sectional Health Interview Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The intervention focuses on vocational training rather than employment services or policies directly addressing job search services, adult training, wage subsidies, or supported employment. Additionally, while it addresses mental health outcomes, it does not specifically focus on employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on health mediators in Hungary and does not specifically address employment policies for people with mental health disorders in the EU or other specified regions.",
+            "study_design": "Repeated cross-sectional health interview survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Repeated cross-sectional health interview survey",
+            "logprobs": null
+        }
+    }
+}

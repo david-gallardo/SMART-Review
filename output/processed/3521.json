@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3521,
+    "Authors": "Foynes, Melissa M.; Smith, Brian N.; Shipherd, Jillian C.",
+    "Article Title": "Associations Between Race-based and Sex-based Discrimination, Health, and Functioning A Longitudinal Study of Marines",
+    "Abstract": "Background: Only a few studies have examined race-based discrimination (RBD) and sex-based discrimination (SBD) in military samples and all are cross-sectional.Objectives: The current study examined associations between both RBD and SBD experienced during Marine recruit training and several health and functioning outcomes 11 years later in a racially/ethnically diverse sample of men and women.Research Design: Linear multiple regression models were used to examine associations between sex, race/ethnicity, RBD and SBD, and later outcomes (physical health, self-esteem, and occupational/vocational functioning), accounting for baseline levels and covariates.Subjects: Data were drawn from a larger longitudinal investigation of US Marine Corps recruits. The sample (N = 471) was comprised of white men (34.6%), white women (37.6%), racial/ethnic minority men (12.7%), and racial/ethnic minority women (15.1%).Measures: Self-report measures of sex and race (T1), RBD and SBD (T2), social support (T2), mental health (T2), physical health (T2 and T5), self-esteem (T2 and T5), and occupational/vocational functioning (T5) were included.Results: Over a decade later, experiences of RBD were negatively associated with physical health and self-esteem. Social support was the strongest predictor of occupational/vocational functioning. Effects of sex, SBD, and minority status were not significant in regressions after accounting for other variables.Conclusions: Health care providers can play a key role in tailoring care to the needs of these important subpopulations of veterans by assessing and acknowledging experiences of discrimination and remaining aware of the potential negative associations between discrimination and health and functioning above and beyond the contributions of sex and race/ethnicity.",
+    "DOI": "10.1097/MLR.0000000000000300",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead examines associations between discrimination and health and functioning.",
+            "study_design": "Linear multiple regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the associations between discrimination and health/functional outcomes in military veterans.",
+            "study_design": "Longitudinal Study with Linear Multiple Regression Models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also lacks a control group and does not directly address employment outcomes.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

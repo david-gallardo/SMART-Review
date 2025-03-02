@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3805,
+    "Authors": "Durak, Vahide Aslihan; Gunay, Seyda; Sigirli, Deniz; Akova, Bedrettin; Armagan, Erol",
+    "Article Title": "COVID-19 Pandemic and Anxiety Related Factors in Patients Treated in the Emergency Department",
+    "Abstract": "Aims: A novel coronavirus, now known as SARS-CoV-2019, suddenly emerged in Wuhan, China and within threemonths of the initial outbreak, the virus had spread rapidly to neighboring countries causing a pandemic. After the first case was announced, emergency departments were immediately reorganized as pandemic clinics. Special areas with maximum precautions were designed to evaluate patients. The majority of studies on this pandemic have focused on the treatment of respiratory symptoms and comorbidities in intensive care units. In this study, we sought to determine those factors that contributed to the anxiety level during the COVID-19 pandemic using the 'State' subscale of State-Trait Anxiety Inventory (STAI-S). Methods: A survey was performed in the emergency department by using an online questionnaire which consisted of demographic variables, questions about the opinions and behaviors of patients during the pandemic, diagnostic test results for COVID-19, and treatment methods. Results: There was a statistically significant difference between employment status (p < 0.001), monthly income (p < 0.001), the food consumption changes during the pandemic period (p = 0.001) and the estimated end-date for the COVID-19 pandemic (p < 0.001) and total STAI-S points. Conclusions: Our study has identified factors which significantly increase anxiety during the COVID-19 pandemic and identified those individuals who may benefit from psychiatric and social support.",
+    "DOI": "10.22514/sv.2020.16.0051",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines anxiety levels during the COVID-19 pandemic and its factors, but it does not address employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on anxiety levels related to the COVID-19 pandemic in patients treated in emergency departments.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on anxiety levels in patients treated in the emergency department during the COVID-19 pandemic, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not evaluate an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

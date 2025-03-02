@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2743,
+    "Authors": "Morozov, Petr Victorovich",
+    "Article Title": "Mental health and urbanization: a Russian perspective",
+    "Abstract": "Purpose of reviewDespite being a pressing problem, the influence of urbanization on mental health is still underestimated in Russia. Although few studies on the topic in recent years were available, viewpoints of the expert community in Russia will be presented. Intensive urbanization impacts on the living conditions of the majority of the country's population being associated with mass migration of the population, a change in the structure of employment, the restructuring of family relations, and the need to adapt to unaccustomed living conditions.Recent findingModern urbanization can adversely affect mental health due to stressful factors related to overpopulation, environmental contamination, poverty, violence, and lack of social support.SummaryThe main factors that directly affect mental health in Russia are consequences of urbanization such as: alcoholism and tobacco smoking;internet-dependence and sleep disturbances;anxiety and phobias;noise and visual aggressiveness of the environment.The society and the Government are taking a number of measures to prevent the consequences of urbanization (restrictions in the consumption of alcohol and tobacco, mass green plantations, a ban on noise in the evening, closure of landfills, etc.).",
+    "DOI": "10.1097/YCO.0000000000000415",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not directly address employment or labor outcomes, and it lacks a control group.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria due to its geographic scope being outside Europe, US, Canada, Australia (it focuses on Russia). Additionally, it lacks a rigorous evaluation design and control group as it is based on expert viewpoints rather than empirical data from controlled studies.",
+            "study_design": "Expert opinion",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Russia is not included)",
+            "study_design": "Review",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2478,
+    "Authors": "Ots, Patricia; Hengel, Karen M. Oude; Burdorf, Alex; Robroek, Suzan J. W.; Nieboer, Daan; Schram, Jolinda L. D.; van Zon, Sander K. R.; Brouwer, Sandra",
+    "Article Title": "Development and validation of a prediction model for unemployment and work disability among 55 950 Dutch workers",
+    "Abstract": "Background This study developed prediction models for involuntary exit from paid employment through unemployment and disability benefits and examined if predictors and discriminative ability of these models differ between five common chronic diseases. Methods Data from workers in the Lifelines Cohort Study (n = 55 950) were enriched with monthly information on employment status from Statistics Netherlands. Potential predictors included sociodemographic factors, chronic diseases, unhealthy behaviours and working conditions. Data were analyzed using cause-specific Cox regression analyses. Models were evaluated with the C-index and the positive and negative predictive values (PPV and NPV, respectively). The developed models were externally validated using data from the Study on Transitions in Employment, Ability and Motivation. Results Being female, low education, depression, smoking, obesity, low development possibilities and low social support were predictors of unemployment and disability. Low meaning of work and low physical activity increased the risk for unemployment, while all chronic diseases increased the risk of disability benefits. The discriminative ability of the models of the development and validation cohort were low for unemployment (c = 0.62; c = 0.60) and disability benefits (c = 0.68; c = 0.75). After stratification for specific chronic diseases, the discriminative ability of models predicting disability benefits improved for cardiovascular disease (c = 0.81), chronic obstructive pulmonary disease (c = 0.74) and diabetes mellitus type 2 (c = 0.74). The PPV was low while the NPV was high for all models. Conclusion Taking workers' particular disease into account may contribute to an improved prediction of disability benefits, yet risk factors are better examined at the population level rather than at the individual level.",
+    "DOI": "10.1093/eurpub/ckac045",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cause-specific Cox regression analysis, which meets the inclusion criteria. The study is also externally validated using data from the Study on Transitions in Employment, Ability and Motivation, which meets the inclusion criteria. The population is workers with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "cause-specific Cox regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Cohort Study with external validation using another cohort",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and disability benefits in the general population, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Cohort study with Cox regression analyses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

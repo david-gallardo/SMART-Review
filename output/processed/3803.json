@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3803,
+    "Authors": "Boskma, Amber; Braak, Kim; Demenaga, Kiki; Idema, Demy; Hooft, Lotty; Wietasch, Gotz; Franx, Arie; van der Laan, Maarten J.",
+    "Article Title": "Prioritising nurses' and doctors' health at work: a scoping review of monitoring instruments",
+    "Abstract": "Objective Nurses' and doctors' health at work is crucial for their overall performance and the quality of care they provide. The Jobs Demands Resources (JD- R) model offers a framework for health at work, encompassing 'job demands', 'job resources', 'personal resources', 'leadership', 'well- being' and 'outcomes'. While various instruments exist to measure health, an overview of instruments specifically designed for assessing nurses and doctors health is currently missing. This study provides a comprehensive overview of available health instruments specifically developed and validated for healthcare professionals in hospital care.Design Scoping review.Data sources MEDLINE, Embase and CINAHL.Eligibility criteria Studies assessing the health of nurses and/or doctors in hospitals using or evaluating instruments based on the JD- R model, published between January 2011 and January 2024, excluding student- exclusive samples.Data extraction and synthesis We extracted data on study and sample characteristics, as well as details of the measurement instruments, including main and subconstructs. Instruments were categorised based on the JD- R model domains. Descriptive analysis and data visualisation were performed using Excel and Python.Results We included 1204 studies, reporting 986 unique instruments. We identified 32 comprehensive instruments suitable for broad health screening, measuring four or more of the JD- R model domains. Additionally, we identified instruments focusing on specific domains for targeted screening needs. Furthermore, we present frequently reported instruments assumed to be extensively evaluated, user- friendly, accessible and available in multiple languages.Conclusions Health at work cannot be determined by a single instrument alone, underscoring the multidimensional nature of workplace health. Alternatively, organisations should select instruments based on domains most relevant and applicable to their context. This approach ensures a more comprehensive assessment of health at work.",
+    "DOI": "10.1136/bmjopen-2023-079861",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study assesses health instruments for nurses and doctors in hospitals, which is outside the scope of the review.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review and does not include controlled trials, RCTs, or quasi-experimental studies with control groups. It also lacks employment or labor outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on health at work for nurses and doctors using the JD-R model, which does not align with the specified interventions in the inclusion criteria.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is healthcare professionals (nurses and doctors), not people with mental disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

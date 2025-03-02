@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3024,
+    "Authors": "Johar, Meliyanni; Johnston, David W.; Shields, Michael A.; Siminski, Peter; Stavrunova, Olena",
+    "Article Title": "The economic impacts of direct natural disaster exposure",
+    "Abstract": "We estimate the economic impacts of having your home damaged or destroyed by a natural disaster. Regressions with individual, area and time fixed-effects, indicate that experiencing a natural disaster has no impact on employment and income, but substantial impacts on financial hardship and risk aversion. Impacts are particularly large for smaller isolated disasters, which attract little government support. Conversely, impacts of residing in a disaster zone without experiencing residential destruction are small. Using a Group Fixed Effects estimator, we find predictors of financial vulnerability to destruction include age, parenthood, illness, and social support. These results can help improve the allocation of government assistance after future disasters.(c) 2022 Elsevier B.V. All rights reserved.",
+    "DOI": "10.1016/j.jebo.2022.01.023",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the economic impacts of natural disaster exposure on employment and income.",
+            "study_design": "Regression analysis with fixed-effects",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the economic impacts of natural disasters on employment and income.",
+            "study_design": "Cross-sectional analysis with fixed-effects regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the economic impacts of natural disasters on homeowners and does not meet the inclusion criteria for interventions related to employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Regression analysis with individual, area, and time fixed-effects.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not address the specified interventions.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

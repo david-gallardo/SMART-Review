@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3052,
+    "Authors": "Carlier, B. E.; Schuring, M.; van Lenthe, F. J.; Burdorf, A.",
+    "Article Title": "Influence of Health on Job-Search Behavior and Re-employment: The Role of Job-Search Cognitions and Coping Resources",
+    "Abstract": "Purpose To investigate the influence of poor health on job-search behavior and re-employment, and the mediating role of job-search cognitions and coping resources. Methods A prospective study was conducted among unemployed persons receiving social security benefits in the Netherlands (n = 510). Self-rated health, self-esteem, mastery, job-search cognitions, and the intention to search for a job were measured at baseline. Logistic regression analysis was used to investigate determinants of job-search behavior during a follow-up period of 6 months. Cox proportional hazards analysis was used to investigate the influence of health, job-search cognitions and coping resources on re-employment during a mean follow-up period of 23 months. Results Persons with poor health were less likely to search for paid employment (OR 0.58, 95 % CI 0.39-0.85) and were also less likely to find paid employment (HR 0.58, 95 % CI 0.39-0.89). Persons with a positive attitude toward job-search, high perceived social pressure to look for a job, high job-search self-efficacy and high job-search intention were more likely to search actively and also to actually find paid employment. Adjustment for job-search cognitions and coping reduced the influence of health on active search behavior by 50 % and on re-employment by 33 %. Conclusions Health-related differences in job-search behavior and re-employment can be partly explained by differences in coping, job-search attitude, self-efficacy, and subjective norms towards job-search behavior. Measures to reduce the negative impact of poor health on re-employment should address the interplay of health with job-search cognitions and coping resources.",
+    "DOI": "10.1007/s10926-014-9499-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a prospective study with a control group, meeting the inclusion criteria for study design. The study is conducted among unemployed persons in the Netherlands, meeting the inclusion criteria for geographic scope. The study timeframe is between 2005 and 2025, meeting the inclusion criteria for timeframe. The intervention is job search services, meeting the inclusion criteria for intervention. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The study presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Prospective study with logistic regression analysis and Cox proportional hazards analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prospective study without a control group, and it does not directly address employment interventions. The intervention criteria are not met.",
+            "study_design": "Prospective Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

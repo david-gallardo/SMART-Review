@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2657,
+    "Authors": "Bolibar, Mireia; Belvis, Francesc Xavier; Jodar, Pere; Vives, Alejandra; Mendez, Fabrizio; Bartoll-Roca, Xavier; Pozo, Oscar J.; Gomez-Gomez, Alex; Padrosa, Eva; Benach, Joan; Julia, Mireia",
+    "Article Title": "Precarious Employment and Stress: The Biomedical Embodiment of Social Factors. PRESSED Project Study Protocol",
+    "Abstract": "The PRESSED project aims to explain the links between a multidimensional measure of precarious employment and stress and health. Studies on social epidemiology have found a clear positive association between precarious employment and health, but the pathways and mechanisms to explain such a relationship are not well-understood. This project aims to fill this gap from an interdisciplinary perspective, integrating the social and biomedical standpoints to comprehensively address the complex web of consequences of precarious employment and its effects on workers' stress, health and well-being, including health inequalities. The project objectives are: (1) to analyze the association between multidimensional precarious employment and chronic stress among salaried workers in Barcelona, measured both subjectively and using biological indicators; (2) to improve our understanding of the pathways and mechanisms linking precarious employment with stress, health and well-being; and (3) to analyze health inequalities by gender, social class and place of origin for the first two objectives. The study follows a sequential mixed design. First, secondary data from the 2017 Survey on Workers and the Unemployed of Barcelona is analyzed (N = 1,264), yielding a social map of precarious employment in Barcelona that allows the contextualization of the scope and characteristics of this phenomenon. Drawing on these results, a second survey on a smaller sample (N = 255) on precarious employment, social precariousness and stress is envisaged. This study population is also asked to provide a hair sample to have their levels of cortisol and its related components, biomarkers of chronic stress, analyzed. Third, a sub-sample of the latter survey (n = 25) is selected to perform qualitative semi-structured interviews. This allows going into greater depth into how and why the experience of uncertainty, the precarization of living conditions, and the degradation of working conditions go hand-in-hand with precarious employment and have an impact on stress, as well as to explore the potential role of social support networks in mitigating these effects.",
+    "DOI": "10.3389/fpubh.2021.649447",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a sequential mixed design, which does not meet the inclusion criteria of a systematic review or meta-analysis.",
+            "study_design": "Sequential mixed design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It focuses on precarious employment and stress in salaried workers in Barcelona.",
+            "study_design": "Sequential mixed methods (secondary data analysis, survey, qualitative interviews)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on precarious employment and stress without directly addressing the interventions mentioned in the inclusion criteria.",
+            "study_design": "mixed design",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Mixed methods (sequential mixed design)",
+            "logprobs": null
+        }
+    }
+}

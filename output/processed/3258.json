@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3258,
+    "Authors": "Sperlich, Stefanie; Adler, Frauke-Marie; Beller, Johannes; Safieddine, Batoul; Tetzlaff, Juliane; Tetzlaff, Fabian; Geyer, Siegfried",
+    "Article Title": "Getting Better or Getting Worse? A Population-Based Study on Trends in Self-Rated Health among Single Mothers in Germany between 1994 and 2018",
+    "Abstract": "Background: While numerous studies suggest that single motherhood is associated with socioeconomic disadvantages and poor health, few studies have analyzed how these conditions have evolved over time. Addressing this gap, we examined the temporal development of self-rated health (SRH) among single compared to partnered mothers, and the role of socioeconomic factors that may have influenced this trend. Methods: We used representative longitudinal data from the German Socioeconomic Panel Survey (G-SOEP) between 1994 and 2018, consisting of 83,843 women with children, aged 30-49 years (13,664 single and 70,179 partnered mothers). Time trends in SRH and socioeconomic factors were analyzed by means of logistic regression analyses. We applied the Karlson-Holm-Breen (KHB) method for decomposing the total time effect into direct and indirect parts via socioeconomic mediators. Results: The predicted probabilities of good SRH decreased in single mothers from 57.0% to 48.4%, while they increased in partnered mothers from 54.8% to 61.3%. Similarly, predicted probabilities of poor SRH rose from 15.0% to 22.7% in single mothers while decreasing slightly from 12.0% to 11.4% in partnered mothers. Moreover, socioeconomic factors worsened over time for single mothers, while they mostly improved for partnered mothers. Decomposing the time trend revealed that the deterioration of single mothers' health was partly explained by the worsening of socioeconomic disadvantages, of which the decline in full-time employment, the rise in low incomes, and in unemployment contributed most. Conclusions: The alarming rise in socioeconomic and health disadvantages among single mothers in Germany shows that action is needed to counter this trend.",
+    "DOI": "10.3390/ijerph19052727",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a population-based study with logistic regression analyses.",
+            "study_design": "Population-based study with logistic regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on self-rated health trends among single mothers in Germany. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal analysis using logistic regression with the Karlson-Holm-Breen method",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on self-rated health among single mothers in Germany and does not meet the intervention criteria specified in the inclusion criteria, which require studies on job search services, adult training, wage subsidies, or supported employment interventions for people with mental health disorders.",
+            "study_design": "Population-based longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not address employment interventions.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3245,
+    "Authors": "Navajas-Romero, Virginia; Ariza-Montes, Antonio; Hernandez-Perlines, Felipe",
+    "Article Title": "Analyzing the Job Demands-Control-Support Model in Work-Life Balance: A Study among Nurses in the European Context",
+    "Abstract": "The balance of personal life with professional life is a topical issue that is increasingly worrisome due to globalization, the rapid introduction of new technologies into all areas of human life, the overlap between time between work and family, new organizational systems, and changes in the nature of work. This problem is accentuated by professions subjected to intense labor demands, as is the case of nurses. Adopting the Job Demand-Control-Support model, the main purpose of this research is to analyze how these factors lead to a greater or lesser degree of work-life balance. The research proposes a logistic regression model, which was constructed with a sample of 991 nursing professionals from the V European Working Conditions Survey. The results obtained confirm, on the one hand, that there is a significant effect of physical demands (but not psychological demands) on work-life balance. On the other hand, the moderating effects of job control are partially confirmed for psychological demands, and those of supervisor support (but not co-worker support) are partially confirmed for physical demands. In conclusion, the present research shows that effective management of nurses' work context can decisively contribute to finding the difficult balance between personal and professional time.",
+    "DOI": "10.3390/ijerph17082847",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a logistic regression model, but it lacks a control group.",
+            "study_design": "logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the Job Demand-Control-Support model in relation to work-life balance among nurses.",
+            "study_design": "Cross-sectional survey using logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work-life balance in nurses and does not directly address employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

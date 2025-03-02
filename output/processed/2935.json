@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2935,
+    "Authors": "Clark, Kelly A.",
+    "Article Title": "Unemployed at Midlife: Coping Strategies that Safeguard Well-Being",
+    "Abstract": "There is extensive research on the theory of unemployment which posits that job loss and longer-term unemployment have a profound and detrimental effect on well-being. The impacts are severe, and the stakes are higher, for older adults who experience longer durations of unemployment and have less time to recover from financial losses. Despite widespread research, less is known about the multi-faceted phenomenon of coping with long-term job loss at midlife. This study identifies new aspects of complementary coping strategies used by the midlife, long-term unemployed to safeguard their well-being. Qualitative data were collected from a sample of long-term unemployed age 47-59 from the Workforce Investment Act dislocated worker program (N = 16) who reported positive well-being on the General Health Questionnaire (GHQ-12). Structured interview questions generated detailed data on coping strategies. Data were analyzed using MAXQDA10 software. Key coping strategies associated with positive well-being included productive use of time on meaningful activities, conserving financial resources, social supports, and cognitive maneuvers. These findings suggest that employing certain behavioral coping strategies together safeguards subjective well-being during long-term unemployment and enables midlife individuals to remain active in their job search.",
+    "DOI": "10.1007/s11482-020-09850-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative, lacks a control group, and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment) or population (people with mental disorders or documented mental health problems).",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (structured interviews and MAXQDA10 software for data analysis) without a control group or rigorous evaluation. It does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on coping strategies for unemployed individuals, not on employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

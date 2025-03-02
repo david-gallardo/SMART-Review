@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2415,
+    "Authors": "Antonio Llosa, Ose; Agullo-Tomas, Esteban; Menendez-Espina, Sara; Rodriguez-Suarez, Julio; Boada-Grau, Joan",
+    "Article Title": "JOB INSECURITY, MENTAL HEALTH AND SOCIAL SUPPORT IN WORKING POOR",
+    "Abstract": "Working poor are people who, even working, are not able to escape from the risk of poverty threshold marked by the EU. It is an increasing situation in Europe, especially relevant in the south countries. For now, we still have very little academic literature about this phenomenon in the European context, and particularly in Spain. This study analyses the well-being and the mental health in a Spanish sample of 1.541 people (working poor, workers out of the risk of poverty, and unemployed). The results show that the mental health status is equal in working poor and in unemployed people, and it is worse than in the workers out of the risk of poverty. This situation requires to reappraise the value of work in all levels: as the main social inclusion tool; as a way to construct the identity; as a source of social support, and also as a guarantee of well-being and mental health.",
+    "DOI": "10.5565/rev/athenea.2178",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation with a control group. It is a descriptive analysis of mental health and job insecurity in working poor individuals without an intervention component or controlled trial.",
+            "study_design": "Descriptive analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the mental health status of the working poor in general.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3912,
+    "Authors": "Kent, Erin E.; Mollica, Michelle A.; Dionne-Odom, J. Nicholas; Ferrer, Rebecca A.; Jensen, Roxanne E.; Ornstein, Katherine A.; Smith, Ashley Wilder",
+    "Article Title": "Effect of instrumental support on distress among family caregivers: Findings from a nationally representative study",
+    "Abstract": "Background and ObjectiveA priority focus on palliative and supportive care is helping the 43.5 million caregivers who care for individuals with serious illness. Lacking support may lead to caregiver distress and poorer care delivery to patients with serious illness. We examined the potential of instrumental support (assistance with material and task performance) to mitigate distress among caregivers.MethodWe analyzed data from the nationally representative Health Information National Trends Survey (HINTS V2, 2018). Informal/family caregivers were identified in HINTS V2 if they indicated they were caring for or making healthcare decisions for another adult with a health problem. We used the PROMIS(R) instrumental support four-item short-form T-scores and the Patient Health Questionnaire (PHQ-4) for distress. We examined multivariable linear regression models for associations between distress and instrumental support, adjusted for sampling weights, socio-demographics, and caregiving variables (care recipient health condition(s), years caregiving (>= 2), relationship to care recipient, and caregiver burden). We examined interactions between burden and instrumental support on caregiver distress level.ResultsOur analyses included 311 caregivers (64.8% female, 64.9% non-Hispanic White). The unweighted mean instrumental support T-score was 50.4 (SD = 10.6, range = 29.3-63.3); weighted mean was 51.2 (SE = 1.00). Lower instrumental support (p < 0.01), younger caregiver age (p < 0.04), higher caregiving duration (p = 0.008), and caregiver unemployment (p = 0.006) were significantly associated with higher caregiver distress. Mean instrumental support scores by distress levels were 52.3 (within normal limits), 49.4 (mild), 48.9 (moderate), and 39.7 (severe). The association between instrumental support and distress did not differ by caregiver burden level.ConclusionsPoor instrumental support is associated with high distress among caregivers, suggesting the need for palliative and supportive care interventions to help caregivers leverage instrumental support.",
+    "DOI": "10.1017/S1478951520000036",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, but rather caregiver distress.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental health disorders. It focuses on the effect of instrumental support on distress among family caregivers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on caregivers for individuals with serious illness, which does not align with the specified population of people with mental health disorders. Additionally, the interventions examined are not directly related to employment policies.",
+            "study_design": "Nationally representative survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

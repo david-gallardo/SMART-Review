@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3471,
+    "Authors": "Marshall, Zack; Welch, Vivian; Minichiello, Alexa; Swab, Michelle; Brunger, Fern; Kaposy, Chris",
+    "Article Title": "Documenting Research with Transgender, Nonbinary, and Other Gender Diverse (Trans) Individuals and Communities: Introducing the Global Trans Research Evidence Map",
+    "Abstract": "There is limited information about how transgender, nonbinary, and other gender diverse (trans) people have been studied and represented by researchers. The objectives of this study were to: (1) increase access to trans research; (2) map and describe trans research across subject fields; and (3) identify evidence gaps and opportunities for more responsible research. Eligibility criteria were established to include empirical research of any design, which included trans participants or their personal information and that was published in English in peer-reviewed journals. A search of 15 academic databases resulted in 25,230 references; data presented include 690 trans-focused articles that met the screening criteria and were published between 2010 and 2014. The 10 topics studied most frequently were: (1) therapeutics and surgeries; (2) gender identity and expression; (3) mental health; (4) biology and physiology; (5) discrimination and marginalization; (6) physical health; (7) sexual health, HIV, and sexually transmitted infections; (8) health and mental health services; (9) social support, relationships, and families; and (10) resilience, well-being, and quality of life. This map also highlights the relatively minor attention that has been paid to a number of study topics, including ethnicity, culture, race, and racialization; housing; income; employment; and space and place. Results of this review have the potential to increase awareness of existing trans research, to characterize evidence gaps, and to inform strategic research prioritization. With this information, it is more likely that trans communities and allies will be in a position to benefit from existing research and to hold researchers accountable.",
+    "DOI": "10.1089/trgh.2018.0020",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study aims to map and describe trans research, which is outside the scope of the review.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes. It focuses on mapping trans research across various subject fields and identifying evidence gaps in the research related to transgender, nonbinary, and other gender diverse individuals.",
+            "study_design": "Systematic review of empirical research",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Empirical research",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not present measures of employment or labor results.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

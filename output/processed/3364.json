@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3364,
+    "Authors": "VanDenKerkhof, Elizabeth G.; VanTil, Linda; Thompson, James M.; Hopman, Wilma M.; Carley, Meg E.; Sudom, Kerry",
+    "Article Title": "Pain in Canadian Veterans: Analysis of data from the Survey on Transition to Civilian Life",
+    "Abstract": "BACKGROUND: Little is known about the prevalence of chronic pain among Veterans outside the United States.OBJECTIVE: To describe the prevalence of chronic pain and associated sociodemographic, health behaviour, employment/income, disability, and physical and mental health factors in Canadian Veterans.METHODS: The 2010 Survey on Transition to Civilian Life included a nationally representative sample of 3154 Canadian Armed Forces Regular Force Veterans released from service between 1998 and 2007. Data from a telephone survey of Veterans were linked with Department of National Defence and Veterans Affairs Canada administrative databases. Pain was defined as constant/reoccurring pain (chronic pain) and as moderate/severe pain interference with activities.RESULTS: Forty-one percent of the population experienced constant chronic pain and 23% experienced intermittent chronic pain. Twenty-five percent reported pain interference. Needing help with tasks of daily living, back problems, arthritis, gastrointestinal conditions and age >= 30 years were independently associated with chronic pain. Needing help with tasks of daily living, back problems, arthritis, mental health conditions, age >= 30 years, gastrointestinal conditions, low social support and noncommissioned member rank were associated with pain interference.CONCLUSIONS: These findings provide evidence for agencies and those supporting the well-being of Veterans, and inform longitudinal studies to better understand the determinants and life course effects of chronic pain in military Veterans.",
+    "DOI": "10.1155/2015/763768",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or have an undefined population.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the prevalence of chronic pain among Canadian Veterans.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on chronic pain in Veterans, not employment outcomes for people with mental health disorders.",
+            "study_design": "Survey with linked administrative databases",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not evaluate any specific interventions aimed at improving employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

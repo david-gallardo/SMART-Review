@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3316,
+    "Authors": "Wong, Jacqueline R.; Crain, Tori L.; Brossoit, Rebecca M.; Hammer, Leslie B.; Bodner, Todd E.; Brady, Jacquelyn M.",
+    "Article Title": "Beyond Just Resilience: The Important Role of Work-Family Resources for Military Service Members",
+    "Abstract": "The military has allocated extensive resources to improve service member resilience in an effort to decrease the impact of stressors on health and well-being. Previous research has linked resilience to various positive outcomes (e.g., physical and mental health, job satisfaction) and has established that service members face unique and challenging work-family experiences. However, the importance of resilience to work-family experiences remains underexplored. Drawing on conservation of resources theory, this study examines the relationships between resilience (i.e., the ability to bounce back from stressors) and work-family outcomes, and whether organizational work-family resources of work-family climate perceptions and family-supportive supervisor behavior moderate these relationships. Based on a sample of 417 Army National Guard service members from 10 workgroups, and using a multilevel path model, we found that more resilient service members experience lower family-to-work conflict and greater work-to-family enrichment. Further, the relationship between resilience and family-to-work enrichment was significant and stronger for service members who perceive their work climate as family-supportive compared to the relationship for those who do not. Improving resilience in military personnel may help to facilitate positive work-family experiences, but resilience is likely most beneficial when organizational work-family resources (i.e., a family-supportive work climate) are also available.",
+    "DOI": "10.1007/s41542-022-00111-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a multilevel path model, but it lacks a control group.",
+            "study_design": "Multilevel path model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on resilience in relation to work-family experiences. It lacks measures of employment or labor results.",
+            "study_design": "Survey with multilevel path model analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on military service members and their resilience, which is not directly related to employment or labor outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not address employment interventions.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3161,
+    "Authors": "Lorenc, Theo; Rodgers, Mark; Marshall, David; Melton, Hollie; Rees, Rebecca; Wright, Kath; Sowden, Amanda",
+    "Article Title": "Support for adults with autism spectrum disorder without intellectual impairment: Systematic review",
+    "Abstract": "Adults with autism spectrum disorder without intellectual impairment may benefit from a range of support services. This article presents the results of a systematic review assessing the effectiveness of supportive interventions for adults with autism spectrum disorder without intellectual impairment. A total of 32 studies were included; most focused on younger male participants. Although evidence was lacking for most types of intervention, employment programmes and social skills training were found to be effective for more proximal outcomes such as social skills. Evidence that any intervention improves mental health or well-being was very limited. Most interventions focused on mitigating specific deficits, rather than on providing broader support. Further research is needed on the effectiveness of supportive interventions such as advocacy and mentoring.",
+    "DOI": "10.1177/1362361317698939",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it lacks a control group.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health or have an undefined population. The intervention focuses on autism spectrum disorder without intellectual impairment and the outcomes are related to social skills rather than employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with autism spectrum disorder without intellectual impairment, not specifically on people with mental health disorders. The interventions assessed are not directly related to employment services.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not specify employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

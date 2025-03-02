@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2732,
+    "Authors": "Molarius, Anu; Metsini, Alexandra",
+    "Article Title": "Domestic Work, Self-Reported Diagnosed Depression and Related Costs among Women and Men-Results from a Population-Based Study in Sweden",
+    "Abstract": "Background: In contrast to paid work, few studies have investigated the association between unpaid domestic work and mental health. The aim of this study was to investigate the association between domestic work and self-reported diagnosed depression and to estimate related costs in a general population. Method: The study is based on women (N = 7981) and men (N = 6203) aged 30-69 years who responded to a survey questionnaire in Mid-Sweden in 2017 (overall response rate 43%). Multivariate logistic regression models, adjusting for age group, educational level, family status, employment status, economic difficulties, and social support, were used to study the association between domestic work and depression. The estimation of direct and indirect costs was based on the calculation of population attributable risks, the literature, and administrative data. Results: In total, 25% of the women and 14% of the men spent more than 20 h a week on domestic work, and 57% of the women and 39% of the men experienced domestic work sometimes or more often as burdensome. A strong independent association between experiencing domestic work as burdensome and depression was observed both in women and men. The total cost of depression possibly related to burdensome domestic work was estimated up to EUR 135.1 million (min EUR 20.7 million-max EUR 21.4 billion) of the total EUR 286.4 million per year in Mid-Sweden. Conclusions: The association between experiencing domestic work as burdensome and depression was strong among both women and men and was not restricted to employed persons or to parents with children. Even though the cross-sectional design does not allow one to assess the direction of the association between domestic work and depression, and longitudinal studies are needed, the results imply that strain in domestic work should be taken into account when considering factors that contribute to the prevalence of depression in the general population and its high societal costs.",
+    "DOI": "10.3390/ijerph18189778",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional design, which does not allow for the assessment of the direction of the association between domestic work and depression.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unpaid domestic work and its association with self-reported diagnosed depression, which is not directly related to employment interventions for people with mental health disorders. Additionally, the study's population is not clearly defined as people with mental health disorders, and the intervention is not specified as one of the listed employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

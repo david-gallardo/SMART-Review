@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2364,
+    "Authors": "Marchand, Alain; Durand, Pierre; Haines, Victor, III; Harvey, Steve",
+    "Article Title": "The multilevel determinants of workers' mental health: results from the SALVEO study",
+    "Abstract": "Purpose This study examined the contribution of work, non-work and individual factors on workers' symptoms of psychological distress, depression and emotional exhaustion based on the multilevel determinants of workers' mental health model.Methods Data from the SALVEO Study were collected in 2009-2012 from a sample of 1,954 employees nested in 63 workplaces in the province of Quebec (Canada). Multilevel regression models were used to analyse the data.Results Altogether, variables explain 32.2 % of psychological distress, 48.4 % of depression and 48.8 % of emotional exhaustion. Mental health outcomes varied slightly between workplaces and skill utilisation, physical and psychological demands, abusive supervision, interpersonal conflicts and job insecurity are related to the outcomes. Living in couple, having young children at home, family-to-work conflict, work-to-family conflict, strained marital and parental relations, and social support outside the workplace associated with the outcomes. Most of the individual characteristics also correlated with the three outcomes. Importantly, non-work and individual factors modulated the number and type of work factors related to the three outcomes.Conclusion The results of this study suggest expanding perspectives on occupational mental health that fully recognise the complexity of workers' mental health determinants.",
+    "DOI": "10.1007/s00127-014-0932-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study meets the inclusion criteria as it is a quasi-experimental study with a control group, focusing on employment outcomes for people with mental health disorders, and was published within the specified timeframe.",
+            "study_design": "Quasi-experimental study with multilevel regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It examines the multilevel determinants of workers' mental health without addressing specific active employment policies.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, but rather on psychological distress, depression, and emotional exhaustion as outcomes. It also does not directly address employment interventions.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

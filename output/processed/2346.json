@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2346,
+    "Authors": "Strober, L. B.; Arnett, P. A.",
+    "Article Title": "Unemployment among women with multiple sclerosis: the role of coping and perceived stress and support in the workplace",
+    "Abstract": "Unemployment is high among individuals with multiple sclerosis (MS). Certain disease variables and demographics have been found to distinguish employed and unemployed individuals. However, these variables only account for 14-20% of the variance. Other factors, such as coping, perceived stress and social support, in the workforce have been proposed, but not yet fully examined. The purpose of the present investigation was to examine the role of known factors associated with unemployment in MS, as well as coping and perceived work stress and social support. Sixty-eight women with MS were asked about their employment status and reasons for leaving. They completed a comprehensive assessment including measures of cognition, disease symptoms, psychological functioning, coping and stress. Consistent with previous findings, certain disease and demographic variables were associated with being unemployed. In particular, women who left work due to their MS were found to be older, had a longer disease duration and progressive course, reported greater disability and fatigue, and performed worse on a cognitive measure. However, we also found that coping style distinguished those who were employed from those who left work due to their MS. In particular, those who left work reported utilizing maladaptive coping mechanisms such as behavioral disengagement and substance use. With regard to perceived work stress and support, individuals who were employed reported that job security and fellow co-workers were more of an uplift than a hassle in their lives, suggesting some benefit in employment. These findings suggest that further consideration be given to role of coping and perception of the benefit of employment among individuals with MS when making recommendations regarding work decisions.",
+    "DOI": "10.1080/13548506.2015.1093645",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on women with multiple sclerosis and examines factors related to unemployment rather than interventions such as job search services, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment among women with multiple sclerosis (MS) and does not meet the intervention criteria of active employment policies for people with mental health disorders. The study also does not include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include an intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

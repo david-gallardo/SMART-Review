@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2987,
+    "Authors": "Sohail, Malik Muhammad; Baghdady, Ahmed; Choi, Jessica; Huynh, Hy V.; Whetten, Kathryn; Proeschold-Bell, Rae Jean",
+    "Article Title": "Factors influencing teacher wellbeing and burnout in schools: A scoping review",
+    "Abstract": "BACKGROUND: Teacher's wellbeing and mental health play a pivotal role in learning experiences and educational environment. For a better future, we need thriving teachers with strong wellbeing.OBJECTIVE: The current scoping literature review aimed to explore the factors fostering wellbeing and causing burnout among school teachers.METHODS: Applying appropriate search terms to relevant databases for the years 2016-2020 yielded 934 potentially relevant research articles which were further filtered to 102 articles.RESULTS: The findings of this review suggested that emotion regulation, positive workplace milieu and teacher self-efficacy (feeling successful as a teacher) are important factors fostering teachers' wellbeing whilst negative workplace environment and negative emotions along with feeling marginalized or bullied by coworkers are factors behind teacher burnout. The strengths of this study include a rigorous research design and relational analysis approach.CONCLUSION: Teacher wellbeing needs a workplace environment with minimum bullying and marginalization. An atmosphere of respect, inclusion, and mutual teacher support is needed to promote wellbeing.",
+    "DOI": "10.3233/WOR-220234",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and its focus is on teacher wellbeing and burnout in schools, which does not meet the inclusion criteria for population and outcomes.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. Additionally, it focuses on factors influencing teacher wellbeing and burnout in schools rather than interventions related to employment for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on teachers' wellbeing and burnout, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference people with mental health disorders.",
+            "study_design": "Scoping review",
+            "logprobs": null
+        }
+    }
+}

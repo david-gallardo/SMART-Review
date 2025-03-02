@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3030,
+    "Authors": "Reijnen, A.; Duel, J.",
+    "Article Title": "Loneliness among veterans in the Netherlands",
+    "Abstract": "Background Loneliness among military veterans may have unique features because of deployment-related experiences. Consequently, loneliness is increasingly recognized as an issue that may affect the health of veterans, even years after military deployment.Aims To examine the prevalence of loneliness in Dutch veterans and to assess the extent to which their loneliness is associated with deployment-related factors.Methods We invited 6000 veterans who have left the Armed Forces to fill out a questionnaire. Hierarchical regression analysis was used to assess the association between loneliness and deployment-related factors in addition to demographic information, social support and needs of care.Results We received the responses of 2643 veterans (44%). Of them, 27% experienced at least some loneliness and 13% experienced severe loneliness. Social support, perceived comradeship during deployment and a perceived positive effect of one's deployment on life at present are negatively related to loneliness. Younger age, living alone (with or without children), unemployment or work disability, needs of care in general or deployment-related, perceived frustration related to the deployment and longing back to the time of the deployment were positively associated with loneliness.Conclusions Feelings of loneliness are prevalent among Dutch veterans who have left the Armed Forces. Veterans' loneliness is associated with several deployment-related factors. To reduce veterans' loneliness, attention for deployment-related experiences and its consequences is recommended.",
+    "DOI": "10.1093/occmed/kqz166",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a questionnaire survey, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Questionnaire survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on loneliness among veterans, which is not directly related to employment or labor outcomes for people with mental health disorders. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Not specified in the provided abstract.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

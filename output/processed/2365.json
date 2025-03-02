@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2365,
+    "Authors": "Wisman, Jon D.; Pacitti, Aaron",
+    "Article Title": "Ending the Unemployment Crisis with Guaranteed Employment and Retraining",
+    "Abstract": "Since 2008, the U.S. economy has been mired in the second worst economic crisis in its history. Conceivably, massive government spending could bring the economy out of this slump as massive war spending ultimately ended the Great Depression of the 1930s. However, a far superior strategy exists: guaranteeing employment accompanied by retraining to enable all unemployed workers to become absorbed into the regular work force. Beyond ending the crisis, the superiority of this strategy is that it would institutionalize a procedure for insuring that, in an increasingly technologically dynamic and open economy, workers would possess the necessary skills for available jobs. Guaranteeing employment would also eliminate the ecological costs associated with the need to seek growth to generate employment at practically any cost. Finally, it would establish a new moral social contract, whereby everyone is granted the dignity that accompanies being a productive member of society. Welfare for those able to work could disappear, along with the degradation and humiliation accompanying it.",
+    "DOI": "10.2753/JEI0021-3624480305",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group, and the intervention does not directly address employment.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks rigorous evaluation methods (RCTs, systematic reviews) and does not specify a control group. It also does not focus on employment policies for people with mental health disorders within the specified geographic scope or timeframe.",
+            "study_design": "Opinion piece",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "The article does not specify a study design and does not meet the inclusion criteria for study design.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

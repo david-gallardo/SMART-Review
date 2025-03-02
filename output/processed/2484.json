@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2484,
+    "Authors": "Attell, Brandon K.; Brown, Kiersten Kummerow; Treiber, Linda A.",
+    "Article Title": "Workplace bullying, bullying, perceived job stressors, and psychological distress: Gender and race differences in the stress process",
+    "Abstract": "A large body of empirical research documents the adverse mental health consequences of workplace bullying. However, less is known about gender and race differences in the processes that link workplace bullying and poor mental health. In the current study, we use structural equation modeling of survey data from the 2010 Health and Retirement Study (N = 2292) and draw on stress process theory to examine coworker support as a buffering mechanism against workplace bullying, and gender and race differences in the relationships between bullying and psychological distress. The results of the analysis indicate that coworker support serves as a protective buffer against workplace bullying, although the buffering effect is relatively small. We also find that the effects of workplace bullying more heavily impact women and persons of color. Specifically, women and African American individuals in our sample were less protected from the buffering mechanism of co-worker social support. (C) 2017 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.ssresearch.2017.02.001",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis of survey data, which lacks a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It examines the effects of workplace bullying on psychological distress with a focus on gender and race differences.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workplace bullying and its impact on mental health, not directly on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Survey study using structural equation modeling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey data analysis using structural equation modeling",
+            "logprobs": null
+        }
+    }
+}

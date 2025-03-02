@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2327,
+    "Authors": "Longest, Kaitlyn; Kang, Jin-Ae",
+    "Article Title": "Social Media, Social Support, and Mental Health of Young Adults During COVID-19",
+    "Abstract": "The current study examines the impact of COVID-19 on the mental health among young adults in the US, how they use social media and the social support they obtain from the online environment, and the effect on their mental health during stay-at-home orders. Our survey among 18-to-25-year-olds found that women and those uncertain of employment status due to the pandemic experienced elevated depression symptoms. The informational acquisition motive for using social media was positively associated with depression symptoms, and a higher level of online informational support contributed to increasing the symptoms. Young adults showed the lowest level of depression symptoms when they had a higher level of offline emotional support and a lower level of online informational support. Our survey stressed the importance of offline emotional support and reconfirmed that nothing can replace its value.",
+    "DOI": "10.3389/fcomm.2022.828135",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study examines the impact of COVID-19 on the mental health of young adults in the US, and the effect of social media and social support on their mental health.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and lacks interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the mental health of young adults during COVID-19 and does not specifically address employment outcomes or interventions for people with mental health disorders in the context of active employment policies.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

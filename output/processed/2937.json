@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2937,
+    "Authors": "Barlati, Stefano; Nibbio, Gabriele; Vita, Antonio",
+    "Article Title": "Evidence-based psychosocial interventions in schizophrenia: a critical review",
+    "Abstract": "Purpose of reviewSchizophrenia Spectrum Disorders (SSD) are severe conditions that frequently produce significant impairment in cognitive performance, social skills and psychosocial functioning. As pharmacological treatment alone often provides only limited improvements on these outcomes, several psychosocial interventions are employed in psychiatric rehabilitation practice to improve of real-world outcomes of people living with SSD: the present review aims to provide a critical overview of these treatments, focusing on those that show consistent evidence of effectiveness.Recent findingsSeveral recent systematic reviews and meta-analyses have investigated in detail the acceptability, the effectiveness on several specific outcomes and moderators of response of different psychosocial interventions, and several individual studies have provided novel insight on their implementation and combination in rehabilitation practice.SummaryCognitive remediation, metacognitive training, social skills training, psychoeducation, family interventions, cognitive behavioral therapy, physical exercise and lifestyle interventions, supported employment and some other interventions can be fully considered as evidence-based treatments in SSD. Psychosocial interventions could be of particular usefulness in the context of early intervention services. Future research should focus on developing newer interventions, on better understanding the barriers and the facilitators of their implementation in clinical practice, and exploring the opportunities provided by novel technologies.",
+    "DOI": "10.1097/YCO.0000000000000925",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: supported employment does not directly address employment, but rather job search services and adult training are mentioned as part of the interventions.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on psychosocial interventions for schizophrenia spectrum disorders and their effectiveness on cognitive performance, social skills, and psychosocial functioning.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on schizoppheria spectrum disorders (SSD) and not specifically on people with mental health disorders in general. The interventions mentioned are not directly related to employment services.",
+            "study_design": "Critical review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review that includes supported employment as an intervention for people with schizophrenia spectrum disorders and discusses outcomes related to psychosocial functioning.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

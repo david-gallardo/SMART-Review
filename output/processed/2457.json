@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2457,
+    "Authors": "Song, Lijun; Chen, Wenhong",
+    "Article Title": "Does Receiving Unsolicited Support Help or Hurt? Receipt of Unsolicited Job Leads and Depression",
+    "Abstract": "Does receiving unsolicited support protect or hurt health? This study focuses on the receipt of unsolicited job leads and examines opposite hypotheses on its main and interaction effects with economic strain (lack of full-time employment and the duration of lack of full-time employment) and financial dissatisfaction on depression using nationally representative data of working-age adults in the United States. The distress-reducing perspective expects its main effect to be negative, but the distress-inducing perspective predicts the opposite. Furthermore, the need contingency argument anticipates the two competing perspectives-distress reducing and distress inducing-to have stronger explanatory power for adults with more economic strain and financial dissatisfaction and those with less economic strain and financial dissatisfaction, respectively. Results are consistent with the distress-inducing perspective and the need contingency argument. The findings indicate that the receipt of unsolicited job leads often plays a deleterious role for mental health but that the role varies according to the need for job leads.",
+    "DOI": "10.1177/0022146514532816",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather examines the impact of receiving unsolicited job leads on depression.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and focuses on the effect of unsolicited job leads on depression. It lacks specific employment outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on unsolicited job leads and their impact on depression, not on employment or labor outcomes for people with mental health disorders. Additionally, the study is not a systematic review or meta-analysis, and it does not include adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        }
+    }
+}

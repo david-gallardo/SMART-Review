@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3714,
+    "Authors": "Lucas Oliver, Elvira; T\u00e1rraga L\u00f3pez, Pedro Juan; T\u00e1rraga Marcos, Almudena",
+    "Article Title": "Trastornos adaptativos y su manejo desde atenci\u00f3n primaria",
+    "Abstract": "Abstract Introduction: Adjustment disorder describes a disproportionate emotional and behavioral response to one or more identifiable psychosocial stressors. There are multiple situations capable of generating an acute stressful situation. However, one of the requirements to be able to speak of an adaptive disorder is that the stressor(s) in question should lead to an impairment of the individual's normal functioning. Objectives: The main objective of this work is to analyze , through a literature review, the diagnosis and approach to the diagnosis and management of adaptive disorders in the Primary Care setting. The secondary objective is to emphasize the importance of early detection and treatment, as well as multidisciplinary management and mental health promotion. Results: The main risk factors for adjustment disorders are unemployment, low income, low social support, physical illness, and personal history of mental health. The International Questionnaire of Adaptive Disorders is currently the principal diagnostic tool, as it establishes its diagnostic criteria based on the theoretical definition established by the ICD-11. The management of these disorders is mainly through cognitive behavioural therapy. Conclusions: Adjustment disorders arise as abnormal responses to certain stressful situations. The role of primary care physicians in dealing with this disorder is essential, and early detection and management are necessary to reduce the levels of dysfunctional anxiety that patients present.",
+    "DOI": "10.19230/jonnpr.4909",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group. The intervention and population criteria are not addressed, and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adjustment disorders, which are not explicitly mentioned in the inclusion criteria as a population with mental health disorders. The inclusion criteria require studies to focus on people with documented mental health problems, and the study in question does not clearly specify this.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment interventions for people with mental health disorders and does not report any employment outcomes.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

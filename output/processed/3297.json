@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3297,
+    "Authors": "Lys, Agnieszka E.; Adamczyk, Katarzyna",
+    "Article Title": "Exploring the role of country-level gender equality in the link between relationship status and perceived social support across 49 countries",
+    "Abstract": "Past studies have demonstrated that higher perceived social support among coupled individuals and greater gender equality foster a more supportive social context. Less is known about how the link between relationship status and perceived social support may vary across countries that differ in gender equality. Employing the data collected from the COVIDiSTRESS I (39 countries; N = 99,075) and COVIDiSTRESS II (23 countries; N = 8293) projects, we examined whether country-level gender equality moderates the link between relationship status and perceived social support. Multilevel regression analyses indicated that gender equality moderated the link between relationship status and perceived social support. Single people in countries with less gender equality reported less perceived social support than was reported by both coupled people and single people from countries with moderate and high levels of gender equality, however, the effect of the interaction between relationship status and gender equality on perceived social support was very low. The results suggest that gender equality fosters perceived social support, both for single people and for partnered people.",
+    "DOI": "10.1038/s41598-024-52304-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study examines the link between relationship status and perceived social support across countries, but it does not address employment.",
+            "study_design": "Multilevel regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on perceived social support across countries differing in gender equality.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on perceived social support and relationship status, not employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Multilevel regression analses",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to mental health disorders.",
+            "study_design": "Multilevel regression analysis",
+            "logprobs": null
+        }
+    }
+}

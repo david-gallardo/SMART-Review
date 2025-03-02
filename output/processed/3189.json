@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3189,
+    "Authors": "Dwyer, Peter; Scullion, Lisa; Jones, Katy; McNeill, Jenny; Stewart, Alasdair B. R.",
+    "Article Title": "Work, welfare, and wellbeing: The impacts of welfare conditionality on people with mental health impairments in the UK",
+    "Abstract": "The personal, economic, and social costs of mental ill health are increasingly acknowledged by many governments and international organisations. Simultaneously, in high-income nations, the reach of welfare conditionality has extended to encompass many people with mental health impairments as part of on-going welfare reforms. This is particularly the case in the UK where, especially since the introduction of Employment and Support Allowance in 2008, the rights and responsibilities of disabled people have been subject to contestation and redefinition. Following a review of the emergent international evidence on mental health and welfare conditionality, this paper explores two specific issues. First, the impacts of the application of welfare conditionality on benefit claimants with mental health impairments. Second, the effectiveness of welfare conditionality in supporting people with experience of mental ill health into paid work. In considering these questions, this paper presents original analysis of data generated in qualitative longitudinal interviews with 207 UK social security benefit recipients with experience of a range of mental health issues. The evidence suggests that welfare conditionality is largely ineffective in moving people with mental health impairments into, or closer to, paid work. Indeed, in many cases, it triggers negative health outcomes that make future employment less likely. It is concluded that the application of conditionality for people with mental health issues is inappropriate and should cease.",
+    "DOI": "10.1111/spol.12560",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group.",
+            "study_design": "Lacking a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group. It is based on qualitative longitudinal interviews and does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative longitudinal interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impacts of welfare conditionality on people with mental health impairments in the UK, which does not directly address employment interventions. It also does not include a control group or present employment outcomes as required by the inclusion criteria.",
+            "study_design": "qualitative longitudinal interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Qualitative longitudinal interviews",
+            "logprobs": null
+        }
+    }
+}

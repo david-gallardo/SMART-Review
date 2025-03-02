@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2654,
+    "Authors": "Wu, Jing; Li, Ying; Waern, Margda",
+    "Article Title": "Suicide among Older People in Different European Welfare Regimes: Does Economic (in)Security Have Implications for Suicide Prevention?",
+    "Abstract": "Older adult suicide rates vary widely within Europe, and differential welfare policies might contribute to this. We studied variations in economic indicators and suicide rates of people 65+ across 28 European countries and examined the effects of these indicators on suicide rates, grouping countries according to their socio-political systems and welfare regimes. Suicide data was obtained from the WHO European Mortality Database. The European Union Statistics on Income and Living Conditions and the European Union Labour Force Survey provided data on economic indicators. Linear mixed models were applied. Suicide rates ranged from 4.22/100,000 (Cyprus) to 36.37/100,000 (Hungary). Material deprivation was related to elevated suicide rates in both genders in the pooled data set and in men but not women in the Continental and Island countries. Higher ratio of median income (65+/under 65) was associated with lower likelihood of suicide in women in the South-Eastern European countries. In the Nordic region, the 65+ employment rate was associated with a decreased likelihood of suicide in men. These factors to some extent show economic insecurity against older people, which influences the likelihood of suicide. Active labor market policies and inclusive social environment may contribute to suicide prevention in this age group.",
+    "DOI": "10.3390/ijerph19127003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders, but rather examines the relationship between economic indicators and suicide rates among older people.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on suicide rates among older adults in different European welfare regimes and the impact of economic indicators.",
+            "study_design": "Cross-sectional analysis using linear mixed models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on suicide rates among older adults in relation to economic indicators and welfare regimes in Europe, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Epidemiological study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3988,
+    "Authors": "Boot, Cecile R. L.; Deeg, Dorly J. H.; Abma, Tineke; Rijs, Kelly J.; van der Pas, Suzan; van Tilburg, Theo G.; van der Beek, Allard J.",
+    "Article Title": "Predictors of Having Paid Work in Older Workers With and Without Chronic Disease: A 3-Year Prospective Cohort Study",
+    "Abstract": "Background As the prevalence of chronic disease amongst older workers is high and increasing, it is important to know if the large subgroup of older workers with chronic disease has specific needs when it comes to prolonging participation in paid work. Objectives To investigate differences and similarities in predictors of having paid work in workers aged 55+ with and without chronic disease. Methods Workers aged 55-62 years were selected from the 2002-2003 cohort of the Longitudinal Aging Study Amsterdam (n = 333). Potential predictors were: health, personality, work characteristics, and demographics. Per potential predictor, a logistic regression coefficient for 'having paid work in 2005-2006' was calculated for workers with and without chronic disease. A pooled estimate was computed and differences between the pooled estimate and the coefficients were tested. Results Follow-up data were available for 95 %, of whom 67 % still had paid work. Predictors of having paid work were similar for workers with and without chronic diseases, except for physical workload (chi(2) = 5.37; DF = 1) and psychosocial resources at work (chi(2) = 5.94; DF = 1). Having more psychosocial resources (OR = 3.57; 95 %CI 1.33-10.0) was predictive for having paid work in workers with chronic disease and not in workers without chronic disease. Lower age, more weekly working hours, no functional limitations, fewer depressive symptoms, lower neuroticism scores, and more sense of mastery were significantly associated with having paid work in all workers. Conclusions Differences between predictors of having paid work between workers with and without chronic disease should be taken into account when aiming to prevent exit from the workforce. In particular the vulnerable subgroup of older workers with chronic disease and low psychosocial resources at work is more likely to quit working.",
+    "DOI": "10.1007/s10926-013-9489-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a 3-year prospective cohort study with a control group, meeting the inclusion criteria for study design. The study is within the specified timeframe (2005-2025), and the intervention is job search services (adult training) and wage subsidies, which are relevant to employment policies for people with mental health disorders. The population is people with mental disorders or documented mental health problems, and the outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "3-year prospective cohort study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (control group) and its intervention does not directly address employment. The article focuses on predictors of having paid work in older workers with chronic disease, but it does not involve any interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and is not focused on interventions directly addressing employment for people with mental health disorders.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective Cohort Study",
+            "logprobs": null
+        }
+    }
+}

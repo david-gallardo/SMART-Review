@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3237,
+    "Authors": "Smith, Eric N.; Santoro, Erik; Moraveji, Neema; Susi, Michael; Crum, Alia J.",
+    "Article Title": "Integrating Wearables in Stress Management Interventions: Promising Evidence From a Randomized Trial",
+    "Abstract": "Although workplace stress management interventions have been shown to be effective, they are limited by how and when they deliver, contextualize, and reinforce content. In the current article, we evaluate whether a wearable-based stress management intervention can improve mental health outcomes. Employees (N = 169) drawn from a large technology corporation were randomly assigned to either a wearable-based treatment or waitlist control. The treatment consisted of a very brief mindfulness-based training accompanied by a physiological monitoring device capable of sensing respiratory patterns and a smartphone application that allowed participants to visualize respiratory changes over time, observe real-time biofeedback, and receive real-time notifications of physiological stress. After the 4-week intervention period, the treatment group reported experiencing 15.8% fewer negative instances of stress. 13.0% fewer distressing symptoms, and 28.2% fewer days feeling anxious or stressed compared with a control group. We also find marginal evidence that the treatment group reported fewer negative emotions, but do not find robust evidence that the intervention increased broad measures of well-being. The results suggest the use of wearables as a scalable means of complenienting existing workplace stress management interventions and policies. Further research is needed to distinguish how interventions incorporating wearable-based components may impact mental health beyond stand-alone mindfulness trainings.",
+    "DOI": "10.1037/str0000137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized trial, but it does not meet the inclusion criteria for intervention as it focuses on stress management interventions rather than active employment policies for people with mental health disorders.",
+            "study_design": "Randomized Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stress management interventions for mental health, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2590,
+    "Authors": "Andersen, Lars Peter; Elklit, Ask; Pihl-Thingvad, Jesper",
+    "Article Title": "Crisis social support after work-related violence and threats and risk for depressive symptoms: a 3-months follow-up study",
+    "Abstract": "IntroductionEmployees working at psychiatric wards are at risk for work-related threats and violence that may impact their physical and mental health. Studies have found that crisis social support may mitigate these adverse health effects.PurposeTo examine the effects crisis social support on depressive symptoms 3 months after a violent or threating work incident and furthermore, to examine the effect of variations in prolonged social support on depressive symptoms during 3 months after a violent or threating incident.MethodologyAfter exposure to work-related violence and threats at work, the employees received a questionnaire within the first month and after 3 months. Right after the incident, 374 employees answered both the depression and crisis support items and were included in the analyses. 3 months later 276 employees answered both the depression and social support items. Prospective associations between crisis social support and depression were calculated using stepwise regressions and linear mixed models.ResultsCrisis social support at T1 was significantly and inversely associated with a lower level of depressive symptoms at T2, Std. Beta = - 012, t (3) = - 2.1, p = .040. Employees experiencing either a stable or increasing level of support from T1 to T2 had significantly lower levels of depressive symptoms compared to employees who experienced a decrease in support in the same period, mean difference(Stable-Decreasing) = 4.0 t (190) = 5.2, p = 0.006 and mean difference(Increasing-Decreasing) = 7.6, t (189) = 5.3, p < .001.ConclusionThe study results indicate that depressive symptoms following work-related violence or threats can be mitigated by prolonged social support. We recommend that organizations continue to offer crisis social support in the subsequent months, and not just immediately after a violent or threating incident.",
+    "DOI": "10.1186/s40359-023-01081-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it only compares the effects of crisis social support on depressive symptoms without a comparison group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the effect of crisis social support on depressive symptoms following work-related violence and threats.",
+            "study_design": "Prospective cohort with follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of work-related violence and threats on depressive symptoms and the role of crisis social support, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment. Additionally, the study's population is not explicitly defined as people with mental disorders or documented mental health problems, which is a requirement for inclusion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective cohort study with regression analysis",
+            "logprobs": null
+        }
+    }
+}

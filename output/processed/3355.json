@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3355,
+    "Authors": "Benavides, Fernando G.; Wesseling, Catharina; Delclos, George L.; Felknor, Sarah; Pinilla, Javier; Rodrigo, Fernando",
+    "Article Title": "Working conditions and health in Central America: a survey of 12 024 workers in six countries",
+    "Abstract": "Objective To describe the survey methodology and initial general findings of the first Central American Survey of Working Conditions and Health.Methods A representative sample of 12 024 workers was interviewed at home in Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua and Panama. Questionnaire items addressed worker demographics, employment conditions, occupational risk factors and self-perceived health.Results Overall, self-employment (37%) is the most frequent type of employment, 8% of employees lack a work contract and 74% of the workforce is not covered by social security. These percentages are higher in Guatemala, Honduras and El Salvador, and lower in Costa Rica, Panama and Nicaragua. A third of the workforce works more than 48 h per week, regardless of gender; this is similar across countries. Women and men report frequent or usual exposures to high ambient temperature (16% and 25%, respectively), dangerous tools and machinery (10%, 24%), work on slippery surfaces (10%, 23%), breathing chemicals (12.1%, 18%), handling toxic substances (5%, 12.1%), heavy loads (6%, 20%) and repetitive movements (43%, 49%). Two-thirds of the workforce perceive their health as being good or very good, and slightly more than half reports having good mental health.Conclusions The survey offers, for the first time, comparable data on the work and health status of workers in the formal and informal economy in the six Spanish-speaking Central American countries, based on representative national samples. This provides a benchmark for future monitoring of employment and working conditions across countries.",
+    "DOI": "10.1136/oemed-2013-101908",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to active employment policies for people with mental health disorders. It focuses on working conditions and health in Central American countries without targeting specific populations or interventions relevant to the inclusion criteria.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (Central America instead of EU, Europe, US, Canada, Australia).",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

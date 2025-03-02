@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2828,
+    "Authors": "Havermans, Bo M.; Boot, Cecile R. L.; Hoekstra, Trynke; Houtman, Irene L. D.; Brouwers, Evelien P. M.; Anema, Johannes R.; van der Beek, Allard J.",
+    "Article Title": "The association between exposure to psychosocial work factors and mental health in older employees, a 3-year follow-up study",
+    "Abstract": "Unfavourable exposure to psychosocial work factors threatens older employees' mental health, and their sustained employment. This study assesses whether an improved compared to stable unfavourable and stable favourable exposure to psychosocial work factors is associated with a change in mental health in older employees at 3-year follow-up.The current study used data from the Study on Transitions in Employment, Ability and Motivation (STREAM), in workers aged 45-65 years (n = 5249). Two-year (2010-2012) exposure was assessed for psychological demands, autonomy, support, mental load, and distributive justice. Linear regression analyses were performed to compare improved exposure to unfavourable psychosocial work factors with stable unfavourable and stable favourable exposure and mental health at follow-up (2013), corrected for confounders. Analyses were stratified for age groups (45-54 and 55-65 years) and gender.In certain subgroups, stable unfavourable exposure to psychological demands, autonomy, support, and distributive justice was associated with a significantly lower mental health score than improved exposure. Stable favourable exposure to support was associated with a higher mental health score than improved support, whereas stable favourable exposure to autonomy was associated with a lower mental health score compared to improved exposure.There is a longitudinal association between changes in exposure to psychosocial work factors and mental health. Improvement in unfavourable exposure to psychosocial work factors was associated with improved mental health. This is important information for organisations that consider deploying measures to improve the psychosocial work environment of older workers.",
+    "DOI": "10.1007/s00420-017-1261-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based in EU countries (no specific countries mentioned), within the timeframe of 2005-2025. The intervention is job search services, adult training, wage subsidies, supported employment, and the population is people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation (control group) and does not directly address employment interventions. The focus is on psychosocial work factors and their association with mental health in older employees over a three-year follow-up period.",
+            "study_design": "Cross-sectional/Longitudinal observational",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the association between psychosocial work factors and mental health in older employees.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal cohort study",
+            "logprobs": null
+        }
+    }
+}

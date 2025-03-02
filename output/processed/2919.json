@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2919,
+    "Authors": "Wisner-Carlson, Robert; Uram, Sara; Flis, Thomas",
+    "Article Title": "The Transition to Adulthood for Young People with Autism Spectrum Disorder",
+    "Abstract": "The transition to adulthood for individuals with autism spectrum disorder is difficult and outcomes are suboptimal. Social cognition deficits and executive dysfunction continue to be barriers to young people's success, lack of societal acceptance and loss of previous support can exacerbate the condition, and mental health issues increase. All areas of adult functioning are affected. To help manage the transition and improve outcomes for this population, psychiatrists and other health care providers need to be aware of the issues and possible interventions, including social skills training, educational transition programs, and supported employment programs.",
+    "DOI": "10.1016/j.chc.2019.12.002",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on the transition to adulthood for young people with Autism Spectrum Disorder, which does not meet the inclusion criteria for population.",
+            "study_design": "Correlational study or lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address job search services, adult training, wage subsidies, or supported employment. It focuses on the transition to adulthood for individuals with autism spectrum disorder and does not specifically target employment outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young people with autism spectrum disorder, not specifically on people with mental health disorders in general.",
+            "study_design": "The study design is not specified in the abstract provided.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study includes a relevant intervention (supported employment) and population (people with mental health disorders), and it is within the specified geographic scope and timeframe.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2309,
+    "Authors": "Bilgrami, Anam; Sinha, Kompal; Cutler, Henry",
+    "Article Title": "The impact of introducing a national scheme for paid parental leave on maternal mental health outcomes",
+    "Abstract": "Paid maternity leave is an essential component of a progressive society. It can enhance postnatal health, improve mother and child wellbeing, and deliver better labor market outcomes for mothers. We evaluate the impact of the introduction of Australia's national Paid Parental Leave (PPL) scheme in 2011 and complementary Dad and Partner Pay (DAPP) in 2013 on maternal mental health. Using a sample of 1480 births to eligible, partnered women between 2004 and 2016 and examining a range of mental health outcomes from the Household, Income, andLabour Dynamics in Australia survey, we find depression likelihood reduced significantly in post-reform years. When focusing on post-DAPP years and women whose partners had concurrent access to DAPP, significant mental health improvements were found across a wider range of measures including the Mental Component Summary score and specific Short Form-36 items with a high sensitivity for detecting major depression. Subgroup analysis suggests significant improvements applied specifically to first-time mothers and mothers with employer-paid maternity leave and unpaid leave entitlements. These results suggest that an increase in PPL and DAPP entitlements for mothers without access to employer-paid and unpaid leave entitlements, particularly those in less secure employment, may further reduce postnatal depression and improve health equity in Australia.",
+    "DOI": "10.1002/hec.4164",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention of interest (job search services, adult training, wage subsidies, supported employment) and focuses on maternal mental health outcomes related to paid parental leave rather than employment or labor outcomes.",
+            "study_design": "Observational study with a sample of births between 2004 and 2016",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on maternal mental health outcomes in the context of paid parental leave, which does not directly address employment interventions for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on parental leave policies.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

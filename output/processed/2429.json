@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2429,
+    "Authors": "Heron-Delaney, Michelle; Warren, Jacelle; Kenardy, Justin A.",
+    "Article Title": "Predictors of non-return to work 2 years post-injury in road traffic crash survivors: Results from the UQ SuPPORT study",
+    "Abstract": "Purpose: Individuals who have sustained an injury from a road traffic crash (RTC) are at increased risk for long lasting health problems and non-return to work (NRTW). Determining the predictors of NRTW is necessary to develop screening tools to identify at-risk individuals and to provide early targeted intervention for successful return to work (RTW). The aim of this study was to identify factors that can predict which individuals will not RTW following minor or moderate injuries sustained from a RTC.Method: Participants were 194 claimants (63.4% female) within a common-law fault-based system from the UQ SuPPORT cohort who were working prior to their RTC. Participants were assessed at 6 months on a variety of physical and mental health measures and RTW status was determined at 2 years post-RTC. RTW rate was 78.4%.Results: Univariate predictors of NRTW included being the driver or passenger, having a prior psychiatric diagnosis, high disability level, low mental or physical quality of life, predicted non-recovery, high pain, low function, high expectations of pain persistency, low expectations about RTW, having a psychiatric diagnosis, elevated depression or anxiety. The final multivariable logistic regression model included only two variables: disability level and expectations about RTW. Seventy-five percent of individuals who will not RTW by 2 years can be identified accurately at an early stage, using only these two predictors.Conclusion: The results are promising, because they suggest that having information about two factors, which are easily obtainable, can predict with accuracy those who will require additional support to facilitate RTW. (C) 2017 Elsevier Ltd. All rights reserved.",
+    "DOI": "10.1016/j.injury.2017.03.012",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the EU, within the timeframe of 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is people with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the population is individuals who have sustained injuries from road traffic crashes rather than people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not evaluate any of the specified interventions.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

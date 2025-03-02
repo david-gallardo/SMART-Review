@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2801,
+    "Authors": "Bradley, Christopher S.; Hill, Terrence D.; Burdette, Amy M.; Mossakowski, Krysia N.; Johnson, Robert J.",
+    "Article Title": "Religious Attendance and Social Support: Integration or Selection?",
+    "Abstract": "Although numerous studies have shown that religious attendance is associated with greater social support, concerns remain about selection into religious attendance and more supportive relationships. In this paper, we employ data collected from the 2011 Miami-Dade Health Survey (n = 444) to assess the extent to which the association between religious attendance and social support is due to selection processes related to personality, health behavior, and health status. In our multinomial logistic regression of attendance, we find that the odds of weekly attendance are increased by extraversion and reduced by smoking. We also observe that religious attendance does not vary according to level of agreeableness, self-esteem, alcohol consumption, psychological distress, or physical health. In our regression of support, we find that respondents who attend religious services weekly or more tend to report more social support than respondents who never attend. This association persisted with adjustments for age, gender, race, immigrant status, interview language, education, employment status, household income, financial strain, marital status (parent and respondent), the presence of children, family difficulties, personality (agreeableness, extroversion, and self-esteem), health behavior (smoking, binge drinking, and substance use), and health status (psychological distress, activity limitations, and overall physical health). Across models, the association between weekly attendance and social support is attenuated by no more than 7%. This attenuation is due to personality (extraversion), not health behavior or health status. We conclude that the association between religious attendance and social support is primarily driven by integration processes rather than any selection processes we have considered.",
+    "DOI": "10.1007/s13644-019-00392-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on the association between religious attendance and social support.",
+            "study_design": "Multinomial logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes and focuses on the association between religious attendance and social support. It lacks any intervention related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": "Not applicable"
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

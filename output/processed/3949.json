@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3949,
+    "Authors": "Berman, Anne H.; Liu, Bojing; Ullman, Sara; Jadback, Isabel; Engstrom, Karin",
+    "Article Title": "Children's Quality of Life Based on the KIDSCREEN-27: Child Self-Report, Parent Ratings and Child-Parent Agreement in a Swedish Random Population Sample",
+    "Abstract": "BackgroundThe KIDSCREEN-27 is a measure of child and adolescent quality of life (QoL), with excellent psychometric properties, available in child-report and parent-rating versions in 38 languages. This study provides child-reported and parent-rated norms for the KIDSCREEN-27 among Swedish 11-16 year-olds, as well as child-parent agreement. Sociodemographic correlates of self-reported wellbeing and parent-rated wellbeing were also measured.MethodsA random population sample consisting of 600 children aged 11-16, 100 per age group and one of their parents (N = 1200), were approached for response to self-reported and parentrated versions of the KIDSCREEN-27. Parents were also asked about their education, employment status and their own QoL based on the 26-item WHOQOL-Bref. Based on the final sampling pool of 1158 persons, a 34.8% response rate of 403 individuals was obtained, including 175 child-parent pairs, 27 child singleton responders and 26 parent singletons. Gender and age differences for parent ratings and child-reported data were analyzed using t-tests and the Mann-Whitney U-test. Post-hoc Dunn tests were conducted for pairwise comparisons when the p-value for specific subscales was 0.05 or lower. Child-parent agreement was tested item-by-item, using the Prevalence-and Bias-Adjusted Kappa (PABAK) coefficient for ordinal data (PABAK-OS); dimensional and total score agreement was evaluated based on dichotomous cut-offs for lower well-being, using the PABAK and total, continuous scores were evaluated using Bland-Altman plots.ResultsCompared to European norms, Swedish children in this sample scored lower on Physical wellbeing (48.8 SE/49.94 EU) but higher on the other KIDSCREEN-27 dimensions: Psychological wellbeing (53.4/49.77), Parent relations and autonomy (55.1/49.99), Social Support and peers (54.1/49.94) and School (55.8/50.01). Older children self-reported lower wellbeing than younger children. No significant self-reported gender differences occurred and parent ratings showed no gender or age differences. Item-by-item child-parent agreement was slight for 14 items (51.9%), fair for 12 items (44.4%), and less than chance for one item (3.7%), but agreement on all dimensions as well as the total score was substantial according to the PABAK-OS. Visual interpretation of the Bland-Altman plot suggested that when children's average wellbeing score was lower parents seemed to rate their children as having relatively higher total wellbeing, but as children's average wellbeing score increased, parents tended to rate their children as having relatively lower total wellbeing. Children living with both parents had higher wellbeing than those who lived with only one parent.ConclusionsResults agreed with European findings that adolescent wellbeing decreases with age but contrasted with some prior Swedish research identifying better wellbeing for boys on all dimensions but Social support and peers. The study suggests the importance of considering children's own reports and not only parental or other informant ratings. Future research should be conducted at regular intervals and encompass larger samples.",
+    "DOI": "10.1371/journal.pone.0150545",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on child and adolescent quality of life rather than active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional study with a random population sample",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the quality of life and wellbeing of children in Sweden.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Systematic Review",
+            "logprobs": "Not applicable"
+        }
+    }
+}

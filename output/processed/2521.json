@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2521,
+    "Authors": "Garza, C. J.; Tague, A. M.; Vallejo-Perez, S. R.; Flemister, C.; Warmann, J.; Martin, K. J.; Barnett, M. D.",
+    "Article Title": "Social Support From Workplace Sources Predicts Depression and Anxiety Among Hospice Nurses",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Population: does not reference mental health or has an undefined population.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the impact of social support from workplace sources on depression and anxiety among hospice nurses.",
+            "study_design": "Cross-sectional or correlational study (not specified in abstract)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

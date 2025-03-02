@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3094,
+    "Authors": "Backholm, Klas; Idas, Trond",
+    "Article Title": "Journalists and the Coronavirus. How Changes in Work Environment Affected Psychological Health During the Pandemic",
+    "Abstract": "The COVID-19 pandemic has had a significant impact on how journalists carry out their work. This study investigates how the pandemic has affected the psychological well-being of journalists in Finland and Norway. The prevalence of six types of psychological distress symptoms is measured, as well as the impact of three work-related risk factors on distress severity. The risk factors were range of potential virus exposure in line of work, negative experiences due to working remotely, and lack of workplace social support. Study results are based on three separate online surveys, two collected in Norway (June 2020, N = 2115; December 2020, N = 1799), and one in Finland (January-February 2021, N = 552). Between 74 and 77% of journalists had experienced some form of distress to at least some degree, and 28-47% had severe problems related to one or more distress subtype. Feeling isolated, anxious, or worn out were most frequent. Distress of all six subtypes was significantly more common among females. Two risk factors (negative experiences due to remote work; lack of social support) predicted more distress in all three datasets and one (virus exposure during work) in two samples.",
+    "DOI": "10.1080/17512786.2022.2098522",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the psychological well-being of journalists rather than people with mental health disorders.",
+            "study_design": "Cross-sectional online survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the psychological well-being of journalists during the pandemic without any mention of job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2520,
+    "Authors": "Cheshire, Anna; Peters, David; Ridge, Damien",
+    "Article Title": "How do we improve men's mental health via primary care? An evaluation of the Atlas Men's Well-being Pilot Programme for stressed/distressed men",
+    "Abstract": "Background: Over three-quarters of all suicides are men (England and Wales), this is despite higher levels of anxiety and depression being reported by women. This disparity may in part be explained by atypical presentations of distress in men, and gendered issues around help-seeking. Consequently, the Atlas Men's Well-being Programme was designed to engage stressed/distressed men who were patients at a London-based GP surgery. Atlas encouraged GPs to identify and refer men for counselling and/or acupuncture by raising their awareness of men's distress. The aim of this pilot study was to evaluate Atlas in terms of patients' characteristics, service utilisation, patient outcomes and cost implications.Methods: All patients using the Programme were asked to complete a questionnaire before and after their Atlas sessions. Outcome measures included the Hospital Anxiety and Depression scale, Perceived Stress Scale, Warwick-Edinburgh Mental Well-being Scale, a 11-point scale measuring physical health, and the Psychological Outcome Profiles (PSYCHLOPS), a patient-generated outcome measure. Additionally, for cost calculations, participants were asked about their employment, number of days off work due to illness, and their health and social care service use.Results: 102 participants were recruited, 82 completed pre- and post-treatment questionnaires. Comparisons pre-and post-treatment revealed a statistically significant improvement in anxious mood (p < 0.001), perceived stress (p < 0.001), positive well-being (p = < 0.001), PSYCHLOPS (p = < 0.001) and physical health (p = 0.001), though not depressed mood (p = 0.660). Additionally, reductions in costs related to lost employment and health and social care use, exceeded the cost of Atlas counselling and acupuncture sessions, with an average saving of nearly 700 pound per patient.Conclusions: Atlas attendance was associated with improvements in patients' mental and physical health, and demonstrated likely cost savings. It is now important to understand patient and stakeholder perspectives. Further research could compare usual care with the Atlas approach, and investigate full cost-effectiveness.",
+    "DOI": "10.1186/s12875-016-0410-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather focuses on mental health outcomes and cost implications.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on improving mental health via primary care interventions such as counselling and acupuncture.",
+            "study_design": "Pilot study with pre- and post-treatment questionnaires",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on men's mental health in primary care settings, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

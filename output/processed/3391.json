@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3391,
+    "Authors": "Hasson, Henna; Brisson, Chantal; Guerin, Stephanie; Gilbert-Ouimet, Mahee; Baril-Gingras, Genevieve; Vezina, Michel; Bourbonnais, Renee",
+    "Article Title": "An organizational- level occupational health intervention: Employee perceptions of exposure to changes, and psychosocial outcomes",
+    "Abstract": "This study aimed to investigate the association between employees' perceptions of their exposure to an organizational-level occupational health intervention and its psychosocial outcomes. Participants were employees of an insurance firm (N = 1084) in Quebec, Canada. The intervention was designed to reduce adverse psychosocial work factors (high psychological demands, low decision latitude, low social support and low rewards). Departmental managers were responsible for implementing changes to reduce exposure to these factors. Employees' perceptions of exposure to the intervention and its impact on their work were measured in 2007 through questionnaires. Psychological demands, decision latitude, social support and rewards measured in 2005 and 2007 were used to assess outcomes. Employees who perceived that they had been exposed to the intervention changes showed more improvement in outcomes than those who did not perceive changes. The greatest differences in outcomes were found in those participants who perceived that workplace changes had improved their work situation as compared to those who perceived the changes as neutral or negative. The results suggest that measurement of employee-perceived impact of each intervention change on their work situation may be even more important than actual exposure, and should be included in the measurement of exposure to organization-level interventions.",
+    "DOI": "10.1080/02678373.2014.907370",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US (Quebec, Canada), within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on psychosocial outcomes related to perceived changes in work environment factors.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on organizational-level interventions and psychosocial outcomes, not directly on employment or labor outcomes. It also does not specifically target people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

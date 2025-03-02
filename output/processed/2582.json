@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2582,
+    "Authors": "Oyat, Freddy Wathum Drinkwater; Oloya, Johnson Nyeko; Atim, Pamela; Ikoona, Eric Nzirakaindi; Aloyo, Judith; Kitara, David Lagoro",
+    "Article Title": "The psychological impact, risk factors and coping strategies to COVID-19 pandemic on healthcare workers in the sub-Saharan Africa: a narrative review of existing literature",
+    "Abstract": "Background:The ongoing COVID-19 pandemic has significantly impacted the physical and mental health of the general population worldwide, with healthcare workers at particular risk. The pandemic's effect on healthcare workers' mental well-being has been characterized by depression, anxiety, work-related stress, sleep disturbances, and post-traumatic stress disorder. Hence, protecting the mental well-being of healthcare workers (HCWs) is a considerable priority. This review aimed to determine risk factors for adverse mental health outcomes and protective or coping measures to mitigate the harmful effects of the COVID-19 crisis among HCWs in sub-Saharan Africa. Methods: We performed a literature search using PubMed, Google Scholar, Cochrane Library, and Embase for relevant materials. We obtained all articles published between March 2020 and April 2022 relevant to the subject of review and met pre-defined eligibility criteria. We selected 23 articles for initial screening and included 12 in the final review. Result: A total of 5,323 participants in twelve studies, predominantly from Ethiopia (eight studies), one from Uganda, Cameroon, Mali, and Togo, fulfilled the eligibility criteria. Investigators found 16.3-71.9% of HCWs with depressive symptoms, 21.9-73.5% with anxiety symptoms, 15.5-63.7% experienced work-related stress symptoms, 12.4-77% experienced sleep disturbances, and 51.6-56.8% reported PTSD symptoms. Healthcare workers, working in emergency, intensive care units, pharmacies, and laboratories were at higher risk of adverse mental health impacts. HCWs had deep fear, anxious and stressed with the high transmission rate of the virus, high death rates, and lived in fear of infecting themselves and families. Other sources of fear and work-related stress were the lack of PPEs, availability of treatment and vaccines to protect themselves against the virus. HCWs faced stigma, abuse, financial problems, and lack of support from employers and communities. Conclusion: The prevalence of depression, anxiety, insomnia, and PTSD in HCWs in sub-Saharan Africa during the COVID-19 pandemic has been high. Several organizational, community, and work-related challenges and interventions were identified, including improvement of workplace infrastructures, adoption of correct and shared infection control measures, provision of PPEs, social support, and implementation of resilience training programs. Setting up permanent multidisciplinary mental health teams at regional and national levels to deal with mental health and providing psychological support to HCWs, supported with long-term surveillance, are recommended.",
+    "DOI": "10.1186/s40359-022-00998-z",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study reviews the impact of the COVID-19 pandemic on healthcare workers' mental well-being, but it does not address employment outcomes.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria due to its geographic scope being outside of EU countries, Europe, US, Canada, and Australia. The intervention focuses on mental well-being rather than employment or labor outcomes, and it is a narrative review rather than a meta-analysis, systematic review of controlled trials, RCTs, cluster RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on healthcare workers' mental health during the COVID-19 pandemic, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Narrative review",
+            "logprobs": null
+        }
+    }
+}

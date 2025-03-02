@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3182,
+    "Authors": "Adler, Daniel A.; Tseng, Vincent W-S; Qi, Gengmo; Scarpa, Joseph; Sen, Srijan; Choudhury, Tanzeem",
+    "Article Title": "Identifying Mobile Sensing Indicators of Stress-Resilience",
+    "Abstract": "Resident physicians (residents) experiencing prolonged workplace stress are at risk of developing mental health symptoms. Creating novel, unobtrusive measures of resilience would provide an accessible approach to evaluate symptom susceptibility without the perceived stigma of formal mental health assessments. In this work, we created a system to find indicators of resilience using passive wearable sensors and smartphone-delivered ecological momentary assessment (EMA). This system identified indicators of resilience during a medical internship, the high stress first-year of a residency program. We then created density estimation approaches to predict these indicators before mental health changes occurred, and validated whether the predicted indicators were also associated with resilience. Our system identified resilience indicators associated with physical activity (step count), sleeping behavior, reduced heart rate, increased mood, and reduced mood variability. Density estimation models were able to replicate a subset of the associations between sleeping behavior, heart rate, and resilience. To the best of our knowledge, this work provides the first methodology to identify and predict indicators of resilience using passive sensing and EMA. Researchers studying resident mental health can apply this approach to design resilience-building interventions and prevent mental health symptom development.",
+    "DOI": "10.1145/3463528",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on identifying indicators of stress-resilience in residents experiencing prolonged workplace stress.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on identifying indicators of resilience using passive wearable sensors and smartphone-delivered EMA for resident physicians. It does not meet the inclusion criteria related to interventions, population, or outcomes.",
+            "study_design": "Other (novel methodology)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on identifying indicators of resilience in resident physicians using passive sensing and EMA, which does not directly address employment or labor outcomes in people with mental health disorders. The study design is not a systematic review or meta-analysis of controlled trials, RCTs, or quasi-experimental studies with a control group, which is required by the inclusion criteria.",
+            "study_design": "Research study using passive sensing and EMA",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

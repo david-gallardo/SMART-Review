@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2700,
+    "Authors": "Ahmad, Farah; Othman, Nasih; Hynie, Michaela; Bayoumi, Ahmed M.; Oda, Anna; McKenzie, Kwame",
+    "Article Title": "Depression-level symptoms among Syrian refugees: findings from a Canadian longitudinal study",
+    "Abstract": "Background: Canada launched the Syrian Refugee Resettlement Initiative in 2015 and resettled over 40,000 refugees. Aim: To evaluate the prevalence of depression-level symptoms at baseline and one year post-resettlement and analyze its predictors. Methods: Data come from the Syrian Refugee Integration and Long-term Health Outcomes in Canada study (SyRIA.lth) involving 1924 Syrian refugees recruited through a variety of community-based strategies. Data were collected using structured interviews in 2017 and 2018. Depression symptoms were measured using Patient Health Questionnaire 9 (PHQ-9). Analysis for associated factors was executed using multinomial logistic regression. Results: Mean age was 38.5 years (SD 13.8). Sample included 49% males and 51% females settled in Ontario (48%), Quebec (36%) and British Columbia (16%). Over 74% always needed an interpreter, and only 23% were in employment. Prevalence of depression-level symptoms was 15% at baseline and 18% in year-2 (p < 0.001). Significant predictors of depression-level symptoms at year-2 were baseline depression, sponsorship program, province, poor language skills, lack of satisfaction with housing conditions and with health services, lower perceived control, lower perceived social support and longer stay in Canada. Conclusion: Increase in depression-level symptoms deserves attention through focusing on identified predictors particularly baseline depression scores, social support, perceived control and language ability.",
+    "DOI": "10.1080/09638237.2020.1765998",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study with structured interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the prevalence of depression-level symptoms among Syrian refugees in Canada.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

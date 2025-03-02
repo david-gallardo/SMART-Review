@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2854,
+    "Authors": "Cruz Merino-Llorente, Maria; Somarriba Arechavala, Maria Noelia",
+    "Article Title": "European Part-time Workers' Health and Well-being in Times of Crisis. The Case of Female Part-timers",
+    "Abstract": "The economic crisis, which started in late 2007, had a major impact on countries' labour markets, and triggered a rise in the number of non-standard contracts. Most European Union (EU) countries witnessed a significant increase in part-time jobs. This type of employment and its working conditions may have a negative impact on the health and well-being of workers, especially women. The aims of this paper are: 1) to determine whether there are differences in levels of part-time workers' health and well-being by gender for the EU as a whole as well as for each European country individually, and 2) to ascertain which determinants impact female part-time workers' health and well-being. A Synthetic Health and Well-being Indicator (SHWI) was designed using the measure of P-2 distance approach as a methodological tool. In order to explore the determinants for female part-timers, linear regressions were used adopting a multilevel analysis based on data from the 2010 European Working Conditions Survey.The main results show that female part-time workers display lower levels of health and well-being than their male counterparts in the EU. Factors such as the nature of the work, difficulty making ends meet, perceived job insecurity, social support and work-life balance play an essential role in levels of female part-timers' health and well-being. We may conclude that, in addition to greater institutional support for the inclusion of women in the labour market, changes in public policies designed to improve working conditions (better schedules and a greater presence of non-manual skilled jobs) coupled with changes in family policy, could play a key role in reducing gender differences.",
+    "DOI": "10.7866/HPE-RPE.20.4.4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis of the 2010 European Working Conditions Survey, which lacks a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on part-time workers' health and well-being in the EU during a crisis period.",
+            "study_design": "Cross-sectional analysis using linear regressions and multilevel analysis based on data from the 2010 European Working Conditions Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on part-time workers' health and well-being in the EU, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "The article does not specify a study design that matches the inclusion criteria (e.g., RCT, systematic review, etc.).",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders and does not address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study using linear regressions",
+            "logprobs": null
+        }
+    }
+}

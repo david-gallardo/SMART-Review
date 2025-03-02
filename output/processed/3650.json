@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3650,
+    "Authors": "McCabe, Marita P.; Mellor, David; Ricciardelli, Lina A.; Mussap, Alexander J.; Hallford, David J.",
+    "Article Title": "Ecological Model of Australian Indigenous Men's Health",
+    "Abstract": "This study was designed to examine the health behaviors as well as the enablers and barriers to health behaviors among Indigenous Australian men. One hundred and fifty Indigenous Australian men in rural, regional, and urban locations were interviewed about their health behaviors. The results revealed several themes of importance: (a) role of community activities, (b) the Indigenous man as a leader and role model, (c) negative impact of discrimination/ racism, (d) importance of partner and family, (e) positive and negative role of peer relationships, (f) central role of culturally appropriate health care facilities, and (g) association between employment and health care problems. These findings highlight the importance of broad community-based (rather than individualistic) approaches to promoting health behavior in Indigenous men.",
+    "DOI": "10.1177/1557988315583086",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on health behaviors and enablers/barriers to health behaviors among Indigenous Australian men.",
+            "study_design": "Interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.), and its population is not specifically focused on people with mental health disorders. The intervention and outcomes are not aligned with the specified criteria.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on health behaviors among Indigenous Australian men and does not meet the specified inclusion criteria for interventions or outcomes related to employment or labor.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not directly address employment interventions.",
+            "study_design": "Qualitative Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3468,
+    "Authors": "Conn, Bridgid Mariko; de Figueiredo, Sophie; Sherer, Sara; Mankerian, Meray; Iverson, Ellen",
+    "Article Title": "Our lives aren't over: A strengths-based perspective on stigma, discrimination, and coping among young parents",
+    "Abstract": "The current study conducted interviews and focus groups with twenty-four diverse 16-25 year old parents to elicit in-depth narratives about experiences related to parenting status. Parents were recruited from a case management program in the Southwestern United States supporting high school graduation and workforce employment (for mothers and fathers, respectively). Young parents disclosed experiences of shame, stigma, and discrimination associated with perceptions about their fitness to be a parent and moral judgment. Themes arose that revealed the positive, adaptive ways that participants coped with potentially deleterious experiences with a focus on their role as a parent and role model for their children. Our findings highlight positive meaning-making and resiliency of young parents when confronted with discrimination and systemic barriers, with many participants focusing on the benefits of parenthood within a unique developmental context. Further, implications for program development, provider trainings, and public policy and advocacy efforts for young parents are discussed.",
+    "DOI": "10.1016/j.adolescence.2018.05.005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the experiences and coping mechanisms of young parents with mental health disorders.",
+            "study_design": "Qualitative study (interviews and focus groups)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is an interview and focus group study which does not meet the inclusion criteria for RCTs, quasi-experimental studies with a control group, meta-analyses, systematic reviews of controlled trials.",
+            "study_design": "Interviews and focus groups",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on young parents' experiences with stigma and discrimination, not on employment outcomes for people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also lacks a rigorous evaluation and control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

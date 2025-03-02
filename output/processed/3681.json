@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3681,
+    "Authors": "Hansen, Michael A.; Modak, Sanjukta; McMaster, Samuel; Zoorob, Roger; Gonzalez, Sandra",
+    "Article Title": "Implementing peer recovery coaching and improving outcomes for substance use disorders in underserved communities",
+    "Abstract": "Introduction The Peer Recovery Expansion Project (PREP) was designed to expand outreach and deliver enhanced treatment services via peer-recovery coaches for individuals with substance use disorder (SUD) and limited access to healthcare. Methods PREP was implemented in low-socioeconomic areas with historic challenges to accessing SUD treatment. Services were provided to 153 clients through tailored cultural responsiveness, use of peer-based recovery coaching, and development of a Recovery Support Network. Outcome data were collected using the Government Performance and Reporting Act tool at intake and at 6-month follow-up for coaches and clients. Results The vast majority of peer-recovery coaches were satisfied with the overall quality of the training and their training experience (96.8%). Around 95% agreed that the training enhanced their skills in the topic area and 93% agreed that the training was relevant to substance use disorder treatment at the 6-month post training survey. Majority of clients were from low-income, minority demographics that had a high prevalence history of incarceration, homelessness, and inconsistent employment. At 6-month follow-up, they reported a 22% increase in stable housing and a 25% increase in full-time/part-time employment/training program enrollment. They also demonstrated a significant decline in reported depression, anxiety, and prescribed medication use at 6-month follow-up when compared to baseline. Conclusions Clients enrolled in a tailored evidence based peer-led program decreased their psychiatric symptoms and increased their housing stability and employment. Study outcomes support the use of an integrated peer-led support for increasing engagement in care for adults experiencing substance use disorders.",
+    "DOI": "10.1080/15332640.2020.1824839",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a control group, which is a key component of the inclusion criteria.",
+            "study_design": "Lacks a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is focused on individuals with substance use disorder rather than mental health disorders. Additionally, it lacks a control group.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorders and not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not explicitly defined as having mental health problems.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

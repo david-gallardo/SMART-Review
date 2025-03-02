@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2724,
+    "Authors": "Heshmati, Amy; Honkaniemi, Helena; Juarez, Sol P.",
+    "Article Title": "The effect of parental leave on parents? mental health: a systematic review",
+    "Abstract": "Mental health disorders during the post-partum period are a common morbidity, but parental leave might help alleviate symptoms by preventing or reducing stress. We aim to summarise available evidence on the effect of different types of parental leave on mental health outcomes among parents. For this systematic review, we searched Ovid MEDLINE, Web of Science, PsycINFO, CINAHL, and Scopus from database inception to Aug 29, 2022, for peer-reviewed, quantitative studies written in English. We included studies if the exposure was postnatal parental leave; a relevant comparison group was present (eg, paid vs unpaid leave); and if indicators related to general mental health, including depression, anxiety, stress, and suicide, for either parent were evaluated or recorded at any time after childbirth. The Review is registered with PROSPERO (registration number CRD42021227499). Of the 3441 records screened, 45 studies were narratively synthesised. Studies were done in high-income countries, and they examined generosity by any parental leave (n=5), benefit amount (n=13), and leave duration (n=31). 38 studies were of medium or high quality. Improved mental health was generally observed among women (referred to as mothers in this Review) with more generous parental leave policies (ie, leave duration and paid vs unpaid leave). For example, increased duration of leave was generally associated with reduced risk of poor maternal mental health, including depressive symptoms, psychological distress and burnout, and lower mental health-care uptake. However, the association between fathers' leave and paternal mental health outcomes was less conclusive as was the indirect effect of parental leave use on partners' mental health.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it only examines parental leave policies, which is not directly addressing employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the effect of parental leave on mental health outcomes among parents.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the effect of parental leave on mental health outcomes among parents, which does not directly address employment or labor outcomes for people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is parents, not people with mental disorders.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

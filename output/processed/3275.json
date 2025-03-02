@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3275,
+    "Authors": "Jovanovic, Vesna Mijatovic; Milijasevic, Dragana; Cankovic, Sonja; Tomasevic, Tanja; Susnjevic, Sonja; Ukropina, Snezana",
+    "Article Title": "Prevalence of depressive symptoms and association with sociodemographic factors among the general population in Serbia",
+    "Abstract": "Background/Aim. Depression is a growing public health concern associated with disability, decreased quality of life, increased multimorbidity, and premature mortality. The aim of this study was to estimate the prevalence of depressive symptoms (DS) in the general population of Serbia and to analyze its association with sociodemographic factors. Methods. Data from the 2019 Serbian National Health Survey was analyzed (a sample of 12,406 respondents). The questionnaires used in this study were in accordance with the methodology of the European Health Interview Survey (EHIS) Wave 3. Patient Health Questionnaire eight -item depression (PHQ-8) scale was used to determine the prevalence of DS among the population aged >= 15 years. Multivariate logistic regression analyses (MLRA) were implemented to assess the association of the prevalence of DS with the sociodemographic characteristics of the population. Results. The prevalence of both mild (7.5% vs. 4.4%) and moderate/severe DS (2.6% vs. 1.5%) was higher among women than men and increased continuously with age (13.6% of adults aged >= 65 years had mild and 5.0% moderate/severe symptoms). The highest rates of moderate/severe DS were present in respondents from Vojvodina (2.7%), among those who lived without a partner (2.7%), the lower educated (4.4%), the poor (3.4%), those with inactive employment status (3.7%), and those with poor social support (6.6%). MLRA showed that the highest odds of DS were present among the respondents aged >= 65 years [odds ratio (OR) = 6.53; 95% confidence interval (CI): 6.37-6.69] in the Vojvodina region, particularly males (OR = 1.96; 95% CI: 1.89-2.04), respondents who lived without a partner (OR = 1.49; 95% CI: 1.47-1.51), the lower educated (OR = 2.27; 95% CI: 2.22-2.33), the poor (OR = 2.54; 95% CI: 2.49-2.58), as well as those with poor social support (OR = 3.71; 95% CI: 3.64-3.77). Conclusion. The prevalence of DS in the general population of Serbia was relatively low and requires further monitoring. Female gender, older age, living in the region of Vojvodina, life without a partner, socioeconomic disadvantages, as well as the lack of social support were identified as the main factors associated with the occurrence of DS.",
+    "DOI": "10.2298/VSP231023005M",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes, and it lacks a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It is a cross-sectional study examining the prevalence of depressive symptoms in Serbia.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on depressive symptoms and sociodemographic factors, not on employment or labor outcomes. It also lacks a control group and is not a systematic review or meta-analysis.",
+            "study_design": "National Health Survey",
+            "logprobs": null
+        }
+    }
+}

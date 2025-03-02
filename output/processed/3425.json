@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3425,
+    "Authors": "Choi, Yeonwoo; Duffy, Ryan D.; Kim, Taewon; Bridges, Brittany; Perez, Gianella; Kim, Haram J.; Park, Junsang; Steranka, Matthew",
+    "Article Title": "Social Mobility Among United States Immigrants: A Psychology of Working Perspective",
+    "Abstract": "The purpose of the present study was to investigate subjective social mobility among U.S. immigrants-here referred to as shifts in experiences of marginalization and economic constraints before and after immigration-and assess how mobility is related to a host of theoretically informed predictors and outcomes. Surveys were completed by 242 employed U.S. immigrants who had been in the United States for an average of 11.65 years. A latent profile analysis was conducted which identified four groups with different social mobility types: subjective upward mobility, privileged, underprivileged, and subjective downward mobility. Four times as many participants experienced downward versus upward mobility (38.4% vs. 10.3%), with the majority maintaining a privileged (21.9%) or underprivileged (29.3%) status. Additionally, the downward mobility group had significantly lower work volition, work need satisfaction, and decent work compared to other groups. Implications for counseling practice, advocacy, and research for socially mobile immigrants are discussed.",
+    "DOI": "10.1177/00110000241301110",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on subjective social mobility among U.S. immigrants.",
+            "study_design": "Survey study with latent profile analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on social mobility among U.S. immigrants and their experiences of marginalization and economic constraints.",
+            "study_design": "Latent profile analysis using survey data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on U.s. immigrants, not people with mental health disorders, and does not address employment interventions.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders, does not address employment interventions, and does not measure employment outcomes.",
+            "study_design": "Latent profile analysis",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2759,
+    "Authors": "Laditka, James N.; Laditka, Sarah B.",
+    "Article Title": "Unemployment, disability and life expectancy in the United States: A life course study",
+    "Abstract": "Background: Unemployment may be associated with health through factors including stress, depression, unhealthy behaviors, reduced health care, and loss of social networks. Little is known about associations of total lifetime unemployment with disability and life expectancy.Hypothesis: People with high unemployment (>= the median) will live shorter lives with more disability than those with less unemployment.Methods: Data were nationally representative of African Americans and non-Hispanic whites, from the Panel Study of Income Dynamics (37 waves 1968-2011, n = 7,970, mean work years = 24.7). Seven waves (1999e2011, 58,268 person-years) measured disability in activities of daily living. We estimated monthly probabilities of disability and death associated with unemployment using multinomial logistic Markov models adjusted for age, sex, race/ethnicity, education, health status at baseline and throughout work life, and social support. We used the probabilities to create large populations with microsimulation, each individual having known monthly disability status, age 40 to death. We analyzed the populations to measure outcomes.Results: Respectively for African American and white women and African American and white men, life expectancies (with 95% confidence intervals) from age 40 with low unemployment were ages: 77.1 (75.0-78.3), 80.6 (78.4-81.4), 71.4 (69.6-72.5), and 76.9 (74.9-77.9). Corresponding high unemployment results were: 73.7 (71.7-75.0), 77.5 (75.1-78.0), 68.4 (66.8-69.0), and 73.7 (71.5-74.3). The percentage of life disabled from age 40 was greater with high unemployment for the same groups, by 23.9%, 21.0%, 21.3%, and 21.1% (all p < 0.01).Conclusions: High lifetime unemployment may be associated with a larger proportion of later life with disability and lower life expectancy. (C) 2016 Elsevier Inc. All rights reserved.",
+    "DOI": "10.1016/j.dhjo.2015.08.003",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on unemployment, disability, and life expectancy.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and lacks specific outcomes related to employment or labor results.",
+            "study_design": "Cross-sectional analysis using microsimulation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on interventions directly addressing employment for people with mental health disorders, but rather on unemployment in general.",
+            "study_design": "Life course study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Life course study",
+            "logprobs": null
+        }
+    }
+}

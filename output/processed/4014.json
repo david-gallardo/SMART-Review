@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4014,
+    "Authors": "Rokicki, Slawa; Reichman, Nancy E.; McGovern, Mark E.",
+    "Article Title": "Association of Increasing the Minimum Wage in the US With Experiences of Maternal Stressful Life Events",
+    "Abstract": "IMPORTANCE Exposure to stressful life events (SLEs) before and during pregnancy is associated with adverse health for pregnant people and their children. Minimum wage policies have the potential to reduce exposure to SLEs among socioeconomically disadvantaged pregnant people.OBJECTIVE To examine the association of increasing the minimum wage with experience of maternal SLEs.DESIGN, SETTING, AND PARTICIPANTS This repeated cross-sectional study included 199 308 individuals who gave birth between January 1, 2004, and December 31, 2015, in 39 states that participated in at least 2 years of the Pregnancy Risk Assessment Monitoring Survey between 2004 and 2015. Statistical analysis was performed from September 1, 2022, to January 6, 2023.EXPOSURE The mean minimum wage in the 2 years prior to the month and year of delivery in an individual's state of residence. MAIN OUTCOMES AND MEASURES The main outcomes were number of financial, partner-related, traumatic, and total SLEs in the 12 months before delivery. Individual-level covariates included age, race and ethnicity, marital status, parity, educational level, and birth month. State-level covariates included unemployment, gross state product, uninsurance, poverty, state income supports, political affiliation of governor, and Medicaid eligibility levels. A 2-way fixed-effects analysis was conducted, adjusting for individual and state-level covariates and state-specific time trends.RESULTS Of the 199 308 women (mean [SD] age at delivery, 25.7 [6.1] years) in the study, 1.4% were American Indian or Alaska Native, 2.5% were Asian or Pacific Islander, 27.2% were Hispanic, 17.6% were non-Hispanic Black, and 48.8% were non-Hispanic White. A $1 increase in the minimum wage was associated with a reduction in total SLEs (-0.060; 95% CI, -0.095 to -0.024), financial SLEs (-0.032; 95% CI, -0.056 to -0.007), and partner-related SLEs (-0.019; 95% CI, -0.036 to -0.003). When stratifying by race and ethnicity, minimum wage increases were associated with larger reductions in total SLEs for Hispanic women (-0.125; 95% CI, -0.242 to -0.009).CONCLUSIONS AND RELEVANCE In this repeated cross-sectional study of women with a high school education or less across 39 states, an increase in the state-level minimum wage was associated with reductions in experiences of maternal SLEs. Findings support the potential of increasing the minimum wage as a policy for improving maternal well-being among socioeconomically disadvantaged pregnant people. These findings have relevance for current policy debates regarding the minimum wage as a tool for improving population health.",
+    "DOI": "10.1001/jamanetworkopen.2023.24018",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather examines the association of increasing the minimum wage with experiences of maternal stressful life events.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the association of increasing the minimum wage with experiences of maternal stressful life events. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Repeated cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

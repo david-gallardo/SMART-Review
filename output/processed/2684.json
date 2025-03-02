@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2684,
+    "Authors": "Scanlan, Justin Newton; Still, Megan; Radican, Jae; Henkel, Daya; Heffernan, Tim; Farrugia, Peter; Isbester, Jemima; English, Jessica",
+    "Article Title": "Workplace experiences of mental health consumer peer workers in New South Wales, Australia: a survey study exploring job satisfaction, burnout and turnover intention",
+    "Abstract": "Background Consumer peer workers are individuals with lived experience of mental health issues and recovery who are employed to use their lived experience to support others. The consumer peer workforce has expanded substantially in recent years. While some research has explored the workplace experiences of peer workers, no previous studies have explored job satisfaction, burnout or turnover intention for this workforce. Methods Consumer peer workers in New South Wales, Australia were invited to complete a survey designed to explore their workplace experiences. The survey included measures of job satisfaction, burnout, turnover intention, job demands and job resources, and satisfaction with supervision, professional development and opportunities for career progression. Questions also explored positive and negative aspects of positions. Analyses included exploration of the relationships between of job satisfaction, burnout, turnover intention, job demands and job resources as well as tabulation of common positive and negative aspects of positions. Results were also compared with findings from a previous study exploring workplace experiences of other mental health workers. Results A total of 67 peer workers participated in the study. Overall job satisfaction, burnout (disengagement and exhaustion) and turnover intention for peer workers was not significantly different to other mental health workers. Job satisfaction, disengagement, exhaustion and turnover intention were all significantly inter-related. Job resources of social support, job control, feedback, and rewards and recognition were associated with positive workplace experiences and the job demand of physical environment was most substantially associated with poorer workplace experiences. The most common positive aspect of positions was connecting with consumers and the most common negative aspect of positions was attitudes of clinicians / workplace culture. Access to supervision from a senior peer worker was associated with more positive workplace experiences. Conclusions This research demonstrates that while consumer peer workers do not appear to experience poorer job satisfaction or higher levels of burnout or turnover intention than other mental health workers, a range of challenges do exist. Efforts to further expand the peer workforce (especially senior peer worker roles) and to promote more positive attitudes and workplace cultures are likely to promote better workplace experiences for peer workers.",
+    "DOI": "10.1186/s12888-020-02688-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a survey study with a control group (previous study) and a control group is mentioned in the results section.",
+            "study_design": "Survey study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey study which lacks a rigorous evaluation and control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Survey Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a control group and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2740,
+    "Authors": "Chatterton, Mary Lou; Mihalopoulos, Cathrine; O'Neil, Adrienne; Itsiopoulos, Catherine; Opie, Rachelle; Castle, David; Dash, Sarah; Brazionis, Laima; Berk, Michael; Jacka, Felice",
+    "Article Title": "Economic evaluation of a dietary intervention for adults with major depression (the SMILES trial)",
+    "Abstract": "Background: Recently, the efficacy of dietary improvement as a therapeutic intervention for moderate to severe depression was evaluated in a randomised controlled trial. The SMILES trial demonstrated a significant improvement in Montgomery-Asberg Depression Rating Scale scores favouring the dietary support group compared with a control group over 12 weeks. We used data collected within the trial to evaluate the cost-effectiveness of this novel intervention.Methods: In this prospective economic evaluation, sixty-seven adults meeting DSM-IV criteria for a major depressive episode and reporting poor dietary quality were randomised to either seven sessions with a dietitian for dietary support or to an intensity matched social support (befriending) control condition. The primary outcome was Quality Adjusted Life Years (QALYs) as measured by the AQoL-8D, completed at baseline and 12 week follow-up (endpoint) assessment. Costs were evaluated from health sector and societal perspectives. The time required for intervention delivery was costed using hourly wage rates applied to the time in counselling sessions. Food and travel costs were also included in the societal perspective. Data on medications, medical services, workplace absenteeism and presenteesim (paid and unpaid) were collected from study participants using a resource-use questionnaire. Standard Australian unit costs for 2013/2014 were applied. Incremental cost-effectiveness ratios (ICERs) were calculated as the difference in average costs between groups divided by the difference in average QALYs. Confidence intervals were calculated using a non-parametric bootstrap procedure.Results: Compared with the social support condition, average total health sector costs were $856 lower (95% CI - 1247 to - 160) and average societal costs were $2591 lower (95% CI -3591 to - 198) for those receiving dietary support. These differences were driven by lower costs arising from fewer allied and other health professional visits and lower costs of unpaid productivity. Significant differences in mean QALYs were not found between groups. However, 68 and 69% of bootstrap iterations showed the dietary support intervention was dominant (additional QALYs at less cost) from the health sector and societal perspectives.Conclusions: This novel dietary support intervention was found to be likely cost-effective as an adjunctive treatment for depression from both health sector and societal perspectives.",
+    "DOI": "10.1186/s12889-018-5504-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes. The study focuses on the economic evaluation of a dietary intervention for adults with major depression.",
+            "study_design": "Economic evaluation (prospective study)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and the intervention is focused on dietary support for depression rather than active employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it focuses on dietary intervention for depression, not employment policies for people with mental health disorders.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies or outcomes related to employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

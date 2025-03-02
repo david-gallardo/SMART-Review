@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4021,
+    "Authors": "Vitale, Pasquale; Bocchino, Ida; De Falco, Vincenzo; Auletta, Gelsomina; Di Giovanni, Ilaria; Bocchetti, Marco; Auriemma, Annunziata; Conchiglia, Roberto; Addeo, Raffaele",
+    "Article Title": "Utility of psychotherapy assessed with Kessler scale in a population of cancer patients undergoing systemic oncological treatment: a mono-institutional experience",
+    "Abstract": "Background: Psychological distress has been associated with greater physical symptom severity, suffering, and mortality in cancer patients. For this reason, today, psychological care represents a fundamental tool for improving the quality of life of cancer patients.Methods: From September 2021 to May 2022, 170 newly diagnosed cancer patients, were enrolled in the observational study at Medical Oncology Unit, San Giovanni di Dio Hospital. Before the start of oncological treatment, they were subjected to the Kessler 10 (K10) test, a validated measure of non-specific symptoms of psychological distress of the past 4 weeks. On the basis of the score, they were divided into three groups: low [10-19], moderate [20-29] and high [30-50] distress. After 3 months of psychological therapy, they repeated the test.Results: Majority of patients were female (74.1%), aged <70 years (78.2%). The most represented tumours were breast (47.6%), colon (15.3%), urothelial (10.6%) and lung (7.6%) cancer and most patients started intravenous chemotherapy treatment (74.7%) rather than oral therapy. The previous remote pathological history and the family cancer history of the patients were also evaluated. Finally, marital status, schooling and employment status were recorded. At baseline we found 55, 72, and 43 patients with a low, moderate and high psychological distress, respectively. After the 3 months of psychotherapy, we re-administered the K10 test and we found a radical improvement in the degree of psychological distress (96 patients had a low score, 62 with a moderate score and just 12 patients with a high score). The great reduction in the score in K10 was statistically significant with a P value of <0.0001. The reduction of the K10 score was observed indiscriminately in all subgroups analysed. A statistically significant difference was observed between patients with different education levels (low 56% vs. high 32% of reduction in K10 score). Furthermore, the improvement in psychological health was greater in unemployed patients than in workers.Conclusions: The use of the K10 test is helpful in monitoring the degree of psychological distress of patients facing the diagnosis of cancer and who are about to start oncological treatment. Psychotherapy is effective in reducing the distress of these patients just a few months after starting treatment.",
+    "DOI": "10.21037/cco-23-54",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention is psychotherapy rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on cancer patients and not specifically on people with mental health disorders. The intervention is psychotherapy, which is not one of the specified interventions in the inclusion criteria.",
+            "study_design": "observational study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2477,
+    "Authors": "Molina-Garcia, Laura; Bernal-Bravo, Cesar; Martin-Padilla, Antonio Hilario",
+    "Article Title": "Mindfulness (MBI) in continuous training and evaluation of the transfer in the public sector",
+    "Abstract": "This research article presents the results of transfer to the workplace of the training received by workers of the Diputacion de Sevilla. The training action is received as continuous training within the continuous training plans of the Diputacion de Sevilla. Specifically, the face-to-face training action is a Mindfulness-Based Intervention (MBI): Mindfulness: cultivating full attention, with a duration of 28 hours. Several parameters of this MBI intervention have been analyzed, one of them the transfer of the knowledge acquired to professional and personal practice. The analyzed data show positive results in all the participants, so it can be affirmed that mindfulness training supposes an improvement in capacities such as patience, resilience, communication, problem solving, stress reduction, among other issues to be highlighted in the business climate and the mental health of the people who make it up.",
+    "DOI": "10.46661/ijeri.7396",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: labor regulation policies, as it discusses continuous training and evaluation of the transfer in the public sector, which is not directly addressing employment.",
+            "study_design": "Lacks a rigorous evaluation or no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on mindfulness-based intervention and its transfer to professional and personal practice.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on mindfulness training in the public sector and does not specifically address employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention is not one of the specified types (job search services, adult training, wage subsidies, supported employment). The study does not focus on mental health disorders but rather general mental health improvements.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

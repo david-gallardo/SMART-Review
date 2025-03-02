@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2572,
+    "Authors": "Reynolds, Jeremy; James, Katie",
+    "Article Title": "Blessing or Burden: Transitions Into Eldercare and Caregiver Mental Health",
+    "Abstract": "Caring for one's parents can be good or bad for mental health. Guided by theories suggesting that caregiving work brings both demands and benefits, we examine if mental health outcomes depend on variations in caregiving arrangements. Using waves 5-17 from the Household Income and Labor Dynamics in Australia Survey (16,802 respondents; 115,176 person-years), we divide men and women caregivers into four groups based on their responsibility (main vs. secondary caregiver) and the location of the care recipient (inside or outside the caregiver's household). We also examine how caregivers' experiences are moderated by the social support they have. On average, caregivers experience no change in mental health. However, women with low social support who become main caregivers for resident parents experience declines in mental health. Men with low social support who become main caregivers for non-resident parents experience improved mental health. These results suggest that caregiver outcomes reflect different caregiving arrangements.",
+    "DOI": "10.1177/0192513X211042842",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, focusing on caregiving arrangements and their impact on mental health outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the impact of caregiving on mental health in elderly care.",
+            "study_design": "Cross-sectional analysis using longitudinal data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on caregiving for elderly parents, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference people with pre-existing mental disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

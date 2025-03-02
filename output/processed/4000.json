@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4000,
+    "Authors": "Brunet, Jennifer; Tulloch, Heather E.; Phillips, Emily Wolfe; Reid, Robert D.; Pipe, Andrew L.; Reed, Jennifer L.",
+    "Article Title": "Motivation Predicts Change in Nurses' Physical Activity Levels During a Web-Based Worksite Intervention: Results From a Randomized Trial",
+    "Abstract": "Background: Low physical activity levels can negatively affect the health of nurses. Given the low physical activity levels reported by nurses, there is a clear need for brief and economical interventions designed to increase physical activity levels in this population. We developed a web-based intervention that used motivational strategies to increase nurses' physical activity levels. The intervention provided the nurses with feedback from an activity monitor coupled with a web-based individual, friend, or team physical activity challenge.Objective: In this parallel-group randomized trial, we examine whether nurses' motivation at baseline predicted changes in objectively measured physical activity levels during the 6-week intervention.Methods: The participants were 76 nurses (n=74, 97% female; mean age 46, SD 11 years) randomly assigned to 1 of 3 physical activity challenge conditions: (1) individual, (2) friend, or (3) team. The nurses completed a web-based questionnaire designed to assess motivational regulations for physical activity levels before the intervention and wore a Tractivity activity monitor before and during the 6-week intervention. We analyzed data using multilevel modeling for repeated measures.Results: The nurses' physical activity levels increased (linear estimate=10.30, SE 3.15; P=.001), but the rate of change decreased over time (quadratic estimate=-2.06, SE 0.52; P<.001). External and identified regulations (B=-2.08 to 11.55; P=.02 to .04), but not intrinsic and introjected regulations (B=-.91 to 6.29; P=.06 to .36), predicted changes in the nurses' physical activity levels.Conclusions: Our findings provide evidence that an intervention that incorporates self-monitoring and physical activity challenges can be generally effective in increasing nurses' physical activity levels in the short term. They also suggest that drawing solely on organismic integration theory to predict changes in physical activity levels among the nurses participating in web-based worksite interventions may have been insufficient. Future research should examine additional personal (eg, self-efficacy) and occupational factors (eg, shift length and shift type) that influence physical activity levels to identify potential targets for intervention among nurses.",
+    "DOI": "10.2196/11543",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, but rather focuses on physical activity levels.",
+            "study_design": "Randomized trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is nurses rather than people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders and the outcome does not include employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

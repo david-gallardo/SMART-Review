@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2483,
+    "Authors": "Lent, Robert W.; Wang, Ruogu J.; Cygrymus, Emily R.; Moturu, Bhanu Priya",
+    "Article Title": "Navigating the multiple challenges of job loss: A career self-management perspective",
+    "Abstract": "Involuntary job loss poses at least two major, simultaneous challenges: coping with the psychological fallout of the loss as well as finding new work. Research on coping with unemployment has often emphasized the job search process, equating it with problem-focused coping. By contrast, while the psychological toll also represents a real problem for many unemployed persons, efforts to cope with the myriad non-search aspects of job loss (e.g., changes in social, temporal, and financial conditions) have often been considered as emotion-focused, symptom-focused, or escape-oriented, implying that such coping is somehow ancillary to, or even at odds with, the aims of re-employment. Extending the social cognitive model of career self-management (CSM; Lent & Brown, 2013) to the study of job loss, we examined psychological and job search coping strategies in conjunction with selected person and contextual factors that can aid or hinder the coping process. The project included development of a new coping strategies measure, the Coping with Unemployment Scales (CUES). A sample of 512 early to mid-career unemployed workers in the U.S. completed an online survey including measures of coping, social support, financial strain, proactive personality, and three criterion variables: emotional well-being, psychological distress, and job search progress. A structural path analysis of the CSM model yielded good fit to the data. The coping strategies contributed uniquely to the prediction of the emotional functioning and job search progress criteria. We consider the implications of the findings for future inquiry on job loss coping.",
+    "DOI": "10.1016/j.jvb.2023.103927",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

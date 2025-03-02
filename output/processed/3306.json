@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3306,
+    "Authors": "McGonagle, Alyssa K.; Beatty, Joy E.; Joffe, Rosalind",
+    "Article Title": "Coaching for Workers With Chronic Illness: Evaluating an Intervention",
+    "Abstract": "Working with chronic illness may present challenges for individuals-for instance, managing symptoms at work, attaining accommodations, and career planning while considering health limitations. These challenges may be stressful and lead to strains. We tested a 12-week, 6-session, phone-based coaching intervention designed to help workers manage these challenges and reduce strains. Using theories of stress and resources, we proposed that coaching would help boost workers' internal resources and would lead to improved work ability perceptions, exhaustion and disengagement burnout, job self-efficacy, core self-evaluations, resilience, mental resources, and job satisfaction, and that these beneficial effects would be stable 12 weeks after coaching ended. Fifty-nine full-time workers with chronic illnesses were randomly assigned to either a coaching group or a waitlisted control group. Participants completed online surveys at enrollment, at the start of coaching, after coaching ended, and 12 weeks postcoaching. Compared with the control group, the coaching group showed significantly improved work ability perceptions, exhaustion burnout, core self-evaluations, and resilience-yet no significant improvements were found for job self-efficacy, disengagement burnout, or job satisfaction. Indirect effects of coaching on work ability, exhaustion and disengagement burnout, and job satisfaction were observed through job self-efficacy, core self-evaluations, resilience, and mental resources. Results indicated that the positive effects of coaching were stable 12 weeks after coaching ended. Results suggest that this coaching intervention was helpful in improving the personal well-being of individuals navigating challenges associated with working and managing chronic illness.",
+    "DOI": "10.1037/a0036601",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study is set in the US, which is within the specified geographic scope. The study timeframe is between 2005 and 2025. The intervention is job search services (coaching), which is one of the specified interventions. The population is people with mental disorders or documented mental health problems, which meets the population criterion. The study presents measures of employment and labor results, such as work ability perceptions, exhaustion burnout, core self-evaluations, resilience, and job satisfaction.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workers with chronic illnesses rather than mental disorders. It does not meet the population criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workers with chronic illness, not specifically on people with mental health disorders.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as people with mental disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

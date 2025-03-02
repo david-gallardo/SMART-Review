@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3128,
+    "Authors": "Garman, Emily Claire; Cois, Annibale; Tomlinson, Mark; Rotheram-Borus, Mary Jane; Lund, Crick",
+    "Article Title": "Course of perinatal depressive symptoms among South African women: associations with child outcomes at 18 and 36 months",
+    "Abstract": "Purpose Latent modelling was used to identify trajectories of depressive symptoms among low-income perinatal women in South Africa. Predictors of trajectories and the association of trajectories with child outcomes were assessed. Methods This is a secondary analysis of data collected among women living in Cape Town settlements (N = 446). Participants were eligible if pregnant and 18 years or older, and included in the analysis if allocated to the control arm (routine perinatal care). Participants were excluded in case of non-singleton birth and baby death. Follow-up assessments were at 2 weeks, 6-, 18-, and 36-month postpartum. Trajectories of depressive symptoms were based on the Edinburgh Postnatal Depression Scale scores until 18-month postpartum, using latent class growth analysis. Child physical, cognitive, socio-emotional, and behavioural outcomes were assessed at 18 and/or 36 months. Univariate and multivariate regressions were used to identify predictors of trajectories and differences in child outcomes. Results Four trajectories were identified: chronic low (71.1%), late postpartum (10.1%), early postpartum (14.4%), and chronic high (4.5%). Low social support, unwanted pregnancy, and risky drinking were associated with the chronic high trajectory; unemployment and HIV-positive status with the early postpartum trajectory; and intimate partner violence with the late postpartum trajectory. Weight-to-length and weight-for-age z-scores at 18 months, and weight-for-age z-scores, length-for-age z-scores, emotional symptom, and peer problem scores at 36 months differed across trajectories. Conclusions Severe depressive symptoms in postpartum period have a lasting effect on child physical and socio-emotional outcomes. Multiple screening throughout pregnancy and 1-year postpartum is essential.",
+    "DOI": "10.1007/s00127-019-01665-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on child outcomes rather than employment outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population does not reference mental health.",
+            "study_design": "Secondary analysis of latent class growth analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on perinatal depressive symptoms and child outcomes, not directly on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Secondary analysis of data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Secondary analysis of longitudinal data using latent class growth analysis and regression models",
+            "logprobs": null
+        }
+    }
+}

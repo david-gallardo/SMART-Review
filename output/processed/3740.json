@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3740,
+    "Authors": "Krauss, Samantha; Orth, Ulrich",
+    "Article Title": "Work Experiences and Self-Esteem Development: A Meta-Analysis of Longitudinal Studies",
+    "Abstract": "Theory suggests that people's work experiences influence their self-esteem and, vice versa, that self-esteem influences work experiences. This meta-analysis of longitudinal studies synthesizes the available evidence on prospective effects between work experiences and self-esteem, controlling for prior levels of the outcomes. The following work variables were examined: job satisfaction, job success, income, job resources, job stressors, and employment status. The analyses were based on 30 independent samples, including data from 53,112 participants. Mean age ranged from 17 to 64 years, spanning most of the work life. For each work variable, we computed random-effects models with standardized regression coefficients as effect size measure. Results suggested reciprocal effects between work experiences and self-esteem. The effects of self-esteem on later work experiences (point estimates ranged from .05 to .10) were slightly larger than the effects of work experiences on later self-esteem (point estimates ranged from .02 to .05). Moderator analyses on the relation between job satisfaction and self-esteem indicated that the effects did not differ across age, gender, sample type, and time lag. Overall, the findings support the corresponsive principle of personality development and suggest that the work domain and people's self-esteem are interdependent.",
+    "DOI": "10.1177/08902070211027142",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather examines the relationship between work experiences and self-esteem.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies for people with mental health disorders. It focuses on the relationship between work experiences and self-esteem in general populations.",
+            "study_design": "Meta-analysis of longitudinal studies",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between work experiences and self-esteem, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Meta-analysis of longitudinal studies",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The outcomes do not present measures of employment or labor results.",
+            "study_design": "Meta-analysis",
+            "logprobs": null
+        }
+    }
+}

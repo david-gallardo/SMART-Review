@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2536,
+    "Authors": "Lazar, Christina M.; Gilstad-Hayden, Kathryn; Brummett, Bradley; Simon, Phillip; Kachadourian, Lorig; Rosen, Marc I.",
+    "Article Title": "Pilot Clinical Trial of a Website-Delivered Motivational Interviewing Program for Engaging Veterans in Paid Work",
+    "Abstract": "A web-based adaptation of a benefits counseling intervention was specifically developed to encourage veterans applying for service-connection to engage in work-related activities by explaining the limited risk of Veterans Administration (VA) benefit reduction if the beneficiary is employed. This study reports the efficacy of this web-based benefit counseling intervention. Altogether, 150 veterans applying for service-connection for a mental health condition were randomly assigned to a benefits counseling website or a control website. The benefits counseling website directed participants to a web-adapted benefits counseling program. The control website directed participants to a website with government links to general information about the service-connection process and VA benefits. Employment outcomes were assessed by phone at 4, 12, and 24 weeks after randomization. Three quarters (n = 117, 78%) of veterans logged into their assigned website and were included in the analysis. Web-based benefits counseling had a modest impact on attitudes toward work and benefits, but there was no significant change in employment.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention does not directly address employment, but rather labor regulation policies (VA benefits) and social security policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation as it does not have a control group for the analysis.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with mental health conditions, which is a specific population not clearly defined as people with mental health disorders in general. The intervention is not directly about employment but about explaining VA benefits, which does not meet the intervention criteria. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Pilot Clinical Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

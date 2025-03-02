@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3910,
+    "Authors": "Fond, Guillaume; Lucas, Guillaume; Boyer, Laurent",
+    "Article Title": "Health-promoting work schedules among nurses and nurse assistants in France: results from nationwide AMADEUS survey",
+    "Abstract": "BackgroundThe study aimed to investigate the relationship between different work schedules and self-reported working conditions and health risk behaviours among nurses and nurse assistants (NNA) in France. It hypothesized that work schedules, particularly long shifts, could impact work-life balance, workload, stress levels, burnout, and smoking habits. NNA had the option to work either with a 7-hour schedule, 5 days per week, or with long work schedules consisting of ten to twelve-hour shifts, three days per week. These schedules could potentially influence various aspects of their professional lives.MethodsThe survey followed the guidelines of the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Statement and was administered to NNA working in public and private national healthcare facilities in France. The researchers used the Job Content Questionnaire to assess the work environment and the French version of the 22-item Maslach Burnout Inventory (MBI) scale to measure burnout.ResultsA total of 3,133 NNA participated in the study, including 2,369 nurses (75.6%) and 764 nurse assistants (24.4%). Among them, 1,811 individuals (57.8%) followed a 7-hour work schedule, while 1,322 individuals (42.2%) had a long work schedule. Multivariate analyses revealed that NNA working with long schedules reported higher psychological demands, more frequent burnout, a higher number of daily smoked cigarettes, and greater coffee consumption. These findings were independent of other factors such as sector of employment, type of healthcare facility, job status, work schedules, night shifts, department specialty, age, and family responsibilities.ConclusionsWhile some NNA may choose long schedules to have more days off, those working with these schedules experience greater work-related burdens and engage in worse health risk behaviours as a coping mechanism. It emphasizes the importance of considering health-promoting work schedules to address the high psychological demands and burnout experienced by NNA with long schedules. Implementing changes in work schedules could potentially improve the overall well-being and job satisfaction of these healthcare professionals.",
+    "DOI": "10.1186/s12912-023-01403-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather investigates the relationship between work schedules and self-reported working conditions and health risk behaviors.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on work schedules and their impact on nurses and nurse assistants in France.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions directly related to employment or active employment policies for people with mental health disorders. It also does not include adult training, wage subsidies, or supported employment as interventions.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a control group and does not measure employment outcomes.",
+            "study_design": "Observational Study",
+            "logprobs": null
+        }
+    }
+}

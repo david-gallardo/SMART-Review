@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2399,
+    "Authors": "Atay, Bunyamin; Guneri, Oya Yerin",
+    "Article Title": "Thriving in the face of youth unemployment: The role of personal and social resources",
+    "Abstract": "Extensive research indicated that unemployment has detrimental impacts upon psychological well-being of young individuals. Nevertheless, psychological well-being of unemployed college graduates remained unexamined in the existing literature. The current study sought to investigate the direct and indirect roles of self, social, and work resources on the mental health of unemployed college graduates (N = 291). The results of path analysis pointed out that only self-esteem, employment hope, and family social support were directly linked with psychological well-being. Additionally, there were indirect paths from work-role centrality, self-efficacy, self-esteem, and job search motivation to psychological well-being via employment hope.",
+    "DOI": "10.1002/joec.12209",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the psychological well-being of unemployed college graduates, which does not meet the inclusion criteria for population.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental disorders or documented mental health problems and its outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployed college graduates, not specifically on people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, it does not present measures of employment or labor outcomes.",
+            "study_design": "Path analysis",
+            "logprobs": null
+        }
+    }
+}

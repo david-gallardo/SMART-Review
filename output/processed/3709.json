@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3709,
+    "Authors": "Brintnell, E. Sharon; Sawhney, Anjili S.; Bailey, Patricia G.; Nelson, Monty; Pike, Ashley D.; Wielandt, Patricia",
+    "Article Title": "Corrections and connection to the community: A diagnostic and service program for incarcerated adult men with FASD",
+    "Abstract": "Previous research has demonstrated that impaired social and adaptive behavior due to prenatal alcohol exposure can be associated with severe conduct disorders in adolescence, mental health concerns, school failure, employment difficulties, substance abuse, difficulty with the law, and incarceration. The Corrections and Connections to the Community research and service program was established to examine adult male offenders with frequent contact with the provincial corrections system. Individuals who participated in the program received neuropsychological testing, a functional assessment and a psychiatric interview. Results indicated that 90% of the participants identified within the spectrum of FASD. The functional profile indicated that many participants had impaired social functioning. A natural dichotomy emerged from the data which reflected those who connected early with the criminal justice system (65%) and those who did not connect within the 18 month project period. Significant differences emerged between those individuals who reconnected with the justice system and who also possessed a juvenile record and those who did not. Further analysis also indicated significant differences between scores on the Finger Tapping Test, Trail Making Test A, ILS and California Verbal Learning Test. Findings of this study highlight the importance of appropriate programming and services for incarcerated men with FASD.",
+    "DOI": "10.1016/j.ijlp.2018.12.005",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a diagnostic and service program, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Diagnostic and service program",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment or labor outcomes. It focuses on the Corrections and Connections to the Community program for incarcerated adult men with FASD.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adult male offenders with Fetal Alcohol Spectrum Disorder (FASD) and their interaction with the criminal justice system, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment, and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

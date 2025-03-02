@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2627,
+    "Authors": "Molarius, Anu; Granstrom, Fredrik",
+    "Article Title": "Educational differences in psychological distress? Results from a population-based sample of men and women in Sweden in 2012",
+    "Abstract": "Background Mental health problems are more frequent in socially disadvantaged groups, but the results vary between different studies, different populations and different measures of mental health. This paper investigated the association between educational level, economic difficulties and psychological distress in men and women in Sweden.Methods The study population included 24 510 respondents aged 25-74 years who responded to a survey questionnaire in Mid-Sweden in 2012 (response rate 53%). Psychological distress was measured with the 12-item version of the General Health Questionnaire, and multivariate logistic regression models were used in statistical analyses, adjusting for age, employment status and social support.Results The prevalence of psychological distress was higher in women (16.4%) than in men (11.3%; p<0.001). Persons with low and medium educational level had a lower risk of psychological distress than persons with high educational level after adjustment for confounders. Economic difficulties had a strong association with psychological distress (OR 2.80 (95% CI 2.39 to 3.27) and OR 2.40 (95% CI 2.12 to 3.71) in men and women, respectively) after adjustment for confounders.Conclusion We found a strong association between economic difficulties and psychological distress in this study, but no inverse association between educational level and psychological distress. On the contrary, persons with high education had more psychological distress than persons with low and medium education when age, employment status and social support were taken into account. The findings were similar in men and women.",
+    "DOI": "10.1136/bmjopen-2017-021007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead investigates the association between educational level, economic difficulties, and psychological distress.",
+            "study_design": "Quasi-experimental study with multivariate logistic regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks an intervention related to employment policies. It focuses on educational differences and psychological distress without addressing interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Population-based survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

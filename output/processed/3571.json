@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3571,
+    "Authors": "Longhi, Dario; Brown, Marsha; Reed, Suzette Fromm",
+    "Article Title": "Community-Wide Resilience Mitigates Adverse Childhood Experiences on Adult and Youth Health, School/Work, and Problem Behaviors",
+    "Abstract": "This study developed community-wide measures for 118 Washington State communities of levels of adverse childhood experiences (ACEs) and resilience, and found significant mitigating effects of resilience on community-wide levels of mental health, physical health, problem behaviors, and school/work outcomes, independent of community-wide levels of ACEs, low income, and race/ethnic composition. The data set was constructed by calculating aggregated community-level variables from measures obtained from survey responses to the Behavioral Risk Factor Surveillance System for adults and the Healthy Youth Survey for youth and combining them with state archival data. Principal component factor scores were calculated for community-wide levels of individual and contextual resilience. Individual resilience included prevalence of social-emotional support, life satisfaction, and optimism. Contextual resilience included social capital factors, social cohesion and collective efficacy for adults and protective supports for youth in four domains-family/adult, peer, school, and neighborhood/community. Both contextual and individual resilience levels mitigated outcomes for adults-only contextual resilience for youth.",
+    "DOI": "10.1037/amp0000773",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of community-wide resilience on mental health, physical health, problem behaviors, and school/work outcomes.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and the interventions do not include job search services, adult training, wage subsidies, or supported employment. It focuses on community-wide resilience and its effects on mental health, physical health, problem behaviors, and school/work outcomes.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Community-wide study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not focus on people with mental health disorders.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

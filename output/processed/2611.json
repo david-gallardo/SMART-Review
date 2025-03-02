@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2611,
+    "Authors": "Miller, Olivia; Shakespeare-Finch, Jane; Bruenig, Dagmar",
+    "Article Title": "Predicting Burnout, Well-Being, and Posttraumatic Growth in Correctional Officers",
+    "Abstract": "Correctional officers work in a stressful environment and are exposed to elevated levels of critical incidents. Such exposure can lead to negative psychological outcomes like burnout. However, positive psychological experiences including well-being and posttraumatic growth are also possible under such adverse conditions. Therefore, the purpose of this study was to explore predictors of burnout, well-being, and posttraumatic growth in a sample of correctional officers (N = 142). The results of multiple regression analyses indicated that age, workplace adversity, and resilience were significant predictors of correctional officer burnout. A sense of workplace belongingness and the use of adaptive coping strategies were significant positive predictors of well-being and posttraumatic growth. Trait resilience and the receipt of social support were additional significant positive predictors of well-being. These results highlight the importance of individual, interpersonal, and organizational factors in promoting positive health outcomes, preventing negative health outcomes, and providing avenues for staff support.",
+    "DOI": "10.1177/00938548241233932",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: job search services, adult training, wage subsidies, supported employment are not mentioned in the article.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions related to people with mental health disorders. It focuses on predictors of burnout, well-being, and posttraumatic growth in correctional officers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on correctional officers, not specifically on people with mental health disorders. The intervention is not clearly defined as job search services, adult training, wage subsidies, or supported employment. The study's outcomes are not directly related to employment or labor results.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to mental health disorders in the workplace.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

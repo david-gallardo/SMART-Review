@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2870,
+    "Authors": "Bird, Laura J.; McCabe, Melinda; Lim, Yen Ying; Cornish, Kim",
+    "Article Title": "Prevalence and correlates of subjective cognitive concerns in Australian university students during the COVID-19 pandemic",
+    "Abstract": "IntroductionCoronavirus (COVID-19) instigated unprecedented global effects on healthcare systems, economies, employment, education, travel, and social lives. In addition to increased mental health challenges, pandemic restrictions have triggered emerging cognitive concerns. University students are at particularly high risk of adverse lockdown-related effects, yet despite the substantial adaptions to learning necessitated by COVID-19, limited research has so far focused on the cognitive consequences of the pandemic among university students. This study aimed to comprehensively examine the nature, prevalence, and correlates of subjective cognitive concerns among 972 students (Median age = 22 years, 70% female) enrolled at Monash University, Australia, in December 2020.MethodsStudents completed the online THRIVE@Monash survey, 5 weeks following prolonged lockdown in Melbourne. Using group comparisons and hierarchical binary logistic regression analyses, we examined associations between demographic and enrolment characteristics, COVID-19-related experiences and impacts (author-developed questions), self-reported anxiety and depression symptoms (PROMIS Anxiety and Depression scales), and students' perceived changes in everyday cognitive functions (author-developed questions).ResultsOver 60% of students reported subjective cognitive concerns (SCCs). After controlling for anxiety and depression symptoms, students reporting more SCCs were more likely to be younger, from White/European ethnic backgrounds, and in their first year of undergraduate study. No differences in SCCs were found between male and female students. Greater worry, anxiety, or stress related to COVID-19 (e.g., infection, leaving the house, hygiene and exposure prevention, impact on physical and mental health), and time spent reading or talking about COVID-19, were generally not associated with SCCs after controlling for anxiety and depression symptoms.DiscussionThese findings highlight vulnerable subgroups of students who might benefit from regular monitoring, education, and interventions to support their cognitive health during the pandemic and beyond. In addition, cognitive concerns may provide additional insight into mental health problems among students, and emphasize the importance of understanding factors that impact students' long-term academic and career success.",
+    "DOI": "10.3389/fpsyg.2022.1094497",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on cognitive concerns and mental health among university students.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to job search services, adult training, wage subsidies, or supported employment. It focuses on cognitive concerns among university students during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on subjective cognitive concerns among university students during the COVID-19 pandemic, which is not directly related to employment or labor outcomes for people with mental health disorders. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, and it does not focus on interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

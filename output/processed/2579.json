@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2579,
+    "Authors": "van Hooft, Edwin A. J.",
+    "Article Title": "Motivating and Hindering Factors During the Reemployment Process: The Added Value of Employment Counselors' Assessment",
+    "Abstract": "Because unemployment negatively affects people's well-being, it is of crucial importance that unemployed individuals move back to work. The process of getting reemployed, however, is difficult and complex. Therefore, many unemployed job seekers are assisted by employment counselors. The present study focuses on motivating and hindering factors in the reemployment process, examining the added value of the counselors' assessment of job seekers' attitudes, perceptions, and behaviors. The results of a 3-wave study with job seeker self-ratings and counselor-ratings indicated that perceived health problems is the most consistent predictor of job search and reemployment status. The findings further provide some convergent validity evidence for self-and counselor-rated situational-level motivators (i.e., attitude, social pressure, self-efficacy) and job search intensity. Although method effects did not seem to threaten the validity of the prediction of job search intensity and procrastination, employment counselors' assessments of job seekers' job search intensity and procrastination were significantly more strongly related to reemployment success than job seekers' self-ratings. Future research should therefore include other-reports, in addition to job seeker self-reports, to get a more complete view of people's job search behavior. Also reemployment counseling firms may want to use the expert knowledge of their employment counselors more systematically.",
+    "DOI": "10.1037/a0035118",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on motivating and hindering factors during the reemployment process and the added value of employment counselors' assessment, but it lacks specific interventions such as job search services, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on motivating and hindering factors in the reemployment process and the added value of employment counselors' assessments, which does not directly address employment interventions or outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a control group and lacks a rigorous evaluation.",
+            "study_design": "3-wave study",
+            "logprobs": null
+        }
+    }
+}

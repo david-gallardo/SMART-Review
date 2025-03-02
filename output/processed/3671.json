@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3671,
+    "Authors": "Lerner, Debra; Adler, David A.; Rogers, William H.; Chang, Hong; Greenhill, Annabel; Cymerman, Elina; Azocar, Francisca",
+    "Article Title": "A Randomized Clinical Trial of a Telephone Depression Intervention to Reduce Employee Presenteeism and Absenteeism",
+    "Abstract": "Objectives: The study tested an intervention aimed at improving work functioning among middle-aged and older adults with depression and work limitations.Methods: A randomized clinical trial allocated an initial sample of 431 eligible employed adults (age >= 45) to a work-focused intervention (WFI) or usual care. Inclusion criteria were depression as measured by the Patient Health Questionnaire-9 (PHQ-9) and at-work limitations indicated by a productivity loss score >= 5% on the Work Limitations Questionnaire (WLQ). Study sites included 19 employers and five related organizations. Telephone-based counseling provided three integrated modalities: care coordination, cognitive-behavioral therapy strategy development, and work coaching and modification. Effectiveness (change in productivity loss scores from preintervention to four months postintervention) was tested with mixed models adjusted for confounders. Secondary outcomes included change in WLQ work performance scales, self-reported absences, and depression.Results: Of 1,227 eligible employees (7% of screened), 431 (35%) enrolled and 380 completed the study (12% attrition). At-work productivity loss improved 44% in the WFI group versus 13% in usual care (difference in change, p<.001). WFI group scores on the four WLQ scales improved 44% to 47%, significantly better than in usual care (p,. 001 for each scale). Absence days declined by 53% in the WFI group versus 13% in usual care (difference in change, p<. 001). Mean PHQ-9 depression symptom severity scores declined 51% for WFI versus 26% for usual care (difference in change, p<.001).Conclusions: The WFI was more effective than usual care at four-month follow-up. Given increasing efforts to provide more patient-centered, value-based care, the WFI could be an important resource.",
+    "DOI": "10.1176/appi.ps.201400350",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized clinical trial with a control group.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention focuses on reducing employee presenteeism and absenteeism due to depression rather than directly addressing employment through job search services, adult training, wage subsidies, or supported employment. The outcomes are related to work functioning but do not specifically address labor market outcomes such as employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on depression and work limitations in adults, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Randomized Clinical Trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT focused on improving work functioning among adults with depression, includes employment outcomes such as productivity loss and absenteeism, and is conducted in the US within the specified timeframe.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

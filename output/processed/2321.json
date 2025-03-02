@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2321,
+    "Authors": "Aroian, Karen; Uddin, Nizam; Blbas, Hazar",
+    "Article Title": "Longitudinal study of stress, social support, and depression in married Arab immigrant women",
+    "Abstract": "Using a stress and social support framework, this study explored the trajectory of depression in 388 married Arab immigrant women. The women provided three panels of data approximately 18months apart. Depression at Time 3 was regressed on Time 1 depression, socio-demographic variables, and rate of change over time in stress and social support. The regression model was significant and accounted for 41.16% of the variation in Time 3 depression scores. Time 1 depression, English reading ability, husband's employment status, changes over time in immigration demands, daily hassles, and social support from friends were associated with Time 3 depression.",
+    "DOI": "10.1080/07399332.2016.1253698",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Regression model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to job search services, adult training, wage subsidies, or supported employment. It focuses on stress, social support, and depression in married Arab immigrant women.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the intervention criteria as it does not directly address employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

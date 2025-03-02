@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3106,
+    "Authors": "Griffith, James",
+    "Article Title": "Homecoming of soldiers who are citizens: Re-employment and financial status of returning Army National Guard soldiers from Operations Iraqi Freedom (OIF) and Enduring Freedom (OEF)",
+    "Abstract": "This study examined civilian employment among Army National Guard soldiers who had recently returned from Operations Iraqi Freedom (OIF) and Enduring Freedom (OEF). Of specific interest were relationships of re-employment and financial difficulties to several conditions, such as amount of social support during and after deployment, combat exposure, negative feelings during and after deployment, and postdeployment adjustment symptoms. Survey data from the Army's Reintegration Unit Risk Inventory were used (4,546 soldiers in 50 units who were deployed during 2010). Few soldiers reported financial difficulties during deployment (7.1% of the sample) and after having returned (11.8%). Of those who reported postdeployment financial difficulties, nearly one-half had reported such difficulties during deployment, and not having resumed the predeployment job was associated with more postdeployment financial difficulties. Logistic regression analyses showed the relative contribution of the study variables to changed financial status, from deployment to postdeployment. Reported deployment support (e.g., trust in the unit chain-of-command and available support) was associated with decreased financial difficulties. In contrast, increased financial difficulties were associated with having seen others wounded or killed in combat. Other postdeployment experiences, such as feelings of anger and frustration and available support, were associated with increased financial difficulties, in addition to alcohol use, trouble sleeping and suicidal thoughts. Implications of results for policy and practice to lessen financial hardships and job loss associated with deployment are discussed.",
+    "DOI": "10.3233/WOR-131794",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a quasi-experimental study with a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on financial difficulties and re-employment of Army National Guard soldiers returning from specific operations.",
+            "study_design": "Survey-based analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the financial status of Army National Guard soldiers post-deployment. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders but rather on soldiers returning from combat.",
+            "study_design": "Survey-based observational study",
+            "logprobs": null
+        }
+    }
+}

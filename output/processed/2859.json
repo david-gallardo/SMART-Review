@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2859,
+    "Authors": "Wang, Yihan; Matz-Costa, Christina",
+    "Article Title": "Gender differences in the effect of social resources and social status on the retirement satisfaction and health of retirees",
+    "Abstract": "This study explores the effect of positive and negative social support, social reciprocity, and subjective social status on the retirement satisfaction and health of retirees and gender differences therein. Using cross-sectional data from the 2010 and 2012 waves of the Health and Retirement Study (HRS), we found that social support seems to matter more for the retirement satisfaction and health of women, while social reciprocity matters more for the health of men and subjective social status for the retirement satisfaction of men. Implications for the development of social programs and policies over the life course are discussed.",
+    "DOI": "10.1080/01634372.2018.1474156",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on employment or labor outcomes for people with mental health disorders. The study explores the effect of social resources and social status on retirement satisfaction and health of retirees.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on retirement satisfaction and health.",
+            "study_design": "Cross-sectional analysis using HRS data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes or interventions related to job search services, adult training, wage subsidies, or supported employment. Additionally, the population is retirees, not people with mental health disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3566,
+    "Authors": "Savolainen, Iina; Oksa, Reetta; Savela, Nina; Celuch, Magdalena; Oksanen, Atte",
+    "Article Title": "COVID-19 Anxiety-A Longitudinal Survey Study of Psychological and Situational Risks among Finnish Workers",
+    "Abstract": "Background: The COVID-19 crisis has changed the conditions of many all over the globe. One negative consequence of the ongoing pandemic is anxiety brought about by uncertainty and the COVID-19 disease. Increased anxiety is a potential risk factor for wellbeing at work. This study investigated psychological, situational, and socio-demographic predictors of COVID-19 anxiety using longitudinal data. Methods: A nationally representative sample of Finnish workers (N = 1308) was collected before and during the COVID-19 crisis. Eighty percent of the participants responded to the follow-up study (N = 1044). COVID-19 anxiety was measured with a modified Spielberger State-Trait Anxiety Inventory. Psychological and situational predictors included perceived loneliness, psychological distress, technostress, personality, social support received from the work community, and remote working. A number of socio-demographic factors were also investigated. Results: Perceived loneliness, psychological distress, technostress, and neuroticism were identified as robust psychological predictors of COVID-19 anxiety. Increase in psychological distress and technostress during the COVID-19 crisis predicted higher COVID-19 anxiety. A recent change in their field of work and decreased social support from work communities predicted COVID-19 anxiety. Women and young people experienced higher anxiety. Conclusions: Different factors explain workers' COVID-19 anxiety. Increased anxiety can disrupt wellbeing at work, emphasizing the organizations' role in maintaining an inclusive and caring work culture and providing technical and psychological support to workers during crisis.",
+    "DOI": "10.3390/ijerph18020794",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on psychological and situational risks among Finnish workers during the COVID-19 crisis.",
+            "study_design": "Longitudinal survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on psychological predictors of COVID-19 anxiety among Finnish workers.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, it does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal survey",
+            "logprobs": null
+        }
+    }
+}

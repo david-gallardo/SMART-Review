@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3399,
+    "Authors": "Hill, Chyna; Kim, Bo-Kyung Elizabeth; Holguin, Monique; Winetrobe, Hailey; Rice, Eric",
+    "Article Title": "Exploring Predictors of Service Use Among Youth Experiencing Homelessness",
+    "Abstract": "Objective: Given the high prevalence of Black youth experiencing homelessness, this study sought to understand if race impacts service use and whether other marginalized identities (e.g., gender, sexual orientation) are associated with unique service patterns among youth experiencing homelessness. Method: We used data collected from 1,046 homeless youth (ages 13-24) in Los Angeles County, CA, between October 2011 and June 2013. We used classification tree analyses to rank predictors of service use in order of importance and to test linear and nonlinear relationships among selected variables. Results: Across service type (i.e., shelter, therapy, employment, or health services), the classification tree analyses highlighted race as a primary predictor of service use. Conclusions: Critical race theory may be a useful framework for future explorations of service use among Black youth experiencing homelessness. Furthermore, as race consistently emerges as a feature of importance, providers should consider how race impacts service use.",
+    "DOI": "10.1086/712369",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on service use among youth experiencing homelessness.",
+            "study_design": "Classification tree analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on homeless youth, not specifically on people with mental health disorders, and does not meet the population criteria.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

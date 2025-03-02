@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3247,
+    "Authors": "Karahalios, Amalia; Pega, Frank; Aitken, Zoe; Milner, Allison; Simpson, Julie A.; Kavanagh, Anne M.",
+    "Article Title": "The cumulative effect of living with disability on mental health in working-age adults: an analysis using marginal structural models",
+    "Abstract": "Purpose Previous studies have shown that acquiring a disability is associated with a reduction in mental health, but they have not considered the cumulative impact of having a disability on mental health. We used acquisition of a non-psychological disability to estimate the association of each additional year lived with disability on mental health (measured using the Mental Component Summary score of the Short Form Health Survey). Methods We used the first 13 waves of data (years 2001-2013) from the Household, Income and Labour Dynamics in Australia Survey. The sample included 4113 working-age (18-65 years) adults who were disability-free at waves 1 and 2. We fitted marginal structural models with inverse probability weights to estimate the association of each additional year of living with disability on mental health, employing multiple imputation to handle the missing data. Results Of the 4113 participants, 7.7 percent acquired a disability. On average, each additional year lived with disability was associated with a decrease in the mean Mental Component Summary score (beta = - 0.42; 95% CI - 0.71, - 0.14). Conclusions This study provides evidence that each additional year lived with non-psychological disability is associated with a decline in mental health among working-age Australians.",
+    "DOI": "10.1007/s00127-019-01688-9",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a cross-sectional analysis using marginal structural models.",
+            "study_design": "Cross-sectional analysis using marginal structural models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using marginal structural models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the impact of disability on mental health, not on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

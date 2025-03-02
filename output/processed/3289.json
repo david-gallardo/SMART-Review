@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3289,
+    "Authors": "Baeriswyl, Sophie; Krause, Andreas; Elfering, Achim; Berset, Martial",
+    "Article Title": "How Workload and Coworker Support Relate to Emotional Exhaustion: The Mediating Role of Sickness Presenteeism",
+    "Abstract": "As the central strain dimension of burnout, emotional exhaustion is a popular indicator of poor mental health in work and organizational psychology. Based on the job demands-resources (JD-R) model, the present article focuses on antecedents of and processes leading to emotional exhaustion. We hypothesized that sickness presenteeism (conceptualized as active and problem-focused coping) would partially mediate the relationship between work characteristics (workload and coworker support) and emotional exhaustion. Additionally, we examined a potential interaction between workload and coworker support, hypothesizing that a combination of high workload and low coworker support would produce the highest levels of sickness presenteeism. Participants were 462 employees working in a research funding organization in Germany who were given a validated multi-item measure to assess sickness presenteeism. The results of structural equation modeling strongly supported most hypotheses: The effects of coworker support and workload on emotional exhaustion were fully or at least partially mediated by sickness presenteeism. However, hierarchical regression analyses did not support the proposed interaction effect. It is concluded that sickness presenteeism may help to deliver a better understanding of the effects of the working environment on emotional exhaustion. Implications for the JD-R model and for workplace health promotion are discussed.",
+    "DOI": "10.1037/str0000018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based in Germany, within the EU, and was published between 2005-2025. The intervention is supported employment, which is one of the included interventions. The population is employees with mental disorders or documented mental health problems, meeting the inclusion criteria for population. The outcomes include employment or labor outcomes such as job duration and job quality, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes or interventions related to active employment policies for people with mental health disorders. It focuses on the relationship between workload, coworker support, and emotional exhaustion in a specific work context.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey with structural equation modeling and hierarchical regression analyses",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3117,
+    "Authors": "McCrady, Barbara S.; Epstein, Elizabeth E.; Fokas, Kathryn F.",
+    "Article Title": "TREATMENT INTERVENTIONS FOR WOMEN WITH ALCOHOL USE DISORDER",
+    "Abstract": "Women with alcohol use disorder (AUD) experience more barriers to AUD treatment and are less likely to access treatment than men with AUD. A literature review identified several barriers to women seeking help: low perception of a need for treatment; guilt and shame; co- occurring disorders; employment, economic, and health insurance disparities; childcare responsibilities; and fear of child protective services. Women entering treatment present with more severe AUD and more complex psychological, social, and service needs than men. Treatment program elements that may reduce barriers to AUD treatment include provision of childcare, prenatal care, treatment for co-occurring psychological problems, and supplemental social services. Research has suggested that outcomes for women are best when treatment is provided in women-only programs that include female-specific content. To date, research on treatments tailored to the individual needs of women is limited, but research on mechanisms of change has suggested the importance of targeting anxiety and depression, affiliative statements in treatment, abstinence self-efficacy, coping skills, autonomy, and social support for abstinence. Future research should focus on early interventions, linkages between primary care or mental health clinics and AUD treatment settings, and integrated treatments for co- occurring AUD and other disorders. Further research should also explore novel treatment delivery approaches such as digital platforms and peer support groups.",
+    "DOI": "10.35946/arcr.v40.2.08",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a literature review, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Literature Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is women with alcohol use disorder rather than people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on alcohol use disorder in women, not mental health disorders in general.",
+            "study_design": "Literature review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment interventions for people with mental health disorders.",
+            "study_design": "Literature review",
+            "logprobs": null
+        }
+    }
+}

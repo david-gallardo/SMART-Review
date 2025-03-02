@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3027,
+    "Authors": "Duwe, Grant; Johnson, Byron R.",
+    "Article Title": "New Insights for What Works? Religiosity and the Risk-Needs-Responsivity Model",
+    "Abstract": "The existing literature has devoted relatively little attention to the responsivity principle and, in particular, religiosity as a type of specific responsivity. Using a sample of nearly 2,000 people incarcerated in Minnesota's prison system, this study examined the relationship between religiosity and measures of risk, needs, and responsivity. The results showed that religiosity was positively associated with childhood trauma, pro-social identities, and perceived social support, while it was negatively associated with criminal thinking and employment needs. Findings further revealed that religiosity was associated with less prison misconduct and reduced recidivism risk, but only for people with positive self-identities, according to Paternoster and Bushway's Fear of Self scale, and lower levels of perceived social support. We discuss the implications of these results for theory and practice.",
+    "DOI": "10.1177/00111287231160736",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the relationship between religiosity and measures of risk, needs, and responsivity.",
+            "study_design": "Correlational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on religiosity in relation to risk factors among incarcerated individuals. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the population is incarcerated individuals rather than people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

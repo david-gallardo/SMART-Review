@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3629,
+    "Authors": "Mohr, Cynthia; Hammer, Leslie; Dimoff, Jennifer; Allen, Shalene; Lee, James; Arpin, Sarah; McCabe, Sheila; Brockwood, Krista; Bodner, Todd; Mahoney, Luke; Dretsch, Michael; Britt, Thomas",
+    "Article Title": "Supportive-Leadership Training to Improve Social Connection: A Cluster-Randomized Trial Demonstrating Efficacy in a High-Risk Occupational Context",
+    "Abstract": "The high, and still rising, rate of loneliness is a threat to public health (Office of the Surgeon General, 2023), with negative mental and physical health consequences (e.g., Holt-Lunstad, 2021). Given that loneliness is a risk factor for poor mental health, efforts to address loneliness are urgently needed. Workplaces can facilitate an employee's social connection through supervisor support training, which can help mitigate loneliness. Among occupational groups, the military is at higher risk for mental health disorders, suicide, and loneliness (Fikretoglu et al., 2022; Naifeh et al., 2019). This study evaluated the efficacy of an evidence-based supportive-leadership training intervention targeting active-duty U.S. Army platoon leaders and targeting both proactive support behaviors that help bolster employee social connection and responsive support behaviors, including destigmatizing mental health. Ninety-nine platoon leaders (69.7% of eligible leaders) completed the 90-min training that consisted of both in-person and computer-based components. Using a cluster-randomized controlled trial design, intervention effects were tested using an intent-to-treat approach and revealed a significant effect, whereby loneliness of service members whose leaders were randomized to the intervention group (N = 118) was significantly reduced compared to loneliness reports for service members in the control group (N = 158). Additionally, service members with higher baseline loneliness were more strongly and positively impacted by the supervisor training, reporting higher levels of supportive behaviors from their leaders at 3 months postbaseline. In sum, these results suggest how workplaces, especially those that are considered high-risk occupations, and their leaders play a critical role in a national strategy to address Americans' well-being.",
+    "DOI": "10.1037/ocp0000384",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cluster-randomized controlled trial, which meets the inclusion criteria. The study is set in the US, within the timeframe of 2005-2025, and focuses on people with mental disorders or documented mental health problems, specifically active-duty U.S. Army platoon leaders.",
+            "study_design": "Cluster-randomized controlled trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on reducing loneliness through supportive-leadership training. It lacks measures of employment or labor results.",
+            "study_design": "Cluster-Randomized Trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "Cluster-RCT",
+            "logprobs": null
+        }
+    }
+}

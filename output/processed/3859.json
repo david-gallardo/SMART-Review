@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3859,
+    "Authors": "Boot, Cecile R. L.; de Wind, Astrid; van Vilsteren, Myrthe; van der Beek, Allard J.; van Schaardenburg, Dirkjan; Anema, Johannes R.",
+    "Article Title": "One-year Predictors of Presenteeism in Workers with Rheumatoid Arthritis: Disease-related Factors and Characteristics of General Health and Work",
+    "Abstract": "Objective. Rheumatoid arthritis (RA) affects adults of working age and leads to productivity losses because of presenteeism that results from limitations while at work. The aim of our study was to gain insight into disease-related factors, general health, and work characteristics as predictors of presenteeism in workers with RA.Methods. Workers with RA (n = 150) recruited by rheumatologists completed questionnaires at baseline and after 1 year. Medical information was retrieved from patient records. Presenteeism was measured by the Work Limitations Questionnaire. Disease [28-joint Disease Activity Score (DAS28), Health Assessment Questionnaire (HAQ), pain, fatigue], general health (mental, physical, deterioration of health), and work characteristics (work instability, social support, workload) were assessed as predictors of presenteeism after 1 year using linear regression analyses.Results. Presenteeism was 4.0 h over a 2-week period based on an average work week of 28.7 hours. More RA-related disability (HAQ; B = -1.20, 95% CI -2.12 to -0.28), poorer mental health (B = -0.04, 95% CI -0.08 to -0.01), and health deterioration over a 1-year period (B: -0.02, 95% CI -0.04 to -0.01) were associated with more presenteeism. Work characteristics were not associated with presenteeism.Conclusion. Disease-related factors and general health characteristics were significantly associated with presenteeism at 1-year followup, although the effects of the general health characteristics were considered not to be relevant. To reduce presenteeism and improve functioning at work, it is important to pay attention to reducing RA-related disability in addition to reducing disease activity. A broader perspective is needed and should also take into account the level of RA-related disability.",
+    "DOI": "10.3899/jrheum.170586",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study is a cross-sectional study with a baseline and 1-year follow-up, but it does not include a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and is focused on presenteeism in workers with Rheumatoid Arthritis. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study with longitudinal follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

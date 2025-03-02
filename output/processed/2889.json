@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2889,
+    "Authors": "Rodriguez-Munoz, Maria F.; Marcos-Najera, Rosa; Amezcua, Maria Dolores; Soto-Balbuena, Cristina; Le, Huynh-Nhu; Al-halabi, Susana",
+    "Article Title": "Social support and stressful life events: risk factors for antenatal depression in nulliparous and multiparous women",
+    "Abstract": "Nulliparous (pregnant women who are giving birth for the first time) and multiparous (women who have multiple children) may have different concerns, which may be associated with risk of antenatal depression. This study aims to examine the role of social support and stressful life events as risk factors for antenatal depression in nulliparous and multiparous women. The sample included 1,524 pregnant women recruited from an obstetrics setting at the end of the first trimester of pregnancy from two Spanish tertiary-care public hospitals. The sample completed the Patient Health Questionnaire (PHQ-9), and the social support and stressful life events subscales of the Postpartum Depression Predictor Inventory-Revised (PDPI-R). Nulliparous women reported a lower prevalence of depressive symptoms (15.6 percent) compared to multiparous mothers (20.1 percent). In both groups, marriage/partner problems (NP: beta = 0.178, p < .01 vs MP: beta = 0.164, p < .01) and a perceived lack of instrumental support from friends (NP: beta = -0.154, p < .01 vs MP: beta = -0.154, p < .01) were significant risk factors for antenatal depression. However, nulliparous women have more risk factors such as unemployment (beta = 0.096, p < .05), job change (beta = 0.127, p < .01), financial problems (beta = 0.145, p < .01) and lack of instrumental support from partner (beta = -0187, p < .01). For multiparous women, moving (beta = 0.080, p < .05) and lack of instrumental support from family (beta = -0.151, p < .01) were risk factors. These results suggest the critical need for screening and designing preventive interventions adapted and taking into consideration parity to provide more effective health care during pregnancy.",
+    "DOI": "10.1080/03630242.2024.2308528",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on antenatal depression rather than employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on antenatal depression in nulliparous and multiparous women. It lacks interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems. The study focuses on antenatal depression in pregnant women.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

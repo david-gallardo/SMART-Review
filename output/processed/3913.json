@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3913,
+    "Authors": "Gast, Alina; Mathes, Tim",
+    "Article Title": "Medication adherence influencing factors-an (updated) overview of systematic reviews",
+    "Abstract": "Background: Non-adherence negatively affects the efficacy, safety and costs of therapies. Non-adherence is a multifactorial problem. This systematic review (SR) of SRs (overview) aims to identify factors that can influence the adherence of adult patients with chronic physical diseases.Methods: We performed a systematic literature search in MEDLINE and Embase on June 13, 2018. We included SRs on the factors that can influence adherence in adult patients taking oral medications for treating physical chronic diseases. Two reviewers independently selected studies according to pre-defined inclusion criteria. Two reviewers independently assessed the risk of bias with the ROBIS tool. Data were extracted in standardized tables previously piloted by one reviewer and verified by a second reviewer. We synthesized data in tables in a structured narrative manner.Results: We included 21 SRs on eight different conditions. We rated eight SRs to be at low risk of bias and 13 to be at high risk of bias. Although higher education, employment, higher financial status and marriage/partnership mostly showed a positive effect on adherence, the impact was unclear because of the high uncertainty of the underlying evidence. The evidence indicates that socioeconomic status and social support might have a positive impact on adherence and that belonging to an ethnic minority might have a negative impact on adherence. Therapy-related factors (e.g., intake regime) and disease-related factors (e.g., duration) mostly showed no impact on adherence. Analysis of gender showed inconsistent results. Age might have a concave relation to adherence, i.e., adherence is lowest in very young and very old people. Depression has a negative impact on adherence. Impacts of other mental and physical comorbidities were uncertain. Co-payments (any or higher) have a negative impact on adherence. In contrast, the impacts of medication costs and insurance status were uncertain.Conclusion: This overview analyses factors that might impact adherence to oral therapies in adult patients with physical chronic diseases. Our overview suggests that there is a social gradient in adherence. However, for most factors, the evidence was not conclusive due to the risk of bias, inconsistency or imprecision.",
+    "DOI": "10.1186/s13643-019-1014-8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines factors influencing medication adherence in adult patients with chronic physical diseases.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on medication adherence in adults with chronic physical diseases.",
+            "study_design": "Systematic review of systematic reviews (overview)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders as the primary focus; it focuses on chronic physical diseases.",
+            "study_design": "Systematic review of systematic reviews",
+            "logprobs": null
+        }
+    }
+}

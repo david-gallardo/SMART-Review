@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2434,
+    "Authors": "Lucas, Guillaume; Colson, Sebastien; Boyer, Laurent; Gentile, Stephanie; Fond, Guillaume",
+    "Article Title": "Work environment and mental health in nurse assistants, nurses and health executives: Results from the AMADEUS study",
+    "Abstract": "Aim This study aimed to explore work environment and mental health in nurse assistants, nurses and health executives in a national large-scale study. Background We have data for physicians but not for other health care workers categories. Methods A total of 6935 participants were recruited between May and June 2021 by professional mailings and professional networks. Results All professional categories reported high rates of high psychological demand (>90%), low social support (>60%), burnout (50% to 60%), exposure to potentially morally injurious events (>40%) and depression (approximately 30%). Surgery nurses reported the highest exposure to potentially morally injurious events. Major depression was identified in approximately 30% of participants in all categories, but less than 10% reported consuming antidepressants. A total of 31% to 49% of participants reported sleep disorders and 16% to 21% reported consuming regularly hypnotics. Physicians reported high hazardous drinking behaviour and nurse assistant high smoking rates. Conclusions and Implications for Nursing Management Our results suggest that preventing burnout and depression in health care workers is a priority. To reach this goal, nursing managers could develop some interventions to reduce psychological demand and increase personal accomplishment and social support between colleagues, and prevent sustained bullying at the workplace and health risk behaviours. These interventions should be further developed and evaluated.",
+    "DOI": "10.1111/jonm.13599",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment policies or interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on the work environment and mental health of healthcare workers.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

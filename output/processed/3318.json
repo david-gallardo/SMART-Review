@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3318,
+    "Authors": "Alang, Sirry M.; Harris, Latesha K.; Carter, Chelsey R.",
+    "Article Title": "Psychological distress and life satisfaction among Black working adults in the U.S. during the COVID-19 pandemic",
+    "Abstract": "Background: The COVID-19 pandemic disproportionately impacted Black Americans. Rates of hospitalization, mortality, and morbidity increased and racial inequities in unemployment, job benefits, and working conditions widened. This study identifies specific factors associated with the well-being of Black adults in the U.S. workforce one year into the pandemic. Methods: Data came from the 2021 National Health Interview Survey (N = 1,984). Ordinary least squares regressions were computed to identify correlates of psychological distress and life satisfaction among Black adults in the workforce two weeks prior to the survey. Results: Black workers experienced significant distress. Life satisfaction was particularly low among those who provided direct medical care. Having a job with paid sick leave was consistently associated with lower psychological distress. Low household food security was associated with higher psychological distress and with lower life satisfaction. Social support was positively associated with well-being. Conclusion: These findings have important implications for health in Black communities and for recruiting and retaining Black workers in the health care system. Supporting Black physicians matters for their mental health amidst growing rates of suicide in this population. As policymakers continue to develop and legislate policies to promote recovery from the social, economic, and health consequences of the pandemic, attention to how these policies will support all Black workers is critical.",
+    "DOI": "10.1016/j.ssmmh.2023.100267",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is an observational study using ordinary least squares regressions.",
+            "study_design": "Ordinary least squares regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specifically people with mental health disorders.",
+            "study_design": "Cross-sectional survey using ordinary least squares regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Black working adults in the U.S. during the COVID-19 pandemic and does not meet the specified inclusion criteria regarding the intervention, population, and outcomes.",
+            "study_design": "Ordinary least squares regression",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional survey analysis",
+            "logprobs": null
+        }
+    }
+}

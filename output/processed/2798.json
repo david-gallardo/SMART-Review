@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2798,
+    "Authors": "Zerden, Li Sade Saxe; Lombardi, Brianna M.; Guan, Ting; Day, Steve; Jones, Anne; Kanfer, Meryl",
+    "Article Title": "Research Note-Integrated Care Training and Preparedness: Evidence From 5-Years of Postgraduation Data",
+    "Abstract": "Social work has seen significant federal investment through the Behavioral Health Workforce Education and Training (BHWET) for Professionals grants. This research note examined differences between BHWET trainees and general MSW graduates regarding self-reported knowledge of integrated behavioral health competencies, job placement, and starting salaries. A survey was administered 10 months after graduation (N=288) for five graduating classes (2014-2018). Bivariate two-tailed t-tests and Fisher's exact tests examined group differences. BHWET participants rated interprofessional abilities and integrated care skills significantly higher; were significantly more likely to secure employment quicker; work on interprofessional teams; and earn higher salaries, compared to counterparts. Demonstrating the effectiveness of workforce initiatives is necessary to document best practices and continue federal investment in the social work workforce.",
+    "DOI": "10.1080/10437797.2022.2050866",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Intervention: adult training, which is not directly addressing employment, and the study design lacks a control group.",
+            "study_design": "Survey with bivariate two-tailed t-tests and Fisher's exact tests",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on job placement and salaries of social work graduates.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on specific employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

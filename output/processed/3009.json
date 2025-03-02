@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3009,
+    "Authors": "Molnar, Laszlo; Zana, Agnes; Stauder, Adrienne",
+    "Article Title": "Stress and burnout in the context of workplace psychosocial factors among mental health professionals during the later waves of the COVID-19 pandemic in Hungary",
+    "Abstract": "Background While literature is abundant on the negative mental health impact of the COVID-19 outbreak, few studies focus on the Central and Eastern European region.Objectives We examined stress, burnout, and sleeping troubles among mental health professionals in the context of psychosocial risk factors related to participation in COVID care during the fourth and fifth waves.Materials and methods Mental health professionals (N=268) completed an online cross-sectional survey in Hungary, between November 2021 and April 2022. Of the respondents, 58.2% directly participated in COVID care. The main data collection instrument was the Copenhagen Psychosocial Questionnaire (COPSOQ II), including 20 subscales on work-related psychosocial factors and 3 outcome scales (stress, burnout, and sleeping troubles). We added a question on competence transgression, and items on sociodemographic and professional background.Results Participation in COVID care was associated with higher work pace (59.08 versus 49.78), more role conflicts (55.21 versus 45.93), lower scores on the influence at work (38.18 versus 51.79), predictability (44.71 versus 57.03), reward (55.82 versus 65.03), role clarity (70.19 versus 75.37), social support from supervisor (59.24 versus 65.55), job satisfaction (54.36 versus 62.84), trust regarding management (55.89 versus 67.86), justice and respect (44.51 versus 54.35) scales. Among those involved in COVID care, only the stress score was higher (47.96 vs. 42.35) in the total sample; however, among psychiatrists, both stress (52.16 vs. 38.60) and burnout scores (58.30 vs. 47.06) were higher. Stepwise multiple regression revealed that work-family conflict, emotional demands and workplace commitment were independent predictors of higher stress and burnout scores; furthermore, competence transgression had a significant effect on stress, and being a psychiatric specialist had a significant effect on burnout. These models explained 40.5% of the variance for stress and 39.8% for burnout.Conclusion During the fourth and fifth waves, although COVID care was more well-organized, psychiatrists, as specialist physicians responsible for the quality of the care, were still experiencing challenges regarding their competence and influence at work, which may explain their increased levels of stress and burnout.",
+    "DOI": "10.3389/fpsyt.2024.1354612",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional survey with a control group, meeting the inclusion criteria for study design. The study is conducted in Hungary, within the EU, and within the specified timeframe. The intervention is related to employment, as it examines the impact of participation in COVID care on mental health professionals' stress, burnout, and job satisfaction.",
+            "study_design": "Cross-sectional survey with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and does not include a control group. Additionally, the geographic scope is outside of the specified regions (EU countries, Europe, US, Canada, Australia). The intervention and population are relevant but the outcomes do not focus on employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

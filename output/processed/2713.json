@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2713,
+    "Authors": "Molek-Winiarska, Dorota; Zolnierczyk-Zreda, Dorota",
+    "Article Title": "Application of mindfulness-based stress reduction to a stress management intervention in a study of a mining sector company",
+    "Abstract": "Purpose. The aim of this article was to check whether mindfulness-based stress reduction (MBSR) is an effective intervention in reducing work-related stress in the case of workers in a copper mine. Methods. Sixty six employees were randomized to the experimental group (32 participants) or to the control group (34 participants). Work-related stress was measured using the job content questionnaire (JCQ) and mental health was measured using the general health questionnaire (GHQ-28) Experimental manipulation was 40-h MBSR training. Results. Multivariate repeated-measures analysis of variance revealed a significant increase of JCQ decision latitude (F=17.36, p<0.001) and social support (supervisor F=9.00, p<0.004; coworker F=5.61, p<0.020), and a significant decrease in GHQ-28 anxiety (F=5.28, p<0.079) and depression (F=3.95, p<0.048) due to the intervention. Conclusions. The study confirms that MBSR can be effective in reducing stress resulting from the external risk (and/or imagined fear) of losing one's health or life. The use of MBSR could be recommended in health and safety activities in difficult and dangerous work conditions, such as mining, to promote workers' well-being.",
+    "DOI": "10.1080/10803548.2018.1452843",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group, as it is a quasi-experimental study without a control group.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention (MBSR) is not one of the specified interventions for active employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental health interventions in the mining sector, not on employment policies for people with mental health disorders.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The outcomes do not include measures of employment or labor results.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

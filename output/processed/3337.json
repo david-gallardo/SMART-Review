@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3337,
+    "Authors": "Lakrouf, Racha; Roy, Laurence; Arbaud, Cecile; Stich, Christine",
+    "Article Title": "Interventions for pregnant youth and young mothers experiencing homelessness: A systematic review",
+    "Abstract": "Pregnant youth and young mothers facing housing instability or homelessness encounter unique challenges that result in adverse health, educational, and employment consequences for both them and their children. This systematic review aimed to consolidate the available evidence on effective and promising interventions to prevent homelessness amongst youth who are pregnant or young mothers with children under 6 years old and assist those facing homelessness. This review encompassed 10 studies that revolved around two primary themes: housing and supportive services, such as case management (n = 6), and parental services, including childcare provision or parenting classes (n = 4). We found that housing strategies incorporating counselling and case management notably enhanced participants' substance use patterns, mental health, healthcare access, and employment trajectories. Comparatively, housing services without supportive services did not lead to improvements within the participants. Parental services such as family home visits significantly reduced homelessness for participating families. School-based programs that offer childcare and supportive services improved maternal academic outcomes, reduced the incidence of subsequent pregnancies, and fostered positive parenting practices. Mobile technology also appeared promising in enhancing the emotional and behavioural capabilities of the youth. In conclusion, interventions targeting young expectant individuals and mothers, whether at risk or already experiencing homelessness, primarily emphasize housing combined with supportive services and parenting assistance.",
+    "DOI": "10.1016/j.childyouth.2024.107678",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it focuses on housing and supportive services, rather than job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions for people with mental health disorders. It focuses on pregnant youth and young mothers experiencing homelessness.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on pregnant youth and young mothers facing homelessness, which does not align with the specified population of people with mental health disorders. Additionally, the interventions reviewed are not directly related to employment outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders specifically.",
+            "study_design": "systematic review",
+            "logprobs": null
+        }
+    }
+}

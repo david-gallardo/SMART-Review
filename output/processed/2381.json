@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2381,
+    "Authors": "Mitschke, Diane B.; Praetorius, Regina T.; Kelly, Don R.; Small, Eusebius; Kim, Youn K.",
+    "Article Title": "Listening to refugees: How traditional mental health interventions may miss the mark",
+    "Abstract": "Understanding the dynamics of mental health of recently resettled refugees is an essential component of any comprehensive resettlement program, yet establishing the components of a successful and acceptable mental health intervention is an elusive task. Semi-structured interviews were conducted with 30 resettled refugees from five countries who had received treatment for depression, post-traumatic stress symptoms, or anxiety. Themes generated from the interviews emphasized the need for strong group-based social support as well as a focus on practical needs such as acquiring and maintaining employment, language and literacy training, and access to care.",
+    "DOI": "10.1177/0020872816648256",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (semi-structured interviews), which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs, or quasi-experimental studies with a control group.",
+            "study_design": "Qualitative (semi-structured interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks a rigorous evaluation design (RCT, quasi-experimental) with a control group and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Qualitative research using semi-structured interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on mental health interventions for refugees, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not have a rigorous evaluation design (e.g., RCT, quasi-experimental) and does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

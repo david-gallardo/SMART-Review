@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3411,
+    "Authors": "Manthey, Jakob; Huss, Kilian; Buth, Sven; Kraus, Ludwig; Schranz, Anna; Kilian, Carolin; Gallinat, Juergen; Schaefer, Ingo; Schulte, Bernd",
+    "Article Title": "Utilisation of alcohol-related treatment after a first alcohol use disorder diagnosis in Hamburg, Germany",
+    "Abstract": "Background A variety of treatment options for people with alcohol use disorder (AUD) exist. Surveys estimate that 1 in 10 people with AUD utilise treatment, but real-world treatment pathways remain covert. This data-linkage study seeks to characterise treatment utilisation patterns to identify gaps in treatment access and delivery in Germany.Methods Linking individual-level data from three sources (statutory health insurance, pension funds, outpatient addiction care services) identified seven alcohol-related treatment types delivered in outpatient (brief psychiatric consultation; formal psychotherapy; pharmacotherapy; low-threshold counselling), inpatient (standard, somatic inpatient treatment; intensive inpatient treatment with somatic and psychosocial care), or either of the two settings (long-term rehabilitation treatment) during 2016-2021. For patients with a new AUD diagnosis (ICD-10: F10.1-9), treatment utilisation over 24 months was recorded and patterns were identified using latent class analyses.Results Of n = 9,491 patients with a new AUD diagnosis, 30% utilised at least one alcohol-related treatment type. Treatment utilisation was associated with younger age, female sex, unemployment, German nationality, and lower physical comorbidity. Among treatment entrants, nearly half received only brief psychiatric consultation. A similar share of patients utilised standard or intensive inpatient treatment; the latter occasionally followed by rehabilitation treatment. Formal psychotherapy, low-threshold counselling, and pharmacotherapy were rarely utilised and were mostly used in conjunction with other treatments.Conclusions The real-world utilisation of alcohol-related treatments contrasts with existing guidelines, as most patients with diagnosed AUD do not receive adequate care. Structural and social barriers should be minimised to ensure healthcare provision for those affected.",
+    "DOI": "10.1192/j.eurpsy.2025.8",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Observational study with data-linkage",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is focused on individuals with alcohol use disorder rather than mental health disorders.",
+            "study_design": "Data-linkage study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on alcohol use disorder (AUD) and not on mental health disorders or employment outcomes.",
+            "study_design": "Data-linkage study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions or outcomes.",
+            "study_design": "Data-linkage study",
+            "logprobs": null
+        }
+    }
+}

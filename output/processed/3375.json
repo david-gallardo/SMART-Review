@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3375,
+    "Authors": "Berloffa, Gabriella; Paolini, Francesca",
+    "Article Title": "Going beyond the mean in analyzing immigrant health disparities",
+    "Abstract": "BACKGROUND On arrival, immigrants are on average healthier than Italian natives, but their health ad-vantage tends to dissipate over time. This constitutes a relevant public health issue for the hosting societies, as it implies higher health care costs, lower labor market participation among immigrants, and lower tax revenues. OBJECTIVE This study is the first to take a beyond the mean perspective in analyzing health differ-ences between Italians and short-say immigrants, as well as between short-and long-stay immigrants. It highlights whether health differences are concentrated in specific parts of the distributions and which observed or unobserved factors contribute to these differ-ences. METHODS We use unconditional quantile regressions combined with Oaxaca-Blinder decomposi-tions on data from the Italian Health Condition Survey. RESULTS We find that the health advantage of short-stay immigrants over both Italians and long-stay immigrants is concentrated in the lower part of the health distributions. In both cases, this is mainly due to unobserved factors. Observed economic characteristics are actually associated with better health for long-stay immigrants compared to short-stay immigrants. Our results reveal the need of monitoring immigrants' health, particularly of those with poorer initial health conditions.",
+    "DOI": "10.4054/DemRes.2022.47.7",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment or labor outcomes and focuses on immigrant health disparities rather than active employment policies for people with mental health disorders.",
+            "study_design": "Quantitative analysis using unconditional quantile regressions and Oaxaca-Blinder decompositions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on immigrant health disparities, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not mentioned to be a meta-analysis, systematic review, RCT, or quasi-experimental study with a control group.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not address employment interventions.",
+            "study_design": "Quantile regression analysis",
+            "logprobs": null
+        }
+    }
+}

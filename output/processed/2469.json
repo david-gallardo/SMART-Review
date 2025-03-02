@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2469,
+    "Authors": "Azar, Ariel",
+    "Article Title": "Work-Family Life Course Trajectories and Women's Mental Health: The Moderating Role of Defamilization Policies in 15 European Territories",
+    "Abstract": "This study employs multichannel sequence analysis of data from the Survey of Health, Ageing, and Retirement in Europe to explore variations in the association between work-family life trajectories and women's mental health across European cohorts born between 1924 and 1965 within different policy contexts. It finds that trajectories characterized by prolonged employment and delayed familial commitments are generally associated with increased depressive symptoms. Notably, the strength of this association varies significantly across cohorts and is notably moderated by defamilization policies. These policies, which aim to reduce dependency on family for managing social risks, buffer mental health challenges in traditional family roles but are less effective for women in trajectories with delayed family formation. This investigation highlights the nuanced ways in which historical and cultural contexts alongside policy environments shape mental health outcomes at various life stages, offering valuable insights into our understanding of health disparities across the life course, with an emphasis on exposure to changing institutions.",
+    "DOI": "10.1177/00221465241265435",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a traditional RCT, quasi-experimental, or systematic review, but rather a qualitative analysis using multichannel sequence analysis.",
+            "study_design": "Qualitative analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks specific measures of employment outcomes.",
+            "study_design": "Cross-sectional analysis using multichannel sequence analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions but rather on the association between work-family life trajectories and mental health in the context of defamilization policies. It does not meet the intervention criteria specified in the inclusion criteria.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

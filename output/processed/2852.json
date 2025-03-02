@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2852,
+    "Authors": "Baker, David G.; Wang, Mengmeng; Filia, Kate M.; Teo, Shu Mei; Morgan, Rikki; Ziou, Myriam; Mcgorry, Pat; Browne, Vivienne; Gao, Caroline X.",
+    "Article Title": "The changing impacts of social determinants on youth mental health in Australia",
+    "Abstract": "Aims: Most lifetime mental health disorders begin by age 25 years, and the prevalence among young people has been increasing over recent years. We sought to understand what impact, if any, social determinants have had on this increase through the analysis of an Australian longitudinal dataset (with data from 2007 to 2021).Methods: The analysis focused on five social determinants: loneliness and lack of social support, family relationships, participation in education and employment, receipt of government benefits and relative socio-economic status. We analysed cross-sectional changes in self-reported psychological distress between 2007 and 2021 (using the Kessler-10 item; K10 scores) and examined the effects of these five social determinants on psychological distress using weighted linear regression models.Results: We identified a significant increase in psychological distress among Australians from 2007 to 2021, with the sharpest rise among those aged 15 to 25 years, who saw more than doubling in the percentage of high and very high K10. This period also saw an increase in the prevalence of social determinants such as loneliness and lack of social support, as well as poor family relationships, particularly in 2021 post COVID-19 pandemic. Regression models suggest loneliness and lack of social support had the most pronounced and increasing impact on psychological distress, followed by poor family relationships.Discussion: The observed significant and steady increases in psychological distress and related social determinant factors, particularly loneliness and lack of social support among young people, highlight the urgent need for comprehensive actions. Coordinated research and community-based initiatives are needed to deliver intrapersonal, interpersonal and socially-focused interventions with a holistic approach to support psychosocial wellbeing. Policymakers must adopt a comprehensive shift in political commitment and a whole-of-government approach to address these challenges.",
+    "DOI": "10.1177/00207640241280910",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of social determinants on youth mental health.",
+            "study_design": "Cross-sectional analysis with weighted linear regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on social determinants and their impact on youth mental health in Australia.",
+            "study_design": "Longitudinal analysis using weighted linear regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on social determinants and psychological distress in youth, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

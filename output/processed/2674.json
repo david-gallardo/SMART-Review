@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2674,
+    "Authors": "Chakrapani, Venkatesan; Newman, Peter A.; Sebastian, Aleena; Rawat, Shruta; Mittal, Sandeep; Gupta, Vanita; Kaur, Manmeet",
+    "Article Title": "Mental health, economic well-being and health care access amid the COVID-19 pandemic: a mixed methods study among urban men who have sex with men in India",
+    "Abstract": "Scant empirical research from Asia has addressed the impact of COVID-19 on sexual minority health. We aimed to explore and understand the impact of COVID-19 on income security, mental health, HIV risk and access to health services among men who have sex with men (MSM) in India. We conducted a concurrent mixed methods study from April to June 2020, including a cross-sectional survey and in-depth semi-structured interviews with MSM recruited from three non-governmental organisations providing HIV prevention services in Chandigarh, India. We examined the associations of sexual minority stressors (sexual stigma, internalised homonegativity), economic stressors, and stress due to social distancing, with depression and anxiety, HIV risk, and access to health services. Survey findings (n = 132) indicated that internalised homonegativity and stress related to social distancing were significantly associated with depressive and anxiety symptoms. Results also showed reduced access to condoms, HIV testing and counselling services. Qualitative findings (n = 10) highlighted adverse economic impacts of COVID-19, including loss of employment/wages and engaging in survival sex work, which contributed to psychological distress and HIV risk. The COVID-19 pandemic has resulted in considerable psychological and financial distress among low socioeconomic status MSM in India, including those involved in sex work - communities already marginalised in economic, family and healthcare sectors. Structural interventions to improve access to mental health and HIV services and decrease financial burden are critical to mitigate the impact of COVID-19.",
+    "DOI": "10.1080/26410397.2022.2144087",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of COVID-19 on income security, mental health, HIV risk, and access to health services among men who have sex with men in India.",
+            "study_design": "Mixed methods study (cross-sectional survey and in-depth semi-structured interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Mixed methods study with cross-sectional survey and qualitative interviews",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental health and economic well-being among MSM in India during the COVID-19 pandemic, which is not directly related to employment interventions for people with mental health disorders. The study design is also not specified as a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Concurrent mixed methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "Geographic scope is outside the specified regions (India) and does not address employment interventions for people with mental health disorders.",
+            "study_design": "Mixed methods study",
+            "logprobs": null
+        }
+    }
+}

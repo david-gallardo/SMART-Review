@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2470,
+    "Authors": "Walter, Kristen H.; Jak, Amy J.; Twamley, Elizabeth W.",
+    "Article Title": "Psychiatric Comorbidity Effects on Compensatory Cognitive Training Outcomes for Veterans With Traumatic Brain Injuries",
+    "Abstract": "Objective: To investigate the influence of posttraumatic stress disorder (PTSD) diagnosis, and PTSD and depression severity, on the postconcussive symptom trajectory over the course of a 1-year study period. Research Design: Secondary analysis of a randomized controlled trial comparing veterans who received supported employment combined with compensatory cognitive training to those who received supported employment only. Assessments were conducted at baseline, 3-(postintervention), 6-, and 12-months. Participants were 50 Operation Enduring and Iraqi Freedom (OEF/OIF) veterans with a history of mild to moderate traumatic brain injury (TBI) who were unemployed, seeking work, and who had neuropsychological impairment. Of all participants, 74% met diagnostic criteria for PTSD. All participants received supported employment and half of the sample also received Cognitive Symptom Management and Rehabilitation Therapy (CogSMART), a 12-session, manualized compensatory cognitive training intervention. Results: Veterans with PTSD and greater depression severity endorsed significantly more severe postconcussive symptomatology at all assessment time points. However, the rate of CogSMART-associated improvement in postconcussive symptoms did not differ as a result of psychiatric symptomatology. Conclusion: Study results suggest that for veterans with a history of mild to moderate TBI, presence of comorbid PTSD or depressive symptoms should not preclude participation in cognitive rehabilitation interventions.",
+    "DOI": "10.1037/rep0000049",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design meets the inclusion criteria as it is a randomized controlled trial (RCT) with a control group.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on the effects of psychiatric comorbidity on cognitive training outcomes for veterans with traumatic brain injuries.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes for people with mental health disorders, but rather on postconcussive symptoms in veterans with TBI and PTSD.",
+            "study_design": "Randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that includes supported employment as an intervention and focuses on people with mental health disorders (PTSD and depression). It also measures outcomes related to employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

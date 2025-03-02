@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3402,
+    "Authors": "Majumder, Soumi; Chowdhury, Soumalya; Dey, Nilanjan; Santosh, K. C.",
+    "Article Title": "Balance Your Work-Life: Personal Interactive Web-Interface",
+    "Abstract": "The term work-life balance can be described as a path to manage stresses and burnouts in the workplace. In this Covid-19 pandemic, work-from-home practice includes both personal and professional spaces as employees, more often, stay digitally connected. As a result, personal life hardly can be separated, which will potentially create imbalanced life, which creates problems regarding physical and mental health of the employees. In such unprecedented situations, we are required to maintain and/or integrate balanced work-life. A balanced work-life gives employees a stress-free environment to work and improves employees' mental and physical health conditions and relationships. In this study, we focus on maintaining a proper work-life balance through a monitoring tool, the 'Wheel of Life.' Considering the drastic changes in work culture (due to Covid-19, for example), we introduce an interactive interface based on 'Wheel of life' concept. Our interface helps tune various important factors, such as business, creative, social, love and life purpose, and provides multiple recommendations. The purpose of the study is to assist web users to balance their work-life, improve psychological well-being and quality of life in this unforeseen situation.",
+    "DOI": "10.9781/ijimai.2021.08.016",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on maintaining a proper work-life balance through a monitoring tool, the 'Wheel of Life.'",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on maintaining work-life balance through an interactive interface. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "None of the inclusion criteria are met as it is a descriptive study without rigorous evaluation or control group.",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on work-life balance and mental health, not directly on employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "Not specified",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Not applicable",
+            "logprobs": null
+        }
+    }
+}

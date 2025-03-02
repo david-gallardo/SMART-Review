@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2776,
+    "Authors": "Cetrez, Onver A.; DeMarinis, Valerie; Sundvall, Maria; Fernandez-Gonzalez, Manuel; Borisova, Liubov; Titelman, David",
+    "Article Title": "A Public Mental Health Study Among Iraqi Refugees in Sweden: Social Determinants, Resilience, Gender, and Cultural Context",
+    "Abstract": "This public mental health study highlights the interactions among social determinants and resilience on mental health, PTSD and acculturation among Iraqi refugees in Sweden 2012-2013. Objectives: The study aims to understand participants' health, resilience and acculturation, paying specific attention to gender differences.Design: The study, using a convenience sampling survey design (N = 4010, 53.2% men), included measures on social determinants, general health, coping, CD-RISC, selected questions from the EMIC, PC-PTSD, and acculturation.Results: Gender differences and reported differences between life experiences in Iraq and Sweden were strong. In Sweden, religious activity was more widespread among women, whereas activity reflecting religion and spirituality as a coping mechanism decreased significantly among men. A sense of belonging both to a Swedish and an Iraqi ethnic identity was frequent. Positive self-evaluation in personal and social areas and goals in life was strong. The strongest perceived source of social support was from parents and siblings, while support from authorities generally was perceived as low. Self-rated health was high and the incidence of PTSD was low. A clear majority identified multiple social determinants contributing to mental health problems. Social or situational and emotional or developmental explanations were the most common. In general, resilience (as measured with CD-RISC) was low, with women's scores lower than that of men.Conclusions: Vulnerability manifested itself in unemployment after a long period in Sweden, weak social networks outside the family, unsupportive authorities, gender differences in acculturation, and women showing more mental health problems. Though low socially determined personal scores of resilience were found, we also identified a strong level of resilience, when using a culture-sensitive approach and appraising resilience as expressed in coping, meaning, and goals in life. Clinicians need to be aware of the risks of poorer mental health among refugees in general and women in particular, although mental health problems should not be presumed in the individual patient. Instead clinicians need to find ways of exploring the cultural and social worlds and needs of refugee patients. Authorities need to address the described post-migration problems and unmet needs of social support, together comprising the well-established area of the social determinants of health.",
+    "DOI": "10.3389/fsoc.2021.551105",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on mental health, PTSD, acculturation, and social determinants.",
+            "study_design": "Convenience sampling survey design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.), is outside the specified geographic scope (EU countries, Europe, US, Canada, Australia), and its timeframe is before 2005.",
+            "study_design": "Convenience sampling survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

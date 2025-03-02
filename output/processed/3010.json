@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3010,
+    "Authors": "Edwards, Ben; Smart, Diana; De Maio, John; Silbert, Michelle; Jenkinson, Rebecca",
+    "Article Title": "Cohort Profile: Building a New Life in Australia (BNLA): the longitudinal study of humanitarian migrants",
+    "Abstract": NaN,
+    "DOI": "10.1093/ije/dyx218",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it lacks a rigorous evaluation or control group and its population is not specified in relation to mental health.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not people with mental disorders or documented mental health problems.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

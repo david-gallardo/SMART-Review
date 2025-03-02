@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3695,
+    "Authors": "Shishavan, Hossein Hamidi; Garza, Jennifer; Henning, Robert; Cherniack, Martin; Hirabayashi, Liane; Scott, Erika; Kim, Insoo",
+    "Article Title": "Continuous physiological signal measurement over 24-hour periods to assess the impact of work-related stress and workplace violence",
+    "Abstract": "Work-related stress has long been recognized as an essential factor affecting employees' health and wellbeing. Repeated exposure to acute occupational stressors puts workers at high risk for depression, obesity, hypertension, and early death. Assessment of the effects of acute stress on workers' wellbeing usually relies on subjective self -reports, questionnaires, or measuring biometric and biochemical markers in long-cycle time intervals. This study aimed to develop and validate the use of a multiparameter wearable armband for continuous non-invasive monitoring of physiological states. Two worker populations were monitored 24 h/day: six loggers for one day and six ICU nurses working 12-hr shifts for one week. Stress responses in nurses were highly correlated with changes in heart rate variability (HRV) and pulse transit time (PTT). A rise in the low-to high-frequency (LF/LH) ratio in HRV was also coincident with stress responses. HRV on workdays decreased compared to non-work days, and PTT also exhibited a persistent decrease reflecting increased blood pressure. Compared to loggers, nurses were involved in high-intensity work activities 45% more often but were less active on non-work days. The wearable technology was well accepted by all worker participants and yielded high signal quality, critical factors for long-term non-invasive occupational health monitoring.",
+    "DOI": "10.1016/j.apergo.2022.103937",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the impact of work-related stress and workplace violence on workers' physiological states.",
+            "study_design": "Observational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the development and validation of wearable technology for assessing physiological states in response to work-related stress.",
+            "study_design": "Observational study with continuous monitoring",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on physiological responses to work-related stress and does not directly address employment outcomes or interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

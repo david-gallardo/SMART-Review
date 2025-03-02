@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3327,
+    "Authors": "Lin, I-Hsuan; Lin, Pei-Shi",
+    "Article Title": "Immigrants' experiences of work-family conflict in the U.S.: a systematic review",
+    "Abstract": "This manuscript aims to synthesize what is known, and what is unknown, about immigrants' experiences of work-family interaction, specifically the work-family conflict, in the U.S. A systematic review method was conducted using multiple electronic databases. After applying inclusion criteria, six studies were included. Immigrant workers across studies in this systematic review reported experiencing work-family conflict. Four categories of factors associated with immigrants' work-family conflict were identified: (1) work-domain factors, (2) family-domain factors, (3) health outcomes, and (4) immigration, acculturation, and gender roles. In the work domain, job demands are positively associated with work-family conflict, while having job control and job support are negatively associated with work-family conflict. More domestic work demands and economic responsibilities in the family domain have contributed to work-family conflict, whereas having domestic support for childcare and housework helped mitigate work-family conflict. This review shows that work-family conflict has contributed to deteriorating physical and mental health outcomes among immigrants. Most importantly, this study reveals that immigration per se has uniquely shaped immigrants' work-family interactions through the separation from family and community, the salience of employment, losing networks of social support, transitioning from collectivist cultures to an individualistic culture, and modified gender roles.",
+    "DOI": "10.1080/13668803.2020.1722063",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a systematic review, but it does not meet the inclusion criteria for intervention as it does not directly address employment.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on immigrants' experiences of work-family conflict in the U.S.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on immigrants' experiences of work-family conflict in the U.S., which does not directly address employment outcomes for people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is immigrants, not people with mental health disorders.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

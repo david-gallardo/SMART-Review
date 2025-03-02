@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2441,
+    "Authors": "Leopold, Liliya; Leopold, Thomas; Lechner, Clemens M.",
+    "Article Title": "Do Immigrants Suffer More From Job Loss? Unemployment and Subjective Well-being in Germany",
+    "Abstract": "This study asks whether immigrants suffer more from unemployment than German natives. Differences between these groups in pre-unemployment characteristics, the type of the transition into unemployment, and the consequences of this transition suggest that factors intensifying the negative impact of unemployment on subjective well-being are more concentrated in immigrants than in natives. Based on longitudinal data from the German Socio-Economic Panel Study (1990-2014; N = 34,767 persons aged 20 to 64; N = 210,930 person-years), we used fixed-effects models to trace within-person change in subjective well-being across the transition from employment into unemployment and over several years of continued unemployment. Results showed that immigrants' average declines in subjective well-being exceeded those of natives. Further analyses revealed gender interactions. Among women, declines were smaller and similar among immigrants and natives. Among men, declines were larger and differed between immigrants and natives. Immigrant men showed the largest declines, amounting to one standard deviation of within-person change over time in subjective well-being. Normative, social, and economic factors did not explain these disproportionate declines. We discuss alternative explanations for why immigrant men are most vulnerable to the adverse effects of unemployment in Germany.",
+    "DOI": "10.1007/s13524-016-0539-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is a fixed-effects model analysis.",
+            "study_design": "fixed-effects model analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the impact of unemployment on subjective well-being among immigrants compared to German natives in Germany.",
+            "study_design": "Cross-sectional analysis using longitudinal data from a socio-economic panel study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and subjective well-being in Germany, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders and does not address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study using fixed-effects models",
+            "logprobs": null
+        }
+    }
+}

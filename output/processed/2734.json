@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2734,
+    "Authors": "Hung, Man; Bounsanga, Jerry; Voss, Maren W.; Crum, Anthony B.; Chen, Wei; Birmingham, Wendy C.",
+    "Article Title": "The relationship between family support; pain and depression in elderly with arthritis",
+    "Abstract": "The prevalence and chronic nature of arthritis make it the most common cause of disability among U.S.A adults. Family support reduces the negative impact of chronic conditions generally but its role in pain and depression for arthritic conditions is not well understood. A total of 844 males (35.0%) and 1567 females (65.0%) with arthritic conditions (n = 2411) were drawn from the 2012 Health and Retirement Study to examine the effect of family support on pain and depressive symptoms. Using regression analysis and controlling for age, ethnicity, gender, marital/educational status and employment/income, physical function/disability status, pain and antidepressant medications, and other clinical indicators of chronic health conditions, we examined the effects of family support (spouse, children, other) on pain and depression levels. Results indicated that depressive symptoms decreased significantly with strong family and spousal support (p<.05). Pain decreased as support levels increased, but was non-statistically significant. This study provides new insights into the relationship between family support, pain, and depression for individuals with arthritis. Future longitudinal studies are needed to evaluate family support and relationships over a wider spectrum of demographics.",
+    "DOI": "10.1080/13548506.2016.1211293",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is elderly individuals with arthritis rather than people with mental health disorders.",
+            "study_design": "Cross-sectional analysis using regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on arthritis and its impact on pain and depression in the elderly, which does not align with the specified inclusion criteria for active employment policies for people with mental health disorders.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders specifically.",
+            "study_design": "Regression analysis",
+            "logprobs": null
+        }
+    }
+}

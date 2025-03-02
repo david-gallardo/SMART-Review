@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3983,
+    "Authors": "Spencer, Rachael A.; Livingston, Melvin D.; Woods-Jaeger, Briana; Rentmeester, Shelby T.; Sroczynski, Nolan; Komro, Kelli A.",
+    "Article Title": "The impact of temporary assistance for needy families, minimum wage, and Earned Income Tax Credit on Women's well-being and intimate partner violence victimization",
+    "Abstract": "Women experiencing poverty and women of color disproportionately experience intimate partner violence (IPV) victimization. Economic policies targeting women at this intersection of poverty and IPV, including Temporary Assistance for Needy Families (TANF), Minimum Wage (MW), and Earned Income Tax Credits (EITCs), may be powerful violence prevention tools. Using data from waves 1 (1998-2000) through 4 (2007-2010) of the U.S.-based Fragile Families and Child Well-being (FFCW) birth cohort study, we apply a difference-in-difference (DD) study design to estimate both the overall and race-specific effects of state-level economic policies on non-physical IPV and several intermediate outcomes. In DD models analyzing the difference in violence outcomes by intervention group (i.e., TANF exposure based on women's educational attainment, <= high school vs >high school) and by race (African American (AA) vs White) few state-level TANF policies were associated with IPV victimization and the MW had no differential effect, but the refundable EITC was protective against IPV. Of the few TANF policies associated with IPV - sanctions and the ratio of families receiving TANF for every 100 families in poverty (the TANF-to-Poverty Ratio (TPR)) - those linked with fewer TANF restrictions seemed to increase coercive victimization, especially among AA women. With regard to intermediate variables, we found no overall impact of economic policies on depression or economic hardship, while monetary benefits and the TPR, were associated with a decrease in employment. The effect of TANF policies by race on intermediate outcomes was complex and analyses suggest that while White women are more likely to be employed when TANF time limits are in place, they also experience larger increases in economic hardship events compared to AA women. Research into the effects of cash transfer conditionality on mediators, including economic instability, perceived stress, bargaining power, and coercive IPV to interfere with TANF compliance, is needed.",
+    "DOI": "10.1016/j.socscimed.2020.113355",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a difference-in-difference (DD) study design, which lacks a rigorous evaluation and does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Difference-in-Difference (DD) study design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment outcomes and the interventions do not directly address job search services, adult training, wage subsidies, or supported employment. The interventions include labor regulation policies (TANF, minimum wage) and social security policies (Earned Income Tax Credit), which are excluded based on the criteria.",
+            "study_design": "Difference-in-difference (DD) study design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on economic policies and their impact on IPV victimization, not specifically on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Difference-in-difference (DD) study design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The study focuses on economic policies such as Temporary Assistance for Needy Families (TANF), Minimum Wage (MW), and Earned Income Tax Credits (EITCs) which are social security policies.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

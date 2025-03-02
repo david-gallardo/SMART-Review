@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3842,
+    "Authors": "Stark, Anna Lea; Geukes, Cornelia; Dockweiler, Christoph",
+    "Article Title": "Digital Health Promotion and Prevention in Settings: Scoping Review",
+    "Abstract": "Background: Digital technologies are increasingly integrating into people's daily living environments such as schools, sport clubs, and health care facilities. These settings play a crucial role for health promotion and prevention because they affect the health of their members, as the World Health Organization has declared. Implementing digital health promotion and prevention in settings offers the opportunity to reach specific target groups, lower the costs of implementation, and improve the health of the population. Currently, there is a lack of scientific evidence that reviews the research on digital health promotion and prevention in settings.Objective: This scoping review aims to provide an overview of research targeting digital health promotion and primary prevention in settings. It assesses the range of scientific literature regarding outcomes such as applied technology, targeted setting, and area of health promotion or prevention, as well as identifies research gaps.Methods: The scoping review was conducted following the Levac, Colquhoun, and O'Brien framework. We searched scientific databases and gray literature for articles on digital setting-based health promotion and prevention published from 2010 to January 2020. We included empirical and nonempirical publications in English or German and excluded secondary or tertiary prevention and health promotion at the workplace.Results: From 8888 records, the search resulted in 200 (2.25%) included publications. We identified a huge diversity of literature regarding digital setting-based health promotion and prevention. The variety of technology types extends from computer-and web-based programs to mobile devices (eg, smartphone apps) and telemonitoring devices (sensors). We found analog, digital, and blended settings in which digital health promotion and prevention takes place. The most frequent analog settings were schools (39/200, 19.5%) and neighborhoods or communities (24/200, 12%). Social media apps were also included because in some studies they were defined as a (digital) setting. They accounted for 31.5% (63/200) of the identified settings. The most commonly focused areas of health promotion and prevention were physical activity (81/200, 40.5%), nutrition (45/200, 22.5%), and sexual health (34/200, 17%). Most of the interventions combined several health promotion or prevention methods, including environmental change; providing information, social support, training, or incentives; and monitoring. Finally, we found that the articles mostly reported on behavioral rather than structural health promotion and prevention.Conclusions: The research field of digital health promotion and prevention in settings is heterogeneous. At the same time, we identified research gaps regarding the absence of valid definitions of relevant terms (eg, digital settings) and the lack of literature on structural health promotion and prevention in settings. Therefore, it remains unclear how digital technologies can contribute to structural (or organizational) changes in settings. More research is needed to successfully implement digital technologies to achieve health promotion and prevention in settings.",
+    "DOI": "10.2196/21063",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study design is a scoping review, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a scoping review rather than a meta-analysis, systematic review of controlled trials, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for study design.",
+            "study_design": "Scoping Review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

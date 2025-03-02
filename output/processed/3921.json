@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3921,
+    "Authors": "Graham, Petra L.; Schofield, Deborah J.; Tait, Robert J.; Bista, Sarita; Ivers, Rebecca Q.; Liu, Bette; Lymer, Sharyn; Marino, Jennifer L.; Sanci, Lena A.; Shrestha, Rupendra N.; Steinbeck, Katharine; Straker, Leon M.; Skinner, S. Rachel",
+    "Article Title": "Adolescent risk behaviours are associated with educational attainment in early adulthood: results from the Raine Study cohort",
+    "Abstract": "Background Higher educational attainment is important for economic wellbeing and associated with better health and longevity. Previous research focused on intelligence, socioeconomic status and mental health or individual risk behaviours as predictors of educational attainment, but the role of multiple domains of adolescent risk behaviours is less clear. This study examined the association between multiple domains of risk behaviour in adolescence and educational attainment by 22 years-of-age. Methods Young people (Generation 2, Gen2) and their parents (Generation 1, Gen1) participating in the Raine Study completed questionnaires at years 1, 5, 8, 10 (Gen1 only), 14, 17 (both) and 22 (Gen2 only). The Raine Study is an ongoing longitudinal study initiated in Perth, Western Australia, between 1989 and 1991. The 1,102 Gen2 participants who responded to questions about highest educational attainment were included in this study. The association between Gen2 self-reported risk behaviours (including age at commencement of drinking alcohol, smoking, sexual intercourse and drug use) and educational attainment (defined as self-reported years of completed high school: <= 10, 11, 12 or tertiary education (> 12)) at year 22, after adjusting for mother's age and combined parental education level, participant sex, and family income, educational performance and adolescent mental health, was explored using ordinal regression models and presented as odds ratios (OR) with 95% confidence intervals (CI). Results Ordinal models suggested that never smoking or starting older than 18 compared with smoking before age 15 (OR 2.02, 95%CI: 1.28-2.14); first drinking alcohol between 15 and 17 years compared with younger than 15 (OR 1.52, 95%CI: 1.08-2.14); and, first sexual intercourse aged >= 18 years compared with under 15 (OR 1.67, 95%CI: 1.08-2.57) were associated with higher levels of educational attainment at 22-year follow-up. Additionally, lower (better) behavioural scores increased the odds of higher levels of attainment. Conclusions Absence of health risk behaviours at a younger age or later commencement was associated with higher educational attainment. Evidence-based interventions that address the societal influences underpinning risk behaviours in adolescents may support longer school retention.",
+    "DOI": "10.1186/s12889-024-20208-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on educational attainment and risk behaviors in adolescence.",
+            "study_design": "Ordinal regression models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on adolescent risk behaviors and educational attainment in early adulthood. It does not address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional study using ordinal regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the objective of identifying effective active employment policies for people with mental health disorders.",
+            "study_design": "longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

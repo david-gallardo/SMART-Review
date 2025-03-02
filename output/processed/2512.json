@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2512,
+    "Authors": "Zhang, Yuan; Punnett, Laura; Nannini, Angela",
+    "Article Title": "Work-Family Conflict, Sleep, and Mental Health of Nursing Assistants Working in Nursing Homes",
+    "Abstract": "Work-family conflict is challenging for workers and may lead to depression, anxiety, and overall poor health. Sleep plays an important role in the maintenance of mental health; however, the role of sleep in the association between work-family conflict and mental health is not well-studied. Questionnaires were collected from 650 nursing assistants in 15 nursing homes. Multivariate linear regression modeling demonstrated that increased work-family conflict was associated with lower mental health scores (beta = -2.56, p < .01). More work-family conflict was correlated with more job demands, less job control, less social support, and longer work hours. Poor sleep quality, but not short sleep duration, mediated the association between work-family conflict and mental health. Workplace interventions to improve nursing assistants' mental health should increase their control over work schedules and responsibilities, provide support to meet their work and family needs, and address healthy sleep practices.",
+    "DOI": "10.1177/2165079916665397",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders. It focuses on work-family conflict and its impact on the mental health of nursing assistants.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on nursing assistants in nursing homes and does not specifically address people with mental health disorders as the target population.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

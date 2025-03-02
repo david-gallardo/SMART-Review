@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3652,
+    "Authors": "Yoon, Seung Won; Ryu, Hyunok; Cho, Daeyeon; Kim, Johyun",
+    "Article Title": "Multiple Trajectories and Predictors of Self-Esteem Change in Later Life: A Latent Growth Mixture Modeling Approach",
+    "Abstract": "Applying latent growth mixture modeling (GMM), this study delves into the examination of self-esteem trajectories in a sample of 5,597 older adults over a nine-year period. Four distinct patterns of self-esteem changes have emerged: low, decreasing, increasing, and high. Additionally, the study explores the relationships between each trajectory and various predictors encompassing demographic factors, socioeconomic status, health, and interpersonal relationships. The findings highlight the significance of these factors in predicting the likelihood of an individual following a specific self-esteem trajectory. Notably, maintaining employment, fostering satisfactory social relationships, and being free of frequent depressive feelings emerged as strong predictors for the stability and increase of high self-esteem. Intriguingly, an average or above-average income was unexpectedly associated with lower levels of self-esteem. The study emphasizes the contribution of GMM to advancing aging research.",
+    "DOI": "10.1177/00914150241240114",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on self-esteem trajectories and predictors.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address employment or labor outcomes and focuses on self-esteem trajectories in older adults. It does not meet the inclusion criteria for interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Latent Growth Mixture Modeling (GMM)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on self-esteem trajectories in older adults and does not meet the specified inclusion criteria related to employment policies for people with mental health disorders.",
+            "study_design": "Latent Growth Mixture Modeling (GMM)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Latent Growth Mixture Modeling",
+            "logprobs": null
+        }
+    }
+}

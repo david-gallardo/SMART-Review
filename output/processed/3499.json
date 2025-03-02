@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3499,
+    "Authors": "O'Neil, Adrienne; Williams, Emily D.; Browne, Jessica L.; Horne, Rob; Pouwer, Frans; Speight, Jane",
+    "Article Title": "Associations between economic hardship and markers of self-management in adults with type 2 diabetes: results from Diabetes MILES - Australia",
+    "Abstract": "Objective: A socioeconomic gradient exists in Australia for type 2 diabetes mellitus (T2DM). It remains unclear whether economic hardship is associated with T2DM self-management behaviours.Methods: Cross-sectional data from a subset of the Diabetes MILES -Australia study were used (n= 915). The Economic Hardship Questionnaire was used to assess hardship. Outcomes included: healthy eating and physical activity (Diabetes Self-Care Inventory -Revised), medication-taking behaviour (Medication Adherence Rating Scales) and frequency of self-monitoring of blood glucose (SMBG). Regression modelling was used to explore the respective relationships.Results: Greater economic hardship was significantly associated with sub-optimal medication-taking (Coefficient: -0.86, 95% CI -1.54, -0.18), and decreased likelihood of regular physical activity (Odds Ratio: 0.47, 0.29, 0.77). However, after adjustments for a range of variables, these relationships did not hold. Being employed and higher depression levels were significantly associated with less-frequent SMBG, sub-optimal medication-taking and less-regular healthy eating. Engaging in physical activity was strongly associated with healthy eating.Conclusions: Employment, older age and depressive symptoms, not economic hardship, were commonly associated with diabetes self-management.Implications: Work-based interventions that promote T2DM self-management in younger, working populations that focus on negative emotions may be beneficial.",
+    "DOI": "10.1111/1753-6405.12153",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on type 2 diabetes self-management behaviors.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies and focuses on self-management behaviors in adults with type 2 diabetes. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 4015,
+    "Authors": "O'Neil, Meghan M.; Johnson, Rebecca A.; Cordova, David; Pryor, Jenna; Pinals, Debra A.",
+    "Article Title": "A legal dispute resolution intervention for patients with substance use disorders: a study protocol for a randomized controlled trial",
+    "Abstract": "BackgroundSubstance use disorders (SUDs) represent major public health concerns and are linked to enhanced risk of legal consequences. Unresolved legal issues may prevent individuals with SUD from completing treatment. Interventions aimed at improving SUD treatment outcomes are limited. Filling that gap, this randomized controlled trial (RCT) tests the ability of a technology-assisted intervention to increase SUD treatment completion rates and improve post-treatment health, economic, justice-system, and housing outcomes.MethodsA randomized controlled trial with a two-year administrative follow-up period will be conducted. Eight hundred Medicaid eligible and uninsured adults receiving SUD treatment will be recruited at community-based non-profit health care clinics in Southeast, Michigan, USA. Using an algorithm embedded in a community-based case management system, we randomly assign all eligible adults to one of two groups. The treatment/intervention group will receive hands-on assistance with a technology aimed at resolving unaddressed legal issues and the control group receives no treatment. Upon enrollment into the intervention, both treatment (n = 400) and control groups (n = 400) retain traditional options to resolve unaddressed legal issues, such as hiring an attorney, but only the treatment group is targeted the technology and offered personalized assistance in navigating the online legal platform. To develop baseline and historical contexts for participants, we collect life course history reports from all participants and intend to link those in each group to administrative data sources. In addition to the randomized controlled trial (RCT), we used an exploratory sequential mixed methods and participatory-based design to develop, test, and administer our life course history instruments to all participants. The primary objective is to test whether targeting no-cost online legal resources to those experiencing SUD improves their long-term recovery and decreases negative health, economic, justice-system, and housing outcomes.DiscussionFindings from this RCT will improve our understanding of the acute socio-legal needs faced by those experiencing SUD and provide recommendations to help target resources toward the areas that best support long-term recovery. The public health impact includes making publicly available a deidentified, longitudinal dataset of uninsured and Medicaid eligible clients in treatment for SUD. Data include an overrepresentation of understudied groups including African American and American Indian Alaska Native persons documented to experience heightened risk for SUD-related premature mortality and justice-system involvement. Within these data, several intended outcome measures can inform the health policy landscape: (1) health, including substance use, disability, mental health diagnosis, and mortality; (2) financial health, including employment, earnings, public assistance receipt, and financial obligations to the state; (3) justice-system involvement, including civil and criminal legal system encounters; (4) housing, including homelessness, household composition, and homeownership.",
+    "DOI": "10.1186/s12889-023-15296-5",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it does not meet the inclusion criteria for intervention as it targets substance use disorders, not mental health disorders or employment.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on substance use disorders rather than mental health disorders. It does not meet the inclusion criteria for population.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

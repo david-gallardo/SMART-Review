@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3085,
+    "Authors": "Cromm, Krister; Pham, Le Hong Ngoc; Jaha, Hanna; Fischer, Kathrin I.; Liegl, Gregor; Schappert, Anna; Davenport, Andrew; Barth, Claudia; Blankestijn, Peter J.; Hegbrant, Joergen; Fischer, Felix H.; Strippoli, Giovanni F. M.; Rose, Matthias",
+    "Article Title": "Psychosocial Determinants for Self-Reported Health Status in Patients on Hemodialysis: A Cohort Analysis of the CONVINCE Randomized Trial",
+    "Abstract": "Background We investigated whether psychosocial determinants self-efficacy and social support are associated with health-related quality of life in patients on hemodialysis enrolled in the CONVINCE trial. Methods We used baseline data from the cohort of patients involved in the CONVINCE randomized trial of hemodiafiltration versus hemodialysis. Measures included age, sex, relationship status, children, housing, education, employment, comorbidities, dialysis schedules, time of first dialysis, residual kidney function, general self-efficacy and social support scores, and Patient-Reported Outcomes Measurement Information System measurements for health-related quality of life. Associations were analyzed using hierarchical regression. Results One thousand three hundred sixty patients from the CONVINCE trial were the cohort of interest. The mean age was 62 +/- 13.5 years (range, 20-92), and 66.9% were male. Self-efficacy was a significant predictor for all health-related quality-of-life domains: depression (beta=-0.36, P < 0.001), anxiety (beta=-0.35, P < 0.001), social participation (beta=0.32, P < 0.001), cognition (beta=0.29, P < 0.001), fatigue (beta=-0.29, P < 0.001), physical function (beta=0.27, P < 0.001), sleep disturbance (beta=-0.23, P < 0.001), pain interference (beta=0.21, P < 0.001), pain intensity (beta=-0.17, P < 0.001), interdialytic symptoms (beta=-0.14, P = 0.002), and intradialytic symptoms (beta=-0.14, P = 0.002). Social support was a significant predictor for cognition (beta=0.21, P < 0.001), sleep disturbance (beta=-0.11, P = 0.017), and intradialytic symptoms (beta=-0.11, P = 0.02). Conclusions Higher general self-efficacy scale scores are associated with improvements in cognition, depression, anxiety, social participation, fatigue, physical function, sleep disturbance, pain interference, interdialytic symptoms, pain intensity, and intradialytic symptoms. Associations for self-efficacy are larger than those for social support and stronger than previously reported. It is plausible that targeted psychosocial interventions may improve health outcomes in people on hemodialysis. Podcast This article contains a podcast at https://dts.podtrac.com/redirect.mp3/www.asn-online.org/media/podcast/K360/2025_01_30_KID0000000599.mp3",
+    "DOI": "10.34067/KID.0000000599",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on health-related quality of life in patients on hemodialysis.",
+            "study_design": "Cohort Analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly relate to active employment policies for people with mental health disorders.",
+            "study_design": "Cohort analysis of a randomized trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

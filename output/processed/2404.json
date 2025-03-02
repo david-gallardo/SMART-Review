@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2404,
+    "Authors": "de Groot, S.; Veldman, K.; Amick, B. C., III; Bultmann, U.",
+    "Article Title": "Workplace social support, mental health and work functioning among young workers",
+    "Abstract": NaN,
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not specify the study design.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks clear intervention details related to employment policies and does not specify a population with mental health disorders.",
+            "study_design": "Not specified in abstract",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not mention any of the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not specify outcomes related to employment or labor results.",
+            "study_design": "Not specified",
+            "logprobs": null
+        }
+    }
+}

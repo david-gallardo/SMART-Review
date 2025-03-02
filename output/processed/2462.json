@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2462,
+    "Authors": "Hagaman, Ashley K.; Sivilli, Teresa I.; Ao, Trong; Blanton, Curtis; Ellis, Heidi; Cardozo, Barbara Lopes; Shetty, Sharmila",
+    "Article Title": "An Investigation into Suicides Among Bhutanese Refugees Resettled in the United States Between 2008 and 2011",
+    "Abstract": "An increase of Bhutanese refugee suicides were reported in the US between 2009 and 2012. This investigation examined these reported suicides in depth to gain a better understanding of factors associated with suicide within this population. The study employed 14 psychological autopsies to elicit underlying motivations and circumstances for self-inflicted death and to identify potential future avenues for prevention and intervention among refugee communities. Disappointment with current (un)employment, lack of resettlement services and social support, and frustrations with separation from family were believed to contribute to suicidal acts. Suicide within refugee populations may be connected with experiences of family withdrawal, integration difficulties, and perceived lack of care. It is important to assess the effectiveness of improving refugee services on the mental health of migrants. More research is needed in order to better understand, and respond to, suicide in resettled populations.",
+    "DOI": "10.1007/s10903-015-0326-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment outcomes for people with mental health disorders, but rather investigates suicides among Bhutanese refugees resettled in the US.",
+            "study_design": "Non-experimental study (psychological autopsies) with no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on suicides among Bhutanese refugees resettled in the US between 2008 and 2011.",
+            "study_design": "Case series (psychological autopsies)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "psychological autopsy",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Psychological autopsies",
+            "logprobs": null
+        }
+    }
+}

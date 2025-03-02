@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2818,
+    "Authors": "Thomas, Veliska J.; Bowie, Stan L.",
+    "Article Title": "Sense of Community: Is it a Protective Factor for Military Veterans?",
+    "Abstract": "Veteran community reintegration (VCR) difficulties impact personal, interpersonal, educational/occupational, and community aspects of returning military service members. Sense of community (SOC), an individual's feeling of membership, influence, need fulfillment, and emotional connection, is the theoretical underpinnings for community-based practice interventions used with this population. This study investigates the mediating role of SOC on the relationship between mental health risk factors (PTSD, depression, and suicidal ideation), employment status, and VCR difficulties among military veterans. Data used in this study (N = 131) were collected by the authors for an outcome evaluation study in 2013. Results found a statistically significant path from depression to SOC and a significant and direct path from SOC to VCR difficulties, suggesting that veterans who are connected to their local communities may be more at risk for depression and VCR difficulties. Practice implications suggest social workers should look beyond the local community as a resilience factor for military veterans and explore more culturally relevant responses (such as veteran support at public universities, individual social support, and local/virtual military support groups). Future research should continue the search for resilient factors among this millennial generation of returning military veterans.",
+    "DOI": "10.1080/01488376.2015.1109575",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and focuses on the relationship between mental health risk factors, sense of community, and veteran community reintegration difficulties.",
+            "study_design": "Correlational study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and lacks a rigorous evaluation design.",
+            "study_design": "Outcome evaluation study without control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on military veterans, not people with mental health disorders, and does not address employment outcomes.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

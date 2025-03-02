@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3168,
+    "Authors": "Smith, Matthew J; Humm, Laura Boteler; Fleming, Michael F; Jordan, Neil; Wright, Michael A; Ginger, Emily J; Wright, Katherine; Olsen, Dale; Bell, Morris D",
+    "Article Title": "Virtual Reality Job Interview Training for Veterans with Posttraumatic Stress Disorder.",
+    "Abstract": "BACKGROUND: Veterans with posttraumatic stress disorder (PTSD) have low employment rates and the job interview presents a critical barrier for them to obtain competitive employment.OBJECTIVE: To evaluate the acceptability and efficacy of virtual reality job interview training (VR-JIT) among veterans with PTSD via a small randomized controlled trial (n=23 VR-JIT trainees, n=10 waitlist treatment-as-usual (TAU) controls).METHODS: VR-JIT trainees completed up to 10 hours of simulated job interviews and reviewed information and tips about job interviewing, while wait-list TAU controls received services as usual. Primary outcome measures included two pre-test and two post-test video-recorded role-play interviews scored by blinded human resource experts and self-reported interviewing self-confidence.RESULTS: Trainees attended 95% of lab-based VR-JIT sessions and found the intervention easy-to-use, helpful, and prepared them for future interviews. VR-JIT trainees demonstrated significantly greater improvement on role-play interviews compared with wait-list TAU controls (p=0.04) and demonstrated a large effect for within-subject change (Cohen's d=0.76). VR-JIT performance scores increased significantly over time (R-Squared=0.76). Although VR-JIT trainees showed a moderate effect for within-subject change on self-confidence (Cohen's d=0.58), the observed difference between conditions did not reach significance (p=0.09).CONCLUSIONS: Results provide preliminary support that VR-JIT is acceptable to trainees and may be efficacious for improving job interview skills and self-confidence in veterans with PTSD.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a small randomized controlled trial (RCT), which meets the inclusion criteria. The study focuses on veterans with posttraumatic stress disorder (PTSD) and evaluates the acceptability and efficacy of virtual reality job interview training (VR-JIT).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on improving job interview skills and self-confidence in veterans with PTSD using virtual reality training.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on veterans with PTSD and job interview training, which does not align with the specified population of people with mental health disorders in the context of active employment policies. The intervention is not directly related to job search services, adult training, wage subsidies, or supported employment as outlined in the inclusion criteria.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT with a control group, conducted within the specified timeframe (2005-2025), focuses on job search services for veterans with PTSD in the US, and includes employment outcomes such as job interview skills.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3711,
+    "Authors": "Stain, Helen J.; Baker, Amanda L.; Jackson, Christopher; Lenroot, Rhoshel; Paulik, Georgie; Attia, John; Wolfenden, Luke; Stoyanov, Stoyan R.; Devir, Holly; Hides, Leanne",
+    "Article Title": "Study protocol: a randomised controlled trial of a telephone delivered social wellbeing and engaged living (SWEL) psychological intervention for disengaged youth",
+    "Abstract": "BackgroundInternationally, from 12.2-23.4% of youth (aged 16-24years) are not in employment, education or training (NEET). These disengaged youth are more likely to experience social exclusion, increased psychological distress and poor quality of life. Youth at risk of disengagement are less likely to access traditional support services, requiring development of innovative interventions.MethodsThe trial is a single blind, three arm, randomised controlled trial evaluating the effectiveness of a telephone delivered psychological intervention for disengaged youth (12-25years). Participants will be randomised to receive either (i) SWEL, (ii) Befriending, or (iii) Single Session Psycho-Education. Therapy will be over an 8 week period with a minimum of four and maximum of eight sessions for the SWEL or Befriending conditions, or a single session for the Psycho-Education condition. Outcomes will be assessed at baseline and at 2, 8 and 14-month follow-up with the primary outcome being re-engagement in education, training or employment.DiscussionThis large, multi-site, randomised controlled trial will inform the delivery of services for young people at risk of disengaging from education or training. The provision of psychological therapy by telephone increases access by youth - especially those in rural and remote areas - both to the trial and the treatment, if adopted by services. The outcomes of this trial could have meaningful societal impact for a vulnerable population. It is expected that recruitment, intervention and retention will present challenges for the trial given the focus on disengaged youth.Trial registrationANZCTR, ACTRN12614001212640, Registered 18 Nov 2014. Retrospectively registered.Ethics and disseminationEthics approval has been obtained from the participating institutions. Results of the trial will be submitted for publication in peer reviewed journals and findings presented at scientific conferences and to key service providers and policy makers.",
+    "DOI": "10.1186/s12888-019-2116-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a single blind, three arm, randomised controlled trial, but it does not meet the inclusion criteria for intervention as it focuses on psychological therapy by telephone, not job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Randomised Controlled Trial",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on disengaged youth (12-25 years) and does not specifically target people with mental disorders. Additionally, the intervention is a psychological intervention for social wellbeing and engaged living, which does not directly address employment.",
+            "study_design": "Randomised controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study protocol described in the document focuses on a psychological intervention for disengaged youth, which does not directly address employment or labor outcomes. The study design is a randomized controlled trial (RCT), which meets the inclusion criteria for study design. However, the intervention is not one of the specified intervent\u00e9ments in the inclusion criteria (job search services, adult training, wage subsidies, supported employment). The study population is youth with mental health issues, which aligns with the specified population. The study is conducted in Australia, which meets the geographic scope. The study timeframe is not specified in the document provided, but it is reasonable to assume it falls within the 2005-2025 timeframe. The study does not include a control group, which is a requirement for the study design in the inclusion criteria. Therefore, the study does not meet all the inclusion criteria and is excluded.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

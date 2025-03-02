@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2351,
+    "Authors": "Liang, Zai; Zhou, Bo",
+    "Article Title": "The Effects of Legal Status on Employment and Health Outcomes among Low-Skilled Chinese Immigrants in New York City",
+    "Abstract": "Using a 2004 survey done in New York City's Chinese community, we explore the extent to which legal status affects immigrants' labor market performance and health status. We focus on five issues related to legal status of immigrants: wages, weekly working hours, employment location, self-rated health, and health care utilization. Our results show that undocumented immigrants are more likely to work for exceptionally long hours and are less likely to see a doctor when they get sick. However, we also find that current legal status does not have a significant effect on current health status. This work contributes to a growing literature on how legal status is linked to labor market and health consequences.",
+    "DOI": "10.1177/0002716216650632",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and does not include a control group, which is a requirement for the inclusion criteria.",
+            "study_design": "Lacks a rigorous evaluation",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on low-skilled Chinese immigrants in New York City and uses data from 2004. The timeframe is outside of 2005-2025, and the intervention does not address job search services, adult training, wage subsidies, or supported employment. Additionally, the population is not specifically defined as people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on immigrants' legal status and its impact on labor market and health outcomes, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental disorders or documented mental health problems.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

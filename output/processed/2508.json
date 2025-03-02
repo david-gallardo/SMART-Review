@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2508,
+    "Authors": "Larson, Gerald E.; Norman, Sonya B.",
+    "Article Title": "Prospective prediction of functional difficulties among recently separated Veterans",
+    "Abstract": "Reports of functional problems are common among Veterans who served post-9/11 (more than 25% report functional difficulties in at least one domain). However, little prospective work has examined the risk and protective factors for functional difficulties among Veterans. In a sample of recently separated Marines, we used stepwise logistic and multiple regressions to identify predictors of functional impairment, including work-related problems, financial problems, unlawful behavior, activity limitations due to mental health symptoms, and perceived difficulty reintegrating into civilian life. Posttraumatic stress disorder symptoms assessed both before and after military separation significantly predicted functional difficulties across all domains except unlawful behavior. Certain outcomes, such as unlawful behavior and activity limitations due to mental health symptoms, were predicted by other or additional predictors. Although several forms of functioning were examined, the list was not exhaustive. The results highlight a number of areas where targeted interventions may facilitate the reintegration of military servicemembers into civilian life.",
+    "DOI": "10.1682/JRRD.2013.06.0135",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on functional difficulties among Veterans, not people with mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on functional difficulties among recently separated Veterans. It lacks an intervention related to active employment policies.",
+            "study_design": "Cross-sectional survey with logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on Veterans, not specifically on people with mental health disorders in general. The intervention is not directly related to employment policies.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Prospective cohort study",
+            "logprobs": null
+        }
+    }
+}

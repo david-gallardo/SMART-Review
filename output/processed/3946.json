@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3946,
+    "Authors": "Kam, Shi Mei; Singh, Swaran P.; Upthegrove, Rachel",
+    "Article Title": "What needs to follow early intervention? Predictors of relapse and functional recovery following first-episode psychosis",
+    "Abstract": "AimAs a foundation for considering how gains may be maintained following early intervention in first-episode psychosis (FEP), this study aimed to describe and investigate factors predicting post-discharge relapse and longer term functioning.MethodAn evaluation via case-note review obtained quantitative data on 163 patients sequentially discharged from Birmingham Early Intervention Service (EIS) followed up for a median of 3.6 years. Time to relapse was calculated and hierarchical regression was used to determine predictors of relapse and functioning.ResultsPatients likely to relapse do so within the first year post-discharge; however, over 40% did not relapse during the follow-up period. The number of relapses occurring during EIS care predicted time-to-relapse post-discharge. At discharge from the EIS and study end-point, the proportion with low social and vocational functioning remained high. Predictors of positive Not in Education Employment or Training' status at end-point include being in a minority ethnic group, substance misuse and number of relapses.ConclusionsIncreased emphasis on relapse prevention and early post-discharge monitoring may be needed, especially in the first year, for those who have experienced previous relapse. To maintain early outcomes in FEP, targeted interventions to address substance misuse and functional recovery need to be sustained in the long term. EISs should aim to make the first episode of psychosis the last. Services providing care for patients with psychosis post EIS should be designed to deliver care for ongoing need, with continued emphasis on relapse prevention and social recovery.",
+    "DOI": "10.1111/eip.12099",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a case-note review, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "case-note review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on predictors of relapse and functional recovery following first-episode psychosis.",
+            "study_design": "Case-note review with hierarchical regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-episode psychosis and does not specifically address employment interventions for people with mental health disorders, which is outside the scope of the inclusion criteria.",
+            "study_design": "Case-note review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

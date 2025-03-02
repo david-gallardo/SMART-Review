@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2632,
+    "Authors": "McTernan, Wesley P.; Dollard, Maureen F.; Tuckey, Michelle R.; Vandenberg, Robert J.",
+    "Article Title": "Enhanced Co-Worker Social Support in Isolated Work Groups and Its Mitigating Role on the Work-Family Conflict-Depression Loss Spiral",
+    "Abstract": "This paper examines a loss spiral model (i.e., reciprocal relationships) between work-family conflict and depression, moderated by co-worker support. We expected that the moderation effect due to co-worker support would be evident among those working in isolation (i.e., mining workers) due to a greater level of intragroup attraction and saliency attributable to the proximity effects. We used a two wave panel study and data from a random population sample of Australian employees (n = 2793, [n = 112 mining, n = 2681 non-mining]). Using structural equation modelling we tested the reciprocal three way interaction effects. In line with our theory, co-worker support buffered the reciprocal relationship between WFC and depression, showing a protective effect in both pathways. These moderation effects were found in the mining industry only suggesting a proximity component moderates the social support buffer hypothesis (i.e., a three way interaction effect). The present paper integrates previous theoretical perspectives of stress and support, and provides insight into the changing dynamics of workplace relationships.",
+    "DOI": "10.3390/ijerph13040382",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a two wave panel study with a control group, meeting the inclusion criteria for study design. The geographic scope is Australia, which is within the EU, Europe, US, Canada, or Australia. The timeframe is 2005-2025. The intervention is co-worker social support, which is related to employment. The population references mental health problems. The outcomes include employment or labor outcomes.",
+            "study_design": "Two wave panel study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a two-wave panel study without a control group and does not meet the inclusion criteria for rigorous evaluation.",
+            "study_design": "Two-wave panel study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Two wave panel study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Panel Study",
+            "logprobs": null
+        }
+    }
+}

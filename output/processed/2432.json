@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2432,
+    "Authors": "Krug, Gerhard; Prechsl, Sebastian",
+    "Article Title": "Do changes in network structure explain why unemployment damages health? Evidence from German panel data",
+    "Abstract": "We use German panel data and apply fixed effects regressions to test whether changes in social network size or composition explain why unemployment harms individuals' health. We consider whether the number of weak ties, the number of strong ties, the share of relatives or the share of unemployed individuals among strong ties mediate the negative relation between unemployment and health. We look at various health and health behavior outcomes, such as self-rated health, mental health, physical health, the number of doctor visits and the number of cigarettes smoked. We find no evidence that structural features of the social network play a role in mediating the health-damaging effect of unemployment. We conduct a variety of supplementary analyses that support and extend our results, including mediation tests for emotional support and contact intensity.",
+    "DOI": "10.1016/j.socscimed.2022.115161",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group as it uses fixed effects regressions without a separate control group.",
+            "study_design": "fixed effects regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies or directly target people with mental health disorders. It focuses on the relationship between unemployment and social network structure in explaining health outcomes.",
+            "study_design": "Cross-sectional analysis using panel data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployment and health, not on employment interventions for people with mental health disorders.",
+            "study_design": "Econometric analysis using fixed effects regressions",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

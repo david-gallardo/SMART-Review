@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3202,
+    "Authors": "Brown, Tara M.",
+    "Article Title": "Uncredentialed Young Adults: Beyond Economic Loss to the Emotional Aftermath of School Failure",
+    "Abstract": "This article examines the impact of economic circumstances on emotional well-being among young adults without a high school diploma in a predominantly Latina/o, urban community. Drawing on the notion of subjective well-being and interview data, the study finds that gendered expectations and parenting significantly affected how the absence of a secondary degree influenced well-being. Whereas dropout research focuses primarily on economic outcomes, this article offers a more nuanced picture of the consequences of school failure and argues that, to effectively address the needs of school-leavers, educational researchers, policy makers, and practitioners need deeper understandings of the lives of these young people.",
+    "DOI": "10.1177/0042085918802615",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the emotional aftermath of school failure.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on emotional well-being rather than interventions related to active employment policies for people with mental health disorders.",
+            "study_design": "Qualitative research (interview data)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not focus on mental health disorders, does not address employment interventions, and does not measure employment outcomes.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

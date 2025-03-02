@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2575,
+    "Authors": "Lara-Cinisomo, Sandraluz; Han, Bing; Neuhausen, Rachel",
+    "Article Title": "Exploring the Role of Depressive Symptoms, Service Members, and Spousal Demographic Characteristics on Military Spousal Employment",
+    "Abstract": "Military spouses, most of whom are women, often contend with a number of factors that can influence their employment status. Previous studies have examined the role of service-member and spousal demographic characteristics on wives' employment. However, little is known about the role spousal mental health has on employment while controlling for demographic characteristics. Using repeated-measures logistic regressions, this longitudinal study explored associations between spousal mental health and employment while controlling for service-member and spousal characteristics in a sample of 1,164 women. Fewer depressive symptoms were significantly associated with employment (p < .05). Spouses of enlisted personnel, women who were older, racial/ethnic minorities, homeowners, or had city stability, had higher odds of employment (p < .05). Military spouses of active duty service members and those less educated had lower odds of employment (p < .05). Depressive symptoms and demographic characteristics should guide employment opportunity programs for military spouses.",
+    "DOI": "10.1177/0095327X19848013",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT (including cluster RCTs), or quasi-experimental studies with a control group. It is a longitudinal study using logistic regressions.",
+            "study_design": "Longitudinal study using logistic regressions",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions related to active employment policies and does not focus on people with mental health disorders. It examines the role of depressive symptoms and demographic characteristics on military spousal employment.",
+            "study_design": "Longitudinal study using repeated-measures logistic regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies but rather on the association between depressive symptoms and employment status.",
+            "study_design": "Longitudinal study using repeated-measures logistic regressions",
+            "logprobs": null
+        }
+    }
+}

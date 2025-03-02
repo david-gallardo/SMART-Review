@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2331,
+    "Authors": "Madia, Joan E.; Obsuth, Ingrid; Thompson, Ian; Daniels, Harry; Murray, Aja L.",
+    "Article Title": "Long-term labour market and economic consequences of school exclusions in England: Evidence from two counterfactual approaches",
+    "Abstract": "Background Previous research suggests that school exclusion during childhood is a precursor to social exclusion in adulthood. Past literature on the consequences of school exclusion is, however, scarce and mainly focused on short-term outcomes such as educational attainment, delinquency, and mental health in early adolescence. Moreover, this evidence is based primarily on descriptive and correlational analysis, whereas robust causal evidence is required to best inform policy. Aims We aimed to estimate the mid-to-long-term impact of school exclusion on labour market and economic outcomes. Sample The sample included 6,632 young people who at the age of 25/26 in the year 2015 participated in the Next Steps survey of whom 86 were expelled from school and 711 were suspended between the ages of 13/14 and 16/17. Method Using high quality existing longitudinal data, we utilized four approaches to evaluate the impact of school exclusion: logistic regression-adjustment models, propensity score matching, school fixed-effects analysis, and inverse propensity weighting. The latter two counterfactual approaches were used to estimate causal effects. Results We found that school exclusion increased the risk of becoming NEET at the age of 19/20, and then remaining economically inactive at the age of 25/26, as well as experiencing higher unemployment risk and earning lower wages also at the age of 25/26. Conclusion School exclusion has pervasive negative effects into adulthood. Policy interventions should focus on both prevention and mitigating its negative effects. Interventions aimed at re-integrating excluded individuals into education or vocational training could be key in reducing the risk of poor socio-economic outcomes and social exclusion.",
+    "DOI": "10.1111/bjep.12487",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group. The study used logistic regression-adjustment models, propensity score matching, school fixed-effects analysis, and inverse propensity weighting, but it does not explicitly state that it is a randomized controlled trial (RCT) or quasi-experimental study with a control group.",
+            "study_design": "logistic regression-adjustment models, propensity score matching, school fixed-effects analysis, and inverse propensity weighting",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the long-term consequences of school exclusions in England.",
+            "study_design": "Quasi-experimental (counterfactual approaches)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the consequences of school exclusion on labour market and economic outcomes, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Longitudinal study with counterfactual approaches",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (e.g., job search services, adult training, wage subsidies, supported employment). The population is not explicitly defined as people with mental disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

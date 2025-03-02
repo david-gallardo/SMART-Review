@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2581,
+    "Authors": "Limm, H.; Guendel, H.; Heinmueller, M.; Liel, K.; Seeger, K.; Angerer, P.",
+    "Article Title": "Health Promotion for Long-Term Unemployed Persons",
+    "Abstract": NaN,
+    "DOI": "10.1055/s-0032-1333248",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The title and abstract do not provide sufficient information to determine if the study meets the inclusion criteria. The intervention, population, and outcomes are not clearly described.",
+            "study_design": "Unknown",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The abstract does not mention any of the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not specify the population as people with mental disorders.",
+            "study_design": "Unknown",
+            "logprobs": null
+        }
+    }
+}

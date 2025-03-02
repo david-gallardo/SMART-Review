@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3977,
+    "Authors": "Schneider, Anna; Wehler, Markus; Weigl, Matthias",
+    "Article Title": "Effects of work conditions on provider mental well-being and quality of care: a mixed-methods intervention study in the emergency department",
+    "Abstract": "Background: Emergency departments (EDs) are highly dynamic and stressful care environments that affect provider and patient outcomes. Yet, effective interventions are missing. This study evaluated prospective effects of a multi-professional organizational-level intervention on changes in ED providers' work conditions and well-being (primary outcomes) and patient-perceived quality of ED care (secondary outcome).Methods: A before and after study including an interrupted time-series (ITS) design over 1 year was established in the multidisciplinary ED of a tertiary referral hospital in Southern Germany. Our mixed-methods approach included standardized provider surveys, expert work observations, patient surveys, and register data. Stakeholder interviews were conducted for qualitative process evaluation. ITS data was available for 20 days pre- and post-intervention (Dec15/Jan16; Dec16/Jan17). The intervention comprised ten multi-professional meetings in which ED physicians and nurses developed solutions to work stressors in a systematic moderated process. Most solutions were consecutively implemented. Changes in study outcomes were assessed with paired t-tests and segmented regression analyses controlling for daily ED workload.Results: One hundred forty-nine surveys were returned at baseline and follow-up (response at baseline: 76 out of 170; follow-up: 73 out of 157). Forty-one ED providers participated in both waves. One hundred sixty expert work observations comprising 240 observation hours were conducted with 156 subsequent work stress reports. One thousand four hundred eighteen ED patients were surveyed. Considering primary outcomes, respondents reported more job control and less overtime hours at follow-up. Social support, job satisfaction, and depersonalization deteriorated while respondents' turnover intentions and inter-professional interruptions increased. Considering the secondary outcome, patient reports indicated improvements in ED organization and waiting times. Interviews revealed facilitators (e.g., comprehensive approach, employee participation) and barriers (e.g., understaffing, organizational constraints) for intervention implementation.Conclusions: To the best of our knowledge, this is the first study to report prospective effects of an ED work system intervention on provider well-being and patient-perceived quality of ED care. We found inconsistent results with partial improvements in work conditions and patient perceptions of care. However, aspects of provider mental well-being deteriorated. Given the lack of organizational-level intervention research in EDs, our findings provide valuable insights into the feasibility and effects of participatory interventions in this highly dynamic hospital setting.",
+    "DOI": "10.1186/s12873-018-0218-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Before and after study with interrupted time-series design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on work conditions and provider well-being in emergency departments.",
+            "study_design": "Interrupted time-series (ITS) design with mixed-methods approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment, and the population is healthcare providers rather than people with mental health disorders.",
+            "study_design": "Quasi-experimental study (interrupted time-series design)",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2417,
+    "Authors": "Volz, Matthias; Ladwig, Simon; Werheid, Katja",
+    "Article Title": "Return to work and depressive symptoms in young stroke survivors after six and twelve months: cross-sectional and longitudinal analyses",
+    "Abstract": "Background While depression after stroke is common and stroke prevalence globally increases in working age populations, the role of return-to-work (RTW) in the pathogenesis of post-stroke depression (PSD) remains unclear. This study examined if RTW is linked to PSD within the first year after ischemic stroke, independently from established risk factors. Method Stroke survivors (n = 176) in their working age (<65 years) recruited from two rehabilitation clinics were assessed for established risk factors: pre-stroke depression, activities of daily living, stroke severity, cognitive impairment, and social support. RTW and depressive symptoms (Geriatric Depression Scale: GDS-15) were assessed six- and twelve-months post-stroke. Multivariate regression analyses were used to assess the cross-sectional and longitudinal relationship between RTW and GDS-15, while controlling for established PSD risk factors. Results Successful RTW was independently associated with lower GDS-15 at both measurement occasions (p < .05), next to the absence of pre-stroke depression and higher social support. Stroke severity predicted GDS-15 at twelve months. The predictive value of six-months RTW for subsequent depressive symptoms beyond the influence of established risk factors was ss = -1.73 (p = .09). Discussion RTW was independently associated with PSD in young stroke survivors within the first-year post-stroke, and exerted a (marginally significant) effect on subsequent depression. Our study highlights the relevance of RTW for young stroke survivors' PSD, beyond the influence of established risk factors. Further assessments examining to what extent fostering RTW contributes to mental well-being after stroke might be promising for PSD prevention, next to evident beneficial economic effects.",
+    "DOI": "10.1080/10749357.2022.2026562",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional and longitudinal analysis, which meets the inclusion criteria. The study is conducted in EU countries (Europe), within the specified timeframe (2005-2025), and focuses on people with mental disorders (stroke survivors) and employment outcomes (return-to-work).",
+            "study_design": "Cross-sectional and longitudinal analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on stroke survivors rather than people with mental disorders. It also lacks an intervention related to employment policies.",
+            "study_design": "Cross-sectional and longitudinal analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on depressive symptoms in young stroke survivors, not specifically on employment outcomes or interventions for people with mental health disorders. The study design is not specified as an RCT, systematic review, or quasi-experimental study with a control group, which is required by the inclusion criteria.",
+            "study_design": "Cross-sectional and longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and the population is stroke survivors, not people with mental disorders.",
+            "study_design": "Longitudinal analysis",
+            "logprobs": null
+        }
+    }
+}

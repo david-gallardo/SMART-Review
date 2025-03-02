@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2775,
+    "Authors": "Ariza-Montes, Antonio; Leal-Rodriguez, Antonio L.; Rodriguez-Felix, Lucia; Albort-Morant, Gema",
+    "Article Title": "Can an Internal Locus of Control and Social Support Reduce Work-Related Levels of Stress and Strain? A Comparative Study Between Spanish Owners and Managers",
+    "Abstract": "Objective: The aim of this article is to assess the role played by both individual and contextual factors in reducing the manager's levels of stress and strain within the workplace setting. This article also highlights the manager's locus of control (LOC) as an internal factor and emphasizes the social support variable as a contextual factor. Methods: We use a sample of 332 respondents belonging to Spanish manufacturing and services firms and a structural equation modeling technique (partial least squares path modeling). Results: The results reveal that there are significant differences between managers and owners about stress-strain relationship. Conclusions: The study provides support for the literature on stress management, which emphasizes the importance of a LOC and social support in influencing stress and strain between managers and owners.",
+    "DOI": "10.1097/JOM.0000000000001096",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a control group.",
+            "study_design": "Structural equation modeling (partial least squares path modeling)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on stress management in the workplace between managers and owners.",
+            "study_design": "Cross-sectional survey using structural equation modeling",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on stress and strain in the workplace, not on employment outcomes for people with mental health disorders.",
+            "study_design": "Comparative study using structural equation modeling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders, the intervention is not related to employment policies, and it lacks a control group for rigorous evaluation.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

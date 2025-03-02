@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2355,
+    "Authors": "Li, Yang; Dong, Fanghong; Kim, Miyong",
+    "Article Title": "Mental Health Among Chinese Immigrants in the United States During the COVID-19 Pandemic",
+    "Abstract": "Introduction: Chinese immigrants have faced tremendous health challenges during the coronavirus disease 2019 pandemic. The purpose of this study was to examine the prevalence of depression and anxiety and associated factors among Chinese immigrants in the United States. Methodology: This is a cross-sectional study conducted online. Sociodemographic, immigration-related, and pandemic-related factors, racism, social support, depression, and anxiety were measured. Results: A total of 507 Chinese immigrants completed the survey, with 36% of participants having depression and 29% having anxiety. Younger age (p = .048), residing in the South (p = .017), being affected by the pandemic (p < .001), racism (p < .001), and lower levels of social support (p < .001) were associated with depression. Lower education levels (p = .017), unemployment (p = .036), being U.S.-born (China-born: p = .012; Other nativity: p = .034), being affected by the pandemic (p = .006), racism (p < .001), and lower levels of social support (p = .006) were associated with anxiety. Discussion: There is a pressing need for health care professionals and policymakers to develop effective strategies to decrease anti-Chinese racism and address Chinese immigrants' mental health needs during the pandemic and afterward.",
+    "DOI": "10.1177/10436596221085300",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation (no control group) and its population is not defined in terms of mental health disorders. The intervention and outcomes are not related to employment policies.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on mental health outcomes (depression and anxiety) among Chinese immigrants in the US during the COVID-10 pandemic, not employment outcomes. Additionally, the study design is a cross-sectional study, not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes related to employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

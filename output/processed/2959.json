@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2959,
+    "Authors": "Edwards, Layla Maree; Chang, Sungwon; Zeki, Reem; Jamieson, Sacha Kendall; Bowman, Julia; Cooper, Craig; Sullivan, Elizabeth",
+    "Article Title": "The associations between social determinants of health, mental health, substance-use and recidivism: a ten-year retrospective cohort analysis of women who completed the connections programme in Australia",
+    "Abstract": "Background Women with substance-use issues are overrepresented in prison. Research on women's recidivism often focuses on offending behaviour rather than the health and social circumstances women are experiencing when reimprisonment occurs. This study examines the relationship between social determinants of health (SDOH), mental health, substance-use and recidivism among women exiting prison with histories of substance-use.Methods A retrospective cohort study of women exiting prison who completed the transitional support programme Connections between 2008 and 2018. Recidivism was measured up to two years post-release. Women's support needs were measured at baseline (4 weeks pre-release) and follow-up (four weeks post-release). Ongoing needs in relation to well-established SDOH were calculated if: (1) at baseline women were identified as having a re-entry need with housing, employment, finances, education, domestic violence, child-custody and social support and (2) at follow-up women reported still needing help in that area. Women's self-reported substance-use and mental health since release were captured at follow-up. Descriptive statistics were calculated for all measures. Associations between SDOH, mental health, substance-use and recidivism were estimated by multiple logistic regression, adjusting for potential confounders. We also evaluated the mediating effects of mental health on the relationship between SDOH and substance-use.Results Substance-use was associated with increased odds of recidivism (adjusted odds ratio (AOR) 1.8, 95% confidence interval (CI) 1.1-2.9; p = 0.02). Poor mental health (AOR 2.9, 95% CI 1.9-4.6; p = < 0.01), ongoing social support (AOR 3.0, 95% CI 1.9-5.0; p = < 0.01), child-custody (AOR 1.9, 95% CI 1.0-3.3 p = 0.04), financial (AOR 2.0, 95% CI 1.3-3.2; p = < 0.01) and housing (AOR 1.8, 95% CI 1.1-2.9; p = 0.02) needs were individually associated with increased odds of substance-use. Mediation analysis found mental health fully mediated the effects of ongoing housing (beta efficiency (b) = - 033, standard error (SE) 0.01; p = 0.05), financial (b = 0.15, SE 0.07; p = 0.05), child-custody (b = 0.18, SE 0.01; p = 0.05) and social support (b = 0.36, SE 0.1; p = 0.05) needs onto substance-use, and partially mediated the effects of domestic violence (b = 0.57, SE 0.23; p = 0.05) onto substance-use.Conclusion This study underscores the critical importance of addressing the interplay between SDOH, mental health, substance-use and recidivism. An approach that targets SDOH holds the potential for reducing mental distress and substance-use, and related recidivism.",
+    "DOI": "10.1186/s12954-023-00909-4",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather examines the relationship between social determinants of health, mental health, substance-use, and recidivism.",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the relationship between social determinants of health, mental health, substance-use and recidivism among women exiting prison.",
+            "study_design": "Retrospective cohort study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2772,
+    "Authors": "Prickett, Kate C.; Crosnoe, Robert; Raley, R. Kelly",
+    "Article Title": "Employment Resources and the Physical and Mental Health of Mothers of Young Children",
+    "Abstract": "This study explored resources from paid employment that could promote women's health during a vulnerable period of motherhood (raising young children). Following theoretical perspectives on work-family interplay and stress, it tested two sets of hypotheses by applying cross-lagged modeling techniques to nationally representative data on mothers from the Early Childhood Longitudinal Study-Birth Cohort (n = 7450) and occupational conditions from the Occupational Information Network database. In general, mothers of young children reported better health when employed in occupational sectors with more socioemotional resources, such as opportunities to develop a sense of mastery and connection. For the specific set of mothers who had children with health problems, more instrumental resources on the job, such as the ability to telecommute, appeared to better support health. There was some evidence of resources mattering more in the context of part-time employment, but there were no links between any resources and mental health.",
+    "DOI": "10.1177/0192513X231181370",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment as an intervention, but rather explores the relationship between employment and physical and mental health outcomes.",
+            "study_design": "Cross-lagged modeling techniques applied to nationally representative data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the intervention (employment policies) for people with mental disorders. It focuses on employment resources and their impact on the physical and mental health of mothers of young children.",
+            "study_design": "Cross-lagged modeling using nationally representative data",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the general health of mothers with young children and does not specifically address employment outcomes for people with mental health disorders.",
+            "study_design": "Cross-lagged modeling study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not measure employment outcomes such as employment rates, job duration, etc.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

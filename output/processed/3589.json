@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3589,
+    "Authors": "Pereira-Sanchez, Victor; Angel Alvarez-Mon, Miguel; Horinouchi, Toru; Kawagishi, Ryo; Tan, Marcus P. J.; Hooker, Elizabeth R.; Alvarez-Mon, Melchor; Teo, Alan R.",
+    "Article Title": "Examining Tweet Content and Engagement of Users With Tweets About Hikikomori in Japanese: Mixed Methods Study of Social Withdrawal",
+    "Abstract": "Background: Hikikomori is a form of severe social withdrawal that is particularly prevalent in Japan. Social media posts offer insight into public perceptions of mental health conditions and may also inform strategies to identify, engage, and support hard-to-reach patient populations such as individuals affected by hikikomori.Objective: In this study, we seek to identify the types of content on Twitter related to hikikomori in the Japanese language and to assess Twitter users' engagement with that content.Methods: We conducted a mixed methods analysis of a random sample of 4940 Japanese tweets from February to August 2018 using a hashtag (#hikikomori). Qualitative content analysis included examination of the text of each tweet, development of a codebook, and categorization of tweets into relevant codes. For quantitative analysis (n=4859 tweets), we used bivariate and multivariate logistic regression models, adjusted for multiple comparisons, and estimated the predicted probabilities of tweets receiving engagement (likes or retweets).Results: Our content analysis identified 9 codes relevant to tweets about hikikomori: personal anecdotes, social support, marketing, advice, stigma, educational opportunities, refuge (ibasho), employment opportunities, and medicine and science. Tweets about personal anecdotes were the most common (present in 2747/4859, 56.53% of the tweets), followed by social support (902/4859, 18.56%) and marketing (624/4859, 12.84%). In the adjusted models, tweets coded as stigma had a lower predicted probability of likes (-33 percentage points, 95% CI -42 to -23 percentage points; P<.001) and retweets (-11 percentage points, 95% CI -18 to -4 percentage points; P<.001), personal anecdotes had a lower predicted probability of retweets (-8 percentage points, 95% CI -14 to -3 percentage points; P=.002), marketing had a lower predicted probability of likes (-13 percentage points, 95% CI -21 to -6 percentage points; P<.001), and social support had a higher predicted probability of retweets (+15 percentage points, 95% CI 6-24 percentage points; P=.001), compared with all tweets without each of these codes.Conclusions: Japanese tweets about hikikomori reflect a unique array of topics, many of which have not been identified in prior research and vary in their likelihood of receiving engagement. Tweets often contain personal stories of hikikomori, suggesting the potential to identify individuals with hikikomori through Twitter.",
+    "DOI": "10.2196/31175",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study examines Twitter content and engagement related to hikikomori, a form of social withdrawal, and does not address employment outcomes.",
+            "study_design": "Mixed methods analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly target job search services, adult training, wage subsidies, or supported employment. It focuses on social media content related to Hikikomori in Japan.",
+            "study_design": "Mixed methods analysis of tweets",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the specified inclusion criteria regarding study design, intervention, timeframe, geographic scope, population, and outcomes.",
+            "study_design": "Mixed methods study",
+            "logprobs": null
+        }
+    }
+}

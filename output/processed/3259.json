@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3259,
+    "Authors": "Smoktunowicz, Ewelina; Lesnierowska, Magdalena; Carlbring, Per; Andersson, Gerhard; Cieslak, Roman",
+    "Article Title": "Resource-Based Internet Intervention (Med-Stress) to Improve Well-Being Among Medical Professionals: Randomized Controlled Trial",
+    "Abstract": "Background: Medical professionals are exposed to multiple and often excessive demands in their work environment. Low-intensity internet interventions allow them to benefit from psychological support even when institutional help is not available. Focusing on enhancing psychological resources-self-efficacy and perceived social support-makes an intervention relevant for various occupations within the medical profession. Previously, these resources were found to operate both individually or sequentially with self-efficacy either preceding social support (cultivation process) or following it (enabling process).Objective: The objective of this randomized controlled trial is to compare the efficacy of 4 variants of Med-Stress, a self-guided internet intervention that aims to improve the multifaceted well-being of medical professionals.Methods: This study was conducted before the COVID-19 pandemic. Participants (N=1240) were recruited mainly via media campaigns and social media targeted ads. They were assigned to 1 of the following 4 groups: experimental condition reflecting the cultivation process, experimental condition reflecting the enabling process, active comparator enhancing only self-efficacy, and active comparator enhancing only perceived social support. Outcomes included 5 facets of well-being: job stress, job burnout, work engagement, depression, and job-related traumatic stress. Measurements were taken on the web at baseline (time 1), immediately after intervention (time 2), and at a 6-month follow-up (time 3). To analyze the data, linear mixed effects models were used on the intention-to-treat sample. The trial was partially blinded as the information about the duration of the trial, which was different for experimental and control conditions, was public.Results: At time 2, job stress was lower in the condition reflecting the cultivation process than in the one enhancing social support only (d=-0.21), and at time 3, participants in that experimental condition reported the lowest job stress when compared with all 3 remaining study groups (ds between -0.24 and -0.41). For job-related traumatic stress, we found a significant difference between study groups only at time 3: stress was lower in the experimental condition in which self-efficacy was enhanced first than in the active comparator enhancing solely social support (d=-0.24). The same result was found for work engagement (d=-0.20), which means that it was lower in exactly the same condition that was found beneficial for stress relief. There were no differences between study conditions for burnout and depression neither at time 2 nor at time 3. There was a high dropout in the study (1023/1240, 82.50% at posttest), reflecting the pragmatic nature of this trial.Conclusions: The Med-Stress internet intervention improves some components of well-being-most notably job stress-when activities are completed in a specific sequence. The decrease in work engagement could support the notion of dark side of this phenomenon, but further research is needed.",
+    "DOI": "10.2196/21445",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on improving well-being among medical professionals.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention does not focus on job search services, adult training, wage subsidies, or supported employment. It is a randomized controlled trial (RCT) but its intervention targets well-being among medical professionals rather than people with mental health disorders as specified in the inclusion criteria.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

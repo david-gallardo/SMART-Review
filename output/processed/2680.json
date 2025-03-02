@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2680,
+    "Authors": "Lunsky, Yona; Bobbette, Nicole; Chacra, Megan Abou; Wang, Wei; Zhao, Haoyu; Thomson, Kendra; Hamdani, Yani",
+    "Article Title": "Predictors of worker mental health in intellectual disability services during COVID-19",
+    "Abstract": "Background Workers supporting adults with intellectual disabilities experience significant stress in their essential role during COVID-19. The purpose of this study was to describe the experience of these workers and determine predictors of emotional distress.Methods Eight hundred and thirty-eight workers supporting adults with intellectual disabilities completed an online survey about their work during COVID-19 and their mental health in July 2020.Results One in four workers reported moderate to severe emotional distress. Being older and more experienced, having counselling services available through one's agency, and engaging in regular exercise or hobbies outside work were associated with less distress. Workers who reported increased stress in the workplace, stigma towards their families because of their job, personal fears about spreading COVID-19, and receipt of medications for mental health conditions or therapy reported greater distress.Conclusions More attention is needed to address the mental health of workers supporting adults with intellectual disabilities as they continue their essential work during the pandemic.",
+    "DOI": "10.1111/jar.12892",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not directly address employment outcomes for people with mental health disorders. The study focuses on the mental health of workers supporting adults with intellectual disabilities, rather than employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on workers supporting adults with intellectual disabilities and their emotional distress during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on workers supporting adults with intellectual disabilities, not specifically on people with mental health disorders.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

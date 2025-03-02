@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2893,
+    "Authors": "Sellmaier, Claudia",
+    "Article Title": "Physical and Mental Health of Mothers and Fathers Caring for Children with Special Health Care Needs: The Influence of Community Resources",
+    "Abstract": "Research has demonstrated that caring for children with special health care needs (SHCN) affects parental health and well-being. The current study examines effects of community resources on physical and mental health of mothers and fathers caring for a child with SHCN. Analysis of the 2016 National Survey of Children's Health found that fathers rated their physical and mental health higher than mothers. Greater neighborhood safety and fewer days missed school were significant community resources for both mothers' and fathers' physical and mental health. Health care resources were only significant predictors for mothers' health but not for fathers'. The analysis found significant moderating relationships between days missed school and child symptomology and days missed school and maternal employment on mothers' mental health. The importance of economic security and community resources for parental health when caring for a child with special health care needs is discussed, and practice and policy implications are developed.",
+    "DOI": "10.1177/0192513X211035580",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment, but rather focuses on the physical and mental health of parents caring for children with special health care needs.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is not specified to include people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the physical and mental health of parents caring for children with special health care needs, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "National Survey of Children's Health",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders in adults; the study focuses on parents caring for children with special health care needs.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

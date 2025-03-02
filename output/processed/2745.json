@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2745,
+    "Authors": "Ramchand, Rajeev; Rudavsky, Rena; Grant, Sean; Tanielian, Terri; Jaycox, Lisa",
+    "Article Title": "Prevalence of, Risk Factors for, and Consequences of Posttraumatic Stress Disorder and Other Mental Health Problems in Military Populations Deployed to Iraq and Afghanistan",
+    "Abstract": "This review summarizes the epidemiology of post-traumatic stress disorder (PTSD) and related mental health problems among persons who served in the armed forces during the Iraq and Afghanistan conflicts, as reflected in the literature published between 2009 and 2014. One-hundred and sixteen research studies are reviewed, most of which are among non-treatment-seeking US service members or treatment-seeking US veterans. Evidence is provided for demographic, military, and deployment-related risk factors for PTSD, though most derive from cross-sectional studies and few control for combat exposure, which is a primary risk factor for mental health problems in this cohort. Evidence is also provided linking PTSD with outcomes in the following domains: physical health, suicide, housing and homelessness, employment and economic well-being, social well-being, and aggression, violence, and criminality. Also included is evidence about the prevalence of mental health service use in this cohort. In many instances, the current suite of studies replicates findings observed in civilian samples, but new findings emerge of relevance to both military and civilian populations, such as the link between PTSD and suicide. Future research should make effort to control for combat exposure and use longitudinal study designs; promising areas for investigation are in non-treatment-seeking samples of US veterans and the role of social support in preventing or mitigating mental health problems in this group.",
+    "DOI": "10.1007/s11920-015-0575-z",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published before 2005",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and focuses on the epidemiology of PTSD and related mental health problems among military populations deployed to Iraq and Afghanistan. It lacks interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on PTSD and related mental health problems in military populations, not specifically on employment outcomes or interventions for people with mental health disorders in the context of active employment policies.",
+            "study_design": "Review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

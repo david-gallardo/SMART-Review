@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3428,
+    "Authors": "Romo, Lynsey K.; Abetz, Jenna",
+    "Article Title": "How US college athletes manage COVID-19 related uncertainty",
+    "Abstract": "Emerging adulthood is a period rife with uncertainty, even prior to COVID-19. Research suggests college athletes may be better adept at managing COVID-related challenges. Thus, we interviewed 16 U.S. college athletes to better understand their experiences related to uncertainty and uncertainty management. We found college athletes, who had to balance both academics and sports, experienced uncertainty related to health, academics, interpersonal relationships, and careers. Using the lens of uncertainty management theory (UMT), we found most college athletes viewed uncertainty negatively, attempting to reduce it via seeking social support and information, establishing schedules, and protecting against COVID. However, others learned to adapt to ambiguity by controlling what they could control and focusing on COVID's positives. By adapting, college athletes were able to build resilience, informing strategies other emerging adults can use not only to navigate a global pandemic, but the unexpected challenges and adversity inherent in emerging adulthood.",
+    "DOI": "10.1080/2159676X.2022.2161607",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather explores uncertainty management among college athletes.",
+            "study_design": "Qualitative study (interviews)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation or control group. It is an interview-based qualitative study on U.S. college athletes and does not meet the inclusion criteria for intervention (job search services, adult training, wage subsidies, supported employment) or outcomes related to employment.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it include interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Interview study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

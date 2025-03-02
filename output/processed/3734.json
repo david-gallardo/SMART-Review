@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3734,
+    "Authors": "Shaffer, Kelly M.; Kim, Youngmee; Carver, Charles S.; Cannady, Rachel S.",
+    "Article Title": "Depressive symptoms predict cancer caregivers' physical health decline",
+    "Abstract": "BACKGROUNDCancer caregiving has been associated with worsening health among caregivers themselves, yet demographic and psychosocial predictors of their long-term health decline are less known. This study examines changes in caregivers' physical health 2 to 8 years after their family members' cancer diagnosis and prospective predictors of that change.METHODSCaregivers (n = 664; mean age, 53.2 years) participated in a nationwide study at 2 (T1), 5 (T2), and 8 (T3) years after their family members' cancer diagnosis. Physical health (12-item Medical Outcomes Study Short Form Health Survey Physical Component Scale) was assessed T1 through T3 as outcome. Predictors were self-reported at T1, including caregiver demographics (age, sex, education, income, relationship to patient, and employment status), patient cancer severity (from medical records), and caregiver psychosocial factors (caregiving stress, caregiving esteem, social support, and depressive symptoms). Latent growth modeling tested predictors of caregivers' initial physical health and their physical health change across time.RESULTSAt T1, caregivers reported slightly better physical health than the US population (M = 51.22, P = .002), which declined over the following 6 years (M-slope = -0.27, P < .001). All demographic factors, patient cancer severity, and T1 caregiving stress were related to caregivers' initial physical health (P .03). Higher depressive symptoms were unrelated to caregivers' initial physical health, but were the only significant predictor of caregivers' more rapid physical health decline (B = -0.02, P = .004).CONCLUSIONFindings highlight the unique contribution of caregivers' depressive symptoms to their physical health decline. Assessing and addressing depressive symptoms among caregivers early in the cancer survivorship trajectory may help to prevent premature health decline among this important yet vulnerable population. Cancer 2017;123:4277-4285. (c) 2017 American Cancer Society.Latent growth modeling reveals that cancer caregivers' physical health declines from 2 to 8 years after the patients' diagnosis. Caregivers with high depressive symptoms at 2 years postdiagnosis report more pronounced physical health decline than other caregivers.",
+    "DOI": "10.1002/cncr.30835",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on physical health decline among caregivers, not employment.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not directly involve job search services, adult training, wage subsidies, or supported employment. It focuses on psychosocial predictors of physical health decline among cancer caregivers.",
+            "study_design": "Cross-sectional with longitudinal follow-up",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on cancer caregivers' physical health decline, not employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Latent growth modeling study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

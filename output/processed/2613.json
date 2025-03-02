@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2613,
+    "Authors": "Brendgen, Mara; Poulin, Francois",
+    "Article Title": "Continued Bullying Victimization from Childhood to Young Adulthood: a Longitudinal Study of Mediating and Protective Factors",
+    "Abstract": "Bullying in schools has severe consequences for victims' adjustment. It is unclear, however, whether victims of school bullying continue to be victimized in other contexts during adulthood. Mediating processes through which peer victimization in school increases the risk of revictimization in adulthood, as well as protective factors, also need to be explored. This study examined 1) the longitudinal association between peer victimization in school and victimization at work during young adulthood, 2) the predictive link of reactive and proactive aggression and anxious-withdrawn behavior in childhood with victimization in school and at the workplace, 3) the potential mediating role of depression symptoms, and 4) the potential protective effect of friendship support. The study included 251 participants (61% females) followed from age 12 to age 22. Participants reported about their victimization in school from ages 12 to 17 and their workplace victimization at age 22. They also reported about their depression-related thoughts and feelings and about friendship support. Teachers rated reactive and proactive aggression and anxiety-withdrawal at age 12. Structural equation modeling revealed that anxiety-withdrawal at age 12 predicted peer victimization in school, which in turn predicted later victimization at work. The latter association was partially mediated by increased depression symptoms. However, friendship support counteracted (via a main effect) the link between school victimization and subsequent depression symptoms. Bullying victims may benefit from interventions aimed at reducing depression symptoms and fostering social skills to establish supportive friendships to help avoid the generation of new interpersonal stress such as workplace victimization in adulthood.",
+    "DOI": "10.1007/s10802-017-0314-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the association between peer victimization in school and victimization at work during young adulthood, as well as the predictive link of reactive and proactive aggression and anxious-withdrawn behavior in childhood with victimization in school and at the workplace.",
+            "study_design": "Longitudinal study with a control group (teachers' ratings of reactive and proactive aggression and anxiety-withdrawal at age 12)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on bullying and its psychological impacts rather than interventions aimed at improving employment for people with mental health disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions for people with mental health disorders.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

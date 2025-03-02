@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2479,
+    "Authors": "Lu, Weili; Oursler, Janice; Gao, Ni; Herrick, Samantha J.; Mariani, Jake; Socha, Crystal; Beninato, John",
+    "Article Title": "Service needs assessment of employment-related soft skills for transition age youth with disabilities",
+    "Abstract": "BACKGROUND: Work-related soft skills can be an important factor for successful employment outcomes, particularly for individuals with disabilities.OBJECTIVE: This study conducted a survey on the needs of important work-related soft skills for employment success of transition age youth with disabilities.METHODS: 183 participants included 27 individuals with disabilities, 32 family members of individuals with disabilities,35 disability service providers, 47 disability advocates and 42 employers, completed surveys to identify a list of soft skills by importance for transition age youth with disabilities to succeed at work.RESULTS: All five groups noted the top two skills: asking for help and responding to feedback, as most important. Employers also rated interviewskills as third most important skills, while the other four groups advocated requesting for accommodations and negotiating conflicts as the third and fourth most important skills.CONCLUSIONS: Findings indicated soft skills being critical to work success for transition age youth with disabilities, with some skills potentially being more important. Vocational counseling implications were discussed.",
+    "DOI": "10.3233/JVR-211173",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a survey, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders and lacks an intervention related to active employment policies such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on soft skills for employment success in youth with disabilities, not directly on employment interventions for people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate the effectiveness of any employment intervention.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2390,
+    "Authors": "Demou, Evangelia; Brown, Judith; Sanati, Kaveh; Kennedy, Mark; Murray, Keith; Macdonald, Ewan B.",
+    "Article Title": "A novel approach to early sickness absence management: The EASY (Early Access to Support for You) way",
+    "Abstract": "BACKGROUND: Sickness absence (SA) is multi-causal and remains a significant problem for employees, employers and society. This makes it necessary to concurrently manage a particular disabling condition and consider the working environment and employee-employer relationship.OBJECTIVE: To describe and examine the components of a novel SA management service Early Access to Support for You (EASY) and discuss their potential influence on the intervention.METHODS: A new sickness absence model, starting from day one of absence, was created called EASY. EASY is planned to support both employees and managers and comprises elements already found to be associated with reduction of SA, such as maintaining regular contact; early biopsychosocial case-management; physiotherapy; mental-health counselling; work modification; phased return-to-work; and health promotion activities.RESULTS: During the EASY implementation period, the SA rate at a health board reversed its trend of being one of the highest rates in the Scottish National Health Service (NHS) and EASY was considered helpful by both managers and employees.CONCLUSIONS: This paper describes an innovative occupational health intervention to sickness absence management based on the bio-psychosocial model to provide early intervention, and discusses the pros and cons of applying cognitive behavioural principles at an early stage in sickness-absence events, in order to improve return-to-work outcomes.",
+    "DOI": "10.3233/WOR-152137",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment and focuses on sickness absence management. It lacks measures of employment or labor outcomes.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment services such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

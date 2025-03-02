@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2447,
+    "Authors": "Knoll, Adriana D.; MacLennan, Richard N.",
+    "Article Title": "Prevalence and Correlates of Depression in Canada: Findings from the Canadian Community Health Survey",
+    "Abstract": "Major depressive disorder (MDD) has a profound effect not only on mental health, but on all aspects of life, including employment, social functioning, and physical well-being. Depression has been associated with individual difference variables such as sex, social support, and negative childhood experiences. Other correlates of MDD include: suicidal ideation and action, distress, positive mental health and life satisfaction (both negative). Although extensive research has been done on the prevalence rate and correlates of depression, representative samples are not used often. The current study utilized data from the Canadian Community Health Survey-Mental Health (CCHS-MH) focus content cycle 2012, which contains a representative sample of the Canadian population. The main goal of this study was to explore prevalence rates and correlates of depression for the Canadian population. Having a representative sample from the CCHS-MH allows for more accurate inferences to be made about the population of Canada. The 12 months' prevalence rate of MDD in Canada was found to be 4.7%, and the lifetime prevalence rate was found to be 11.2%. There exists a sex difference in the prevalence rates of MDD, with females being almost twice as likely to experience MDD during their lifetime compared to males (OR = 1.8). The relationship between MDD and suicide ideation, social support, negative childhood experiences, and other correlates are also discussed in detail.",
+    "DOI": "10.1037/cap0000103",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the prevalence and correlates of depression in Canada.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the prevalence and correlates of depression in Canada.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the prevalence and correlates of depression in Canada, not on employment outcomes or interventions for people with mental health disorders in the workplace.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not evaluate an employment intervention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2901,
+    "Authors": "Turgoose, David; Murphy, Dominic",
+    "Article Title": "Associations between Adverse Childhood Experiences (ACEs) and Complex-PTSD, moral injury and perceived social support: A latent class analysis",
+    "Abstract": "Background: Adverse Childhood Experiences (ACEs), including childhood abuse and neglect, are consistently linked to poorer mental health and psychosocial outcomes in adulthood. Complex-posttraumatic stress disorder (C-PTSD) and moral injury are two conditions which can cause significant distress and functional impairment in individuals affected by trauma. However, not much is known about the complex relationships between ACEs, C-PTSD and moral injury. Furthermore, while perceived social support is a commonly cited protective factor for C-PTSD, there is little understanding about how it relates to ACEs in traumatised populations. The aim of this study was to investigate ACEs in a trauma-affected sample of UK military veterans using latent class analysis. Secondly, the study tested for associations between latent classes of ACEs, severity of C-PTSD and moral injury, and levels of perceived social support. Method: Data was collected from a UK military veterans mental health charity, from a clinical sample (N = 336) who were receiving treatment for mental health difficulties. Participants completed standardised measures of ACEs, C-PTSD, moral injury, and perceived social support. Data was analysed using a bias-adjusted 3-step approach latent class analysis. Wald statistics were used to test for associations between classes of ACEs and C-PTSD, moral injury and perceived social support. Findings: A two-class model was found to be the best fit for the data, which depicted two classes of ACEs within the sample. The classes showed a distinction between a group of participants who were more likely to endorse experiencing high levels of ACEs, and a separate group who endorsed relatively lower levels of ACEs. As such, the model was interpreted as depicting a low-ACEs (class 1) vs. high-ACEs (class 2) distinction. 56 % of participants fell into class 1 (low ACEs) with 44 % in class 2 (high ACEs). Participants in class 2 (high ACEs) were significantly more likely to score highly for symptoms of C-PTSD and moral injury, and to report lower levels of perceived social support. Conclusion: The present study is the first to report a two-class model of low vs high-ACEs in a clinical sample of UK military veterans. It also describes how membership of the high-ACEs class was significantly associated with higher scores for key mental health and psychosocial variables in C-PTSD, moral injury and perceived social support. The findings have important clinical implications in highlighting the possible role of ACEs in understanding the aetiology of psychopathology in military populations affected by trauma. It also adds to the growing literature which demonstrates how many military personnel experience significant levels of pre-existing trauma and adversity before entering service, and how this can contribute to the development of complex mental health outcomes in adulthood.",
+    "DOI": "10.1016/j.ejtd.2024.100463",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on employment or labor outcomes, and it does not address active employment policies for people with mental health disorders.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies for people with mental health disorders. It focuses on the associations between Adverse Childhood Experiences (ACEs) and Complex-PTSD, moral injury, and perceived social support in a UK military veteran sample.",
+            "study_design": "Latent class analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}

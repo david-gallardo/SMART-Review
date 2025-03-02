@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2312,
+    "Authors": "Ostrow, Laysha; Cook, Judith A.; Salzer, Mark S.; Pelot, Morgan; Burke-Miller, Jane K.",
+    "Article Title": "Employment Outcomes After Certification as a Behavioral Health Peer Specialist in Four US States",
+    "Abstract": "Objective: A 3-year study explores employment outcomes of certified peer specialists (CPSs). Analyses reported here identified relationships between demographic, clinical, work history, and geographic characteristics and employment status and current employment in peer services jobs versus other jobs.Methods: The study recruited adults who recently became a CPS, regardless of current employment status, in four states. Online survey data were collected from March to October 2020 and included demographic information, health status and diagnoses, mental health service use, motivations for becoming certified, employment history, and job characteristics, including job satisfaction. Descriptive statistics and logistic regression models were used to compare groups.Results: Of 681 respondents, 591 provided data on current employment and were included. Participants who received Social Security Disability Insurance or Supplemental Security Income, veterans, those who used outpatient counseling or therapy, and those who did not disclose their mental health status in the workplace were less likely to report current employment. Lack of disclosure and higher local unemployment rates contributed to a lower likelihood of working in peer services jobs, whereas individuals reporting depressive disorders were more likely to hold such jobs. Compared with those in other jobs, those in peer services jobs reported longer job tenure, and a larger proportion received employee benefits. Job satisfaction was significantly higher among those with peer services jobs.Conclusions: Workers with a CPS credential had higher employment rates, compared with adults with psychiatric disabilities, and the quality of peer specialist jobs was equal to or higher than the quality of other jobs held by study participants.",
+    "DOI": "10.1176/appi.ps.202100651",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address job search services, adult training, wage subsidies, or supported employment. The study focuses on certification as a Behavioral Health Peer Specialist and its impact on employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on certified peer specialists (CPSs) and does not directly address employment interventions for people with mental health disorders in the general population.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental study with a control group, conducted in the US within the specified timeframe (2005-2025), and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2511,
+    "Authors": "Alston, Marion; Bennett, Carole Frances; Rochani, Haresh",
+    "Article Title": "Treatment Adherence in Youth with First-Episode Psychosis: Impact of Family Support and Telehealth Delivery",
+    "Abstract": "Mental health-care delivery to young people with first-episode schizophrenia presents significant challenges especially in underserved areas. This chart review reveals the importance of family support as a predictor for medication and treatment adherence with this vulnerable group. An unexpected disengagement rate of 47% was discovered. It was further discovered that receiving care with telehealth delivery was a significant predictor of lost to follow-up or treatment nonadherence. Recommendations include psychoeducation for families during the initial crisis, initiation of long-acting injectable antipsychotics early in care, a hybrid telehealth intervention with in-home medication delivery, and collaboration with educational, vocational county agencies for employment support. A system of care must be developed to support young people with this severe illness for optimum outcome and protection of long-term cognitive functioning.",
+    "DOI": "10.1080/01612840.2019.1630532",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a chart review, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Chart Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment outcomes and lacks an intervention related to active employment policies.",
+            "study_design": "Chart review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on treatment adherence in youth with first-episode psychosis and does not directly address employment outcomes or interventions.",
+            "study_design": "Chart review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not present measures of employment or labor outcomes.",
+            "study_design": "Chart review",
+            "logprobs": null
+        }
+    }
+}

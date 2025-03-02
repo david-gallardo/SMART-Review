@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2814,
+    "Authors": "Marcal, Katherine E.",
+    "Article Title": "Patterns and predictors of material hardship among poor families with children",
+    "Abstract": "Experiences of material hardship vary across poor families, but little is understood about this variability. The present study aimed to distinguish subtypes of material hardship as well as which characteristics predict subtypes. Latent class analysis with data from a large, longitudinal study of families with youth children investigated subtypes of material hardship as well as predictors of subtypes. Multinomial logistic regression then predicted class membership used on known housing risk factors maternal IPV victimization, depression, and substance use. Analyses identified three distinct subtypes of material hardship: Housing Insecure, Food Insecure, and Cost-Burdened but Managing. Maternal IPV victimization and depression reduced likelihood of membership in the Managing class, but no predictors distinguished families who become food versus housing insecure. Findings suggest widespread financial stress and complex tradeoffs for low-income families, who struggle to afford basic needs. Maternal safety and mental health prove crucial to families' coping abilities. Increased systemic supports targeting specific circumstances may promote stability and prevent more severe hardship.",
+    "DOI": "10.1002/jcop.22978",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not directly address employment or labor outcomes. The study focuses on material hardship among poor families with children, which is not related to active employment policies for people with mental health disorders.",
+            "study_design": "Longitudinal study with latent class analysis and multinomial logistic regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on material hardship among poor families. It lacks an intervention related to active employment policies for people with mental health disorders.",
+            "study_design": "Latent class analysis, multinomial logistic regression",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on material hardship among poor families with children, not specifically on employment outcomes for people with mental health disorders.",
+            "study_design": "Latent class analysis with longitudinal data",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies or outcomes for people with mental health disorders.",
+            "study_design": "Longitudinal study using latent class analysis and multinominal logistic regression",
+            "logprobs": null
+        }
+    }
+}

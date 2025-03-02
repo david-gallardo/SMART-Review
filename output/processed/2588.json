@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2588,
+    "Authors": "Nabe-Nielsen, Kirsten; Thielen, Karsten; Nygaard, Else; Thorsen, Sannie Vester; Diderichsen, Finn",
+    "Article Title": "Demand-specific work ability, poor health and working conditions in middle-aged full-time employees",
+    "Abstract": "We investigated the prevalence of reduced demand-specific work ability, its association with age, gender, education, poor health, and working conditions, and the interaction between poor health and working conditions regarding reduced demand-specific work ability. We used cross-sectional questionnaire data from 3381 full-time employees responding to questions about vocational education, job demands and social support (working conditions), musculoskeletal pain (MSP) and major depression (MD) (poor health) and seven questions about difficulty managing different job demands (reduced demand-specific work ability). Reduced demand-specific work ability varied from 9% to 19% among the 46-year old and from 11% to 21% among the 56-year old. Age was associated with two, gender with four, and education with all measures of reduced demand-specific work ability. MSP was associated with four and MD was associated with six measures of reduced demand-specific work ability. We found no interaction between working conditions and poor health regarding reduced demand-specific work ability. (C) 2014 Elsevier Ltd and The Ergonomics Society. All rights reserved.",
+    "DOI": "10.1016/j.apergo.2014.02.007",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional questionnaire data without a control group and does not directly address employment interventions. It focuses on the prevalence of reduced demand-specific work ability and its association with various factors such as age, gender, education, poor health, and working conditions.",
+            "study_design": "Cross-sectional",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

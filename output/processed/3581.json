@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3581,
+    "Authors": "Xie, Fei; Zheng, Huilie; Huang, Ling; Yuan, Zhaokang; Lu, Yuanan",
+    "Article Title": "Social Capital Associated with Quality of Life among People Living with HIV/AIDS in Nanchang, China",
+    "Abstract": "Background: This study aims to explore the relationship between quality of life (QOL) and social capital factors among people living with HIV/AIDS (PLWHA), in order to improve their quality of life and help them to release AIDS discrimination. Methods: A cross-sectional survey with 225 PLWHA was done in Nanchang, China, between January and June of 2015. Questionnaires consisted of a socio-demographic questionnaire, Personal Social Capital Scale and Medical Outcomes Study HIV Health Survey. To identify social capital factors influencing QOL among PLWHA, t-test and multiple linear regression were used as statistical tools. The analysis of data was conducted using SPSS 22.0 with a significant value of p < 0.05. Results: The scores of total social capital, bonding social capital and bridging social capital were 23.68 +/- 5.55, 14.11 +/- 3.40 and 9.46 +/- 3.43 respectively. The scores of Physical Health Summary (PHS) and Mental Health Summary (MHS) were 51.88 +/- 7.04 and 49.29 +/- 6.60. Multiple linear regression analysis showed that age (B = -0.137, p = 0.020), income (B = 0.2170, p 0.001), employment (B = 0.112, p = 0.043) and bonding social capital (B = 0.178, p = 0.001) had significant effects on PHS. Bonding social capital was the most important influencing factor for MHS (B = 0.506, p < 0.001). There was no significant relationship between bridging social capital and QOL (p > 0.05). Conclusions: The PLWHA community has low social capital and a poor QOL in Nanchang. Bonding social capital had a positive impact on the QOL of PLWHA. There is an urgent need to build a better social support system based on bonding social capital for PLWHA. It is worth further exploring to identify how to make full use of bridging social capital for improving QOL among PLWHA.",
+    "DOI": "10.3390/ijerph16020276",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and the population does not reference mental health.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it focuses on people living with HIV/AIDS rather than people with mental health disorders. Additionally, the geographic scope is outside of the specified regions (China).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in the specified geographic scope (China) and does not focus on mental health disorders as defined.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

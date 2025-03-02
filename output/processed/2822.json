@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2822,
+    "Authors": "Encrenaz, Gaelle; Laberon, Sonia; Lagabrielle, Christine; Debruyne, Gautier; Pouyaud, Jacques; Rascle, Nicole",
+    "Article Title": "Psychosocial risks in small enterprises: the mediating role of perceived working conditions in the relationship between enterprise size and workers' anxious or depressive episodes",
+    "Abstract": "Purpose. The relationship between enterprise size and psychosocial working conditions has received little attention so far but some findings suggest that conditions are more favorable in small enterprises. This could have a positive impact on workers' mental health. The objective of this study was to test the mediating effect of perceived working conditions in the relationship between enterprise size and anxious or depressive episodes. Methods. Data from the 2010 SUMER - Surveillance Medicale des Expositions aux Risques professionnels (French periodical cross-sectional survey) were analyzed; N = 31,420 for the present study. Anxious or depressive episodes were measured with the hospital anxiety and depression scale and the perceived working conditions were psychological demand, decision latitude and social support as assessed with Karasek's job content questionnaire. The indirect effect was tested according to the method proposed by Preacher and Hayes. Results. In a multivariate logistic regression, the risk of anxious or depressive episodes was found to be lower in micro enterprises (2-9 employees). Formal tests pointed to a significant indirect effect of enterprise size on mental health through perceived working conditions, with a larger effect for psychological demand. Conclusion. This study highlights perceived working conditions as an explanation of the effects of enterprise size.",
+    "DOI": "10.1080/10803548.2018.1452457",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey (Methods), which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not address interventions related to employment policies for people with mental health disorders. It focuses on the relationship between enterprise size and psychosocial working conditions in relation to anxious or depressive episodes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

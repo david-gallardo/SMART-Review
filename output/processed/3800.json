@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3800,
+    "Authors": "Gernier, Francois; Grellard, Jean-Michel; Dupont, Charlotte; Castel, Herve; Fernette, Marie; Lahaye, Francois; Charles, Rose-Marie; Leroux, Tiphaine; Ory, Celine; Faveyrial, Audrey; Morel, Adeline; Emile, George; Levy, Christelle; Segura, Carine; Allouache, Djelila; Johnson, Alison; Geffrelot, Julien; Gunzer, Katharina; Lelaidier, Anais; Girault, Gilles; Dubot-poitelon, Coraline; San, Chankannira; Lequesne, Justine; Clarisse, Benedicte",
+    "Article Title": "Impact of web application support versus standard management on adherence with adjuvant hormone therapy in patients treated for breast cancer: the WEBAPPAC study",
+    "Abstract": "Background Non-metastatic breast cancer treatment is mainly based on surgery, with or without chemotherapy, radiotherapy and/or hormone therapy. To reduce the risk of hormone receptor positive (HR+) disease recurrence, hormone therapy is prescribed for at least 5 years. It may induce adverse drug reactions (ADRs) as joint pain, sexual dysfunction, weight increase, fatigue, mood disorders and vasomotor symptoms. Around 30-40% of patients withhold hormone therapy within 5 years after initiation. Based on encouraging results of mobile health in patient follow-up, we developed a web-application addressed for breast cancer patients initiating adjuvant hormonal therapy and aimed to assess its impact on hormone therapy adherence, ADRs management, and health-related quality of life.Methods The WEBAPPAC trial is a randomized, open-label, prospective, single- center phase 3 study aiming to assess the interest of a web-application support as compared to standard management among breast cancer patients initiating hormone therapy. The main endpoint is the proportion of patients with hormone therapy adherence failure within 18 months after treatment start, in each arm. Eligible patients will be 1:1 randomized between the WEBAPPAC web-application support (experimental arm,) or standard support (control arm), with stratification on type of hormone therapy (Aromatase inhibitor or Tamoxifen). We plan to enroll 438 patients overall. Failure to hormone therapy will be assessed using the Morisky 8-item self-questionnaire (MMSA8), patient adherence logbook, and medical consultations. Secondary outcomes include hormone therapy adherence at 6 months, pain ( Visual Analogue Scale and Brief Pain Inventory), quality of life (EORTC QLQ-C30 and BR23 self-questionnaires), anxiety and depression (Hospital and Depression Scale), and return to work and/or daily activities. The user experience with the WEBAPPAC web-application will be assessed using the System Usability Scale (SUS) questionnaire.Discussion Hormone therapy discontinuation or adherence failure in breast cancer patients may be indirectly related to an increased risk of recurrence. A better control of medication adherence, through the detection of side effects and some proposed actions trying to reduce them, appears therefore essential to limit the risk of disease recurrence. The WEBAPPAC web-application thus aims better monitoring and allowing higher level of responsiveness in case of ADRs, thus improving treatment adherence.",
+    "DOI": "10.1186/s12885-023-11242-1",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and its focus is on adherence to adjuvant hormone therapy in patients treated for breast cancer.",
+            "study_design": "Randomized, open-label, prospective, single-center phase 3 study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the impact of a web application on hormone therapy adherence in patients treated for breast cancer.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes for people with mental health disorders, but rather on hormone therapy adherence in breast cancer patients.",
+            "study_design": "randomized, open-label, prospective, single-center phase 3 study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

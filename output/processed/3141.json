@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3141,
+    "Authors": "Windsor, Tim D.; Rioseco, Pilar; Fiori, Katherine L.; Curtis, Rachel G.; Booth, Heather",
+    "Article Title": "Structural and functional social network attributes moderate the association of self-rated health with mental health in midlife and older adults",
+    "Abstract": "Background: Social relationships are multifaceted, and different social network components can operate via different processes to influence well-being. This study examined associations of social network structure and relationship quality (positive and negative social exchanges) with mental health in midlife and older adults. The focus was on both direct associations of network structure and relationship quality with mental health, and whether these social network attributes moderated the association of self-rated health (SRH) with mental health.Methods: Analyses were based on survey data provided by 2001 (Mean age = 65, SD = 8.07) midlife and older adults. We used Latent Class Analysis (LCA) to classify participants into network types based on network structure (partner status, network size, contact frequency, and activity engagement), and used continuous measures of positive and negative social exchanges to operationalize relationship quality. Regression analysis was used to test moderation.Results: LCA revealed network types generally consistent with those reported in previous studies. Participants in more diverse networks reported better mental health than those categorized into a restricted network type after adjustment for age, sex, education, and employment status. Analysis of moderation indicated that those with poorer SRH were less likely to report poorer mental health if they were classified into more diverse networks. A similar moderation effect was also evident for positive exchanges.Conclusions: The findings suggest that both quantity and quality of social relationships can play a role in buffering against the negative implications of physical health decline for mental health.",
+    "DOI": "10.1017/S1041610215001143",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on social network attributes and their association with mental health.",
+            "study_design": "Survey data analysis (Latent Class Analysis and regression analysis) with no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the relationship between social network attributes and mental health in midlife and older adults.",
+            "study_design": "Cross-sectional survey with Latent Class Analysis and regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, which are essential for the research objective.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Survey-based analysis using Latent Class Analysis (LCA) and regression analysis",
+            "logprobs": null
+        }
+    }
+}

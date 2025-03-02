@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2578,
+    "Authors": "Azorin, J. -M.; Adida, M.; Belzeaux, R.; Fakra, E.",
+    "Article Title": "A model of care for first-episode psychosis: the RAISE-ETP project",
+    "Abstract": "The Recovery After an Initial Schizophrenia Episode Early Treatment Program (RAISE-ETP) is a 34 sites randomized controlled trial conducted in the US and evaluating the benefits of a multi-component pharmacological and psychosocial intervention called NAVIGATE in comparison to usual care for the treatment of first-episode psychosis patients. The background, rationale and design of the study are reviewed as well as the conceptual foundation of the NAVIGATE program. We also give details on the core interventions provided in NAVIGATE that include individualized medication management, family education, individual resiliency training, and supported education and employment. Finally we summarize preliminary findings from the baseline cohort on duration of untreated psychosis, prescription practices, and cardiometabolic risk. Data about efficiency of NAVIGATE have just been published. (C) L'Encephale, Paris, 2016",
+    "DOI": "10.1016/S0013-7006(16)30217-2",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Published outside the EU, Europe, US, Canada, or Australia",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes and the intervention (NAVIGATE program) focuses on treatment of first-episode psychosis rather than employment policies.",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not focused on employment interventions but rather on a multi-component pharmacological and psychosocial intervention for first-episode psychosis.",
+            "study_design": "Randomized controlled trial (RCT)",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT conducted in the US, focuses on supported employment as part of its intervention, targets people with mental disorders (first-episode psychosis), and includes outcomes related to employment.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

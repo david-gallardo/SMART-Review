@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3821,
+    "Authors": "Kuehn, Mine; Dudel, Christian; Vogt, Tobias; Oksuzyan, Anna",
+    "Article Title": "Trends in gender differences in health at working ages among West and East Germans",
+    "Abstract": "Before 1990, Germany was divided for more than 40 years. While divided, significant mortality disparities between the populations of East and West Germany emerged. In the years following reunification, East German mortality improved considerably, eventually converging with West German levels. In this study, we explore changes in the gender differences in health at ages 20-59 across the eastern and western regions of Germany using data from the German Socio-Economic Panel (SOEP) for the 1990-2013 period. We apply random-effects linear regressions to the SOEP data to identify trends in health, measured as self-assessed health satisfaction, after German reunification.The findings indicate that women were substantially less satisfied with their health than men in both West and East Germany, but that the gender gap was larger in East Germany than in West Germany. Furthermore, the results show that respondents' satisfaction with their health decreased over time, and that the decline was steeper among men - and particularly among East German men - than among women. Thus, the initial male advantage in health in East and West Germany in the years immediately after reunification diminished over time, and even reversed to become a female advantage in East Germany. One interpretation of this finding is that stress-inducing post-reunification changes in the political and social landscape of East Germany had lasting damaging consequences for men's health.Ongoing risky health behaviors and high levels of economic insecurity due to unemployment could have had long-lasting effects on the health of the working-aged population. A partial explanation for our finding that health declined more sharply among East German men than among their female counterparts could be that women have better compensatory mechanisms than men for dealing with psychosocial stress.",
+    "DOI": "10.1016/j.ssmph.2018.100326",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on health at working ages among West and East Germans.",
+            "study_design": "Random-effects linear regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions and focuses on health outcomes without any direct relation to job search services, adult training, wage subsidies, or supported employment. It also lacks a control group or rigorous evaluation method.",
+            "study_design": "Observational with random-effects linear regressions",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "The study design is not specified in the provided abstract, but it is not focused on interventions or outcomes relevant to the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies and does not target people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

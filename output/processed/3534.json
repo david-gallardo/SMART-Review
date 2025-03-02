@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3534,
+    "Authors": "Andersson, Elisabeth Elgmark; Larsen, Louise Baek; Ramstrand, Nerrolyn",
+    "Article Title": "A modified Job Demand, Control, Support model for active duty police",
+    "Abstract": "BACKGROUND: The Job Demand Control Support model (JDCS) is one of the most widely used theoretical models relating job characteristics to health and wellbeing.OBJECTIVE: This study aimed to assess the predictive power of the JDCS model for determining job satisfaction and fatigue in uniformed Swedish police. An additional aim was to determine if predictive power of the model would be improved with the addition of two occupation specific items.METHODS: Questionnaire data, based upon the Swedish Work Environment Survey were collected from Swedish police (n = 4244). A hierarchical multiple regression analysis was run to explore the predictive value of the model and to determine if the additional variables improved predictive power with respect to job satisfaction and fatigue.RESULTS: Regression analysis demonstrated that the JDSC model had high predictive power in relation to job satisfaction and fatigue. Job demands was the strongest predictor of fatigue (14%), while support was the strongest predictor of job satisfaction (12%). The addition of exposure to threats significantly improved predictive power for both job satisfaction and fatigue, while addition of shift work did not significantly affect predictive power of the model.CONCLUSIONS: Workplace interventions to address issues related to job satisfaction and fatigue in police should focus on maintaining a bearable level of job demands and provision of adequate support.",
+    "DOI": "10.3233/WOR-172621",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a hierarchical multiple regression analysis, which lacks a rigorous evaluation and does not meet the inclusion criteria of a systematic review or controlled trial.",
+            "study_design": "Hierarchical multiple regression analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the Job Demand Control Support model in relation to job satisfaction and fatigue among uniformed Swedish police.",
+            "study_design": "Survey-based hierarchical multiple regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the Swedish police, which is outside the specified geographic scope of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Hierarchical multiple regression analysis",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Cross-sectional survey with hierarchical multiple regression analysis",
+            "logprobs": null
+        }
+    }
+}

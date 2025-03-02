@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3002,
+    "Authors": "Hastings, Orestes P.; Roeser, Kassandra K.",
+    "Article Title": "Happiness in Hard Times: Does Religion Buffer the Negative Effect of Unemployment on Happiness?",
+    "Abstract": "Two well-known findings are that the religious are happier than the non-religious, and people are less happy when they lose their job. We investigate a link between these by asking whether religion buffers against the negative effect of unemployment on happiness. Although theorized or implicitly assumed in many studies, empirical demonstrations of a causal, moderating effect of religion have been infrequent and often not strong methodologically. We conduct individual-level fixed effects models to test for the buffering effect in the US context using recent panel data from the 2006-2014 General Social Surveys. Religious service attendance, belief in life after death, and trying to carry one's religious beliefs over into other dealings in life all substantially buffered the effect of unemployment on happiness. Praying daily, believing God exists, identifying as a religious person, and having a religious affiliation did not. We discuss these results in the context of prior work and existing theory. To further support a causal interpretation of these findings, we also conduct a secondary analysis showing that unemployment does not appear to increase or decrease religiousness. This paper makes an important sociological contribution to the growing field of happiness research and to our understanding of how religion matters to people during hard times.",
+    "DOI": "10.1093/sf/soaa018",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it does not focus on active employment policies for people with mental health disorders. The study investigates the effect of unemployment on happiness and religion in the US context.",
+            "study_design": "Individual-level fixed effects models",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on the relationship between religion and unemployment's effect on happiness. It lacks measures of employment or labor results.",
+            "study_design": "Cross-sectional analysis using panel data from the General Social Surveys (2006-2014)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the relationship between religion and happiness in the context of unemployment, not on employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Individual-level fixed effects models",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

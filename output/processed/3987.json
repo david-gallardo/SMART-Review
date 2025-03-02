@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3987,
+    "Authors": "Richterman, Aaron; Block, Jason P.; Tsai, Alexander C.; Ivers, Louise C.",
+    "Article Title": "Supplemental Nutrition Assistance Program Eligibility and HIV Incidence in the United States",
+    "Abstract": "Background The connection between food insecurity and HIV outcomes is well established. The Supplemental Nutrition Assistance Program (SNAP), the primary food safety net program in the United States, may have collateral impacts on HIV incidence. Broad-based categorical eligibility for SNAP is a policy that provides a mechanism for states to increase the income or asset limits for SNAP eligibility. Methods We estimated the association between the number of new HIV diagnoses in 2010-2014 for each state and (1) state income limits and (2) state asset limits for SNAP eligibility. We fitted multivariable negative binomial regression models with number of HIV diagnoses specified as the outcome; SNAP policies as the primary explanatory variable of interest; state and year fixed effects; and time-varying covariates related to the costs of food, health care, housing, employment, other SNAP policies, and Temporary Assistance for Needy Families spending. Results HIV diagnoses within states had a statistically significant association with state income limits for SNAP eligibility (incidence rate ratio [IRR], 0.94 per increase in the income limit by 35% of federal poverty level; 95% CI, 0.91-0.98), but no association with state asset limits (increased asset limit vs no change: IRR, 1.02; 95% CI, 0.94-1.10; eliminated asset limit vs no change: IRR, 1.04; 95% CI, 0.99-1.10). Conclusions State income limits for SNAP eligibility were inversely associated with the number of new HIV diagnoses for states between 2010 and 2014. Proposals to eliminate the use of broad-based categorical eligibility to increase the income limit for SNAP may undercut efforts to end the HIV epidemic in the United States.",
+    "DOI": "10.1093/ofid/ofab101",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on the association between SNAP eligibility and HIV incidence.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment for people with mental health disorders. It focuses on the association between SNAP eligibility and HIV incidence in the United States.",
+            "study_design": "Cross-sectional analysis using multivariable negative binomial regression models",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, but rather on the association between SNAP eligibility and HIV incidence.",
+            "study_design": "Epidemiological study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment and the population is not explicitly people with mental health disorders.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

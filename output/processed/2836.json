@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2836,
+    "Authors": "Strom, Ida Frugard; Thoresen, Siri; Wentzel-Larsen, Tore; Sagatun, Ase; Dyb, Grete",
+    "Article Title": "A Prospective Study of the Potential Moderating Role of Social Support in Preventing Marginalization Among Individuals Exposed to Bullying and Abuse in Junior High School",
+    "Abstract": "Negative physical and psychological long-term consequences of abuse and bullying are well documented. It is reasonable to assume that abuse and bullying early in life also may have an impact on the ability to work and stay economically independent later in life, but such prospective studies are lacking. This study investigates the consequences of exposure to abuse and bullying in junior high school, as measured by receiving long-term social welfare benefits in young adulthood. In addition, it explores the potential protective role of social support. Self-reported data from 13,633 (50.3 % female) junior high school students were linked to registry data on their use of social welfare benefits from the age of 18 and for eight consecutive years. Cox regression analyses were applied to test the relationship between exposure to life adversities and the use of social welfare benefits, and the potential moderating role of social support. The analyses showed that individuals exposed to abuse and bullying had an increased likelihood of receiving social-welfare benefits compared with individuals not exposed to these types of abuse. Exposure to multiple types of abuse led to a higher likelihood of using social welfare benefits compared with single types of abuse and no abuse. The findings on the potential moderating role of social support were mixed, depending on the source of social support. Family support and classmate relationships were protective in reducing the likelihood of the use of social welfare benefits, whereas peer and teachers' support showed inconsistent patterns. These results are promising in terms of preventing the long-term negative consequences of abuse and bullying.",
+    "DOI": "10.1007/s10964-014-0145-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead investigates the consequences of exposure to abuse and bullying in junior high school on the use of social welfare benefits in young adulthood.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on the long-term effects of abuse and bullying on the use of social welfare benefits.",
+            "study_design": "Prospective Study with Cox Regression Analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on social welfare benefits and not directly on employment outcomes. The study design is also not specified as RCT, systematic review, or quasi-experimental study with a control group.",
+            "study_design": "Prospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Prospective Study",
+            "logprobs": null
+        }
+    }
+}

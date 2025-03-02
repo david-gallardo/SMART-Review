@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3222,
+    "Authors": "Chen, Wai; Epstein, Amy; Toner, Michele; Murphy, Nada; Rudaizky, Daniel; Downs, Jenny",
+    "Article Title": "Enabling successful life engagement in young people with ADHD: new components beyond adult models of recovery",
+    "Abstract": "Purpose To examine the lived experiences of young people successfully managing life with ADHD and investigate the applicability of adult models of Recovery to these individuals. Methods Twenty-seven young people aged 15-31 years participated in qualitative interviews. Participants' success was indicated by employment, school attendance, absence of acute mental health episodes, or absence of chronic alcohol or drug use. Thematic analysis identified specific components of their life successes and challenges. Results The emergent framework comprised four elements: (i) Recovernance (RE) (a portmanteau merging 'Recovery' and 'Maintenance'; ongoing adjustment to maintain one's personal best without an end point); (ii) Personal Optimization (PO) (continuously striving to maximize function and adjust one's goals given fluctuating impairments and internal resources); (iii) Self (S) (facing internal challenges and developing internal resilience); and (iv) Environment (E) (facing external challenges and fostering external resilience). These four elements yielded the acronym 'REPOSE'. Conclusions Recovery in young people with ADHD was not a linear journey, with many missteps leading to greater self-knowledge, life skills and mastery. Progress was leveraged on securely anchored internal and external resilience factors against the prospect of setbacks. Findings provide new concepts and novel lexicons to extend existing concepts in Recovery.",
+    "DOI": "10.1080/09638288.2022.2087763",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews, which lacks a control group and does not meet the inclusion criteria for study design.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (thematic analysis) without a control group and does not directly address employment outcomes. It focuses on the lived experiences of young people with ADHD rather than evaluating interventions that lead to employment or labor outcomes.",
+            "study_design": "Qualitative research (Thematic Analysis)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on young people with ADHD, not specifically on people with mental health disorders as per the inclusion criteria. The intervention is not clearly defined as job search services, adult training, wage subsidies, or supported employment, which are required interventions in the inclusion criteria.",
+            "study_design": "qualitative interviews",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative interviews, which lacks a rigorous evaluation or control group.",
+            "study_design": "Qualitative interviews",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2339,
+    "Authors": "Janson, Melissa; Sharkey, Jill D.; del Cid, Daniel A.",
+    "Article Title": "Predictors of Mental Health Outcomes in Grocery Store Workers amid the COVID-19 Pandemic and Implications for Workplace Safety and Moral Injury",
+    "Abstract": "Limited research exists on the mental health (MH) of grocery store workers (GSWs), who have been on the frontlines throughout the COVID-19 pandemic. A disaster MH conceptual model incorporating demographics, disaster exposure and threat (COVID-19 fear and workplace threat perception), perceived stress, and social support (lack of from family and friends) was utilized to predict MH outcomes (anxiety, depression, and post-traumatic stress symptoms; PTSS) of GSWs. GSWs (n = 842) were recruited through a regional union in California. The participants were diverse (62.1% female) and were 18-69 years of age (M = 41.5, SD = 13.9). They completed an online survey regarding COVID-19 fear, workplace threat perception, perceived stress, lack of social support, and workplace needs/recommendations for support. Three hierarchical linear regression models were run assessing each MH outcome. Thematic analysis coding and an inductive approach were utilized for analyzing open-ended responses of workplace needs/recommendations. Females and younger GSWs (ages 18-29 years old) on average, reported higher MH symptoms than males and older age groups, respectively. COVID-19 fear and perceived stress were significant predictors of anxiety, while COVID-19 fear, workplace threat perception, and perceived stress significantly predicted depression and PTSS, explaining almost half of the variance for each model. Social support and demographics were not predictive of MH outcomes. Almost half of GSWs (40%) requested increased safety protections in the workplace. Feelings of fear of COVID-19, threat in the workplace, and overall perceived stress are predictive of GSWs' MH outcomes. Increasing feelings of safety in the workplace and reducing stress may lessen MH symptoms.",
+    "DOI": "10.3390/ijerph18168675",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in the US, within the specified timeframe of 2005-2025, and focuses on people with mental health problems, meeting the inclusion criteria for population. The study also presents measures of employment or labor results, meeting the inclusion criteria for outcomes.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on mental health outcomes related to fear and stress in grocery store workers during the COVID-19 pandemic.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment or labor outcomes, but rather on mental health outcomes in the context of the COVID-19 pandemic.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey with hierarchical linear regression models",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2456,
+    "Authors": "Hill, Lauren M.; Kajula, Lusajo J.; Maman, Suzanne",
+    "Article Title": "Correlates of Anxiety and Depression among Young Men Living in Dar Es Salaam, Tanzania",
+    "Abstract": "Depression and anxiety are important sources of morbidity globally, but we have little knowledge of risk groups and risk factors for both classes of disorders in Tanzania and other low-resource settings. We aimed to identify sociodemographic markers and risk and protective factors associated with symptoms of anxiety and depression among 1249 young men belonging to social groups known as camps in Dar es Salaam. Anxiety and depression were measured using the HSCL-25. Twenty-two percent of men reported clinically significant symptoms of depression and 20% reported clinically significant symptoms of anxiety. Men living apart from family reported greater symptoms of anxiety and depression than men living with family, and employment was associated with a greater likelihood of clinically significant symptoms of both anxiety and depression. Childhood experience of violence was strongly associated with both anxiety and depression. Social support was associated with lower levels of anxiety and depression, and with a lower likelihood of clinically significant levels of anxiety and depression. Youth not living with family and the working poor may be important populations for future investigation. Interventions targeting survivors of childhood violence and social support-based interventions should be tested to address the burden of anxiety and depression in this setting.",
+    "DOI": "10.1007/s11469-018-9993-6",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment outcomes for people with mental health disorders, but rather identifies sociodemographic markers and risk factors for anxiety and depression among young men in Dar Es Salaam, Tanzania.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it is outside the specified geographic scope (Tanzania is not in EU, Europe, US, Canada, or Australia) and its outcomes do not include measures of employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study is not conducted in an eligible geographic scope (Tanzania) and does not evaluate employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

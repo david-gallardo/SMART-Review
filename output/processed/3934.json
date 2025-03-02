@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3934,
+    "Authors": "Ko, Tomohiro M.; Kalesnikava, Viktoryia A.; Jurgens, David; Mezuk, Briana",
+    "Article Title": "A Data Science Approach to Estimating the Frequency of Driving Cessation Associated Suicide in the US: Evidence From the National Violent Death Reporting System",
+    "Abstract": "Driving cessation is a common transition experienced by aging adults that confers both a symbolic and literal loss of independence due to the central role of automobiles for mobility in the US. Prior research has shown that driving cessation has negative implications for mental health, social participation, and access to healthcare. Given these sequelae of driving cessation and prior work showing that late-life transitions related to independence (e.g., transitioning into residential care) are associated with suicide, we sought to estimate the frequency of driving cessation associated suicide. Data include suicide (n = 59,080) and undetermined (n = 6,862) deaths aged >= 55 from the National Violent Death Reporting System (NVDRS, 2003-2017). Each case in the NVDRS has both quantitative data (e.g., demographic characteristics) and qualitative text narratives, derived from coroner/medical examiner reports, which describe the most salient circumstances and features of each death. To identify cases associated with driving cessation, we employed a supervised random forest algorithm to develop a Natural Language Processing (NLP) classifier. Identified driving cessation associated cases were then categorized and characterized using descriptive statistics and qualitative content analysis. From 2003 to 2017, there were an estimated 305 cases of suicide/undetermined deaths associated with driving cessation in the NVDRS, representing 0.04% of all cases. Cases associated with driving cessation were older, more likely to be male, more likely to have a physical health problem, more likely to have experienced a recent crisis, and more likely to have lived in a rural county than other decedents. Qualitative analysis identified functional impairment, alcohol-related driving limitations, loss of employment, and recent car accidents as common themes among cases associated with driving cessation. This analysis illustrates the utility of NLP in identifying novel correlates of suicide in later life. Although driving cessation associated suicide is a rare outcome, further research is warranted on understanding the conditions under which driving cessation is associated with suicidal behavior, and how to support the well-being of aging adults during these types of major life transitions.",
+    "DOI": "10.3389/fpubh.2021.689967",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and it focuses on driving cessation associated suicide rather than active employment policies for people with mental health disorders.",
+            "study_design": "Descriptive statistics and qualitative content analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on driving cessation associated suicide in the US. It lacks interventions related to job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Descriptive analysis using a supervised random forest algorithm with data from the National Violent Death Reporting System (NVDRS)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on driving cessation associated suicide in the US, which is not directly related to employment interventions for people with mental health disorders.",
+            "study_design": "Natural Language Processing (NLP) classifier study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not present measures of employment or labor outcomes.",
+            "study_design": "Observational study using NLP and descriptive statistics",
+            "logprobs": null
+        }
+    }
+}

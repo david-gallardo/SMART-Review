@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2320,
+    "Authors": "Borchers, Andrea; Lee, Rebecca C.; Martsolf, Donna S.; Maler, Jeff",
+    "Article Title": "Employment Maintenance and Intimate Partner Violence",
+    "Abstract": "Intimate partner violence (IPV) is a major public health problem in the United States. Negative outcomes of IPV affect women's attainment and maintenance of employment. The purpose of this study was to develop a theoretical framework that described and explained the process by which women who have experienced IPV attain and maintain employment. Grounded theory methodology was used to analyze interviews of 34 women who had experienced IPV. Analysis suggested that women who had experienced IPV could attain employment; however, they had difficulty maintaining employment. Entanglement of work and IPV was experienced by all 34 participants because of the perpetrator controlling their appearance, sabotaging their work, interfering with their work, or controlling their finances. Some women described ways in which they disentangled work from IPV through a dynamic unraveling process, with periods of re-entanglement, resulting in job security and satisfaction.",
+    "DOI": "10.1177/2165079916644008",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is qualitative (grounded theory methodology) and lacks a control group, which does not meet the inclusion criteria.",
+            "study_design": "Grounded theory methodology",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.), and its population is not specifically defined in terms of mental health disorders. The focus is on intimate partner violence and its impact on employment rather than interventions aimed at improving employment for people with mental health issues.",
+            "study_design": "Grounded theory methodology",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the impact of IPV on employment.",
+            "study_design": "Grounded theory methodology",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not include a control group and does not evaluate an employment intervention.",
+            "study_design": "Grounded theory",
+            "logprobs": null
+        }
+    }
+}

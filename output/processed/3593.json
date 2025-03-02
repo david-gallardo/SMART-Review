@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3593,
+    "Authors": "Watson, Stuart J.; Barber, Bonnie L.; Dziurawiec, Suzanne",
+    "Article Title": "Living situation and perceived parental financial support as protective factors against financial strain among Australian university students",
+    "Abstract": "Objective: This study examines how differences among young adults' residential arrangements and parental support are related to variation in university students' financial and psychological well-being. Method: Six-hundred four students completed an online survey about financial experiences and support, and well-being. Students were split into four groups depending on their living situation and perceptions of adequate parental support. A multi-groups approach tested test path differences among the groups. Results: Living at home with parents combined with perceiving lower parental financial support was associated with lower financial strain and higher psychological well-being, compared with reporting higher financial support when living at home, and living out of home regardless of support (p < .001). For students living outside of the parental home and perceiving inadequate parental financial support, economising was most strongly associated with perceived financial strain (p < .05), which in turn most strongly predicted lower well-being (p < .05). Conclusions: It is suggested that the non-monetary assistance provided by remaining in the family home nullifies the protective benefits of perceiving adequate parental financial support; however, when living away from the parental home, perceiving adequate parental financial support can buffer negative effects of financial strain on well-being.",
+    "DOI": "10.1111/ajpy.12100",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes, and instead focuses on financial strain and well-being among university students.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the population is university students rather than people with mental health disorders.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Survey",
+            "logprobs": null
+        }
+    }
+}

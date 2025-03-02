@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2623,
+    "Authors": "Li, Wei; Fazeli, Pariya L.; Wang, Ge; Maqbool, Muhammad; Bene, Victor A. Del; Triebel, Kristen; Martin, Karli M.; Vance, David",
+    "Article Title": "Predictors of an Active Lifestyle in Middle-Aged and Older Adults with HIV in the United States South",
+    "Abstract": "Background and Purpose: An active lifestyle is important for health maintenance and disease prevention. This study was to examine what factors predict an active lifestyle in HIV+ and HIV-adults from the United States Deep South.Methods: The sample included 279 participants (174 HIV+ and 105 HIV-) who completed a comprehensive assessment. An active lifestyle composite was created using variables of employment status, level of social support, level of physical activity, and diet. Correlations and regression analyses were conducted between the active lifestyle composite and possible predictors for all (HIV+ and HIV-), HIV+, and HIV-participants, respectively.Results: Lower levels of depression, higher socioeconomic status (SES), and younger age were significant predictors of a more active lifestyle for the full sample, HIV+, and HIV-participants, respectively.Conclusion: SES and depression represent important factors influencing engagement in an active lifestyle in PLWH. Such factors should be considered when developing and implementing lifestyle interventions.",
+    "DOI": "10.2147/HIV.S399842",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes, but rather focuses on factors influencing an active lifestyle in middle-aged and older adults with HIV.",
+            "study_design": "Correlations and regression analyses",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders; it focuses on HIV+ individuals. Additionally, the intervention and outcomes do not align with employment policies or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on adults with HIV, not specifically on people with mental health disorders. The intervention is not directly related to employment policies.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies for people with mental health disorders. It also lacks a control group and does not directly address employment interventions.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

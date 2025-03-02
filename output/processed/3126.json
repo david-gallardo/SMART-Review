@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3126,
+    "Authors": "Correll, Christoph U.; Brieden, Andreas; Janetzky, Wolfgang",
+    "Article Title": "Symptomatic, functional and quality of life measures of remission in 194 outpatients with schizophrenia followed naturalistically in a 6-month, non-interventional study of aripiprazole once-monthly",
+    "Abstract": "An important goal in the treatment of patients with schizophrenia is remission in various domains, i.e., of symptoms, psychosocial functioning and subjective well-being. We undertook a post hoc analysis of pre-stabilized outpatients with schizophrenia and complete outcome data who had been enrolled in a 6-month non-interventional study of aripiprazole once-monthly (AOM) at 75 German sites. Key outcomes were (i) symptomatic remission (cross-sectional Andreasen et al. criteria (<= mild positive and negative key symptoms on the Brief Psychiatric Rating Scale (BPRS))); (ii) functional remission (Global Assessment of Functioning (GAF) scale score >70), and (iii) subjective well-being remission (WHO-5 scale score >= 13) at week 24. Of 242 enrolled patients, 194 (80.2%) (age = 43.9 +/- 15.3 years; 51.5% male, illness duration = 14.0 +/- 12.0 years) with complete data were analyzed. While 61.3% of the patients achieved symptomatic remission and 76.8% achieved remission regarding subjective well-being, only 24.7% achieved psychosocial functioning remission at 6 months. Remission rates were similar for men and women and across strata of disease duration with, on average, less remission in patients with longer illness duration. Correlations of improvements on the BPRS and GAF were weak, with the weakest correlation between the BPRS depressive mood item and the GAF scale, but similarly high correlation between BPRS subscales or the BPRS depressive mood item and subjective well-being. These findings suggest that while treatment with AOM can lead to symptomatic remission and remission regarding subjective well-being, additional interventions such as psychosocial therapy or supported employment and education may be necessary to achieve functional remission.",
+    "DOI": "10.1038/s41537-023-00405-5",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a non-interventional study, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Non-interventional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study lacks an intervention related to employment. It focuses on the symptomatic, functional, and quality of life measures in patients with schizophrenia using aripiprazole once-monthly.",
+            "study_design": "Non-interventional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study's intervention focuses on schizophrenia and not on employment or labor outcomes.",
+            "study_design": "Post hoc analysis of a 6-month non-interventional study",
+            "logprobs": ""
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Non-interventional study",
+            "logprobs": null
+        }
+    }
+}

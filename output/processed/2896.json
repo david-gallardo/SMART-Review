@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2896,
+    "Authors": "Griffiths, Melda Lois; Gray, Benjamin J. J.; Kyle, Richard G. G.; Davies, Alisha R. R.",
+    "Article Title": "Seeking Good Work in the COVID-19 Recovery Shifting Priorities and Employment Choices Among Workers",
+    "Abstract": "ObjectiveDisruption to working lives spurred by the COVID-19 pandemic may shape people's preferences for future employment. We aimed to identify the components of work prioritized by a UK sample and the employment changes they had considered since the start of the COVID-19 pandemic.MethodsA nationally representative longitudinal household survey was conducted in Wales at two time points between 2020 and 2021.ResultsThose in poorer health prioritized flexibility and were more likely to consider retiring. Those with limiting preexisting conditions or low mental well-being were more likely to consider becoming self-employed. Those experiencing financial insecurity (including those with high wage precarity or those furloughed) were more likely to consider retraining, becoming self-employed, or securing permanent employment.ConclusionsEnsuring flexible, secure, and autonomous work is accessible for individuals facing greater employment-related insecurity may be key.",
+    "DOI": "10.1097/JOM.0000000000002694",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Longitudinal household survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address interventions aimed at improving employment outcomes for people with mental health disorders. It focuses on employment changes and preferences during the COVID-19 pandemic without specifying any intervention.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on interventions like job search services, adult training, wage subsidies, or supported employment, which are specified in the inclusion criteria.",
+            "study_design": "Longitudinal household survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the specified interventions (job search services, adult training, wage subsidies, supported employment) and does not present measures of employment or labor outcomes.",
+            "study_design": "Longitudinal household survey",
+            "logprobs": null
+        }
+    }
+}

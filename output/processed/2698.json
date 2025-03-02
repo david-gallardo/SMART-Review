@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2698,
+    "Authors": "Belvis, Francesc; Bolibar, Mireia; Benach, Joan; Julia, Mireia",
+    "Article Title": "Precarious Employment and Chronic Stress: Do Social Support Networks Matter?",
+    "Abstract": "Precarious employment has been identified as a potentially damaging stressor. Conversely, social support networks have a well-known protective effect on health and well-being. The ways in which precariousness and social support may interact have scarcely been studied with respect to either perceived stress or objective stress biomarkers. This research aims to fill this gap by means of a cross-sectional study based on a non-probability quota sample of 250 workers aged 25-60 in Barcelona, Spain. Fieldwork was carried out between May 2019 and January 2020. Employment precariousness, perceived social support and stress levels were measured by means of scales, while individual steroid profiles capturing the chronic stress suffered over a period of a month were obtained from hair samples using a liquid chromatography-tandem mass spectrometry methodology. As for perceived stress, analysis indicates that a reverse buffering effect exists (interaction B = 0.22, p = 0.014). Steroid biomarkers are unrelated to social support, while association with precariousness is weak and only reaches significance at p < 0.05 in the case of women and 20ss dihydrocortisone metabolites. These results suggest that social support can have negative effects on the relationship between perceived health and an emerging stressful condition like precariousness, while its association with physiological measures of stress remains uncertain.",
+    "DOI": "10.3390/ijerph19031909",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study, which does not meet the inclusion criteria of a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey without a control group and does not meet the inclusion criteria for intervention (does not address employment policies) or population (does not reference mental health).",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it is not focused on employment interventions for people with mental health disorders, but rather on the impact of precarious employment and social support on stress levels.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment. Additionally, the population is not explicitly defined as people with mental disorders.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3227,
+    "Authors": "Ojeda, Victoria D.; Hiller, Sarah P.; Hurst, Samantha; Jones, Nev; McMenamin, Sara; Burgdorf, James; Gilmer, Todd P.",
+    "Article Title": "Implementation of Age-Specific Services for Transition-Age Youths in California",
+    "Abstract": "Objectives: This study examined the implementation of age-specific services for transition-age youths in California under the Mental Health Services Act (MHSA).Methods: This study employed a sequential, exploratory mixed-methods design. Qualitative interviews with 39 mental health service area administrators in California were analyzed to develop an understanding of how the MHSA has facilitated the development of youth-specific programs or services. A quantitative survey of 180 youth-focused programs was also used to describe the range of services that were implemented, the use of evidence-based and promising practices, and the role of youths in the design, planning, delivery, and evaluation of services.Results: Administrators described the MHSA as providing a programmatic focus and financial support for youth-specific services, outlining a stakeholder process to create buy in and develop a vision for services, and emphasizing the role of youths in service delivery and planning. Youth-specific programs implemented a diverse array of services, including general medical care; employment and education support; housing placement and support; and family, mentoring, and social support. Programs described implementing evidence-based and promising practices and involving youths in service planning, implementation, or quality improvement activities.Conclusions: The MHSA has had a substantial impact on the landscape of youth-specific services in California by expanding both the number of programs and the diversity in types of services and by promoting the engagement of youths in the planning and delivery of services. Additional efforts are necessary to determine the extent to which youth-specific services yield greater improvements in youths' outcomes compared with services designed for adults.",
+    "DOI": "10.1176/appi.ps.201500084",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design lacks a rigorous evaluation or no control group. The study employed a sequential, exploratory mixed-methods design without a control group.",
+            "study_design": "sequential, exploratory mixed-methods design",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria because it lacks a rigorous evaluation design (RCT, quasi-experimental, etc.) and its geographic scope is outside of EU countries, Europe, US, Canada, or Australia.",
+            "study_design": "Sequential exploratory mixed-methods design with qualitative interviews and quantitative survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on services for transition-age youths in California, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "sequential, exploratory mixed-methods design",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment policies specifically and does not present measures of employment or labor outcomes.",
+            "study_design": "Mixed-methods design",
+            "logprobs": null
+        }
+    }
+}

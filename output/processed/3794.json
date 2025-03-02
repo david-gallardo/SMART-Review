@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3794,
+    "Authors": "Draper, Ethan C.; Burgess, Heather J.; Chisholm, Cheryl; Mazerolle, Erin L.; Barker, Conor",
+    "Article Title": "Front-Line Insights Into the Social Determinants of Health in Housing Instability: A Multi-Province Study",
+    "Abstract": "Introduction: Individuals experiencing housing instability face significant health inequities. Addressing housing instability requires an understanding of the factors that contribute to these inequities-a responsibility that has been assumed by community-based organizations. Interviewing individuals from 3 Canadian provinces, the present study aimed to examine the perspectives of individuals from front-line services of the social determinants of health (SDoH) needs of individuals experiencing housing instability.Methods: As part of a larger knowledge translation study, we conducted 8 semi-structured interviews with individuals from front-line services (eg, shelter workers and shelter mental health nurses) in Canada (Nova Scotia, Saskatchewan, and Alberta) and used thematic analysis to identify predominant unmet SDoH needs.Results: Individuals from front-line services discussed the roles of many SDoH that may perpetuate housing instability in their clients. These included: (1) limited social supports; (2) poor access to health services; (3) poor opportunities for income and employment; (4) lack of transportation; (5) gender-based discrimination; (6) race-based discrimination; and (7) limited access to education and limited literacy skills.Conclusion: This study reveals how front-line service providers observe SDoH factors contributing to housing instability and create barriers to accessing support services. They advocate for a multi-system approach to addressing intersecting SDoH factors to validate clients' experiences and help them achieve stable housing. Additionally, more research and consultation with front-line providers are necessary to understand and overcome systemic barriers to stable housing.",
+    "DOI": "10.1177/21501319241292131",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is lacking a control group and does not meet the inclusion criteria for a systematic review or quasi-experimental study with a control group.",
+            "study_design": "Lack of control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes for people with mental health disorders. It focuses on social determinants of health related to housing instability in Canada.",
+            "study_design": "Qualitative study using thematic analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, which is a key inclusion criterion.",
+            "study_design": "qualitative study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also lacks a rigorous evaluation and control group.",
+            "study_design": "Qualitative study",
+            "logprobs": null
+        }
+    }
+}

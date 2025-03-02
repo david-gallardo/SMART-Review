@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3137,
+    "Authors": "van de Cauter, Joy; van de Velde, Dominique; Motmans, Joz; Clays, Els; Braeckman, Lutgart",
+    "Article Title": "Exploring Work Absences and Return to Work During Social Transition and Following Gender-Affirming Care, a Mixed-Methods Approach: 'Bridging Support Actors Through Literacy'",
+    "Abstract": "PurposeResearch on return to work (RTW) following transition-related gender-affirming care (GAC) is lacking. We aim to study the RTW outcomes and experiences of transgender and gender diverse (TGD) people during social and medical transition to understand their needs better and provide tailored support.MethodsIn this convergent mixed-methods study, the questionnaires of 125 employed TGD people, who took steps in transition (social and GAC), were analyzed for personal- and work characteristics, medical work absences, RTW, support at work, and health literacy. In-depth interviews were held with twenty TGD people to explore perceived facilitators and barriers to RTW.ResultsOne hundred and nine participants reported an average of 38 sick days after GAC. The majority (90.2%) resumed their job at the same employer. Although TGD workers felt supported, their health literacy (55.1%) was lower compared to the general population. The qualitative data analysis revealed four major themes: (1) the need and access to information; (2) having multidisciplinary TGD allies; (3) the influence of the occupational position; (4) the precarious balance between work, life, and GAC. Especially participants with a low health literacy level experienced RTW barriers by struggling: (1) to find and/or apply information; (2) to navigate (occupational) health and insurance services.ConclusionOur research has shown that RTW for TGD individuals is a multifaceted process, affected by personal factors, work-related elements, and the characteristics of the healthcare and social insurance system.Enhancing support for TGD people at work and their RTW requires a high need for centralized information and promoting health literacy while engaging relevant stakeholders, such as prevention services and employers.ConclusionOur research has shown that RTW for TGD individuals is a multifaceted process, affected by personal factors, work-related elements, and the characteristics of the healthcare and social insurance system.Enhancing support for TGD people at work and their RTW requires a high need for centralized information and promoting health literacy while engaging relevant stakeholders, such as prevention services and employers.",
+    "DOI": "10.1007/s10926-023-10139-x",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a mixed-methods approach with a control group (125 employed TGD people), and the study meets the geographic scope (EU, Europe, US, Canada, Australia), timeframe (2005-2025), intervention (job search services, adult training, wage subsidies, supported employment), population (people with mental disorders or documented mental health problems), and outcomes (employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention).",
+            "study_design": "Mixed-methods approach with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on transgender and gender diverse individuals undergoing social and medical transition.",
+            "study_design": "Mixed-methods approach",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on transgender and gender diverse (TGD) individuals' return to work following gender-affirming care, which does not align with the specified interventions of job search services, adult training, wage subsidies, or supported employment for people with mental health disorders.",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is transgender and gender diverse (TGD) people, not specifically people with mental health disorders.",
+            "study_design": "Mixed-methods study",
+            "logprobs": null
+        }
+    }
+}

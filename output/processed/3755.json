@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3755,
+    "Authors": "Kerr, Wesley T.; Zhang, Xingruo; Hill, Chloe E.; Janio, Emily A.; Chau, Andrea M.; Braesch, Chelsea T.; Le, Justine M.; Hori, Jessica M.; Patel, Akash B.; Allas, Corinne H.; Karimi, Amir H.; Dubey, Ishita; Sreenivasan, Siddhika S.; Gallardo, Norma L.; Bauirjan, Janar; Hwang, Eric S.; Davis, Emily C.; D'Ambrosio, Shannon R.; Al Banna, Mona; Cho, Andrew Y.; Dewar, Sandra R.; Engel, Jerome, Jr.; Feusner, Jamie D.; Stern, John M.",
+    "Article Title": "Epilepsy, dissociative seizures, and mixed: Associations with time to video-EEG",
+    "Abstract": "Purpose: Video-electroencephalographic monitoring (VEM) is a core component to the diagnosis and evaluation of epilepsy and dissociative seizures (DS)-also known as functional or psychogenic seizures-but VEM evalu-ation often occurs later than recommended. To understand why delays occur, we compared how patient-reported clinical factors were associated with time from first seizure to VEM (TVEM) in patients with epilepsy, DS or mixed.Methods: We acquired data from 1245 consecutive patients with epilepsy, VEM-documented DS or mixed epilepsy and DS. We used multivariate log-normal regression with recursive feature elimination (RFE) to evaluate which of 76 clinical factors interacting with patients' diagnoses were associated with TVEM.Results: The mean and median TVEM were 14.6 years and 10 years, respectively (IQR 3-23 years). In the multivariate RFE model, the factors associated with longer TVEM in all patients included unemployment and not student status, more antiseizure medications (current and past), concussion, and ictal behavior suggestive of temporal lobe epilepsy. Average TVEM was shorter for DS than epilepsy, particularly for patients with depres-sion, anxiety, migraines, and eye closure. Average TVEM was longer specifically for patients with DS taking more medications, more seizure types, non-metastatic cancer, and with other psychiatric comorbidities.Conclusions: In all patients with seizures, trials of numerous antiseizure medications, unemployment and non-student status was associated with longer TVEM. These associations highlight a disconnect between Interna-tional League Against Epilepsy practice parameters and observed referral patterns in epilepsy. In patients with dissociative seizures, some but not all factors classically associated with DS reduced TVEM.",
+    "DOI": "10.1016/j.seizure.2021.02.002",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria because it does not address employment or labor outcomes for people with mental health disorders. The study focuses on the association between clinical factors and time to video-EEG monitoring in patients with epilepsy, dissociative seizures, or mixed conditions.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and focuses on the time from first seizure to video-electroencephalographic monitoring for epilepsy and dissociative seizures. It lacks any relevant employment or labor outcomes.",
+            "study_design": "Observational study with multivariate log-normal regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, nor does it evaluate the effectiveness of interventions like job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Cohort study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

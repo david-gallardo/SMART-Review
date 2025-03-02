@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2377,
+    "Authors": "Gjerdingen, Dwenda; McGovern, Patricia; Attanasio, Laura; Johnson, Pamela Jo; Kozhimannil, Katy Backes",
+    "Article Title": "Maternal Depressive Symptoms, Employment, and Social Support",
+    "Abstract": "Objective: The purpose of this study was to characterize the relationship between maternal depressive symptoms and employment and whether it is mediated by social support.Methods: We used data from a nationally representative sample of 700 US women who gave birth in 2005 and completed 2 surveys in the Listening to Mothers series, the first in early 2006, an average of 7.3 months postpartum, and the second an average of 13.4 months postpartum. A dichotomous measure of depressive symptoms was calculated from the 2-item Patient Health Questionnaire, and women reported their employment status and levels of social support from partners and others. We modeled the association between maternal employment and depressive symptoms using multivariate logistic regression, including social support and other control variables.Results: Maternal employment and high support from a nonpartner source were both independently associated with significantly lower odds of depressive symptoms (adjusted odds ratio [AOR], 0.35 and P = .011, and AOR, 0.40, P = .011, respectively). These relationships remained significant after controlling for mothers' baseline mental and physical health, babies' health, and demographic characteristics (AOR, 0.326 and P = .015, and AOR, 0.267 and P = .025, respectively).Conclusions: Maternal employment and strong social support, particularly nonpartner support, were independently associated with fewer depressive symptoms. Clinicians should encourage mothers of young children who are at risk for depression to consider ways to optimize their employment circumstances and other social support.",
+    "DOI": "10.3122/jabfm.2014.01.130126",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is based in the US, within the specified timeframe of 2005-2025, and focuses on employment outcomes for people with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address the interventions (job search services, adult training, wage subsidies, supported employment) for people with mental disorders. It focuses on maternal depressive symptoms and their relationship with employment and social support.",
+            "study_design": "Cross-sectional survey using multivariate logistic regression analysis",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on maternal depressive symptoms and their relationship with employment and social support, not specifically on employment interventions for people with mental health disorders.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions for people with mental health disorders.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

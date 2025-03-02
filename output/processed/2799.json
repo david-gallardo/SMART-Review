@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2799,
+    "Authors": "Rainville, G.",
+    "Article Title": "Religious Service Attendance Aids Coping by Providing a Sense of Continuity: A Test of the Stress-Support Matching Hypothesis Using Mental Health Outcome Measures",
+    "Abstract": "We propose that religious service attendance (RSA) serves as a coping resource by providing a sense of continuity. As a source of continuity, and per the stress-support matching hypothesis, RSA should consistently buffer the negative mental well-being impacts of stressors related to discontinuitythe disruption of regular routines and relationships. Most, but not all, of the relevant previous studies we reviewed found that RSA served as an effective buffer for the negative mental health impacts of discontinuity stressors (such as unemployment, terminated relationships, etc.). This variability in previous findings warranted a formal exploration of the relationship between RSA and specific stressors. To that end, we conducted a series of OLS regression path analyses on a sample of Americans age 40 and older (N=2,579). RSA was found to consistently buffer the negative impact of discontinuity stressors on mental well-being but failed to do so for other stressors. Overall, our observations are (a) consistent with the stress-support matching hypothesis, (b) suggest that RSA is particularly effective for reducing the negative impacts of discontinuity stressors, and (c) found no instance in which RSA exacerbated (i.e., made more severe) the effects of life event stressors on mental well-being.",
+    "DOI": "10.1111/jssr.12524",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is not a meta-analysis, systematic review of controlled trials, RCT, or quasi-experimental study with a control group. It is an OLS regression path analysis.",
+            "study_design": "OLS regression path analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes and focuses on the impact of religious service attendance on mental well-being in relation to stressors like unemployment. It lacks measures related to employment rates, job duration, job quality, workplace integration, or job retention.",
+            "study_design": "Cross-sectional survey using OLS regression path analyses",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on religious service attendance (RSA) as a coping resource, which is not directly related to employment interventions for people with mental health disorders. The study's population and outcomes are also not aligned with the specified inclusion criteria.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "OLS regression path analyses",
+            "logprobs": null
+        }
+    }
+}

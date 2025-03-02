@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2995,
+    "Authors": "Stelnicki, Andrea M.; Jamshidi, Laleh; Fletcher, Amber J.; Carleton, R. Nicholas",
+    "Article Title": "Evaluation of Before Operational Stress: A Program to Support Mental Health and Proactive Psychological Protection in Public Safety Personnel",
+    "Abstract": "Public safety personnel (PSP; e.g., communications officials, corrections workers, firefighters, paramedics, and police officers) are at risk of developing mental health problems due to experiencing potentially psychologically traumatic events during their career. Research examining evidence-based treatments for psychological injuries resulting from operational duties (also known as operational stress injuries) has not yielded robust results that would indicate ongoing interventions as the best solution for managing PSP mental health injuries; as such, proactive psychological interventions designed to bolster resilience are being considered potentially beneficial for mitigating the impact of occupational stress on PSP. Despite the growing popularity of resilience programs, most are delivered in a single session after an event deemed particularly problematic with no follow-up. Longer interventions may better support sustained resiliency, mitigate the impact of operational stress, and increase positive PSP workplace outcomes. The current article introduces the Before Operational Stress (BOS) program, which was designed for delivery early in a PSP career to enhance self-awareness and healthy relationships. The year-long program is derived from cognitive behavior therapy and group therapeutic techniques to meet program objectives. The current BOS program evaluation demonstrated small, statistically significant improvements in symptoms of PTSD, quality of life, stigma, and perceived social support from baseline (Time 1) to 6 months (Time 4). There were also non-significant improvements observed in symptoms of depression, anxiety, stress, alcohol use, as well as in emotional regulation and resilience. Qualitative results indicated participants positively perceived the BOS program, with participants reporting specific improvements in self-awareness, avoidant behaviors, and relationships with family and colleagues. The BOS program content (e.g., functional disconnection and functional reconnection) and processes (e.g., psychoeducation within a supportive learning structure; mutually empowering group interactions) appear unique relative to other PSP resilience programs, with promising initial results in support of PSP mental health. Recommendations for future research and program development are provided.",
+    "DOI": "10.3389/fpsyg.2021.511755",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The geographic scope is within the EU, Europe, US, Canada, or Australia. The timeframe is between 2005-2025. The intervention is the Before Operational Stress (BOS) program, which addresses employment outcomes for people with mental health disorders. The population is public safety personnel, who have mental health problems, and the outcomes include employment or labor results.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is an evaluation of a resilience program rather than a meta-analysis, systematic review, RCT, cluster RCT, or quasi-experimental study with a control group. It does not meet the inclusion criteria for intervention (specifically job search services, adult training, wage subsidies, supported employment) and outcomes (employment or labor outcomes).",
+            "study_design": "Program evaluation",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

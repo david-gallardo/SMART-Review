@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2758,
+    "Authors": "Zheng, Shuting; Farmer, Cristan; Taylor, Julie Lounds; Adams, Ryan; Olson, Lindsay; Bishop, Somer",
+    "Article Title": "Patterns and correlates of two-year changes in depressive symptoms for autistic adults",
+    "Abstract": "Background Autistic adults are at elevated risk for depression. However, longitudinal data on the trajectory of depressive symptoms and its associated factors in autistic adults are scarce.Methods A community sample of 315 autistic adults participated in a two-year longitudinal study from the beginning of (March 2020) to the recovery from the COVID-19 pandemic (March 2022). They provided five waves of data on self-reported depressive symptoms and sociodemographic and life circumstances information.Results Multilevel model results showed that autistic adults reported large between-individual variability in self-reported depressive symptoms, and on average, they experienced an increase (i.e., worsening) in self-reported depressive symptoms over the two years of the study. Autistic adults with a depression history and lower annual household income reported higher levels of depressive symptoms. More importantly, autistic adults reported lower depressive symptoms when they were engaged in work or school, and those who had higher levels of depressive symptoms at the start of the study were more reactive to changes in work or school participation.Conclusions Findings from the current study have implications for potential venues of depression treatment in autistic adults around promoting employment/education, providing symptom monitoring, and addressing mental health disparities for those with lower incomes.",
+    "DOI": "10.3389/fpsyt.2024.1461704",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and instead focuses on the trajectory of depressive symptoms in autistic adults.",
+            "study_design": "Longitudinal study with a community sample",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the trajectory of depressive symptoms in autistic adults over two years.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        }
+    }
+}

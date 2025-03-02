@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2373,
+    "Authors": "Selenko, Eva; Pils, Kerstin",
+    "Article Title": "The after-effects of youth unemployment: More vulnerable persons are less likely to succeed in Youth Guarantee programmes",
+    "Abstract": "This article investigates unemployed adolescents' success in re-employment programmes. It proposes that not being in employment, education, or training indicates a setback in the achievement of important life goals, which affects mental health and success in re-employment programmes. Adolescents who are more affected by the experience of unemployment will be even less likely to succeed. An analysis of longitudinal archival records of 300 adolescents in a Youth Guarantee apprenticeship scheme confirms the expectations. Adolescents who were more vulnerable during unemployment and who had a worse relationship with their parents when starting the apprenticeship were more likely to drop out within the first year. The effect of age was moderated by relationship quality. The results show that taking the prior experience of not being in employment, education and training into account can offer a new understanding for the success of re-employment programmes. Theoretical and practical implications of the findings are discussed.",
+    "DOI": "10.1177/0143831X16653186",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design lacks a rigorous evaluation and no control group.",
+            "study_design": "Lacks a rigorous evaluation and no control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment for people with mental health disorders. It focuses on youth unemployment and the effects of being unemployed on adolescents.",
+            "study_design": "Cross-sectional analysis of longitudinal archival records",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemploys and not on people with mental health disorders.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population is not explicitly defined as people with mental disorders or documented mental health problems.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

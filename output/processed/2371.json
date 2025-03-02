@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2371,
+    "Authors": "Bayes-Marin, Ivet; Roura-Adserias, Maria; Gine-Vazquez, Iago; Villalobos, Felipe; Franch-Roca, Marta; Lloret-Pineda, Amanda; Gabarrell-Pascuet, Aina; He, Yuelu; El Hafi, Rachid; Butt, Fajar Matloob Ahmed; Mellor-Marsa, Blanca; Carmen Alos, M.; Sainz-Elias, Helena; Ayad-Ahmed, Wala; Aparicio, Lola; Espinal Cabeza, Mercedes; Alvarez Bobo, Oscar; Osorio Lopez, Yolanda; Maria Haro, Josep; Cristobal-Narvaez, Paula",
+    "Article Title": "Factors Associated with Depression and Anxiety Symptoms among Migrant Population in Spain during the COVID-19 Pandemic",
+    "Abstract": "Migrants are likely to experience mental health conditions, being one of the most vulnerable groups during the COVID-19 pandemic. The present study aims to: (1) estimate the prevalence of depressive and anxious symptoms and (2) examine the impact of risk and protective factors on this symptomatology. A sample of 129 migrants living in Spain during the COVID-19 pandemic completed an anonymous online survey, including information on sociodemographic and individual characteristics, migration, basic needs, social environment and perceived health domains. Multiple Poisson regression models analysed the effects of risk and protective factors on depression and anxiety symptoms. The prevalence of depressive and anxiety symptoms was 22.3% and 21.4%, respectively. Risk factors such as living in a rented house and previous mental health conditions were associated with higher depression symptoms, whereas unemployment was related to anxiety symptoms. Conversely, older age, better self-esteem, and higher levels of social support were associated with fewer depression symptoms. Older age and better quality of life were related to fewer anxiety symptoms. These findings addressing risk and protective factors (e.g., social support, self-esteem) help to design culturally effective programs, particularly in migrants with pre-existing mental health conditions, adjusting the organisation of mental healthcare services in difficult times in Spain.",
+    "DOI": "10.3390/ijerph192315646",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey without a control group, which does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and lacks outcomes that measure employment or labor results.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey with regression analysis",
+            "logprobs": null
+        }
+    }
+}

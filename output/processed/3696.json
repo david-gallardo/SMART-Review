@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3696,
+    "Authors": "Rostami, Amin; Motaman, Koorosh; Tarvirdizadeh, Bahram; Alipour, Khalil; Ghamari, Mohammad",
+    "Article Title": "LSTM-based real-time stress detection using PPG signals on raspberry Pi",
+    "Abstract": "Stress, widely recognised for its profound adverse effects on both physical and mental health, necessitates the development of innovative real-time detection methods. In this context, the escalating prevalence of wearable embedded systems, integrated with artificial intelligence (AI) for the continuous monitoring of critical physiological indicators like heart rate and blood pressure, accentuates their growing relevance in the efficient detection of stress. This article presents an innovative methodology employing deep learning algorithms on the Raspberry Pi 3, a platform distinguished by its cost-effectiveness and limited resources. The authors have developed an advanced AI algorithm that achieves high accuracy in real-time stress detection using photoplethysmography (PPG) sensors while significantly reducing computational demands. The authors' method utilises an artificial neural network with long short-term memory (LSTM) layers, proving highly effective in time-series data analysis. In this study, the authors implement key TensorFlow toolkit optimisation techniques including quantisation aware training (QAT), Pruning and prune-preserving quantisation aware training. These techniques are applied to refine the authors' model, decreasing size and latency without sacrificing accuracy. The results highlight the LSTM-based model's proficiency in accurately detecting stress using raw PPG sensor data on the Raspberry Pi 3, a comparatively affordable platform. The model attains an accuracy of 89.32% and an F1 score of 89.55% on the diverse wearable stress and affect detection stress-level dataset. Additionally, the authors' optimised model exhibits substantial reductions in both size and latency while maintaining high accuracy. This approach shows great potential for various applications, such as stress monitoring in healthcare, sports, and workplace settings. The use of the Raspberry Pi 3 makes the system portable, cost-effective, and energy-efficient, enhancing its potential impact and accessibility.",
+    "DOI": "10.1049/wss2.12083",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not address employment or labor outcomes, and it is not related to active employment policies for people with mental health disorders.",
+            "study_design": "None",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on real-time stress detection using PPG signals.",
+            "study_design": "Original Research Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes for people with mental health disorders, which is a key inclusion criterion for the systematic review.",
+            "study_design": "Article does not specify study design, but it is not a systematic review, meta-analysis, RCT, or quasi-experimental study with a control group as required by the inclusion criteria.",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or outcomes for people with mental health disorders.",
+            "study_design": "N/A",
+            "logprobs": null
+        }
+    }
+}

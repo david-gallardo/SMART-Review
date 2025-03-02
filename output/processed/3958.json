@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3958,
+    "Authors": "Xu, Yanfeng; Jedwab, Merav; Soto-Ramirez, Nelis; Levkoff, Sue E.; Wu, Qi",
+    "Article Title": "Material hardship and child neglect risk amidst COVID-19 in grandparent-headed kinship families: The role of financial assistance",
+    "Abstract": "Background: COVID-19 has exacerbated material hardship among grandparent-headed kinship families. Grandparent-headed kinship families receive financial assistance, which may mitigate material hardship and reduce child neglect risk. Objective: This study aims to examine (1) the association between material hardship and child neglect risk; and (2) whether financial assistance moderates this association in a sample of kinship grandparent-headed families during COVID-19. Participants and setting: Cross-sectional survey data were collected from a convenience sample of grandparent-headed kinship families (not necessarily child welfare involved) (N = 362) in the United States via Qualtrics Panels online survey. Methods: Descriptive, bivariate, and negative binomial regression were conducted using STATA 15.0. Results: Experiencing material hardship was found to be associated with an increased risk of child neglect, and receiving financial assistance was associated with a decreased risk of child neglect in the full sample and a subsample with household income > $30,000. Receiving financial assistance buffered the negative effect of material hardship on child neglect risk across analytic samples, and receiving SNAP was a significant moderator in the full sample. Among families with a household income <= $30,000, receiving SNAP and foster care payments was associated with a decreased risk of child neglect, while receiving TANF and unemployment insurance was associated with an increased risk of child neglect. Among families with household income > $30,000, only receiving SNAP was associated with a decreased risk of child neglect. Conclusions: This study suggests the potential importance of providing concrete financial assistance, particularly SNAP and foster care payments, to grandparent-headed kinship families in efforts to decrease child neglect risk during COVID-19.",
+    "DOI": "10.1016/j.chiabu.2021.105258",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is descriptive, bivariate, and negative binomial regression, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Descriptive, bivariate, and negative binomial regression",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and focuses on material hardship and child neglect risk amidst COVID-19 in grandparent-headed kinship families. It does not meet the inclusion criteria for interventions related to active employment policies.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on material hardship and child neglect risk in grandparent-headed kinship families during COVID-19 and does not specifically address employment or labor outcomes for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on people with mental health disorders and does not address employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

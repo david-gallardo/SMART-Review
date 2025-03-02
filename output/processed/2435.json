@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2435,
+    "Authors": "Prosman, Gert-Jan; Wong, Sylvie H. Lo Fo; Lagro-Janssen, Antoine L. M.",
+    "Article Title": "Support by trained mentor mothers for abused women: a promising intervention in primary care",
+    "Abstract": "Intimate partner violence (IPV) against women is a major health problem and negatively affects the victims mental and physical health. Evidence-based interventions in family practice are scarce.We aimed to evaluate a low threshold home-visiting intervention for abused women provided by trained mentor mothers in family practice. The aim was to reduce exposure to IPV, symptoms of depression as well as to improve social support, participation in society and acceptance of mental health care.A prepost study of a 16-week mentoring intervention with identified abused women with children was conducted. After referral by a family doctor, a mentor mother visited the abused woman weekly. Primary outcomes are IPV assessed with the Composite Abuse Scale (CAS), depressive symptoms using the Symptom Checklist (SCL 90) and social support by the Utrecht Coping List. Secondary outcomes are analysed qualitatively: participation in society defined as employment and education and the acceptance of mental health care.At baseline, 63 out of 66 abused women were referred to mentor support. Forty-three participants completed the intervention programme. IPV decreased from CAS(total) 46.7 (SD 24.7) to 9.0 (SD 9.1) (P 0.001) after the mentor mother support programme. Symptoms of depression decreased from 53.3 (SD 13.7) to 34.8 (SD 11.5) (P 0.001) and social support increased from 13.2 (SD 4.0) to 15.2 (SD 3.5) (P 0.001). Participation in society and the acceptance of mental health for mother and child improved.Sixteen weekly visits by trained mentor mothers are a promising intervention to decrease exposure to IPV and symptoms of depression, as well as to improve social support, participation in society and the acceptance of professional help for abused women and their children.",
+    "DOI": "10.1093/fampra/cmt058",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a prepost study, which lacks a control group.",
+            "study_design": "prepost study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on intimate partner violence against women rather than employment policies for people with mental health disorders. The intervention and outcomes are related to reducing exposure to IPV, symptoms of depression, social support, and participation in society, which do not align with the specified interventions or labor outcomes.",
+            "study_design": "Pre-post study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment policies.",
+            "study_design": "Prepost study",
+            "logprobs": null
+        }
+    }
+}

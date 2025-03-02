@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3026,
+    "Authors": "Caruana, Emma; Cotton, Susan; Killackey, Eoin; Allott, Kelly",
+    "Article Title": "The Relationship Between Cognition, Job Complexity, and Employment Duration in First-Episode Psychosis",
+    "Abstract": "Objective: To investigate the relationship between cognition and employment duration in first episode psychosis (FEP), and establish if a fit between cognition and job complexity is associated with longer employment duration. Method: This study involved secondary data analysis of a subsample of FEP individuals (n = 65) who participated in a randomized controlled trial comparing Individual Placement and Support plus treatment as usual (TAU), versus TAU alone, over 6 months. A cognitive battery was administered at baseline and employment duration (hours) and job complexity in the longest held job over 6 months were measured. Results: Factor analysis with promax rotation of the cognitive battery revealed 4 cognitive domains: (a) attention and processing speed; (b) verbal learning and memory; (c) verbal comprehension and fluency; and (d) visual organization and memory (VO&M). The final hierarchical regression model found that VO&M and job complexity independently predicted employment duration in longest held job; however, the fit (or interaction) between VO&M and job complexity was not significant. Conclusions and Implications for Practice: These findings suggest that VO&M and job complexity are important predictors of employment duration, but it is not necessary to ensure VO&M ability matches job complexity. However, there are limited comparative studies in this area, and other aspects of the person organization fit perspective may still be useful to optimize vocational outcomes in FEP.",
+    "DOI": "10.1037/prj0000129",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a randomized controlled trial (RCT), but it lacks a control group for the intervention of interest (job search services, adult training, wage subsidies, supported employment).",
+            "study_design": "RCT",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and lacks a control group. It focuses on the relationship between cognition and job complexity in individuals with first-episode psychosis.",
+            "study_design": "Secondary data analysis of a subsample from a randomized controlled trial",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on first-episode psychosis and does not specifically address employment interventions for people with mental health disorders as per the inclusion criteria.",
+            "study_design": "Secondary data analysis of a randomized controlled trial",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is an RCT that examines supported employment (Individual Placement and Support) for people with mental health disorders in the US within the specified timeframe. It includes relevant outcomes such as employment duration.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

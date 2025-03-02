@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2858,
+    "Authors": "Howe, Aaron S.; Bani-Fatemi, Ali; Tjahayadi, Evan; Haritos, Alexia; Hao, Yifan; Zhu, Shangkai; Formuli, Edris; Nowrouzi-Kia, Behdin",
+    "Article Title": "A quantitative examination of sleep quality, burnout, psychological distress, and social support availability of electrical workers in Ontario, Canada",
+    "Abstract": "Electrical workers experience difficult psychosocial working conditions that may expose them to poor mental health outcomes. This study aims to explore the relationships between psychological distress, access to social support, burnout, and sleep quality in Canadian electrical workers. A 30-item cross-sectional survey including the Pittsburgh Sleep Quality Index, Kessler's Psychological Distress Scale, Copenhagen Burnout Inventory, and social support questions from the WHO-QoL-BREF were completed by 118 electrical workers. Data was analyzed to determine differences between groups, correlations between variables, and to identify predictors of poor sleep quality. No significant differences were found in burnout scores and subjective sleep quality between apprentices, electricians, and contractors. Apprentices reported being more psychologically distressed than electricians (p = 0.005) and contractors (p < 0.001). Electrical workers preferred social support from spouses, family, or friends when things get tough at work. Poor sleep quality was correlated with personal burnout (r = 0.45), work-related burnout (r = 0.37), and psychological distress (r = 0.39); however, these factors did not predict poor sleep quality. The study suggests a need for improved interpersonal communication, stress management, and help-giving behavior among electrician-apprentice and contractor-apprentice relationships in the workplace. Future research should explore the cultural and social dynamics between workers to better understand their impacts on health and wellbeing.",
+    "DOI": "10.1186/s12982-024-00177-y",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional survey, which lacks a control group.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (does not present measures of employment or labor results).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment interventions for people with mental health disorders, nor does it measure employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions and does not present measures of employment or labor outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

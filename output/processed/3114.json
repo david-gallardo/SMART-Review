@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3114,
+    "Authors": "He, Yimin; Walker, Jessica M.; Payne, Stephanie C.; Miner, Kathi N.",
+    "Article Title": "Explaining the negative impact of workplace incivility on work and non-work outcomes: The roles of negative rumination and organizational support",
+    "Abstract": "Research studies have shown that workplace incivility is associated with numerous negative work and non-work outcomes. The underlying mechanisms explaining why workplace incivility is associated with these outcomes, as well as contextual buffers of these relationships, have received less attention. This study extends workplace incivility research by examining the mediating role of negative rumination as a potential factor undergirding the relationship between experiences of incivility from colleagues at work and detrimental outcomes. We also investigated perceived organizational support and family supportive work environment as potential mitigators of the indirect relationship between incivility and negative outcomes. Data were collected from 154 university faculty members on two occasions. The results showed that negative rumination mediated the relationships between workplace incivility and both work (job satisfaction, burnout) and non-work (work-to-family conflict, life satisfaction) outcomes. Furthermore, results from the moderated mediation analyses revealed that perceived organizational support buffered the mediated effect of negative rumination and job satisfaction and a family-supportive work environment buffered the mediated effect of negative rumination on work-to-family conflict. Overall, the results demonstrate that negative rumination helps explain why workplace incivility negatively affects both work and non-work outcomes and underscores the important role of organizational context as buffers for these relationships.",
+    "DOI": "10.1002/smi.2988",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional study with data collected from 154 university faculty members on two occasions, which does not meet the inclusion criteria of a study design that is a meta-analysis, systematic review of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on people with mental health disorders. It examines the impact of workplace incivility on work and non-work outcomes via negative rumination, which is outside the scope of identifying what works in active employment policies for individuals with mental health issues.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "quasi-experimental study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment or labor outcomes.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

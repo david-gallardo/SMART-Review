@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2992,
+    "Authors": "McDonagh, Marian S.; Dana, Tracy; Kopelovich, Sarah L.; Monroe-DeVita, Maria; Blazina, Ian; Bougatsos, Christina; Grusing, Sara; Selph, Shelley S.",
+    "Article Title": "Psychosocial Interventions for Adults With Schizophrenia: An Overview and Update of Systematic Reviews",
+    "Abstract": "Objective: The authors of this systematic review (SR) sought to provide evidence for effects of commonly used psychosocial interventions on several outcomes among adults with schizophrenia.Methods: MEDLINE, the Cochrane Library, and PsycINFO databases were searched through July 2020. Eligible studies were SRs and trials of at least 12 weeks duration and with >= 50 participants that compared psychosocial interventions with treatment as usual among adults with schizophrenia. Study design, year, setting, country, sample size, eligibility criteria, population, clinical and intervention characteristics, results, and funding source were extracted, along with quality criteria. The evidence was evaluated on quality and strength of evidence stratified by intervention area and outcome, according to the Evidence-Based Practice Centers Methods Guide of the Agency for Healthcare Research and Quality.Results: Nine SRs and 30 trials (N=23,921 patients) in 11 intervention areas were included. Trials were mostly of fair quality and had low-to-moderate strength of evidence. Compared with treatment as usual, most psychosocial interventions were more effective in improving intervention-targeted outcomes, including core illness symptoms. Compared with treatment as usual, assertive community treatment, cognitive-behavioral therapy (CBT), family interventions, psychoeducation, social skills training, supported employment, and early interventions for first-episode psychosis (FEP) improved various functional outcomes. CBT and early interventions for FEP improved quality of life. Family interventions, psychoeducation, illness self - management, and early interventions for FEP reduced relapse.Conclusions: Compared with treatment as usual, most psychosocial interventions improved functional outcomes, quality of life, and core illness symptoms, and several reduced relapse frequency among adults with schizophrenia.",
+    "DOI": "10.1176/appi.ps.202000649",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a systematic review, which meets the inclusion criteria. The study includes EU countries, Europe, US, Canada, and Australia, and focuses on people with mental disorders or documented mental health problems. The outcomes include employment or labor outcomes such as job duration, job quality, and workplace integration.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on psychosocial interventions for adults with schizophrenia rather than employment policies. It does not address the specific interventions (job search services, adult training, wage subsidies, supported employment) or outcomes related to employment and labor.",
+            "study_design": "Systematic review of trials",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The article is a systematic review that meets the inclusion criteria for study design, intervention, and population. It focuses on adults with schizoppheria, which can be considered as people with mental health disorders. The interventions studied are job search services, adult training, wage subsidies, and supported employment, which are relevant to the research question.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a systematic review that includes supported employment as an intervention and focuses on people with mental disorders (schizophrenia). It also reports outcomes related to functional improvements which can be linked to employment outcomes.",
+            "study_design": "Systematic Review",
+            "logprobs": null
+        }
+    }
+}

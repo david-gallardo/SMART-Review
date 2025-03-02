@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2633,
+    "Authors": "Hult, Marja; Lappalainen, Kirsi; Saaranen, Terhi K.; Rasanen, Kimmo; Vanroelen, Christophe; Burdorf, Alex",
+    "Article Title": "Health-improving interventions for obtaining employment in unemployed job seekers",
+    "Abstract": "BackgroundUnemployment is associated with decreased health which may be a reason or a consequence of becoming unemployed. Decreased health can inhibit re-employment.ObjectivesTo assess the effectiveness of health-improving interventions for obtaining employment in unemployed job seekers.Search methodsWe searched (3 May 2018, updated 13 August 2019) the Cochrane Central Register of Controlled Trials, MEDLINE, Scopus, PsycINFO, CINAHL, SocINDEX, OSH Update, ClinicalTrials.gov, the WHO trials portal, and also reference lists of included studies and selected reviews.Selection criteriaWe included randomised controlled trials (RCTs) of the effectiveness of health-improving interventions for obtaining employment in unemployed job seekers. The primary outcome was re-employment reported as the number or percentage of participants who obtained employment. Our secondary outcomes were health and work ability.Data collection and analysisTwo authors independently screened studies, extracted outcome data, and assessed risk of bias. We pooled study results with randomeffect models and reported risk ratios (RRs) with 95% confidence intervals (CIs) and assessed the overall quality of the evidence for each comparison using the GRADE approach.Main resultsWe included 15 randomised controlled trials (16 interventions) with a total of 6397 unemployed participants. Eight studies evaluated therapeutic interventions such as cognitive behavioural therapy, physical exercise, and health-related advice and counselling and, in seven studies, interventions were combined using therapeutic methods and job-search training.Therapeutic interventionsTherapeutic interventions compared to no intervention may increase employment at an average of 11 months follow up but the evidence is very uncertain (RR = 1.41, 95% CI 1.07 to 1.87, n= 1142,8 studies with 9 interventions, I-2 = 52%, very low-quality evidence). There is probably no difference in the effects of therapeutic interventions compared to no intervention on mental health (SMD 0.12, 95% CI -0.06 to 0.29, n = 530, 2 studies, tow-quality evidence) and on general health (SMD 0.19, 95% CI -0.04 to 0.41, n = 318, 1 study, moderate-quality evidence).Combined interventionsCombined interventions probably increase employment slightly compared to no intervention at an average of 10 months follow-up (RR 1.12, 95% CI 1.06 to 1.20, n =4101, 6 studies, I-2 = 7%).There were no studies that measured work-ability, adverse events, or cost-effectiveness.Authors' conclusionsInterventions combining therapeutic methods and job-search training probably have a small beneficial effect in increasing employment. Therapeutic interventions may have an effect on re-employment, but we are very uncertain. Therapeutic interventions may not improve health in unemployed job seekers. Large high-quality RCTs targeting short-term or long-term unemployed people are needed to increase the quality of the evidence. A cost-effectiveness assessment is needed of the small beneficial effects.",
+    "DOI": "10.1002/14651858.CD013152.pub2",
+    "Model Results": {
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Invalid response structure",
+            "study_design": null,
+            "logprobs": null
+        },
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a randomized controlled trial (RCT), which meets the inclusion criteria. The study also has a control group, which is required. The study is within the specified timeframe (2005-2025), and the intervention is job search services, which is one of the included interventions.",
+            "study_design": "Randomized Controlled Trial (RCT)",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design does not meet the inclusion criteria as it was published before 2005 (searched in 2018-2019). The timeframe for inclusion is 2005-2025.",
+            "study_design": "Systematic review of RCTs",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on unemployed job seekers, not specifically on people with mental health disorders.",
+            "study_design": "RCT",
+            "logprobs": null
+        }
+    }
+}

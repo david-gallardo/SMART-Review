@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3573,
+    "Authors": "Moga, Marius; Burtea, Victoria; Ifteni, Petru",
+    "Article Title": "Socioeconomic Status and Psychological Factors Involved in Suicide",
+    "Abstract": "The high number of suicides drew attention to medical professionals. In Europe suicide is one of the leading cause of death caused by intentional and unintentional injuries. We tried to evaluate the suicide rates and methods of suicide during a 3 years period. There were collected all the date provided by the archives of forensic services of Brasov county between 2011 and 2013 regarding age, sex, marital status, occupation, socio-economic status, methods of suicide and alcohol consumption before suicide. The statistics included 545 subjects included in the study, 293 were male (53.8%), and 252 were female (46.2%) who were admitted at the ER of Brasov County Emergency Hospital during study period. Of 545 patients with suicide attempt, 355 (65.15%) survived and were referred to the Psychiatry and Neurology Hospital for psychiatric treatment and psychological counseling. The number of male who died after a suicide attempt was significantly higher than in female cases (134 vs.56, p<0.001). Previous suicide attempts, depression, alcohol abuse and unemployment are strong factors for fatal suicide. Poor economic status and life events may contribute to suicide attempt in those individuals.",
+    "DOI": NaN,
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The article does not meet the inclusion criteria as it does not focus on active employment policies for people with mental health disorders. The study examines suicide rates and methods, and its population does not reference mental health or have an undefined population.",
+            "study_design": "Descriptive study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes. It focuses on evaluating suicide rates and methods of suicide in Europe during a specific period.",
+            "study_design": "Descriptive study with data from forensic archives",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on suicide rates and methods, which is not directly related to employment outcomes for people with mental health disorders.",
+            "study_design": "retrospective study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment interventions or outcomes related to employment.",
+            "study_design": "Observational study",
+            "logprobs": null
+        }
+    }
+}

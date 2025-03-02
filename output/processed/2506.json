@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2506,
+    "Authors": "Wu, Qi; Xu, Yanfeng; Jedwab, Merav",
+    "Article Title": "Custodial Grandparent's Job Loss During the COVID-19 Pandemic and Its Relationship With Parenting Stress and Mental Health",
+    "Abstract": "Involuntary job loss during the COVID-19 pandemic adds challenges, especially for custodial grandparents that are taking care of grandchildren. Grandparents are relatively vulnerable, and they need more attention and support when facing the negative impacts of COVID-19. This study analyzed cross-sectional survey data collected from 234 custodial grandparents via Qualtrics Panels in June 2020 in the United States. After using the propensity score weighting adjustment, results from logistic and ordinary least squares regression showed that compared with grandparents that did not lose their job during the pandemic, grandparents that did had more parenting stress and worse mental health. Moderation analysis also showed that social support was a significant moderator of the relationship between job loss and mental health, but not the relationship between job loss and parenting stress. The findings and implications are discussed.",
+    "DOI": "10.1177/07334648211006222",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional survey data, which lacks a rigorous evaluation and does not have a control group.",
+            "study_design": "cross-sectional survey data",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes for people with mental health disorders. It focuses on the impact of job loss during the COVID-19 pandemic on custodial grandparents' parenting stress and mental health.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it focuses on custodial grandparsons, not people with mental health disorders, and does not address employment interventions.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

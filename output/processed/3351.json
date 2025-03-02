@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3351,
+    "Authors": "Igic, Ivana; Keller, Anita C.; Elfering, Achim; Tschan, Franziska; Kalin, Wolfgang; Semmer, Norbert K.",
+    "Article Title": "Ten-Year Trajectories of Stressors and Resources at Work: Cumulative and Chronic Effects on Health and Well-Being",
+    "Abstract": "Employing 5 waves of measurement over a period of 10 years, we explored the effects of exposure to constellations of conditions at work on physical and psychological strain, estimating the history of exposure over time. Specifically, we first tested if the 4 constellations postulated by the job demand-control (JDC) model, extended to include social stressors, could be identified empirically over time through a person-centered analysis. Second, we tested 2 specific effects of the history of exposure on physical and psychological strain: cumulative effects (i.e., history of exposure predicting strain) and chronic effects (i.e., history of exposure being associated with reduced reversibility in strain). Data were collected from 483 respondents who were at the end of their vocational training. The results supported the hypotheses, in that not all JDC constellations could be empirically identified, the majority of participants was in rather favorable constellations, and the differences between constellations, in terms of levels of demands and control, were more subtle than suggested by theoretically pre-defined constellations. Because the linear and quadratic solutions were largely comparable, we decided to adopt the linear ones. The expected cumulative and chronic effects were mostly confirmed: Unfavorable JDC constellations were associated with poorer health and well-being than favorable ones, when controlling for the initial level of the respective outcome variable, demographic variables, and for cumulative private stressors (cumulative effects). These differences largely remained after further adjustments for current conditions at work (chronic effects).",
+    "DOI": "10.1037/apl0000225",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a person-centered analysis, which does not meet the inclusion criteria of meta-analyses, systematic reviews of controlled trials, RCTs (including cluster RCTs), or quasi-experimental studies with a control group.",
+            "study_design": "Person-centered analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address interventions related to employment policies and does not focus on outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It is a longitudinal study examining the effects of work-related stressors and resources over time.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it does not focus on employment or labor outcomes, but rather on physical and psychological strain in the workplace. It also lacks a direct intervention on employment, which is a key aspect of the inclusion criteria.",
+            "study_design": "Longitudinal study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions such as job search services, adult training, wage subsidies, or supported employment.",
+            "study_design": "Longitudinal Study",
+            "logprobs": null
+        }
+    }
+}

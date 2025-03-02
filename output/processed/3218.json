@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3218,
+    "Authors": "Osborn, A. J.; Mathias, J. L.; Fairweather-Schmidt, A. K.; Anstey, K. J.",
+    "Article Title": "Traumatic Brain Injury and Depression in a Community-Based Sample: A Cohort Study Across the Adult Life Span",
+    "Abstract": "Objectives: To determine whether self-reported traumatic brain injuries (TBIs) are associated with cases of clinically significant depression in the general community. To examine interactions between variables previously linked to depression after a TBI. Setting: Population-based community study (Canberra and Queanbeyan, Australia). Participants and Design: Three age cohorts: young, middle-aged, and older adults (aged 20-24, 40-44, and 6064 years at baseline) randomly selected from the electoral roll and followed across 3 waves (4 years apart). A total of 7397, 6621, and 6042 people provided their TBI history in waves 1 to 3. Measures: Lifetime (TBIlifetime: sustained at any time since birth), recent (TBIrecent: in the preceding 4 years), and multiple (TBImultiple: more than 1) TBIs, current depression, and known risk factors for depression (age, sex, marital/employment status, prior history of depression, medical conditions, recent life events, alcohol consumption, social support, physical activity). Results: Generalized estimating equations demonstrated a significant association between sustaining a TBI and experiencing clinically significant depression (cases), even after controlling for multiple demographic and health/lifestyle factors. Conclusion: There is an enduring association between depression and TBI, suggesting that, following a TBI, individuals should be monitored and supported to optimize their long-term psychological health.",
+    "DOI": "10.1097/HTR.0000000000000311",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment or labor outcomes, and the population does not reference mental health or has an undefined population.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes and the intervention does not involve job search services, adult training, wage subsidies, or supported employment. It focuses on the association between traumatic brain injuries and depression in a community-based sample.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment interventions or outcomes.",
+            "study_design": "Cohort Study",
+            "logprobs": null
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2465,
+    "Authors": "Brooks, Samantha K.; Greenberg, Neil",
+    "Article Title": "Mental health and psychological wellbeing of maritime personnel: a systematic review",
+    "Abstract": "Background Seafaring has frequently been reported to be a 'risky occupation' in terms of both physical and mental health. Individuals working in seafaring professions are exposed to various stressors in the workplace, including social isolation, exposure to poor physical conditions and long work hours. This systematic review aimed to update previous reviews by collating recent literature (published between 2012 and 2021) on the factors associated with mental health and wellbeing in seafaring personnel. Methods Four electronic databases were searched in April 2021 for primary peer-reviewed studies on factors associated with the mental health and psychological wellbeing of seafarers or interventions to improve the wellbeing of seafarers, published in English in or after the year 2012. Thematic analysis was used to synthesise the data and standardised measures of quality appraisal were used to assess risk of bias. Results Sixty-three studies were reviewed. Risk factors for poor mental health among seafarers appear to be younger age; being single; poor physical health; exposure to noise/vibration; feeling unsafe; high job demands; long working hours; night/irregular shifts; poor sleep; poor team cohesion; poor perception of management; poor social support; lack of autonomy; scheduling uncertainties; long duration at sea; and over-commitment. Conclusions There are numerous steps that maritime managers could take to improve the wellbeing of their personnel, including increased monitoring of the potential for poor mental health in their staff, increasing crew numbers and provision of education and support.",
+    "DOI": "10.1186/s40359-022-00850-4",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is thematic analysis, which lacks a rigorous evaluation and does not include a control group.",
+            "study_design": "Thematic analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies or interventions directly related to employment for people with mental health disorders. It focuses on the factors associated with mental health and psychological wellbeing in seafaring personnel.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on seafaring personnel, which is not explicitly mentioned in the inclusion criteria's population. The inclusion criteria require studies to focus on people with mental disorders or documented mental health problems, and the study in question does not specify this.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders. It also does not include employment or labor outcomes.",
+            "study_design": "Systematic review",
+            "logprobs": null
+        }
+    }
+}

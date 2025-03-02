@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3322,
+    "Authors": "Hammig, Oliver",
+    "Article Title": "Health and well-being at work: The key role of supervisor support.",
+    "Abstract": "This study aims to explore whether and in what way social support from different sources and domains makes an additional or different and independent contribution to various health and work-related outcomes. Cross-sectional data were used from an employee survey among the workforces of four service companies from different industries in Switzerland. The study sample covered 5,877 employees of working age. The lack of social support from a spouse, relatives, friends, direct supervisors, closest colleagues at work and other co-workers in case of problems at work and at home were assessed and studied individually and jointly as risk factors with respect to a total number of eight outcomes. Health-related outcomes covered poor self-rated health, musculoskeletal disorders, stress feelings and burnout symptoms. Work-related outcomes included feeling overwhelmed at work, difficulty with switching off after work, job dissatisfaction and intention to turnover. Social support from multiple sources in contrast to only individual sources in both life domains was found to be more frequent in women than in men and proved to be most protective and beneficial with regard to health and well-being at work. However, after mutual adjustment of all single sources of social support from both domains, a lack of supervisor support turned out to be the only or the strongest of the few remaining support measures and statistically significant risk factors for the studied outcomes throughout and by far. Being unable to count on the support of a direct supervisor in case of problems at work and even at home was shown to involve a substantially increased risk of poor health and work-related outcomes (aOR = up to 3.8). Multiple sources of social support, and particularly supervisor support, seem to be important resources of health and well-being at work and need to be considered as key factors in workplace health promotion.",
+    "DOI": "10.1016/j.ssmph.2017.04.002",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a cross-sectional survey, which meets the inclusion criteria. The study includes a control group (supervisor support) and presents measures of employment or labor results (work-related outcomes).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is cross-sectional and lacks a rigorous evaluation or control group. It does not meet the inclusion criteria for intervention (does not directly address employment) and outcomes (focuses on health and well-being rather than employment).",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment or labor outcomes, which are essential criteria for inclusion.",
+            "study_design": "Cross-sectional study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on active employment policies for people with mental health disorders and does not measure employment outcomes.",
+            "study_design": "Cross-sectional survey",
+            "logprobs": null
+        }
+    }
+}

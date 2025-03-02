@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2497,
+    "Authors": "Williams, Evan",
+    "Article Title": "Punitive welfare reform and claimant mental health: The impact of benefit sanctions on anxiety and depression",
+    "Abstract": "Internationally, policymakers assume that sanctioning claimants of unemployment benefits will engender both improved employment outcomes and wider positive effects. A growing evidence-base challenges these expectations, though additional insight is needed from large-scale longitudinal research. This article contributes by conducting a quantitative investigation into the mental health impacts of benefit sanctions. To do so, it focuses on a recent period in UK sanctions policy in which rates of sanctions varied markedly and their length was substantially increased. Using quarterly panel data for local authorities in England (Q3 2010-Q4 2014) and fixed effects models that control for important confounders, the analysis provides robust evidence that Jobseeker's Allowance (JSA) sanctions lead to increases in self-reported anxiety and depression. Evidence of this adverse impact is particularly clear following the increase in the length of sanctions in October 2012. The results have important implications for contemporary social security policy, which is underpinned by a similarly punitive sanctions regime. Whilst additional individual-level research is needed to fully consider the causal relationships in operation, the findings support a precautionary approach that should seek to minimise the harm associated with sanctions. This implies taking steps to reduce both the severity and frequency of applied sanctions.",
+    "DOI": "10.1111/spol.12628",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a cross-sectional analysis using quarterly panel data, which does not meet the inclusion criteria for systematic reviews or quasi-experimental studies with a control group.",
+            "study_design": "Cross-sectional analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not directly address employment outcomes. It focuses on the mental health impacts (anxiety and depression) of benefit sanctions.",
+            "study_design": "Quasi-experimental",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the mental health impacts of benefit sanctions, which is not directly related to employment or labor outcomes. It also does not include job search services, adult training, wage subsidies, or supported employment interventions.",
+            "study_design": "Quantitative investigation",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The intervention does not directly address employment (focuses on benefit sanctions rather than job search services, adult training, wage subsidies, or supported employment).",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

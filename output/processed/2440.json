@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2440,
+    "Authors": "Margolies, Paul J.; Broadway-Wilson, Karen; Gregory, Raymond; Jewell, Thomas C.; Scannevin, Gary, Jr.; Myers, Robert W.; Fernandez, Henry A.; Ruderman, Douglas; McNabb, Liam; Chiang, I-Chin; Marino, Leslie; Dixon, Lisa B.",
+    "Article Title": "Use of Learning Collaboratives by the Center for Practice Innovations to Bring IPS to Scale in New York State",
+    "Abstract": "This column focuses on use of learning collaboratives by the Center for Practice Innovations to help programs implement the evidence-based individual placement and support model of supported employment in New York State. These learning collaboratives use fidelity and performance indicator data to drive the development of program-specific individualized quality improvement plans. As of 2014, 59 ( 69%) of 86 eligible programs have joined the initiative. Programs are achieving employment outcomes for consumers on par with national benchmarks, along with improved fidelity.",
+    "DOI": "10.1176/appi.ps.201400383",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "Study design: lacks a rigorous evaluation or no control group. The article does not specify the study design, and it appears to be a descriptive article rather than a systematic review or quasi-experimental study.",
+            "study_design": null,
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not meet the inclusion criteria as it lacks a rigorous evaluation design and control group. It focuses on implementation strategies rather than employment outcomes for people with mental health disorders.",
+            "study_design": "Implementation strategy without rigorous evaluation or control group",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on the implementation of supported employment in New York State and does not specifically address job search services, adult training, or wage subsidies as interventions. Additionally, the study's outcomes are not directly related to employment or labor results but rather to program fidelity and performance indicators.",
+            "study_design": "Case study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Included",
+            "reason": "The study is a quasi-experimental evaluation of supported employment in New York State, which meets the inclusion criteria for geographic scope, intervention type, population, and outcomes.",
+            "study_design": "quasi-experimental",
+            "logprobs": null
+        }
+    }
+}

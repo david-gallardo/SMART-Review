@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2507,
+    "Authors": "Showalter, Kathryn; Yoon, Susan; Logan, T. K.",
+    "Article Title": "The Employment Trajectories of Survivors of Intimate Partner Violence",
+    "Abstract": "Intimate partner violence in the United States is significantly associated with employment instability. Using a latent growth curve model, the current study investigates the impact of intimate partner violence on mothers' (N=4897) employment outcomes trajectories in the Fragile Families and Child Wellbeing study which include four waves of data collection starting when a child was born and ending about eight years later. Outcomes included annual weeks worked and employment status (employed vs. unemployed). There was a significant effect of intimate partner violence on weeks worked and employment status at the second wave of data collection, indicating that mothers were most likely to experience employment instability when they had a three-year-old child. Results also showed that intimate partner violence survivors were still experiencing unemployment six years after abuse occurred. Workplaces and policymakers should protect mothers with young children experiencing intimate partner violence by extending time off from work and connection to community resources.",
+    "DOI": "10.1177/09500170211035289",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study design is a latent growth curve model, which is not explicitly mentioned as a controlled trial or quasi-experimental study with a control group.",
+            "study_design": "latent growth curve model",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address people with mental health disorders or documented mental health problems. It focuses on the impact of intimate partner violence on employment outcomes.",
+            "study_design": "Latent growth curve model using data from a specific cohort (Fragile Families and Child Wellbeing study)",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study focuses on intimate partner violence and its impact on employment outcomes, not specifically on people with mental health disorders.",
+            "study_design": "Longitudinal study with latent growth curve modeling",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

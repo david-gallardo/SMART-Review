@@ -1,0 +1,33 @@
+{
+    "ArticleID": 2883,
+    "Authors": "Tokic, Andrea; Sliskovic, Ana; Ivanisevic, Matilda Nikolic",
+    "Article Title": "Well-Being of Parents of Children with Disabilities-Does Employment Status Matter?",
+    "Abstract": "Being a parent of a child with a disability brings with it special burdens, e.g. extraordinary caregiving responsibilities, which can have a negative impact on other areas of life and the well-being of parents in general. The aim of this study is to examine the differences in various aspects of well-being and social support between parents who are employed in addition to having caregiving responsibilities, unemployed parents, and parents who are formal caregivers (they receive financial support to care for their child). The online survey included 165 unemployed parents, 467 employed parents (273 full-time and 194 part-time), and 182 formal caregivers. Multivariate analyses of covariance (MANCOVAs) showed that both full-time and part-time employed parents had higher levels of life satisfaction, global health, and social support than unemployed parents, when controlled for the child's level of disability and the parents' level of education. Formal caregivers and unemployed parents did not differ significantly in the variables of well-being or social support. Our results suggest that a social measure introduced in Croatia to facilitate parents of children with disabilities to work have a positive impact on parental well-being, and that social support from society for unemployed parents and formal caregivers needs to be improved.",
+    "DOI": "10.3390/socsci12080463",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Included",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is conducted within the EU, within the specified timeframe, and addresses employment outcomes for parents with mental health disorders.",
+            "study_design": "Quasi-experimental study with a control group",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes such as employment rates, job duration, job quality, workplace integration, or job retention. It focuses on the well-being and social support of parents with children having disabilities.",
+            "study_design": "Survey",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not focus on employment interventions for people with mental health disorders, but rather on the well-being of parents of children with disabilities.",
+            "study_design": "Survey study",
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Excluded",
+            "reason": "The population does not reference mental health disorders.",
+            "study_design": "Quasi-experimental study",
+            "logprobs": null
+        }
+    }
+}

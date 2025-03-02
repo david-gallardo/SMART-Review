@@ -1,0 +1,33 @@
+{
+    "ArticleID": 3415,
+    "Authors": "Walker, Rebekah J.; Gebregziabher, Mulugeta; Martin-Harris, Bonnie; Egede, Leonard E.",
+    "Article Title": "Relationship between social determinants of health and processes and outcomes in adults with type 2 diabetes: validation of a conceptual framework",
+    "Abstract": "Background: The aim of this study was to empirically validate a conceptual framework and elucidate the pathways linking social determinants of health to outcomes in individuals with type 2 diabetes.Methods: 615 adults were recruited from adult primary care clinics in the southeastern United States. The model was estimated using path analysis to determine if socioeconomic (education, employment, income) and psychosocial (fatalism, self-efficacy, depression, diabetes distress, serious psychological distress, social support, and perceived stress) factors would independently predict glycemic control or be associated with mediator/moderators of self-care, access to care, and processes of care. Covariates were gender, age, race and health literacy.Results: The final model (chi2 (15) = 17.68, p = 0.28; RMSEA = 0.02, CFI = 0.99) showed lower glycemic control was directly associated with less hours worked (r = 0.13, p = 0.002), more fatalistic attitudes (r = -0.09, p = 0.03), more self-efficacy (r = -0.30, p < 0.001), and less diabetes distress (r = 0.12, p = 0.03), with the majority of total effects being direct. Significant paths associated self-care with diabetes distress (r = -0.14, p = 0.01) and perceived stress (r = -0.15, p = .001); access to care with income (r = 0.08, p = 0.03), diabetes distress (r = -0.21, p < 0.001) and social support (r = 0.08, p = 0.03); and processes of care with income (r = -0.11, p = 0.03), social support (r = 0.10, p = 0.04), and perceived stress (r = 0.10, p = 0.04). The paths explained 76% of the variance in the model.Conclusions: Consistent with the conceptual framework, social determinants were associated with glycemic control through a direct association and mediators/moderators of self-care, access to care and processes of care. This study provides the first validation of a conceptual framework for the relationship between socioeconomic and psychological components of social determinants of health and diabetes outcomes.",
+    "DOI": "10.1186/1472-6823-14-82",
+    "Model Results": {
+        "llama-3.2-3b-instruct": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment or labor outcomes, and instead focuses on the relationship between social determinants of health and glycemic control in individuals with type 2 diabetes.",
+            "study_design": "Path analysis",
+            "logprobs": null
+        },
+        "qwen2.5-7b-instruct-1m": {
+            "inclusion_decision": "Excluded",
+            "reason": "The study does not address employment policies for people with mental health disorders. It focuses on the relationship between social determinants of health and outcomes in adults with type 2 diabetes.",
+            "study_design": "Path analysis using a cross-sectional design",
+            "logprobs": null
+        },
+        "phi-3-mini-4k-instruct": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        },
+        "mistral-small-24b-instruct-2501": {
+            "inclusion_decision": "Unclear",
+            "reason": "Could not parse model's JSON output",
+            "study_design": null,
+            "logprobs": null
+        }
+    }
+}
