@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SMART-Review/figures/logo/smart_review_logo.png" alt="SMART Review Logo" width="200">
+  <img src="figures/logo/smart_review_logo.png" alt="SMART Review Logo" width="200">
 </p>
 
 <p align="center">
