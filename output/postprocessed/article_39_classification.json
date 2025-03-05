@@ -1,0 +1,103 @@
+{
+  "Article_ID": 39,
+  "Article_Title": "Multidisciplinary Intervention and Acceptance and Commitment Therapy for Return-to-Work and Increased Employability among Patients with Mental Illness and/or Chronic Pain: A Randomized Controlled Trial",
+  "Abstract": "Background: People on long-term sick leave often have a long-lasting process back to work, where the individuals may be in multiple and recurrent states; i.e., receiving different social security benefits or working, and over time they may shift between these states. The purpose of this study was to evaluate the effects of two vocational rehabilitation programs, compared to a control, on return-to-work (RTW) or increased employability in patients on long-term sick leave due to mental illness and/or chronic pain. Methods: In this randomized controlled study, 427 women and men were allocated to either (1) multidisciplinary team management, i.e., multidisciplinary assessments and individual rehabilitation management, (2) acceptance and commitment therapy (ACT), or (3) control. A positive outcome was defined as RTW or increased employability. The outcome was considered negative if the (part-time) wage was reduced or ceased, or if there was an indication of decreased employability. The outcome was measured one year after entry in the project and analyzed using binary and multinomial logistic regressions. Results: Participants in the multidisciplinary team group reported having RTW odds ratio (OR) 3.31 (95% CI 1.39-7.87) compared to the control group in adjusted models. Participants in the ACT group reported having increased employability OR 3.22 (95% CI 1.13-9.15) compared to the control group in adjusted models. Conclusions: This study of vocational rehabilitation in mainly female patients on long-term sick leave due to mental illness and/or chronic pain suggests that multidisciplinary team assessments and individually adapted rehabilitation interventions increased RTW and employability. Solely receiving the ACT intervention also increased employability.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental Illness",
+        "Chronic Pain"
+      ],
+      "intervention_type": [
+        "Multidisciplinary Team Management",
+        "Acceptance and Commitment Therapy"
+      ],
+      "outcome_measures": [
+        "Return-to-Work",
+        "Increased Employability"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Depression",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Other"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Other",
+      "Schizophrenia",
+      "CONDITION1",
+      "Depression",
+      "CONDITION2",
+      "Mental Illness",
+      "General mental health",
+      "Chronic Pain"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Acceptance and Commitment Therapy",
+      "Return-to-work programs",
+      "Multiple interventions",
+      "INTERVENTION1",
+      "Supported employment",
+      "Skills training",
+      "Multidisciplinary Team Management",
+      "INTERVENTION2"
+    ],
+    "Outcome_Measures": [
+      "Increased Employability",
+      "Return-to-Work",
+      "OUTCOME1",
+      "Job retention",
+      "Quality of life",
+      "Employment rate",
+      "OUTCOME2"
+    ]
+  }
+}

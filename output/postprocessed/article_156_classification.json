@@ -1,0 +1,90 @@
+{
+  "Article_ID": 156,
+  "Article_Title": "Benefits of Cognitive Remediation and Supported Employment for Schizophrenia Patients With Poor Community Functioning",
+  "Abstract": "Objective: This study was conducted to determine whether augmenting supported employment with cognitive remediation can improve vocational outcomes and whether augmentation is more important for participants with lower community functioning. Methods: In this secondary analysis of data from two related, single-blind, randomized controlled trials, 175 participants with schizophrenia or schizoaffective disorder received supported employment or supported employment plus cognitive remediation and were classified into higher or lower community functioning according to a median split of their quality-of-life scores at baseline. Participants received one year of active intervention and follow-up a year later. Primary outcome measures were competitive employment rates and total hours of work. Results: Employment rates over two years for participants with lower community functioning were significantly different for the two conditions (supported employment=20%, plus cognitive remediation=49%, p<.005), whereas participants with higher functioning showed equivalent rates of employment (62% versus 54%, us). Among lower-functioning participants, those who received cognitive remediation also worked significantly more hours over two years than those who received supported employment only, but higher-functioning participants worked similar amounts of hours in both conditions. Improvements in cognitive functioning and intrinsic motivation were related to employment outcomes but only for the lower-functioning group in the supported employment plus cognitive remediation condition, suggesting possible mechanisms for the observed effects. Conclusions: Augmenting supported employment with cognitive remediation may boost vocational outcomes for participants with lower community functioning but may not be necessary for those functioning better in their communities.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Schizoaffective disorder"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Supported employment plus cognitive remediation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Total hours of work"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT (Randomized Controlled Trial)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Cognitive remediation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizoaffective disorder",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Cognitive remediation",
+      "Skills training",
+      "Supported employment plus cognitive remediation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Quality of life",
+      "Income/earnings",
+      "Mental health improvement",
+      "Work functioning",
+      "Total hours of work",
+      "Employment rate"
+    ]
+  }
+}

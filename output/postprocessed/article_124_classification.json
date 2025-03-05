@@ -1,0 +1,79 @@
+{
+  "Article_ID": 124,
+  "Article_Title": "Individual Placement and Support boosts employment for early psychosis clients, even when baseline rates are high",
+  "Abstract": "Aim Individual Placement and Support is an effective vocational intervention for increasing competitive employment for people with severe mental illness. Little is known, however, about its effectiveness in the context of early psychosis. This study assesses improvements in clients' employment in a phase of illness during which functional abilities often decline. Methods The trial design is an assessor-blinded randomized clinical trial, set in the context of a population-based Early Psychosis Intervention program in British Columbia, Canada. Participants were randomized either to 1 year of employment support added to treatment-as-usual, or the latter alone. Interviews at intake captured data regarding demographics, symptom severity, and employment; assessments at 6 and 12 months repeated queries about employment activities. Results A total of 109 clients were recruited. Employment rates in the Individual Placement and Support group increased over time, unlike the control group. Further, the number of days worked over the 12-month intervention period, compared to the 6 months prior to the study, improved for both groups, but the increase was greater among clients receiving IPS. Sensitivity analysis indicated the advantage in days worked was evident in the second half of the intervention period (6-12 months), but not the first half. Conclusions Employment rates, for younger clients in both early-psychosis groups, were high compared to older clients in later stages of illness. In this study, use of the Individual Placement and Support strategy further increased employment, despite the high baseline rates. Further research is needed to identify the optimal timing of employment support for these clients.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Early psychosis"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Days worked"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Early Psychosis"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Days worked"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Early Psychosis",
+      "Early psychosis"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Individual Placement and Support"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Days worked",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Article_ID": 11,
+  "Article_Title": "Preventing sickness absence among employees with common mental disorders or stress-related symptoms at work: a cluster randomised controlled trial of a problem-solving-based intervention conducted by the Occupational Health Services",
+  "Abstract": "Objectives Common mental disorders (CMDs) are among the main causes of sickness absence and can lead to suffering and high costs for individuals, employers and the society. The occupational health service (OHS) can offer work-directed interventions to support employers and employees. The aim of this study was to evaluate the effect on sickness absence and health of a work-directed intervention given by the OHS to employees with CMDs or stress-related symptoms. Methods Randomisation was conducted at the OHS consultant level and each consultant was allocated into either giving a brief problem-solving intervention (PSI) or care as usual (CAU). The study group consisted of 100 employees with stress symptoms or CMDs. PSI was highly structured and used a participatory approach, involving both the employee and the employee's manager. CAU was also work-directed but not based on the same theoretical concepts as PSI. Outcomes were assessed at baseline, at 6 and at 12 months. Primary outcome was registered sickness absence during the 1-year follow-up period. Among the secondary outcomes were self-registered sickness absence, return to work (RTW) and mental health. Results A statistical interaction for group x time was found on the primary outcome (p=0.033) and PSI had almost 15 days less sickness absence during follow-up compared with CAU. Concerning the secondary outcomes, PSI showed an earlier partial RTW and the mental health improved in both groups without significant group differences. Conclusion PSI was effective in reducing sickness absence which was the primary outcome in this study.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Stress-related symptoms"
+      ],
+      "intervention_type": [
+        "Problem-solving-based intervention",
+        "Care as usual"
+      ],
+      "outcome_measures": [
+        "Sickness absence",
+        "Return to work",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Other",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Common mental disorders",
+        "Stress-related symptoms"
+      ],
+      "intervention_type": [
+        "Problem-solving-based intervention",
+        "Occupational health service"
+      ],
+      "outcome_measures": [
+        "Sickness absence",
+        "Return to work",
+        "Mental health improvement"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Anxiety",
+      "Depression",
+      "Stress-related symptoms",
+      "Common mental disorders"
+    ],
+    "Intervention_Type": [
+      "Return-to-work programs",
+      "Occupational health service",
+      "Care as usual",
+      "Supported employment",
+      "Problem-solving-based intervention",
+      "Other"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Sickness absence",
+      "Employment rate",
+      "Return to work"
+    ]
+  }
+}

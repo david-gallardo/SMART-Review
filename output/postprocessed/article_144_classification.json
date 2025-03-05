@@ -1,0 +1,78 @@
+{
+  "Article_ID": 144,
+  "Article_Title": "Impacts of Individual Placement and Support (IPS) program of supported employment on employment and psychosocial well-being among individuals with severe mental illness",
+  "Abstract": NaN,
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "IPS program"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Psychosocial well-being"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Severe mental illness",
+      "General mental health",
+      "Bipolar"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "IPS program"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Employment rate",
+      "Psychosocial well-being"
+    ]
+  }
+}

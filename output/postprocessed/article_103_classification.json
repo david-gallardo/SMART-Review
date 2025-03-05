@@ -1,0 +1,89 @@
+{
+  "Article_ID": 103,
+  "Article_Title": "Leipzig-Individual Placement and Support for people with mental illnesses (LIPSY): study protocol of a randomized controlled trial",
+  "Abstract": "Background: Individuals receiving means-tested benefits are at a higher risk of being diagnosed with a psychiatric illness compared to those who are employed, and the rate of those working in the first labor market is low. The intervention (Individual Placement and Support, IPS) aims at maintaining or regaining working ability and at facilitating reintegration into the (first) labor market following a first place, then train-approach. The objective of the study is to conduct the first RCT in Germany that addresses a broad group of long-term unemployed individuals with severe mental illnesses that receive means-tested benefits, and to test the effectiveness of the IPS intervention.Methods: In this randomized controlled trial, about 120 eligible participants aged between 18 years and local retirement age will be randomly allocated to an intervention group (IG) or to an active control group (CG) using a parallel arm design. The IG will receive IPS + high quality treatment as usual (TAU), the active CG will receive TAU + a booklet on integration measures. A block-randomization algorithm with a targeted assignment ratio of 1:1 for participants in IG and active CG will be used, stratified by sex and three age groups. Assessments will take place before the intervention at baseline (t0), and 6 (t1), 12 (t2), and 18 (t3) months later. Primary outcome will be the proportion of participants having worked at least 1 day in competitive employment since baseline, as assessed at t3. Secondary outcomes will be related to employment/ vocation and mental health. In addition, there will be a process evaluation. Treatment effects on outcomes will be tested using appropriate panel-data regression models, and acceptability, uptake and adherence will be evaluated using descriptive statistics and appropriate inference testing.Discussion: The results of this trial are expected to generate a better understanding of the efficiency, feasibility, acceptance, and relevance of the IPS intervention in a German setting. They could be a first step towards the implementation of the method and towards improving the situation of long-term unemployed individuals with severe mental health problems.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Severe mental illnesses"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support",
+        "High quality treatment as usual"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Severe mental illnesses",
+      "Schizophrenia",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Individual Placement and Support",
+      "Supported employment",
+      "High quality treatment as usual"
+    ],
+    "Outcome_Measures": [
+      "Quality of life",
+      "Work functioning",
+      "Job retention",
+      "Income/earnings",
+      "Mental health improvement",
+      "Employment rate"
+    ]
+  }
+}

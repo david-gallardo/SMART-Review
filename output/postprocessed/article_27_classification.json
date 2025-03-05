@@ -1,0 +1,76 @@
+{
+  "Article_ID": 27,
+  "Article_Title": "Formal plan for self-disclosure enhances supported employment outcomes among young people with severe mental illness",
+  "Abstract": "AimYoung people with mental illness experience high levels of unemployment, which can be related to stigma and discrimination. This may result from poor choices in disclosing personal information, such as their mental illness diagnosis, in the workplace. The aim of this study was to investigate the predictive validity of a formal plan to manage personal information (PMPI) during the early stages of supported employment. The focal question was: does the use of a brief structured PMPI lead to more employment outcomes for young people with a mental illness?MethodsA sample of 40 young unemployed mental health service users (mean age 23.9 years), who were also attending employment services on the Gold Coast, was asked about their disclosure preferences. If they preferred not to disclose at all, they did not complete a plan for managing personal information. If they preferred to disclose some personal information, they were provided with assistance to complete a PMPI. Baseline information was gathered from two equal groups of 20 individuals. Employment status was ascertained at a 6-week follow-up interview.ResultsThose who completed a plan to manage their personal information had 4.9 times greater odds of employment at 6 weeks than those who preferred not to disclose any personal information.ConclusionsA formal PMPI has promising predictive validity with respect to job seekers not opposed to pragmatic forms of self-disclosure. Further research is needed to examine other properties of this decision-making tool.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Depression",
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Other"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Severe mental illness",
+      "General mental health",
+      "Schizophrenia",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Other",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

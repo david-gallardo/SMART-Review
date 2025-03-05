@@ -1,0 +1,82 @@
+{
+  "Article_ID": 87,
+  "Article_Title": "Cognitive remediation and professional insertion of people with schizophrenia: RemedRehab, a randomized controlled trial",
+  "Abstract": "Background People suffering from schizophrenia cannot easily access employment in European countries. Different types of vocational programs coexist in France: supported employment, sheltered employment (ShE), and hybrid vocational programs. It is now acknowledged that the frequent cognitive impairments constitute a major obstacle to employment for people with schizophrenia. However, cognitive remediation (CR) is an evidence-based nonpharmacological treatment for these neurocognitive deficits. Methods RemedRehab was a multicentric randomized comparative open trial in parallel groups conducted in eight centers in France between 2013 and 2018. Participants were recruited into ShE firms before their insertion in employment (preparation phase). They were randomly assigned to cognitive training Cognitive Remediation for Schizophrenia (RECOS) or Treatment As Usual (TAU). The aim of the study was to compare with the benefits of the RECOS program on access to employment and work attendance for people with schizophrenia, measured by the ratio: number of hours worked on number of hours stipulated in the contract. Results Seventy-nine patients were included in the study between October 2018 and September 2019. Fifty-three patients completed the study. Hours worked / planned hours equal to 1 or greater than 1 were significantly higher in the RECOS group than in the TAU group. Conclusions Participants benefited from a RECOS individualized CR program allows a better rate of work attendance in ShE, compared to the ones benefited from TAU. Traditional vocational rehabilitation enhanced with individualized CR in a population of patients with schizophrenia is efficient on work attendance during the first months of work integration.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Cognitive remediation",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Hours worked / planned hours",
+        "Work attendance"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Cognitive Remediation",
+        "Vocational Rehabilitation"
+      ],
+      "outcome_measures": [
+        "Work attendance"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Cognitive Remediation",
+      "Cognitive remediation",
+      "Supported employment",
+      "Skills training",
+      "Vocational rehabilitation",
+      "Vocational Rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Work attendance",
+      "Work functioning",
+      "Job retention",
+      "Employment rate",
+      "Hours worked / planned hours"
+    ]
+  }
+}

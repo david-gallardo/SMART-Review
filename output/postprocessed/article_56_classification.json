@@ -1,0 +1,104 @@
+{
+  "Article_ID": 56,
+  "Article_Title": "Group cognitive behaviour therapy for supported employment - Results of a randomized controlled cohort trial",
+  "Abstract": "The merging of evidence-based interventions with supported employment programs are being increasingly studied, with encouraging results. The current study is aimed at determining the impact of a brief cognitive behaviour therapy group intervention adapted for supported employment programs (called CBT-SE) on the work outcomes of: obtaining a competitive job, number of weeks worked, and number of hours worked per week. Participants were randomized to either receive the 8-session CBT-SE group on top of their supported employment program, or to only receive their support employment program. The results show that those who received CBT-SE were significantly more likely to obtain a job (75% vs 58%), and worked a significantly greater number of hours (24 vs 18 hours per week). No differences were found in terms of number of weeks worked. Those in the CBT-SE condition also experienced a significant decrease in their negative symptoms over time, compared to the control condition. Although replication is needed, these results suggest that a brief cognitive-behavioural intervention specifically tailored to work-related issues can be greatly beneficial. (C) 2019 Elsevier B.V. All rights reserved.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Cognitive behaviour therapy group intervention",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "CBT-SE group intervention"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Bipolar",
+      "Anxiety",
+      "Personality disorders",
+      "General mental health",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Skills training",
+      "Cognitive behaviour therapy group intervention",
+      "CBT-SE group intervention",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Quality of life",
+      "Income/earnings",
+      "Mental health improvement",
+      "Work functioning",
+      "Employment rate"
+    ]
+  }
+}

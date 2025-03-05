@@ -1,0 +1,95 @@
+{
+  "Article_ID": 16,
+  "Article_Title": "Employment Outcomes of a Distance Learning System for Formerly Incarcerated Veterans With Mental Illness",
+  "Abstract": "Objective: People with previous incarceration and a mental disorder, a substance use disorder, or both are less likely to obtain employment than are those without these characteristics. Distance learning and education (DLE) systems are increasingly being integrated into clinical care and provide a pathway to disseminate vocational services. DLE systems can help reach people with barriers to accessing services, including people without transportation, experiencing homelessness, living in rural areas, or who are homebound. This study evaluated the effectiveness of one DLE system, the COMPASS program, in assisting formerly incarcerated veterans with a mental or substance use disorder to obtain employment. Methods: The authors used a randomized controlled trial to compare employment outcomes of 39 U.S. veterans receiving the COMPASS intervention with those of 43 veterans receiving a paper self-study vocational manual. All participants had previous legal convictions and had a mental disorder, a substance use disorder, or both. The COMPASS system provided vocational services through asynchronous (online practice assignments, reading, and videos) and synchronous (video and telephone practice interviews and live chats) methods. No in-person vocational services were provided in the COMPASS intervention. Results: At 6 months, participants assigned to receive the COMPASS intervention were more likely to have found employment, defined as 1 day of competitive employment, compared with those assigned to receive the self- study manual (64% vs. 35%, respectively)-and to have found employment faster. Conclusions: This study's findings provide evidence for the effectiveness of the COMPASS system in providing employment services and suggest that these services may benefit other vulnerable populations.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental Illness",
+        "Substance Use Disorder"
+      ],
+      "intervention_type": [
+        "Distance Learning System",
+        "COMPASS Program"
+      ],
+      "outcome_measures": [
+        "Employment Rate",
+        "Job Retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Other"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Other"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION1",
+      "Other",
+      "CONDITION2",
+      "Substance Use Disorder",
+      "General mental health",
+      "Mental Illness"
+    ],
+    "Intervention_Type": [
+      "Distance Learning System",
+      "Skills training",
+      "INTERVENTION2",
+      "INTERVENTION1",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "COMPASS Program"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "OUTCOME1",
+      "OUTCOME2",
+      "Employment Rate",
+      "Job Retention",
+      "Employment rate"
+    ]
+  }
+}

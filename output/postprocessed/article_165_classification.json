@@ -1,0 +1,95 @@
+{
+  "Article_ID": 165,
+  "Article_Title": "Cost-effectiveness of supported employment adapted for people with affective disorders",
+  "Abstract": "Objective: The individual enabling and support (IES) model was effective in gaining competitive employment for people with affective disorders compared with traditional vocational rehabilitation (TVR) services in a randomized controlled trial in a Swedish setting. The object of this study is to perform a cost-effectiveness analysis of IES comparing to TVR.Methods: We considered the costs of intervention and productivity gain due to increased competitive employment. We estimated quality of life using EuroQol 5 Dimension (EQ-5D) and Manchester Short Assessment of Quality of Life (MANSA) scale. EQ-5D was translated into quality-adjusted life-years (QALY), using the UK, Danish, and Swedish tariffs. We performed the analysis from a societal perspective with a one-year timeframe.Results: The cost of IES was Euro7247 lower per person per year (2014 prices) compared to TVR. There were no significant differences in QALY improvement within or between groups. However, quality of life measured by the MANSA scale significantly improved over the study period in IES.Limitations: Besides the small sample size, details on the intervention costs for both IES and TVR group were unavailable and had to be obtained from external sources.Conclusions: Implementation of IES for people with affective disorders is most likely cost-saving and is potentially even dominating TVR, although a larger trial is required to establish this.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "methodological_limitations": [
+        "LIMITATION1",
+        "LIMITATION2"
+      ],
+      "conclusions": "CONCLUSION_TEXT"
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION2",
+      "CONDITION1",
+      "Anxiety",
+      "Schizophrenia",
+      "Bipolar",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Vocational rehabilitation",
+      "INTERVENTION1",
+      "INTERVENTION2"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "OUTCOME2",
+      "OUTCOME1",
+      "Quality of life"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "Article_ID": 148,
+  "Article_Title": "Implementing individual and placement support for patients with severe mental illness: findings from the real world",
+  "Abstract": "ObjectiveIndividual Placement and Support (IPS) is a psychosocial intervention with a considerable body of evidence for its effectiveness in helping people with Severe Mental Illness (SMI) to obtain and maintain competitive job. However, little is known about IPS model in Italy, a country with a different socioeconomic climate than the USA and the UK. Aim of this study was to investigate the effect of IPS in Italian patients with SMI, assessing the main competitive employment outcomes and drop-out rates during a 3-year follow-up period.MethodsParticipants (n = 46) were recruited from the 7 adult Community Mental Health Centers (CMHCs) of the Reggio Emilia Department of Mental Health. Together with drop-out rates, we examined job acquisition (employment in the labor market for at least 1 day during the follow-up), job duration (total number of days worked), job tenure (weeks worked on the longest-held competitive job), and total hours per week worked.ResultsA crude competitive employment rate of 50% and a crude drop-out rate of 34.8 over the 3-year follow-up period were found. Using a Kaplan-Meyer survival analysis, the cumulative employment rate reached a 73% percentage at 36 months.ConclusionsThis study shows the feasibility and the utility of an implementation strategy for applying the IPS approach in the public mental health care system in Italy.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Severe Mental Illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Drop-out rates",
+        "Job duration",
+        "Job tenure",
+        "Total hours per week worked"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "Severe Mental Illness"
+      ],
+      "intervention_type": [
+        "Individual and Placement Support"
+      ],
+      "outcome_measures": [
+        "Competitive employment rate",
+        "Job acquisition",
+        "Job duration",
+        "Job tenure",
+        "Total hours per week worked",
+        "Drop-out rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Severe Mental Illness",
+      "General mental health",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS)",
+      "Supported employment",
+      "Individual and Placement Support"
+    ],
+    "Outcome_Measures": [
+      "Job duration",
+      "Job acquisition",
+      "Competitive employment rate",
+      "Total hours per week worked",
+      "Employment rate",
+      "Drop-out rate",
+      "Drop-out rates",
+      "Job tenure",
+      "Job retention"
+    ]
+  }
+}

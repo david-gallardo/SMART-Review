@@ -1,0 +1,103 @@
+{
+  "Article_ID": 57,
+  "Article_Title": "Individual placement and support in Italian young adults with mental disorder: Findings from the Reggio Emilia experience",
+  "Abstract": "Aim Individual placement and support (IPS) has a considerable body of evidence for its effectiveness in helping people with mental disorder to achieve and maintain competitive jobs. However, little data in young adult populations are currently available, especially in Europe. Aim of this study was to assess the effect of IPS in Italian young adults with moderate-to-severe mental illness, examining the main competitive employment outcomes and drop out rates during a 3-year follow-up period. Methods Participants (n = 54) were recruited from patients receiving psychiatric treatment in one of the seven adult Community Mental Health Centers of the Reggio Emilia Department of Mental Health. Together with drop out rates, we investigated job duration (total number of days worked), job acquisition (employment in the labour market for at least 1 day during the follow-up), total hours per week worked, and job tenure (weeks worked on the longest-held competitive job). Results A crude competitive employment rate of 40.7% and a crude drop out rate of 22.2% over the 3-year follow-up period were found. However, 66% of 42 clients who remained in the program over 3 years gained competitive employment at some time during the 3-year period. Conclusions This research shows the feasibility of an IPS intervention model in the public mental health care system in Italy, especially for a young adult target population.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Individual placement and support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual placement and support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Drop out rate",
+        "Job acquisition",
+        "Total hours per week worked",
+        "Job tenure"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Depression",
+      "General mental health",
+      "Personality disorders",
+      "Bipolar",
+      "Anxiety"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Individual placement and support",
+      "Return-to-work programs",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Income/earnings",
+      "Mental health improvement",
+      "Work functioning",
+      "Quality of life",
+      "Total hours per week worked",
+      "Job acquisition",
+      "Drop out rate",
+      "Job retention",
+      "Employment rate",
+      "Job tenure"
+    ]
+  }
+}

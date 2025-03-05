@@ -1,0 +1,110 @@
+{
+  "Article_ID": 48,
+  "Article_Title": "Placement Budgets for Supported Employment-Impact on Quality of Life in a Multicenter Randomized Controlled Trial",
+  "Abstract": "Background: Employment is an important aspect of psychiatric rehabilitation. The objective of this analysis was to explore how quality of life (QoL) may affect the outcome of supported employment and vice versa.Methods: A total of 116 participants with severe mental disorders were randomly assigned to either 25, 40, or 55 h placement budgets, which comprises job coaches' time resources to support a client in finding a job. The intervention followed the individual placement and support model and lasted up to 36 months. Primary outcome was employment in the first labor market for at least 3 months. QoL was assessed 7 times over the entire 36-months observation period using the WHO QoL Bref, which comprises the dimensions physical health, psychological, social relationships, and environment.Results: The three placement budgets did not differentially relate to QoL, but QoL environment showed a significant increase over time across all three groups. Baseline QoL environment weakly predicted subsequent obtainment of employment (F = 4.08, df = 1, p = 0.046, Cohen's d = 0.39). Controlling for baseline QoL, those participants who obtained a job, as compared to those who did not, showed persistent increases in QoL physical health (b = 0.39, p = 0.002, Cohen's d = 0.50) and QoL psychological (b = 0.40, p < 0.001, Cohen's d = 0.47).Conclusion: Obtaining employment in the first labor market improves patients' QoL. Supported employment is a valuable intervention that may benefit patients with severe mental disorder.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Anxiety",
+      "Bipolar",
+      "Schizophrenia",
+      "Personality disorders",
+      "CONDITION2",
+      "CONDITION1",
+      "Depression",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Job search assistance",
+      "INTERVENTION1",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Skills training",
+      "INTERVENTION2",
+      "Return-to-work programs"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Work functioning",
+      "Quality of life",
+      "OUTCOME1",
+      "Employment rate",
+      "OUTCOME2",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}

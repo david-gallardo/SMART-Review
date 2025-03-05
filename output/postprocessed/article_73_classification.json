@@ -1,0 +1,75 @@
+{
+  "Article_ID": 73,
+  "Article_Title": "Predictors of Acquisition of Competitive Employment for People Enrolled in Supported Employment Programs",
+  "Abstract": "This study aims at assessing the relative contribution of employment specialist competencies working in supported employment (SE) programs and client variables in determining the likelihood of obtaining competitive employment. A total of 489 persons with a severe mental illness and 97 employment specialists working in 24 SE programs across three Canadian provinces were included in the study. Overall, 43% of the sample obtained competitive work. Both client variables and employment specialist competencies, while controlling for the quality of SE programs implementation, predicted job acquisition. Multilevel analyses further indicated that younger client age, shorter duration of unemployment, and client use of job search strategies, as well as the working alliance perceived by the employment specialist, were the strongest predictors of competitive employment for people with severe mental illness, with 51% of variance explained. For people with severe mental illness seeking employment, active job search behaviors, relational abilities, and employment specialist competencies are central contributors to acquisition of competitive employment.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Depression",
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Severe mental illness",
+      "Schizophrenia",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Job retention",
+      "Mental health improvement"
+    ]
+  }
+}

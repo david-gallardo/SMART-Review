@@ -1,0 +1,110 @@
+{
+  "Article_ID": 19,
+  "Article_Title": "Long-Term Follow-Up of a Randomized Trial of Supported Employment for SSDI Beneficiaries With Mental Illness",
+  "Abstract": "Objective: In this study, the authors assessed the long-term impact of the Mental Health Treatment Study (MHTS), a randomized controlled trial testing the effects of providing 2 years of employment services based on the evidence-based individualized placement and support model to Social Security Disability Insurance (SSDI) recipients with serious mental illness. Treatment recipients also received systematic medication management, supplemental health care supports, and short-term relief from medical continuing disability review by the Social Security Administration (SSA).Methods: MHTS site data for 2,160 participants were linked to SSA administrative data from 2011 to 2015, 1 to 5 years after the original study concluded. Univariate and multivariate models were used to assess the MHTS effects on employment, earnings, and disability benefit suspension-termination up to 7 years after services ended.Results: The analyses showed that the treatment group was more likely than the control group to work, and average earnings among the treatment group increased more over time than earnings among the control group. Disability benefit suspension/termination did not differ between groups.Conclusions: Providing the demonstration's package of services and support to SSDI beneficiaries with psychiatric disabilities for up to 2 years may have a long-term impact on employment and earnings. Under the SSDI program as currently structured, however, even after receiving 2 years of evidence-based supported employment and high-quality mental health services, SSDI beneficiaries with psychiatric conditions are unlikely to achieve economic independence within 5 years.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Serious mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Medication management"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Earnings",
+        "Disability benefit suspension-termination"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Depression",
+      "Anxiety",
+      "Personality disorders",
+      "General mental health",
+      "Bipolar",
+      "Serious mental illness"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Return-to-work programs",
+      "Workplace accommodations",
+      "Supported employment",
+      "Skills training",
+      "Medication management",
+      "Job search assistance"
+    ],
+    "Outcome_Measures": [
+      "Work functioning",
+      "Disability benefit suspension-termination",
+      "Earnings",
+      "Job retention",
+      "Quality of life",
+      "Employment rate",
+      "Mental health improvement",
+      "Income/earnings"
+    ]
+  }
+}

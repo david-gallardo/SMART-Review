@@ -1,0 +1,76 @@
+{
+  "Article_ID": 31,
+  "Article_Title": "Predicting Employment in the Mental Health Treatment Study: Do Client Factors Matter?",
+  "Abstract": "For people with psychiatric disabilities, demographic characteristics and measures of clinical status are often used to allocate scarce employment services. This study examined a battery of potential client predictors of competitive employment, testing the hypothesis that evidence-based supported employment would mitigate the negative effects of poor work history, uncontrolled symptoms, substance abuse, and other client factors. In a secondary analysis of 2055 unemployed Social Security Disability Insurance beneficiaries with schizophrenia or affective disorders, we examined 20 baseline client factors as predictors of competitive employment. The analysis used logistic regression to identify significant client predictors and then examined interactions between significant predictors and receipt of evidence-based supported employment. Work history was a strong predictor of employment, and other client measures (fewer years on disability rolls, Hispanic ethnicity, and fewer physical health problems) were modestly predictive. Evidence-based supported employment mitigated negative client factors, including poor work history. Participants with a poor work history benefitted from supported employment even more than those with a recent work experience. Evidence-based supported employment helps people with serious mental illness, especially those with poor job histories, to obtain competitive employment. Factors commonly considered barriers to employment, such as diagnosis, substance use, hospitalization history, and misconceptions about disability benefits, often have little or no impact on competitive employment outcomes.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Affective disorders"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Affective disorders",
+      "Bipolar",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Work functioning"
+    ]
+  }
+}

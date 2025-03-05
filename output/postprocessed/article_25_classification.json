@@ -1,0 +1,78 @@
+{
+  "Article_ID": 25,
+  "Article_Title": "The societal impact of individual placement and support implementation on employment outcomes for young adults receiving temporary health-related welfare benefits: a difference-in-differences study",
+  "Abstract": "BackgroundIndividual placement and support (IPS) is an evidence-based practice that helps individuals with mental illness gain and retain employment. IPS was implemented for young adults at a municipality level through a cross-sectoral collaboration between specialist mental healthcare, primary mental healthcare, and the government funded employment service (NAV). We investigated whether IPS implementation had a causal effect on employment outcomes for all young adults in receipt of a temporary health-related rehabilitation (work assessment allowance, WAA) welfare benefit, measured at the societal level compared to municipalities that did not implement IPS.MethodWe used a difference in differences design to estimate the effects of IPS implementation on the outcome of workdays per year using longitudinal registry data. We estimate the average effect of being exposed to IPS implementation during four-years of implementation compared to ten control municipalities without IPS for all WAA recipients.ResultsWe found a significant, positive, causal effect on societal level employment outcomes of 5.6 (p = 0.001, 95% CI 2.7-8.4) increased workdays per year per individual, equivalent to 12.7 years of increased work in the municipality where IPS was implemented compared to municipalities without IPS. Three years after initial exposure to IPS implementation individuals worked, on average, 10.5 more days per year equating to 23.8 years of increased work.ConclusionsImplementing IPS as a cross sectoral collaboration at a municipality level has a significant, positive, causal, societal impact on employment outcomes for all young adults in receipt of a temporary health-related rehabilitation welfare benefit.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Workdays per year"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Return-to-work programs",
+      "Individual Placement and Support",
+      "Supported employment",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Workdays per year",
+      "Work functioning"
+    ]
+  }
+}

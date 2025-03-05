@@ -1,0 +1,90 @@
+{
+  "Article_ID": 37,
+  "Article_Title": "Individual Placement and Support (IPS) beyond severe mental health: An overview review and meta-analysis of evidence around vocational outcomes",
+  "Abstract": "Objective: To provide an overview review of international evidence of vocational outcomes in Individual Placement and Support (IPS) interventions for populations other than severe mental health. Methods: An overview of reviews published in English since 2000 reporting vocational outcomes (job entry, work sustainment, earnings, work hours, time to job entry) against counterfactuals of IPS interventions for population groups other than severe mental health. The overview review maximises data from individual studies and includes additional recent primary studies. DerSimonian-Laird random effects meta-analysis was performed. Results: Thirteen eligible studies were identified from five reviews and five more recent individual studies were also identified. IPS studies covered a range of groups with a concentration towards mental health. For the primary vocational outcome of job entry all IPS studies showed superior job entry rates compared to control groups with an overall weighted odds ratio of 1.78 [1.42,2.22]. Substantial heterogeneity was identified by study size and the overall weighted odds ratio of 1.32 [1.2,1.46] estimated from the large and medium sized studies seems a more plausible estimate of the likely effects of scaled-up IPS interventions in groups beyond severe mental health. Secondary vocational outcomes including job sustainment, total earnings, average weekly hours worked and time to job entry were typically superior in IPS services than control groups. Conclusions: IPS services are consistently more effective in supporting diverse population groups into sustained employment compared to business-as-usual employment services. The evidence is limited by unclear terminology, small sample sizes, incomplete intervention fidelity, intervention contamination and inconsistent measurement.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Job entry",
+        "Job sustainment",
+        "Earnings",
+        "Work hours",
+        "Time to job entry"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS)",
+      "Return-to-work programs",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Income/earnings",
+      "Job sustainment",
+      "Time to job entry",
+      "Work functioning",
+      "Work hours",
+      "Earnings",
+      "Job retention",
+      "Employment rate",
+      "Job entry"
+    ]
+  }
+}

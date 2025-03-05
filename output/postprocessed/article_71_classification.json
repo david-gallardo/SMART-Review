@@ -1,0 +1,110 @@
+{
+  "Article_ID": 71,
+  "Article_Title": "Enhancing individual placement and support (IPS) - Supported employment: A Type 1 hybrid design randomized controlled trial to evaluate virtual reality job interview training among adults with severe mental illness",
+  "Abstract": "Individual Placement and Support (IPS) is the evidence-based model of supported employment that increases employment rates in adults with severe mental illness (SMI). Although IPS is largely successful, over 80% of adults with SMI remain unemployed. An enhancement to high fidelity IPS could be an evidence-based job interview training component. To meet this training need, our group recently completed a series of randomized controlled efficacy trials funded by the National Institute of Mental Health to develop and test virtual reality job interview training (VR-JIT) in a lab setting. The results demonstrated that the intervention was efficacious at helping trainees improve their job interview skills and receive job offers within six months of completing VR-JIT compared to non-trainees. The overarching goal of this study is to evaluate the effectiveness of VR-JIT as an enhancement to IPS when delivered in a large community-based mental health service provider via a randomized controlled trial and initial process evaluation. Our aims are to: evaluate whether IPS services-as-usual in combination with VR-JIT, compared to IPS services-as-usual alone, enhances IPS outcomes for adults with SMI; evaluate mechanisms of employment outcomes and psychological distress; and conduct a multilevel, multidisciplinary, and mixed-method process evaluation of VR-JIT adoption and implementation to assess the acceptability, scalability, generalizability, and affordability of VR-JIT.",
+  "Model_Results": {
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs",
+        "Virtual reality job interview training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Type 1 hybrid design RCT",
+      "mental_health_condition": [
+        "Severe Mental Illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)",
+        "Virtual Reality Job Interview Training (VR-JIT)"
+      ],
+      "outcome_measures": [
+        "Job Interview Skills",
+        "Job Offers"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Anxiety",
+      "Depression",
+      "Bipolar",
+      "Schizophrenia",
+      "Severe Mental Illness",
+      "Personality disorders"
+    ],
+    "Intervention_Type": [
+      "Return-to-work programs",
+      "Virtual reality job interview training",
+      "Workplace accommodations",
+      "Skills training",
+      "Vocational rehabilitation",
+      "Individual Placement and Support (IPS)",
+      "Virtual Reality Job Interview Training (VR-JIT)",
+      "Supported employment",
+      "Job search assistance"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Mental health improvement",
+      "Income/earnings",
+      "Work functioning",
+      "Job Interview Skills",
+      "Job Offers",
+      "Quality of life",
+      "Job retention"
+    ]
+  }
+}

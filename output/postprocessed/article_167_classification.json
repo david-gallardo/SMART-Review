@@ -1,0 +1,80 @@
+{
+  "Article_ID": 167,
+  "Article_Title": "Improving vocational outcomes of service users in an Early Intervention in Psychosis service",
+  "Abstract": "Aim: People with psychotic symptoms have poor social and occupational functioning. The aim of this research was to improve the engagement in meaningful education, training or employment for young people with psychosis. This was undertaken by introducing a vocational specialist into the early intervention service to implement the individual placement and support (IPS) model.Methods: Two early intervention services provided information about the vocational status of their service users 6 and 1 months prior to the introduction of the vocational specialist into one of the services. Data were collected again 12 months following the intervention and then 6 months following the end of the intervention.Results: Unemployment was high in both services during the baseline period (approximately 75% in both), but in the service receiving the intervention this reduced to 62% whereas it remained high in the service that did not introduce the vocational specialist. Following the withdrawal of the vocational specialist the improvement was lost.Conclusions: To enable people in first-episode services to live meaningful and valued lives occupational functioning needs to be considered a key performance indicator. Services can improve outcome by implementing and maintaining the IPS model.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Psychosis"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Individual Placement and Support (IPS) model"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Unemployment rate",
+        "Occupational functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Psychosis",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS) model",
+      "Return-to-work programs",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Occupational functioning",
+      "Unemployment rate"
+    ]
+  }
+}

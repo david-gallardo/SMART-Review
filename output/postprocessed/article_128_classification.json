@@ -1,0 +1,82 @@
+{
+  "Article_ID": 128,
+  "Article_Title": "Cognitive remediation and occupational outcome in schizophrenia spectrum disorders: A 2 year follow-up study",
+  "Abstract": "Neurocognitive impairment is prominent in schizophrenia and a significant predictor of poor occupational outcomes. Vocational rehabilitation (VR) is frequently implemented to counteract high unemployment rates. Individuals with schizophrenia however face numerous challenges such as neurocognitive impairments and psychotic symptoms. Hence, augmenting VR to address illness-related factors may optimize occupational outcomes. The aim of this study was to examine the effects of Cognitive Remediation (CR) combined with VR(CR + VR) compared to techniques from Cognitive Behavioral Therapy (CBT) combined with VR(CBT VR) on neurocognition and occupational functioning over a 2 year period. A total of 131participants underwent assessment with the MATRICS Consensus Cognitive Battery (MCCB) at baseline, post treatment (after 10 months) and follow-up (2 years after randomization). Occupational status and number of hours worked were recorded at all assessment points. Both groups improved on several neurocognitive domains. All improvements were however in favor of the CR group. There was a significant increase in number of participants working and hours worked in both groups throughout the project period, with no between-group differences. Number of hours worked at follow-up was predicted by change in Working Memory and the Composite Score in the CR group. CR-augmented VR improved several domains, particularly Verbal Learning and Working Memory, which were central in the CR program. The combination of VR and CR or CBT thus enabled a significant proportion of participants to attain and maintain work. (C)2016 Elsevier B.V. All rights reserved.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Schizophrenia spectrum disorders"
+      ],
+      "intervention_type": [
+        "Cognitive Remediation",
+        "Vocational Rehabilitation"
+      ],
+      "outcome_measures": [
+        "Occupational functioning",
+        "Number of hours worked"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia spectrum disorders",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Cognitive Remediation",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Skills training",
+      "Vocational Rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Number of hours worked",
+      "Employment rate",
+      "Occupational functioning",
+      "Work functioning"
+    ]
+  }
+}

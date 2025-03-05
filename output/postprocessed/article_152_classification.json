@@ -1,0 +1,74 @@
+{
+  "Article_ID": 152,
+  "Article_Title": "Effectiveness of supported employment in non-trial routine implementation: systematic review and meta-analysis",
+  "Abstract": "PurposeWhile supported employment (SE) programs for people with mental illness have demonstrated their superiority in randomized controlled trials (RCTs) and meta-analyses, little is known about the effectiveness of non-trial routine programs. The primary objective of this study was to estimate a pooled competitive employment rate of non-trial SE programs by means of a meta-analysis. A secondary objective was to compare this result to competitive employment rates of SE programs in RCTs, prevocational training programs in RCTs and in routine implementation.MethodsA systematic review and a random-effects meta-analysis of proportions were conducted. Quality assessment was provided. Moderator analyses by subgroup comparisons were conducted.ResultsResults from 28 samples were included in the meta-analysis. The pooled competitive employment rate for SE routine programs was 0.43 (95% CI 0.37-0.50). The pooled competitive employment rates for comparison conditions were: SE programs in RCTs: 0.50 (95% CI 0.43-0.56); prevocational programs in RCTs: 0.22 (95% CI 0.16-0.28); prevocational programs in routine programs: 0.17 (95% CI 0.11-0.23). SE routine studies conducted prior to 2008 showed a significantly higher competitive employment rate.ConclusionSE routine programs lose only little effectiveness compared to SE programs from RCTs but are much more successful in reintegrating participants into the competitive labor market than prevocational programs. Labor market conditions have to be taken into account when evaluating SE programs.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "General mental health",
+        "Mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Prevocational training"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Mental illness"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Prevocational training"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

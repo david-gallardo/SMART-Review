@@ -1,0 +1,87 @@
+{
+  "Article_ID": 131,
+  "Article_Title": "Helping People Denied Disability Benefits for a Mental Health Impairment: The Supported Employment Demonstration",
+  "Abstract": "Social Security Administration demonstration projects that are intended to help people receiving disability benefits have increased employment but not the number of exits from disability programs. The Supported Employment Demonstration (SED) is a randomized controlled trial (RCT) of services for individuals with mental health problems before they enter disability programs. The SED aims to provide health, employment, and other support services that help them become self-sufficient and avoid entering disability programs. The target population is people who have been denied Social Security disability benefits for a presumed psychiatric impairment. Thirty community-based programs across the United States serve as treatment sites; inclusion in the SED was based on the existence of high-fidelity employment programs that use the individual placement and support model, the ability to implement team-based care, and the willingness to participate in a three-armed RCT. In the SED trial, onethird of 2,960 participants receive services as usual, onethird receive services from a multidisciplinary team that includes integrated supported employment, and one-third receive services from a similar team that also includes a nurse care coordinator for medication management support and medical care. The goals of the study are to help people find employment, attain better health, and delay or avoid disability program entry. This article introduces the SED. Psychiatric Services 2021; 72:1434-1440; doi: 10.1176/appi.ps.202000671",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental health impairment",
+        "Psychiatric impairment"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Integrated supported employment",
+        "Multidisciplinary team with nurse care coordinator"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia",
+      "Mental health impairment",
+      "Psychiatric impairment"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Multiple interventions",
+      "Integrated supported employment",
+      "Supported employment",
+      "Multidisciplinary team with nurse care coordinator"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Job retention",
+      "Employment rate",
+      "Work functioning"
+    ]
+  }
+}

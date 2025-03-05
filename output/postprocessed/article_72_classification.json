@@ -1,0 +1,97 @@
+{
+  "Article_ID": 72,
+  "Article_Title": "Cognitive Enhancement Treatment for People With Mental Illness Who Do Not Respond to Supported Employment: A Randomized Controlled Trial",
+  "Abstract": "Objective: Cognitive impairment presents a serious and common obstacle to competitive employment for people with severe mental illness, including those who receive supported employment. This study evaluated a cognitive enhancement program to improve cognition and competitive employment in people with mental illness who had not responded to supported employment.Method: In a randomized controlled trial, 107 people with severe mental illness (46% with schizophrenia or schizo-affective disorder) who had not obtained or kept competitive work despite receiving high-fidelity supported employment were assigned to receive either enhanced supported employment (with specialized cognitive training of employment specialists) or enhanced supported employment plus the Thinking Skills for Work program, a standardized cognitive enhancement program that includes practice of computer cognitive exercises, strategy coaching, and teaching of coping and compensatory strategies. Research assistants tracked competitive employment weekly for 2 years, and assessors blind to treatment assignment evaluated cognitive functioning at baseline, at the end of cognitive enhancement training, and 12 and 24 months after baseline.Results: Participants in the Thinking Skills for Work group improved more than those in the enhanced supported employment only group on measures of cognitive functioning and had consistently better competitive employment outcomes during the follow-up period, including in jobs obtained (60% compared with 36%), weeks worked (23.9 compared with 9.2), and wages earned ($3,421 compared with $1,728).Conclusions: The findings suggest that cognitive enhancement interventions can reduce cognitive impairments that are obstacles to work, there by increasing the number of people who can benefit from supported employment and competitive work.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Schizo-affective disorder"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Thinking Skills for Work"
+      ],
+      "outcome_measures": [
+        "Cognitive functioning",
+        "Competitive employment outcomes"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizo-affective disorder",
+      "CONDITION1",
+      "Schizophrenia",
+      "General mental health",
+      "CONDITION2"
+    ],
+    "Intervention_Type": [
+      "INTERVENTION2",
+      "Skills training",
+      "Supported employment",
+      "INTERVENTION1",
+      "Thinking Skills for Work"
+    ],
+    "Outcome_Measures": [
+      "OUTCOME1",
+      "Job retention",
+      "Income/earnings",
+      "Competitive employment outcomes",
+      "Employment rate",
+      "OUTCOME2",
+      "Cognitive functioning",
+      "Work functioning"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Article_ID": 102,
+  "Article_Title": "Predictors of work and education among people with severe mental illness who participated in the Danish individual placement and support study: findings from a randomized clinical trial",
+  "Abstract": "Purpose People with severe mental illness experience disproportionately high rates of unemployment. Nonetheless, a substantial amount of research has demonstrated vocational benefits of the Individual Placement and Support (IPS) model and IPS supplemented with cognitive remediation (IPSE). The present study sought to examine demographic and clinical predictors of employment or education among people with severe mental illness and to investigate if IPS or IPSE can compensate for risk factors for unemployment. Methods Seven hundred twenty participants were randomly assigned to IPS, IPSE or Service as Usual. During the 18-month follow-up period participants in the two experimental groups obtained significantly more work or education. A series of univariate and multiple logistic regression analyses were conducted to assess the predictive power of demographic and clinical factors for the total population and for the three groups individually. Results The strongest predictor for vocational recovery, besides treatment allocation, was previous work history (OR = 1.78; 95% CI = 1.28-2.47). Men had a lower probability for vocational recovery compared to women (OR = 0.71; 95% CI = 0.50-0.99) and higher age was also negatively associated with work or education (OR = 0.79; 95% CI = 0.67-0.93). Moreover, vocational recovery was predicted by higher readiness for change, measured on the readiness for change scale (OR = 1.42; 95% CI = 1.19-1.70). Participation in IPS or IPSE could not compensate for negative risk factors such as low cognitive function or negative symptoms. Conclusions In a multiple logistic regression analysis age, previous work history and motivation for change were statistically significant predictors of obtaining work or education among people with severe mental illness who participated in the Danish IPS trial.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)",
+        "Cognitive remediation (IPSE)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Education",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia",
+      "Severe mental illness"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Skills training",
+      "Supported employment",
+      "Individual Placement and Support (IPS)",
+      "Cognitive remediation (IPSE)"
+    ],
+    "Outcome_Measures": [
+      "Education",
+      "Work functioning",
+      "Employment rate"
+    ]
+  }
+}

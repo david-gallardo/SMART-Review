@@ -1,0 +1,81 @@
+{
+  "Article_ID": 20,
+  "Article_Title": "The effects of an interdisciplinary employment program on paid employment and mental health among persons with severe mental disorders",
+  "Abstract": "PurposeThis study evaluates the effects of the interdisciplinary employment program 'Work As Best Care (WABC)' on employment participation and mental health of persons with severe mental disorders.MethodsWABC is a 'work first' employment program for unemployed persons with severe mental disorders in which employment professionals work closely together with mental health professionals. In a longitudinal non-randomized controlled study, participants of WABC (n = 35) are compared with participants of the control group (n = 37), who received regular employment support. Participants were followed for 1 year and filled out questionnaires on individual characteristics and health at baseline, after 6 and 12 months. This information was enriched with monthly register data on employment status from 2015 until 2020. Difference-in-differences analyses were performed to investigate changes in employment participation among participants of WABC and the control group. A generalized linear mixed-effects model was used to compare changes in mental health (measured on 0-100 scale) between the two groups.ResultsBefore WABC, employment participation was 22.0%points lower among participants of WABC compared to the control group. After starting WABC, employment participation increased with 15.3%points per year among participants of WABC, compared to 5.6%points in the control group. Among all participants of WABC, no change in mental health was found (beta 1.0, 95% CI - 3.4; 5.5). Only female participants of WABC showed a significant change in mental health (beta 8.0, 95% CI 2.6; 13.4).ConclusionTo enhance employment participation of persons with severe mental disorders, an interdisciplinary 'work-first' approach in which professionals of employment services and mental health services work in close collaboration, is of paramount importance.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Severe mental disorders"
+      ],
+      "intervention_type": [
+        "Interdisciplinary employment program"
+      ],
+      "outcome_measures": [
+        "Employment participation",
+        "Mental health improvement"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Severe mental disorders",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Multiple interventions",
+      "Supported employment",
+      "Interdisciplinary employment program",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Employment participation",
+      "Employment rate"
+    ]
+  }
+}

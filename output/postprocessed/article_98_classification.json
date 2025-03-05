@@ -1,0 +1,104 @@
+{
+  "Article_ID": 98,
+  "Article_Title": "A Systematic Review and Meta-analysis of IPS Supported Employment for Young Adults with Mental Health Conditions",
+  "Abstract": "Young adults with mental health conditions want to work and advance their education, but many need help attaining these goals. Individual Placement and Support (IPS), originally developed for working-age adults with serious mental illness, is an evidence-based employment model that may benefit young adults. This study is the first systematic review and meta-analysis of randomized controlled trials (RCTs) of IPS for this population. We conducted a systematic review of the effectiveness of IPS for young adults with mental health conditions, supplementing our electronic search of the published literature with secondary analyses of two published RCTs. Using meta-analysis, we evaluated employment rate, job duration, and education rate. Seven studies met the inclusion criteria. Four evaluated IPS for young adults with early psychosis and three evaluated IPS for other young adult subgroups. All found a significantly higher employment rate for IPS than the control group. Overall, 208 (58.3%) of 357 IPS participants and 110 (32.4%) of 340 control participants were competitively employed during follow-up, yielding an overall risk ratio of 1.69 (95% CI 1.43, 1.99), z = 6.24, p < 0.001. Six of the seven studies also reported longer job duration for IPS than the control group, yielding an overall g = 0.34 (95% CI 0.09, 0.58), z = 2.72, p < 0.01. None of four RCTs examining education outcomes found a significant difference favoring IPS, but the overall risk ratio was significant: 1.33 (95% CI 1.06, 1.66), z = 2.51, p < 0.01. Although the empirical literature is limited, IPS appears to be effective in helping young adults with serious mental illness or early psychosis gain and keep competitive jobs. The impact of IPS on education outcomes is unclear. Future research should evaluate the generalizability of these findings to the broad range of young adults with mental health conditions needing help with their employment goals.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Anxiety",
+      "Multiple specific conditions",
+      "Bipolar",
+      "Schizophrenia",
+      "Personality disorders",
+      "Depression",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Job search assistance",
+      "Multiple interventions",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Skills training",
+      "Return-to-work programs"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Work functioning",
+      "Quality of life",
+      "Employment rate",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}

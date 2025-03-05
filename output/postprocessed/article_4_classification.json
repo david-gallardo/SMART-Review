@@ -28,7 +28,20 @@
       ],
       "outcome_measures": [
         "Employment rate",
-        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health",
+        "Other"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
         "Mental health improvement"
       ]
     },
@@ -43,22 +56,6 @@
       "outcome_measures": [
         "Employment rate",
         "Job retention",
-        "Anxiety about work",
-        "Self-efficacy"
-      ]
-    },
-    "mistral-small-24b-instruct-2501": {
-      "study_design": "Quasi-experimental",
-      "mental_health_condition": [
-        "General mental health",
-        "Anxiety"
-      ],
-      "intervention_type": [
-        "Supported employment"
-      ],
-      "outcome_measures": [
-        "Employment rate",
-        "Job retention",
         "Mental health improvement"
       ]
     }
@@ -66,20 +63,18 @@
   "Global_Results": {
     "Study_Design": "Quasi-experimental",
     "Mental_Health_Condition": [
-      "Autism",
-      "Anxiety",
+      "General mental health",
       "Autism Spectrum Disorder",
-      "General mental health"
+      "Autism",
+      "Other"
     ],
     "Intervention_Type": [
       "Supported employment"
     ],
     "Outcome_Measures": [
-      "Job retention",
-      "Anxiety about work",
-      "Self-efficacy",
       "Mental health improvement",
-      "Work functioning",
+      "Self-efficacy",
+      "Job retention",
       "Employment rate"
     ]
   }

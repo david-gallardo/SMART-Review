@@ -33,18 +33,6 @@
         "Mental health improvement"
       ]
     },
-    "phi-3-mini-4k-instruct": {
-      "study_design": "Error",
-      "mental_health_condition": [
-        "Error"
-      ],
-      "intervention_type": [
-        "Error"
-      ],
-      "outcome_measures": [
-        "Error"
-      ]
-    },
     "mistral-small-24b-instruct-2501": {
       "study_design": "RCT",
       "mental_health_condition": [
@@ -52,35 +40,58 @@
         "Anxiety"
       ],
       "intervention_type": [
-        "Other"
+        "Workplace accommodations",
+        "Return-to-work programs"
       ],
       "outcome_measures": [
         "Employment rate",
         "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
       ]
     }
   },
   "Global_Results": {
     "Study_Design": "RCT",
     "Mental_Health_Condition": [
-      "Stress-related symptoms",
+      "CONDITION2",
+      "CONDITION1",
       "Anxiety",
-      "Common mental disorders",
-      "General mental health"
+      "Stress-related symptoms",
+      "General mental health",
+      "Common mental disorders"
     ],
     "Intervention_Type": [
-      "Skills training",
+      "Workplace accommodations",
+      "INTERVENTION2",
       "Problem-solving based intervention",
-      "Care-as-usual",
-      "Other",
-      "Supported employment"
+      "Skills training",
+      "Return-to-work programs",
+      "Supported employment",
+      "INTERVENTION1",
+      "Care-as-usual"
     ],
     "Outcome_Measures": [
+      "OUTCOME1",
       "Mental health",
+      "Employment rate",
       "Mental health improvement",
       "Registered sickness absence",
-      "Work ability",
-      "Employment rate"
+      "OUTCOME2",
+      "Work ability"
     ]
   }
 }

@@ -1,0 +1,93 @@
+{
+  "Article_ID": 54,
+  "Article_Title": "Long-term effects on income and sickness benefits after work-focused cognitive-behavioural therapy and individual job support: a pragmatic, multicentre, randomised controlled trial",
+  "Abstract": "Background There is moderate quality evidence that integrating work-directed interventions and components from psychological therapies reduces sickness absence in the medium term. We aimed to extend this evidence by examining objectively ascertained income and work participation status up to 4years after an intervention to improve outcomes among people who struggle with work from common mental disorder.Methods The intervention combined components from cognitive behavioural therapy with principles from supported employment, and compared its efficacy with usual care. Outcomes were derived from registry data with no attrition, in a pragmatic multisite randomised controlled trial (N=1193).Results The intervention group had higher income, higher work participation and more months without receiving benefits over the 10-month to 46-month long-term follow-up period after end of treatment, but differences were not statistically significant. For the group on long-term benefits at inclusion, effect sizes were larger and statistically significant.Conclusion There were no statistically significant differences between the two groups in the primary outcome in the total population. In a secondary analysis for the subgroup most at risk of permanent work exclusion, long-term outcomes were favourable in the intervention group compared with usual care. The results support integrated work and health services for people on the severe end of work participation challenges.Trial registration numberNCT01146730.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Common mental disorder"
+      ],
+      "intervention_type": [
+        "Work-focused cognitive-behavioural therapy",
+        "Individual job support"
+      ],
+      "outcome_measures": [
+        "Income",
+        "Work participation",
+        "Months without receiving benefits"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Income/earnings",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Income/earnings",
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "trial_registration_number": "NCT01146730"
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION1",
+      "General mental health",
+      "Common mental disorder",
+      "CONDITION2"
+    ],
+    "Intervention_Type": [
+      "Individual job support",
+      "Skills training",
+      "Work-focused cognitive-behavioural therapy",
+      "INTERVENTION2",
+      "Supported employment",
+      "INTERVENTION1"
+    ],
+    "Outcome_Measures": [
+      "Income",
+      "OUTCOME2",
+      "Employment rate",
+      "Work participation",
+      "OUTCOME1",
+      "Months without receiving benefits",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}

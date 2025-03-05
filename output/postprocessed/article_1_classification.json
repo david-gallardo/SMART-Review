@@ -10,23 +10,18 @@
         "Anxiety",
         "Schizophrenia",
         "Bipolar",
-        "Personality disorders",
-        "General mental health"
+        "Personality disorders"
       ],
       "intervention_type": [
         "Supported employment",
         "Vocational rehabilitation",
         "Job search assistance",
         "Skills training",
-        "Workplace accommodations",
-        "Return-to-work programs",
-        "Multiple interventions"
+        "Workplace accommodations"
       ],
       "outcome_measures": [
         "Employment rate",
         "Job retention",
-        "Income/earnings",
-        "Work functioning",
         "Mental health improvement",
         "Quality of life"
       ]
@@ -35,7 +30,7 @@
       "study_design": "RCT",
       "mental_health_condition": [
         "Schizophrenia",
-        "Depression"
+        "General mental health"
       ],
       "intervention_type": [
         "Supported employment",
@@ -49,26 +44,25 @@
     "phi-3-mini-4k-instruct": {
       "study_design": "RCT",
       "mental_health_condition": [
-        "Serious Mental Illness"
+        "Serious mental illnesses"
       ],
       "intervention_type": [
-        "Vocational Empowerment Photovoice"
+        "Vocational Empowerment Photovoice (VEP)"
       ],
       "outcome_measures": [
-        "Enrollment in Employment Services",
-        "Employment Rates",
-        "Work Hope",
-        "Work Self-Efficacy",
-        "Vocational Identity",
-        "Overall Empowerment",
-        "Internalized Stigma"
+        "Enrollment in employment services",
+        "Employment rates",
+        "Work hope",
+        "Self-efficacy",
+        "Vocational identity",
+        "Overall empowerment",
+        "Internalized stigma"
       ]
     },
     "mistral-small-24b-instruct-2501": {
       "study_design": "RCT",
       "mental_health_condition": [
-        "General mental health",
-        "Multiple specific conditions"
+        "General mental health"
       ],
       "intervention_type": [
         "Supported employment",
@@ -76,48 +70,42 @@
       ],
       "outcome_measures": [
         "Employment rate",
-        "Mental health improvement",
-        "Work functioning"
+        "Mental health improvement"
       ]
     }
   },
   "Global_Results": {
     "Study_Design": "RCT",
     "Mental_Health_Condition": [
-      "Serious Mental Illness",
-      "Bipolar",
+      "General mental health",
       "Anxiety",
       "Depression",
-      "Multiple specific conditions",
-      "Personality disorders",
-      "General mental health",
-      "Schizophrenia"
+      "Bipolar",
+      "Serious mental illnesses",
+      "Schizophrenia",
+      "Personality disorders"
     ],
     "Intervention_Type": [
-      "Supported employment",
-      "Multiple interventions",
-      "Other",
       "Workplace accommodations",
-      "Vocational rehabilitation",
-      "Vocational Empowerment Photovoice",
-      "Return-to-work programs",
       "Skills training",
-      "Job search assistance"
+      "Vocational rehabilitation",
+      "Vocational Empowerment Photovoice (VEP)",
+      "Supported employment",
+      "Job search assistance",
+      "Other"
     ],
     "Outcome_Measures": [
-      "Mental health improvement",
-      "Income/earnings",
-      "Job retention",
-      "Work Self-Efficacy",
-      "Vocational Identity",
-      "Internalized Stigma",
-      "Overall Empowerment",
-      "Work Hope",
+      "Vocational identity",
       "Employment rate",
-      "Enrollment in Employment Services",
+      "Work hope",
+      "Mental health improvement",
+      "Overall empowerment",
+      "Enrollment in employment services",
       "Quality of life",
-      "Employment Rates",
-      "Work functioning"
+      "Job retention",
+      "Self-efficacy",
+      "Internalized stigma",
+      "Employment rates"
     ]
   }
 }

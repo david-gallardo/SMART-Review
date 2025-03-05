@@ -1,0 +1,81 @@
+{
+  "Article_ID": 118,
+  "Article_Title": "Individual Placement and Support (IPS) for Methadone Maintenance Therapy Patients: A Pilot Randomized Controlled Trial",
+  "Abstract": "Individual Placement and Support (IPS) is an evidence-based employment model for people with severe mental illness, but it has not been evaluated for clients enrolled in substance abuse treatment programs. This study evaluated the effectiveness of IPS for people with opioid use disorders enrolled in an opioid treatment program. Within a randomized controlled experiment, 45 patients receiving methadone maintenance therapy were assigned to either IPS or a 6-month waitlist. The waitlist group received IPS after 6 months. The primary outcome assessed over 1 year compared the attainment of a job for the IPS condition to the waitlist comparison group. During the first 6 months after enrollment, 11 (50%) active IPS participants gained competitive employment compared to 1 (5%) waitlist participant (I (2) = 12.0, p < 0.001). Over 12 months of enrollment, 11 (50%) IPS participants gained competitive employment compared to 5 (22%) waitlist participants (I (2) = 3.92, p = 0.07). We conclude that IPS holds promise as an employment intervention for people with opioid use disorders in methadone maintenance treatment, but larger trials with longer follow-up are needed.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Opioid use disorder",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Other",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "opioid use disorder"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "job attainment",
+        "job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "opioid use disorder",
+      "Other",
+      "Opioid use disorder",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS)",
+      "Supported employment",
+      "Return-to-work programs"
+    ],
+    "Outcome_Measures": [
+      "job attainment",
+      "Employment rate",
+      "job retention",
+      "Job retention"
+    ]
+  }
+}

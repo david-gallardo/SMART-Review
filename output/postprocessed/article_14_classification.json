@@ -1,0 +1,74 @@
+{
+  "Article_ID": 14,
+  "Article_Title": "A multi-site randomised controlled trial of evidence-based supported employment for adults with severe and persistent mental illness",
+  "Abstract": "Background/aimThe Individual Placement and Support (IPS) approach is an evidence-based form of supported employment for people with severe and persistent mental illness. This approach is not yet widely available in Australia even though there is mounting evidence of its generalisability outside the USA. One previous Australian randomised controlled trial found that IPS is effective for young people with first episode psychosis. The aim of the current trial was to assess the effectiveness of evidence-based supported employment when implemented for Australian adult consumers of public mental health services by utilising existing service systems.MethodsA four-site randomised control trial design (n=208) was conducted in Brisbane (two sites), Townsville and Cairns. The intervention consisted of an IPS supported employment service hosted by a community mental health team. The control condition was delivered at each site by mental health teams referring consumers to other disability employment services in the local area.ResultsAt 12months, those in the IPS condition had 2.4 times greater odds of commencing employment than those in the control condition (42.5% vs. 23.5%). The conditions did not differ on secondary employment outcomes including job duration, hours worked, or job diversity. Attrition was higher than expected in both conditions with 28.4% completing the baseline interview but taking no further part in the study.ConclusionThe results support previous international findings that IPS-supported employment is more effective than non-integrated supported employment. IPS can be successfully implemented this way in Australia, but with a loss of effect strength compared to previous USA trials.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe and persistent mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe and persistent mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Severe and persistent mental illness",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

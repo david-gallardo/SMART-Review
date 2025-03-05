@@ -1,0 +1,83 @@
+{
+  "Article_ID": 80,
+  "Article_Title": "On the effects of active labour market policies among individuals reporting to have severe mental health problems",
+  "Abstract": "On the one hand, unemployment is known to have detrimental effects on individuals' mental health. On the other hand, poor mental health reduces re-employment chances quite drastically, creating a vicious cycle. Active labour market policies (ALMPs) such as training programs or wage subsidies have been shown to ameliorate negative effects on mental health and improve labour market integration on average for the general unemployed population. In the context of individuals with severe mental health issues, however, it is unclear whether these interventions can be expected to deliver similar positive effects. In fact, one may argue that they have the potential to worsen employment prospects of individuals by adding additional stress to their pre-existing mental health problems. Hence, this paper estimates the long-term causal effects of ALMPs on the labour market integration of individuals with self-reported severe mental health issues and compares estimates to individuals without such issues using unique combined survey and administrative data. Effects are estimated using the innovative double machine learning method and show that ALMPs do not only improve labour market integration of unemployed individuals with severe mental health issues, but they do so more effectively than for other unemployed individuals.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health",
+        "Severe mental health issues"
+      ],
+      "intervention_type": [
+        "Active labour market policies"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Depression",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia",
+      "Severe mental health issues",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Return-to-work programs",
+      "Active labour market policies",
+      "Workplace accommodations",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Article_ID": 76,
+  "Article_Title": "An RCT of Virtual Reality Job Interview Training for Individuals With Serious Mental Illness in IPS Supported Employment",
+  "Abstract": "Objective: Virtual Reality Job Interview Training (VR-JIT) is a computerized interview simulator with efficacy at enhancing interview skills and employment outcomes. A randomized controlled trial assessed VR-JIT effectiveness for participants in individual placement and support (IPS), in which approxi-mately 55% of individuals with serious mental illness obtain employment. Methods: Ninety participants with serious mental illness were randomly assigned to IPS+VR-JIT (N=54) or IPS as usual (N=36), completing pretest-posttest assessments and an employment evaluation at 9 months. Intent-to-treat chi-square analysis, multivariable logistic regression, Cox proportional hazards models, and mixed-effects linear regressions were conducted. Fifty-one percent were IPS nonresponders (i.e., no employment within the first 90 days of IPS). Results: IPS+VR-JIT participants did not have significantly higher employment rates, compared with IPS-as-usual participants (43% versus 28%). IPS nonresponders (N=46) in the IPS+VR-JIT group had greater odds of obtaining employment (odds ratio [OR]=5.82, p=0.014) and shorter time to em-ployment (hazard ratio=2.70, p=0.044) compared with IPS nonresponders in the IPS-as-usual group. Intent-to-treat mixed-effects linear analyses indicated that IPS+VR-JIT, compared with IPS as usual, significantly improved inter-view skills (p=0.006), interview confidence (p=0.013), and interview anxiety (p=0.019). Conclusions: VR-JIT's potential benefits (increased employ-ment in a shorter time) appeared to be specific to IPS non -responders, whereas employment outcomes for recent IPS enrollees were not affected. VR-JIT could be a valuable re-source for employment specialists to support IPS non -responders, because 47% of participants engaged in mock interview training with their specialist. Future research should focus on evaluating the effectiveness and implementation of VR-JIT among IPS nonresponders.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Serious mental illness"
+      ],
+      "intervention_type": [
+        "Virtual Reality Job Interview Training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Time to employment",
+        "Interview skills",
+        "Interview confidence",
+        "Interview anxiety"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Serious mental illness",
+      "Schizophrenia",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Virtual Reality Job Interview Training",
+      "Skills training",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Interview confidence",
+      "Time to employment",
+      "Work functioning",
+      "Interview skills",
+      "Employment rate",
+      "Interview anxiety"
+    ]
+  }
+}

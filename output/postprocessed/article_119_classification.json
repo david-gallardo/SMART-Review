@@ -1,0 +1,93 @@
+{
+  "Article_ID": 119,
+  "Article_Title": "Individual Placement and Support in Sweden-A randomized controlled trial",
+  "Abstract": "Background: Currently there is no evidence on the effectiveness of Individual Placement and Support (IPS) in Sweden. Aims: To determine the effectiveness of IPS on vocational outcomes among people with severe mental illness (SMI) in a Swedish context. A secondary aim was to evaluate a community integration effect. Methods: A randomized controlled trial with a parallel design was used. Mental health outpatients with SMI were randomized to IPS or traditional vocational rehabilitation (TVR) services. The allocation status was assessor-blinded. The primary outcome was competitive employment. All vocational outcomes were collected continuously, and socio-demographic and clinical variables at baseline, 6 and 18 months. The trial is registered with ClinicalTrials.gov: NCT00960024. Results: One hundred and twenty participants were randomized. Eighty seven per cent were assessed after 6 months, and 73% after 18 months. IPS was more effective than TVR in terms of gaining employment at 18-month follow-up (46% vs. 11%; difference 36%, 95% CI 18-54), along with the amount of working hours and weeks, longer job tenure periods and income. Cox regression analysis showed that IPS participants gained employment five times quicker than those in TVR. Ninety per cent of the IPS participants became involved in work, internships or education, i.e. activities integrated in mainstream community settings, while 24% in the TVR group achieved this. Conclusions: IPS is effective in a Swedish context in terms of gaining employment and becoming integrated within the local community. The welfare system presented obstacles for gaining competitive employment directly and it was indicated that internships delayed time to first competitive employment.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support",
+        "Traditional vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental illness"
+      ],
+      "intervention_type": [
+        "Workplace accommodation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Job satisfaction"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia",
+      "Severe mental illness",
+      "Mental illness"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support",
+      "Vocational rehabilitation",
+      "Supported employment",
+      "Workplace accommodation",
+      "Traditional vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Income",
+      "Work functioning",
+      "Job satisfaction",
+      "Job retention",
+      "Employment rate",
+      "Income/earnings"
+    ]
+  }
+}

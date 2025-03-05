@@ -1,0 +1,76 @@
+{
+  "Article_ID": 28,
+  "Article_Title": "Predictors of Return to Work for People with Anxiety or Depression Participating in a Randomized Trial Investigating the Effect of a Supported Employment Intervention",
+  "Abstract": "Purpose Common mental disorders have a severe impact on society and individuals; rates of unemployment and disability pensions are high. Knowing which factors facilitate or hinder people's return to work is important when designing effective vocational rehabilitation interventions. Methods We conducted secondary analyses on data from 289 participants with depression or anxiety included in the Individual Placement and Support modified for people with mood and anxiety disorders (IPS-MA) trial. Associations of baseline characteristics and employment or education after 24 months were tested in univariate logistic regression analyses, variables with a p-value below 0.1 were included in multivariate analyses. Results In the univariate analyses, self-reported level of functioning (p = 0.032), higher age (p = 0.070), and higher level of readiness to change (p = 0.001) were associated with the outcome and included in the multivariate analysis. Only age (p = 0.030) and readiness to change (p = 0.003) remained significantly associated with return to work or education after 24 months in the multivariate analysis. Conclusion Higher age and lower readiness to change were associated with a lower chance of having returned to work or education. Factors modifying the effect of higher age should be identified, just as vocational rehabilitation should focus on improving factors related to people's readiness to change.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Anxiety",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Return to work",
+        "Education"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Return to work",
+        "Education"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Depression",
+      "Anxiety"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Return to work",
+      "Education"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Article_ID": 147,
+  "Article_Title": "Does Competitive Work Improve Quality of Life for Adults with Severe Mental Illness? Evidence from a Randomized Trial of Supported Employment",
+  "Abstract": "A randomized trial comparing a facility-based Clubhouse (N = 83) to a mobile Program of Assertive Community Treatment (PACT; N = 84) tested the widely held belief that competitive employment improves global quality of life for adults with severe mental illness. Random regression analyses showed that, over 24 months of study participation, competitively employed Clubhouse participants reported greater global quality of life improvement, particularly with the social and financial aspects of their lives, as well as greater self-esteem and service satisfaction, compared to competitively employed PACT participants. However, there was no overall association between global quality of life and competitive work, or work duration. Future research will determine whether these findings generalize to other certified Clubhouses or to other types of supported employment. Multi-site studies are needed to identify key mechanisms for quality of life improvement in certified Clubhouses, including the possibly essential role of Clubhouse employer consortiums for providing high-wage, socially integrated jobs.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Quality of life",
+        "Self-esteem",
+        "Service satisfaction"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Quality of life",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "severe mental illness"
+      ],
+      "intervention_type": [
+        "supported employment",
+        "Program of Assertive Community Treatment (PACT)"
+      ],
+      "outcome_measures": [
+        "global quality of life",
+        "self-esteem",
+        "service satisfaction"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Severe mental illness",
+      "General mental health",
+      "severe mental illness",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "supported employment",
+      "Program of Assertive Community Treatment (PACT)",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Service satisfaction",
+      "service satisfaction",
+      "Self-esteem",
+      "Quality of life",
+      "self-esteem",
+      "Mental health improvement",
+      "global quality of life"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Article_ID": 66,
+  "Article_Title": "A Randomized Controlled Trial Evaluating the Effectiveness of Supported Employment Integrated in Primary Care",
+  "Abstract": "Objectives: Mental health issues can cause serious problems in occupational functioning, including higher rates of unemployment. Individual placement and support (IPS) is an evidence-based supported employment intervention that is typically integrated within a mental health setting; however, many primary care patients view referral to a mental health clinic as stigmatizing. Thus, this study examined whether delivery of IPS in a primary care setting provides an effective treatment option and avoids unnecessary delays in obtaining competitive employment.Methods: U.S. military veterans (N=119) who had a diagnosis in a broad range of nonpsychotic psychiatric disorders and who were receiving care from Veterans Health Administration (VHA) patient-aligned care teams were prospectively randomly assigned to IPS (N=58) or standard VHA non-IPS vocational rehabilitation (VR) (N=61). The primary outcome was achievement of steady worker status, defined as holding a competitive job for >= 6 months of the 12-month follow-up.Results: As hypothesized, a significantly greater proportion of IPS participants achieved steady worker status (45%), compared with VR participants (25%) (p=0.02; odds ratio=2.49, 95% confidence interval=1.14-5.43). On average, the IPS participants worked significantly more weeks (p= 0.003) and earned significantly more income (p=0.033) from competitive jobs, compared with VR participants.Conclusions: The results provide supporting evidence for offering IPS within primary care with the aim of restoring meaningful and sustained competitive employment for veterans living with a mental disorder. Such modifications could improve veterans' vocational outcomes, moving a significantly greater number of disabled veterans back to full and productive lives in the community.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Nonpsychotic psychiatric disorders"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Nonpsychotic psychiatric disorders"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Nonpsychotic psychiatric disorders",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Income/earnings",
+      "Work functioning"
+    ]
+  }
+}

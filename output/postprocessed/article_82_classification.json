@@ -1,0 +1,83 @@
+{
+  "Article_ID": 82,
+  "Article_Title": "Which Factors Influence the Success of Supported Employment?",
+  "Abstract": "Objectives: Main goal of this review is to identify predictive factors for the outcome of Individual Placement and Support (IPS) with a focus on Supported Employment (SE) and of pre-vocational training (PVT) of individuals with mental illness.Method: A systematic search of PsychInfo, PubMed, PsychIndex and PsyArticles was conducted. Studies were included if they compared both approaches, SE and PVT, contained predictors to optimize SE or PVT, investigated the effectiveness of SE or examined what constitutes adequate job coaching.Results: 45 articles have been included. 27 articles referred to predictors that influence the outcome of SE or PVT, 9 showed a direct comparison between both approaches, 5 investigated job coaching and 4 examined the effectiveness of SE. In summary motivation, work experience and high fidelity of IPS criteria seem to be the most important predictors for a successful job reintegration using SE.Discussion: Overall, SE is more effective than PVT. The success of SE can be enhanced by keeping the predictors in mind. However, future research should focus more specifically on predictors.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported Employment",
+        "Pre-vocational Training"
+      ],
+      "outcome_measures": [
+        "Success of job reintegration",
+        "Effectiveness of Supported Employment",
+        "Job coaching"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Pre-vocational Training",
+      "Vocational rehabilitation",
+      "Skills training",
+      "Supported employment",
+      "Supported Employment"
+    ],
+    "Outcome_Measures": [
+      "Job coaching",
+      "Effectiveness of Supported Employment",
+      "Job retention",
+      "Employment rate",
+      "Work functioning",
+      "Success of job reintegration"
+    ]
+  }
+}

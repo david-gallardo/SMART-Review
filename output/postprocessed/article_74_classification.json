@@ -1,0 +1,91 @@
+{
+  "Article_ID": 74,
+  "Article_Title": "The effects of supported employment interventions in populations of people with conditions other than severe mental health: a systematic review",
+  "Abstract": "Aim: To assess the effectiveness of supported employment interventions for improving competitive employment in populations of people with conditions other than only severe mental illness. Background: Supported employment interventions have been extensively tested in severe mental illness populations. These approaches may be beneficial outside of these populations. Methods: We searched PubMed, Embase, CINAHL, PsycInfo, Web of Science, Scopus, JSTOR, PEDro, OTSeeker, and NIOSHTIC for trials including unemployed people with any condition and including severe mental illness if combined with other co-morbidities or other specific circumstances (e.g., homelessness). We excluded trials where inclusion was based on severe mental illness alone. Two reviewers independently assessed risk of bias (RoB v2.0) and four reviewers extracted data. We assessed rates of competitive employment as compared to traditional vocational rehabilitation or waiting list/services as usual. Findings: Ten randomised controlled trials (913 participants) were included. Supported employment was more effective than control interventions for improving competitive employment in seven trials: in people with affective disorders [risk ratio (RR) 10.61 (1.49, 75.38)]; mental disorders and justice involvement [RR 4.44 (1.36,14.46)]; veterans with posttraumatic stress disorder (PTSD) [RR 2.73 (1.64, 4.54)]; formerly incarcerated veterans [RR 2.17 (1.09, 4.33)]; people receiving methadone treatment [RR 11.5 (1.62, 81.8)]; veterans with spinal cord injury at 12 months [RR 2.46 (1.16, 5.22)] and at 24 months [RR 2.81 (1.98, 7.37)]; and young people not in employment, education, or training [RR 5.90 (1.91-18.19)]. Three trials did not show significant benefits from supported employment: populations of workers with musculoskeletal injuries [RR 1.38 (1.00, 1.89)]; substance abuse [RR 1.85 (0.65, 5.41)]; and formerly homeless people with mental illness [RR 1.55 (0.76, 3.15)]. Supported employment interventions may be beneficial to people from more diverse populations than those with severe mental illness alone. Defining competitive employment and increasing (and standardising) measurement of non-vocational outcomes may help to improve research in this area.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Other conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "effective_populations": [
+        "POPULATION1",
+        "POPULATION2"
+      ],
+      "ineffective_populations": [
+        "POPULATION3",
+        "POPULATION4"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION1",
+      "General mental health",
+      "Multiple specific conditions",
+      "CONDITION2",
+      "Other conditions"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "INTERVENTION2",
+      "INTERVENTION1"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "OUTCOME2",
+      "Employment rate",
+      "OUTCOME1"
+    ]
+  }
+}

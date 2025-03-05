@@ -1,0 +1,86 @@
+{
+  "Article_ID": 115,
+  "Article_Title": "EMPLOYMENT OUTCOMES FOR PEOPLE WITH SCHIZOPHRENIA SPECTRUM DISORDER: A META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS",
+  "Abstract": "Access to employment plays a critical role in the recovery and functioning of people with schizophrenia. We have investigated the effectiveness of treatments to enhance employment outcomes for people with schizophrenia and evaluated the potential moderators of these outcomes. A literature search was conducted in CINAHL, Cochrane Databases, MEDLINE, ProQuest XML, PsycINFO, Scopus, and Web of Science. Grey literature databases, references lists of the retrieved articles and specialized journals in the field were also inspected. Job placement, job tenure and wages earned were tested. Risk ratios were extracted for job placement and standardized mean differences were calculated for job tenure and wages earned. Twenty-five randomized controlled trials published between 1986 and December 2015 were analyzed. Engaging in a vocational intervention increases the likelihood of obtaining a competitive job (risk ratio (RR) = 2.31, 95% confidence interval (CI): 1.85-2.88) and has a positive impact on hours worked in any job (standardized mean difference (SMD) = 0.42, 95% CI: 0.16-0.68). There was no evidence of intervention efficacy with regard to wages earned from competitive employment. Participation in rehabilitative vocational treatment is not sufficient to ensure work participation for people with schizophrenia. Comprehensive treatments are necessary to address functional deficits that hinder labor stability and job performance for people with schizophrenia.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job tenure",
+        "Wages earned"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT (Randomized Controlled Trial)",
+      "mental_health_condition": [
+        "Schizophrenia Spectrum Disorder"
+      ],
+      "intervention_type": [
+        "Vocational Rehabilitation"
+      ],
+      "outcome_measures": [
+        "Job Placement",
+        "Job Tenure",
+        "Wages Earned"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Schizophrenia Spectrum Disorder"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Vocational Rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Wages Earned",
+      "Job tenure",
+      "Income/earnings",
+      "Wages earned",
+      "Employment rate",
+      "Job Tenure",
+      "Job Placement",
+      "Job retention"
+    ]
+  }
+}

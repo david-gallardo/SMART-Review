@@ -1,0 +1,104 @@
+{
+  "Article_ID": 94,
+  "Article_Title": "When Non-Compliance Carries the Day: Evaluating the Effectiveness of an Employment Program for the Severely Mentally Ill",
+  "Abstract": "Background: Mental disease is increasing worldwide and people who suffer from it show lower employment rates and lower earnings. Various approaches have been tried to increase the employment rate of people with mental disease. In the US, empirical studies show that individual placement and support(IPS)-a rapid transition to the job market, with some external assistance-is effective in increasing the employment rate of the mentally ill. Europe lacks such evidence. Purpose: The study assesses the impact of an IPS-like program undertaken in Italy on the employment rate of people with severe mental illness. Methods: The analysis is based on a RCT that tests whether offering people with severe mental illness the support of a job coach increases their chances of being employed. Moreover, using a battery of tests-one of which is made available by the RCT itself-we show that the large non-compliance with the protocol showed by the RCT is ignorable. This motivates estimating the impact of carrying out a traineeship during the experimental period on employment using non-experimental methods. Results and Conclusions: The study finds that the availability of a coach boosts the patients' chances of finding a traineeship during the experimental period; moreover, undertaking a traineeship almost doubles the likelihood of being at work one year later. JEL CODES: J78, J48, J38",
+  "Model_Results": {
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Job search assistance"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Bipolar",
+      "Anxiety",
+      "General mental health",
+      "Personality disorders",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Skills training",
+      "Supported employment",
+      "Return-to-work programs",
+      "Workplace accommodations",
+      "Vocational rehabilitation",
+      "Job search assistance"
+    ],
+    "Outcome_Measures": [
+      "Quality of life",
+      "Employment rate",
+      "Mental health improvement",
+      "Income/earnings",
+      "Work functioning",
+      "Job retention"
+    ]
+  }
+}

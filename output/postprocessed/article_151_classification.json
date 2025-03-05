@@ -1,0 +1,88 @@
+{
+  "Article_ID": 151,
+  "Article_Title": "Vocational interventions to help adults with long-term health conditions or disabilities gain and maintain paid work: an overview of systematic reviews",
+  "Abstract": "Objective To conduct an overview of systematic reviews to examine the effectiveness of vocational interventions to help adults with long-term health conditions or disability gain and maintain new paid work and to analyse the spread and quality of evidence in this area. Methods We pre-published our protocol in PROSPERO (CRD42019132448). We searched Cochrane Database of Systematic Reviews, MEDLINE, EMBASE, PsycINFO, AMED, CINAHL, Proquest Dissertations and Theses database, NICE and Business Source Complete from inception to 21 August 2020. We included any systematic reviews of clinical trials on vocational interventions for adults with long-term health conditions or disability who were not in work or had recently gained work. We excluded reviews of vocational interventions for employed people on sick leave. Two researchers identified, critically appraised,using A MeaSurement Tool to Assess systematic Reviews (AMSTAR) 2, and extracted data from included reviews. We used Grading of Recommendations Assessment, Development and Evaluation to evaluate strength of evidence underpinning overview findings. Results We identified 26 reviews (5 high-quality and 21 critically low to moderate quality) that focused on vocational interventions for acquired brain injury, autism, intellectual disability, multiple sclerosis, mental health conditions, spinal cord injury and general disability populations. We identified moderate quality evidence that people with moderate to severe mental health conditions who participate in supported employment, particularly individual placement and support, are more likely to gain competitive employment compared with people who receive traditional vocational services (risk ratio 2.07; 95% CI 1.82 to 2.35; 27 studies, 6651 participants). We found only very low-quality to low-quality evidence on vocational intervention for people with any other health condition. We found little to no data on employer or employee satisfaction with work outcomes or the cost effectiveness of interventions. Conclusion Given the importance placed on work opportunities for people with long-term health conditions or disability, there is urgent need for more high-quality research on vocational interventions for this population. Prospero registration number CRD42019132448.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Mental health conditions",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Multiple specific conditions",
+      "CONDITION2",
+      "CONDITION1",
+      "Mental health conditions"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "INTERVENTION2",
+      "Supported employment",
+      "INTERVENTION1"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Mental health improvement",
+      "OUTCOME2",
+      "OUTCOME1",
+      "Job retention"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "Article_ID": 123,
+  "Article_Title": "Evaluation of a Statewide Implementation of Supported Employment in Massachusetts",
+  "Abstract": "Objective: Randomized controlled trials (RCT) have shown supported employment (SE) to be an evidence-based practice (EBP) for people with psychiatric disabilities. Whether SE implemented under real-world conditions achieves outcomes comparable to RCTs is an important question for the psychiatric rehabilitation field. We examined employment outcomes achieved by SE programs in Massachusetts, and in particular examined whether fidelity to EBP standards was associated with outcomes. Method: We examined outcomes for 3,474 clients served by 21 programs between 1997 and 2006, using multiple sources of data, including a client tracking database maintained by the SE programs as well as program site visits to assess fidelity to EBP standards. Using Generalized Estimating Equations, we modeled associations of client factors (demographics, diagnosis), program fidelity and other program factors to: (a) obtaining a job within 1 year of program enrollment; and among those obtaining jobs, (b) working 20 hours/week or more; and (c) earning $9/hr or more. Results: There were 51% of clients who obtained a job within 1 year of enrollment. Clients served by high fidelity programs were more likely to obtain jobs (OR = 1.45) and to work 20 hr/week or more (OR = 1.52); fidelity was unrelated to wages. Conclusions and Implications for Practice: This study contributes to the evidence that real-world programs can implement SE with fidelity and achieve outcomes on par with those found in RCTs, and that fidelity makes a difference in the outcomes programs achieve. High fidelity programs may be most effective in helping clients acquire jobs and maximize the hours they work.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Bipolar",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Work functioning",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}
