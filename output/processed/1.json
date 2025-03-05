@@ -6,9 +6,9 @@
     "DOI": "10.1682/JRRD.2013.05.0114",
     "Model Results": {
         "llama-3.2-3b-instruct": {
-            "inclusion_decision": "Excluded",
-            "reason": "The study design is a population-based analysis using clinical administrative data, which lacks a rigorous evaluation and control group.",
-            "study_design": "Population-based analysis",
+            "inclusion_decision": "Included",
+            "reason": "The study design is a population-based analysis using clinical administrative data, which meets the inclusion criteria. The study examines the reach of employment services among VHA patients with psychiatric diagnoses, which aligns with the intervention and population criteria. The outcomes presented include employment rates and types of employment services received.",
+            "study_design": "Population-based analysis using clinical administrative data",
             "logprobs": null
         },
         "qwen2.5-7b-instruct-1m": {
@@ -25,8 +25,8 @@
         },
         "mistral-small-24b-instruct-2501": {
             "inclusion_decision": "Excluded",
-            "reason": "The study does not include a control group and lacks a rigorous evaluation.",
-            "study_design": "Observational study",
+            "reason": "The study is not conducted in one of the specified geographic locations (EU countries, Europe, US, Canada, Australia).",
+            "study_design": "Quasi-experimental",
             "logprobs": null
         }
     }

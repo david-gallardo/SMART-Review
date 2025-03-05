@@ -7,20 +7,20 @@
     "Model Results": {
         "llama-3.2-3b-instruct": {
             "inclusion_decision": "Excluded",
-            "reason": "Intervention: labor regulation policies, social security policies, or does not directly address employment.",
-            "study_design": "Lacks a rigorous evaluation or no control group",
+            "reason": "The study design is a brief summary of federal initiatives, lacks a rigorous evaluation, and does not present measures of employment or labor results.",
+            "study_design": "Summary",
             "logprobs": null
         },
         "qwen2.5-7b-instruct-1m": {
             "inclusion_decision": "Excluded",
-            "reason": "The study design does not meet the inclusion criteria as it lacks rigorous evaluation and control groups. It provides a summary of federal initiatives rather than presenting original research data with controlled outcomes.",
-            "study_design": "Summary of federal initiatives",
+            "reason": "The study design is descriptive rather than experimental or quasi-experimental and lacks rigorous evaluation. It does not include controlled trials or provide outcomes related to employment.",
+            "study_design": "Descriptive paper",
             "logprobs": null
         },
         "phi-3-mini-4k-instruct": {
             "inclusion_decision": "Excluded",
-            "reason": "The study focuses on federal policies and programs rather than interventions like job search services, adult training, or wage subsidies. It also does not specifically target people with mental health disorders but rather individuals with serious mental illnesses.",
-            "study_design": "Review of federal policies and programs",
+            "reason": "The study focuses on federal policies and programs rather than interventions and does not directly address employment outcomes.",
+            "study_design": "Not applicable",
             "logprobs": null
         },
         "mistral-small-24b-instruct-2501": {

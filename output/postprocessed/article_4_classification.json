@@ -1,0 +1,86 @@
+{
+  "Article_ID": 4,
+  "Article_Title": "Program evaluation of a community organization offering supported employment services for adults with autism",
+  "Abstract": "Background: Individuals with autism spectrum disorder (ASD) have an employment rate well below the general population. One potential solution to address this issue is the implementation of supported employment services. The purpose of our study was to evaluate a Canadian community supported employment program designed for individuals with ASD without an intellectual disability. Method: Thirty-seven individuals with ASD, who were receiving services from a local community agency (Action main-d'oeuvre) providing supported employment services, participated in the study. The research team monitored the characteristics of the participants, the number of hours of services provided, and outcome measures related to employment. We then conducted descriptive analyses, t-tests, and Wilcoxon signed rank tests to compare anxiety about work and self-efficacy before services and after outcomes of the program. Results: Despite high levels of comorbid mental health issues, our results indicated that 62.1 % of individuals obtained paid employment within 12 months. Furthermore, participants with postsecondary education found jobs related to their degree or requiring specialized skills. Participants felt less anxious and more self-efficacious towards employment. Maintaining employment was a greater challenge and continuing support may be required. Conclusions: The study suggests that the employment services may have supported the participants in finding a job. However, collaboration is essential to address mental health issues in job seekers with ASD, which appeared to hinder job search and maintenance.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Autism",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Self-efficacy"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "Autism Spectrum Disorder"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Anxiety about work",
+        "Self-efficacy"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health",
+        "Anxiety"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Mental health improvement"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Autism",
+      "Anxiety",
+      "Autism Spectrum Disorder",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Anxiety about work",
+      "Self-efficacy",
+      "Mental health improvement",
+      "Work functioning",
+      "Employment rate"
+    ]
+  }
+}

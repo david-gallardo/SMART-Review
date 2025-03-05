@@ -8,12 +8,15 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sys
 
-# Add the scripts directory to the Python path
+# Variable per controlar el mode test: True només per 5 casos, False per tot el dataset
+test = False  # Canvia a False per processar tot el dataset
+
+# Afegir el directori de scripts al camí de Python
 scripts_dir = os.path.abspath('../scripts')
 if scripts_dir not in sys.path:
     sys.path.insert(0, scripts_dir)
 
-# Import functions from main.py
+# Importa funcions de main.py
 from main import consult_model, extract_json_block, compute_global_classification, create_multiple_category_chart
 
 # File paths
@@ -21,7 +24,7 @@ data_path = os.path.join(os.getcwd(), "data")
 classified_file = os.path.join(data_path, "included_articles_classified.xlsx")
 original_file = os.path.join(data_path, "df_articles_results_classified.xlsx")
 
-# LLM models to use
+# Models LLM a utilitzar
 models = [
     "mistral-small-24b-instruct-2501",
     "qwen2.5-7b-instruct-1m",
@@ -117,164 +120,159 @@ def classify_abstract(model_name, title, abstract):
             "outcome_measures": ["Error"]
         }
 
+def process_article(idx, row):
+    """Processa un article individual: consulta tots els models i retorna els resultats."""
+    article_id = idx + 1
+    print(f"Processing article {article_id}")
+    
+    title = row["Article Title"] if "Article Title" in row else ""
+    abstract = row["Abstract"] if "Abstract" in row else ""
+    
+    # Combine title and abstract if abstract is missing
+    if not abstract and title:
+        abstract = title
+    if not abstract and not title:
+        print(f"Skipping article {article_id} - no title or abstract")
+        return None, None
+
+    model_results = {}
+    # Paral·lelitza les consultes a tots els models (operació I/O)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
+        future_to_model = {executor.submit(classify_abstract, model, title, abstract): model for model in models}
+        for future in concurrent.futures.as_completed(future_to_model):
+            model = future_to_model[future]
+            try:
+                result = future.result()
+                model_results[model] = result
+            except Exception as e:
+                print(f"Error getting result from {model}: {e}")
+                model_results[model] = {
+                    "study_design": "Error",
+                    "mental_health_condition": ["Error"],
+                    "intervention_type": ["Error"],
+                    "outcome_measures": ["Error"]
+                }
+    
+    # Crear el registre per als resultats de tots els models
+    record = {
+        "Article_ID": article_id,
+        "Article_Title": title,
+        "Abstract": abstract,
+        "DOI": row["DOI"] if "DOI" in row else ""
+    }
+    for model in models:
+        model_clean = model.replace("-", "_")
+        result = model_results.get(model, {})
+        record[f"{model_clean}_study_design"] = result.get("study_design", "Unknown")
+        record[f"{model_clean}_mental_health"] = ", ".join(result.get("mental_health_condition", ["Unknown"]))
+        record[f"{model_clean}_intervention"] = ", ".join(result.get("intervention_type", ["Unknown"]))
+        record[f"{model_clean}_outcomes"] = ", ".join(result.get("outcome_measures", ["Unknown"]))
+    
+    # Calcular la classificació global basant-se en els resultats de tots els models
+    results_list = list(model_results.values())
+    global_record = {
+        "Article_ID": article_id,
+        "Article_Title": title,
+        "Abstract": abstract,
+        "DOI": row["DOI"] if "DOI" in row else "",
+        "Study_Design": compute_global_classification(results_list, "study_design"),
+        "Mental_Health_Condition": ", ".join(compute_global_classification(results_list, "mental_health_condition")),
+        "Intervention_Type": ", ".join(compute_global_classification(results_list, "intervention_type")),
+        "Outcome_Measures": ", ".join(compute_global_classification(results_list, "outcome_measures"))
+    }
+    
+    # Guarda el resultat de l'article com a fitxer JSON a la carpeta "output/postprocessed"
+    out_dir = os.path.join("./output", "postprocessed")
+    os.makedirs(out_dir, exist_ok=True)
+    article_output = {
+        "Article_ID": article_id,
+        "Article_Title": title,
+        "Abstract": abstract,
+        "Model_Results": model_results,
+        "Global_Results": {
+            "Study_Design": global_record["Study_Design"],
+            "Mental_Health_Condition": global_record["Mental_Health_Condition"].split(", "),
+            "Intervention_Type": global_record["Intervention_Type"].split(", "),
+            "Outcome_Measures": global_record["Outcome_Measures"].split(", ")
+        }
+    }
+    output_file = os.path.join(out_dir, f"article_{article_id}_classification.json")
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(article_output, f, indent=2)
+    
+    # Retorna els registres per a l'agregació
+    return record, global_record
+
 def main():
     """
-    Main function to analyze and classify included articles based on multiple dimensions:
-    - Study design
-    - Mental health conditions
-    - Intervention types
-    - Outcome measures
+    Funció principal per analitzar i classificar els articles inclosos basant-se en diverses dimensions:
+    - Disseny de l'estudi
+    - Condicions de salut mental
+    - Tipus d'intervenció
+    - Mesures d'resultat
     
-    This function:
-    1. Loads the original dataset and filters included studies
-    2. Either loads existing classification data or queries LLMs to classify articles
-    3. Generates visualizations for the classifications
-    4. Provides summary statistics
+    Aquesta funció:
+    1. Carrega el dataset original i filtra els estudis inclosos.
+    2. O carrega les dades classificades existents o consulta l'LLM per classificar els articles.
+    3. Genera visualitzacions per a les classificacions.
+    4. Proporciona estadístiques resum.
     """
-    # First, load the original dataset and filter only included studies
     print("Loading original dataset...")
     original_df = pd.read_excel(original_file)
-
-    # Map GlobalInclusion values
+    
+    # Mapear valors de GlobalInclusion
     global_inclusion_mapping = {"Yes": "Included", "No": "Excluded", "Unclear": "Unclear"}
     original_df["GlobalInclusion"] = original_df["GlobalInclusion"].map(global_inclusion_mapping)
-
-    # Filter only included studies
+    
+    # Filtrar només estudis inclosos
     included_df = original_df[original_df["GlobalInclusion"] == "Included"].copy()
+    # Si test és True, processa només els 5 primers articles
+    if test:
+        included_df = included_df.head(5)
     print(f"Processing only included studies: {len(included_df)} articles")
-
-    # Check if classified file already exists
+    
+    all_results = []
+    global_results = []
+    
+    # Si ja existeix el fitxer classificat, el carreguem
     if os.path.exists(classified_file):
         print("Classified file found. Loading data without querying LLM...")
         all_model_df = pd.read_excel(classified_file, sheet_name="All_Models")
         global_df = pd.read_excel(classified_file, sheet_name="Global_Decision")
+        # Si test és True, només mantenim els 5 primers casos
+        if test:
+            all_model_df = all_model_df.head(5)
+            global_df = global_df.head(5)
     else:
         print("Classified file not found. Querying LLM to classify included studies...")
+        # Paral·lelitza el processament dels articles amb ProcessPoolExecutor
+        with concurrent.futures.ProcessPoolExecutor() as executor:
+            futures = {executor.submit(process_article, idx, row): idx for idx, row in included_df.iterrows()}
+            for future in concurrent.futures.as_completed(futures):
+                record, global_record = future.result()
+                if record is not None:
+                    all_results.append(record)
+                    global_results.append(global_record)
         
-        # Lists to store all results
-        all_results = []
-        global_results = []
-        
-        # Create a directory for postprocessed JSON files
-        out_dir = os.path.join("../output", "postprocessed")
-        os.makedirs(out_dir, exist_ok=True)
-        
-        # Process each included article
-        for idx, row in included_df.iterrows():
-            article_id = idx + 1
-            print(f"Processing article {article_id}/{len(included_df)}")
-            
-            title = row["Article Title"] if "Article Title" in row else ""
-            abstract = row["Abstract"] if "Abstract" in row else ""
-            
-            # Combine title and abstract if abstract is missing
-            if not abstract and title:
-                abstract = title
-            
-            if not abstract and not title:
-                print(f"Skipping article {article_id} - no title or abstract")
-                continue
-            
-            model_results = {}
-            
-            # Process with all models using parallel execution
-            with concurrent.futures.ThreadPoolExecutor(max_workers=len(models)) as executor:
-                future_to_model = {
-                    executor.submit(classify_abstract, model, title, abstract): model 
-                    for model in models
-                }
-                
-                for future in concurrent.futures.as_completed(future_to_model):
-                    model = future_to_model[future]
-                    try:
-                        result = future.result()
-                        model_results[model] = result
-                    except Exception as e:
-                        print(f"Error getting result from {model}: {e}")
-                        model_results[model] = {
-                            "study_design": "Error",
-                            "mental_health_condition": ["Error"],
-                            "intervention_type": ["Error"],
-                            "outcome_measures": ["Error"]
-                        }
-            
-            # Create record for all model results
-            record = {
-                "Article_ID": article_id,
-                "Article_Title": title,
-                "Abstract": abstract,
-                "DOI": row["DOI"] if "DOI" in row else ""
-            }
-            
-            # Add model-specific results
-            for model in models:
-                model_clean = model.replace("-", "_")
-                result = model_results.get(model, {})
-                
-                record[f"{model_clean}_study_design"] = result.get("study_design", "Unknown")
-                record[f"{model_clean}_mental_health"] = ", ".join(result.get("mental_health_condition", ["Unknown"]))
-                record[f"{model_clean}_intervention"] = ", ".join(result.get("intervention_type", ["Unknown"]))
-                record[f"{model_clean}_outcomes"] = ", ".join(result.get("outcome_measures", ["Unknown"]))
-            
-            all_results.append(record)
-            
-            # Calculate global classifications based on all model results
-            results_list = list(model_results.values())
-            
-            global_record = {
-                "Article_ID": article_id,
-                "Article_Title": title,
-                "Abstract": abstract,
-                "DOI": row["DOI"] if "DOI" in row else "",
-                "Study_Design": compute_global_classification(results_list, "study_design"),
-                "Mental_Health_Condition": ", ".join(compute_global_classification(results_list, "mental_health_condition")),
-                "Intervention_Type": ", ".join(compute_global_classification(results_list, "intervention_type")),
-                "Outcome_Measures": ", ".join(compute_global_classification(results_list, "outcome_measures"))
-            }
-            
-            global_results.append(global_record)
-            
-            # Save individual article result as JSON
-            article_output = {
-                "Article_ID": article_id,
-                "Article_Title": title,
-                "Abstract": abstract,
-                "Model_Results": model_results,
-                "Global_Results": {
-                    "Study_Design": global_record["Study_Design"],
-                    "Mental_Health_Condition": global_record["Mental_Health_Condition"].split(", "),
-                    "Intervention_Type": global_record["Intervention_Type"].split(", "),
-                    "Outcome_Measures": global_record["Outcome_Measures"].split(", ")
-                }
-            }
-            
-            output_file = os.path.join(out_dir, f"article_{article_id}_classification.json")
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(article_output, f, indent=2)
-            
-            # Add a small delay to avoid overwhelming the LLM service
-            time.sleep(0.5)
-        
-        # Create DataFrames
+        # Convertir els resultats en DataFrames
         all_model_df = pd.DataFrame(all_results)
         global_df = pd.DataFrame(global_results)
         
-        # Save to Excel with multiple sheets
+        # Guardar els resultats a Excel amb diverses fulles
         with pd.ExcelWriter(classified_file) as writer:
             all_model_df.to_excel(writer, sheet_name="All_Models", index=False)
             global_df.to_excel(writer, sheet_name="Global_Decision", index=False)
         
         print(f"Classification complete. Results saved to {classified_file}")
 
-    # Generate visualizations for global decisions
+    # Generar visualitzacions per a les decisions globals
     print("Generating visualizations...")
     
-    # Ensure figures directory exists
-    figures_dir = "../figures/charts"
+    figures_dir = os.path.join(os.getcwd(), "figures", "charts")
     if not os.path.exists(figures_dir):
         os.makedirs(figures_dir, exist_ok=True)
 
-    # Study Design visualization
+    # Visualització de Study Design
     plt.figure(figsize=(10, 6))
     global_df["Study_Design"].value_counts().plot(kind="bar", color="green")
     plt.xlabel("Study Design")
@@ -282,23 +280,23 @@ def main():
     plt.title("Distribution of Study Types (Included Studies)")
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
-    plt.savefig(f"{figures_dir}/study_design_distribution.png")
+    plt.savefig(os.path.join(figures_dir, "study_design_distribution.png"))
     plt.close()
 
-    # Generate visualizations for multi-category fields
+    # Visualitzacions per camps multi-categoria
     create_multiple_category_chart(global_df, "Mental_Health_Condition", 
                                   "Mental Health Conditions Distribution", 
-                                  f"{figures_dir}/mental_health_distribution")
+                                  os.path.join(figures_dir, "mental_health_distribution"))
 
     create_multiple_category_chart(global_df, "Intervention_Type", 
                                   "Intervention Types Distribution", 
-                                  f"{figures_dir}/intervention_distribution")
+                                  os.path.join(figures_dir, "intervention_distribution"))
 
     create_multiple_category_chart(global_df, "Outcome_Measures", 
                                   "Outcome Measures Distribution", 
-                                  f"{figures_dir}/outcomes_distribution")
+                                  os.path.join(figures_dir, "outcomes_distribution"))
 
-    # Create a heatmap of mental health conditions vs intervention types
+    # Heatmap de condicions vs tipus d'intervenció
     all_conditions = []
     for conditions_str in global_df["Mental_Health_Condition"].dropna():
         conditions = [c.strip() for c in conditions_str.split(",")]
@@ -316,7 +314,7 @@ def main():
                                               index=unique_conditions,
                                               columns=unique_interventions)
 
-    # Fill the matrix
+    # Omplir la matriu
     for _, row in global_df.iterrows():
         if pd.isna(row["Mental_Health_Condition"]) or pd.isna(row["Intervention_Type"]):
             continue
@@ -329,15 +327,14 @@ def main():
                 if condition in condition_intervention_matrix.index and intervention in condition_intervention_matrix.columns:
                     condition_intervention_matrix.loc[condition, intervention] += 1
 
-    # Create heatmap
     plt.figure(figsize=(14, 10))
     sns.heatmap(condition_intervention_matrix, annot=True, cmap="YlGnBu", fmt="d")
     plt.title("Mental Health Conditions vs Intervention Types (Included Studies)")
     plt.tight_layout()
-    plt.savefig(f"{figures_dir}/condition_intervention_heatmap.png")
+    plt.savefig(os.path.join(figures_dir, "condition_intervention_heatmap.png"))
     plt.close()
 
-    # Summary statistics
+    # Estadístiques resum
     print("\nSummary Statistics (Included Studies Only):")
     print(f"Total number of included articles: {len(global_df)}")
 
@@ -346,32 +343,26 @@ def main():
         print("\nStudy Design Distribution:")
         print(design_counts)
 
-    # Extract and count individual conditions
     all_conditions = []
     for conditions_str in global_df["Mental_Health_Condition"].dropna():
         conditions = [c.strip() for c in conditions_str.split(",")]
         all_conditions.extend(conditions)
-
     condition_counts = pd.Series(all_conditions).value_counts()
     print("\nMental Health Condition Distribution:")
     print(condition_counts)
 
-    # Extract and count individual interventions
     all_interventions = []
     for interventions_str in global_df["Intervention_Type"].dropna():
         interventions = [i.strip() for i in interventions_str.split(",")]
         all_interventions.extend(interventions)
-
     intervention_counts = pd.Series(all_interventions).value_counts()
     print("\nIntervention Type Distribution:")
     print(intervention_counts)
 
-    # Extract and count individual outcomes
     all_outcomes = []
     for outcomes_str in global_df["Outcome_Measures"].dropna():
         outcomes = [o.strip() for o in outcomes_str.split(",")]
         all_outcomes.extend(outcomes)
-
     outcome_counts = pd.Series(all_outcomes).value_counts()
     print("\nOutcome Measures Distribution:")
     print(outcome_counts)

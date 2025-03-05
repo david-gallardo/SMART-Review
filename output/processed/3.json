@@ -7,14 +7,14 @@
     "Model Results": {
         "llama-3.2-3b-instruct": {
             "inclusion_decision": "Included",
-            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Australia, within the specified timeframe of 2005-2025, and focuses on people with mental disorders, meeting the inclusion criteria for population. The study also presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
+            "reason": "The study design is a quasi-experimental study with a control group, meeting the inclusion criteria for study design. The study is set in Australia, within the specified timeframe of 2005-2025, and focuses on people with mental health disorders, meeting the inclusion criteria for population. The study also presents measures of employment outcomes, meeting the inclusion criteria for outcomes.",
             "study_design": "Quasi-experimental study with a control group",
             "logprobs": null
         },
         "qwen2.5-7b-instruct-1m": {
             "inclusion_decision": "Excluded",
-            "reason": "The study does not directly address the outcomes of interventions such as job search services, adult training, wage subsidies, or supported employment. It focuses on identifying differences in health and psychosocial needs among job-seekers with different mental disorders accessing disability employment services.",
-            "study_design": "Cross-sectional",
+            "reason": "The study does not directly address the intervention of interest (job search services, adult training, wage subsidies, supported employment) and lacks outcomes related to employment or labor results.",
+            "study_design": "Cross-sectional survey with self-report measures and one-way analysis of variance",
             "logprobs": null
         },
         "phi-3-mini-4k-instruct": {

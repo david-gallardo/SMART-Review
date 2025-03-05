@@ -205,12 +205,19 @@ def compute_global_classification(model_results, classification_type):
     For multi-select categories, include all unique values.
     """
     if classification_type == "study_design":
-        # Get all study design values
-        designs = [result.get("study_design", "Unknown") for result in model_results if result.get("study_design") != "Error"]
+        # Get all study design values; si algun valor és llista, extreu el primer element
+        designs = []
+        for result in model_results:
+            val = result.get("study_design", "Unknown")
+            if val == "Error":
+                continue
+            if isinstance(val, list):
+                val = val[0] if val else "Unknown"
+            designs.append(val)
+        
         if not designs:
             return "Unknown"
         
-        # Return the most common value
         from collections import Counter
         return Counter(designs).most_common(1)[0][0]
     else:
@@ -223,6 +230,17 @@ def compute_global_classification(model_results, classification_type):
         
         # Return unique values
         return list(set(all_values))
+
+import matplotlib.pyplot as plt
+import pandas as pd
+
+import os
+import matplotlib.pyplot as plt
+import pandas as pd
+
+import os
+import matplotlib.pyplot as plt
+import pandas as pd
 
 def create_multiple_category_chart(data, column, title, filename):
     """Create charts for columns that contain multiple categories separated by commas"""
@@ -240,8 +258,17 @@ def create_multiple_category_chart(data, column, title, filename):
     plt.title(title)
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
-    plt.savefig(f"../figures/{filename}.png")
+    
+    # Si 'filename' és una ruta absoluta o conté separadors, utilitza-la directament.
+    if os.path.isabs(filename) or os.path.sep in filename:
+        save_path = f"{filename}.png"
+    else:
+        save_path = os.path.join("../figures", f"{filename}.png")
+    
+    plt.savefig(save_path)
     plt.close()
+    print(f"Chart saved to '{save_path}'.")
+
 
 def main():
     # Get the directory where this script is located

@@ -1,0 +1,80 @@
+{
+  "Article_ID": 3,
+  "Article_Title": "Competitive Employment Outcomes Among Veterans in VHA Therapeutic and Supported Employment Services Programs",
+  "Abstract": "Objective: The study assessed whether receiving specific types of Veterans Health Administration (VHA) Therapeutic and Supported Employment Services (TSES) between fiscal years (FYs) 2006 and 2010 (a time frame that encompasses the Great Recession) was associated with obtaining competitive employment among veterans with mental illnesses.Methods: The sample included 38,199 veterans discharged from the VHA's TSES program in FY 2006 through FY 2010. On the basis of program monitoring forms completed by TSES clinicians and workload data, veterans were classified as having received one main type of employment service: supported employment (SE), transitional work in the community (TW-community), transitional work in a Department of Veterans Affairs medical center (TW-VA), incentive therapy or sheltered workshop (IT/SW), and no main type of employment service.Results: Compared with veterans who received TW-VA, those who received SE (odds ratio [OR]=1.25) or TW-community OR=1.24) were more likely to be competitively employed (p<.001), and veterans who received IT/SW were less likely (OR=.85) (p<.001). The predicted probabilities for obtaining competitive employment ranged from 27.2% (IT/SW) to 34.9% (SE). Odds of achieving competitive employment (ORs=.60-.97) were significantly lower during the years of the Great Recession (2007-2009) and in the subsequent year (2010), compared with the year prior (p<.001 to <.05).Conclusions: Although rates of competitive employment were modest across all types of services, community-based employment services were associated with higher odds of achieving competitive employment, compared with services based in a medical center. The Great Recession negatively affected the likelihood of achieving competitive employment, regardless of the employment service received.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Transition work in a Department of Veterans Affairs medical center",
+        "Incentive therapy or sheltered workshop"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Other"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental (Non-randomized studies with a control group)",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Incentive therapy or sheltered workshop",
+      "Other",
+      "Vocational rehabilitation",
+      "Supported employment",
+      "Transition work in a Department of Veterans Affairs medical center",
+      "Workplace accommodations"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Job retention"
+    ]
+  }
+}
