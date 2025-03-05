@@ -198,6 +198,51 @@ def compute_global_inclusion(ratings):
     else:
         return "Unclear"
 
+def compute_global_classification(model_results, classification_type):
+    """
+    Determine the global classification based on majority vote.
+    For study_design, choose the most frequent value.
+    For multi-select categories, include all unique values.
+    """
+    if classification_type == "study_design":
+        # Get all study design values
+        designs = [result.get("study_design", "Unknown") for result in model_results if result.get("study_design") != "Error"]
+        if not designs:
+            return "Unknown"
+        
+        # Return the most common value
+        from collections import Counter
+        return Counter(designs).most_common(1)[0][0]
+    else:
+        # For multi-select categories, combine all unique values
+        all_values = []
+        for result in model_results:
+            values = result.get(classification_type, [])
+            if values and values != ["Error"]:
+                all_values.extend(values)
+        
+        # Return unique values
+        return list(set(all_values))
+
+def create_multiple_category_chart(data, column, title, filename):
+    """Create charts for columns that contain multiple categories separated by commas"""
+    all_categories = []
+    for categories_str in data[column].dropna():
+        categories = [cat.strip() for cat in categories_str.split(",")]
+        all_categories.extend(categories)
+    
+    unique_categories = pd.Series(all_categories).value_counts()
+    
+    plt.figure(figsize=(12, 8))
+    unique_categories.plot(kind="bar", color="green")
+    plt.xlabel("Category")
+    plt.ylabel("Frequency")
+    plt.title(title)
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    plt.savefig(f"../figures/{filename}.png")
+    plt.close()
+
 def main():
     # Get the directory where this script is located
     script_dir = os.path.dirname(os.path.abspath(__file__))
