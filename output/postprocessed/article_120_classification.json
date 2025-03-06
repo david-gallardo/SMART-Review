@@ -1,0 +1,82 @@
+{
+  "Article_ID": 120,
+  "Article_Title": "Participation in Individual Placement and Support in the Supported Employment Demonstration",
+  "Abstract": "Individual placement and support (IPS) was the primary intervention in the United States Social Security Administration's supported employment demonstration (SED), a large randomized trial that sought to increase employment and reduce disability among those whose first application for disability benefits was denied. Researchers developed a measure of participation in IPS services to quantify participation among enrollees assigned to receive IPS. The IPS participation measure, which IPS teams completed monthly for individual clients, recorded clients assigned to IPS as being either out of contact with their IPS treatment teams or, if in contact, according to their employment status (employed or not employed) and receipt of IPS job search services (participating or not participating). The measure also recorded types of IPS activities and reasons for non-participation. IPS teams completed the IPS participation measure at a rate of approximately 95% each month. Between 27 and 35% of enrollees assigned to a treatment condition participated in IPS services each month during the first 24 months of measurement. The most common activities were applying for jobs and attending job interviews. Most of those out of contact were not responding to outreach efforts (58-72%). Those in contact but not participating despite being unemployed were typically either uninterested in employment (20-44%) or difficult to reach (10-16%). As IPS expands to serve new populations, it will be important to document and understand the links between individual characteristics, variance in participation patterns, and employment outcomes. Subsequent analyses of SED data will investigate these relationships among enrollees.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Job search assistance"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION2",
+      "General mental health",
+      "CONDITION1"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "INTERVENTION1",
+      "INTERVENTION2",
+      "Job search assistance"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "OUTCOME1",
+      "OUTCOME2",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Article_ID": 55,
+  "Article_Title": "Effectiveness of vocational interventions for gaining paid work for people living with mild to moderate mental health conditions: systematic review and meta-analysis",
+  "Abstract": "Objectives To evaluate the effectiveness of vocational interventions to help people living with mild to moderate mental health conditions gain paid work. Methods Systematic review of international, peer-reviewed literature. Development of the prepublished protocol and search strategy was done in consultation with stakeholder reference groups consisting of people with lived experience of long-term conditions, advocates and clinicians. We searched academic databases MEDLINE, EMBASE, PsychINFO, AMED, CINAHL, Proquest Dissertations and Theses database, and Business Source Complete for controlled trials comparing a specific vocational intervention against a control intervention or usual care, published between 1 January 2004 and 1 August 2019. Two authors independently screened search results, extracted data and appraised studies using the Cochrane risk of bias tool. Results Eleven studies met inclusion criteria. Seven studies investigated Individual Placement and Support (IPS) modified for people who were not in intensive mental health treatment services. These studies occurred settings such as community vocational rehabilitation services, a housing programme and community mental health services. The studies provided very low quality evidence that people who receive IPS-style vocational rehabilitation are more likely to gain competitive employment than people who receive usual care (risk ratio 1.70, 95% CI 1.23 to 2.34, seven studies, 1611 participants). The remaining four studies considered cognitive behavioural therapy or specific vocational rehabilitation interventions designed to fit a unique context. There was insufficient evidence from these studies to draw conclusions regarding the effectiveness of non-IPS forms of vocational rehabilitation for people with mild to moderate mental health conditions. Discussion The meta-analysis showed a clear intervention effect but low precision, and more high-quality studies are needed in this field. There is currently very low quality evidence that IPS-style intervention results in more participants in competitive employment compared with 'usual care' control groups in populations with mild to moderate mental health conditions.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health",
+        "Mild to moderate mental health conditions"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Cognitive behavioural therapy"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Mild to moderate mental health conditions",
+      "General mental health",
+      "CONDITION2",
+      "CONDITION1"
+    ],
+    "Intervention_Type": [
+      "INTERVENTION2",
+      "Vocational rehabilitation",
+      "Cognitive behavioural therapy",
+      "Supported employment",
+      "INTERVENTION1"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "OUTCOME2",
+      "OUTCOME1"
+    ]
+  }
+}

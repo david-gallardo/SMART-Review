@@ -1,0 +1,102 @@
+{
+  "Article_ID": 136,
+  "Article_Title": "Effects of IPS plus cognitive remediation in early psychosis: 18-month functioning outcomes of a randomized controlled trial",
+  "Abstract": "Background: After a first episode of psychosis, cognitive impairments present an important barrier to successful (re-)entry into work and education. We assessed whether cognitive remediation (CR) as an add-on to Individual Placement and Support (IPS) can improve participation in regular employment and education.Method: Participants with early psychosis (N = 73) were randomly assigned to receive IPS supplemented with computerized CR, or IPS plus an active control intervention (computer games). The primary outcome was the number of hours spent in competitive employment or regular education, which was assessed every month during the 18-month study period. Secondary outcomes included employment rate, cognitive functioning, mental health (assessed at baseline, 6 and 18 months), and job duration (assessed after 18 months). Both patients and assessors were blind to treatment.Results: Participants receiving IPS + CR showed greater improvement of competitive employment over time in terms of hours worked (during follow-up period: 38.5 vs. 19.6 h, B = 2.94; Wald chi(2) = 5.39; P = .02) and employment rate (at T2: 62.1% vs. 25.9%, chi 2 = 7.39; df = 1; P = .008), compared with the IPS + control group, particularly in the longer term. The number of hours spent in regular education was lower in the IPS + CR group, with more participants having ended education for a positive reason. There was a significant beneficial effect of adjunctive CR for executive functioning, subjective cognitive functioning, and empowerment.Conclusions: Augmenting IPS with CR has a significant impact on competitive employment in people with early psychosis, with beneficial effects being more pronounced after 18 months.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Early psychosis"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)",
+        "Cognitive remediation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Hours spent in competitive employment",
+        "Cognitive functioning",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "targeted_cognitive_functions": [
+        "FUNCTION1",
+        "FUNCTION2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "CONDITION1",
+      "Schizophrenia",
+      "CONDITION2",
+      "Early psychosis",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Skills training",
+      "INTERVENTION2",
+      "INTERVENTION1",
+      "Cognitive remediation",
+      "Supported employment",
+      "Individual Placement and Support (IPS)"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "OUTCOME1",
+      "OUTCOME2",
+      "Mental health improvement",
+      "Work functioning",
+      "Cognitive functioning",
+      "Employment rate",
+      "Hours spent in competitive employment"
+    ]
+  }
+}

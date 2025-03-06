@@ -1,0 +1,86 @@
+{
+  "Article_ID": 13,
+  "Article_Title": "Social Cognition and Social Problem Solving Skills Training to Improve Job Functioning and Tenure in Veterans With Psychotic Disorders",
+  "Abstract": "Impact and Implications The results from the study showed that a two-phase intervention that targeted social cognition and workplace social problem-solving deficits improved social cognition and workplace social behavior, but not job tenure, in Veterans with psychotic disorders participating in a VA vocational rehabilitation program. The findings on workplace social skills support a promising new direction for enhancing work outcomes in this clinical population.Objective: Veterans with psychotic disorders often experience employment difficulties. Job tenure is highly variable with shorter tenure frequently tied to interpersonal difficulties in the workplace. The present study sought to address this problem by examining the efficacy of social cognition skills training (SCST) and social problem solving skills training (SPSST) interventions, implemented sequentially, and added to usual VA employment services (augmented vocational rehabilitation [VR]). Method: Participants were 91 Veterans with schizophrenia and other psychotic disorders who were recently enrolled in one of three types of VA employment services (incentive therapy, transitional work, supported employment), and randomized 1:1 to augmented VR versus control VR. Training for the augmented VR group included 12 weeks of SCST plus 6 weeks of work-related SPSST; training for the control VR group included a control intervention (symptom management training) matched in instructional format and length of training to the SCST and SPSST interventions. All participants received baseline and posttraining measures of social cognition. For those who got jobs, the primary work outcome measures were social skills work behavior and job tenure. Results: Results showed a significant group x time interaction favoring the augmented VR group on measures of social cognition and social skills work behavior, but there were no significant differences in job tenure. Conclusions and Implications for Practice: The findings for workplace social skills support a promising new direction for enhancing work outcomes in this population; the null effect on job tenure may have been due to high job retention rates across the three types of employment service programs.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Psychotic disorders"
+      ],
+      "intervention_type": [
+        "Social Cognition and Social Problem Solving Skills Training",
+        "Supported Employment"
+      ],
+      "outcome_measures": [
+        "Social cognition",
+        "Social skills work behavior",
+        "Job tenure"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Skills training",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Work functioning",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Work functioning",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Psychotic disorders",
+      "Schizophrenia",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported Employment",
+      "Vocational rehabilitation",
+      "Social Cognition and Social Problem Solving Skills Training",
+      "Skills training",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Social cognition",
+      "Work functioning",
+      "Job retention",
+      "Social skills work behavior",
+      "Job tenure"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Article_ID": 111,
+  "Article_Title": "Implementing Supported Employment. Lessons from the Making IPS Work Project",
+  "Abstract": "Individual Placement and Support (IPS) is an internationally accepted and effective form of supported employment for people with severe mental health conditions. Despite its strong evidence base, the implementation of IPS has been slow and inconsistent. In England, a demonstration project, Making IPS Work, was developed to offer support for the implementation of IPS in six local sites National Health Service Mental Health trusts. The project aimed to: Establish Individual Placement and Support services within clinical teams; develop high fidelity practice and leave a sustainable IPS service beyond the project. The number of people gaining open employment in each site was monitored. Fidelity checks were carried out at three sites by independent assessors. Stakeholders were interviewed over the 18-month lifetime of the implementation period to examine the experience of developing the services in the six sites. A total of 421 jobs were found for people with mental health conditions over 18 months with a large variation between the highest and lowest performing sites. The sites assessed for fidelity all attained the threshold for a 'Good Fidelity' service. The new services were readily accepted by mental health service users, clinical staff and managers across the trust sites. Maintaining the funding for the Individual Placement and Support services beyond the project period proved to be problematic for many sites. Placing the services within a broader strategy of improving psychosocial services and bringing together decision making at the corporate, commissioning and clinical management level were helpful in achieving success. The growth and maintenance of these services is difficult to achieve whilst the current cost pressures on the NHS continue.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Number of people gaining open employment"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Severe mental health conditions"
+      ],
+      "intervention_type": [
+        "Supported Employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental (Non-randomized studies with a control group)",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Severe mental health conditions",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Supported Employment",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Number of people gaining open employment"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "Article_ID": 23,
+  "Article_Title": "Systematic review and meta-analysis of interventions aimed at enhancing return to work for sick-listed workers with common mental disorders, stress-related disorders, somatoform disorders and personality disorders",
+  "Abstract": "Objectives Mental disorders are associated with significant functional impairment, sickness absence and disability. The consequences of sickness absence warrant investigation into interventions aimed at enhancing return to work (RTW) for workers with mental disorders. The present systematic review and meta-analysis aim to synthesise evidence on the effectiveness of interventions aimed at enhancing RTW in sick-listed workers with mental disorders.Methods EconLit, Embase, PsychInfo, PubMed, Svemed+ andWeb of Science were searched for peer-reviewed, randomised or controlled studies assessing employment-related outcomes of interventions. A meta-analysis was conducted and meta-regressions were performed to explore prespecified potential sources of heterogeneity between studies.Results The literature search yielded 3777 publications of which 42 (n=38938) were included in the systematic review and 32 (n=9459) had appropriate data for the meta-analysis. The pooled effect size (95% CI) was 0.14 (0.07 to 0.22). Meta-regressions revealed that the heterogeneity could not be attributed to study quality, timing of the intervention or length of the intervention. However, it could be partly explained by number of components included in the intervention, if the intervention included contact to the work place and by the disorder targeted by the intervention.Conclusions The results reveal strong evidence for interventions including contact to the work place and multicomponent interventions and moderate evidence for interventions including graded RTW. In addition, the results provide strong evidence for interventions targeting stress compared with interventions targeting other mental disorders. The findings point to important implications for policy and design of future interventions.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Stress-related disorders",
+        "Personality disorders"
+      ],
+      "intervention_type": [
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Anxiety",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Return-to-work programs",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Personality disorders",
+      "Anxiety",
+      "Multiple specific conditions",
+      "Depression",
+      "Stress-related disorders",
+      "Bipolar"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Skills training",
+      "Workplace accommodations",
+      "Supported employment",
+      "Return-to-work programs",
+      "Multiple interventions",
+      "Job search assistance"
+    ],
+    "Outcome_Measures": [
+      "Quality of life",
+      "Work functioning",
+      "Income/earnings",
+      "Job retention",
+      "Mental health improvement",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Article_ID": 142,
+  "Article_Title": "Effectiveness of individual placement and support supported employment for young adults",
+  "Abstract": "AimThe individual placement and support (IPS) model of supported employment was first developed in community mental health centres for adults with severe mental illness. While IPS is an established evidence-based practice in this broad population, evidence on its effectiveness focused specifically on young adults has been limited. The current study aimed to address this gap.MethodsTo investigate the effects of IPS on young adults, the authors conducted a secondary analysis on a pooled sample of 109 unemployed young adults (under age 30) from four randomized controlled trials employing a common research protocol that included a standardized measurement battery and rigorous fidelity monitoring. Researchers assessed these participants over 18 months on nine competitive employment outcome measures.ResultsOn all measures, the IPS group had significantly better employment outcomes. Overall, 40 (82%) of IPS participants obtained employment during follow-up compared with 25 (42%) of control participants, (2) = 17.9, P < .001. IPS participants averaged 25.0 weeks of employment, compared with 7.0 weeks for control participants, t = 4.50, P < .001.ConclusionsThe current analysis supports a small number of previous studies in showing that IPS is highly effective in helping young adults with severe mental illness to attain competitive employment. When young adults acquire competitive jobs and initiate a path towards normal adult roles, they may avoid the cycle of disability and psychiatric patient roles that are demeaning and demoralizing.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Individual placement and support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "general mental health"
+      ],
+      "intervention_type": [
+        "individual placement and support",
+        "vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "employment rate",
+        "job retention",
+        "income/earnings"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "general mental health",
+      "Severe mental illness"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "vocational rehabilitation",
+      "Individual placement and support",
+      "individual placement and support"
+    ],
+    "Outcome_Measures": [
+      "employment rate",
+      "income/earnings",
+      "Job retention",
+      "job retention",
+      "Employment rate",
+      "Work functioning"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "Article_ID": 158,
+  "Article_Title": "Can Active Labour Market Programmes Emulate the Mental Health Benefits of Regular Paid Employment? Longitudinal Evidence from the United Kingdom",
+  "Abstract": "Active Labour Market Programmes (ALMPs), which form important components of employment support policies around the world, have been found to improve mental health and wellbeing of participants. However, it remains unclear how these health effects compare with the effects of different types of employment for men and women. Using 1991-2019 panel data in the UK, we find that unemployed women derive similar mental health benefits from ALMPs compared with employment. Unemployed men also benefit from ALMPs but obtain significantly more health benefits from formal employment. Such benefits are particularly pronounced in full-time, permanent and upper/middle-status jobs. Further analyses reveal that programmes that deliver human capital training have larger mental health benefits than employment assistance ALMPs. These findings provide a more nuanced understanding of the mental health impacts of ALMPs compared with different types of employment, and highlight the need for a more gender-sensitive design in labour market interventions.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Active Labour Market Programmes",
+        "Formal employment"
+      ],
+      "outcome_measures": [
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Cohort study",
+      "mental_health_condition": [
+        "Unemployment"
+      ],
+      "intervention_type": [
+        "Active Labour Market Programmes"
+      ],
+      "outcome_measures": [
+        "Mental health benefits",
+        "Job-related outcomes"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Unemployment",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Job search assistance",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Active Labour Market Programmes",
+      "Skills training",
+      "Formal employment"
+    ],
+    "Outcome_Measures": [
+      "Job-related outcomes",
+      "Mental health improvement",
+      "Mental health benefits"
+    ]
+  }
+}

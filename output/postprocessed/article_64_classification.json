@@ -1,0 +1,79 @@
+{
+  "Article_ID": 64,
+  "Article_Title": "A Randomised Controlled Trial of Evidence Based Supported Employment for People Who have Recently been Homeless and have a Mental Illness",
+  "Abstract": "Individual placement and support (IPS) has not been tested experimentally among people recently housed with a scattered-site Housing First program. Ninety recently housed people were randomized to IPS or usual services. Regression models estimated via GEE were used to compare employment outcomes. Over 8 months of follow-up with good fidelity, fifteen (34 %) people in the IPS group versus nine (22 %) in the control group found competitive employment (p = 0.16). Adjusted odds of obtaining competitive employment were greater in the IPS group (OR 2.42, 95 %CI 1.13-5.16). Other employment outcomes were not significantly different between groups. Satisfaction with services was greater in the group receiving IPS. In this study, IPS was a modestly useful adjunct to scattered-site Housing First for people with mental illness who have been homeless.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental Illness",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Housing First"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Mental Illness"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Housing First"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Article_ID": 68,
+  "Article_Title": "Comparison of Black and White participants with severe mental illness in response to cognitive remediation as an augmentation of vocational rehabilitation",
+  "Abstract": "Purpose: Despite evidence that cognitive remediation improves cognitive and employment outcomes in persons with severe mental illnesses (SMI), its effects have not been systematically compared between Black and White participants. Considering that Black adults have more negative experiences receiving mental health treatment, providers may have greater difficulty engaging and retaining Black Americans in cognitive remediation. Due to the effects of structural racism on reducing employment opportunities for Black Americans, it is unclear whether Black participants will reap the same benefits of cognitive remediation on work outcomes as White Americans. This paper addressed this question. Methods: A secondary analysis was conducted of five randomized controlled trials comparing cognitive reme-diation (the Thinking Skills for Work program: TSW) and vocational rehabilitation vs. vocational rehabilitation only in 137 Black and 147 White Americans (64.2% schizophrenia-schizoaffective disorder) who were followed up for two years. Results: Comparable proportions of Black and White participants were engaged and retained in TSW (>75%). Participants who received TSW improved significantly more in cognition than those receiving vocational services alone, with no racial differences in benefit. Participants in TSW obtained more work, earned more wages, and worked more weeks than those receiving vocational services alone, with no differences between the races. Conclusions: The findings indicate that Black Americans with SMI receiving vocational services could be suc-cessfully engaged in and benefit from cognitive remediation, highlighting the vital role of healthcare service systems in giving credence to structural racism to more effectively mitigate racial disparities in treatment outcomes.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Schizophrenia-schizoaffective disorder",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Cognitive remediation",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia-schizoaffective disorder",
+      "Schizophrenia",
+      "CONDITION2",
+      "CONDITION1",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "INTERVENTION1",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Cognitive remediation",
+      "Skills training",
+      "INTERVENTION2"
+    ],
+    "Outcome_Measures": [
+      "Work functioning",
+      "OUTCOME1",
+      "Employment rate",
+      "OUTCOME2",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "Article_ID": 50,
+  "Article_Title": "Trial-Based Economic Evaluations of Supported Employment for Adults with Severe Mental Illness: A Systematic Review",
+  "Abstract": "To identify, appraise, and summarize outcomes reported in trial-based economic evaluations of Individual Placement and Support programs for adults with severe mental illness. Six databases were searched, including Medline, PsycINFO, CINAHL, Cochrane, Scopus, and EconLit. Inclusion criteria were trial-based, full economic evaluations comparing Individual Placement and Support programs to traditional vocational rehabilitation programs for adults 18 years and older with severe mental illness. Study quality was appraised using the Consolidated Health Economic Evaluation Reporting Standards statement. Of the 476 articles identified in the database search, seven were included in the review. Studies conducted across Europe (n = 4) and Japan (n = 1) suggested that Individual Placement and Support may be a cost-effective alternative to traditional vocational rehabilitation programs. Two studies conducted in the United States demonstrated that Individual Placement and Support led to better vocational outcomes, but at neutral or higher costs than traditional vocational rehabilitation, depending on the benefit measure used. Trial-based economic evaluations of supported employment for adults with severe mental illness are limited and heterogeneous. The interpretation of economic outcomes warrants consideration of factors that may impact cost-effectiveness, such as geographical location. Future studies should evaluate whether the benefits of IPS outweigh additional costs for patients and other stakeholders.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "geographical_locations": [
+        "LOCATION1",
+        "LOCATION2"
+      ],
+      "economic_evaluation_methods": [
+        "METHOD1",
+        "METHOD2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "CONDITION2",
+      "Severe mental illness",
+      "General mental health",
+      "CONDITION1"
+    ],
+    "Intervention_Type": [
+      "INTERVENTION1",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "INTERVENTION2"
+    ],
+    "Outcome_Measures": [
+      "OUTCOME1",
+      "Job retention",
+      "OUTCOME2",
+      "Employment rate",
+      "Income/earnings"
+    ]
+  }
+}

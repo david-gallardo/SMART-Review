@@ -1,0 +1,82 @@
+{
+  "Article_ID": 45,
+  "Article_Title": "Early interventions to prevent disability for workers with mental health conditions: Impacts from the DMIE",
+  "Abstract": "Background: As of 2011, over 9 million working-age adults were receiving federal disability benefits and this number is expected to rise steadily. Early intervention programs that seek to maintain employment and forestall the receipt of federal disability benefits offer a promising strategy to reduce the growing number of working-age adults on the disability rolls.Objectives: Using random assignment, this study examined whether an early intervention program of personal navigators, enhanced medical care, and employment supports can reduce dependence on federal disability benefits for adult workers with mental health conditions.Methods: The study reports multivariate and descriptive findings based on 2279 participants in the Demonstration to Maintain Independence and Employment ( DMIE). Logistic regression analysis was used to estimate program impacts in the treatment group relative to the control group. Data were integrated from state participant surveys and the SSA Ticket Research File.Results: The DMIE intervention significantly reduced the percent of participants who received disability benefits after 12 months of enrollment. Across both states, the difference between the treatment group and control group was 1.1 percentage points ( 2.5% versus 3.6%, p < 0.01). In Texas, the difference was 1.2 percentage points ( 3.2% versus 4.4%, p < 0.01).Conclusions: Early intervention programs with a personal navigator can reduce dependence on federal disability benefits for adult workers with mental health conditions. Future studies on the cost-effectiveness of such programs are needed. (C) 2014 Elsevier Inc. All rights reserved.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Dependence on federal disability benefits"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Other"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "CONDITION2",
+      "CONDITION1"
+    ],
+    "Intervention_Type": [
+      "INTERVENTION2",
+      "Return-to-work programs",
+      "Supported employment",
+      "INTERVENTION1",
+      "Other"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "OUTCOME2",
+      "OUTCOME1",
+      "Dependence on federal disability benefits"
+    ]
+  }
+}

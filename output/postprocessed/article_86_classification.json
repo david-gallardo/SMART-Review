@@ -1,0 +1,86 @@
+{
+  "Article_ID": 86,
+  "Article_Title": "Cost-utility and cost-effectiveness of individual placement support and cognitive remediation in people with severe mental illness: Results from a randomized clinical trial",
+  "Abstract": "Background: Administrators and policymakers are increasingly interested in individual placement and support (IPS) as a way of helping people with severe mental illness (SMI) obtain employment or education. It is thus important to investigate the cost-effectiveness to secure that resources are being used properly.Methods: In a randomized clinical trial, 720 people diagnosed with SMI were allocated into three groups; (a) IPS, (b) IPS supplemented with cognitive remediation a social skills training (IPSE), and (c) Service as usual (SAU). Health care costs, municipal social care costs, and labor market service costs were extracted from nationwide registers and combined with data on use of IPS services. Cost-utility and cost-effectiveness analyses were conducted with two primary outcomes: quality-adjusted life years (QALY) and hours in employment. Incremental cost-effectiveness ratios (ICER) were computed for both QALY, using participant's responses to the EQ-5D questionnaire, and for hours in employment.Results: Both IPS and IPSE were less costly, and more effective than SAU. Overall, there was a statistically significant cost difference of euro9,543 when comparing IPS with SAU and euro7,288 when comparing IPSE with SAU. ICER's did generally not render statistically significant results. However, there was a tendency toward the IPS and IPSE interventions being dominant, that is, cheaper with greater effect in health-related quality of life and hours in employment or education compared to usual care.Conclusion: Individual placement support with and without a supplement of cognitive remediation tends to be cost saving and more effective compared to SAU.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Individual Placement Support",
+        "Cognitive Remediation",
+        "Social Skills Training"
+      ],
+      "outcome_measures": [
+        "Health-related quality of life",
+        "Hours in employment",
+        "Quality-adjusted life years"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Severe mental illness",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Skills training",
+      "Social Skills Training",
+      "Supported employment",
+      "Individual Placement Support",
+      "Cognitive Remediation"
+    ],
+    "Outcome_Measures": [
+      "Hours in employment",
+      "Quality-adjusted life years",
+      "Quality of life",
+      "Work functioning",
+      "Health-related quality of life",
+      "Employment rate"
+    ]
+  }
+}

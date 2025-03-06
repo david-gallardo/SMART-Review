@@ -1,0 +1,77 @@
+{
+  "Article_ID": 145,
+  "Article_Title": "Is Supported Employment Effective for Young Adults with Disability Pension? Evidence from a Swedish Randomized Evaluation",
+  "Abstract": "We report results from a large-scale randomized experiment evaluating whether a supported employment rehabilitation intervention strategy can improve labor market opportunities for young adults on disability pension better than regular vocational rehabilitation. The supported employment intervention utilizes a caseworker as backup for the individual during training to reduce employers' risks when hiring an individual with unclear productivity. In total, 1,062 individuals were randomly assigned between interventions. The main results show that 18 months after the start of the project, participants with supported employment have work rates that are approximately ten percentage points higher than participants who received regular rehabilitation.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work rates"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Supported employment",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Work rates"
+    ]
+  }
+}

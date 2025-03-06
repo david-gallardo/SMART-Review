@@ -1,0 +1,71 @@
+{
+  "Article_ID": 89,
+  "Article_Title": "The Use of Standardized Discharge in IPS Supported Employment Programs",
+  "Abstract": "Objective: Some researchers have argued for using standardized discharge rules in individual placement and support (IPS) based on time of unemployment. To evaluate potential adverse outcomes of these rules, the authors examined time to first job over 24 months in a large randomized controlled study.Methods: This secondary analysis of 2,055 participants in the Mental Health Treatment Study, using bootstrapping and survival analysis, estimated and compared the likelihood of finding a first job in the IPS and control groups during each quarter over 24 months.Results: Although the likelihood of obtaining a first job declined over time, IPS recipients were more likely than participants in a control group to find first jobs for at least 18 months.Conclusions: Use of standardized discharge rules in IPS, based on initial periods of unemployment, may be cost-effective but would penalize recipients who respond more slowly. Natural attrition may be a more sensitive and ethical way to create capacity.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Job retention"
+    ]
+  }
+}

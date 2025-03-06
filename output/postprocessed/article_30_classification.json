@@ -1,0 +1,82 @@
+{
+  "Article_ID": 30,
+  "Article_Title": "The Impact of Job Accommodations on Employment Outcomes Among Individuals With Psychiatric Disabilities",
+  "Abstract": "Objective: This study aimed to fill a gap in the literature on effectiveness of employment accommodations by comparing employment outcomes for individuals with psychiatric disabilities who received or did not receive accommodations, with models informed by a conceptual approach blending static labor supply theory, Sen's capability approach, and the International Classification of Functioning. Methods: Data for the study came from-a longitudinal, four-year eight-state multisite demonstration project funded by the U.S. Department of Health and Human Services' Substance Abuse and Mental Health Services Administration. All participants had been recruited from clinical populations receiving outpatient psychiatric services. The effects of job accommodations on hours worked were assessed with generalized linear modeling (N=1,538). The effects of job accommodations on duration of employment were assessed with a parametric duration model analysis (N=1,040) that incorporated multiple spells of employment among individuals over the study period. Results: Controlling for covariates suggested by the conceptual model, analyses showed that individuals who reported job accommodations on average worked 7.68 more hours per month and those who reported receiving accommodations worked 31% longer, with each job accommodation reported decreasing the risk of job termination by nearly 13%. Conclusions: Results demonstrate that job accommodations show potential to improve employment outcomes for individuals with psychiatric disabilities receiving supported employment services, indicating that job accommodations should be stressed in policy and continuing education efforts for program staff and clients.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Psychiatric disabilities"
+      ],
+      "intervention_type": [
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Hours worked",
+        "Duration of employment",
+        "Risk of job termination"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Workplace accommodations",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Psychiatric disabilities"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Duration of employment",
+      "Job retention",
+      "Hours worked",
+      "Risk of job termination",
+      "Employment rate",
+      "Income/earnings"
+    ]
+  }
+}

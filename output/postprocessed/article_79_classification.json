@@ -1,0 +1,82 @@
+{
+  "Article_ID": 79,
+  "Article_Title": "Implementation of Individual Placement and Support in Italy: The Reggio Emilia Experience",
+  "Abstract": "Individual placement and support (IPS) is an evidence-based intervention helping people with mental illness to obtain competitive jobs. In the last decade, European mental health leaders were interested on its implementation. Aim of the study was to assess the IPS feasibility in Italian patients with moderate-to-severe mental illness. To date, no evaluation of IPS has been conducted exclusively in Italy. Participants (n = 95) were clients of community mental health centers of the Reggio Emilia Department of Mental Health. In addition to drop-out rates, we calculated job acquisition, job duration, and total hours per week worked. A crude competitive employment rate of 41.1% and a crude drop-out rate of 30.5% were found over 42-month follow-up period. Using a Kaplan-Meyer survival analysis, the cumulative employment rate increased up to 44% at 12 months and 61% both at 24 and 42 months. This study documents the feasibility of an implementation strategy for introducing the IPS model in the public mental health care system in Italy.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job duration",
+        "Total hours per week worked"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Quasi-experimental (Non-randomized studies with a control group)",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Job duration"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Multiple specific conditions"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support",
+      "Supported employment",
+      "Return-to-work programs"
+    ],
+    "Outcome_Measures": [
+      "Total hours per week worked",
+      "Employment rate",
+      "Job duration",
+      "Job retention"
+    ]
+  }
+}

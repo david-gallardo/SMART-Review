@@ -1,0 +1,87 @@
+{
+  "Article_ID": 12,
+  "Article_Title": "Cost-Effectiveness of a Problem-Solving Intervention Aimed to Prevent Sickness Absence among Employees with Common Mental Disorders or Occupational Stress",
+  "Abstract": "The cost-benefit and cost-effectiveness of a work-directed intervention implemented by the occupational health service (OHS) for employees with common mental disorders (CMD) or stress related problems at work were investigated. The economic evaluation was conducted in a two-armed clustered RCT. Employees received either a problem-solving based intervention (PSI;n= 41) or care as usual (CAU;n= 59). Both were work-directed interventions. Data regarding sickness absence and production loss at work was gathered during a one-year follow-up. Bootstrap techniques were used to conduct a Cost-Benefit Analysis (CBA) and a Cost-Effectiveness Analysis (CEA) from both an employer and societal perspective. Intervention costs were lower for PSI than CAU. Costs for long-term sickness absence were higher for CAU, whereas costs for short-term sickness absence and production loss at work were higher for PSI. Mainly due to these costs, PSI was not cost-effective from the employer's perspective. However, PSI was cost-beneficial from a societal perspective. CEA showed that a one-day reduction of long-term sickness absence costed on average euro101 for PSI, a cost that primarily was borne by the employer. PSI reduced the socio-economic burden compared to CAU and could be recommended to policy makers. However, reduced long-term sickness absence, i.e., increased work attendance, was accompanied by employees perceiving higher levels of production loss at work and thus increased the cost for employers. This partly explains why an effective intervention was not cost-effective from the employer's perspective. Hence, additional adjustments and/or support at the workplace might be needed for reducing the loss of production at work.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Common mental disorders",
+        "Occupational stress"
+      ],
+      "intervention_type": [
+        "Problem-solving intervention",
+        "Care as usual"
+      ],
+      "outcome_measures": [
+        "Sickness absence",
+        "Production loss at work"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Other",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Common mental disorders",
+      "Occupational stress"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Other",
+      "Skills training",
+      "Supported employment",
+      "Problem-solving intervention",
+      "Care as usual"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Job retention",
+      "Income/earnings",
+      "Employment rate",
+      "Sickness absence",
+      "Production loss at work"
+    ]
+  }
+}

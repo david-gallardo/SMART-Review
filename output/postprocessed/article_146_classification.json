@@ -1,0 +1,72 @@
+{
+  "Article_ID": 146,
+  "Article_Title": "Predictors of Employment for People With Mental Illness: Results of a Multicenter Randomized Trial on the Effectiveness of Placement Budgets for Supported Employment",
+  "Abstract": "Background: Individual placement and support (IPS) has proven to be effective for vocational outcomes in people with mental illness. The original concept of IPS requires temporally unlimited provision of support. Using limited placement budgets and investigating factors that predict their effectiveness may inform decisions about resource allocation.Methods: A range of patient characteristics were tested as predictors of employment outcomes in participants who attended six outpatient psychiatric clinics in Switzerland between June 2010 and May 2011. Overall, 116 patients with the full spectrum of psychiatric conditions were randomly assigned and started an IPS intervention, which was provided by three different placement budgets. Support lasted 2 years for those who found a job, and outcomes were repeatedly assessed over 3 years. The intervention ended for those who failed to find competitive employment by the time their placement budget had run out.Results: Of the 15 variables tested, only Global Assessment of Functioning (GAF) and Clinical Global Impression (CGI) scores were predictors for obtaining work (for >= 1 day) and for maintaining it over a longer period (>3 months). Higher GAF and lower CGI scores increased the odds of obtaining employment and keeping it for at least 3 months. Functional role impairment, quality of life, self-esteem, or education level did not predict employment.Conclusion: Our data suggest that, if time-restricted budgets are offered to a wide range of patients, such as those included in this study, better functioning and lower symptom severity at baseline are predictive of better employment outcomes (finding and maintaining work) on the first (competitive) labor market in Switzerland. It remains to be investigated whether this holds true under different environmental factors.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate"
+    ]
+  }
+}

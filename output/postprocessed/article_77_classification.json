@@ -1,0 +1,86 @@
+{
+  "Article_ID": 77,
+  "Article_Title": "A randomized controlled multicenter trial of individual placement and support for patients with moderate-to-severe mental illness",
+  "Abstract": "Objectives The aim of this study was to evaluate the effectiveness of individual placement and support (IPS) for people struggling with work participation due to moderate-to-severe mental illness. The study was conducted in Norway, a setting characterized by a comprehensive welfare system and strong employment protection legislation.Methods A randomized controlled multicenter trial including 410 participants was conducted. The intervention group received IPS according to the IPS manual. The control group received high-quality usual care. The main outcome was competitive employment at 12- and 18-months follow-up, based on objective registry data. Changes in mental health and health-related quality of life were secondary outcomes.Results At 12-months follow-up, 36.6% of participants in the IPS group and 27.1% of participants in the control group were in competitive employment, while the difference was slightly higher (37.4% versus 27.1%) at 18-months follow-up. Furthermore, IPS yielded positive effects on all the secondary outcomes compared to the control group (all P<0.05).Conclusions The IPS model of supported employment was superior to high-quality usual care on both vocational and non-vocational outcomes for people with moderate-to-severe mental illness, even in a policy context characterized by high job security and a comprehensive welfare system.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Moderate-to-severe mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "moderate-to-severe mental illness"
+      ],
+      "intervention_type": [
+        "individual placement and support"
+      ],
+      "outcome_measures": [
+        "competitive employment",
+        "mental health improvement",
+        "health-related quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "moderate-to-severe mental illness",
+      "General mental health",
+      "Moderate-to-severe mental illness"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support",
+      "individual placement and support",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Work functioning",
+      "Quality of life",
+      "competitive employment",
+      "Employment rate",
+      "health-related quality of life",
+      "Mental health improvement",
+      "mental health improvement"
+    ]
+  }
+}

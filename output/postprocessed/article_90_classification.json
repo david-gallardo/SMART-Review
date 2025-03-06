@@ -1,0 +1,81 @@
+{
+  "Article_ID": 90,
+  "Article_Title": "Fidelity and IPS: does quality of implementation predict vocational outcomes over time for organizations treating persons with severe mental illness in the Netherlands?",
+  "Abstract": "Purpose Individual placement and support (IPS) is an evidence-based supported employment intervention. Quality of IPS implementation is assessed using a validated fidelity scale. Previous studies found a positive association between fidelity and employment outcomes at a single time-point. This study examines the longitudinal associations between IPS fidelity scores and employment outcomes. Methods We examined fidelity and employment outcome data for 27 IPS programs in the Netherlands providing IPS. These programs received at least one fidelity assessment and reported quarterly employment outcomes for at least one year to a central registry between 2014 and 2019. We first examined changes over time for fidelity and employment outcome. Then we analyzed the longitudinal associations between the quarterly employment outcomes and the IPS fidelity assessments on multiple time-points using a mixed-model analysis for the 17 programs with at least two fidelity assessments. Results Both IPS fidelity and employment outcomes improved over time, with the largest improvement in employment outcomes achieved after 18 months of implementation. We found a significant positive longitudinal association between IPS-fidelity and employment. Conclusions Improvement of fidelity is associated with improvement of employment outcomes over time. Future research should be focused on the improvement of specific elements of IPS implementation and their influence on employment outcomes.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "QUASI-EXPERIMENTAL",
+      "mental_health_condition": [
+        "SEVERE MENTAL ILLNESS"
+      ],
+      "intervention_type": [
+        "IPS"
+      ],
+      "outcome_measures": [
+        "EMPLOYMENT RATE",
+        "JOB RETENTION",
+        "MENTAL HEALTH IMPROVEMENT"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Severe mental illness",
+      "General mental health",
+      "Schizophrenia",
+      "SEVERE MENTAL ILLNESS"
+    ],
+    "Intervention_Type": [
+      "IPS",
+      "Individual Placement and Support (IPS)",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "MENTAL HEALTH IMPROVEMENT",
+      "Job retention",
+      "JOB RETENTION",
+      "Employment rate",
+      "EMPLOYMENT RATE"
+    ]
+  }
+}

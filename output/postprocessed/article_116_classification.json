@@ -1,0 +1,81 @@
+{
+  "Article_ID": 116,
+  "Article_Title": "Job Endings and Work Trajectories of Persons Receiving Supported Employment and Cognitive Remediation",
+  "Abstract": "Objective: This study examined job endings and work trajectories among participants in a study comparing the effects of adding cognitive remediation to supported employment among individuals who had not benefited from supported employment.Methods: Data were from a controlled trial of 107 persons with serious mental illness enrolled in supported employment but who had not obtained or sustained competitive work. Participants were randomly assigned to enhanced supported employment only (with employment specialists trained to recognize cognitive difficulties and teach coping strategies) or to the Thinking Skills for Work program (enhanced supported employment plus cognitive remediation). For the 52 participants who worked, the two groups were compared on types of job endings, reasons for job endings, successful versus unsuccessful jobs, and work trajectories over the two-year study period.Results: The two groups did not differ in types of job ending, although participants in Thinking Skills for Work were less likely than those in enhanced supported employment only to cite dissatisfaction with the job as a reason for the job ending. Participants in Thinking Skills for Work were also less likely to have an overall unsuccessful work trajectory, more likely to have only successful jobs, and more likely to be employed at the end of the study.Conclusions: The Thinking Skills for Work program appeared to help participants who had not benefited from supported employment stick with and master their jobs more effectively than those in enhanced supported employment only, resulting in better work trajectories over the course of the study.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Serious mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Cognitive remediation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Serious mental illness",
+      "Schizophrenia",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Skills training",
+      "Cognitive remediation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Work functioning"
+    ]
+  }
+}

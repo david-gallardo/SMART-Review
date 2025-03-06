@@ -1,0 +1,85 @@
+{
+  "Article_ID": 112,
+  "Article_Title": "Improving Work Outcome in Supported Employment for Serious Mental Illness: Results From 2 Independent Studies of Errorless Learning",
+  "Abstract": "Background: Heterogeneity in work outcomes is common among individuals with serious mental illness (SMI). Objective: In 2 studies, we sought to examine the efficacy of adding errorless learning, a behavioral training intervention, to evidence-based supported employment to improve SMI work outcomes. Work behavior problems were targeted for intervention. We also explored associations between early work behavior and job tenure. Methods: For both studies (VA: n = 71; community mental health center: n = 91), randomization occurred at the time of job obtainment with participants randomized (1:1) to either errorless learning plus ongoing supported employment or ongoing supported employment alone and then followed for 12 months. Dependent variables included job tenure, work behavior, and hours worked and wages earned per week. For the primary intent-to-treat analyses, data were combined across studies. Results: Findings revealed that participants in the errorless learning plus supported employment group stayed on their jobs significantly longer than those in the supported employment alone group (32.8 vs 25.6 wk). In addition, differential treatment effects favoring errorless learning were found on targeted work behavior problems (50.5% vs 27.4% improvement from baseline to follow-up assessment). There were no other differential treatment effects. For the prediction analyses involving work behavior, social skills explained an additional 18.3% of the variance in job tenure beyond levels of cognition, symptom severity, and past work history. Conclusions: These data support errorless learning as an adjunctive intervention to enhance supported employment outcomes and implicate the relevance of workplace social difficulties as a key impediment to prolonged job tenure.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Serious Mental Illness"
+      ],
+      "intervention_type": [
+        "Supported Employment",
+        "Errorless Learning"
+      ],
+      "outcome_measures": [
+        "Job Tenure",
+        "Work Behavior",
+        "Hours Worked and Wages Earned"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Job retention",
+        "Work functioning",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Schizophrenia",
+      "Serious Mental Illness"
+    ],
+    "Intervention_Type": [
+      "Supported Employment",
+      "Supported employment",
+      "Errorless Learning",
+      "Skills training"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Income/earnings",
+      "Hours Worked and Wages Earned",
+      "Work Behavior",
+      "Work functioning",
+      "Job Tenure"
+    ]
+  }
+}

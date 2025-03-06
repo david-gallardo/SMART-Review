@@ -1,0 +1,84 @@
+{
+  "Article_ID": 121,
+  "Article_Title": "Vocational rehabilitation in early psychosis: cluster randomised trial",
+  "Abstract": "Background Individual placement and support (IPS) is effective in helping patients return to work but is poorly implemented because of clinical ambivalence and fears of relapse.Aims To assess whether a motivational intervention (motivational interviewing) directed at clinical staff to address ambivalence about employment improved patients' occupational outcomes.Method Two of four early intervention teams that already provided IPS were randomised to receive motivational interviewing training for clinicians, focused on attitudinal barriers to employment. The trial was registered with the International Standard Randomised Controlled Trial Register (ISRCTN71943786).Results Of 300 eligible participants, 159 consented to the research. Occupational outcomes were obtained for 134 patients (85%) at 12-month follow-up. More patients in the intervention teams than in the IPS-only teams achieved employment by 12 months (29/68 V. 12/66). A random effects logistic regression accounting for clustering by care coordinator, and adjusted for participants' gender, ethnicity, educational and employment history and clinical status scores, confirmed superiority of the intervention (odds ratio=4.3, 95% Cl 1.5-16.6).Conclusions Employment outcomes were enhanced by addressing clinicians' ambivalence about their patients returning to work.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Motivational interviewing"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "early psychosis"
+      ],
+      "intervention_type": [
+        "vocational rehabilitation",
+        "motivational interviewing"
+      ],
+      "outcome_measures": [
+        "employment rate",
+        "job retention"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "early psychosis",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "motivational interviewing",
+      "Motivational interviewing",
+      "vocational rehabilitation",
+      "Vocational rehabilitation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "employment rate",
+      "Job retention",
+      "Employment rate",
+      "job retention"
+    ]
+  }
+}

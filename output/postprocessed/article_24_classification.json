@@ -1,0 +1,94 @@
+{
+  "Article_ID": 24,
+  "Article_Title": "Vocational Outcomes of the Individual Placement and Support Model in Subgroups of Diagnoses, Substance Abuse, and Forensic Conditions: A Systematic Review and Analysis of Pooled Original Data",
+  "Abstract": "Purpose To investigate the effect of Individual Placement and Support (IPS) according to diagnoses of schizophrenia, bipolar disorder, major depression, substance use disorders, or forensic psychiatric conditions. Methods A systematic search of the literature was conducted in June 2017 and repeated in December 2020. The systematic review included 13 studies. Analyses of pooled original data were based on the six studies providing data (n = 1594). No studies on forensic psychiatric conditions were eligible. Hours and weeks worked were analyzed using linear regression. Employment, and time to employment was analyzed using logistic regression, and cox-regression, respectively. Results The effects on hours and weeks in employment after 18 months were comparable for participants with schizophrenia, and bipolar disorder but only statistically significant for participants with schizophrenia compared to services as usual (SAU) (EMD 109.1 h (95% CI 60.5-157.7), 6.1 weeks (95% CI 3.9-8.4)). The effect was also significant for participants with any drug use disorder (121.2 h (95% CI 23.6-218.7), 6.8 weeks (95% CI 1.8-11.8)). Participants with schizophrenia, bipolar disorder, and any drug use disorder had higher odds of being competitively employed (OR 2.1 (95% CI 1.6-2.7); 2.4 (95% CI 1.3-4.4); 3.0 (95% CI 1.5-5.8)) and returned to work faster than SAU (HR 2.1 (95% CI 1.6-2.6); 1.8 (95% CI 1.1-3.1); 3.0 (95% CI 1.6-5.7)). No statistically significant effects were found regarding depression. Conclusions IPS was effective regarding schizophrenia, bipolar disorder, and substance use disorder; however, the effect on hours, and weeks worked was not statistically significant regarding bipolar disorder. For people with depression the impact of IPS remains inconclusive. Non-significant results may be due to lack of power. Trial Registration: PROSPERO protocol nr. CRD42017060524",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar disorder",
+        "Depression",
+        "Substance use disorders"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS) model"
+      ],
+      "outcome_measures": [
+        "Hours worked",
+        "Weeks worked",
+        "Employment rate",
+        "Time to employment"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar",
+        "Depression",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar",
+        "Depression",
+        "Other"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Bipolar",
+      "Substance use disorders",
+      "Other",
+      "Multiple specific conditions",
+      "Bipolar disorder",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Individual Placement and Support (IPS) model"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Weeks worked",
+      "Time to employment",
+      "Work functioning",
+      "Job retention",
+      "Hours worked"
+    ]
+  }
+}

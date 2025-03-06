@@ -1,0 +1,75 @@
+{
+  "Article_ID": 26,
+  "Article_Title": "Does Individual Placement and Support Satisfy the Users' Needs?",
+  "Abstract": "This study aims to investigate clients' satisfaction with individual placement and support (IPS) at the University Hospital for Psychiatry Zurich (PUK). Furthermore, this study aims to investigate if clients feel the approach of IPS as a useful approach to fulfill their needs. One hundred twenty-five people were recruited from one of the three IPS services of PUK and were asked to complete a structured questionnaire. The following IPS services were available: (i) randomized controlled trial (RCT) ZHEPP (www.zhepp.ch), (ii) RCT ZInEP (www.zinep.ch), and (iii) us clinical supported employment service of PUK (IPS-PUK). The clients mostly indicated that IPS was generally useful and fitted their needs. Overall satisfaction of the participants with the IPS services of the PUK was very high. Furthermore, client satisfaction and symptom severity are inversely associated. In conclusion, participants of the IPS services received the support they were looking for. This means that the approach of IPS fits the needs of different patient groups and can be used without any modifications. The most important limitation is the unequal group sizes. Therefore, the obtained results need to be strengthened by future research.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Client satisfaction",
+        "Symptom severity"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Other (clinical supported employment service)"
+      ],
+      "outcome_measures": [
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Mental health improvement",
+        "Multiple outcomes"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Other (clinical supported employment service)",
+      "Individual Placement and Support",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Client satisfaction",
+      "Symptom severity",
+      "Multiple outcomes",
+      "Mental health improvement"
+    ]
+  }
+}

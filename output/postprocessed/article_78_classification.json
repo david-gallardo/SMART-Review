@@ -1,0 +1,86 @@
+{
+  "Article_ID": 78,
+  "Article_Title": "Effectiveness of Individual Placement and Support for People With Severe Mental Illness in the Netherlands: A 30-Month Randomized Controlled Trial",
+  "Abstract": "Objective: Whereas in the U.S. and Canada the Individual Placement and Support (IPS) model has proven to be highly effective in enhancing employment perspectives for persons with severe mental illnesses, the evidence base is less abundant in countries with a different socioeconomic climate. The aim of this study was to examine the effectiveness of IPS in the Dutch socioeconomic context. Method: A multisite randomized controlled trial was performed following 151 persons with severe mental illnesses expressing an explicit wish for regular employment, comparing IPS with traditional vocational rehabilitation (TVR). Primary outcome was the proportion of persons who were competitively employed over a period of 30 months. Secondary outcomes were self-reported quality of life, self-esteem and mental health. Additionally, the impact of being engaged in competitive employment on these secondary outcomes was examined. Results: In 30 months, 44% of IPS participants found competitive work, compared with 25% of participants supported by TVR. No direct effect of IPS on mental health, self-esteem or quality of life was found. Being competitively employed before follow-up measurements was significantly associated with an increase in mental health, self-esteem and quality of life. Conclusions and Implications for Practice: This study strongly confirms that IPS is an effective method in helping people with severe mental illnesses find competitive work also in countries characterized by a relatively protective socioeconomic climate putting up unintended barriers to employment. The implementation of IPS on a larger scale seems warranted, and new studies are needed on the mechanisms through which IPS works.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Severe mental illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Self-reported quality of life",
+        "Self-esteem",
+        "Mental health improvement"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Severe mental illness",
+      "General mental health",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS)",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Return-to-work programs"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Self-esteem",
+      "Quality of life",
+      "Self-reported quality of life",
+      "Employment rate"
+    ]
+  }
+}

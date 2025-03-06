@@ -1,0 +1,90 @@
+{
+  "Article_ID": 141,
+  "Article_Title": "Long-Term Effects of the Individual Placement and Support Intervention on Employment Status: 6-Year Follow-Up of a Randomized Controlled Trial",
+  "Abstract": "People with mental illness often experience difficulties with reintegration into the workplace, although employment is known to assist these individuals in their recovery process. Traditional approaches of first train, then place have been recently replaced by supported employment (SE) methods that carry strategy of first place, then train. Individual placement and support (IPS) is one of the best-studied methods of SE, which core principles are individualized assistance in rapid job search with consequent placement in a paid employment position. A considerable amount of high-quality evidence supported the superiority of IPS over conventional methods in providing improved employment rates, longer job tenure, as well as higher salaries in competitive job markets. Nonetheless, our knowledge about the IPS-mediated long-term effects is limited. This non-interventional follow-up study of a previously published randomized controlled trial (RCT) called ZhEPP aimed to understand the long-term impact of IPS after 6 years since the initial intervention. Participants from the ZhEPP trial, where 250 disability pensioners with mental illnesses were randomized into either IPS intervention group or treatment as usual group (TAU), were invited to face-to-face interviews, during which employment status, job tenure, workload, and salaries were assessed. One hundred and fourteen individuals agreed to participate in this follow-up study. Although during the first 2 years post-intervention, the IPS group had higher employment rates (40% (IPS) vs. 28% (TAU), p < 0.05 at 24 months), these differences disappeared by the time of follow-up assessments (72 months). The results indicated no substantial differences in primary outcome measures between IPS and TAU groups: employment rate (36 vs. 33%), workload (10.57 vs. 10.07 h per week), job tenure (29 vs. 28 months), and salary (20.21CHF vs. 25.02 CHF). These findings provide important insights regarding the long-term effects of IPS among individuals with mental health illnesses. Further research is required to advance the current knowledge about IPS intervention and its years-long impact.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Individual Placement and Support"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job tenure",
+        "Workload",
+        "Salary"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Anxiety",
+      "Depression",
+      "Bipolar",
+      "Schizophrenia",
+      "Personality disorders"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Income/earnings",
+      "Salary",
+      "Job tenure",
+      "Job retention",
+      "Workload"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "Article_ID": 58,
+  "Article_Title": "Efectividad de una estrategia de apoyo individualizado al empleo para personas con trastornos mentales graves",
+  "Abstract": "Abstract Objective To assess the effectiveness of an individual placement and support (IPS) strategy in people with severe mental disorders in Tenerife Island (Spain). Methods Patients of Community Mental Health Services with severe mental disorders were randomly assigned to two groups. One of them received IPS (n=124), and the control group (n=75) was advised in the usual job search. Patients were followed up for an average of 3.4 years and an analysis was made of how many patients worked at least one day, working hours, wages, the number of contracts and the number of hospital admissions. Non-parametric methods were used to compare the results (Mann-Whitney U test). Results The percentage of patients who worked at least one day was 99% in the IPS group compared with 75% in the control group; they worked on average 30.1 weeks per year vs 7.4; the monthly salary was \u20ac 777.9 vs \u20ac 599.9; the number of contracts per person was 3.89 vs 4.85, and hospital admissions were 0.19 vs 2.1. Conclusions The IPS strategy is effective for the labour integration of people with severe mental illness getting them to work longer, have higher wages and fewer hospital admissions.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs",
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Job search assistance"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "severe mental disorders"
+      ],
+      "intervention_type": [
+        "individual placement and support"
+      ],
+      "outcome_measures": [
+        "employment rate",
+        "working hours",
+        "wages",
+        "number of contracts",
+        "hospital admissions"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Anxiety",
+      "Bipolar",
+      "Schizophrenia",
+      "Personality disorders",
+      "severe mental disorders",
+      "Depression",
+      "General mental health"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Job search assistance",
+      "Supported employment",
+      "Vocational rehabilitation",
+      "Skills training",
+      "Return-to-work programs",
+      "Individual Placement and Support (IPS)",
+      "individual placement and support"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Work functioning",
+      "wages",
+      "working hours",
+      "number of contracts",
+      "Quality of life",
+      "employment rate",
+      "Employment rate",
+      "hospital admissions",
+      "Income/earnings",
+      "Job retention"
+    ]
+  }
+}

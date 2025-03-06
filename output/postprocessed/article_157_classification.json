@@ -1,0 +1,104 @@
+{
+  "Article_ID": 157,
+  "Article_Title": "Effectiveness of employment-based interventions for persons experiencing homelessness: A systematic review",
+  "Abstract": "Employment is frequently desired by persons who experience homelessness yet is often elusive. Little is known about the range and effectiveness of employment-based interventions evaluated in existing literature on key psychosocial outcomes including employment participation, mental well-being, housing tenure, community integration and substance use. To identify and synthesise existing studies, we conducted a systematic review of effectiveness using the methodology proposed by the Joanna Briggs Institute (JBI) following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Following the removal of duplicates, we screened 13,398 titles and abstracts, and reviewed 79 studies at the full-text review stage using two independent raters. A total of 16 studies met criteria for inclusion in a narrative synthesis and were subjected to critical appraisal. The majority of studies were conducted in the US (n = 14; 87.5%) with other studies published in Canada (n = 1; 6.3%) and Australia (n = 1; 6.3%). Interventions evaluated in existing studies included combined substance use and vocational skills interventions (n = 7; 43.8%), supported employment (n = 6; 37.5%), and integrated supports including an employment component (n = 3; 18.8%). The effectiveness of these interventions on employment, mental well-being, housing tenure, community integration, and substance use is presented. Findings suggest that research evaluating employment interventions for persons who experience homelessness is in an early stage of development. Researchers and practitioners may consider collaborating with persons with lived experiences of homelessness and practitioners in co-designing and modifying existing approaches to target key outcomes more effectively. Policymakers may consider allocating resources to such initiatives to further the development of practice and research aimed at supporting persons who experience homelessness to secure and sustain employment during and following homelessness.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Combined substance use and vocational skills interventions",
+        "Integrated supports including an employment component"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental well-being",
+        "Housing tenure",
+        "Community integration",
+        "Substance use"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Mental health improvement"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Other"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Other",
+      "General mental health",
+      "CONDITION2",
+      "CONDITION1"
+    ],
+    "Intervention_Type": [
+      "Combined substance use and vocational skills interventions",
+      "Integrated supports including an employment component",
+      "INTERVENTION2",
+      "Supported employment",
+      "Skills training",
+      "Vocational rehabilitation",
+      "INTERVENTION1",
+      "Multiple interventions"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Substance use",
+      "Mental health improvement",
+      "Quality of life",
+      "OUTCOME1",
+      "Mental well-being",
+      "Community integration",
+      "Housing tenure",
+      "Employment rate",
+      "OUTCOME2"
+    ]
+  }
+}

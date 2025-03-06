@@ -1,0 +1,87 @@
+{
+  "Article_ID": 47,
+  "Article_Title": "Modifiable Predictors of Supported Employment Outcomes Among People With Severe Mental Illness",
+  "Abstract": "Objective: Among people with severe mental illnesses, neuropsychological abilities may contribute to vocational outcomes. such as job attainment, job tenure, and wages earned. The current study aimed to determine the strongest neuropsychological and other modifiable predictors of work outcomes in 153 people with severe mental illness (schizophrenia, 38%; bipolar disorder, 24%; and major depression, 38%) who participated in a 2-year supported employment study.Methods: Assessments of neuropsychological performance, functional capacity, social skills, and psychiatric symptom severity were administered at baseline; work outcomes (job attainment, weeks worked, and wages earned) were collected weekly for 2 years.Results: Independent of education, diagnosis, and estimated intellectual functioning, more recent work history and less severe negative symptoms significantly predicted job attainment during the 2-year study. Among the 47% who obtained jobs, better global neuropsychological performance (i.e., lower global deficit score) was a significant predictor of greater weeks worked. Both global neuropsychological performance and more recent work history predicted higher wages earned.Conclusions: Modifiable predictors of supported employment outcomes included cognitive functioning and negative symptom severity; thus, interventions to improve these factors may improve work outcomes and decrease the loss of productivity associated with severe mental illness.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar disorder",
+        "Major depression"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Depression",
+      "Schizophrenia",
+      "Bipolar",
+      "Bipolar disorder",
+      "Major depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Work functioning",
+      "Income/earnings"
+    ]
+  }
+}

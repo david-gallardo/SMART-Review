@@ -1,0 +1,85 @@
+{
+  "Article_ID": 130,
+  "Article_Title": "Efficacy of a peer-led group program for unemployed people with mental health problems: Pilot randomized controlled trial",
+  "Abstract": "Background: People with long-term unemployment and mental health problems often find it difficult to take active steps toward help-seeking and job search and to navigate the complex system of available services. Likewise, job center staff would welcome interventions to improve the reintegration of long-term unemployed individuals with mental health problems into the labor market.Aim: To examine the efficacy of a peer-led group program that supports unemployed people with mental health problems in terms of help-seeking, job search and recovery.Methods: Based on participatory research, a four-session group program was designed and evaluated in a pilot randomized controlled trial (RCT) with 42 participants, randomized to the program (n=23) or treatment as usual (n=19). Outcomes were assessed at baseline (T0), 3weeks (T1), 6weeks (T2) and 6months later (T3).Results: There were no significant intervention effects on primary outcomes (job search self-efficacy and help-seeking). But compared to the control group, intervention participants showed significant improvements in depressive symptoms (p=.02) and recovery (p=.04) at T2 with medium effect sizes. There were trend-level positive program effects on self-stigma, hopelessness and secrecy.Conclusion: This pilot RCT provides initial evidence for the efficacy of a peer-led group program to improve symptoms and recovery among unemployed participants with mental health problems.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depressive symptoms",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Peer-led group program"
+      ],
+      "outcome_measures": [
+        "Depressive symptoms",
+        "Recovery"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Mental health improvement",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health",
+        "Depression"
+      ],
+      "intervention_type": [
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Depression",
+      "Depressive symptoms"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Skills training",
+      "Multiple interventions",
+      "Vocational rehabilitation",
+      "Peer-led group program"
+    ],
+    "Outcome_Measures": [
+      "Mental health improvement",
+      "Depressive symptoms",
+      "Work functioning",
+      "Recovery",
+      "Employment rate"
+    ]
+  }
+}

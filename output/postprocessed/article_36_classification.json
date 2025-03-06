@@ -1,0 +1,90 @@
+{
+  "Article_ID": 36,
+  "Article_Title": "Prevention of recurrent sickness absence in workers with common mental disorders: results of a cluster-randomised controlled trial",
+  "Abstract": "Objectives Workers with common mental disorders (CMDs) frequently experience recurrent sickness absence but interventions to prevent this are lacking. The goal of this study was to evaluate the effectiveness of the Stimulating Healthy participation And Relapse Prevention at work intervention in preventing recurrent sickness absence in workers who returned to work after sickness absence due to CMDs.Methods We performed a cluster-randomised controlled trial with 3 months, 6 months and 12months follow-up. Treatment providers were randomised to either a 2-day training in the Stimulating Healthy participation And Relapse Prevention at work intervention, that is, a problem-solving intervention, or usual care. Primary outcome measures were the incidence of recurrent sickness absence and time to recurrent sickness absence. Secondary outcome measures were mental health complaints, work functioning and coping behaviour.Results 80 participants were randomised in the intervention group and 78 in the control group. The adjusted OR for the incidence of recurrent sickness absence was 0.40 (95% CI 0.20 to 0.81) and the adjusted HR for time to recurrent sickness absence was 0.53 (95% CI 0.33 to 0.86) for the intervention group compared with care as usual.Conclusions This study demonstrates the 12-month effectiveness of a problem-solving intervention for reducing recurrent sickness absence in workers with CMDs and emphasises the importance of continuous attention in the post return to work phase for workers who have been on sickness absence due to CMDs.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Problem-solving intervention"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Other",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Common mental disorders"
+      ],
+      "intervention_type": [
+        "Stimulating Healthy participation And Relapse Prevention at work intervention"
+      ],
+      "outcome_measures": [
+        "Incidence of recurrent sickness absence",
+        "Time to recurrent sickness absence"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Common mental disorders",
+      "General mental health",
+      "Anxiety",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Return-to-work programs",
+      "Other",
+      "Skills training",
+      "Stimulating Healthy participation And Relapse Prevention at work intervention",
+      "Supported employment",
+      "Problem-solving intervention"
+    ],
+    "Outcome_Measures": [
+      "Incidence of recurrent sickness absence",
+      "Mental health improvement",
+      "Work functioning",
+      "Time to recurrent sickness absence",
+      "Employment rate"
+    ]
+  }
+}

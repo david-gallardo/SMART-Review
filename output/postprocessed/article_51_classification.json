@@ -1,0 +1,80 @@
+{
+  "Article_ID": 51,
+  "Article_Title": "Furthering the Evidence of the Effectiveness of Employment Strategies for People with Mental Disorders in Europe: A Systematic Review",
+  "Abstract": "(1) Purpose: This systematic review aims to assess the effectiveness of strategies used in the professional (re)integration of persons with mental disorders (MD) in European countries; (2) Methods: We conducted a search for scientific publications available in relevant electronic databases (Medline, PsycINFO, CDR-HTA, CDR-DARE, and Cochrane Library). The present study collected evidence on the effectiveness, from 2011 to 2016, of employment strategies for persons with MDs; (3) Results: A total of 18 studies were included, representing 5216 participants (aged 18-65, mean age of 38.5 years old) from 7 countries. Job access programs demonstrated effectiveness in four out of six studies. Return to work (RTW) interventions showed significant positive results in two studies, while four studies did not refer to effectiveness. There were inconsistent results in another four studies; (4) Conclusions: Our findings highlight the complexities of the implementation of employment strategies (job access and return to work). Job access strategies seem to improve employment outcomes. The effectiveness of return to work strategies remains unclear. The involvement and commitment of physicians, employment specialists, and employers, and employees capacity for self-care seem decisive for employment re-integration success. Further analyses are needed to assess the cost-effectiveness of these interventions and corroborate our results, with longer follow-ups.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health",
+        "Mental disorders"
+      ],
+      "intervention_type": [
+        "Employment strategies",
+        "Return to work interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Mental disorders"
+    ],
+    "Intervention_Type": [
+      "Return-to-work programs",
+      "Return to work interventions",
+      "Supported employment",
+      "Employment strategies"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Work functioning"
+    ]
+  }
+}

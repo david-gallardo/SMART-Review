@@ -1,0 +1,114 @@
+{
+  "Article_ID": 169,
+  "Article_Title": "Psychosocial Interventions for Adults With Schizophrenia: An Overview and Update of Systematic Reviews",
+  "Abstract": "Objective: The authors of this systematic review (SR) sought to provide evidence for effects of commonly used psychosocial interventions on several outcomes among adults with schizophrenia.Methods: MEDLINE, the Cochrane Library, and PsycINFO databases were searched through July 2020. Eligible studies were SRs and trials of at least 12 weeks duration and with >= 50 participants that compared psychosocial interventions with treatment as usual among adults with schizophrenia. Study design, year, setting, country, sample size, eligibility criteria, population, clinical and intervention characteristics, results, and funding source were extracted, along with quality criteria. The evidence was evaluated on quality and strength of evidence stratified by intervention area and outcome, according to the Evidence-Based Practice Centers Methods Guide of the Agency for Healthcare Research and Quality.Results: Nine SRs and 30 trials (N=23,921 patients) in 11 intervention areas were included. Trials were mostly of fair quality and had low-to-moderate strength of evidence. Compared with treatment as usual, most psychosocial interventions were more effective in improving intervention-targeted outcomes, including core illness symptoms. Compared with treatment as usual, assertive community treatment, cognitive-behavioral therapy (CBT), family interventions, psychoeducation, social skills training, supported employment, and early interventions for first-episode psychosis (FEP) improved various functional outcomes. CBT and early interventions for FEP improved quality of life. Family interventions, psychoeducation, illness self - management, and early interventions for FEP reduced relapse.Conclusions: Compared with treatment as usual, most psychosocial interventions improved functional outcomes, quality of life, and core illness symptoms, and several reduced relapse frequency among adults with schizophrenia.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Cognitive-behavioral therapy",
+        "Family interventions",
+        "Psychoeducation",
+        "Social skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Skills training",
+        "Vocational rehabilitation",
+        "Return-to-work programs"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Mental health improvement",
+        "Quality of life",
+        "Multiple outcomes"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "Schizoppheria"
+      ],
+      "intervention_type": [
+        "Assertive community treatment",
+        "Cognitive-behavioral therapy (CBT)",
+        "Family interventions",
+        "Psychoeducation",
+        "Social skills training",
+        "Supported employment",
+        "Early interventions for first-episode psychosis (FEP)"
+      ],
+      "outcome_measures": [
+        "Functional outcomes",
+        "Quality of life",
+        "Core illness symptoms",
+        "Relapse frequency"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Systematic review",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Schizoppheria"
+    ],
+    "Intervention_Type": [
+      "Cognitive-behavioral therapy (CBT)",
+      "Vocational rehabilitation",
+      "Psychoeducation",
+      "Family interventions",
+      "Return-to-work programs",
+      "Early interventions for first-episode psychosis (FEP)",
+      "Cognitive-behavioral therapy",
+      "Multiple interventions",
+      "Supported employment",
+      "Skills training",
+      "Assertive community treatment",
+      "Social skills training"
+    ],
+    "Outcome_Measures": [
+      "Functional outcomes",
+      "Work functioning",
+      "Multiple outcomes",
+      "Job retention",
+      "Core illness symptoms",
+      "Relapse frequency",
+      "Quality of life",
+      "Employment rate",
+      "Mental health improvement"
+    ]
+  }
+}

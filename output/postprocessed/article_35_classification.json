@@ -1,0 +1,122 @@
+{
+  "Article_ID": 35,
+  "Article_Title": "Evaluation of Individual Placement and Support at Three Community Mental Health Centers in California",
+  "Abstract": "Individual Placement and Support (IPS) has been shown to effectively help people with serious mental illness obtain competitive employment, and IPS programs have been established in over 40 U.S. states and at least 20 other countries. As this expansion continues, the field needs data describing IPS implementation, clients, fidelity, and outcomes in real-world, non-research settings, specifically regarding racial and ethnic disparities and young adults. The goal of this study was to observe the initial three years of IPS implementation, measuring fidelity, client characteristics, and employment outcomes in three mental health agencies in one California county. In 2018, officials in one California county contracted with the IPS Center to provide training and measure IPS program fidelity at three mental health agencies in a large urban area. The goal was to establish and maintain IPS programs with good fidelity and effectiveness. After an initial year of preparation, three mental health programs recruited unemployed clients with interest in employment and implemented IPS. An IPS trainer provided initial training, ongoing consultation, and measured program fidelity. The program clinicians documented client characteristics, IPS service use, and quarterly employment throughout 13 quarters. The project followed 351 mental health clients as they participated in three new supported employment programs over a three-year period. The average client age was 36 years, including 107 (31%) young adults (ages 18-25) and 244 older adults (ages 26+); 177 (50%) identified their gender as female, 173 as male, and 1 as other or declined to answer; 119 (36%) identified as Hispanic, 116 (35%) as non-Hispanic White, 42 (13%) as non-Hispanic Asian, 35 (11%) as non-Hispanic Black, and 20 (6%) as other non-Hispanic. Most clients (78%) had diagnoses of non-psychotic conditions such as anxiety or depression, and 22% had diagnoses of schizophrenia, schizoaffective, or other psychotic disorder. During the project, 312 (87%) engaged in supported employment services, 206 (58%) attained competitive employment, and 177 (50%) found their first job within nine months of enrolling. Hispanics (64%), Asians (57%), and non-Hispanic Blacks (77%) achieved higher employment rates than non-Hispanic Whites (49%). Young adults (73%) achieved higher employment rates than older adults (51%). Engaging in new IPS supported employment programs over several months led to high rates of competitive employment across all groups in real-world, non-research settings, typically within nine months. Hispanics, Asians, and non-Hispanic Blacks achieved higher rates of competitive employment than non-Hispanic Whites, and young adults achieved higher rates than older adults. Further research may explain these differences.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health",
+        "Multiple specific conditions"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Job search assistance",
+        "Skills training",
+        "Workplace accommodations",
+        "Return-to-work programs",
+        "Multiple interventions"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Depression",
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "demographic_groups": {
+        "young_adults": "percentage",
+        "older_adults": "percentage",
+        "Hispanics": "percentage",
+        "non-Hispanic_Whites": "percentage",
+        "non-Hispanic_Blacks": "percentage",
+        "Asians": "percentage"
+      },
+      "employment_outcomes_analysis": "Brief analysis of the employment outcomes in relation to the demographic groups mentioned in the study."
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "CONDITION2",
+      "CONDITION1",
+      "Anxiety",
+      "Schizophrenia",
+      "Bipolar",
+      "General mental health",
+      "Personality disorders",
+      "Multiple specific conditions",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Workplace accommodations",
+      "Job search assistance",
+      "INTERVENTION2",
+      "Skills training",
+      "Return-to-work programs",
+      "Vocational rehabilitation",
+      "Supported employment",
+      "Multiple interventions",
+      "INTERVENTION1"
+    ],
+    "Outcome_Measures": [
+      "OUTCOME1",
+      "Income/earnings",
+      "Quality of life",
+      "Employment rate",
+      "Mental health improvement",
+      "Work functioning",
+      "Job retention",
+      "OUTCOME2"
+    ]
+  }
+}

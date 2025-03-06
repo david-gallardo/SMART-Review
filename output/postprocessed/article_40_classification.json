@@ -1,0 +1,73 @@
+{
+  "Article_ID": 40,
+  "Article_Title": "Comparing predictors of employment in Individual Placement and Support: A longitudinal analysis",
+  "Abstract": "Individual Placement and Support (IPS) is an evidence-based model of supported employment for people with serious mental illness. We assessed the effects and relative contributions of predictors of employment among IPS recipients using measures of baseline client characteristics, local economic context, and IPS fidelity. A recent work history, less time on the Social Security rolls, greater cognitive functioning, and a lower local unemployment rate were associated with greater probability of employment. The ability of the model to discriminate between outcomes was limited, and substantial improvements in our understanding of IPS employment outcomes will require the study of novel client, environmental, and IPS implementation factors.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Serious mental illness"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Systematic review",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Work functioning"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Serious mental illness"
+    ],
+    "Intervention_Type": [
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Work functioning",
+      "Employment rate"
+    ]
+  }
+}

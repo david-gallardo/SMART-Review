@@ -1,0 +1,83 @@
+{
+  "Article_ID": 33,
+  "Article_Title": "The impact of psychotic disorders and co-morbid substance abuse on vocational rehabilitation: results from an Australian national survey of psychosis",
+  "Abstract": "Introduction: It is unclear from prior research whether or not substance abuse co-morbid with psychosis is an added barrier to success in vocational rehabilitation. The aim of this study was to examine the relationships among three types of co-morbid substance abuse or dependence, by type of employment assistance received (disability employment services, mainstream unemployment services, other government programmes, and own resources), and by type of employment attained (competitive and non-competitive).Method: Data were drawn from the Australian National Survey of High Impact Psychosis (N=1825). The survey was conducted in seven Australian catchment areas March to December 2010. Descriptive statistics and logistic regression methods were used.Results: There were no added effects of lifetime substance abuse or dependence on any employment. However, there were some minor substance-specific effects. Past year cannabis use was negatively associated, while alcohol use was positively associated with being employed. All categories of lifetime substance abuse or dependence were associated with reduced utilisation of intensive forms of employment assistance.Conclusion: At a population level, lifetime substance abuse or dependence had no added impact on current employment status. Those with psychosis co-morbid with lifetime substance abuse or dependence could benefit from greater utilisation of evidence-based supported employment.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Psychotic disorders",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Work functioning"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Other"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Observational",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Other"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Systematic review (Systematic review or meta-analysis)",
+      "mental_health_condition": [
+        "Psychotic disorders"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Observational",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "General mental health",
+      "Personality disorders",
+      "Bipolar",
+      "Psychotic disorders",
+      "Other"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Work functioning",
+      "Job retention"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Article_ID": 161,
+  "Article_Title": "Is supported employment effective for Disability Insurance recipients with mental health conditions? Evidence from a randomized experiment in Belgium",
+  "Abstract": "We conduct a randomized experiment (n = 600) to evaluate a Supported Employment (SE) program that, through intensive job coaching and follow-along support, aims to increase work activity of Belgian Disability Insurance (DI) recipients with mental health conditions. The control group gets regular vocational rehabilitation. After a 30-month follow-up period, we find that SE increases the probability of working while claiming DI by 7.5 percentage points and reduces the amount of DI benefit received by 110 euros per month (-9.5 percent).",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Mental health conditions"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Quality of life",
+        "Reduced reliance on disability benefits"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "General mental health",
+      "Mental health conditions",
+      "Schizophrenia"
+    ],
+    "Intervention_Type": [
+      "Vocational rehabilitation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Employment rate",
+      "Income/earnings",
+      "Reduced reliance on disability benefits",
+      "Quality of life",
+      "Job retention"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Article_ID": 110,
+  "Article_Title": "Predictors of employment in people with moderate to severe mental illness participating in a randomized controlled trial of Individual Placement and Support (IPS)",
+  "Abstract": "Background: Many people with moderate to severe mental illness have a desire to obtain ordinary employment. To aid further development of health and social services for this group, the aim of this study was to examine candidate modifiable and prognostic markers of employment, and moderating effects of group allocation in a clinical trial. Method: The sample consists of 327 patients in treatment for mental illness, randomized to Individual Placement and Support (IPS) or treatment as usual (TAU) as part of a clinical trial. Psychosocial and demographic baseline characteristics were included as predictors in log binary regression analyses with employment 18 months after inclusion as the outcome, and group allocation as the moderator (IPS or TAU). Results: Directive emotional support and non-directive instrumental support seemed to positively predict employment, but effects were small. Involuntary hospitalization seemed to be a strong negative predictor of employment. Group allocation did not moderate any main effects. Conclusion: Interpretation of the findings suggest that attention should be given to certain aspects of health and social services provided to this target group, and in particular the effect of receiving appropriate types of social support. The findings are novel because social support and involuntary hospitalization do not seem to have been included in previous predictor studies. The results from this study identify new topics for research on employment outcomes for this population.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Bipolar",
+        "Personality disorders",
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation",
+        "Individual Placement and Support (IPS)",
+        "Job search assistance",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "General mental health"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Moderate to severe mental illness"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Moderate to severe mental illness",
+      "Bipolar",
+      "Anxiety",
+      "General mental health",
+      "Personality disorders",
+      "Depression"
+    ],
+    "Intervention_Type": [
+      "Supported employment",
+      "Skills training",
+      "Job search assistance",
+      "Individual Placement and Support (IPS)",
+      "Vocational rehabilitation"
+    ],
+    "Outcome_Measures": [
+      "Quality of life",
+      "Job retention",
+      "Mental health improvement",
+      "Work functioning",
+      "Employment rate",
+      "Income/earnings"
+    ]
+  }
+}

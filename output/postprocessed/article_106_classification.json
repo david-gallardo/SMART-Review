@@ -1,0 +1,81 @@
+{
+  "Article_ID": 106,
+  "Article_Title": "Effectiveness and Cost-Effectiveness of Individual Placement and Support (Ips) in Germany - A Controlled Trials with Individuals with Psychosis",
+  "Abstract": "Objective: To establish the effectiveness of Individual Placement and Support (IPS) to integrate people with mental illness into the general labor market, controlled comparisons with usual rehabilitative practice in terms of employment rates and cost-effectiveness are needed.Methods: 20 IPS participants with psychoses (primarily schizophrenia spectrum disorders) were compared with 20 controls who were offered usual rehabilitative practices in adjacent counties (rehabilitation as usual, RAU) over 18 months.Results: IPS was significantly superior to RAU on all job-related criteria with moderate to high effect sizes, with no differences in absenteeism, hospital days, or dropout rates. IPS was significantly superior to RAU on cost-effectiveness.Conclusion: This study provides evidence that IPS is an effective and cost-efficient addition to existing vocational rehabilitation services for people with psychoses.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Psychosis"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Cost-effectiveness"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Cost-effectiveness"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "Controlled Trials with Individuals with Psychosis",
+      "mental_health_condition": [
+        "Schizophrenia spectrum disorders"
+      ],
+      "intervention_type": [
+        "Individual Placement and Support (IPS)"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Cost-effectiveness"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia spectrum disorders",
+      "Schizophrenia",
+      "Psychosis"
+    ],
+    "Intervention_Type": [
+      "Individual Placement and Support (IPS)",
+      "Vocational rehabilitation",
+      "Supported employment"
+    ],
+    "Outcome_Measures": [
+      "Job retention",
+      "Employment rate",
+      "Cost-effectiveness",
+      "Income/earnings"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Article_ID": 153,
+  "Article_Title": "Exploring the potential cost-effectiveness of a vocational rehabilitation program for individuals with schizophrenia in a high-income welfare society",
+  "Abstract": "BackgroundOver the past decades research has shown that employment has a positive impact on quality of life, global functioning and recovery in individuals with schizophrenia. However, access to vocational rehabilitation services for this group is limited and unemployment rates remain high. In this study we explore the potential cost-effectiveness of a novel vocational rehabilitation program (The Job Management Program - JUMP) earmarked for individuals with schizophrenia in Norway.MethodsThe JUMP study was a vocational rehabilitation program augmented with either cognitive behaviour therapy or cognitive remediation. In addition to the JUMP protocol, we extracted treatment cost data from comprehensive and mandatory health and welfare registers. The costs over a two-year follow-up period were compared with the costs over the two-year period prior to inclusion in the study. We also compared the cost-effectiveness of JUMP with a treatment as usual group (TAU).ResultsWe identified significant reductions in inpatient services in the JUMP group, both for those who obtained employment and those who did not. Significant reductions were also found in the TAU group, but adjusted for baseline differences the total cost for JUMP participants were Euro 10,621 lower than in the TAU group during the follow-up period.ConclusionIn addition to supporting individuals with schizophrenia obtain employment, JUMP appears to have reduced the reliance on mental health services, which should be of interest to stakeholders.Trial registrationClinicalTrials.gov Identifier: NCT01139502. Retrospectively registered on 6 February 2010.",
+  "Model_Results": {
+    "llama-3.2-3b-instruct": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Mental health improvement",
+        "Costs"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Skills training"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Quality of life"
+      ]
+    },
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Quasi-experimental",
+      "mental_health_condition": [
+        "Schizophrenia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation",
+        "Cognitive behaviour therapy",
+        "Cognitive remediation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Income/earnings",
+        "Mental health improvement"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": [
+        "Systematic review (Systematic review or meta-analysis)"
+      ],
+      "mental_health_condition": [
+        "Schizopsychia"
+      ],
+      "intervention_type": [
+        "Vocational rehabilitation"
+      ],
+      "outcome_measures": [
+        "Employment rate",
+        "Job retention",
+        "Income/earnings",
+        "Work functioning",
+        "Mental health improvement",
+        "Quality of life"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "Quasi-experimental",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Schizopsychia"
+    ],
+    "Intervention_Type": [
+      "Cognitive behaviour therapy",
+      "Cognitive remediation",
+      "Vocational rehabilitation",
+      "Skills training"
+    ],
+    "Outcome_Measures": [
+      "Quality of life",
+      "Work functioning",
+      "Costs",
+      "Income/earnings",
+      "Job retention",
+      "Mental health improvement",
+      "Employment rate"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Article_ID": 83,
+  "Article_Title": "Increasing Earnings of Social Security Disability Income Beneficiaries with Serious Mental Disorder",
+  "Abstract": "Background: Persons with severe and persistent mental disorders (SPMD) have extremely low earnings levels and account for 29.1 percent of all U.S. Social Security Disability Income (SSDI) disabled worker beneficiaries under age 50. Social insurance and disability policy experts pointed to several factors that may contribute to this situation, including disincentives and obstacles in the SSDI program, as well as lack of access to evidence-based behavioral-health interventions. In response, the Social Security Administration (SSA) funded the Mental Health Treatment Study (MHTS) demonstration that included 2,238 beneficiaries of SSDI whose primary reason for disability is SPMD. The demonstration, implemented in 23 different localities, consisted of two evidence-based services (individual placement and support supported employment (IPS-SE), systematic medication management (SMM)), and provision or coverage of additional behavioral-health services (OBH).Study Aims: This study focused on estimating MHTS intervention effects on earnings in the intervention period (two-years). The main outcome variable was self-reported average monthly earnings.Methods: Subjects were randomly assigned to intervention or control groups. Data were drawn from the baseline survey, seven follow-up quarterly surveys, a final follow-up survey, and SSA administrative data. In all surveys, respondents were asked about earnings prior to the interview. Dependent variables were average past-30-days earnings reported in all follow-up surveys, similar averages for the first four follow-ups and for the last four follow-ups, fraction of surveys with prior earnings above SSA's substantial gainful activity (SGA) threshold, and final-follow-up earnings for the past 90 days. Regression analyses compared earnings of intervention vs. control group subjects. Covariates included baseline values of: (i) beneficiary demographic and social characteristics; (ii) beneficiary physical and mental health indicators; (iii) beneficiary recipiency history; (iv) beneficiary pre-recruitment and baseline earnings; and (v) local labor-market unemployment rates.Results: Results show significant positive MITTS earnings impacts. Estimated annual increases of earnings range from $791 (based on the 2-year average) to $1,131 (based on the final quarter of Year 2). Effects on the fraction of quarters with earnings exceeding SGA are positive and significant but very small in magnitude.Discussion: The consistent increase in earnings impacts over the study period suggests the possibility of even larger impacts with longer-term interventions. The moderate size of the intervention impacts may partly be explained by a study population that already had an average of 9 years on SSDI, and whose labor-supply decisions continued to be affected by concerns about possible loss of benefits. Limitations are that (i) earnings effects of specific intervention components cannot be estimated since all treatment subjects received the same package of services, and (ii) study results may not generalize to the majority of the beneficiary population due to selection effects in beneficiaries' participation decisions.Implications: Replication of the MHTS on a broader scale should show similar positive earnings impacts for a substantial number of beneficiaries with characteristics similar to the study population. Future studies should consider reducing policy barriers to labor supply of persons with SPMD. Future studies should consider longer-term interventions, or at least measuring impacts for follow-up periods greater than two years.",
+  "Model_Results": {
+    "mistral-small-24b-instruct-2501": {
+      "study_design": "Error",
+      "mental_health_condition": [
+        "Error"
+      ],
+      "intervention_type": [
+        "Error"
+      ],
+      "outcome_measures": [
+        "Error"
+      ]
+    },
+    "llama-3.2-3b-instruct": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Serious Mental Disorder",
+        "Mental Disorder"
+      ],
+      "intervention_type": [
+        "Supported Employment",
+        "Systematic Medication Management"
+      ],
+      "outcome_measures": [
+        "Earnings",
+        "Fraction of surveys with prior earnings above SGA threshold"
+      ]
+    },
+    "qwen2.5-7b-instruct-1m": {
+      "study_design": "RCT",
+      "mental_health_condition": [
+        "Schizophrenia",
+        "Bipolar"
+      ],
+      "intervention_type": [
+        "Supported employment",
+        "Workplace accommodations"
+      ],
+      "outcome_measures": [
+        "Income/earnings"
+      ]
+    },
+    "phi-3-mini-4k-instruct": {
+      "study_design": "CATEGORY",
+      "mental_health_condition": [
+        "CONDITION1",
+        "CONDITION2"
+      ],
+      "intervention_type": [
+        "INTERVENTION1",
+        "INTERVENTION2"
+      ],
+      "outcome_measures": [
+        "OUTCOME1",
+        "OUTCOME2"
+      ],
+      "study_limitations": [
+        "LIMITATION1",
+        "LIMITATION2"
+      ]
+    }
+  },
+  "Global_Results": {
+    "Study_Design": "RCT",
+    "Mental_Health_Condition": [
+      "Schizophrenia",
+      "Serious Mental Disorder",
+      "CONDITION1",
+      "Mental Disorder",
+      "CONDITION2",
+      "Bipolar"
+    ],
+    "Intervention_Type": [
+      "Supported Employment",
+      "Systematic Medication Management",
+      "INTERVENTION1",
+      "Workplace accommodations",
+      "Supported employment",
+      "INTERVENTION2"
+    ],
+    "Outcome_Measures": [
+      "OUTCOME2",
+      "OUTCOME1",
+      "Income/earnings",
+      "Fraction of surveys with prior earnings above SGA threshold",
+      "Earnings"
+    ]
+  }
+}
