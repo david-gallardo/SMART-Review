@@ -42,15 +42,30 @@ python batch_processor.py [--parallel N] [--output OUTPUT_FILE] [--model MODEL_N
 - `--output OUTPUT_FILE` - Name of the output file (default: combined_summary.docx)
 - `--model MODEL_NAME` - Specify the LLM model to use
 
-### 3. Advanced Prompt Manager (`advanced_prompt_manager.py`)
+### 3. Chunked Batch Processor (`batch_processor_chunked.py`)
+
+Process large numbers of articles in smaller, manageable batches.
+
+**Usage:**
+```bash
+python batch_processor_chunked.py [--batch_size N] [--parallel M] [--model MODEL_NAME]
+```
+
+**Options:**
+- `--batch_size N` - Number of articles in each batch (default: 10)
+- `--parallel M` - Number of articles to process in parallel within each batch (default: 4)
+- `--model MODEL_NAME` - Specify the LLM model to use
+- `--api_url URL` - Custom LLM API URL if needed
+
+### 4. Advanced Prompt Manager (`advanced_prompt_manager.py`)
 
 Manages specialized prompts for different section types and research contexts.
 
-### 4. PDF Extraction Utilities (`pdf_extraction_utils.py`)
+### 5. PDF Extraction Utilities (`pdf_extraction_utils.py`)
 
 Specialized tools for extracting and cleaning text from scientific PDFs.
 
-### 5. Combined Summary Template Generator (`create_summary_template.py`)
+### 6. Combined Summary Template Generator (`create_summary_template.py`)
 
 Creates document templates for the final systematic review.
 
@@ -68,9 +83,25 @@ This module is designed to be used as part of the SMART-Review workflow. Typical
 # Process a batch of 4 articles in parallel
 python batch_processor.py --parallel 4 --model "mistral-small-24b-instruct-2501"
 
+# Process a large collection in smaller batches
+python batch_processor_chunked.py --batch_size 20 --model "llama-3.2-3b-instruct"
+
 # Generate a template for the final review
 python create_summary_template.py
 ```
+
+## Processing Large Collections
+
+For large collections of PDFs (100+ files), we recommend using the chunked batch processor:
+
+1. The chunked processor divides your articles into smaller batches for more manageable processing
+2. Each batch is processed sequentially, reducing memory usage and providing intermediate results
+3. Individual article summaries are saved after each is processed, so progress is not lost
+
+**Recommended batch sizes:**
+- Standard computer: 10-20 PDFs per batch
+- More powerful system: 20-30 PDFs per batch
+- System with limited resources: 5-10 PDFs per batch
 
 ## Configuring the Module
 
@@ -102,8 +133,8 @@ If you encounter issues:
 
 1. Check that PDFs are properly placed in the expected directory
 2. Verify the LLM API server is running and accessible
-3. For memory errors, reduce the number of parallel processes
-4. Consult the `batch_processor.log` file for detailed error information
+3. For memory errors, reduce the number of parallel processes or batch size
+4. Consult the log files (`batch_processor.log` or `batch_processor_chunked.log`) for detailed error information
 
 ## Integration with Other SMART-Review Modules
 
